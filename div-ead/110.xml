@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-10-09T18:00:28-04:00</eventdatetime>
+            <eventdatetime>2026-06-30T18:00:33-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  9, 2025 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -17874,7 +17874,7 @@
                id="ref1076"
                level="file">
                <did>
-                  <unittitle>﻿CIA and DOM (Division of Overseas Ministries); Clinton, President Bill; Columbus, Christopher; ﻿Communication; Communism; Computers; Congregational Christian Historical Society (CCHS)</unittitle>
+                  <unittitle>﻿CIA and DOM (Division of Overseas Ministries)</unittitle>
                   <container altrender="/repositories/4/top_containers/4769 /locations/9"
                              containerid="39002084398917"
                              id="aspace_ref1076_c1"
@@ -17882,7 +17882,126 @@
                              localtype="box">124</container>
                   <container id="aspace_ref1076_c2"
                              localtype="folder"
-                             parent="aspace_ref1076_c1">41-48</container>
+                             parent="aspace_ref1076_c1">41</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042714"
+               id="aspace_09c68ee8b508651c81cf0a9011f11086"
+               level="file">
+               <did>
+                  <unittitle>Clinton, President Bill</unittitle>
+                  <container altrender="/repositories/4/top_containers/4769 /locations/9"
+                             containerid="39002084398917"
+                             id="aspace_09c68ee8b508651c81cf0a9011f11086_c1"
+                             label="Mixed Materials"
+                             localtype="box">124</container>
+                  <container id="aspace_09c68ee8b508651c81cf0a9011f11086_c2"
+                             localtype="folder"
+                             parent="aspace_09c68ee8b508651c81cf0a9011f11086_c1">42</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042715"
+               id="aspace_59b41de258656c4909a82b369a69fb14"
+               level="file">
+               <did>
+                  <unittitle>Columbus, Christopher</unittitle>
+                  <container altrender="/repositories/4/top_containers/4769 /locations/9"
+                             containerid="39002084398917"
+                             id="aspace_59b41de258656c4909a82b369a69fb14_c1"
+                             label="Mixed Materials"
+                             localtype="box">124</container>
+                  <container id="aspace_59b41de258656c4909a82b369a69fb14_c2"
+                             localtype="folder"
+                             parent="aspace_59b41de258656c4909a82b369a69fb14_c1">43</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042716"
+               id="aspace_749bfb60f84aab9752c01c99ee3c7bd2"
+               level="file">
+               <did>
+                  <unittitle>Communication</unittitle>
+                  <container altrender="/repositories/4/top_containers/4769 /locations/9"
+                             containerid="39002084398917"
+                             id="aspace_749bfb60f84aab9752c01c99ee3c7bd2_c1"
+                             label="Mixed Materials"
+                             localtype="box">124</container>
+                  <container id="aspace_749bfb60f84aab9752c01c99ee3c7bd2_c2"
+                             localtype="folder"
+                             parent="aspace_749bfb60f84aab9752c01c99ee3c7bd2_c1">44</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042717"
+               id="aspace_201b1cd7cda41cabe1daca296a94fc85"
+               level="file">
+               <did>
+                  <unittitle>Communism</unittitle>
+                  <container altrender="/repositories/4/top_containers/4769 /locations/9"
+                             containerid="39002084398917"
+                             id="aspace_201b1cd7cda41cabe1daca296a94fc85_c1"
+                             label="Mixed Materials"
+                             localtype="box">124</container>
+                  <container id="aspace_201b1cd7cda41cabe1daca296a94fc85_c2"
+                             localtype="folder"
+                             parent="aspace_201b1cd7cda41cabe1daca296a94fc85_c1">45</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042718"
+               id="aspace_d7a7e5b5580dbd9626cb1f51ae77face"
+               level="file">
+               <did>
+                  <unittitle>Computers</unittitle>
+                  <container altrender="/repositories/4/top_containers/4769 /locations/9"
+                             containerid="39002084398917"
+                             id="aspace_d7a7e5b5580dbd9626cb1f51ae77face_c1"
+                             label="Mixed Materials"
+                             localtype="box">124</container>
+                  <container id="aspace_d7a7e5b5580dbd9626cb1f51ae77face_c2"
+                             localtype="folder"
+                             parent="aspace_d7a7e5b5580dbd9626cb1f51ae77face_c1">46</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042719"
+               id="aspace_8c77053f21e80add37d43a0259ffa794"
+               level="file">
+               <did>
+                  <unittitle>Congregational Christian Historical Society (CCHS)</unittitle>
+                  <unitdatestructured altrender="1997-2003" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1997">1997</fromdate>
+                        <todate standarddate="2003">2003</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4769 /locations/9"
+                             containerid="39002084398917"
+                             id="aspace_8c77053f21e80add37d43a0259ffa794_c1"
+                             label="Mixed Materials"
+                             localtype="box">124</container>
+                  <container id="aspace_8c77053f21e80add37d43a0259ffa794_c2"
+                             localtype="folder"
+                             parent="aspace_8c77053f21e80add37d43a0259ffa794_c1">47</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042720"
+               id="aspace_230377636a43ace2c519a1fdffed48e4"
+               level="file">
+               <did>
+                  <unittitle>Congregational Christian Historical Society (CCHS)</unittitle>
+                  <unitdatestructured altrender="circa 1980-1997"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1980">1980</fromdate>
+                        <todate standarddate="1997">1997</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4769 /locations/9"
+                             containerid="39002084398917"
+                             id="aspace_230377636a43ace2c519a1fdffed48e4_c1"
+                             label="Mixed Materials"
+                             localtype="box">124</container>
+                  <container id="aspace_230377636a43ace2c519a1fdffed48e4_c2"
+                             localtype="folder"
+                             parent="aspace_230377636a43ace2c519a1fdffed48e4_c1">48</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/35608"

@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-14T18:02:05-04:00</eventdatetime>
+            <eventdatetime>2026-06-30T18:00:42-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday May 14, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -264,23 +264,87 @@
                   </daterange>
                </unitdatestructured>
             </did>
-            <c altrender="/repositories/4/archival_objects/33275"
-               id="ref12"
+            <c altrender="/repositories/4/archival_objects/4042733"
+               id="aspace_c68be2c00571d04b5d817cfdee6e2383"
                level="file">
                <did>
                   <unittitle>Yenching years</unittitle>
-                  <unitdatestructured altrender="1932-1950" label="creation" unitdatetype="inclusive">
+                  <unitdatestructured altrender="1932-1939" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1932">1932</fromdate>
-                        <todate standarddate="1950">1950</todate>
+                        <todate standarddate="1939">1939</todate>
                      </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/4508 /locations/9"
                              containerid="39002038423829"
-                             id="aspace_ref12_c1"
+                             id="aspace_c68be2c00571d04b5d817cfdee6e2383_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
-                  <container id="aspace_ref12_c2" localtype="folder" parent="aspace_ref12_c1">1-4</container>
+                  <container id="aspace_c68be2c00571d04b5d817cfdee6e2383_c2"
+                             localtype="folder"
+                             parent="aspace_c68be2c00571d04b5d817cfdee6e2383_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042734"
+               id="aspace_110f24312844a7796369a6b4b4eb7623"
+               level="file">
+               <did>
+                  <unittitle>Yenching years</unittitle>
+                  <unitdatestructured altrender="1941-1943" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1941">1941</fromdate>
+                        <todate standarddate="1943">1943</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4508 /locations/9"
+                             containerid="39002038423829"
+                             id="aspace_110f24312844a7796369a6b4b4eb7623_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_110f24312844a7796369a6b4b4eb7623_c2"
+                             localtype="folder"
+                             parent="aspace_110f24312844a7796369a6b4b4eb7623_c1">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042735"
+               id="aspace_c40c74ba5ac9d3675608399231a39dc0"
+               level="file">
+               <did>
+                  <unittitle>Yenching years</unittitle>
+                  <unitdatestructured altrender="1944, 1946-1949"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1944">1944</fromdate>
+                        <todate standarddate="1949">1949</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4508 /locations/9"
+                             containerid="39002038423829"
+                             id="aspace_c40c74ba5ac9d3675608399231a39dc0_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_c40c74ba5ac9d3675608399231a39dc0_c2"
+                             localtype="folder"
+                             parent="aspace_c40c74ba5ac9d3675608399231a39dc0_c1">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4042736"
+               id="aspace_436f7a49ef24e4168436038c0f04db7a"
+               level="file">
+               <did>
+                  <unittitle>Yenching years</unittitle>
+                  <unitdatestructured altrender="1950" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1950">1950</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4508 /locations/9"
+                             containerid="39002038423829"
+                             id="aspace_436f7a49ef24e4168436038c0f04db7a_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_436f7a49ef24e4168436038c0f04db7a_c2"
+                             localtype="folder"
+                             parent="aspace_436f7a49ef24e4168436038c0f04db7a_c1">4</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/33276"

@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-16T18:02:57-04:00</eventdatetime>
+            <eventdatetime>2026-06-30T18:00:41-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 16, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -214,10 +214,12 @@
                   level="file">
                   <did>
                      <unittitle>Merrill Isely to family in the U.S.</unittitle>
-                     <unitdatestructured altrender="1919-1923" label="creation" unitdatetype="inclusive">
+                     <unitdatestructured altrender="1919 January-1920 December"
+                                         label="creation"
+                                         unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="1919">1919</fromdate>
-                           <todate standarddate="1923">1923</todate>
+                           <fromdate standarddate="1919-01">1919 January</fromdate>
+                           <todate standarddate="1920-12">1920 December</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/4901 /locations/9"
@@ -225,7 +227,279 @@
                                 id="aspace_ref12_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
-                     <container id="aspace_ref12_c2" localtype="folder" parent="aspace_ref12_c1">1-13</container>
+                     <container id="aspace_ref12_c2" localtype="folder" parent="aspace_ref12_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042721"
+                  id="aspace_0f826f0343ef9e757b276baf72aba6dc"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1921 January-May"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-01">1921 January</fromdate>
+                           <todate standarddate="1921-05">1921 May</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_0f826f0343ef9e757b276baf72aba6dc_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_0f826f0343ef9e757b276baf72aba6dc_c2"
+                                localtype="folder"
+                                parent="aspace_0f826f0343ef9e757b276baf72aba6dc_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042722"
+                  id="aspace_d2d0ec2abdc6c43a0c6373b0e5f259e0"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1921 June-August"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-06">1921 June</fromdate>
+                           <todate standarddate="1921-08">1921 August</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_d2d0ec2abdc6c43a0c6373b0e5f259e0_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_d2d0ec2abdc6c43a0c6373b0e5f259e0_c2"
+                                localtype="folder"
+                                parent="aspace_d2d0ec2abdc6c43a0c6373b0e5f259e0_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042723"
+                  id="aspace_b282611887d942fb6c83290ad66fb2b1"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1921 September-October"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-09">1921 September</fromdate>
+                           <todate standarddate="1921-10">1921 October</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_b282611887d942fb6c83290ad66fb2b1_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_b282611887d942fb6c83290ad66fb2b1_c2"
+                                localtype="folder"
+                                parent="aspace_b282611887d942fb6c83290ad66fb2b1_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042724"
+                  id="aspace_3a996b51429ac9b0fc361b525d287fe7"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1921 November-December"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-11">1921 November</fromdate>
+                           <todate standarddate="1921-12">1921 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_3a996b51429ac9b0fc361b525d287fe7_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_3a996b51429ac9b0fc361b525d287fe7_c2"
+                                localtype="folder"
+                                parent="aspace_3a996b51429ac9b0fc361b525d287fe7_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042725"
+                  id="aspace_e8e35cd466eaef1ddfc4d8ecb2cd1c1a"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1922 January-April"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-01">1922 January</fromdate>
+                           <todate standarddate="1922-04">1922 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_e8e35cd466eaef1ddfc4d8ecb2cd1c1a_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_e8e35cd466eaef1ddfc4d8ecb2cd1c1a_c2"
+                                localtype="folder"
+                                parent="aspace_e8e35cd466eaef1ddfc4d8ecb2cd1c1a_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042726"
+                  id="aspace_c3ecdc021cb9ed7282ecbdd42a199a10"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1922 May-June" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-05">1922 May</fromdate>
+                           <todate standarddate="1922-06">1922 June</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_c3ecdc021cb9ed7282ecbdd42a199a10_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_c3ecdc021cb9ed7282ecbdd42a199a10_c2"
+                                localtype="folder"
+                                parent="aspace_c3ecdc021cb9ed7282ecbdd42a199a10_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042727"
+                  id="aspace_a698b4d151ecf7cd5b38c42e6d9c0439"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1922 July-October"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-07">1922 July</fromdate>
+                           <todate standarddate="1922-10">1922 October</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_a698b4d151ecf7cd5b38c42e6d9c0439_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_a698b4d151ecf7cd5b38c42e6d9c0439_c2"
+                                localtype="folder"
+                                parent="aspace_a698b4d151ecf7cd5b38c42e6d9c0439_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042728"
+                  id="aspace_15c42215bf2abee393c83674c5f2ab65"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1922 November-December"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-11">1922 November</fromdate>
+                           <todate standarddate="1922-12">1922 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_15c42215bf2abee393c83674c5f2ab65_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_15c42215bf2abee393c83674c5f2ab65_c2"
+                                localtype="folder"
+                                parent="aspace_15c42215bf2abee393c83674c5f2ab65_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042729"
+                  id="aspace_6fffd7de7305bb46257a8d6518938638"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1923 January-April"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-01">1923 January</fromdate>
+                           <todate standarddate="1923-04">1923 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_6fffd7de7305bb46257a8d6518938638_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_6fffd7de7305bb46257a8d6518938638_c2"
+                                localtype="folder"
+                                parent="aspace_6fffd7de7305bb46257a8d6518938638_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042730"
+                  id="aspace_d9cca728b52797c97d6f96b7338625ef"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1923 May-July" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-05">1923 May</fromdate>
+                           <todate standarddate="1923-07">1923 July</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_d9cca728b52797c97d6f96b7338625ef_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_d9cca728b52797c97d6f96b7338625ef_c2"
+                                localtype="folder"
+                                parent="aspace_d9cca728b52797c97d6f96b7338625ef_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042731"
+                  id="aspace_593d0048f3d1a899a63390b9ae07829e"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1923 August-October"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-08">1923 August</fromdate>
+                           <todate standarddate="1923-10">1923 October</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_593d0048f3d1a899a63390b9ae07829e_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_593d0048f3d1a899a63390b9ae07829e_c2"
+                                localtype="folder"
+                                parent="aspace_593d0048f3d1a899a63390b9ae07829e_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4042732"
+                  id="aspace_99f4882f0efd2dd7c18b98133a57d329"
+                  level="file">
+                  <did>
+                     <unittitle>Merrill Isely to family in the U.S.</unittitle>
+                     <unitdatestructured altrender="1923 November-December"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-11">1923 November</fromdate>
+                           <todate standarddate="1923-12">1923 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4901 /locations/9"
+                                containerid="39002035361238"
+                                id="aspace_99f4882f0efd2dd7c18b98133a57d329_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_99f4882f0efd2dd7c18b98133a57d329_c2"
+                                localtype="folder"
+                                parent="aspace_99f4882f0efd2dd7c18b98133a57d329_c1">13</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/36146"
