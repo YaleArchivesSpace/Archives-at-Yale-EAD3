@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T04:12:37-04:00</eventdatetime>
+            <eventdatetime>2026-07-01T03:02:11-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 04:12</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  1, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -115,7 +115,6 @@
       </did>
       <accessrestrict id="aspace_dc1246342e90c65d14887cee3fa8d815">
          <head>Conditions Governing Access</head>
-         <p>Original writings, folders 1-3, are available on microfilm. Patrons must use FILM HM 259 instead of the originals.</p>
          <p>The materials are open for research.</p>
       </accessrestrict>
       <acqinfo id="aspace_cd094f2a7bf5b859c1310baef63bfccb">
@@ -141,6 +140,10 @@
          <head>Biographical / Historical</head>
          <p>Charles Jeffery Smith was born near the village of Setauket, New York, on October 9, 1740. His father, Henry S. Smith, died in 1747, but the sizeable estate supported Charles's education at Yale College (Class of 1757) and enabled him to choose the life of an independently wealthy, itinerant Presbyterian minister. He spent part of 1760 and 1761 traveling in New Jersey, and by 1762 he had decided to become a missionary to the Native Americans. During the winter of 1762-1763, he taught in Reverend Eleazar Wheelock's Indian Charity School in the mountains of Connecticut. Soon after his ordination in Lebanon, Connecticut, in 1763, Smith set off on a mission to the Indians of the Six Nations in upstate New York. With the outbreak of Pontiac's Rebellion near Albany, New York, however, he had to alter his plans. For the rest of the summer he preached in small towns along the Hudson and in western Connecticut. He visited family and friends in Long Island during the fall of 1763. In November he embarked on another mission, this time spending six months in southern New Jersey, especially the Newark Mountains. In the summer of 1764, Smith returned to itinerant preaching in Connecticut, based in New Windsor. Soon he began his longest journey to date: to Maryland, Virginia, and North Carolina. Smith was the first dissenting minister granted permission by the governor to preach in Williamsburg, Virginia; at the request of some townspeople, he later published one of the sermons he delivered there. Wherever he stayed, he appealed to the citizens to unite into a "Society for the Reformation of Manners and Suppression of Vice." Smith prepared guidelines for these societies and had pamphlet versions printed in Williamsburg and Charleston, South Carolina. He returned to Long Island in the summer of 1765, married his first cousin Elizabeth Platt, and had a son, Elihu Platt Smith (Yale Class of 1785). Smith returned to the South to preach again, purchasing land in eastern Virginia. In August 1770 he returned to Long Island from one of his southern journeys, expecting to settle his affairs and move permanently with his family to Virginia. On the 10th of August, however, probably suffering from one of his recurrent bouts of severe headaches and depression, Smith shot and killed himself with a hunting gun during an afternoon walk in the woods.</p>
       </bioghist>
+      <altformavail id="aspace_2ff66d432921e8a6260ad60f47a9fce4">
+         <head>Existence and Location of Copies</head>
+         <p>Original writings, folders 1-3, are available on microfilm from Manuscripts and Archives, Yale University Library (HM 259).</p>
+      </altformavail>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85023475"
                   source="lcsh">
@@ -298,11 +301,6 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_b57f3223fc87365d375dae86340f2920"
-                               localtype="RestrictedFragileSpecColl">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 259 instead of the originals.</p>
-               </accessrestrict>
             </c>
             <c altrender="/repositories/12/archival_objects/1200257"
                id="ref16"
@@ -332,11 +330,6 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_50976d685a6661bb77dbeb3e174cb3f9"
-                               localtype="RestrictedFragileSpecColl">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 259 instead of the originals.</p>
-               </accessrestrict>
             </c>
             <c altrender="/repositories/12/archival_objects/1200258"
                id="ref17"
@@ -366,11 +359,6 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_867e6d0f7a07e341ffb93ff3a2962bf6"
-                               localtype="RestrictedFragileSpecColl">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 259 instead of the originals.</p>
-               </accessrestrict>
             </c>
             <c altrender="/repositories/12/archival_objects/1200259"
                id="ref18"

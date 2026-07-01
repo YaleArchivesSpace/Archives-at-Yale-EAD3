@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T03:08:08-04:00</eventdatetime>
+            <eventdatetime>2026-07-01T03:02:14-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 03:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  1, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -113,16 +113,12 @@
       </acqinfo>
       <accessrestrict id="aspace_479a224cb7932023fc916458756bfdac">
          <head>Conditions Governing Access</head>
-         <p>Diaries of Samuel Canby are available on microfilm. Patrons must use FILM HM 240 instead of the originals.</p>
+         <p>The materials are open for research.</p>
       </accessrestrict>
       <prefercite id="aspace_12200956590bcb2c944f51514fa9f8fa">
          <head>Preferred Citation</head>
          <p>Canby Family Papers. Manuscripts and Archives, Yale University Library.</p>
       </prefercite>
-      <relatedmaterial id="aspace_31f52e91ab38b0a93d8c2b20a863c2b5">
-         <head>Associated Materials</head>
-         <p>Diaries of Samuel Canby are available on microfilm (345 frames on 1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. Order no. HM240.</p>
-      </relatedmaterial>
       <bioghist id="aspace_2b0907e70c22710b2c059109ca7a215c">
          <head>Biographical / Historical</head>
          <p>Samuel Canby, 1751-1832: miller of Brandywine, Delaware, and a practicing Quaker. James Canby, 1781-1858: miller, entrepreneur, and banker in Wilmington and Brandywine, Delaware; president of the Wilmington and Susquehanna Railroad.</p>
@@ -135,6 +131,10 @@
          <head>Conditions Governing Use</head>
          <p>Unpublished materials authored or otherwise produced by the creator(s) of this collection are in the public domain. There are no restrictions on use. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
       </userestrict>
+      <altformavail id="aspace_f499cedf550851c28dc851f093bfa891">
+         <head>Existence and Location of Copies</head>
+         <p>Diaries of Samuel Canby are available on microfilm (345 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 240).</p>
+      </altformavail>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85018260"
                   source="lcsh">
@@ -197,11 +197,6 @@
                <did>
                   <unittitle>Diary</unittitle>
                </did>
-               <accessrestrict id="aspace_64fe81542d7ced3b64061ecba1387c2d"
-                               localtype="RestrictedFragileSpecColl">
-                  <head>Conditions Governing Access</head>
-                  <p>Diaries of Samuel Canby are available on microfilm. Patrons must use FILM HM 240 instead of the originals.</p>
-               </accessrestrict>
                <c altrender="/repositories/12/archival_objects/1352496"
                   id="ref14"
                   level="file">
@@ -221,10 +216,6 @@
                                 label="Mixed Materials"
                                 localtype="reel">1U</container>
                   </did>
-                  <accessrestrict id="aspace_0eb3e6e2947c411bf408e448c7c291ef" localtype="UseSurrogate">
-                     <head>Conditions Governing Access</head>
-                     <p>This material has been microfilmed. Patrons must use HM 240 instead of the originals.</p>
-                  </accessrestrict>
                </c>
                <c altrender="/repositories/12/archival_objects/1352497"
                   id="ref15"
@@ -245,10 +236,6 @@
                                 label="Mixed Materials"
                                 localtype="reel">1U</container>
                   </did>
-                  <accessrestrict id="aspace_d81dff2d33fa8e1b4d5eda42ac9b3957" localtype="UseSurrogate">
-                     <head>Conditions Governing Access</head>
-                     <p>This material has been microfilmed. Patrons must use HM 240 instead of the originals.</p>
-                  </accessrestrict>
                </c>
                <c altrender="/repositories/12/archival_objects/1352498"
                   id="ref16"
@@ -269,10 +256,6 @@
                                 label="Mixed Materials"
                                 localtype="reel">1U</container>
                   </did>
-                  <accessrestrict id="aspace_e2d68f8279fbbc4a2baf629fed386910" localtype="UseSurrogate">
-                     <head>Conditions Governing Access</head>
-                     <p>This material has been microfilmed. Patrons must use HM 240 instead of the originals.</p>
-                  </accessrestrict>
                </c>
             </c>
             <c altrender="/repositories/12/archival_objects/1352499"

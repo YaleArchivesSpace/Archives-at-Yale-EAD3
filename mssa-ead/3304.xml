@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T04:11:29-04:00</eventdatetime>
+            <eventdatetime>2026-07-01T03:02:13-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 04:11</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  1, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -115,10 +115,6 @@
          <head>Preferred Citation</head>
          <p>Louis Rinaldo Ehrich Papers (MS 1349). Manuscripts and Archives, Yale University Library.</p>
       </prefercite>
-      <relatedmaterial id="aspace_fd72e45b5094a53c9859b93e70397cac">
-         <head>Associated Materials</head>
-         <p>Diaries and scrapbook also available on microfilm (353 frames on 1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. Order no. HM148.</p>
-      </relatedmaterial>
       <arrangement id="aspace_8ffa790675edd30bbb7cc7d777f29885">
          <head>Arrangement</head>
          <p>Arranged by record type.</p>
@@ -143,14 +139,18 @@
          <head>Scope and Contents</head>
          <p>The papers consist of diaries (two volumes) describing Louis Ehrich's junior and senior years at Yale College and his participation in the life of the Jewish communities of New Haven and New York. Also included in the papers is a scrapbook of memorabilia of his student years at New Haven Hopkins Grammar School and Yale College, 1865-1869.</p>
       </scopecontent>
-      <accessrestrict id="aspace_f39ed27b67d735f05bc134ec29ee144d" localtype="UseSurrogate">
+      <accessrestrict id="aspace_f39ed27b67d735f05bc134ec29ee144d">
          <head>Conditions Governing Access</head>
-         <p>The entire collection is available on microfilm. Patrons must use HM 148 instead of the originals.</p>
+         <p>The materials are open for research.</p>
       </accessrestrict>
       <userestrict id="aspace_dc1b67ca35975f9d967123337e8f1bcf">
          <head>Conditions Governing Use</head>
          <p>Unpublished materials authored or otherwise produced by the creator(s) of this collection are in the public domain. There are no restrictions on use. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
       </userestrict>
+      <altformavail id="aspace_af2c283ce3b82f8915da9e9294564f33">
+         <head>Existence and Location of Copies</head>
+         <p>Diaries and scrapbook also available on microfilm (353 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 148).</p>
+      </altformavail>
       <controlaccess>
          <subject source="local">
             <part localtype="topical">Jews</part>

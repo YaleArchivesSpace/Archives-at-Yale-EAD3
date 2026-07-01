@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-11-06T03:06:44-05:00</eventdatetime>
+            <eventdatetime>2026-07-01T03:04:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November  6, 2025 at 03:06</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  1, 2026 at 03:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -24341,6 +24341,20 @@
                              parent="aspace_36b0f8c4abba51d8cb9ae80ea8a4f6ae_c1">4-7</container>
                </did>
             </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4042738"
+            id="aspace_c71d0d8552d3cc26d574bba025529eaa"
+            level="series">
+            <did>
+               <unittitle>Digital fact sheets</unittitle>
+               <unitid>Accession 2026-A-0045</unitid>
+               <unitdatestructured altrender="1995-2025" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1995">1995</fromdate>
+                     <todate standarddate="2025">2025</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
          </c>
       </dsc>
    </archdesc>
