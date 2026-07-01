@@ -1980,6 +1980,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.morgenthau.xml](13982.xml) | beinecke.morgenthau | GEN MSS 2165 | Henry Kissinger and Hans Morgenthau correspondence | 
  [beinecke.jamesscott.xml](13989.xml) | beinecke.jamesscott | GEN MSS 2166 | James C. Scott papers | 
  [beinecke.templetonrobert.xml](13990.xml) | beinecke.templetonrobert | JWJ MSS 33 | Robert Templeton drawings and sketches related to the trial of Bobby G. Seale and Ericka Huggins, New Haven, Connecticut | 
+ [beinecke.franzwright.xml](14004.xml) | beinecke.franzwright | YCAL MSS 1559 | Dzvinia Orlowsky collection of Franz Wright papers | 
  [beinecke.brigham.xml](14005.xml) | beinecke.brigham | WA MSS S-283 | Sarah Bishop Brigham papers | 
  [beinecke.dellenbaugh.xml](14007.xml) | beinecke.dellenbaugh | WA MSS S-2389  | Frederick Samuel Dellenbaugh journal and lantern slides from the Harriman Alaska Expedition | 
 

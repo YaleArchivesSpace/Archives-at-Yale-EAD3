@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-25T23:21:58-04:00</eventdatetime>
+            <eventdatetime>2026-06-30T23:01:00-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday June 25, 2026 at 23:21</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 23:01</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -8173,11 +8173,16 @@
                               <quantity>1</quantity>
                               <unittype>Videocassette (VHS)</unittype>
                            </physdescstructured>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>00:46:02</quantity>
+                              <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                           </physdescstructured>
                            <unitdatestructured altrender="1998 December 14"
                                                label="creation"
                                                unitdatetype="inclusive">
                               <datesingle standarddate="1998-12-14">1998 December 14</datesingle>
                            </unitdatestructured>
+                           <materialspec id="aspace_400f7167de54f7bb4abe519795085ac9">Aligned playback level to program, the source has no bars. Aligned audio level to program. HiFi audio is problematic on playback. Linear audio was captured. Channels 1 and 2 are mono.</materialspec>
                            <container altrender="/repositories/11/top_containers/333502 /locations/9"
                                       containerid="39002104811758"
                                       encodinganalog="archive legal"
@@ -8203,9 +8208,14 @@
                               <quantity>1</quantity>
                               <unittype>Videocassette (VHS)</unittype>
                            </physdescstructured>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>00:49:02</quantity>
+                              <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                           </physdescstructured>
                            <unitdatestructured label="creation" unitdatetype="inclusive">
                               <datesingle standarddate="1998-10-29">1998 October 29</datesingle>
                            </unitdatestructured>
+                           <materialspec id="aspace_7a936851a3730f6f3db7b697e93d3627">Aligned playback level to program, the source has no bars. Aligned audio level to program. HiFi audio is problematic on playback. Linear audio was captured. Channels 1 and 2 are mono.</materialspec>
                            <container altrender="/repositories/11/top_containers/333502 /locations/9"
                                       containerid="39002104811758"
                                       encodinganalog="archive legal"
@@ -8493,11 +8503,16 @@
                               <unittype>Videocassette (VHS)</unittype>
                            </physdescstructured>
                            <physdesc localtype="container_summary">1 VHS</physdesc>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>00:27:43</quantity>
+                              <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                           </physdescstructured>
                            <unitdatestructured label="creation" unitdatetype="inclusive">
                               <daterange>
                                  <fromdate standarddate="1989">1989</fromdate>
                               </daterange>
                            </unitdatestructured>
+                           <materialspec id="aspace_1123ca9b1f4eb1f74ff19f157fa7901b">Aligned playback level to bars at the head of the tape. Aligned audio levelto tone at the head of the tape. HiFi audio is problematic on playback. Linear audio was captured. Channel 1 stereo left. Channel 2 stereo right.</materialspec>
                            <container altrender="/repositories/11/top_containers/333502 /locations/9"
                                       containerid="39002104811758"
                                       encodinganalog="archive legal"

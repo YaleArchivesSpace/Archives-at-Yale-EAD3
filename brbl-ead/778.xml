@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-24T23:02:48-04:00</eventdatetime>
+            <eventdatetime>2026-06-30T23:01:25-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday June 24, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -8035,6 +8035,2216 @@
                   <head>Conditions Governing Access</head>
                   <p>Restricted fragile material. Reference copies of electronic files may be requested. Consult Access Services for further information.</p>
                </accessrestrict>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4033461"
+            id="aspace_3d2da762249a0fe0d45cb6a6a47bb226"
+            level="series">
+            <did>
+               <unittitle>September 1986 Acquisition</unittitle>
+               <unitid>Series XI</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>18.75</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(20 boxes)</physdesc>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1888">1888</fromdate>
+                     <todate standarddate="1986">1986</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <arrangement id="aspace_d694f1089cbd81525eadd982c32996c5">
+               <head>Arrangement</head>
+               <p>This accession is arranged into three groupings: Business records, 1909-1986; Printed material from Yale Library, 1938-1982; and Printing samples, 1888-1977.</p>
+            </arrangement>
+            <acqinfo id="aspace_ce386712e0570fec4cccb7d3fd904227">
+               <head>Immediate Source of Acquisition</head>
+               <p>Gift of Meriden-Stinehour Press, 1981-1986.</p>
+            </acqinfo>
+            <c altrender="/repositories/11/archival_objects/4033482"
+               id="aspace_0a8e6697dacb0ce163e650de56b8d6d6"
+               level="file">
+               <did>
+                  <unittitle>Business records</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1909">1909</fromdate>
+                        <todate standarddate="1986">1986</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <arrangement id="aspace_a73500cced5b32650741c9ecfd3bfb38">
+                  <head>Arrangement</head>
+                  <p>Materials in this grouping are arranged chronologically.</p>
+               </arrangement>
+               <scopecontent id="aspace_74fcf09a9713772fa6cc2888cbbafd0f">
+                  <head>Scope and Contents</head>
+                  <p>This grouping contains correspondence and financial records related to the operations of tge Meriden Gravure Company.</p>
+               </scopecontent>
+               <c altrender="/repositories/11/archival_objects/4033483"
+                  id="aspace_b277862984bf5876c6abbac40797eee0"
+                  level="file">
+                  <did>
+                     <unittitle>General correspondence</unittitle>
+                     <unitdatestructured altrender="1909-1986" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1909">1909</fromdate>
+                           <todate standarddate="1986">1986</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479368 /locations/9"
+                                containerid="39002104528758"
+                                encodinganalog="archive legal"
+                                id="aspace_b277862984bf5876c6abbac40797eee0_c1"
+                                label="Mixed Materials"
+                                localtype="box">376</container>
+                     <container id="aspace_b277862984bf5876c6abbac40797eee0_c2"
+                                localtype="folder"
+                                parent="aspace_b277862984bf5876c6abbac40797eee0_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033484"
+                  id="aspace_73b71abc2ecf04996d205ede4d9aae4b"
+                  level="file">
+                  <did>
+                     <unittitle>Ledger</unittitle>
+                     <unitdatestructured altrender="1964-1969" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1964">1964</fromdate>
+                           <todate standarddate="1969">1969</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479369 /locations/9"
+                                containerid="39002102346401"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_73b71abc2ecf04996d205ede4d9aae4b_c1"
+                                label="Mixed Materials"
+                                localtype="box">377</container>
+                     <container id="aspace_73b71abc2ecf04996d205ede4d9aae4b_c2"
+                                localtype="folder"
+                                parent="aspace_73b71abc2ecf04996d205ede4d9aae4b_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033485"
+                  id="aspace_9ece4257f4d6f1c048b3c504cd111de8"
+                  level="file">
+                  <did>
+                     <unittitle>Phototype Printing Press Type BE proposal</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479368 /locations/9"
+                                containerid="39002104528758"
+                                encodinganalog="archive legal"
+                                id="aspace_9ece4257f4d6f1c048b3c504cd111de8_c1"
+                                label="Mixed Materials"
+                                localtype="box">376</container>
+                     <container id="aspace_9ece4257f4d6f1c048b3c504cd111de8_c2"
+                                localtype="folder"
+                                parent="aspace_9ece4257f4d6f1c048b3c504cd111de8_c1">2</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4033486"
+               id="aspace_bca69185b1328bb66176675769088e4d"
+               level="file">
+               <did>
+                  <unittitle>Printed material from Yale Library</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1938">1938</fromdate>
+                        <todate standarddate="1982">1982</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <arrangement id="aspace_dde189920491f38e24750d97af77f5c0">
+                  <head>Arrangement</head>
+                  <p>Materials in this grouping are arranged chronologically.</p>
+               </arrangement>
+               <scopecontent id="aspace_210ed17ee3cbf04de91b2d7e222b2e59">
+                  <head>Scope and Contents</head>
+                  <p>This grouping contains volumes and records of the gift the Meriden Gravure Company made to the Yale Libraries.</p>
+               </scopecontent>
+               <c altrender="/repositories/11/archival_objects/4033487"
+                  id="aspace_89045a4149976864b561da86d0eb6441"
+                  level="file">
+                  <did>
+                     <unittitle>Gruen Jewelers</unittitle>
+                     <unitdatestructured altrender="1938" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1938">1938</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479370 /locations/9"
+                                containerid="39002102346500"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_89045a4149976864b561da86d0eb6441_c1"
+                                label="Mixed Materials"
+                                localtype="box">395</container>
+                     <container id="aspace_89045a4149976864b561da86d0eb6441_c2"
+                                localtype="folder"
+                                parent="aspace_89045a4149976864b561da86d0eb6441_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033488"
+                  id="aspace_e197bae7165dfead41737d1b537f9df8"
+                  level="file">
+                  <did>
+                     <unittitle>List of Visitors for War Department Army Service Forces, 1st Service Command</unittitle>
+                     <unitdatestructured altrender="1943-1959" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1943">1943</fromdate>
+                           <todate standarddate="1959">1959</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479368 /locations/9"
+                                containerid="39002104528758"
+                                encodinganalog="archive legal"
+                                id="aspace_e197bae7165dfead41737d1b537f9df8_c1"
+                                label="Mixed Materials"
+                                localtype="box">376</container>
+                     <container id="aspace_e197bae7165dfead41737d1b537f9df8_c2"
+                                localtype="folder"
+                                parent="aspace_e197bae7165dfead41737d1b537f9df8_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033489"
+                  id="aspace_ebf720cbdf6242faa8bf2417e59cefa4"
+                  level="file">
+                  <did>
+                     <unittitle>Lawrence Witten catalog five</unittitle>
+                     <unitdatestructured altrender="1962" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1962">1962</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479368 /locations/9"
+                                containerid="39002104528758"
+                                encodinganalog="archive legal"
+                                id="aspace_ebf720cbdf6242faa8bf2417e59cefa4_c1"
+                                label="Mixed Materials"
+                                localtype="box">376</container>
+                     <container id="aspace_ebf720cbdf6242faa8bf2417e59cefa4_c2"
+                                localtype="folder"
+                                parent="aspace_ebf720cbdf6242faa8bf2417e59cefa4_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033490"
+                  id="aspace_8abe2f29530dd6432e6f16b618e81232"
+                  level="file">
+                  <did>
+                     <unittitle>List of books given to Yale</unittitle>
+                     <unitdatestructured altrender="1970-1982" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1970">1970</fromdate>
+                           <todate standarddate="1982">1982</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479368 /locations/9"
+                                containerid="39002104528758"
+                                encodinganalog="archive legal"
+                                id="aspace_8abe2f29530dd6432e6f16b618e81232_c1"
+                                label="Mixed Materials"
+                                localtype="box">376</container>
+                     <container id="aspace_8abe2f29530dd6432e6f16b618e81232_c2"
+                                localtype="folder"
+                                parent="aspace_8abe2f29530dd6432e6f16b618e81232_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033491"
+                  id="aspace_6749febcb4b63dc357ae3ba2d31c4234"
+                  level="file">
+                  <did>
+                     <unittitle>Ingres: 24 Drawings</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479370 /locations/9"
+                                containerid="39002102346500"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_6749febcb4b63dc357ae3ba2d31c4234_c1"
+                                label="Mixed Materials"
+                                localtype="box">395</container>
+                     <container id="aspace_6749febcb4b63dc357ae3ba2d31c4234_c2"
+                                localtype="folder"
+                                parent="aspace_6749febcb4b63dc357ae3ba2d31c4234_c1">2</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4033492"
+               id="aspace_06edf77a62dc1cf37d5d7947b465efb5"
+               level="file">
+               <did>
+                  <unittitle>Printing samples</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1888">1888</fromdate>
+                        <todate standarddate="1977">1977</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <arrangement id="aspace_dad3eed23550b9a1819245f9248c5fd4">
+                  <head>Arrangement</head>
+                  <p>Materials in this grouping retain order found at acquisition.</p>
+               </arrangement>
+               <scopecontent id="aspace_3ef837e6a362e2614b9d004f3227c22a">
+                  <head>Scope and Contents</head>
+                  <p>This grouping contains printing samples and projects created by the Meriden Gravure Company.</p>
+               </scopecontent>
+               <c altrender="/repositories/11/archival_objects/4033493"
+                  id="aspace_0a08dbb4912f6fecdaeb6cb0eaf364d8"
+                  level="file">
+                  <did>
+                     <unittitle>"Adventures Ahead"</unittitle>
+                     <unitdatestructured altrender="1948" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1948">1948</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_0a08dbb4912f6fecdaeb6cb0eaf364d8_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_0a08dbb4912f6fecdaeb6cb0eaf364d8_c2"
+                                localtype="folder"
+                                parent="aspace_0a08dbb4912f6fecdaeb6cb0eaf364d8_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033494"
+                  id="aspace_118f3f2cbefaea8571a419ce44c3da6e"
+                  level="file">
+                  <did>
+                     <unittitle>"Anatomy of Animals"</unittitle>
+                     <unitdatestructured altrender="1946-1947" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1946">1946</fromdate>
+                           <todate standarddate="1947">1947</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_118f3f2cbefaea8571a419ce44c3da6e_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_118f3f2cbefaea8571a419ce44c3da6e_c2"
+                                localtype="folder"
+                                parent="aspace_118f3f2cbefaea8571a419ce44c3da6e_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033495"
+                  id="aspace_02781526e51effefc47a219aa995e86c"
+                  level="file">
+                  <did>
+                     <unittitle>The Ben Buckhurst Chronicles</unittitle>
+                     <unitdatestructured altrender="1955" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1955">1955</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_02781526e51effefc47a219aa995e86c_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_02781526e51effefc47a219aa995e86c_c2"
+                                localtype="folder"
+                                parent="aspace_02781526e51effefc47a219aa995e86c_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033496"
+                  id="aspace_2b6f4f395d751a9ba721b6cb3f4801d9"
+                  level="file">
+                  <did>
+                     <unittitle>Bestiary by Toulouse-Lautrec</unittitle>
+                     <unitdatestructured altrender="1954" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1954">1954</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_2b6f4f395d751a9ba721b6cb3f4801d9_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_2b6f4f395d751a9ba721b6cb3f4801d9_c2"
+                                localtype="folder"
+                                parent="aspace_2b6f4f395d751a9ba721b6cb3f4801d9_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033497"
+                  id="aspace_8f156153e404dcb8ee8b8a6fc641c19e"
+                  level="file">
+                  <did>
+                     <unittitle>Bookplates</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_8f156153e404dcb8ee8b8a6fc641c19e_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_8f156153e404dcb8ee8b8a6fc641c19e_c2"
+                                localtype="folder"
+                                parent="aspace_8f156153e404dcb8ee8b8a6fc641c19e_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033498"
+                  id="aspace_6327243c860dc867a851198379a6ca1b"
+                  level="file">
+                  <did>
+                     <unittitle>Catalog of Photographic Materials</unittitle>
+                     <unitdatestructured altrender="1888" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1888">1888</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_6327243c860dc867a851198379a6ca1b_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_6327243c860dc867a851198379a6ca1b_c2"
+                                localtype="folder"
+                                parent="aspace_6327243c860dc867a851198379a6ca1b_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033499"
+                  id="aspace_12d94f643154b0c3e435eca95f849138"
+                  level="file">
+                  <did>
+                     <unittitle>Color sample effects</unittitle>
+                     <unitdatestructured altrender="1937-1961" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1937">1937</fromdate>
+                           <todate standarddate="1961">1961</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_12d94f643154b0c3e435eca95f849138_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_12d94f643154b0c3e435eca95f849138_c2"
+                                localtype="folder"
+                                parent="aspace_12d94f643154b0c3e435eca95f849138_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033500"
+                  id="aspace_098a3512368180fe95aa4771fbed1112"
+                  level="file">
+                  <did>
+                     <unittitle>Currier, Anderson &amp; Geda, Inc.</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_098a3512368180fe95aa4771fbed1112_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_098a3512368180fe95aa4771fbed1112_c2"
+                                localtype="folder"
+                                parent="aspace_098a3512368180fe95aa4771fbed1112_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033501"
+                  id="aspace_0c44cf92c283d49d01a15344220ec52e"
+                  level="file">
+                  <did>
+                     <unittitle>The Donald Kirk David Fellowships</unittitle>
+                     <unitdatestructured altrender="1952" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1952">1952</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_0c44cf92c283d49d01a15344220ec52e_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_0c44cf92c283d49d01a15344220ec52e_c2"
+                                localtype="folder"
+                                parent="aspace_0c44cf92c283d49d01a15344220ec52e_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033502"
+                  id="aspace_38010cfbdb342646d984346e42cb11fb"
+                  level="file">
+                  <did>
+                     <unittitle>Eight Lithographics by Honoré Daumier</unittitle>
+                     <unitdatestructured altrender="1966" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1966">1966</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_38010cfbdb342646d984346e42cb11fb_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_38010cfbdb342646d984346e42cb11fb_c2"
+                                localtype="folder"
+                                parent="aspace_38010cfbdb342646d984346e42cb11fb_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033503"
+                  id="aspace_8e6795a4ee9927bb5ad9d5f216fef3b4"
+                  level="file">
+                  <did>
+                     <unittitle>Faber &amp; Schleicher</unittitle>
+                     <unitdatestructured altrender="1902" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1902">1902</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_8e6795a4ee9927bb5ad9d5f216fef3b4_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_8e6795a4ee9927bb5ad9d5f216fef3b4_c2"
+                                localtype="folder"
+                                parent="aspace_8e6795a4ee9927bb5ad9d5f216fef3b4_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033504"
+                  id="aspace_09a9e35657c28031c9019edabd445f73"
+                  level="file">
+                  <did>
+                     <unittitle>"Full-tone Collotype Printed Reproduction"</unittitle>
+                     <unitdatestructured altrender="1932 December" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1932-12">1932 December</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_09a9e35657c28031c9019edabd445f73_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_09a9e35657c28031c9019edabd445f73_c2"
+                                localtype="folder"
+                                parent="aspace_09a9e35657c28031c9019edabd445f73_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033505"
+                  id="aspace_f9a030de90649d92528757cb29e1029f"
+                  level="file">
+                  <did>
+                     <unittitle>"Full-tone Collotype as Printed on a Variety of Papers"</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_f9a030de90649d92528757cb29e1029f_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_f9a030de90649d92528757cb29e1029f_c2"
+                                localtype="folder"
+                                parent="aspace_f9a030de90649d92528757cb29e1029f_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033506"
+                  id="aspace_694fe6ec0005618321231e4cd975e284"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone reproductions</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_694fe6ec0005618321231e4cd975e284_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_694fe6ec0005618321231e4cd975e284_c2"
+                                localtype="folder"
+                                parent="aspace_694fe6ec0005618321231e4cd975e284_c1">14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033507"
+                  id="aspace_8ab61bfdff9cdf13739bf3228d8f218b"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone values: full-tone &amp; photographs</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_8ab61bfdff9cdf13739bf3228d8f218b_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_8ab61bfdff9cdf13739bf3228d8f218b_c2"
+                                localtype="folder"
+                                parent="aspace_8ab61bfdff9cdf13739bf3228d8f218b_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033508"
+                  id="aspace_b1fbefcdb7d0a2e14613b2f813c8a2ba"
+                  level="file">
+                  <did>
+                     <unittitle>"General Electric invites you to a career in advertising"</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_b1fbefcdb7d0a2e14613b2f813c8a2ba_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_b1fbefcdb7d0a2e14613b2f813c8a2ba_c2"
+                                localtype="folder"
+                                parent="aspace_b1fbefcdb7d0a2e14613b2f813c8a2ba_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033509"
+                  id="aspace_4b3cc95d01853b0715cde88e8a211715"
+                  level="file">
+                  <did>
+                     <unittitle>Hackley</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479371 /locations/9"
+                                containerid="39002104528766"
+                                encodinganalog="archive legal"
+                                id="aspace_4b3cc95d01853b0715cde88e8a211715_c1"
+                                label="Mixed Materials"
+                                localtype="box">378</container>
+                     <container id="aspace_4b3cc95d01853b0715cde88e8a211715_c2"
+                                localtype="folder"
+                                parent="aspace_4b3cc95d01853b0715cde88e8a211715_c1">17</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033510"
+                  id="aspace_38b2a34f28f144f5202beffd6ee3fb7a"
+                  level="file">
+                  <did>
+                     <unittitle>International Silver Company</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_38b2a34f28f144f5202beffd6ee3fb7a_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_38b2a34f28f144f5202beffd6ee3fb7a_c2"
+                                localtype="folder"
+                                parent="aspace_38b2a34f28f144f5202beffd6ee3fb7a_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033511"
+                  id="aspace_87e75edc2d0c3ec4c09d0cfac745587f"
+                  level="file">
+                  <did>
+                     <unittitle>Tropical by International Silver Company</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_87e75edc2d0c3ec4c09d0cfac745587f_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_87e75edc2d0c3ec4c09d0cfac745587f_c2"
+                                localtype="folder"
+                                parent="aspace_87e75edc2d0c3ec4c09d0cfac745587f_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033512"
+                  id="aspace_7a2fba428e951c7299e47b7067955ee8"
+                  level="file">
+                  <did>
+                     <unittitle>J.B. Parks pricing sheets</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_7a2fba428e951c7299e47b7067955ee8_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_7a2fba428e951c7299e47b7067955ee8_c2"
+                                localtype="folder"
+                                parent="aspace_7a2fba428e951c7299e47b7067955ee8_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033513"
+                  id="aspace_1c73501ccba42d7f195f6397d1301335"
+                  level="file">
+                  <did>
+                     <unittitle>J. Spencer Love Fellowships</unittitle>
+                     <unitdatestructured altrender="1957" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1957">1957</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_1c73501ccba42d7f195f6397d1301335_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_1c73501ccba42d7f195f6397d1301335_c2"
+                                localtype="folder"
+                                parent="aspace_1c73501ccba42d7f195f6397d1301335_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033514"
+                  id="aspace_1902ab8e94865a8a466ec5a542e5a032"
+                  level="file">
+                  <did>
+                     <unittitle>Lichtdruck-Schnnellpressell</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_1902ab8e94865a8a466ec5a542e5a032_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_1902ab8e94865a8a466ec5a542e5a032_c2"
+                                localtype="folder"
+                                parent="aspace_1902ab8e94865a8a466ec5a542e5a032_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033515"
+                  id="aspace_d0bc0b750bfc5b9d834f0634f78b1754"
+                  level="file">
+                  <did>
+                     <unittitle>Denver Art Museum material culture notes</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_d0bc0b750bfc5b9d834f0634f78b1754_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_d0bc0b750bfc5b9d834f0634f78b1754_c2"
+                                localtype="folder"
+                                parent="aspace_d0bc0b750bfc5b9d834f0634f78b1754_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033516"
+                  id="aspace_d703dffba60e0e4e8e8050b60fbb194a"
+                  level="file">
+                  <did>
+                     <unittitle>Meriden Gravure</unittitle>
+                     <unitdatestructured altrender="1946" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1946">1946</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_d703dffba60e0e4e8e8050b60fbb194a_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_d703dffba60e0e4e8e8050b60fbb194a_c2"
+                                localtype="folder"
+                                parent="aspace_d703dffba60e0e4e8e8050b60fbb194a_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033517"
+                  id="aspace_94c74a8ec129110942aef8d8dfab166a"
+                  level="file">
+                  <did>
+                     <unittitle>Meridan High School Annual I</unittitle>
+                     <unitdatestructured altrender="1894" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1894">1894</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_94c74a8ec129110942aef8d8dfab166a_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_94c74a8ec129110942aef8d8dfab166a_c2"
+                                localtype="folder"
+                                parent="aspace_94c74a8ec129110942aef8d8dfab166a_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033518"
+                  id="aspace_9f14ead6d3aacf0bf5981f3064c21352"
+                  level="file">
+                  <did>
+                     <unittitle>Metropolitan Museum of Art Christmas 1952</unittitle>
+                     <unitdatestructured altrender="1952" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1952">1952</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_9f14ead6d3aacf0bf5981f3064c21352_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_9f14ead6d3aacf0bf5981f3064c21352_c2"
+                                localtype="folder"
+                                parent="aspace_9f14ead6d3aacf0bf5981f3064c21352_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033519"
+                  id="aspace_c4819cfb000edd178ce0509f88a60b09"
+                  level="file">
+                  <did>
+                     <unittitle>Museum of Fine Arts Boston calendar</unittitle>
+                     <unitdatestructured altrender="1953" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1953">1953</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_c4819cfb000edd178ce0509f88a60b09_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_c4819cfb000edd178ce0509f88a60b09_c2"
+                                localtype="folder"
+                                parent="aspace_c4819cfb000edd178ce0509f88a60b09_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033520"
+                  id="aspace_eab239d513255d3ae3391407291da6e8"
+                  level="file">
+                  <did>
+                     <unittitle>Museum of Fine Arts Boston calendar</unittitle>
+                     <unitdatestructured altrender="1975" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1975">1975</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_eab239d513255d3ae3391407291da6e8_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_eab239d513255d3ae3391407291da6e8_c2"
+                                localtype="folder"
+                                parent="aspace_eab239d513255d3ae3391407291da6e8_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033521"
+                  id="aspace_5451e66becf49178a237d6b331fc0c11"
+                  level="file">
+                  <did>
+                     <unittitle>New Departure ads</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_5451e66becf49178a237d6b331fc0c11_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_5451e66becf49178a237d6b331fc0c11_c2"
+                                localtype="folder"
+                                parent="aspace_5451e66becf49178a237d6b331fc0c11_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033522"
+                  id="aspace_f50c8774b6b22c98258f3c81e0833935"
+                  level="file">
+                  <did>
+                     <unittitle>Penn Hall</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_f50c8774b6b22c98258f3c81e0833935_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_f50c8774b6b22c98258f3c81e0833935_c2"
+                                localtype="folder"
+                                parent="aspace_f50c8774b6b22c98258f3c81e0833935_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033523"
+                  id="aspace_522eecf608089cfbd0c86ba8a71b6e04"
+                  level="file">
+                  <did>
+                     <unittitle>Photographic lenses and prisms</unittitle>
+                     <unitdatestructured altrender="1889 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1889-04">1889 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_522eecf608089cfbd0c86ba8a71b6e04_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_522eecf608089cfbd0c86ba8a71b6e04_c2"
+                                localtype="folder"
+                                parent="aspace_522eecf608089cfbd0c86ba8a71b6e04_c1">14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033524"
+                  id="aspace_d612d6c8e4c82e1856a914902e2082cd"
+                  level="file">
+                  <did>
+                     <unittitle>Plan for attack on deafness</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_d612d6c8e4c82e1856a914902e2082cd_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_d612d6c8e4c82e1856a914902e2082cd_c2"
+                                localtype="folder"
+                                parent="aspace_d612d6c8e4c82e1856a914902e2082cd_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033525"
+                  id="aspace_31e4c15c2c643f282864ec9c976154d7"
+                  level="file">
+                  <did>
+                     <unittitle>Power by which we live</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_31e4c15c2c643f282864ec9c976154d7_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_31e4c15c2c643f282864ec9c976154d7_c2"
+                                localtype="folder"
+                                parent="aspace_31e4c15c2c643f282864ec9c976154d7_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033526"
+                  id="aspace_f3c11fc8b8e3f5e904c55ff38c93c992"
+                  level="file">
+                  <did>
+                     <unittitle>Assorted proofs</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479372 /locations/9"
+                                containerid="39002104528774"
+                                encodinganalog="archive legal"
+                                id="aspace_f3c11fc8b8e3f5e904c55ff38c93c992_c1"
+                                label="Mixed Materials"
+                                localtype="box">379</container>
+                     <container id="aspace_f3c11fc8b8e3f5e904c55ff38c93c992_c2"
+                                localtype="folder"
+                                parent="aspace_f3c11fc8b8e3f5e904c55ff38c93c992_c1">17-18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033527"
+                  id="aspace_16929eb017114bbedd22898d027b48bb"
+                  level="file">
+                  <did>
+                     <unittitle>"Printed Book in America"</unittitle>
+                     <unitdatestructured altrender="circa 1977" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1977">circa 1977</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479373 /locations/9"
+                                containerid="39002104528782"
+                                encodinganalog="archive legal"
+                                id="aspace_16929eb017114bbedd22898d027b48bb_c1"
+                                label="Mixed Materials"
+                                localtype="box">380</container>
+                     <container id="aspace_16929eb017114bbedd22898d027b48bb_c2"
+                                localtype="folder"
+                                parent="aspace_16929eb017114bbedd22898d027b48bb_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033528"
+                  id="aspace_63c50a83ddfe6cbe3977070bbadc1a0f"
+                  level="file">
+                  <did>
+                     <unittitle>Samples</unittitle>
+                     <unitdatestructured altrender="1933-1962" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933">1933</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479373 /locations/9"
+                                containerid="39002104528782"
+                                encodinganalog="archive legal"
+                                id="aspace_63c50a83ddfe6cbe3977070bbadc1a0f_c1"
+                                label="Mixed Materials"
+                                localtype="box">380</container>
+                     <container id="aspace_63c50a83ddfe6cbe3977070bbadc1a0f_c2"
+                                localtype="folder"
+                                parent="aspace_63c50a83ddfe6cbe3977070bbadc1a0f_c1">2-7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033529"
+                  id="aspace_329cf5218106f8b8e38341c99032acb0"
+                  level="file">
+                  <did>
+                     <unittitle>Photographs and proofs</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479373 /locations/9"
+                                containerid="39002104528782"
+                                encodinganalog="archive legal"
+                                id="aspace_329cf5218106f8b8e38341c99032acb0_c1"
+                                label="Mixed Materials"
+                                localtype="box">380</container>
+                     <container id="aspace_329cf5218106f8b8e38341c99032acb0_c2"
+                                localtype="folder"
+                                parent="aspace_329cf5218106f8b8e38341c99032acb0_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033530"
+                  id="aspace_da686c04c6d77c90ebeceb15507d7e45"
+                  level="file">
+                  <did>
+                     <unittitle>Proofs</unittitle>
+                     <unitdatestructured altrender="circa 1931" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1931">circa 1931</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479373 /locations/9"
+                                containerid="39002104528782"
+                                encodinganalog="archive legal"
+                                id="aspace_da686c04c6d77c90ebeceb15507d7e45_c1"
+                                label="Mixed Materials"
+                                localtype="box">380</container>
+                     <container id="aspace_da686c04c6d77c90ebeceb15507d7e45_c2"
+                                localtype="folder"
+                                parent="aspace_da686c04c6d77c90ebeceb15507d7e45_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033531"
+                  id="aspace_c4a0970ea247dceffbd1fc53c0f9d36e"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.1</unittitle>
+                     <unitdatestructured altrender="1933 October" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933-10">1933 October</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_c4a0970ea247dceffbd1fc53c0f9d36e_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_c4a0970ea247dceffbd1fc53c0f9d36e_c2"
+                                localtype="folder"
+                                parent="aspace_c4a0970ea247dceffbd1fc53c0f9d36e_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033532"
+                  id="aspace_f5f2e2ac6bd06f0029df99a521ccc0f7"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.2</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">circa 1933</unitdate>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_f5f2e2ac6bd06f0029df99a521ccc0f7_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_f5f2e2ac6bd06f0029df99a521ccc0f7_c2"
+                                localtype="folder"
+                                parent="aspace_f5f2e2ac6bd06f0029df99a521ccc0f7_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033533"
+                  id="aspace_5a345ae1d7190671d3ca1d1f8a930f23"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.3</unittitle>
+                     <unitdatestructured altrender="1934 September"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1934-09">1934 September</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_5a345ae1d7190671d3ca1d1f8a930f23_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_5a345ae1d7190671d3ca1d1f8a930f23_c2"
+                                localtype="folder"
+                                parent="aspace_5a345ae1d7190671d3ca1d1f8a930f23_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033534"
+                  id="aspace_215d7134c662a9f3d95970f38639f3f5"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.4</unittitle>
+                     <unitdatestructured altrender="1935 March" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1935-03">1935 March</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_215d7134c662a9f3d95970f38639f3f5_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_215d7134c662a9f3d95970f38639f3f5_c2"
+                                localtype="folder"
+                                parent="aspace_215d7134c662a9f3d95970f38639f3f5_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033535"
+                  id="aspace_17dec82fe5bb46aa022c8d5f46949f86"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.4A</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_17dec82fe5bb46aa022c8d5f46949f86_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_17dec82fe5bb46aa022c8d5f46949f86_c2"
+                                localtype="folder"
+                                parent="aspace_17dec82fe5bb46aa022c8d5f46949f86_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033536"
+                  id="aspace_b2a46b210abf716c9222c1d6f9978c85"
+                  level="file">
+                  <did>
+                     <unittitle>Post card supplement No.4A</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_b2a46b210abf716c9222c1d6f9978c85_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_b2a46b210abf716c9222c1d6f9978c85_c2"
+                                localtype="folder"
+                                parent="aspace_b2a46b210abf716c9222c1d6f9978c85_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033537"
+                  id="aspace_695149b28b92a908501d38c309c40294"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.5</unittitle>
+                     <unitdatestructured altrender="1935 September"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1935-09">1935 September</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_695149b28b92a908501d38c309c40294_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_695149b28b92a908501d38c309c40294_c2"
+                                localtype="folder"
+                                parent="aspace_695149b28b92a908501d38c309c40294_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033538"
+                  id="aspace_58b31c61ca6f6da838edcbe5e3f6d272"
+                  level="file">
+                  <did>
+                     <unittitle>Museum Christmas Supplement No.5A</unittitle>
+                     <unitdatestructured altrender="1935 September"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1935-09">1935 September</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_58b31c61ca6f6da838edcbe5e3f6d272_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_58b31c61ca6f6da838edcbe5e3f6d272_c2"
+                                localtype="folder"
+                                parent="aspace_58b31c61ca6f6da838edcbe5e3f6d272_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033539"
+                  id="aspace_4a089f9b0457c81acc4d3faa393f0c03"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement 6</unittitle>
+                     <unitdatestructured altrender="1936 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1936-04">1936 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_4a089f9b0457c81acc4d3faa393f0c03_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_4a089f9b0457c81acc4d3faa393f0c03_c2"
+                                localtype="folder"
+                                parent="aspace_4a089f9b0457c81acc4d3faa393f0c03_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033540"
+                  id="aspace_a31c8c466335d45c66df9dde95ceb170"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio #8 Supplement No.7</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_a31c8c466335d45c66df9dde95ceb170_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_a31c8c466335d45c66df9dde95ceb170_c2"
+                                localtype="folder"
+                                parent="aspace_a31c8c466335d45c66df9dde95ceb170_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033541"
+                  id="aspace_3a68f326b6a383ed002071376a357977"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio #9 Supplement No.8</unittitle>
+                     <unitdatestructured altrender="1937 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1937-04">1937 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_3a68f326b6a383ed002071376a357977_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_3a68f326b6a383ed002071376a357977_c2"
+                                localtype="folder"
+                                parent="aspace_3a68f326b6a383ed002071376a357977_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033542"
+                  id="aspace_0706356a8712c9dc2e0deef33fe593de"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.9</unittitle>
+                     <unitdatestructured altrender="1937 October" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1937-10">1937 October</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479374 /locations/9"
+                                containerid="39002104528790"
+                                encodinganalog="archive legal"
+                                id="aspace_0706356a8712c9dc2e0deef33fe593de_c1"
+                                label="Mixed Materials"
+                                localtype="box">381</container>
+                     <container id="aspace_0706356a8712c9dc2e0deef33fe593de_c2"
+                                localtype="folder"
+                                parent="aspace_0706356a8712c9dc2e0deef33fe593de_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033543"
+                  id="aspace_66e85a66b21d7b2590c6764f912c0340"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.10</unittitle>
+                     <unitdatestructured altrender="1938 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1938-04">1938 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_66e85a66b21d7b2590c6764f912c0340_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_66e85a66b21d7b2590c6764f912c0340_c2"
+                                localtype="folder"
+                                parent="aspace_66e85a66b21d7b2590c6764f912c0340_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033544"
+                  id="aspace_98f49836eacf8e1ff1ff94193d104f3f"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio 12 Supplement No.11</unittitle>
+                     <unitdatestructured altrender="1938 October" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1938-10">1938 October</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_98f49836eacf8e1ff1ff94193d104f3f_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_98f49836eacf8e1ff1ff94193d104f3f_c2"
+                                localtype="folder"
+                                parent="aspace_98f49836eacf8e1ff1ff94193d104f3f_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033545"
+                  id="aspace_01f96255d5b5128bb91a2974a57dbf98"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement 12</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_01f96255d5b5128bb91a2974a57dbf98_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_01f96255d5b5128bb91a2974a57dbf98_c2"
+                                localtype="folder"
+                                parent="aspace_01f96255d5b5128bb91a2974a57dbf98_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033546"
+                  id="aspace_487578727a5d1cf6ff52da874ee6368f"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio 14 Supplement No.13</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_487578727a5d1cf6ff52da874ee6368f_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_487578727a5d1cf6ff52da874ee6368f_c2"
+                                localtype="folder"
+                                parent="aspace_487578727a5d1cf6ff52da874ee6368f_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033547"
+                  id="aspace_042ae6408257899048b5f56eefd7697a"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio 15 Supplement No.14</unittitle>
+                     <unitdatestructured altrender="1940 May" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1940-05">1940 May</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_042ae6408257899048b5f56eefd7697a_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_042ae6408257899048b5f56eefd7697a_c2"
+                                localtype="folder"
+                                parent="aspace_042ae6408257899048b5f56eefd7697a_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033548"
+                  id="aspace_a13509684d6a08e71365027eab499187"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.15</unittitle>
+                     <unitdatestructured altrender="1941 December" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1941-12">1941 December</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_a13509684d6a08e71365027eab499187_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_a13509684d6a08e71365027eab499187_c2"
+                                localtype="folder"
+                                parent="aspace_a13509684d6a08e71365027eab499187_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033549"
+                  id="aspace_77e1ec64d2bc0e26322881f21013ba46"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.16</unittitle>
+                     <unitdatestructured altrender="1942" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1942">1942</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_77e1ec64d2bc0e26322881f21013ba46_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_77e1ec64d2bc0e26322881f21013ba46_c2"
+                                localtype="folder"
+                                parent="aspace_77e1ec64d2bc0e26322881f21013ba46_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033550"
+                  id="aspace_e8c0a0ed6d73b39aaf0a7337a8cd44b2"
+                  level="file">
+                  <did>
+                     <unittitle>Supplement No.17</unittitle>
+                     <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1949">1949</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_e8c0a0ed6d73b39aaf0a7337a8cd44b2_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_e8c0a0ed6d73b39aaf0a7337a8cd44b2_c2"
+                                localtype="folder"
+                                parent="aspace_e8c0a0ed6d73b39aaf0a7337a8cd44b2_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033551"
+                  id="aspace_bfead6ad8d1f0743e062c4750ddc327d"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio A - Scientific</unittitle>
+                     <unitdatestructured altrender="1933 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933-04">1933 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_bfead6ad8d1f0743e062c4750ddc327d_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_bfead6ad8d1f0743e062c4750ddc327d_c2"
+                                localtype="folder"
+                                parent="aspace_bfead6ad8d1f0743e062c4750ddc327d_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033552"
+                  id="aspace_c1c1df260be599f587c4e10a33020fc8"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio B - Scientific</unittitle>
+                     <unitdatestructured altrender="1933 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933-04">1933 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_c1c1df260be599f587c4e10a33020fc8_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_c1c1df260be599f587c4e10a33020fc8_c2"
+                                localtype="folder"
+                                parent="aspace_c1c1df260be599f587c4e10a33020fc8_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033553"
+                  id="aspace_2724d752e7e2ca8294899b1b16b29ea0"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio C - Scientific</unittitle>
+                     <unitdatestructured altrender="1933 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933-04">1933 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_2724d752e7e2ca8294899b1b16b29ea0_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_2724d752e7e2ca8294899b1b16b29ea0_c2"
+                                localtype="folder"
+                                parent="aspace_2724d752e7e2ca8294899b1b16b29ea0_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033554"
+                  id="aspace_2dad83af2ddcd8ea7c6e59cabc55c783"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio D - Scientific</unittitle>
+                     <unitdatestructured altrender="1933 April" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933-04">1933 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_2dad83af2ddcd8ea7c6e59cabc55c783_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_2dad83af2ddcd8ea7c6e59cabc55c783_c2"
+                                localtype="folder"
+                                parent="aspace_2dad83af2ddcd8ea7c6e59cabc55c783_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033555"
+                  id="aspace_58a0e9aa171f95dc1fc7fb9d97eb2f20"
+                  level="file">
+                  <did>
+                     <unittitle>A Base Libel on the Sovereign State of Connecticut</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_58a0e9aa171f95dc1fc7fb9d97eb2f20_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_58a0e9aa171f95dc1fc7fb9d97eb2f20_c2"
+                                localtype="folder"
+                                parent="aspace_58a0e9aa171f95dc1fc7fb9d97eb2f20_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033556"
+                  id="aspace_ea8cfba92d70ad0b37b858d4c7c2131e"
+                  level="file">
+                  <did>
+                     <unittitle>Four Horsemen of the Apocalypse, Albrect Dürer. No.4 of the reproduction series of the Department of Printing and Graphic Arts Harvard College Library</unittitle>
+                     <unitdatestructured altrender="1941" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1941">1941</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_ea8cfba92d70ad0b37b858d4c7c2131e_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_ea8cfba92d70ad0b37b858d4c7c2131e_c2"
+                                localtype="folder"
+                                parent="aspace_ea8cfba92d70ad0b37b858d4c7c2131e_c1">14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033557"
+                  id="aspace_4e677fa282d28dd79b60673f592aca8e"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone collotype for scientific reproduction</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479375 /locations/9"
+                                containerid="39002104528808"
+                                encodinganalog="archive legal"
+                                id="aspace_4e677fa282d28dd79b60673f592aca8e_c1"
+                                label="Mixed Materials"
+                                localtype="box">382</container>
+                     <container id="aspace_4e677fa282d28dd79b60673f592aca8e_c2"
+                                localtype="folder"
+                                parent="aspace_4e677fa282d28dd79b60673f592aca8e_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033558"
+                  id="aspace_3fb535a321ed3c55b6d0e7018ac85f48"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone collotype for scientific reproduction post cards</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479376 /locations/9"
+                                containerid="39002104528816"
+                                encodinganalog="archive legal"
+                                id="aspace_3fb535a321ed3c55b6d0e7018ac85f48_c1"
+                                label="Mixed Materials"
+                                localtype="box">383</container>
+                     <container id="aspace_3fb535a321ed3c55b6d0e7018ac85f48_c2"
+                                localtype="folder"
+                                parent="aspace_3fb535a321ed3c55b6d0e7018ac85f48_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033559"
+                  id="aspace_bdd02b77a0a586741f0ebc35ef21ad01"
+                  level="file">
+                  <did>
+                     <unittitle>Numismatic samples</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479376 /locations/9"
+                                containerid="39002104528816"
+                                encodinganalog="archive legal"
+                                id="aspace_bdd02b77a0a586741f0ebc35ef21ad01_c1"
+                                label="Mixed Materials"
+                                localtype="box">383</container>
+                     <container id="aspace_bdd02b77a0a586741f0ebc35ef21ad01_c2"
+                                localtype="folder"
+                                parent="aspace_bdd02b77a0a586741f0ebc35ef21ad01_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033560"
+                  id="aspace_3c76ac24c3f16dc9b5df5c4fd214eabe"
+                  level="file">
+                  <did>
+                     <unittitle>Samples</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479376 /locations/9"
+                                containerid="39002104528816"
+                                encodinganalog="archive legal"
+                                id="aspace_3c76ac24c3f16dc9b5df5c4fd214eabe_c1"
+                                label="Mixed Materials"
+                                localtype="box">383</container>
+                     <container id="aspace_3c76ac24c3f16dc9b5df5c4fd214eabe_c2"
+                                localtype="folder"
+                                parent="aspace_3c76ac24c3f16dc9b5df5c4fd214eabe_c1">3-13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033561"
+                  id="aspace_125bc096f8c8717eae92373969fc63aa"
+                  level="file">
+                  <did>
+                     <unittitle>Samples</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479377 /locations/9"
+                                containerid="39002104528824"
+                                encodinganalog="archive legal"
+                                id="aspace_125bc096f8c8717eae92373969fc63aa_c1"
+                                label="Mixed Materials"
+                                localtype="box">384</container>
+                     <container id="aspace_125bc096f8c8717eae92373969fc63aa_c2"
+                                localtype="folder"
+                                parent="aspace_125bc096f8c8717eae92373969fc63aa_c1">1-11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033562"
+                  id="aspace_82a6aa3649d85ea19d2e604edb7635c5"
+                  level="file">
+                  <did>
+                     <unittitle>Schmiers, Werner, &amp; Stein</unittitle>
+                     <unitdatestructured altrender="1892 May 1" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1892-05-01">1892 May 1</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479377 /locations/9"
+                                containerid="39002104528824"
+                                encodinganalog="archive legal"
+                                id="aspace_82a6aa3649d85ea19d2e604edb7635c5_c1"
+                                label="Mixed Materials"
+                                localtype="box">384</container>
+                     <container id="aspace_82a6aa3649d85ea19d2e604edb7635c5_c2"
+                                localtype="folder"
+                                parent="aspace_82a6aa3649d85ea19d2e604edb7635c5_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033563"
+                  id="aspace_126f21f5511f7cdf529a16d855deda3f"
+                  level="file">
+                  <did>
+                     <unittitle>Southern New England Telephone Company Annual Report</unittitle>
+                     <container altrender="/repositories/11/top_containers/479378 /locations/9"
+                                containerid="39002104528832"
+                                encodinganalog="archive legal"
+                                id="aspace_126f21f5511f7cdf529a16d855deda3f_c1"
+                                label="Mixed Materials"
+                                localtype="box">385</container>
+                     <container id="aspace_126f21f5511f7cdf529a16d855deda3f_c2"
+                                localtype="folder"
+                                parent="aspace_126f21f5511f7cdf529a16d855deda3f_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033564"
+                  id="aspace_e9a4afe526dd18b9104e98922e35b077"
+                  level="file">
+                  <did>
+                     <unittitle>Sprague &amp; Carleton</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479378 /locations/9"
+                                containerid="39002104528832"
+                                encodinganalog="archive legal"
+                                id="aspace_e9a4afe526dd18b9104e98922e35b077_c1"
+                                label="Mixed Materials"
+                                localtype="box">385</container>
+                     <container id="aspace_e9a4afe526dd18b9104e98922e35b077_c2"
+                                localtype="folder"
+                                parent="aspace_e9a4afe526dd18b9104e98922e35b077_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033565"
+                  id="aspace_303c2ef6e99ceef070493a875eb03581"
+                  level="file">
+                  <did>
+                     <unittitle>Thermodynamics by Fluid Systems, Inc.</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479378 /locations/9"
+                                containerid="39002104528832"
+                                encodinganalog="archive legal"
+                                id="aspace_303c2ef6e99ceef070493a875eb03581_c1"
+                                label="Mixed Materials"
+                                localtype="box">385</container>
+                     <container id="aspace_303c2ef6e99ceef070493a875eb03581_c2"
+                                localtype="folder"
+                                parent="aspace_303c2ef6e99ceef070493a875eb03581_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033566"
+                  id="aspace_c11a6b680a40e426cc6a56451b83b0e1"
+                  level="file">
+                  <did>
+                     <unittitle>Views of Ancient Monuments in Central America Chiapas and Yucatan</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">circa 1965</unitdate>
+                     <container altrender="/repositories/11/top_containers/479378 /locations/9"
+                                containerid="39002104528832"
+                                encodinganalog="archive legal"
+                                id="aspace_c11a6b680a40e426cc6a56451b83b0e1_c1"
+                                label="Mixed Materials"
+                                localtype="box">385</container>
+                     <container id="aspace_c11a6b680a40e426cc6a56451b83b0e1_c2"
+                                localtype="folder"
+                                parent="aspace_c11a6b680a40e426cc6a56451b83b0e1_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033567"
+                  id="aspace_f847140d7a78f4a96e0e4fc8c291e441"
+                  level="file">
+                  <did>
+                     <unittitle>Why Connecticut was Called the Nutmeg State</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479378 /locations/9"
+                                containerid="39002104528832"
+                                encodinganalog="archive legal"
+                                id="aspace_f847140d7a78f4a96e0e4fc8c291e441_c1"
+                                label="Mixed Materials"
+                                localtype="box">385</container>
+                     <container id="aspace_f847140d7a78f4a96e0e4fc8c291e441_c2"
+                                localtype="folder"
+                                parent="aspace_f847140d7a78f4a96e0e4fc8c291e441_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033568"
+                  id="aspace_fae21d2ebeb3a2287c5aee7323e94bde"
+                  level="file">
+                  <did>
+                     <unittitle>WM Rogers &amp; Sons</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479378 /locations/9"
+                                containerid="39002104528832"
+                                encodinganalog="archive legal"
+                                id="aspace_fae21d2ebeb3a2287c5aee7323e94bde_c1"
+                                label="Mixed Materials"
+                                localtype="box">385</container>
+                     <container id="aspace_fae21d2ebeb3a2287c5aee7323e94bde_c2"
+                                localtype="folder"
+                                parent="aspace_fae21d2ebeb3a2287c5aee7323e94bde_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033569"
+                  id="aspace_32444eb25fe2c647b670117aac07593a"
+                  level="file">
+                  <did>
+                     <unittitle>Proofs</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">circa 1931</unitdate>
+                     <container altrender="/repositories/11/top_containers/479379 /locations/9"
+                                containerid="39002102346419"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_32444eb25fe2c647b670117aac07593a_c1"
+                                label="Mixed Materials"
+                                localtype="box">386</container>
+                     <container id="aspace_32444eb25fe2c647b670117aac07593a_c2"
+                                localtype="folder"
+                                parent="aspace_32444eb25fe2c647b670117aac07593a_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033570"
+                  id="aspace_118295f294daa89bdb0a692e3e96f2d8"
+                  level="file">
+                  <did>
+                     <unittitle>Book</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479379 /locations/9"
+                                containerid="39002102346419"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_118295f294daa89bdb0a692e3e96f2d8_c1"
+                                label="Mixed Materials"
+                                localtype="box">386</container>
+                     <container id="aspace_118295f294daa89bdb0a692e3e96f2d8_c2"
+                                localtype="folder"
+                                parent="aspace_118295f294daa89bdb0a692e3e96f2d8_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033571"
+                  id="aspace_07ac1cd2b2ef29b4c8702f9808479af0"
+                  level="file">
+                  <did>
+                     <unittitle>Commercial</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479379 /locations/9"
+                                containerid="39002102346419"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_07ac1cd2b2ef29b4c8702f9808479af0_c1"
+                                label="Mixed Materials"
+                                localtype="box">386</container>
+                     <container id="aspace_07ac1cd2b2ef29b4c8702f9808479af0_c2"
+                                localtype="folder"
+                                parent="aspace_07ac1cd2b2ef29b4c8702f9808479af0_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033572"
+                  id="aspace_dad5b42cdb22c46b44841a8e34a10447"
+                  level="file">
+                  <did>
+                     <unittitle>Gel ink color portfolio</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479379 /locations/9"
+                                containerid="39002102346419"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_dad5b42cdb22c46b44841a8e34a10447_c1"
+                                label="Mixed Materials"
+                                localtype="box">386</container>
+                     <container id="aspace_dad5b42cdb22c46b44841a8e34a10447_c2"
+                                localtype="folder"
+                                parent="aspace_dad5b42cdb22c46b44841a8e34a10447_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033573"
+                  id="aspace_01f0220bb8927f9a5f8b42924ae1be8a"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone proofs</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479379 /locations/9"
+                                containerid="39002102346419"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_01f0220bb8927f9a5f8b42924ae1be8a_c1"
+                                label="Mixed Materials"
+                                localtype="box">386</container>
+                     <container id="aspace_01f0220bb8927f9a5f8b42924ae1be8a_c2"
+                                localtype="folder"
+                                parent="aspace_01f0220bb8927f9a5f8b42924ae1be8a_c1">5-13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033574"
+                  id="aspace_03573dce8a6a112a00e2e0344f9b6c2d"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolios</unittitle>
+                     <unitdatestructured altrender="1932-1934" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1932">1932</fromdate>
+                           <todate standarddate="1934">1934</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479380 /locations/9"
+                                containerid="39002102346427"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_03573dce8a6a112a00e2e0344f9b6c2d_c1"
+                                label="Mixed Materials"
+                                localtype="box">387</container>
+                     <container id="aspace_03573dce8a6a112a00e2e0344f9b6c2d_c2"
+                                localtype="folder"
+                                parent="aspace_03573dce8a6a112a00e2e0344f9b6c2d_c1">1-11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033575"
+                  id="aspace_d0d116fe36178c3926a39da3b2310774"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone portfolios</unittitle>
+                     <unitdatestructured altrender="1931-1932, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931">1931</fromdate>
+                           <todate standarddate="1932">1932</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479381 /locations/9"
+                                containerid="39002102346435"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_d0d116fe36178c3926a39da3b2310774_c1"
+                                label="Mixed Materials"
+                                localtype="box">388</container>
+                     <container id="aspace_d0d116fe36178c3926a39da3b2310774_c2"
+                                localtype="folder"
+                                parent="aspace_d0d116fe36178c3926a39da3b2310774_c1">1-16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033576"
+                  id="aspace_ad5ab595b29bf4df7c69fd248c8db74c"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone portfolios</unittitle>
+                     <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1930">1930</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479382 /locations/9"
+                                containerid="39002102346443"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_ad5ab595b29bf4df7c69fd248c8db74c_c1"
+                                label="Mixed Materials"
+                                localtype="box">389</container>
+                     <container id="aspace_ad5ab595b29bf4df7c69fd248c8db74c_c2"
+                                localtype="folder"
+                                parent="aspace_ad5ab595b29bf4df7c69fd248c8db74c_c1">1-11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033577"
+                  id="aspace_d5e66212fb21add0bf9de93e5b073d78"
+                  level="file">
+                  <did>
+                     <unittitle>College annual</unittitle>
+                     <unitdatestructured altrender="1931" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1931">1931</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479382 /locations/9"
+                                containerid="39002102346443"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_d5e66212fb21add0bf9de93e5b073d78_c1"
+                                label="Mixed Materials"
+                                localtype="box">389</container>
+                     <container id="aspace_d5e66212fb21add0bf9de93e5b073d78_c2"
+                                localtype="folder"
+                                parent="aspace_d5e66212fb21add0bf9de93e5b073d78_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033578"
+                  id="aspace_ee49a3796363b144ae0d944f0b560606"
+                  level="file">
+                  <did>
+                     <unittitle>Portfolio for Geographical Society of America</unittitle>
+                     <unitdatestructured altrender="1933 December 3"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1933-12-03">1933 December 3</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479382 /locations/9"
+                                containerid="39002102346443"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_ee49a3796363b144ae0d944f0b560606_c1"
+                                label="Mixed Materials"
+                                localtype="box">389</container>
+                     <container id="aspace_ee49a3796363b144ae0d944f0b560606_c2"
+                                localtype="folder"
+                                parent="aspace_ee49a3796363b144ae0d944f0b560606_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033579"
+                  id="aspace_d0e5e363ae0d5e0fd2a4e8f599fcb3ab"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone portfolios</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479382 /locations/9"
+                                containerid="39002102346443"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_d0e5e363ae0d5e0fd2a4e8f599fcb3ab_c1"
+                                label="Mixed Materials"
+                                localtype="box">389</container>
+                     <container id="aspace_d0e5e363ae0d5e0fd2a4e8f599fcb3ab_c2"
+                                localtype="folder"
+                                parent="aspace_d0e5e363ae0d5e0fd2a4e8f599fcb3ab_c1">14-15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033580"
+                  id="aspace_7721d722d1dbc9c5f149f13983850fe3"
+                  level="file">
+                  <did>
+                     <unittitle>Full-tone portfolios</unittitle>
+                     <unitdatestructured altrender="1929" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1929">1929</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479383 /locations/9"
+                                containerid="39002102346450"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_7721d722d1dbc9c5f149f13983850fe3_c1"
+                                label="Mixed Materials"
+                                localtype="box">390</container>
+                     <container id="aspace_7721d722d1dbc9c5f149f13983850fe3_c2"
+                                localtype="folder"
+                                parent="aspace_7721d722d1dbc9c5f149f13983850fe3_c1">1-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033581"
+                  id="aspace_20db0296b4709239fab7fcfe2050abad"
+                  level="file">
+                  <did>
+                     <unittitle>American Polaroid Day Glasses</unittitle>
+                     <unitdatestructured altrender="1946" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1946">1946</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_20db0296b4709239fab7fcfe2050abad_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_20db0296b4709239fab7fcfe2050abad_c2"
+                                localtype="folder"
+                                parent="aspace_20db0296b4709239fab7fcfe2050abad_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033582"
+                  id="aspace_0837ab239ab23f401ac74a287bad929f"
+                  level="file">
+                  <did>
+                     <unittitle>Spring Long Shore, Basher Rex</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_0837ab239ab23f401ac74a287bad929f_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_0837ab239ab23f401ac74a287bad929f_c2"
+                                localtype="folder"
+                                parent="aspace_0837ab239ab23f401ac74a287bad929f_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033583"
+                  id="aspace_4fcae8adee4ec6372871e48c43d0a96f"
+                  level="file">
+                  <did>
+                     <unittitle>Equipment and plans</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">circa 1969</unitdate>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_4fcae8adee4ec6372871e48c43d0a96f_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_4fcae8adee4ec6372871e48c43d0a96f_c2"
+                                localtype="folder"
+                                parent="aspace_4fcae8adee4ec6372871e48c43d0a96f_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033584"
+                  id="aspace_c600250300a80d337ca4199cc1ddfd31"
+                  level="file">
+                  <did>
+                     <unittitle>Corinthian pottery</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_c600250300a80d337ca4199cc1ddfd31_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_c600250300a80d337ca4199cc1ddfd31_c2"
+                                localtype="folder"
+                                parent="aspace_c600250300a80d337ca4199cc1ddfd31_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033585"
+                  id="aspace_df447cd3a1d2592fcffd0deb24f12af7"
+                  level="file">
+                  <did>
+                     <unittitle>Emperor Maximillian's armories</unittitle>
+                     <unitdatestructured altrender="1952 November" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1952-11">1952 November</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_df447cd3a1d2592fcffd0deb24f12af7_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_df447cd3a1d2592fcffd0deb24f12af7_c2"
+                                localtype="folder"
+                                parent="aspace_df447cd3a1d2592fcffd0deb24f12af7_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033586"
+                  id="aspace_ee1a1a6be8a4e211d1079592d81a3b51"
+                  level="file">
+                  <did>
+                     <unittitle>Imperial Library in Vienna no.2</unittitle>
+                     <unitdatestructured altrender="1941" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1941">1941</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_ee1a1a6be8a4e211d1079592d81a3b51_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_ee1a1a6be8a4e211d1079592d81a3b51_c2"
+                                localtype="folder"
+                                parent="aspace_ee1a1a6be8a4e211d1079592d81a3b51_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033587"
+                  id="aspace_8840ed6bb81f5809825bf5152ab52bd6"
+                  level="file">
+                  <did>
+                     <unittitle>John Stevens His Book 1705</unittitle>
+                     <unitdatestructured altrender="1953" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1953">1953</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_8840ed6bb81f5809825bf5152ab52bd6_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_8840ed6bb81f5809825bf5152ab52bd6_c2"
+                                localtype="folder"
+                                parent="aspace_8840ed6bb81f5809825bf5152ab52bd6_c1">7-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033588"
+                  id="aspace_4c07d96ed4eafaa8e0963b65cd61a3ec"
+                  level="file">
+                  <did>
+                     <unittitle>Museum of Fine Arts: Boston Coloring Book of Early American Scenes</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_4c07d96ed4eafaa8e0963b65cd61a3ec_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_4c07d96ed4eafaa8e0963b65cd61a3ec_c2"
+                                localtype="folder"
+                                parent="aspace_4c07d96ed4eafaa8e0963b65cd61a3ec_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033589"
+                  id="aspace_e9841a5cb3cd16434d610918afe40a27"
+                  level="file">
+                  <did>
+                     <unittitle>Newport in 1780</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">circa 1978</unitdate>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_e9841a5cb3cd16434d610918afe40a27_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_e9841a5cb3cd16434d610918afe40a27_c2"
+                                localtype="folder"
+                                parent="aspace_e9841a5cb3cd16434d610918afe40a27_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033590"
+                  id="aspace_807ad00a5daba90d6b0dce9db6d3c8b2"
+                  level="file">
+                  <did>
+                     <unittitle>Paul A. Bennett</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_807ad00a5daba90d6b0dce9db6d3c8b2_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_807ad00a5daba90d6b0dce9db6d3c8b2_c2"
+                                localtype="folder"
+                                parent="aspace_807ad00a5daba90d6b0dce9db6d3c8b2_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033591"
+                  id="aspace_349ae2366b4c25f3bad7a526cf910db4"
+                  level="file">
+                  <did>
+                     <unittitle>Samples</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479384 /locations/9"
+                                containerid="39002102346468"
+                                encodinganalog="flat box (12d 3h 15w)"
+                                id="aspace_349ae2366b4c25f3bad7a526cf910db4_c1"
+                                label="Mixed Materials"
+                                localtype="box">391</container>
+                     <container id="aspace_349ae2366b4c25f3bad7a526cf910db4_c2"
+                                localtype="folder"
+                                parent="aspace_349ae2366b4c25f3bad7a526cf910db4_c1">11-14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033592"
+                  id="aspace_4aadd37c301b7d86fdc5ce76dccf96ef"
+                  level="file">
+                  <did>
+                     <unittitle>Historic Costumes through the Ages</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479385 /locations/9"
+                                containerid="39002102346476"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_4aadd37c301b7d86fdc5ce76dccf96ef_c1"
+                                label="Mixed Materials"
+                                localtype="box">392</container>
+                     <container id="aspace_4aadd37c301b7d86fdc5ce76dccf96ef_c2"
+                                localtype="folder"
+                                parent="aspace_4aadd37c301b7d86fdc5ce76dccf96ef_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033593"
+                  id="aspace_c5785e5f4bd897b516b5add0b451c814"
+                  level="file">
+                  <did>
+                     <unittitle>Meheut-etudes a'Animaux-edition of 24 plates</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479385 /locations/9"
+                                containerid="39002102346476"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_c5785e5f4bd897b516b5add0b451c814_c1"
+                                label="Mixed Materials"
+                                localtype="box">392</container>
+                     <container id="aspace_c5785e5f4bd897b516b5add0b451c814_c2"
+                                localtype="folder"
+                                parent="aspace_c5785e5f4bd897b516b5add0b451c814_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033594"
+                  id="aspace_7aa9d47dad2e883dfdbf363890443b69"
+                  level="file">
+                  <did>
+                     <unittitle>Samples</unittitle>
+                     <unitdatestructured altrender="1966" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1966">1966</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479385 /locations/9"
+                                containerid="39002102346476"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_7aa9d47dad2e883dfdbf363890443b69_c1"
+                                label="Mixed Materials"
+                                localtype="box">392</container>
+                     <container id="aspace_7aa9d47dad2e883dfdbf363890443b69_c2"
+                                localtype="folder"
+                                parent="aspace_7aa9d47dad2e883dfdbf363890443b69_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033595"
+                  id="aspace_0ddd1218c6d4c96650c721a5ccb3505e"
+                  level="file">
+                  <did>
+                     <unittitle>Several examples of full-tone prints submitted to the Publication Committee. The Armor &amp; Arms Club</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479385 /locations/9"
+                                containerid="39002102346476"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_0ddd1218c6d4c96650c721a5ccb3505e_c1"
+                                label="Mixed Materials"
+                                localtype="box">392</container>
+                     <container id="aspace_0ddd1218c6d4c96650c721a5ccb3505e_c2"
+                                localtype="folder"
+                                parent="aspace_0ddd1218c6d4c96650c721a5ccb3505e_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033596"
+                  id="aspace_3f565cc50a06d8aa0fa4eaff6c6a139c"
+                  level="file">
+                  <did>
+                     <unittitle>Sterling Silver: Reflecting Your Personality</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479385 /locations/9"
+                                containerid="39002102346476"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_3f565cc50a06d8aa0fa4eaff6c6a139c_c1"
+                                label="Mixed Materials"
+                                localtype="box">392</container>
+                     <container id="aspace_3f565cc50a06d8aa0fa4eaff6c6a139c_c2"
+                                localtype="folder"
+                                parent="aspace_3f565cc50a06d8aa0fa4eaff6c6a139c_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033597"
+                  id="aspace_9a398bee581a440d09dfd069d45a31f6"
+                  level="file">
+                  <did>
+                     <unittitle>Basher Rex</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479386 /locations/9"
+                                containerid="39002102346484"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_9a398bee581a440d09dfd069d45a31f6_c1"
+                                label="Mixed Materials"
+                                localtype="box">393</container>
+                     <container id="aspace_9a398bee581a440d09dfd069d45a31f6_c2"
+                                localtype="folder"
+                                parent="aspace_9a398bee581a440d09dfd069d45a31f6_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033598"
+                  id="aspace_39fb9e898a41da3f2b00d409c21c8f7f"
+                  level="file">
+                  <did>
+                     <unittitle>Fahey, Herbert. Early Printing in California</unittitle>
+                     <unitdatestructured altrender="1956" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1956">1956</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/479386 /locations/9"
+                                containerid="39002102346484"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_39fb9e898a41da3f2b00d409c21c8f7f_c1"
+                                label="Mixed Materials"
+                                localtype="box">393</container>
+                     <container id="aspace_39fb9e898a41da3f2b00d409c21c8f7f_c2"
+                                localtype="folder"
+                                parent="aspace_39fb9e898a41da3f2b00d409c21c8f7f_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033599"
+                  id="aspace_403aca511edfbc10ddf83323cdbe7b70"
+                  level="file">
+                  <did>
+                     <unittitle>Flowers in Masquerage</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479386 /locations/9"
+                                containerid="39002102346484"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_403aca511edfbc10ddf83323cdbe7b70_c1"
+                                label="Mixed Materials"
+                                localtype="box">393</container>
+                     <container id="aspace_403aca511edfbc10ddf83323cdbe7b70_c2"
+                                localtype="folder"
+                                parent="aspace_403aca511edfbc10ddf83323cdbe7b70_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4033600"
+                  id="aspace_5947138d46a66df2fab78916f16c1429"
+                  level="file">
+                  <did>
+                     <unittitle>Box of samples</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/479387 /locations/9"
+                                containerid="39002102346492"
+                                encodinganalog="flat box (14d 3h 18w)"
+                                id="aspace_5947138d46a66df2fab78916f16c1429_c1"
+                                label="Mixed Materials"
+                                localtype="box">394</container>
+                  </did>
+               </c>
             </c>
          </c>
       </dsc>

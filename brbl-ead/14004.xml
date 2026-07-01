@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/beinecke.franzwright">beinecke.franzwright</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Dzvinia Orlowsky collection of Franz Wright papers </titleproper>
+            <subtitle>Orlowsky (Dzvinia) collection of Franz Wright papers</subtitle>
+            <author>By Elise Riley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline localtype="telephone">(203) 432-2977 </addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://beinecke.library.yale.edu/"
+                       linktitle="http://beinecke.library.yale.edu/"
+                       show="new">http://beinecke.library.yale.edu/</ref>
+               </addressline>
+            </address>
+            <date>April 2026</date>
+            <num>YCAL MSS 1559</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote localtype="offsite">
+               <p>Boxes: 1-6</p>
+            </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: 7</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency countrycode="US">
+         <agencycode>US-CtY-BR</agencycode>
+         <agencyname>Beinecke Rare Book and Manuscript Library</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>completed</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-06-30T23:01:33-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 23:01</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/11/resources/14004" level="collection">
+      <did>
+         <unittitle>Dzvinia Orlowsky collection of Franz Wright papers</unittitle>
+         <unitid>YCAL MSS 1559</unitid>
+         <repository>
+            <corpname>
+               <part>Beinecke Rare Book and Manuscript Library</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>2.83</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">(7 boxes)</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1975">1975</fromdate>
+               <todate standarddate="2016">2016</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_dd30d5df99bc4472877700e2f20b796f">Contains manuscripts, correspondence, typescripts, proofs, photographic prints, signed volumes, and other papers created by, or related to, Franz Wright.</abstract>
+         <origination label="Creator">
+            <persname identifier="http://id.loc.gov/authorities/names/n82162317"
+                      relator="aut"
+                      rules="dacs"
+                      source="naf">
+               <part localtype="agent_person">Wright, Franz, 1953-2015</part>
+            </persname>
+         </origination>
+         <origination label="Source">
+            <persname identifier="http://id.loc.gov/authorities/names/no95000657"
+                      relator="dnr"
+                      rules="dacs"
+                      source="naf">
+               <part localtype="agent_person">Orlowsky, Dzvinia</part>
+            </persname>
+         </origination>
+      </did>
+      <accessrestrict id="aspace_5304823f47fe08f717c18fa4bee3c803">
+         <head>Conditions Governing Access</head>
+         <p>This collection is open for research.</p>
+         <p>Box 7 (born digital): Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
+      </accessrestrict>
+      <acqinfo id="aspace_305de0bea5b5d659494a121c034b6167">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Dzvinia Orlowsky, 2026.</p>
+      </acqinfo>
+      <arrangement id="aspace_13681430fb971106e4b7d0d15106cc9d">
+         <head>Arrangement</head>
+         <p>This collection maintains the order found at time of acquisition.</p>
+      </arrangement>
+      <bioghist id="aspace_eaad340183e94434ba2c73b6b00ec5f7">
+         <head>Franz Wright (1953-2015)</head>
+         <p>Franz Wright was a Pulitzer Prize winning American poet. Son of James Wright, Franz was born in Vienna, Austria and grew up in various areas of the United States including California, the Northwest, and the Midwest. Wright started writing as an adolescent and earned a BA from Oberlin College in 1977 where he met long-time collaborator and friend Dzvinia Orlowsky. He went on to produce award-winning poetry with honors including a Guggenheim Fellowship in 1989, a Whiting Award in 1991, a PEN/Voelcker Award in 1996, and the Pulitzer Prize for <title>
+               <part>Walking to Martha's Vineyard</part>
+            </title> in 2004.</p>
+         <p>Wright married Elizabeth Oehlkers, an American translator and writer, in 1999 and he then converted to Catholicism. Wright taught poetry at the university level and worked in mental health clinics. He also had a life-long interest in Rainer Maria Rilke and published translations of Rilke and other poets' work during his career.</p>
+         <p>He died in 2015.</p>
+      </bioghist>
+      <prefercite id="aspace_ceeaef956c4e78ee45eb9d697087827c">
+         <head>Preferred Citation</head>
+         <p>Dzvinia Orlowsky collection of Franz Wright papers. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library, Yale University.</p>
+      </prefercite>
+      <processinfo id="aspace_7b062603c897eb66e141e0ed542e31e8">
+         <head>Processing Information</head>
+         <p>Collections are processed to a variety of levels, depending on the work necessary to make them usable, their perceived research value, the availability of staff, competing priorities, and whether or not further accruals are expected. The library attempts to provide a basic level of preservation and access for all collections, and does more extensive processing of higher priority collections as time and resources permit.</p>
+         <p>These materials have been arranged and described according to national and local standards. For more information, please refer to the Yale Archival Processing Manual.</p>
+      </processinfo>
+      <scopecontent id="aspace_8781414cd91728e0076246090c33ed45">
+         <head>Scope and Contents</head>
+         <p>This collection contains manuscripts, correspondence, typescripts, proofs, photographic prints, signed volumes, and other papers created by, or related to, Franz Wright.</p>
+      </scopecontent>
+      <userestrict id="aspace_0d66e186c7944a1df286fa5891d865b6">
+         <head>Conditions Governing Use</head>
+         <p>The Dzvinia Orlowsky collection of Franz Wright papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
+      </userestrict>
+      <controlaccess>
+         <subject source="local">
+            <part localtype="topical">American poetry</part>
+            <part localtype="temporal">20th Century</part>
+            <part localtype="genre_form">Archives</part>
+         </subject>
+         <genreform identifier="http://vocab.getty.edu/aat/300026877" source="aat">
+            <part localtype="genre_form">Correspondence </part>
+         </genreform>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh2008109430"
+                  source="lcsh">
+            <part localtype="topical">Poets, American</part>
+            <part localtype="temporal">20th Century</part>
+            <part localtype="genre_form">Correspondence </part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Poetry</part>
+            <part localtype="genre_form">Translations into English</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Poetry</part>
+            <part localtype="temporal">20th Century</part>
+         </subject>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/11/archival_objects/4026573"
+            id="aspace_acfb230a26939c111b2d6a81ca496388"
+            level="file">
+            <did>
+               <unittitle>Franz Wright letters</unittitle>
+               <unitdatestructured altrender="1975-2016" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1975">1975</fromdate>
+                     <todate standarddate="2016">2016</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_5304b9124afd0e97e18bd07bc61516d2">
+               <head>Scope and Contents</head>
+               <p>This grouping contains letters written by Franz Wright to Dzvinia Orlowsky of the course of their friendship and working partnership. Wright shares openly with Orlowsky about his work, mental health, and artistic process.</p>
+            </scopecontent>
+            <arrangement id="aspace_35649287c4879639ef9a6e5fc809238c">
+               <head>Arrangement</head>
+               <p>Materials in this grouping are arranged chronologically.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/4026574"
+               id="aspace_cbaae99f43a0480410952ea8acd72445"
+               level="file">
+               <did>
+                  <unittitle>Letters</unittitle>
+                  <unitdatestructured altrender="1975-1978" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1978">1978</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_cbaae99f43a0480410952ea8acd72445_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_cbaae99f43a0480410952ea8acd72445_c2"
+                             localtype="folder"
+                             parent="aspace_cbaae99f43a0480410952ea8acd72445_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026575"
+               id="aspace_8af035460d81e2371049d8729ca6bc3a"
+               level="file">
+               <did>
+                  <unittitle>Letters</unittitle>
+                  <unitdatestructured altrender="1981-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1981">1981</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_8af035460d81e2371049d8729ca6bc3a_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_8af035460d81e2371049d8729ca6bc3a_c2"
+                             localtype="folder"
+                             parent="aspace_8af035460d81e2371049d8729ca6bc3a_c1">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026576"
+               id="aspace_274ed479744cd8894c92f7f221a38c1a"
+               level="file">
+               <did>
+                  <unittitle>Letters</unittitle>
+                  <unitdatestructured altrender="1985-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1985">1985</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_274ed479744cd8894c92f7f221a38c1a_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_274ed479744cd8894c92f7f221a38c1a_c2"
+                             localtype="folder"
+                             parent="aspace_274ed479744cd8894c92f7f221a38c1a_c1">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026577"
+               id="aspace_ea49ea4e4d920eb664d08640602f4e41"
+               level="file">
+               <did>
+                  <unittitle>Letters</unittitle>
+                  <unitdatestructured altrender="1991-2016" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1991">1991</fromdate>
+                        <todate standarddate="2016">2016</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_ea49ea4e4d920eb664d08640602f4e41_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ea49ea4e4d920eb664d08640602f4e41_c2"
+                             localtype="folder"
+                             parent="aspace_ea49ea4e4d920eb664d08640602f4e41_c1">4</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026578"
+            id="aspace_1434b395bd6575174db4487251e83a1b"
+            level="file">
+            <did>
+               <unittitle>Franz Wright emails</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1999">1999</fromdate>
+                     <todate standarddate="2015">2015</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_91f1022a9458c98931cf2e5a9785cd90">
+               <head>Scope and Contents</head>
+               <p>This grouping contains printed copies of emails exchanged between Franz Wright and Dzvinia Orlowsky. Similar to the letters, these emails are a mix of personal and professional correspondence. They also contain manuscripts of many of Wright's published poetry collections including <title>
+                     <part>F</part>
+                  </title>, <title>
+                     <part>Walking to Martha's Vineyard</part>
+                  </title>, and <title>
+                     <part>Kindertotenwald</part>
+                  </title>.</p>
+            </scopecontent>
+            <arrangement id="aspace_d4bf72908ee073f15630c456fde08184">
+               <head>Arrangement</head>
+               <p>Materials in this grouping are arranged chronologically.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/4026579"
+               id="aspace_3c0faafd51d12db58c45e85f25022f5b"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="1999" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1999">1999</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_3c0faafd51d12db58c45e85f25022f5b_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_3c0faafd51d12db58c45e85f25022f5b_c2"
+                             localtype="folder"
+                             parent="aspace_3c0faafd51d12db58c45e85f25022f5b_c1">5</container>
+               </did>
+               <scopecontent id="aspace_028b2b334d5438ce7dedb594950a3763">
+                  <head>Scope and Contents</head>
+                  <p>Includes Franz Wright and Elizabeth Oehlker's wedding invitation, photographs, and a draft manuscript for <title>
+                        <part>Words to the Still Sad Music</part>
+                     </title>
+                  </p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026580"
+               id="aspace_92d32d002decc8f8087af11aca662db4"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2000" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2000">2000</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_92d32d002decc8f8087af11aca662db4_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_92d32d002decc8f8087af11aca662db4_c2"
+                             localtype="folder"
+                             parent="aspace_92d32d002decc8f8087af11aca662db4_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026581"
+               id="aspace_6bb5aa774a3fb58fe63a857cb0b52365"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2001" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2001">2001</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_6bb5aa774a3fb58fe63a857cb0b52365_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_6bb5aa774a3fb58fe63a857cb0b52365_c2"
+                             localtype="folder"
+                             parent="aspace_6bb5aa774a3fb58fe63a857cb0b52365_c1">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026582"
+               id="aspace_47c46d112900fab0debdc7c6f55f6943"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2002" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2002">2002</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466263 /locations/9"
+                             containerid="39002104528683"
+                             encodinganalog="archive letter"
+                             id="aspace_47c46d112900fab0debdc7c6f55f6943_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_47c46d112900fab0debdc7c6f55f6943_c2"
+                             localtype="folder"
+                             parent="aspace_47c46d112900fab0debdc7c6f55f6943_c1">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026583"
+               id="aspace_7a049ab298ea952790caa4037aac8c91"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2003" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2003">2003</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466264 /locations/9"
+                             containerid="39002104528691"
+                             encodinganalog="archive letter"
+                             id="aspace_7a049ab298ea952790caa4037aac8c91_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_7a049ab298ea952790caa4037aac8c91_c2"
+                             localtype="folder"
+                             parent="aspace_7a049ab298ea952790caa4037aac8c91_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026584"
+               id="aspace_ef12b2161d7b911d6a13e62a86f61477"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2004" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2004">2004</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466264 /locations/9"
+                             containerid="39002104528691"
+                             encodinganalog="archive letter"
+                             id="aspace_ef12b2161d7b911d6a13e62a86f61477_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ef12b2161d7b911d6a13e62a86f61477_c2"
+                             localtype="folder"
+                             parent="aspace_ef12b2161d7b911d6a13e62a86f61477_c1">2-4</container>
+               </did>
+               <scopecontent id="aspace_cb8d2ad352981b35ccaf0d1d65d3021f">
+                  <head>Scope and Contents</head>
+                  <p>Includes September and December draft versions of <title>
+                        <part>Prescience</part>
+                     </title>.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026585"
+               id="aspace_417ad83d158adf07bec323230393e7f8"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2005" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2005">2005</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466264 /locations/9"
+                             containerid="39002104528691"
+                             encodinganalog="archive letter"
+                             id="aspace_417ad83d158adf07bec323230393e7f8_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_417ad83d158adf07bec323230393e7f8_c2"
+                             localtype="folder"
+                             parent="aspace_417ad83d158adf07bec323230393e7f8_c1">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026586"
+               id="aspace_1342f5aea6ce295d58b2ffaac1fc081e"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2006" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2006">2006</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466264 /locations/9"
+                             containerid="39002104528691"
+                             encodinganalog="archive letter"
+                             id="aspace_1342f5aea6ce295d58b2ffaac1fc081e_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_1342f5aea6ce295d58b2ffaac1fc081e_c2"
+                             localtype="folder"
+                             parent="aspace_1342f5aea6ce295d58b2ffaac1fc081e_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026587"
+               id="aspace_3462fd7abbc28e18b3cc74bffad2efb6"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2007" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2007">2007</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466264 /locations/9"
+                             containerid="39002104528691"
+                             encodinganalog="archive letter"
+                             id="aspace_3462fd7abbc28e18b3cc74bffad2efb6_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_3462fd7abbc28e18b3cc74bffad2efb6_c2"
+                             localtype="folder"
+                             parent="aspace_3462fd7abbc28e18b3cc74bffad2efb6_c1">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026588"
+               id="aspace_64603c5ee2e601313e999d65fa806bf4"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2008" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2008">2008</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466264 /locations/9"
+                             containerid="39002104528691"
+                             encodinganalog="archive letter"
+                             id="aspace_64603c5ee2e601313e999d65fa806bf4_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_64603c5ee2e601313e999d65fa806bf4_c2"
+                             localtype="folder"
+                             parent="aspace_64603c5ee2e601313e999d65fa806bf4_c1">8-11</container>
+               </did>
+               <scopecontent id="aspace_c924e0523ae7623373a9327cfd4890af">
+                  <head>Scope and Contents</head>
+                  <p>Includes manuscripts of <title>
+                        <part>New Poems</part>
+                     </title> and <title>
+                        <part>Wheeling Motel</part>
+                     </title>.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026589"
+               id="aspace_a21db16ad80781cdd56ae059772bc568"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2009" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2009">2009</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466265 /locations/9"
+                             containerid="39002104528709"
+                             encodinganalog="archive letter"
+                             id="aspace_a21db16ad80781cdd56ae059772bc568_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_a21db16ad80781cdd56ae059772bc568_c2"
+                             localtype="folder"
+                             parent="aspace_a21db16ad80781cdd56ae059772bc568_c1">1-2</container>
+               </did>
+               <scopecontent id="aspace_4bbfa9506baa5a321e89fd8e5f5a84e7">
+                  <head>Scope and Contents</head>
+                  <p>Includes manuscripts of "Nebraska", "The Forecast", "Leave Me Hidden", "To", and an assortment of other poetry.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026590"
+               id="aspace_fb35f047bd1bc67a5b1ed9abe6e4ee32"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2010" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2010">2010</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466265 /locations/9"
+                             containerid="39002104528709"
+                             encodinganalog="archive letter"
+                             id="aspace_fb35f047bd1bc67a5b1ed9abe6e4ee32_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_fb35f047bd1bc67a5b1ed9abe6e4ee32_c2"
+                             localtype="folder"
+                             parent="aspace_fb35f047bd1bc67a5b1ed9abe6e4ee32_c1">3-8</container>
+                  <container altrender="/repositories/11/top_containers/466266 /locations/9"
+                             containerid="39002104528717"
+                             encodinganalog="archive letter"
+                             id="aspace_fb35f047bd1bc67a5b1ed9abe6e4ee32_c3"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_fb35f047bd1bc67a5b1ed9abe6e4ee32_c4"
+                             localtype="folder"
+                             parent="aspace_fb35f047bd1bc67a5b1ed9abe6e4ee32_c3">1</container>
+               </did>
+               <scopecontent id="aspace_8b6ad49ec513aa6dbfa84c18272d0116">
+                  <head>Scope and Contents</head>
+                  <p>Includes manuscripts of <title>
+                        <part>Kindertotenwald</part>
+                     </title>, <title>
+                        <part>F:Poems</part>
+                     </title>, <title>
+                        <part>Entries of the Cell</part>
+                     </title>, and other poems.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026592"
+               id="aspace_002c499bcca72655c01921a7e865b5af"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2011" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2011">2011</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466266 /locations/9"
+                             containerid="39002104528717"
+                             encodinganalog="archive letter"
+                             id="aspace_002c499bcca72655c01921a7e865b5af_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_002c499bcca72655c01921a7e865b5af_c2"
+                             localtype="folder"
+                             parent="aspace_002c499bcca72655c01921a7e865b5af_c1">2-4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026593"
+               id="aspace_42eb9de8c4ac4aa362eb92847b934a24"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2012" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2012">2012</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466266 /locations/9"
+                             containerid="39002104528717"
+                             encodinganalog="archive letter"
+                             id="aspace_42eb9de8c4ac4aa362eb92847b934a24_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_42eb9de8c4ac4aa362eb92847b934a24_c2"
+                             localtype="folder"
+                             parent="aspace_42eb9de8c4ac4aa362eb92847b934a24_c1">5-7</container>
+               </did>
+               <scopecontent id="aspace_ce625b5300320c693d0a52af30e9d197">
+                  <head>Scope and Contents</head>
+                  <p>Includes manuscripts of <title>
+                        <part>Delivery</part>
+                     </title> and <title>
+                        <part>F: Poems</part>
+                     </title>.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026594"
+               id="aspace_8b9789806acfb2c870316f4f3aeb25f8"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2013" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2013">2013</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466266 /locations/9"
+                             containerid="39002104528717"
+                             encodinganalog="archive letter"
+                             id="aspace_8b9789806acfb2c870316f4f3aeb25f8_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_8b9789806acfb2c870316f4f3aeb25f8_c2"
+                             localtype="folder"
+                             parent="aspace_8b9789806acfb2c870316f4f3aeb25f8_c1">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026595"
+               id="aspace_5ceef75bbc72aa837da6bbe60d70f7e7"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2014" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2014">2014</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466266 /locations/9"
+                             containerid="39002104528717"
+                             encodinganalog="archive letter"
+                             id="aspace_5ceef75bbc72aa837da6bbe60d70f7e7_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_5ceef75bbc72aa837da6bbe60d70f7e7_c2"
+                             localtype="folder"
+                             parent="aspace_5ceef75bbc72aa837da6bbe60d70f7e7_c1">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026596"
+               id="aspace_67716af32f325ffd2795d62ddcc72929"
+               level="file">
+               <did>
+                  <unittitle>Emails</unittitle>
+                  <unitdatestructured altrender="2015" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2015">2015</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466266 /locations/9"
+                             containerid="39002104528717"
+                             encodinganalog="archive letter"
+                             id="aspace_67716af32f325ffd2795d62ddcc72929_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_67716af32f325ffd2795d62ddcc72929_c2"
+                             localtype="folder"
+                             parent="aspace_67716af32f325ffd2795d62ddcc72929_c1">10</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026623"
+            id="aspace_b30c248c05e4bfa46ae4d72d51a57949"
+            level="file">
+            <did>
+               <unittitle>Franz Wright chapbooks</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1976">1976</fromdate>
+                     <todate standarddate="2012">2012</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_d95a0a23a3e6bea8c9d735b18f8ed1a2">
+               <head>Scope and Contents</head>
+               <p>This grouping contains chapbooks of Franz Wright's poetry and writings collected by Dzvinia Orlowsky.</p>
+            </scopecontent>
+            <arrangement id="aspace_43890b00c69551afd7e6a9b88e0e4668">
+               <head>Arrangement</head>
+               <p>Materials in this grouping are arranged chronologically.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/4026597"
+               id="aspace_6b14b8e971f8dc7308038878f9b71fd8"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Jarmila Files</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1976" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1976">1976</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_6b14b8e971f8dc7308038878f9b71fd8_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_6b14b8e971f8dc7308038878f9b71fd8_c2"
+                             localtype="folder"
+                             parent="aspace_6b14b8e971f8dc7308038878f9b71fd8_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026598"
+               id="aspace_dfdf01e93ea4829b68567a9ba8b82bf3"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Tapping the White Cane of Solitude</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1976" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1976">1976</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_dfdf01e93ea4829b68567a9ba8b82bf3_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_dfdf01e93ea4829b68567a9ba8b82bf3_c2"
+                             localtype="folder"
+                             parent="aspace_dfdf01e93ea4829b68567a9ba8b82bf3_c1">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026599"
+               id="aspace_0edfb6caa2601ca5c287636d264e5ca7"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>No Siege is Absolute</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1984" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1984">1984</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_0edfb6caa2601ca5c287636d264e5ca7_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_0edfb6caa2601ca5c287636d264e5ca7_c2"
+                             localtype="folder"
+                             parent="aspace_0edfb6caa2601ca5c287636d264e5ca7_c1">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026600"
+               id="aspace_94bfd1009596dba1b4e20e19ecc1da7d"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>The Unknown Rilke</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1984" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1984">1984</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_94bfd1009596dba1b4e20e19ecc1da7d_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_94bfd1009596dba1b4e20e19ecc1da7d_c2"
+                             localtype="folder"
+                             parent="aspace_94bfd1009596dba1b4e20e19ecc1da7d_c1">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026601"
+               id="aspace_4aac53a126ec554f1975cf9d3beb835c"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Going North in Winter</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1986" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1986">1986</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_4aac53a126ec554f1975cf9d3beb835c_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_4aac53a126ec554f1975cf9d3beb835c_c2"
+                             localtype="folder"
+                             parent="aspace_4aac53a126ec554f1975cf9d3beb835c_c1">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026602"
+               id="aspace_f0882f22517fcdb207bb123c97505a9f"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Entry in an Unknown Hand</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1987" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1987">1987</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_f0882f22517fcdb207bb123c97505a9f_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_f0882f22517fcdb207bb123c97505a9f_c2"
+                             localtype="folder"
+                             parent="aspace_f0882f22517fcdb207bb123c97505a9f_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026603"
+               id="aspace_c532a68c5f9a667602cd67ae9d077540"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Two Monologues</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1987" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1987">1987</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_c532a68c5f9a667602cd67ae9d077540_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_c532a68c5f9a667602cd67ae9d077540_c2"
+                             localtype="folder"
+                             parent="aspace_c532a68c5f9a667602cd67ae9d077540_c1">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026604"
+               id="aspace_7a17d1e8bfd15a0b665d87ff96643128"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>And Still the Hand Will Sleep in Its Glass Ship</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1990" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1990">1990</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_7a17d1e8bfd15a0b665d87ff96643128_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_7a17d1e8bfd15a0b665d87ff96643128_c2"
+                             localtype="folder"
+                             parent="aspace_7a17d1e8bfd15a0b665d87ff96643128_c1">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026605"
+               id="aspace_1702d691275a99373ac809da714f945e"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Midnight Postscript</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="circa 1990" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1990">circa 1990</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_1702d691275a99373ac809da714f945e_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_1702d691275a99373ac809da714f945e_c2"
+                             localtype="folder"
+                             parent="aspace_1702d691275a99373ac809da714f945e_c1">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026606"
+               id="aspace_884b67ba460e73270df31efc69abdeb1"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Rorschach Test</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="circa 1991" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1991">circa 1991</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_884b67ba460e73270df31efc69abdeb1_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_884b67ba460e73270df31efc69abdeb1_c2"
+                             localtype="folder"
+                             parent="aspace_884b67ba460e73270df31efc69abdeb1_c1">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026607"
+               id="aspace_4d1d9f09abdf37454b14ffdbb3dfdef3"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>The Before</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2000" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2000">2000</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_4d1d9f09abdf37454b14ffdbb3dfdef3_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_4d1d9f09abdf37454b14ffdbb3dfdef3_c2"
+                             localtype="folder"
+                             parent="aspace_4d1d9f09abdf37454b14ffdbb3dfdef3_c1">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026608"
+               id="aspace_c28e8bd1001b228e82522ced7a2db4a6"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>God While Creating the Birds Sees Adam in His Thoughts</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2000" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2000">2000</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_c28e8bd1001b228e82522ced7a2db4a6_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_c28e8bd1001b228e82522ced7a2db4a6_c2"
+                             localtype="folder"
+                             parent="aspace_c28e8bd1001b228e82522ced7a2db4a6_c1">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026609"
+               id="aspace_52661fcfa9823a2da41aeab41e33ff0e"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>The Beforelife</part>
+                     </title> proof</unittitle>
+                  <unitdatestructured altrender="2001" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2001">2001</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_52661fcfa9823a2da41aeab41e33ff0e_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_52661fcfa9823a2da41aeab41e33ff0e_c2"
+                             localtype="folder"
+                             parent="aspace_52661fcfa9823a2da41aeab41e33ff0e_c1">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026610"
+               id="aspace_b7654e2a5701fa55251316f38561c96b"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Hell &amp; other poems</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2001" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2001">2001</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_b7654e2a5701fa55251316f38561c96b_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_b7654e2a5701fa55251316f38561c96b_c2"
+                             localtype="folder"
+                             parent="aspace_b7654e2a5701fa55251316f38561c96b_c1">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026611"
+               id="aspace_cb9e33aeb0a1fa7d96e9756f500ead97"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Walking to Martha's Vineyard</part>
+                     </title> proof</unittitle>
+                  <unitdatestructured altrender="2003" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2003">2003</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_cb9e33aeb0a1fa7d96e9756f500ead97_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_cb9e33aeb0a1fa7d96e9756f500ead97_c2"
+                             localtype="folder"
+                             parent="aspace_cb9e33aeb0a1fa7d96e9756f500ead97_c1">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026612"
+               id="aspace_4750bfdec3c67b71b1641093bd4f767d"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Address</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2007" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2007">2007</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_4750bfdec3c67b71b1641093bd4f767d_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_4750bfdec3c67b71b1641093bd4f767d_c2"
+                             localtype="folder"
+                             parent="aspace_4750bfdec3c67b71b1641093bd4f767d_c1">16</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026613"
+               id="aspace_18cb96693c1eedff156b280f1d59afd2"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>The Catfish</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2007" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2007">2007</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_18cb96693c1eedff156b280f1d59afd2_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_18cb96693c1eedff156b280f1d59afd2_c2"
+                             localtype="folder"
+                             parent="aspace_18cb96693c1eedff156b280f1d59afd2_c1">17</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026614"
+               id="aspace_c02c8c7f1a4e06c74bf674abc6b451a8"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Recurring Awakening</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2012" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2012">2012</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466267 /locations/9"
+                             containerid="39002104528725"
+                             encodinganalog="archive letter"
+                             id="aspace_c02c8c7f1a4e06c74bf674abc6b451a8_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_c02c8c7f1a4e06c74bf674abc6b451a8_c2"
+                             localtype="folder"
+                             parent="aspace_c02c8c7f1a4e06c74bf674abc6b451a8_c1">18</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026615"
+            id="aspace_cca49fee528639720fb54b8331108dc8"
+            level="file">
+            <did>
+               <unittitle>Franz Wright poems</unittitle>
+               <unitdatestructured altrender="circa 1986" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1986">circa 1986</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/466268 /locations/9"
+                          containerid="39002104528733"
+                          encodinganalog="archive half letter"
+                          id="aspace_cca49fee528639720fb54b8331108dc8_c1"
+                          label="Mixed Materials"
+                          localtype="box">6</container>
+               <container id="aspace_cca49fee528639720fb54b8331108dc8_c2"
+                          localtype="folder"
+                          parent="aspace_cca49fee528639720fb54b8331108dc8_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026616"
+            id="aspace_28b3ff2b021682a678abb03203421931"
+            level="file">
+            <did>
+               <unittitle>Order form for <title>
+                     <part>Rorschach Test</part>
+                  </title> and <title>
+                     <part>Burying Dolls</part>
+                  </title>
+               </unittitle>
+               <unitdatestructured altrender="circa 1991" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1991">circa 1991</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/466268 /locations/9"
+                          containerid="39002104528733"
+                          encodinganalog="archive half letter"
+                          id="aspace_28b3ff2b021682a678abb03203421931_c1"
+                          label="Mixed Materials"
+                          localtype="box">6</container>
+               <container id="aspace_28b3ff2b021682a678abb03203421931_c2"
+                          localtype="folder"
+                          parent="aspace_28b3ff2b021682a678abb03203421931_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026617"
+            id="aspace_fa75b10da19afd37b5a44ba4416eddf6"
+            level="file">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <unitdatestructured altrender="1994-2016" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1994">1994</fromdate>
+                     <todate standarddate="2016">2016</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/466268 /locations/9"
+                          containerid="39002104528733"
+                          encodinganalog="archive half letter"
+                          id="aspace_fa75b10da19afd37b5a44ba4416eddf6_c1"
+                          label="Mixed Materials"
+                          localtype="box">6</container>
+               <container id="aspace_fa75b10da19afd37b5a44ba4416eddf6_c2"
+                          localtype="folder"
+                          parent="aspace_fa75b10da19afd37b5a44ba4416eddf6_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026618"
+            id="aspace_57e45e75d4c1fd386edcb2b2d13cd827"
+            level="file">
+            <did>
+               <unittitle>Reading from <title>
+                     <part>Wheeling Motel</part>
+                  </title>
+               </unittitle>
+               <unitdatestructured altrender="2011 June 30" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="2011-06-30">2011 June 30</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/466268 /locations/9"
+                          containerid="39002104528733"
+                          encodinganalog="archive half letter"
+                          id="aspace_57e45e75d4c1fd386edcb2b2d13cd827_c1"
+                          label="Mixed Materials"
+                          localtype="box">6</container>
+               <container id="aspace_57e45e75d4c1fd386edcb2b2d13cd827_c2"
+                          localtype="folder"
+                          parent="aspace_57e45e75d4c1fd386edcb2b2d13cd827_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026619"
+            id="aspace_10d82537aada141f86f86f36b2033095"
+            level="file">
+            <did>
+               <unittitle>Joan Baez "Baptism"</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/466268 /locations/9"
+                          containerid="39002104528733"
+                          encodinganalog="archive half letter"
+                          id="aspace_10d82537aada141f86f86f36b2033095_c1"
+                          label="Mixed Materials"
+                          localtype="box">6</container>
+               <container id="aspace_10d82537aada141f86f86f36b2033095_c2"
+                          localtype="folder"
+                          parent="aspace_10d82537aada141f86f86f36b2033095_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4026620"
+            id="aspace_12f80c78194444df354807abc2e89402"
+            level="file">
+            <did>
+               <unittitle>Computer Media</unittitle>
+               <unitdatestructured altrender="2011, undated" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="2011">2011, undated</datesingle>
+               </unitdatestructured>
+            </did>
+            <accessrestrict id="aspace_9a406337faeb31d56bb87c89c6e81360">
+               <head>Conditions Governing Access</head>
+               <p>Born digital material: Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
+            </accessrestrict>
+            <scopecontent id="aspace_8349aeabd867bebde9dd139217e2a294">
+               <head>Scope and Contents</head>
+               <p>This grouping contains records of a live performance selected poems from <title>
+                     <part>Wheeling Hotel</part>
+                  </title> by Franz Wright and a copy of Joan Baez's album <title>
+                     <part>Baptism</part>
+                  </title>.</p>
+            </scopecontent>
+            <c altrender="/repositories/11/archival_objects/4026621"
+               id="aspace_f526db2a1ac19f0a230fdfc4dfcc7e95"
+               level="item">
+               <did>
+                  <unittitle>Wheeling Motel</unittitle>
+                  <unitdatestructured altrender="2011 June 30" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2011-06-30">2011 June 30</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466269"
+                             containerid="39002104528741"
+                             encodinganalog="Flip top"
+                             id="aspace_f526db2a1ac19f0a230fdfc4dfcc7e95_c1"
+                             label="computer disks / tapes"
+                             localtype="box">7</container>
+               </did>
+               <accessrestrict id="aspace_a5d10abb88f2d92dcb5cd21c49a730e7" localtype="BornDigital">
+                  <head>Conditions Governing Access</head>
+                  <p>Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
+               </accessrestrict>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4026622"
+               id="aspace_16bc7fea9e96f3b0f86b5cbca3cafed0"
+               level="item">
+               <did>
+                  <unittitle>Joan Baez / Baptism</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/466269"
+                             containerid="39002104528741"
+                             encodinganalog="Flip top"
+                             id="aspace_16bc7fea9e96f3b0f86b5cbca3cafed0_c1"
+                             label="computer disks / tapes"
+                             localtype="box">7</container>
+               </did>
+               <accessrestrict id="aspace_60841d72c3537397e96675914e02c49e" localtype="BornDigital">
+                  <head>Conditions Governing Access</head>
+                  <p>Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
+               </accessrestrict>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

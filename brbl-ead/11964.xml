@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-22T00:08:34-04:00</eventdatetime>
+            <eventdatetime>2026-06-30T23:01:09-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June 22, 2026 at 00:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -42272,11 +42272,16 @@ others. Includes audiocassettes and videocassettes.</p>
                      <quantity>1</quantity>
                      <unittype>Videocassette (VHS)</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>00:21:01</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1995 April 6" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1995-04-06">1995 April 6</fromdate>
                      </daterange>
                   </unitdatestructured>
+                  <materialspec id="aspace_619291a18ad0d3d1c5c0a7bec131dde4">Aligned audio level to program. HiFi audio was captured from source. Channel 1 stereo left. Channel 2 stereo right.</materialspec>
                   <container altrender="/repositories/11/top_containers/388214 /locations/9"
                              containerid="39002093734722"
                              encodinganalog="archive letter"
@@ -42301,11 +42306,16 @@ others. Includes audiocassettes and videocassettes.</p>
                      <quantity>1</quantity>
                      <unittype>Videocassette (VHS)</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>01:02:03</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1989" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1989">1989</fromdate>
                      </daterange>
                   </unitdatestructured>
+                  <materialspec id="aspace_5a4098363671fa45d154282f77b38449">Aligned playback level to program, the source has no bars. Aligned audio level to program. No HiFi audio present on source. Linear audio was captured. Channels 1 and 2 are mono.</materialspec>
                   <container altrender="/repositories/11/top_containers/388214 /locations/9"
                              containerid="39002093734722"
                              encodinganalog="archive letter"

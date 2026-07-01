@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-29T23:01:36-04:00</eventdatetime>
+            <eventdatetime>2026-06-30T23:00:12-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June 29, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -79691,9 +79691,14 @@ Miller.</p>
                      <quantity>1</quantity>
                      <unittype>Videocassette (U-matic)</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>00:54:03</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1981 August 19" label="other" unitdatetype="inclusive">
                      <datesingle standarddate="1981-08-19">1981 August 19</datesingle>
                   </unitdatestructured>
+                  <materialspec id="aspace_0c743fc86742bf26f88d440deb097b18">Aligned playback level to program, the source has no bars. Channel 1 stereo left. Channel 2 stereo right. No leader at head of tape, abrupt start. Aligned audio level to program. Some footage is silent. Audio gain adjustment on tape at 00:33:03:13 as recorded.</materialspec>
                   <container altrender="/repositories/11/top_containers/252231 /locations/9"
                              containerid="39002104912689"
                              encodinganalog="Paige 15"
