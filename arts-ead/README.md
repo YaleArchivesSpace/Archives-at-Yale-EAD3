@@ -17,7 +17,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.aob.0003.xml](330.xml) | arts.aob.0003 | AOB 3 | American Trade Card Collection | 
  [arts.aob.0031.xml](331.xml) | arts.aob.0031 | AOB 31 | Emma Joy Dana collection of Anna Mackova | 
  [arts.aob.0034.xml](333.xml) | arts.aob.0034 | AOB 34 | Yale Residential Colleges Student Printing Collection | 
- [arts.aob.0036.xml](334.xml) | arts.aob.0036 | AOB 36 | Yale University Master of Fine Arts Theses in Photography | 
  [arts.aob.0038.xml](335.xml) | arts.aob.0038 | AOB 38 | Ken White Collection | 
  [arts.aob.0039.xml](336.xml) | arts.aob.0039 | AOB 39 | Ladislav Sutnar Collection | 
  [arts.aob.0041.xml](337.xml) | arts.aob.0041 | AOB 41 | Collection of Broadsides by Artists and Presses | 
