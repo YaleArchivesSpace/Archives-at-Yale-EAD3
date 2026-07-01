@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-29T18:02:01-04:00</eventdatetime>
+            <eventdatetime>2026-07-01T18:00:31-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June 29, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  1, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7956,20 +7956,42 @@
                      id="ref418"
                      level="file">
                      <did>
-                        <unittitle>Info. compiled by CBM re. German aviator Plueschow, known as "The Dragon Master of Tsingtao, China" (Article in Sunset Magazine)</unittitle>
-                        <unitdatestructured altrender="1914" label="creation" unitdatetype="inclusive">
+                        <unittitle>Info. compiled by CBM re. German aviator Plueschow, known as "The Dragon Master of Tsingtao, China," Part 1</unittitle>
+                        <unitdatestructured altrender="1914-1994" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1914">1914</datesingle>
                         </unitdatestructured>
-                        <unitdatestructured altrender="1915" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1915">1915</datesingle>
+                        <unitdatestructured altrender="1994" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1994">1994</datesingle>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/4178 /locations/9"
                                    containerid="39002076441212"
                                    id="aspace_ref418_c1"
                                    label="Mixed Materials"
                                    localtype="box">32</container>
-                        <container id="aspace_ref418_c2" localtype="folder" parent="aspace_ref418_c1">436-437</container>
+                        <container id="aspace_ref418_c2" localtype="folder" parent="aspace_ref418_c1">436</container>
                      </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4042923"
+                     id="aspace_5fc67d0ebedc55e24cfdb3b763d36233"
+                     level="file">
+                     <did>
+                        <unittitle>Info. compiled by CBM re. German aviator Plueschow, known as "The Dragon Master of Tsingtao, China," Part 2</unittitle>
+                        <unitdatestructured altrender="1915 March" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1915-05">1915 March</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/4178 /locations/9"
+                                   containerid="39002076441212"
+                                   id="aspace_5fc67d0ebedc55e24cfdb3b763d36233_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">32</container>
+                        <container id="aspace_5fc67d0ebedc55e24cfdb3b763d36233_c2"
+                                   localtype="folder"
+                                   parent="aspace_5fc67d0ebedc55e24cfdb3b763d36233_c1">437</container>
+                     </did>
+                     <scopecontent id="aspace_6d2dd0d8086b3162fd0e84745e5b5215">
+                        <head>Scope and Contents</head>
+                        <p>This file contains the March 1915 issue of Sunset Magazine, featuring the article, "Flying Under Fire: My Experiences in a 'Taube' During the Siege of Tsingtau. The Story of an Escape Through the Air," by Gunther Pluschow, pages 449-453.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/29439"
                      id="ref419"
