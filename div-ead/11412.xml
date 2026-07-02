@@ -41,7 +41,7 @@
                <p>Boxes: OV1, OVd16, 81</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="26">26</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1706">1,706</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="25">25</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1703">1,703</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-26T18:04:54-04:00</eventdatetime>
+            <eventdatetime>2026-07-02T18:01:14-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June 26, 2026 at 18:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  2, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -110728,7 +110728,28 @@
                                    localtype="box">213.09.19</container>
                         <container id="aspace_4018e41c49ffaf607f1ddb0c9e4fe627_c2"
                                    localtype="folder"
-                                   parent="aspace_4018e41c49ffaf607f1ddb0c9e4fe627_c1">1-2</container>
+                                   parent="aspace_4018e41c49ffaf607f1ddb0c9e4fe627_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4043012"
+                     id="aspace_2329c526ae468f81a85255c754f8e092"
+                     level="file">
+                     <did>
+                        <unittitle>Correspondence with Rena Datta</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1928">1928</fromdate>
+                              <todate standarddate="1929">1929</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/349771 /locations/9"
+                                   containerid="39002099402845"
+                                   id="aspace_2329c526ae468f81a85255c754f8e092_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">213.09.19</container>
+                        <container id="aspace_2329c526ae468f81a85255c754f8e092_c2"
+                                   localtype="folder"
+                                   parent="aspace_2329c526ae468f81a85255c754f8e092_c1">2</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3217983"
@@ -130338,35 +130359,6 @@
                      <todate standarddate="2015">2015</todate>
                   </daterange>
                </unitdatestructured>
-               <daoset altrender="/repositories/4/digital_objects/348636">
-                  <dao actuate="onrequest"
-                       audience="external"
-                       daotype="unknown"
-                       href="https://collections.library.yale.edu/manifests/33648446"
-                       identifier="oid:33648446"
-                       linktitle="3 images"
-                       linkrole="text-json"
-                       show="embed"/>
-                  <dao actuate="onrequest"
-                       audience="external"
-                       daotype="unknown"
-                       href="https://collections.library.yale.edu/iiif/2/33648453/full/!150,150/0/default.jpg"
-                       identifier="oid:33648446"
-                       linktitle="3 images"
-                       linkrole="image-thumbnail"
-                       show="embed"/>
-                  <dao actuate="onrequest"
-                       audience="external"
-                       daotype="unknown"
-                       href="https://collections.library.yale.edu/catalog/33648446"
-                       identifier="oid:33648446"
-                       linktitle="3 images"
-                       linkrole="text-html"
-                       show="new"/>
-                  <descriptivenote>
-                     <p>National movements</p>
-                  </descriptivenote>
-               </daoset>
             </did>
             <scopecontent id="aspace_6b4fa4b8154384395dabb9aad9a54853">
                <head>Scope and Contents</head>
