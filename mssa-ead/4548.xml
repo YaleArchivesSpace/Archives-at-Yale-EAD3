@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-16T03:02:05-04:00</eventdatetime>
+            <eventdatetime>2026-07-03T03:00:46-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 16, 2026 at 03:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July  3, 2026 at 03:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -90961,6 +90961,13 @@
                      level="file">
                      <did>
                         <unittitle>Crime speech, Kodak recording tape</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Film Reel</unittype>
+                        </physdescstructured>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1965">1965</datesingle>
+                        </unitdatestructured>
                         <container altrender="/repositories/12/top_containers/174892 /locations/9"
                                    containerid="39002042284183"
                                    encodinganalog="archive legal"
@@ -90970,7 +90977,15 @@
                         <container id="aspace_ref5228_c2"
                                    localtype="folder"
                                    parent="aspace_ref5228_c1">5</container>
+                        <container id="aspace_ref5228_c3"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref5228_c2">39002109612805</container>
                      </did>
+                     <accessrestrict id="aspace_84f08ece9374450b195614d72cd59362"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material (film): Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1680928"
                      id="ref5229"
