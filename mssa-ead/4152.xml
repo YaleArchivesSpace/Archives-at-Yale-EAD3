@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-05T03:01:51-05:00</eventdatetime>
+            <eventdatetime>2026-07-07T03:08:26-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday February  5, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 03:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -110,7 +110,7 @@
       </did>
       <altformavail id="aspace_5d1a7af9681c2426b1a6c10f8080e4b2">
          <head>Existence and Location of Copies</head>
-         <p>Journal of 1811 is also available on microfilm (156 frames on 1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. Order no. HM174.</p>
+         <p>Journal of 1811 is also available on microfilm (156 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 174).</p>
          <p>Journal of trip west while Commissioner to the Indians has been digitized as is available through Manuscripts and Archives.</p>
       </altformavail>
       <acqinfo id="aspace_f66b52e9d92e86bb8f6cfa568109b50a">
@@ -252,10 +252,10 @@
                           label="Mixed Materials"
                           localtype="reel">1U</container>
             </did>
-            <accessrestrict id="aspace_bc919c01e561d0372884377b194dd706" localtype="UseSurrogate">
-               <head>Conditions Governing Access</head>
-               <p>This material has been microfilmed. Patrons must use HM 174 instead of the originals.</p>
-            </accessrestrict>
+            <altformavail id="aspace_febeeab32901db1c7e95a6b63fbeded5">
+               <head>Existence and Location of Copies</head>
+               <p>This material is available on microfilm (HM 174).</p>
+            </altformavail>
          </c>
          <c altrender="/repositories/12/archival_objects/1352599"
             id="ref14"

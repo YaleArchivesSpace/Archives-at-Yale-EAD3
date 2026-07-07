@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-05T03:01:29-05:00</eventdatetime>
+            <eventdatetime>2026-07-07T03:00:55-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday February  5, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -116,7 +116,7 @@
       </did>
       <altformavail id="aspace_688226fdcbfc063eca2c3ff9358bfc0c">
          <head>Existence and Location of Copies</head>
-         <p>The correspondence of William Livingston to Noah Welles is also available on microfilm (340 frames on 1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. Order no. HM14.</p>
+         <p>The correspondence of William Livingston to Noah Welles is also available on microfilm (340 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 14).</p>
       </altformavail>
       <acqinfo id="aspace_1d2a9e31f3b52c66552a4b3b0accd685">
          <head>Immediate Source of Acquisition</head>
@@ -754,10 +754,10 @@
                                 label="Mixed Materials"
                                 localtype="reel">1U</container>
                   </did>
-                  <accessrestrict id="aspace_6e321f35ed80f2da4be013b4a2fc9794" localtype="UseSurrogate">
-                     <head>Conditions Governing Access</head>
-                     <p>This material has been microfilmed. Patrons must use HM 14 instead of the originals.</p>
-                  </accessrestrict>
+                  <altformavail id="aspace_d2eb378e34ed558c09ccf321d779a31d">
+                     <head>Existence and Location of Copies</head>
+                     <p>This material is available on microfilm (HM 14).</p>
+                  </altformavail>
                </c>
             </c>
          </c>

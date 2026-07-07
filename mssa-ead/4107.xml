@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T03:08:21-04:00</eventdatetime>
+            <eventdatetime>2026-07-07T03:08:57-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 03:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 03:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -122,8 +122,7 @@
       </acqinfo>
       <altformavail id="aspace_d092e1778bece21a75e1b81bbbbdab89">
          <head>Existence and Location of Copies</head>
-         <p>Volumes 79A-81 are also available on microfilm (810 frames on 1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. <num>Order no. HM173.</num>
-         </p>
+         <p>Volumes 79A-81 are also available on microfilm (810 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 173).</p>
       </altformavail>
       <relatedmaterial id="aspace_bb4ba09fc36048ec3c36b9c1ba474197">
          <head>Associated Materials</head>
@@ -2510,10 +2509,10 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_87c4151612739bda6376f9380635d867" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 173 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_a752ee80caeafa6a4ee23cde8d75e3b1">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (HM 173).</p>
+               </altformavail>
             </c>
             <c altrender="/repositories/12/archival_objects/1304856"
                id="ref129"
@@ -2540,10 +2539,10 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_215981345f4126cb019450b4782235b3" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 173 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_06002ffc40f6d337124dd56c5f9582c1">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (HM 173).</p>
+               </altformavail>
             </c>
             <c altrender="/repositories/12/archival_objects/1304857"
                id="ref130"
@@ -2570,10 +2569,10 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_9fda69cf5a704d9923dc66d3318f2c96" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 173 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_1cae5f3dcc93b69ab67826b13eaadfa7">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (HM 173).</p>
+               </altformavail>
             </c>
             <c altrender="/repositories/12/archival_objects/1304858"
                id="ref131"

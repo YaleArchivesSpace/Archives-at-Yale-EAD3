@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T03:11:46-04:00</eventdatetime>
+            <eventdatetime>2026-07-07T03:08:40-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 03:11</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 03:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -118,8 +118,7 @@
       </acqinfo>
       <altformavail id="aspace_de58295c38d76c951cbed0158cd74665">
          <head>Existence and Location of Copies</head>
-         <p>Newspaper clippings available in microfilm (6,592 frames on 6 reels, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. <num>Order no. HM92.</num>
-         </p>
+         <p>Newspaper clippings available in microfilm (6,592 frames on 6 reels, 35mm) from Manuscripts and Archives, Yale University Library (HM 92).</p>
       </altformavail>
       <scopecontent id="aspace_812846b57022ca35f01735ee0f580b16">
          <head>Scope and Contents</head>
@@ -814,7 +813,7 @@
       </odd>
       <processinfo id="aspace_3ca4abf9ef715558d454bbaee8881724">
          <head>Processing Information</head>
-         <p>The Chauncey Depew Papers were reprocessed in April 1979. The correspondence and miscellaneous papers, formerly in Boxes 1-40, have been reboxed and refoldered in the same order and are now available as listed in Boxes 1-13. The newspaper clippings and scrapbooks, formerly available as Boxes 41-49 and Volumes I-XII, have been microfilmed in the same order and are now available as Film no. 92. [ORIGINALS DISCARDED]</p>
+         <p>The Chauncey Depew Papers were reprocessed in April 1979. The correspondence and miscellaneous papers, formerly in Boxes 1-40, have been reboxed and refoldered in the same order and are now available as listed in Boxes 1-13. The newspaper clippings and scrapbooks, formerly available as Boxes 41-49 and Volumes I-XII, have been microfilmed in the same order and are now available as Film no. 92 (HM 92). [ORIGINALS DISCARDED]</p>
       </processinfo>
       <accessrestrict id="aspace_e61f4c787fbb8d0bcd8972c9263b8af3">
          <head>Conditions Governing Access</head>
@@ -1597,10 +1596,10 @@
                   <head>Existence and Location of Originals</head>
                   <p>Originals discarded.</p>
                </originalsloc>
-               <accessrestrict id="aspace_5f41408629e58a6f3ee395ff6f8f80a7" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 92 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_1a8a05ba8452bf153f5d1ee7ce471792">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (HM 92).</p>
+               </altformavail>
             </c>
          </c>
       </dsc>

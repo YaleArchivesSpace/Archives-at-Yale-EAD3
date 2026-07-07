@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-01-31T05:40:03-05:00</eventdatetime>
+            <eventdatetime>2026-07-07T03:09:07-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday January 31, 2026 at 05:40</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 03:09</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -118,8 +118,8 @@
       </prefercite>
       <altformavail id="aspace_0dd4fe02862e99b4671510a76d1227b8">
          <head>Existence and Location of Copies</head>
-         <p>Yale Miscellaneous Manuscript No. 77, Warner Thornton McGuinn scrapbook relating to politics and civil rights in Baltimore, Maryland, 1901-1918 is available on microfilm (157 frames on 1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. Order no. HM198.</p>
-         <p>Nathaniel W. Taylor's journal of a voyage to Hurd's Island, 1857-1859, in Series I, is available on microfilm (66 frames on 1 reel, 35 mm.) from Manuscripts and Archives, Yale University Library, at cost. Order no. HM268.</p>
+         <p>Yale Miscellaneous Manuscript No. 77, Warner Thornton McGuinn scrapbook relating to politics and civil rights in Baltimore, Maryland, 1901-1918 is available on microfilm (157 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 198).</p>
+         <p>Nathaniel W. Taylor's journal of a voyage to Hurd's Island, 1857-1859, in Series I, is available on microfilm (66 frames on 1 reel, 35 mm) from Manuscripts and Archives, Yale University Library (HM 268).</p>
       </altformavail>
       <arrangement id="aspace_1f3d123c1a5554efcd42aca032475845">
          <head>Arrangement</head>
@@ -14999,10 +14999,10 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_757e2236dd2480240b7e2cb4c5e971e9" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 268 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_3056364ecb8c24eab1f06e0771805349">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (HM 268).</p>
+               </altformavail>
             </c>
             <c altrender="/repositories/12/archival_objects/1482142"
                id="ref747"
@@ -18125,14 +18125,15 @@
                              label="Mixed Materials"
                              localtype="box">1U</container>
                </did>
-               <odd id="aspace_9a53634b7083b761b835330e10e06ed5">
-                  <head>General note</head>
-                  <p>RESTRICTED</p>
-               </odd>
-               <accessrestrict id="aspace_262e85e8ee9e8ea913e86735bd440106" localtype="UseSurrogate">
+               <accessrestrict id="aspace_262e85e8ee9e8ea913e86735bd440106"
+                               localtype="RestrictedCurApprSpecColl">
                   <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 255 instead of the originals.</p>
+                  <p>This material is restricted.</p>
                </accessrestrict>
+               <altformavail id="aspace_54dd0fc42a5ca52e54f150afaf5c3ffa">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (HM 255).</p>
+               </altformavail>
             </c>
             <c altrender="/repositories/12/archival_objects/1482304"
                id="ref910"
@@ -18695,14 +18696,10 @@
                      </descriptivenote>
                   </daoset>
                </did>
-               <odd id="aspace_1a63989b59b755a2015979355646bc7a">
-                  <head>General note</head>
-                  <p>(Microfilmed, 1985 - HM Film 198)</p>
-               </odd>
-               <accessrestrict id="aspace_844b52376d32adc6311331f918fb94b1" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 198 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_f8a36280296d43c05dd23e098e0edce4">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (HM 198, 1985).</p>
+               </altformavail>
             </c>
             <c altrender="/repositories/12/archival_objects/1482331"
                id="ref938"

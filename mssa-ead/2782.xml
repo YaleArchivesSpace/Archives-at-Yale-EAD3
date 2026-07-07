@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-02T03:06:33-04:00</eventdatetime>
+            <eventdatetime>2026-07-07T03:00:15-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  2, 2026 at 03:06</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -24355,6 +24355,27 @@
                   </daterange>
                </unitdatestructured>
             </did>
+            <c altrender="/repositories/12/archival_objects/4043013"
+               id="aspace_886dec7f72c57eb4f09c1882133ee4d5"
+               level="file">
+               <did>
+                  <unittitle>Fact sheets</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>30</quantity>
+                     <unittype>Computer Files (.pdf)</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                     <quantity>4.08</quantity>
+                     <unittype>Megabytes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1996-2025" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1996">1996</fromdate>
+                        <todate standarddate="2025">2025</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+            </c>
          </c>
       </dsc>
    </archdesc>
