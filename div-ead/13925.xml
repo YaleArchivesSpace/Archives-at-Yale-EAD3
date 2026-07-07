@@ -37,7 +37,7 @@
                <p>Boxes: 1-139, 142-144, 147-149, 151-168, 170-194, 196, 201-202, 204-208, 217-220, 223, 226-229, 238</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-244</p>
+               <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="50">50</num> digital files.</p>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-02T18:00:42-04:00</eventdatetime>
+            <eventdatetime>2026-07-07T18:00:27-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  2, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -83,7 +83,7 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>70</quantity>
+            <quantity>95</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
          <unitdatestructured label="creation" unitdatetype="inclusive">
@@ -41266,6 +41266,28 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                      </did>
                   </c>
                </c>
+               <c altrender="/repositories/4/archival_objects/4043276"
+                  id="aspace_058dfa59018ec3a779a5fb89f1f3da46"
+                  level="file">
+                  <did>
+                     <unittitle>Mary MacKillop East Timor Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2009">2009</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483410 /locations/2"
+                                containerid="39002112327052"
+                                id="aspace_058dfa59018ec3a779a5fb89f1f3da46_c1"
+                                label="Mixed Materials"
+                                localtype="box">241</container>
+                     <container id="aspace_058dfa59018ec3a779a5fb89f1f3da46_c2"
+                                localtype="folder"
+                                parent="aspace_058dfa59018ec3a779a5fb89f1f3da46_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_1599ad1bf53996878599fe6e35bf9044">
+                     <head>Scope and Contents</head>
+                     <p>Annual report, newsletters of Catholic mission in East Timor [Timor-Leste].</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4042933"
                   id="aspace_c73d6fe65c80256554bdf45b93fa7868"
                   level="file">
@@ -41286,7 +41308,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">241</container>
                      <container id="aspace_c73d6fe65c80256554bdf45b93fa7868_c2"
                                 localtype="folder"
-                                parent="aspace_c73d6fe65c80256554bdf45b93fa7868_c1">1</container>
+                                parent="aspace_c73d6fe65c80256554bdf45b93fa7868_c1">2</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/4042934"
@@ -41307,11 +41329,36 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">241</container>
                      <container id="aspace_733df44c1209f02398a27b1b0a793307_c2"
                                 localtype="folder"
-                                parent="aspace_733df44c1209f02398a27b1b0a793307_c1">2-3</container>
+                                parent="aspace_733df44c1209f02398a27b1b0a793307_c1">3-4</container>
                   </did>
                   <scopecontent id="aspace_fafd3797c3670ad211a9f5bb486f04c6">
                      <head>Scope and Contents</head>
                      <p>Reports, newsletters, brochures.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4043286"
+                  id="aspace_95e7ac220ee1cf5343bbd1d1d7f1a697"
+                  level="file">
+                  <did>
+                     <unittitle>South Seas Evangelical Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1920">1920</fromdate>
+                           <todate standarddate="1921">1921</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483410 /locations/2"
+                                containerid="39002112327052"
+                                id="aspace_95e7ac220ee1cf5343bbd1d1d7f1a697_c1"
+                                label="Mixed Materials"
+                                localtype="box">241</container>
+                     <container id="aspace_95e7ac220ee1cf5343bbd1d1d7f1a697_c2"
+                                localtype="folder"
+                                parent="aspace_95e7ac220ee1cf5343bbd1d1d7f1a697_c1">5</container>
+                  </did>
+                  <scopecontent id="aspace_219ce5b283a56185593781f46b761420">
+                     <head>Scope and Contents</head>
+                     <p>Newsletters, brochure related to work in the Solomon Islands.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4042936"
@@ -41329,7 +41376,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">241</container>
                      <container id="aspace_49fb9aebc2c9831584957912315eeea0_c2"
                                 localtype="folder"
-                                parent="aspace_49fb9aebc2c9831584957912315eeea0_c1">4</container>
+                                parent="aspace_49fb9aebc2c9831584957912315eeea0_c1">6</container>
                   </did>
                   <scopecontent id="aspace_f29decd1960ef4720fe23876c533da8e">
                      <head>Scope and Contents</head>
@@ -41351,7 +41398,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">241</container>
                      <container id="aspace_041ab1868344993b38d168e62a2783af_c2"
                                 localtype="folder"
-                                parent="aspace_041ab1868344993b38d168e62a2783af_c1">5</container>
+                                parent="aspace_041ab1868344993b38d168e62a2783af_c1">7</container>
                   </did>
                   <scopecontent id="aspace_ff064b79c2ca11540cbcab7e24c99249">
                      <head>Scope and Contents</head>
@@ -41365,6 +41412,26 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                <did>
                   <unittitle>Fiji</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4043287"
+                  id="aspace_f7ee9d7dfc7a2d044f8f654f59fd436b"
+                  level="file">
+                  <did>
+                     <unittitle>Anglican Church, Education Commission</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/483411 /locations/2"
+                                containerid="39002112327060"
+                                id="aspace_f7ee9d7dfc7a2d044f8f654f59fd436b_c1"
+                                label="Mixed Materials"
+                                localtype="box">242</container>
+                     <container id="aspace_f7ee9d7dfc7a2d044f8f654f59fd436b_c2"
+                                localtype="folder"
+                                parent="aspace_f7ee9d7dfc7a2d044f8f654f59fd436b_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_e67dae5e7b05b820a140a70892809a76">
+                     <head>Scope and Contents</head>
+                     <p>Report on schools.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4042939"
                   id="aspace_b4527af983d9ea537feb247b173d8b95"
                   level="file">
@@ -41383,7 +41450,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">242</container>
                      <container id="aspace_b4527af983d9ea537feb247b173d8b95_c2"
                                 localtype="folder"
-                                parent="aspace_b4527af983d9ea537feb247b173d8b95_c1">1</container>
+                                parent="aspace_b4527af983d9ea537feb247b173d8b95_c1">2</container>
                   </did>
                   <scopecontent id="aspace_654a943532103acaa648f3d9009c56dd">
                      <head>Scope and Contents</head>
@@ -41405,7 +41472,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">242</container>
                      <container id="aspace_cc48e6030eda7c363bd74a71fed29e41_c2"
                                 localtype="folder"
-                                parent="aspace_cc48e6030eda7c363bd74a71fed29e41_c1">2</container>
+                                parent="aspace_cc48e6030eda7c363bd74a71fed29e41_c1">3</container>
                   </did>
                   <scopecontent id="aspace_75630a5ce5f5fe30c943921f12ed6a7f">
                      <head>Scope and Contents</head>
@@ -41430,7 +41497,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">242</container>
                      <container id="aspace_882c6ce5274a5975c5f0f7c337552502_c2"
                                 localtype="folder"
-                                parent="aspace_882c6ce5274a5975c5f0f7c337552502_c1">3</container>
+                                parent="aspace_882c6ce5274a5975c5f0f7c337552502_c1">4</container>
                   </did>
                   <scopecontent id="aspace_0180b7b097d226d7277f8f3025a76e1f">
                      <head>Scope and Contents</head>
@@ -41464,7 +41531,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">242</container>
                      <container id="aspace_4e72b16d5841fc2b884a1cfbee0e64d5_c2"
                                 localtype="folder"
-                                parent="aspace_4e72b16d5841fc2b884a1cfbee0e64d5_c1">4</container>
+                                parent="aspace_4e72b16d5841fc2b884a1cfbee0e64d5_c1">5</container>
                   </did>
                   <scopecontent id="aspace_3ab8f1751185b0d2a0b21bcb1555e7cd">
                      <head>Scope and Contents</head>
@@ -41494,7 +41561,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">242</container>
                      <container id="aspace_b72ebb8f2ede8b9fe15569c0ce16d3f7_c2"
                                 localtype="folder"
-                                parent="aspace_b72ebb8f2ede8b9fe15569c0ce16d3f7_c1">5</container>
+                                parent="aspace_b72ebb8f2ede8b9fe15569c0ce16d3f7_c1">6</container>
                   </did>
                   <scopecontent id="aspace_353e4e7f40f64f3f65c9425c0ef04140">
                      <head>Scope and Contents</head>
@@ -41526,7 +41593,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">242</container>
                      <container id="aspace_d55291b78463bd810414c7311d74aee5_c2"
                                 localtype="folder"
-                                parent="aspace_d55291b78463bd810414c7311d74aee5_c1">6</container>
+                                parent="aspace_d55291b78463bd810414c7311d74aee5_c1">7</container>
                   </did>
                   <scopecontent id="aspace_90e1304c9970ec9affa38177cd595536">
                      <head>Scope and Contents</head>
@@ -41557,7 +41624,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                    localtype="box">242</container>
                         <container id="aspace_247975f76d9401f2d72588492539ba18_c2"
                                    localtype="folder"
-                                   parent="aspace_247975f76d9401f2d72588492539ba18_c1">7</container>
+                                   parent="aspace_247975f76d9401f2d72588492539ba18_c1">8</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4042986"
@@ -41578,7 +41645,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                    localtype="box">242</container>
                         <container id="aspace_dec9e7caa7b90662751fc1c843fe79a5_c2"
                                    localtype="folder"
-                                   parent="aspace_dec9e7caa7b90662751fc1c843fe79a5_c1">8-9</container>
+                                   parent="aspace_dec9e7caa7b90662751fc1c843fe79a5_c1">9-10</container>
                      </did>
                      <scopecontent id="aspace_0043a59f40dce9cef9266da488bdee8c">
                         <head>Scope and Contents</head>
@@ -41600,7 +41667,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                    localtype="box">242</container>
                         <container id="aspace_200e3708561ad28313c01c8f373fbe1f_c2"
                                    localtype="folder"
-                                   parent="aspace_200e3708561ad28313c01c8f373fbe1f_c1">10</container>
+                                   parent="aspace_200e3708561ad28313c01c8f373fbe1f_c1">11</container>
                      </did>
                   </c>
                </c>
@@ -41616,7 +41683,7 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="box">242</container>
                      <container id="aspace_695f5319c5ffb968fecc23b3feafe8ab_c2"
                                 localtype="folder"
-                                parent="aspace_695f5319c5ffb968fecc23b3feafe8ab_c1">11</container>
+                                parent="aspace_695f5319c5ffb968fecc23b3feafe8ab_c1">12</container>
                   </did>
                   <scopecontent id="aspace_0600547d23869ef42397d92a5af56f96">
                      <head>Scope and Contents</head>
@@ -41917,6 +41984,381 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 localtype="folder"
                                 parent="aspace_985a583b87ed27a23c31f7d46a74a066_c1">4</container>
                   </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4043277"
+                  id="aspace_313401668f82d9f438dc462080a0d0d3"
+                  level="file">
+                  <did>
+                     <unittitle>Evangelical Lutheran Church of Papua New Guinea</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1979">1979</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483416 /locations/2"
+                                containerid="39002112327086"
+                                id="aspace_313401668f82d9f438dc462080a0d0d3_c1"
+                                label="Mixed Materials"
+                                localtype="box">244</container>
+                     <container id="aspace_313401668f82d9f438dc462080a0d0d3_c2"
+                                localtype="folder"
+                                parent="aspace_313401668f82d9f438dc462080a0d0d3_c1">5-6</container>
+                  </did>
+                  <scopecontent id="aspace_d25ab1df5df4a39c5f78982611b499a7">
+                     <head>Scope and Contents</head>
+                     <p>Correspondence, organizational study, reports.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4043278"
+                  id="aspace_f7f9ccb9a40e3278e8885672d67477c0"
+                  level="file">
+                  <did>
+                     <unittitle>New Guinea Lutheran Mission, Missouri Synod</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1968, undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/483416 /locations/2"
+                                containerid="39002112327086"
+                                id="aspace_f7f9ccb9a40e3278e8885672d67477c0_c1"
+                                label="Mixed Materials"
+                                localtype="box">244</container>
+                     <container id="aspace_f7f9ccb9a40e3278e8885672d67477c0_c2"
+                                localtype="folder"
+                                parent="aspace_f7f9ccb9a40e3278e8885672d67477c0_c1">7</container>
+                  </did>
+                  <scopecontent id="aspace_1ba40b7fc998338774839db31bd759a3">
+                     <head>Scope and Contents</head>
+                     <p>Correspondence, mission statement related to Wabag Lutheran Church in Wabag, Western Highlands.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4043280"
+                  id="aspace_9c1fe859a20169e2fb9c55a85ed5c105"
+                  level="file">
+                  <did>
+                     <unittitle> United Church of Papua New Guinea and the Solomon Islands</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/483416 /locations/2"
+                                containerid="39002112327086"
+                                id="aspace_9c1fe859a20169e2fb9c55a85ed5c105_c1"
+                                label="Mixed Materials"
+                                localtype="box">244</container>
+                     <container id="aspace_9c1fe859a20169e2fb9c55a85ed5c105_c2"
+                                localtype="folder"
+                                parent="aspace_9c1fe859a20169e2fb9c55a85ed5c105_c1">8</container>
+                  </did>
+                  <scopecontent id="aspace_d72a9b4a13a42ef2f92574056fac9ec4">
+                     <head>Scope and Contents</head>
+                     <p>Report.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4043281"
+               id="aspace_3b8378c37bf8454303b3bd9e1fe9e367"
+               level="subseries">
+               <did>
+                  <unittitle>Samoa</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4043282"
+                  id="aspace_ac38350ee4dea51e661376d84474631b"
+                  level="file">
+                  <did>
+                     <unittitle>Ekalesia Faapotopotoga Kerisiano i Samoa</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1979">1979</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483416 /locations/2"
+                                containerid="39002112327086"
+                                id="aspace_ac38350ee4dea51e661376d84474631b_c1"
+                                label="Mixed Materials"
+                                localtype="box">244</container>
+                     <container id="aspace_ac38350ee4dea51e661376d84474631b_c2"
+                                localtype="folder"
+                                parent="aspace_ac38350ee4dea51e661376d84474631b_c1">9</container>
+                  </did>
+                  <scopecontent id="aspace_4e5dfbd3d600b696054a78e570a09185">
+                     <head>Scope and Contents</head>
+                     <p>History of the church from 1952 to 1978.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4043283"
+               id="aspace_c01980d9b8d4be0feb0fd20107436e3a"
+               level="subseries">
+               <did>
+                  <unittitle>Solomon Islands</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4043284"
+                  id="aspace_8196beabada7953c916194e20bf79477"
+                  level="file">
+                  <did>
+                     <unittitle>British Solomon Islands Protectorate, Department of Education</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1965">1965</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483416 /locations/2"
+                                containerid="39002112327086"
+                                id="aspace_8196beabada7953c916194e20bf79477_c1"
+                                label="Mixed Materials"
+                                localtype="box">244</container>
+                     <container id="aspace_8196beabada7953c916194e20bf79477_c2"
+                                localtype="folder"
+                                parent="aspace_8196beabada7953c916194e20bf79477_c1">10</container>
+                  </did>
+                  <scopecontent id="aspace_2d2e07cb56fc7520930230cc571328e3">
+                     <head>Scope and Contents</head>
+                     <p>Annual report.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4043285"
+                  id="aspace_1f0a92eee4986d0b5a3009b1720a56f5"
+                  level="file">
+                  <did>
+                     <unittitle>Methodist Church in the Solomon Islands</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1958">1958</fromdate>
+                           <todate standarddate="1960">1960</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483416 /locations/2"
+                                containerid="39002112327086"
+                                id="aspace_1f0a92eee4986d0b5a3009b1720a56f5_c1"
+                                label="Mixed Materials"
+                                localtype="box">244</container>
+                     <container id="aspace_1f0a92eee4986d0b5a3009b1720a56f5_c2"
+                                localtype="folder"
+                                parent="aspace_1f0a92eee4986d0b5a3009b1720a56f5_c1">11-12</container>
+                  </did>
+                  <scopecontent id="aspace_05bc56e8b5696ebd7c55fbeeedabbb01">
+                     <head>Scope and Contents</head>
+                     <p>Correspondence related to Silas Eto movement. Silas Eto was founder of the Christian Fellowship Church, an independent, indigenous religious movement that broke away from the Methodist Mission in 1960.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4043288"
+               id="aspace_efa63db212d843e686de47fe8358c08b"
+               level="subseries">
+               <did>
+                  <unittitle>Tonga</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4043289"
+                  id="aspace_f103a4a9a0c7225b4ea49df5047ed2ad"
+                  level="file">
+                  <did>
+                     <unittitle>Free Wesleyan Church of Tonga</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1969">1969</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                containerid="39002112327094"
+                                id="aspace_f103a4a9a0c7225b4ea49df5047ed2ad_c1"
+                                label="Mixed Materials"
+                                localtype="box">245</container>
+                     <container id="aspace_f103a4a9a0c7225b4ea49df5047ed2ad_c2"
+                                localtype="folder"
+                                parent="aspace_f103a4a9a0c7225b4ea49df5047ed2ad_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_0a5ab11b4ddb161687368929f4956e5d">
+                     <head>Scope and Contents</head>
+                     <p>Constitution and By-Laws.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4043290"
+               id="aspace_0846487905df5f0cab74345ed6c75f50"
+               level="subseries">
+               <did>
+                  <unittitle>Vanuatu</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4043292"
+                  id="aspace_93d6128a705d449f1d0ccb1526c1c8f6"
+                  level="file">
+                  <did>
+                     <unittitle>Church of Melanesia, Diocese of Vanuatu</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1990">1990</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                containerid="39002112327094"
+                                id="aspace_93d6128a705d449f1d0ccb1526c1c8f6_c1"
+                                label="Mixed Materials"
+                                localtype="box">245</container>
+                     <container id="aspace_93d6128a705d449f1d0ccb1526c1c8f6_c2"
+                                localtype="folder"
+                                parent="aspace_93d6128a705d449f1d0ccb1526c1c8f6_c1">2</container>
+                  </did>
+                  <scopecontent id="aspace_6cbbafe9549b7a1cf63586084e9ecef2">
+                     <head>Scope and Contents</head>
+                     <p>Memorandum, reports.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4043291"
+                  id="aspace_5251988466493c167e451ecc5caf018c"
+                  level="file">
+                  <did>
+                     <unittitle>Presbyterian Church of the New Hebrides / Presbyterian Church of Vanuatu</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1935">1935</fromdate>
+                           <todate standarddate="1986">1986</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                containerid="39002112327094"
+                                id="aspace_5251988466493c167e451ecc5caf018c_c1"
+                                label="Mixed Materials"
+                                localtype="box">245</container>
+                     <container id="aspace_5251988466493c167e451ecc5caf018c_c2"
+                                localtype="folder"
+                                parent="aspace_5251988466493c167e451ecc5caf018c_c1">3-5</container>
+                  </did>
+                  <scopecontent id="aspace_c00db47d56bf5e426f5720ad93e74745">
+                     <head>Scope and Contents</head>
+                     <p>Synod minutes, General Assembly proceedings, reports.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4043294"
+               id="aspace_0c315d98f159cdafe7edd6ecfdc219f9"
+               level="subseries">
+               <did>
+                  <unittitle>Melanesia region</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4043296"
+                  id="aspace_a8278c137605c47c4e068d9f37cc4c2e"
+                  level="subseries">
+                  <did>
+                     <unittitle>Anglican Church</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4043293"
+                     id="aspace_b98496545ff77256b7ea9b9102abc677"
+                     level="file">
+                     <did>
+                        <unittitle>Melanesian Mission</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1890">1890</fromdate>
+                              <todate standarddate="1932">1932</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                   containerid="39002112327094"
+                                   id="aspace_b98496545ff77256b7ea9b9102abc677_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">245</container>
+                        <container id="aspace_b98496545ff77256b7ea9b9102abc677_c2"
+                                   localtype="folder"
+                                   parent="aspace_b98496545ff77256b7ea9b9102abc677_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4043295"
+                     id="aspace_6882990b876d2777c339cf7f4a14e7b9"
+                     level="file">
+                     <did>
+                        <unittitle>Diocese of Melanesia</unittitle>
+                        <unitdatestructured altrender="1970-1986, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1970">1970</fromdate>
+                              <todate standarddate="1986">1986</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                   containerid="39002112327094"
+                                   id="aspace_6882990b876d2777c339cf7f4a14e7b9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">245</container>
+                        <container id="aspace_6882990b876d2777c339cf7f4a14e7b9_c2"
+                                   localtype="folder"
+                                   parent="aspace_6882990b876d2777c339cf7f4a14e7b9_c1">7</container>
+                     </did>
+                     <scopecontent id="aspace_4c8c579986d7872efdd899d31adf862c">
+                        <head>Scope and Contents</head>
+                        <p>Newsletters, catechism</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4043297"
+                     id="aspace_1311a49056d8b37cb68f8cdab2670845"
+                     level="file">
+                     <did>
+                        <unittitle>Companions of the Melanesian Brotherhood</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1977">1977</fromdate>
+                              <todate standarddate="1979">1979</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                   containerid="39002112327094"
+                                   id="aspace_1311a49056d8b37cb68f8cdab2670845_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">245</container>
+                        <container id="aspace_1311a49056d8b37cb68f8cdab2670845_c2"
+                                   localtype="folder"
+                                   parent="aspace_1311a49056d8b37cb68f8cdab2670845_c1">8</container>
+                     </did>
+                     <scopecontent id="aspace_9b9e0fb7318f622f119926583f0cb888">
+                        <head>Scope and Contents</head>
+                        <p>Handbook, minutes.</p>
+                     </scopecontent>
+                  </c>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4043298"
+               id="aspace_4e2b9f07f4d5008c312ccf83b33b548a"
+               level="subseries">
+               <did>
+                  <unittitle>Polynesia region</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4043300"
+                  id="aspace_55f688c6ce247374a9ee0e42c18eb0c1"
+                  level="file">
+                  <did>
+                     <unittitle>Anglican Church in Polynesia</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1962">1962</fromdate>
+                           <todate standarddate="1967">1967</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                containerid="39002112327094"
+                                id="aspace_55f688c6ce247374a9ee0e42c18eb0c1_c1"
+                                label="Mixed Materials"
+                                localtype="box">245</container>
+                     <container id="aspace_55f688c6ce247374a9ee0e42c18eb0c1_c2"
+                                localtype="folder"
+                                parent="aspace_55f688c6ce247374a9ee0e42c18eb0c1_c1">9</container>
+                  </did>
+                  <scopecontent id="aspace_eb46668f293840f301d6552be90c2e0d">
+                     <head>Scope and Contents</head>
+                     <p>Newsletters, reports, publications.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4043299"
+                  id="aspace_b9c6d0b11fdc4a523e4efe8e3680e4fa"
+                  level="file">
+                  <did>
+                     <unittitle>Eglise évangélique de Polynésie française</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1963">1963</fromdate>
+                           <todate standarddate="1982">1982</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/483431 /locations/2"
+                                containerid="39002112327094"
+                                id="aspace_b9c6d0b11fdc4a523e4efe8e3680e4fa_c1"
+                                label="Mixed Materials"
+                                localtype="box">245</container>
+                     <container id="aspace_b9c6d0b11fdc4a523e4efe8e3680e4fa_c2"
+                                localtype="folder"
+                                parent="aspace_b9c6d0b11fdc4a523e4efe8e3680e4fa_c1">10-11</container>
+                  </did>
+                  <scopecontent id="aspace_b6587a760c7a423e505ca8a94b0d9c25">
+                     <head>Scope and Contents</head>
+                     <p>Histories, informational booklet.</p>
+                  </scopecontent>
                </c>
             </c>
          </c>
