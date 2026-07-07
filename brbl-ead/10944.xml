@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-25T23:21:53-04:00</eventdatetime>
+            <eventdatetime>2026-07-06T23:00:48-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday June 25, 2026 at 23:21</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July  6, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -104,19 +104,23 @@
             </persname>
          </origination>
       </did>
-      <acqinfo id="aspace_71cce49cb0b55cccb91d5f3143bf0c1a">
-         <head>Immediate Source of Acquisition</head>
-         <p>Gift of Karen Caesar, 2018, 2020, 2025.</p>
-      </acqinfo>
       <accessrestrict id="aspace_557a856cc0304598b1a0d98a282b79b0">
          <head>Conditions Governing Access</head>
          <p>This collection is open for research.</p>
          <p>Boxes 24-27 (audiovisual materials): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
       </accessrestrict>
-      <userestrict id="aspace_58c74553aa6c923b28da38e63dc16ec5">
-         <head>Conditions Governing Use</head>
-         <p>The Sid Caesar Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
-      </userestrict>
+      <acqinfo id="aspace_71cce49cb0b55cccb91d5f3143bf0c1a">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Karen Caesar, 2018, 2020, 2025.</p>
+      </acqinfo>
+      <arrangement id="aspace_c1a8a996ea3766e5d4665ad4e1d3c3fa">
+         <head>Arrangement</head>
+         <p>Organized into three groupings: January 2018 acquisition; March 2020 acquisition; and May 2025 acquisition.</p>
+      </arrangement>
+      <bioghist id="aspace_f13c847370290c468c9f7a13d0a0b664">
+         <head>Sid Caesar</head>
+         <p>Sid Caesar (1922-2014), American comic actor and writer.</p>
+      </bioghist>
       <prefercite id="aspace_ba22a29f0ffef8d12979072f5d5818f7">
          <head>Preferred Citation</head>
          <p>Sid Caesar Papers. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</p>
@@ -128,18 +132,14 @@
          <p>Information included in the Description of Papers note and Collection Contents section is drawn from information supplied with the collection and from an initial survey of the contents. Folder titles appearing in the contents list below are often based on those provided by the creator or previous custodian. Titles have not been verified against the contents of the folders in all cases. Otherwise, folder titles are supplied by staff during initial processing.</p>
          <p>This finding aid may be updated periodically to account for new acquisitions to the collection or revisions in arrangement and description.</p>
       </processinfo>
-      <arrangement id="aspace_c1a8a996ea3766e5d4665ad4e1d3c3fa">
-         <head>Arrangement</head>
-         <p>Organized into three groupings: January 2018 acquisition; March 2020 acquisition; and May 2025 acquisition.</p>
-      </arrangement>
       <scopecontent id="aspace_67efc85d51a87336bc2448bccdb8cd1a">
          <head>Content Description</head>
          <p>The bulk of this collection consists of Sid Caesar's copies of scripts from his many television programs and appearances, including Your Show of Shows, Caesar's Hour, Sid Caesar Invites You, The Sid Caesar Show, and others. It also includes related correspondence, screenplays, subject files, and reference materials, as well as recordings of Your Show of Shows and other programs related to Caesar.</p>
       </scopecontent>
-      <bioghist id="aspace_f13c847370290c468c9f7a13d0a0b664">
-         <head>Sid Caesar</head>
-         <p>Sid Caesar (1922-2014), American comic actor and writer.</p>
-      </bioghist>
+      <userestrict id="aspace_58c74553aa6c923b28da38e63dc16ec5">
+         <head>Conditions Governing Use</head>
+         <p>The Sid Caesar Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
+      </userestrict>
       <controlaccess>
          <title source="local_beinecke">
             <part localtype="uniform_title">Caesar's hour (Television program)</part>
