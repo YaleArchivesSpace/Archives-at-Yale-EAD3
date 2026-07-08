@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T06:35:07-04:00</eventdatetime>
+            <eventdatetime>2026-07-08T03:02:43-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 06:35</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  8, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -845,6 +845,16 @@
                            <unittype>Computer Files (.jpg)</unittype>
                         </physdescstructured>
                         <unitdatestructured altrender="1969" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1969">1969</datesingle>
+                        </unitdatestructured>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4043308"
+                     id="aspace_31a448a6c1bf4ea325db5f41225ff125"
+                     level="file">
+                     <did>
+                        <unittitle>Community Center</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1969">1969</datesingle>
                         </unitdatestructured>
                      </did>
