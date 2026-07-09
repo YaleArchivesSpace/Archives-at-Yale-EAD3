@@ -42,7 +42,7 @@
                <p>Boxes: 1-11, OV11-A1, OV11-A2, OV11-B3, OV11-B2, OV11-B1, OV11-C2, OV11-C3, OV11-C4, OV11-C1, OV11-D, OV11-E, OV11-F7, OV11-F1, OV11-F2, OV11-F3, OV11-F4, OV11-F5, OV11-F6, OV11-H, OV11-i2, OV11-i1, OV11-J1, OV11-J2, OV11-J3, OV11-J4, OV11-J5, OV11-L, OV11-M, OV11-N, OV11-O, OV11-P1, OV11-P2, OV11-Q, OV11-R, OV11-S, OV11-T-56, 56a-143, 143A-235, 235A-400A, 400B-420A, 420B-465, 442.5</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: OVd1, OVd7-OVd9, OV11-G, OV11-U, OV11-V, OVd15, OVd17, 466</p>
+               <p>Boxes: OVd1, OVd7-OVd9, OV11-G, OV11-U, OV11-V, OVd14-OVd15, OVd17, 466</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="655">655</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="15673">15,673</num> digital files.</p>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-02T18:02:56-04:00</eventdatetime>
+            <eventdatetime>2026-07-09T18:01:29-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  2, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -109150,6 +109150,52 @@ Folder 3: blueprints of campus grounds, placement of buildings</p>
                              label="Mixed Materials"
                              localtype="box">OVd9</container>
                </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4044720"
+               id="aspace_f9348481f5b54c5e0255d2343a028412"
+               level="file">
+               <did>
+                  <unittitle>Christian colleges in China photographs</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>3</quantity>
+                     <unittype>Folders</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="circa 1920s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1915">1915</fromdate>
+                        <todate standarddate="1925">1925</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/483997 /locations/2"
+                             id="aspace_f9348481f5b54c5e0255d2343a028412_c1"
+                             label="Mixed Materials"
+                             localtype="box">OVd14</container>
+               </did>
+               <scopecontent id="aspace_c675ae38811536ef8bdf901cb1e4a9d7">
+                  <head>Scope and Contents</head>
+                  <p>Eight black-and-white photographic prints, 11 x 14 inches, in mats, 16 x 20 inches, formerly framed. Abbreviated names of the institution printed underneath the opening of each mat. Images depict the exterior of buildings of the following institutions: Fukien Christian University, Hangchow Christian College, Hwa Nan College, University of Nanking, Shantung Christian University (Cheeloo University), Soochow University, St. Johns University, and West China Union University.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4044729"
+               id="aspace_c7e5a1a2101ff5a16c634ba91ee264d4"
+               level="file">
+               <did>
+                  <unittitle>Mounted photograph of Ginling College</unittitle>
+                  <unitdatestructured altrender="circa 1920s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1915">1915</fromdate>
+                        <todate standarddate="1925">1925</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/483997 /locations/2"
+                             id="aspace_c7e5a1a2101ff5a16c634ba91ee264d4_c1"
+                             label="Mixed Materials"
+                             localtype="box">OVd14</container>
+               </did>
+               <scopecontent id="aspace_f4717af3eb950c218e648bccb8baa626">
+                  <head>Scope and Contents</head>
+                  <p>A black-and-white photographic print, 11 x 13.5 inches, on mount, 16 x 20 inches, depicting the exterior of Ginling College.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>
