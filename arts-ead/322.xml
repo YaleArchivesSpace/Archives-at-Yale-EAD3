@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-05T19:00:47-04:00</eventdatetime>
+            <eventdatetime>2026-07-09T19:00:41-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June  5, 2026 at 19:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 19:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -19257,15 +19257,14 @@
                <did>
                   <unittitle>Teaching</unittitle>
                </did>
-               <accessrestrict id="aspace_0a1efc3e6cc48d25fedcf31943f77230"
-                               localtype="RestrictedSpecColl">
-                  <head>Conditions Governing Access</head>
-                  <p>Access to student files may be prohibited for 75 years or life plus five years (whichever is longer).</p>
-               </accessrestrict>
                <arrangement id="aspace_e424c2cf054eaac43008342a98102109">
                   <head>Arrangement</head>
                   <p>Files are arranged alphabetically by name of institution.</p>
                </arrangement>
+               <accessrestrict id="aspace_e60c9323d1b640c1bf4131869b4e8b34">
+                  <head>Conditions Governing Access</head>
+                  <p>Access to student files may be prohibited for 75 years or life plus five years (whichever is longer). See restrictions on individual files.</p>
+               </accessrestrict>
                <c altrender="/repositories/5/archival_objects/3646108"
                   id="aspace_8809313b07bc94f68daa58fdfc6b6222"
                   level="file">
