@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-03T03:00:46-04:00</eventdatetime>
+            <eventdatetime>2026-07-10T03:10:41-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July  3, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:10</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -90963,11 +90963,16 @@
                         <unittitle>Crime speech, Kodak recording tape</unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                            <quantity>1</quantity>
-                           <unittype>Film Reel</unittype>
+                           <unittype>audiotape reel</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:03:34</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
                         </physdescstructured>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1965">1965</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_5e89a87a83c14ac3bc53724637081a00">Audio distortion, hiss, and hum are present.</materialspec>
                         <container altrender="/repositories/12/top_containers/174892 /locations/9"
                                    containerid="39002042284183"
                                    encodinganalog="archive legal"
@@ -90984,7 +90989,7 @@
                      <accessrestrict id="aspace_84f08ece9374450b195614d72cd59362"
                                      localtype="RestrictedFragileSpecColl">
                         <head>Conditions Governing Access</head>
-                        <p>Audiovisual material (film): Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
                      </accessrestrict>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1680928"

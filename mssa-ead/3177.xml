@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T03:34:17-05:00</eventdatetime>
+            <eventdatetime>2026-07-10T03:04:31-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 03:34</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -121,12 +121,11 @@
       </acqinfo>
       <altformavail id="aspace_037eb6eae343d8b0a4cf34fc75c1c0f5">
          <head>Existence and Location of Copies</head>
-         <p>Papers relating to the genealogy of the Pierpont family are available on microfilm (97 frames on 1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. <num>Order no. HM144.</num>
-         </p>
+         <p>Papers relating to the genealogy of the Pierpont family are available on microfilm (97 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 144).</p>
       </altformavail>
       <relatedmaterial id="aspace_7c0b97d2ce919e8c58fb5c2b350d4c97">
          <head>Related Materials</head>
-         <p>Pierpont's Store Collection, MS Group No. 399.</p>
+         <p>Pierpont's Store Collection, MS 399.</p>
       </relatedmaterial>
       <arrangement id="aspace_595a1492a8efd409cb24f36a9804e7b3">
          <head>Arrangement</head>
@@ -1350,10 +1349,10 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_0143627a440716f917b64f9ac081a5f7" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 144 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_15f5a18008811c094eba8d85cb44c10c">
+                  <head>Existence and Location of Copies</head>
+                  <p>Papers relating to the genealogy of the Pierpont family are available on microfilm (97 frames on 1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 144).</p>
+               </altformavail>
                <c altrender="/repositories/12/archival_objects/1197721"
                   id="ref51"
                   level="file">

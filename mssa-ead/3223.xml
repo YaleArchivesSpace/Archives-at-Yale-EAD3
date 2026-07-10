@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T04:07:16-04:00</eventdatetime>
+            <eventdatetime>2026-07-10T03:04:21-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 04:07</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -110,7 +110,7 @@
       </did>
       <altformavail id="aspace_79fe05ba6f6ce2d516f8d5e443f89e06">
          <head>Existence and Location of Copies</head>
-         <p>Notes made by Roger Sherman Skinner of lectures by James Gould at the Litchfield Law School, 1815-1816 are also available on microfilm (1 reel, 35mm.) from Manuscripts and Archives, Yale University Library, at cost. Order no. HM246.</p>
+         <p>Notes made by Roger Sherman Skinner of lectures by James Gould at the Litchfield Law School, 1815-1816 are also available on microfilm (1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 246).</p>
       </altformavail>
       <userestrict id="aspace_6cf64a1117c88d5a78656b7207a40b7f">
          <head>Conditions Governing Use</head>
@@ -333,10 +333,10 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_bf6b85ee6ca4806165e3c33776c38753" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 246 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_915111fcfd3540f87e8e44d061e9e408">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 246).</p>
+               </altformavail>
             </c>
             <c altrender="/repositories/12/archival_objects/1198911"
                id="ref20"
@@ -363,10 +363,10 @@
                              label="Mixed Materials"
                              localtype="reel">1U</container>
                </did>
-               <accessrestrict id="aspace_1bf7a156fe4c06d9aeac0759eba092fe" localtype="UseSurrogate">
-                  <head>Conditions Governing Access</head>
-                  <p>This material has been microfilmed. Patrons must use HM 246 instead of the originals.</p>
-               </accessrestrict>
+               <altformavail id="aspace_398261cef85ff4c8e6f3b865911305bd">
+                  <head>Existence and Location of Copies</head>
+                  <p>This material is available on microfilm (1 reel, 35mm) from Manuscripts and Archives, Yale University Library (HM 246).</p>
+               </altformavail>
             </c>
          </c>
       </dsc>
