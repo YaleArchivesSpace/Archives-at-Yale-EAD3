@@ -38,7 +38,7 @@
                <p>Boxes: 1-17</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-08T23:01:55-04:00</eventdatetime>
+            <eventdatetime>2026-07-09T23:02:01-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  8, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3254,9 +3254,14 @@ media in the collection document interviews, readings, and other events with whi
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:31:45</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2011 January" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2011-01">2011 January</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_bd48faa34f2b993f9af012c05b5e636d">Audio distortion, hiss, and hum are present.</materialspec>
                      <container altrender="/repositories/11/top_containers/406879 /locations/9"
                                 containerid="39002140952863"
                                 encodinganalog="audiocassettes box"
@@ -3266,6 +3271,25 @@ media in the collection document interviews, readings, and other events with whi
                      <container id="aspace_54be142d5afeb8fc6f67209c29ccad6e_c2"
                                 localtype="item_barcode"
                                 parent="aspace_54be142d5afeb8fc6f67209c29ccad6e_c1">39002140952798</container>
+                     <daoset altrender="/repositories/11/digital_objects/350255">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/1g0ht2j59n"
+                             identifier="aviary_174432"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_174432"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Poets House seminar The Transcendental Thread through American Poetry 2011 January</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_16bd2633aa5d1eab72f1e0b66dfa4411"
                                   localtype="RestrictedFragileSpecColl">

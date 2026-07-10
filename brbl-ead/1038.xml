@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-04-24T23:02:17-04:00</eventdatetime>
+            <eventdatetime>2026-07-09T23:00:51-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday April 24, 2025 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -276,11 +276,16 @@
                   id="ref14"
                   level="file">
                   <did>
-                     <unittitle>Notes and correspondence relating to "Illustrations of Social Life," The Plague in Shakespeare's London; notes on Shakespeare, Spenser, Donne and ms. plays</unittitle>
-                     <unitdatestructured altrender="1912-1960" label="creation" unitdatetype="inclusive">
+                     <unittitle>Notes and correspondence relating to "Illustrations of Social Life" and <title>
+                           <part>The Plague in Shakespeare's London</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="circa 1912-1962"
+                                         label="creation"
+                                         unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1912">1912</fromdate>
-                           <todate standarddate="1960">1960</todate>
+                           <todate standarddate="1962">1962</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/11/top_containers/38034 /locations/9"
@@ -288,7 +293,74 @@
                                 id="aspace_ref14_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
-                     <container id="aspace_ref14_c2" localtype="folder" parent="aspace_ref14_c1">1-5</container>
+                     <container id="aspace_ref14_c2" localtype="folder" parent="aspace_ref14_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4044730"
+                  id="aspace_ed77409a6ddef9ef2e3bac152c0e26a2"
+                  level="file">
+                  <did>
+                     <unittitle>Notes on Shakespeare texts</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <unitdatestructured altrender="1925" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1925">1925</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/38034 /locations/9"
+                                containerid="39002091546417"
+                                id="aspace_ed77409a6ddef9ef2e3bac152c0e26a2_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_ed77409a6ddef9ef2e3bac152c0e26a2_c2"
+                                localtype="folder"
+                                parent="aspace_ed77409a6ddef9ef2e3bac152c0e26a2_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4044731"
+                  id="aspace_4d63e5d3d9f7926fd19e96d97bf86434"
+                  level="file">
+                  <did>
+                     <unittitle>Notes on life and works of Edmund Spenser</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/38034 /locations/9"
+                                containerid="39002091546417"
+                                id="aspace_4d63e5d3d9f7926fd19e96d97bf86434_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_4d63e5d3d9f7926fd19e96d97bf86434_c2"
+                                localtype="folder"
+                                parent="aspace_4d63e5d3d9f7926fd19e96d97bf86434_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4044732"
+                  id="aspace_818d009fa9e28b8fcd2e9cf4993b0864"
+                  level="file">
+                  <did>
+                     <unittitle>Notes on life and works of John Donne</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/38034 /locations/9"
+                                containerid="39002091546417"
+                                id="aspace_818d009fa9e28b8fcd2e9cf4993b0864_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_818d009fa9e28b8fcd2e9cf4993b0864_c2"
+                                localtype="folder"
+                                parent="aspace_818d009fa9e28b8fcd2e9cf4993b0864_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4044733"
+                  id="aspace_77dbc41171163a7b10c79eef68367546"
+                  level="file">
+                  <did>
+                     <unittitle>Miscellaneous notes for manuscript plays, etc.</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/38034 /locations/9"
+                                containerid="39002091546417"
+                                id="aspace_77dbc41171163a7b10c79eef68367546_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_77dbc41171163a7b10c79eef68367546_c2"
+                                localtype="folder"
+                                parent="aspace_77dbc41171163a7b10c79eef68367546_c1">5</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/382772"

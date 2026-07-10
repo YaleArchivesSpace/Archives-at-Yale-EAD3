@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-07T23:02:52-04:00</eventdatetime>
+            <eventdatetime>2026-07-09T23:00:44-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -149,6 +149,7 @@
          <head>Conditions Governing Access</head>
          <p>This collection is open for research.</p>
          <p>Materials in Box 49 are restricted until January 1, 2059.</p>
+         <p>Boxes 50-51 (audiovisual material): Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
          <p>Materials in Box 54 are closed to research pending conservation treatment/housing.</p>
       </accessrestrict>
       <acqinfo id="aspace_777bb7c2d89c49e69b1c65228f550fc0">
@@ -11326,7 +11327,7 @@
             <accessrestrict id="aspace_660ad8f3b8eb10c3d0cb2ef73bf22988"
                             localtype="RestrictedFragileSpecColl">
                <head>Conditions Governing Access</head>
-               <p>Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
+               <p>Boxes 50-51 (audiovisual material): Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
             </accessrestrict>
             <c altrender="/repositories/11/archival_objects/3993850"
                id="aspace_d8c3e47bd0e7eb04fd6940f2c8e472db"
@@ -11405,6 +11406,10 @@
                level="item">
                <did>
                   <unittitle>from Beth / "The Book Programme" / BBC - 20 April 1976</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Audiocassette</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1976 April 20" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1976-04-20">1976 April 20</datesingle>
                   </unitdatestructured>
@@ -11414,7 +11419,15 @@
                              id="aspace_efd62aeb7184d7732e3b63df6ea1ed9b_c1"
                              label="Mixed Materials"
                              localtype="box">51</container>
+                  <container id="aspace_efd62aeb7184d7732e3b63df6ea1ed9b_c2"
+                             localtype="item_barcode"
+                             parent="aspace_efd62aeb7184d7732e3b63df6ea1ed9b_c1">39002140886616</container>
                </did>
+               <accessrestrict id="aspace_7080c9e343c948728856490f4b7d9ffa"
+                               localtype="RestrictedFragileSpecColl">
+                  <head>Conditions Governing Access</head>
+                  <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+               </accessrestrict>
             </c>
             <c altrender="/repositories/11/archival_objects/3993854"
                id="aspace_bf98c730d23f58fe51f386326f8ea25b"
