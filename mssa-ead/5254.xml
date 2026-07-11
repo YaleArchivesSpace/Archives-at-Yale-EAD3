@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-10T03:10:38-04:00</eventdatetime>
+            <eventdatetime>2026-07-11T03:00:51-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:10</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday July 11, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -253,6 +253,64 @@
                           href="mailto:beinecke.library@yale.edu?subject=Digital Copy Request: [Preservica] 2015-a-036-0001."
                           show="new">beinecke.library@yale.edu</ref> to request access.</p>
                </accessrestrict>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4040316"
+            id="aspace_6c3c8524f0d3d30b752b580d644e1f1b"
+            level="series">
+            <did>
+               <unittitle>Skull and Bones photograph album</unittitle>
+               <unitid>Accession 2026-A-0041</unitid>
+               <unitdatestructured altrender="1910" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1910">1910</datesingle>
+               </unitdatestructured>
+            </did>
+            <accessrestrict id="aspace_ac07f64c9ebf49b7a577835f3e0ec7fd">
+               <head>Conditions Governing Access</head>
+               <p>Open for research.</p>
+            </accessrestrict>
+            <acqinfo id="aspace_d1de4f14ad224a3ba51337b5d89d28b5">
+               <head>Immediate Source of Acquisition</head>
+               <p>Gift of Ravi D. Goel (Yale College, 1993), 2025.</p>
+            </acqinfo>
+            <bioghist id="aspace_6ed67bb7d7b14fea25daeb0bd606df08">
+               <head>Biographical / Historical</head>
+               <p>The Class of 1910 Bonesmen include individuals who shaped the fields of medicine, literature, civil liberties, federal monetary policy, diplomacy, agriculture, higher education, and national politics. Among them are: Stanhope Bayne-Jones, pioneering bacteriologist, public health leader, and brigadier general, once owned this surviving Bones album, which bears his name inscribed on the cover; Edward Harris "Ted" Coy, noted Yale athlete and a cultural figure admired by F. Scott Fitzgerald. The character Ted Fay in Fitzgerald's 1928 short story "The Freshest Boy" was loosely based on Coy; Albert DeSilver, early architect and co-founder of the American Civil Liberties Union (ACLU); George Leslie Harrison, president of the New York Federal Reserve Bank and wartime adviser to Secretary of War Henry L. Stimson (Bones 1888). Harrison transmitted the historic coded message to Stimson reporting the success of the Trinity atomic test; Robert A. Taft, U.S. Senator and American statesman known as "Mr. Republican." The son of US President William Howard Taft (Bones 1878) and grandson of Skull and Bones founder Alphonso Taft (Bones 1833); Carl A. Lohmann, Yale administrator and University Secretary for more than two decades.</p>
+               <p>Skull and Bones delegation of 1910:</p>
+               <p>Bayne-Jones, Stanhope 
+Coy, Edward Harris 
+DeSilver, Albert
+Franchot, Charles Pascal 
+French, Robert Dudley 
+Harrison, George Leslie 
+Heron, John 
+King, Lyndon Marrs 
+Knight, Augustus 
+Logan, Walter Seth 
+Lohmann, Carl Albert 
+Murphy, Frederick James 
+Philbin, Stephen Holladay 
+Taft, Robert Alphonso 
+Wodell, Ruthven Adriance</p>
+            </bioghist>
+            <c altrender="/repositories/12/archival_objects/4040320"
+               id="aspace_94f5a5e26cf6a7d1f1cfdc2dd6a04c0d"
+               level="file">
+               <did>
+                  <unittitle>Photograph album of Skull and Bones delegation</unittitle>
+                  <unitdatestructured altrender="1910" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1910">1910</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/483184 /locations/1558"
+                             containerid="39002140841645"
+                             encodinganalog="flat box (9d 3h 12w)"
+                             id="aspace_94f5a5e26cf6a7d1f1cfdc2dd6a04c0d_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_94f5a5e26cf6a7d1f1cfdc2dd6a04c0d_c2"
+                             localtype="folder"
+                             parent="aspace_94f5a5e26cf6a7d1f1cfdc2dd6a04c0d_c1">1</container>
+               </did>
             </c>
          </c>
       </dsc>
