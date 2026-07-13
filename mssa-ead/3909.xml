@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T05:30:06-04:00</eventdatetime>
+            <eventdatetime>2026-07-13T05:55:06-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 05:30</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 05:55</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1896,6 +1896,25 @@
                              localtype="box">5</container>
                </did>
             </c>
+            <c altrender="/repositories/12/archival_objects/1255440"
+               id="ref89"
+               level="file">
+               <did>
+                  <unittitle>Rao, P. Sreenivasa</unittitle>
+                  <unitdatestructured altrender="1969-1978" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1969">1969</fromdate>
+                        <todate standarddate="1978">1978</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/142520 /locations/9"
+                             containerid="39002042645508"
+                             encodinganalog="Paige 15"
+                             id="aspace_ref89_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+               </did>
+            </c>
             <c altrender="/repositories/12/archival_objects/1255436"
                id="ref85"
                level="file">
@@ -1968,25 +1987,6 @@
                              containerid="39002042645508"
                              encodinganalog="Paige 15"
                              id="aspace_ref88_c1"
-                             label="Mixed Materials"
-                             localtype="box">5</container>
-               </did>
-            </c>
-            <c altrender="/repositories/12/archival_objects/1255440"
-               id="ref89"
-               level="file">
-               <did>
-                  <unittitle>Rao, P. Sreenivasa</unittitle>
-                  <unitdatestructured altrender="1969-1978" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1969">1969</fromdate>
-                        <todate standarddate="1978">1978</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/142520 /locations/9"
-                             containerid="39002042645508"
-                             encodinganalog="Paige 15"
-                             id="aspace_ref89_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
                </did>
