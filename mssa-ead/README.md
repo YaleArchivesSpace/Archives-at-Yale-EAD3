@@ -1508,7 +1508,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ms.1595.xml](3435.xml) | mssa.ms.1595 | MS 1595 | Halton Cheadle collection | 
  [mssa.ms.1597.xml](3436.xml) | mssa.ms.1597 | MS 1597 | Jordan family papers | 
  [mssa.ms.1598.xml](3437.xml) | mssa.ms.1598 | MS 1598 | W. Todd Furniss papers | 
- [mssa.ms.1599.xml](3438.xml) | mssa.ms.1599 | MS 1599 | Genrikh Markovich Deĭch papers | 
+ [mssa.ms.1599.xml](3438.xml) | mssa.ms.1599 | MS 1599 | Genrikh Markovich Dei?ch papers | 
  [mssa.ms.1602.xml](3439.xml) | mssa.ms.1602 | MS 1602 | E. Byrne Hackett papers | 
  [mssa.ms.1606.xml](3440.xml) | mssa.ms.1606 | MS 1606 | Aris Phillips papers | 
  [mssa.ms.1610.xml](3441.xml) | mssa.ms.1610 | MS 1610 | Eric Oldberg papers | 
