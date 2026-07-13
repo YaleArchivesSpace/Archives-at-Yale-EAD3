@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-11T18:00:54-04:00</eventdatetime>
+            <eventdatetime>2026-07-13T18:00:10-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday July 11, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -19522,26 +19522,167 @@
                   <head>Biographical / Historical</head>
                   <p>MEFB Jiujiang (Kiukiang), Jiangxi (Kiangsi), Shanghai (1916-1949)</p>
                </bioghist>
-               <c altrender="/repositories/4/archival_objects/115418"
-                  id="ref1064"
-                  level="file">
+               <c altrender="/repositories/4/archival_objects/4045293"
+                  id="aspace_4cd5a24e106d865b31c227e4f814155e"
+                  level="subseries">
                   <did>
-                     <unittitle>Typewritten Material re. Christian Religious Education: "R.E. 92 Curriculum Group - Spring 1930", "Kuling Religious Education Conference", Religious Education - 1932", "Minutes of R.E. Committee June '35'", "Program of C.E. for Middle School youth", "C.E. 1936", "Local Training program - 1936, "Young People's Group - 1937", Young People's program - 1938-1942"</unittitle>
-                     <unitdatestructured altrender="1930-1942" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1930">1930</fromdate>
-                           <todate standarddate="1942">1942</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/11865 /locations/2"
-                                containerid="39002131151186"
-                                id="aspace_ref1064_c1"
-                                label="Mixed Materials"
-                                localtype="box">105</container>
-                     <container id="aspace_ref1064_c2"
-                                localtype="folder"
-                                parent="aspace_ref1064_c1">1-8</container>
+                     <unittitle>Typewritten Material Regarding Christian Religious Education</unittitle>
                   </did>
+                  <c altrender="/repositories/4/archival_objects/115418"
+                     id="ref1064"
+                     level="file">
+                     <did>
+                        <unittitle>"Religious Education 92 Curriculum Group - Spring 1930 at Union or Columbia - on Furlough Study"</unittitle>
+                        <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1930">1930</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_ref1064_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_ref1064_c2"
+                                   localtype="folder"
+                                   parent="aspace_ref1064_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045286"
+                     id="aspace_2ef6383266f02014ce8d9f74d072d538"
+                     level="file">
+                     <did>
+                        <unittitle>Kuling Religious Education Conference - Joining the Church</unittitle>
+                        <unitdatestructured altrender="circa 1930s" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1925">1925</fromdate>
+                              <todate standarddate="1935">1935</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_2ef6383266f02014ce8d9f74d072d538_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_2ef6383266f02014ce8d9f74d072d538_c2"
+                                   localtype="folder"
+                                   parent="aspace_2ef6383266f02014ce8d9f74d072d538_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045287"
+                     id="aspace_3d71ff703677aa678e1dcecce2f9a9e9"
+                     level="file">
+                     <did>
+                        <unittitle>Religious Education</unittitle>
+                        <unitdatestructured altrender="1932" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1932">1932</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_3d71ff703677aa678e1dcecce2f9a9e9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_3d71ff703677aa678e1dcecce2f9a9e9_c2"
+                                   localtype="folder"
+                                   parent="aspace_3d71ff703677aa678e1dcecce2f9a9e9_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045288"
+                     id="aspace_0ae4abae3e99ea7878081aa6ac721740"
+                     level="file">
+                     <did>
+                        <unittitle>Minutes of Religious Education Committee</unittitle>
+                        <unitdatestructured altrender="1935 June" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1935-06">1935 June</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_0ae4abae3e99ea7878081aa6ac721740_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_0ae4abae3e99ea7878081aa6ac721740_c2"
+                                   localtype="folder"
+                                   parent="aspace_0ae4abae3e99ea7878081aa6ac721740_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045289"
+                     id="aspace_77dea6a06e98bd2fcd65138497fd9aa3"
+                     level="file">
+                     <did>
+                        <unittitle>Program of Christian Education for Middle School Youth</unittitle>
+                        <unitdatestructured altrender="circa 1930s" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1925">1925</fromdate>
+                              <todate standarddate="1935">1935</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_77dea6a06e98bd2fcd65138497fd9aa3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_77dea6a06e98bd2fcd65138497fd9aa3_c2"
+                                   localtype="folder"
+                                   parent="aspace_77dea6a06e98bd2fcd65138497fd9aa3_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045290"
+                     id="aspace_2b604d60f5b8be65563c05d8174777c8"
+                     level="file">
+                     <did>
+                        <unittitle>Christian Education</unittitle>
+                        <unitdatestructured altrender="1936" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1936">1936</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_2b604d60f5b8be65563c05d8174777c8_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_2b604d60f5b8be65563c05d8174777c8_c2"
+                                   localtype="folder"
+                                   parent="aspace_2b604d60f5b8be65563c05d8174777c8_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045291"
+                     id="aspace_f96bb877952c1d1eee5273f3f5441024"
+                     level="file">
+                     <did>
+                        <unittitle>Local Training program (1936); Young People's Program (1938-1942)</unittitle>
+                        <unitdatestructured altrender="1936, 1938-1942"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1936">1936</fromdate>
+                              <todate standarddate="1942">1942</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_f96bb877952c1d1eee5273f3f5441024_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_f96bb877952c1d1eee5273f3f5441024_c2"
+                                   localtype="folder"
+                                   parent="aspace_f96bb877952c1d1eee5273f3f5441024_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045292"
+                     id="aspace_0f969bd88ee10e422ef073694515a14e"
+                     level="file">
+                     <did>
+                        <unittitle>Young People's Group</unittitle>
+                        <unitdatestructured altrender="1937" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1937">1937</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11865 /locations/2"
+                                   containerid="39002131151186"
+                                   id="aspace_0f969bd88ee10e422ef073694515a14e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_0f969bd88ee10e422ef073694515a14e_c2"
+                                   localtype="folder"
+                                   parent="aspace_0f969bd88ee10e422ef073694515a14e_c1">8</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/115419"
                   id="ref1065"
