@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-08T03:00:53-04:00</eventdatetime>
+            <eventdatetime>2026-07-14T03:11:33-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  8, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:11</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -91,10 +91,10 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>36.46</quantity>
+            <quantity>36.669</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">91 boxes</physdesc>
+         <physdesc localtype="container_summary">92 boxes</physdesc>
          <unitdatestructured altrender="1717-1977" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1717">1717</fromdate>
@@ -120,7 +120,7 @@
       </accessrestrict>
       <acqinfo id="aspace_89f2f769dd511d4095dcd02c50d517ef">
          <head>Immediate Source of Acquisition</head>
-         <p>Gift of the Silliman family; Thomas P. Blagden, 1982; Leonard G. Wilson, 1984; Mrs. Donald L. Rasmussen, 1984-1988; John Stadler and Naomi Mahlub, 1988; Northwestern University Library, 1991; Walter D. Wagoner, 1995; Wayne Smith, 1995; Cornelia Gaines Olsen, 2000, and by purchase and transfer. Gift of Barbara Narendra, 2005; Mrs. Harold Duessel, 2008. Gift of Louis I. Kuslan, 2013-2014. Gift of Richard Van Wagenen, 2016. Gift of Daniel Carroll Joynes, 2019. Gift of Jean and Jock McClellan, 2024.</p>
+         <p>Gift of the Silliman family; Thomas P. Blagden, 1982; Leonard G. Wilson, 1984; Mrs. Donald L. Rasmussen, 1984-1988; John Stadler and Naomi Mahlub, 1988; Northwestern University Library, 1991; Walter D. Wagoner, 1995; Wayne Smith, 1995; Cornelia Gaines Olsen, 2000, and by purchase and transfer. Gift of Barbara Narendra, 2005; Mrs. Harold Duessel, 2008. Gift of Louis I. Kuslan, 2013-2014. Gift of Richard Van Wagenen, 2016. Gift of Daniel Carroll Joynes, 2019. Gift of Jean and Jock McClellan, 2024. Purchased from Donald Lippincott on the Louis Mayer Rabinowitz Memorial Fund, May 2026.</p>
       </acqinfo>
       <altformavail id="aspace_90e47fa265dc01be00daf6932cfd1cb8">
          <head>Existence and Location of Copies</head>
@@ -30444,6 +30444,14 @@ Pennsylvania, originally published 1855</p>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <datesingle standarddate="1805">1805</datesingle>
                </unitdatestructured>
+               <container altrender="/repositories/12/top_containers/484012"
+                          encodinganalog="archive legal"
+                          id="aspace_e5be65abc7754d726216e02e31e6af9d_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_e5be65abc7754d726216e02e31e6af9d_c2"
+                          localtype="folder"
+                          parent="aspace_e5be65abc7754d726216e02e31e6af9d_c1">1</container>
             </did>
             <scopecontent id="aspace_d31dde240e6f88bf323b181ef3f985ac">
                <head>Scope and Contents</head>

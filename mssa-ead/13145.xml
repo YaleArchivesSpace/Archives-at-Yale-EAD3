@@ -12,7 +12,7 @@
       <recordid instanceurl=""/>
       <filedesc>
          <titlestmt>
-            <titleproper>"Yale Paleoecology and Seafloor Research" memoir by Donald C. Rhoads</titleproper>
+            <titleproper>Yale Democracy Project, records</titleproper>
          </titlestmt>
          <publicationstmt>
             <publisher>Manuscripts and Archives</publisher>
@@ -31,11 +31,6 @@
             </address>
             <num>RU 1185</num>
          </publicationstmt>
-         <notestmt>
-            <controlnote localtype="onsite">
-               <p>Box: 1</p>
-            </controlnote>
-         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -49,16 +44,16 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-01-10T03:00:40-05:00</eventdatetime>
+            <eventdatetime>2026-07-14T03:03:40-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday January 10, 2025 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/13145" level="collection">
       <did>
-         <unittitle>"Yale Paleoecology and Seafloor Research" memoir by Donald C. Rhoads</unittitle>
+         <unittitle>Yale Democracy Project, records</unittitle>
          <unitid>RU 1185</unitid>
          <repository>
             <corpname>
@@ -72,40 +67,17 @@
             </languageset>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>0.02</quantity>
-            <unittype>Linear Feet</unittype>
-         </physdescstructured>
-         <physdesc localtype="container_summary">1 box</physdesc>
-         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>1</quantity>
-            <unittype>Computer File (.pdf)</unittype>
+            <unittype>Linear Foot</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">5.98 megabytes</physdesc>
-         <unitdatestructured altrender="2022" label="creation" unitdatetype="inclusive">
-            <datesingle standarddate="2022">2022</datesingle>
+         <physdesc localtype="container_summary">Update with exact amount once rehoused.</physdesc>
+         <unitdatestructured altrender="2021-2024" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="2021">2021</fromdate>
+               <todate standarddate="2024">2024</todate>
+            </daterange>
          </unitdatestructured>
       </did>
-      <dsc>
-         <c altrender="/repositories/12/archival_objects/3593667"
-            id="aspace_01b5fc989a5ff2d3296afbcbcb3260e3"
-            level="file">
-            <did>
-               <unittitle>Yale Paleoecology and Seafloor Research (1965-1986), with an update to 2022</unittitle>
-               <unitdatestructured altrender="November 2, 2022"
-                                   label="creation"
-                                   unitdatetype="inclusive">
-                  <datesingle standarddate="2022-11-02">November 2, 2022</datesingle>
-               </unitdatestructured>
-               <container altrender="/repositories/12/top_containers/395666"
-                          encodinganalog="envelope"
-                          id="aspace_01b5fc989a5ff2d3296afbcbcb3260e3_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_01b5fc989a5ff2d3296afbcbcb3260e3_c2"
-                          localtype="folder"
-                          parent="aspace_01b5fc989a5ff2d3296afbcbcb3260e3_c1">1</container>
-            </did>
-         </c>
-      </dsc>
+      <dsc/>
    </archdesc>
 </ead>

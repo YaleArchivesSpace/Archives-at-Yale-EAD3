@@ -16,7 +16,7 @@
             <titleproper>Guide to the Department of Geology and Geophysics, Yale University, Records
  </titleproper>
             <titleproper localtype="filing">Department of Geology and Geophysics, Yale University, Records</titleproper>
-            <author>compiled by Daniel Hartwig</author>
+            <author>compiled by Daniel Hartwig, Jeanne Lowrey</author>
          </titlestmt>
          <publicationstmt>
             <publisher>Manuscripts and Archives</publisher>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T05:47:30-04:00</eventdatetime>
+            <eventdatetime>2026-07-14T03:04:40-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 05:47</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -90,15 +90,24 @@
          <langmaterial>
             <language langcode="eng">English</language>
          </langmaterial>
-         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>3.5</quantity>
+         <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+            <quantity>9.83</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">11 boxes</physdesc>
-         <unitdatestructured altrender="1789-1957" label="creation" unitdatetype="inclusive">
+         <physdesc localtype="container_summary">11 boxes
+1 envelope</physdesc>
+         <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+            <quantity>1</quantity>
+            <unittype>Computer File (.pdf)</unittype>
+         </physdescstructured>
+         <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+            <quantity>5.98</quantity>
+            <unittype>Megabytes</unittype>
+         </physdescstructured>
+         <unitdatestructured altrender="1789-2022" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1789">1789</fromdate>
-               <todate standarddate="1957">1957</todate>
+               <todate standarddate="2022">2022</todate>
             </daterange>
          </unitdatestructured>
          <abstract id="aspace_76e688a28476cedcc273c0e3e19c59c2">The records consist of correspondence, memoranda, subject files, minutes, grade books of Richard Foster Flint, and a departmental history documenting the activities and operations of the Yale Department of Geology and Geophysics. Includes mineralogy papers and notebooks of Yale mineralogists Samuel Lewis Penfield, George Jarvis Brush and William Ebenezer Ford. The records also include correspondence relating to Yale's acquisition of Baron Lederer's mineral cabinet.</abstract>
