@@ -39,7 +39,7 @@
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9310700</num>.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1-14, 14a-22, 23 (Broadside), 24, 25 (Broadside), 26-29 (Art)</p>
+               <p>Boxes: 1-14, 14a-22, 23 (Broadside), 24, 25 (Broadside), 26-29 (Art), 33</p>
             </controlnote>
             <controlnote localtype="offsite">
                <p>Box: 30</p>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-07T23:02:05-04:00</eventdatetime>
+            <eventdatetime>2026-07-13T23:02:24-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -95,10 +95,10 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>15.62</quantity>
+            <quantity>16.03</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">25 boxes + 4 art, 2 broadsides</physdesc>
+         <physdesc localtype="container_summary">26 boxes + 4 art, 2 broadsides</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1765">1765</fromdate>
@@ -118,19 +118,32 @@
             </persname>
          </origination>
       </did>
-      <acqinfo id="aspace_eeff99818b810a78905acc21b1577885">
-         <head>Immediate Source of Acquisition</head>
-         <p>Acquired through various gifts and purchases from 1947 to 2004.</p>
-      </acqinfo>
       <accessrestrict id="aspace_107a7a76e57a7e25f30879d5df3b4d58">
          <head>Conditions Governing Access</head>
          <p>The materials are open for research.</p>
          <p>Boxes 22 and 29: Restricted fragile material. Reference surrogates have been substituted in the main files. For further information consult the appropriate curator.</p>
       </accessrestrict>
-      <userestrict id="aspace_808f7d70122d14b8bd230e9f61f8d07c">
-         <head>Conditions Governing Use</head>
-         <p>The Robert Louis Stevenson Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
-      </userestrict>
+      <acqinfo id="aspace_eeff99818b810a78905acc21b1577885">
+         <head>Immediate Source of Acquisition</head>
+         <p>Acquired through various gifts and purchases from 1947 to 2004.</p>
+         <p>May 2026 acquisition purchased from The Book Shop, LLC on the James Marshall and Marie-Louise Osborn Collection Fund.</p>
+      </acqinfo>
+      <altformavail id="aspace_6c0ef23ef53323de8fa7786f42f13414">
+         <head>Existence and Location of Copies</head>
+         <p>Microfilm for portions of the collection is available from Access Services.</p>
+      </altformavail>
+      <arrangement id="aspace_40c7df9f45c0b95988ee4017eb9365f4">
+         <head>Arrangement</head>
+         <p>Organized into eight series: I. Major General and Mrs. John Ramsey Pugh Gift, 1854-1983. II. Justin G. Turner Gift, 1765-1923. III. Charles Scribner's Sons Gifts, 1892-1932. IV. F. W. Bronson Gift, 1914-1938. V. Alta California Bookstore Purchase, 1881-1966. VI. Christie's Purchase, 1873-1893. VII. Material From Other Sources, 1867-1977. VIII. 2022 Addition, 1885-1908. Series IX. May 2026 Acquisition, circa 1966-1926.</p>
+      </arrangement>
+      <bioghist id="aspace_a941486dff4ff4c32bb6b09e9d319175">
+         <head>Robert Louis Stevenson (1850-1894)</head>
+         <p>Robert Louis Stevenson was one of the most popular and prolific British writers of the late 19th century, the author of verse, novels, travel books, short stories, plays, and essays, including such titles as <title localtype="simple" render="italic">
+               <part>The Strange Case of Dr. Jekyll and Mr. Hyde</part>
+            </title> and <title localtype="simple" render="italic">
+               <part>Treasure Island</part>
+            </title>. There is considerable secondary literature on Stevenson, including book-length biographical studies, chronologies, and bibliographies. Summary information is available in the standard print and online biographical resources.</p>
+      </bioghist>
       <prefercite id="aspace_964970a5464f7010e647c0fe626290b1">
          <head>Preferred Citation</head>
          <p>Robert Louis Stevenson Collection. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>
@@ -142,31 +155,20 @@
                <part>A Stevenson Library: Catalogue of a Collection of Writings by and about Robert Louis Stevenson</part>
             </title>.</p>
       </processinfo>
-      <altformavail id="aspace_6c0ef23ef53323de8fa7786f42f13414">
-         <head>Existence and Location of Copies</head>
-         <p>Microfilm for portions of the collection is available from Access Services.</p>
-      </altformavail>
       <relatedmaterial id="aspace_89f40694a6bb369e93ef5753579e2685">
          <head>Associated Materials</head>
          <p>See also Edwin J. Beinecke Collection of Robert Louis Stevenson (GEN MSS 664).</p>
       </relatedmaterial>
-      <bioghist id="aspace_a941486dff4ff4c32bb6b09e9d319175">
-         <head>Robert Louis Stevenson (1850-1894)</head>
-         <p>Robert Louis Stevenson was one of the most popular and prolific British writers of the late 19th century, the author of verse, novels, travel books, short stories, plays, and essays, including such titles as <title localtype="simple" render="italic">
-               <part>The Strange Case of Dr. Jekyll and Mr. Hyde</part>
-            </title> and <title localtype="simple" render="italic">
-               <part>Treasure Island</part>
-            </title>. There is considerable secondary literature on Stevenson, including book-length biographical studies, chronologies, and bibliographies. Summary information is available in the standard print and online biographical resources.</p>
-      </bioghist>
       <scopecontent id="aspace_d927e6ae24686db2badc797beee3718b">
          <head>Scope and Contents</head>
          <p>The Robert Louis Stevenson Collection consists of correspondence, manuscript notes and drafts, photographs, original artwork, printed ephemera, memorabilia, and other material relating to Robert Louis Stevenson acquired by the library through various gifts and purchases from 1947 to 2004. The collection spans the years 1765 to 1983, with the bulk dating from 1852 to 1931.</p>
          <p>The collection is housed in 22 boxes and arranged by provenance. The collection includes named gifts and purchases from Major General and Mrs. John Ramsey Pugh, Justin G. Turner, Charles Scribner's Sons, Francis Woolsey Bronson, Christie's New York and the Alta California Bookstore, as well as smaller gifts and purchases from other sources. Boxes 14-21 and 22 contain Oversize and Restricted Fragile material respectively.</p>
+         <p>May 2026 acquisistion is arranged by date.</p>
       </scopecontent>
-      <arrangement id="aspace_40c7df9f45c0b95988ee4017eb9365f4">
-         <head>Arrangement</head>
-         <p>Organized into eight series: I. Major General and Mrs. John Ramsey Pugh Gift, 1854-1983. II. Justin G. Turner Gift, 1765-1923. III. Charles Scribner's Sons Gifts, 1892-1932. IV. F. W. Bronson Gift, 1914-1938. V. Alta California Bookstore Purchase, 1881-1966. VI. Christie's Purchase, 1873-1893. VII. Material From Other Sources, 1867-1977. VIII. 2022 Addition, 1885-1908.</p>
-      </arrangement>
+      <userestrict id="aspace_808f7d70122d14b8bd230e9f61f8d07c">
+         <head>Conditions Governing Use</head>
+         <p>The Robert Louis Stevenson Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
+      </userestrict>
       <controlaccess>
          <subject source="local">
             <part localtype="topical">Authors, Scottish</part>
