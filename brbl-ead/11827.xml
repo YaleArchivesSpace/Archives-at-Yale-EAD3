@@ -41,7 +41,7 @@
                <p>Boxes: 1-99, 101-105</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Box: 100 (Oversize)</p>
+               <p>Boxes: 100 (Oversize), 106</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="22">22</num> published digital objects.</p>
@@ -77,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-06-24T23:05:11-04:00</eventdatetime>
+            <eventdatetime>2026-07-14T23:02:28-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 24, 2025 at 23:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -47349,6 +47349,14 @@
                      <container id="aspace_2424516a4936d27456924e0efdf18d4e_c2"
                                 localtype="folder"
                                 parent="aspace_2424516a4936d27456924e0efdf18d4e_c1">2300</container>
+                     <container altrender="/repositories/11/top_containers/484038"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_2424516a4936d27456924e0efdf18d4e_c3"
+                                label="Mixed Materials"
+                                localtype="box">106</container>
+                     <container id="aspace_2424516a4936d27456924e0efdf18d4e_c4"
+                                localtype="folder"
+                                parent="aspace_2424516a4936d27456924e0efdf18d4e_c3">2550</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/3260832"
