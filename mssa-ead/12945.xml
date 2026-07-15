@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1183">mssa.ru.1183</recordid>
+      <otherrecordid localtype="BIB">16852049</otherrecordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Department of African American Studies, Yale University, Records </titleproper>
+            <titleproper localtype="filing">Department of African American Studies, Yale University, Records</titleproper>
+            <author>compiled by Michael Lotstein </author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <date>December 2022</date>
+            <num>RU 1183</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>edited-full-draft</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-07-15T03:00:20-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 03:00</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/12945" level="collection">
+      <did>
+         <unittitle>Department of African American Studies, Yale University, records</unittitle>
+         <unitid>RU 1183</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <languageset>
+               <language langcode="eng">English</language>
+               <script scriptcode="Latn">Latin</script>
+            </languageset>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>12</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <unitdatestructured altrender="1968-2021" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1968">1968</fromdate>
+               <todate standarddate="2021">2021</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_79b5bdf304a78510f2340a2d139ac892">The records consist of student records, photographs, scrapbook pages, event ephemera, and audio-visual materials from the Department of African American Studies.</abstract>
+      </did>
+      <accessrestrict id="aspace_f05dd23a245c19d6ef1a09a6454646ca"
+                      localtype="RestrictedSpecColl">
+         <head>Conditions Governing Access</head>
+         <p>Access to the collection is partially restricted.  See Collection Contents for details.</p>
+      </accessrestrict>
+      <acqinfo id="aspace_52a0a57441f9f6fae66e8d89d77108a7">
+         <head>Immediate Source of Acquisition</head>
+         <p>The records were transferred from the Department of African American Studies in 2022.</p>
+      </acqinfo>
+      <arrangement id="aspace_0cad3cc5f09468a903eca3fca3e9d015">
+         <head>Arrangement</head>
+         <p>The records are arranged by accession.</p>
+      </arrangement>
+      <scopecontent id="aspace_baf4545c0cfe8181dd11d1a29805905e">
+         <head>Scope and Contents</head>
+         <p>The records consist of student records, photographs, scrapbook pages, event ephemera, and audio-visual materials from the Department of African American Studies.</p>
+      </scopecontent>
+      <prefercite id="aspace_32796885202a117b6cc78aa7f6b7783c">
+         <head>Preferred Citation</head>
+         <p>Department of African American Studies, Yale University, Records (RU 1183). Manuscripts and Archives, Yale University Library.</p>
+      </prefercite>
+      <controlaccess>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85001949"
+                  source="lcsh">
+            <part localtype="topical">African Americans</part>
+            <part localtype="topical">Education (Higher)</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85001955"
+                  source="lcsh">
+            <part localtype="topical">African Americans</part>
+            <part localtype="topical">History</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85001821"
+                  source="lcsh">
+            <part localtype="topical">African American college students</part>
+         </subject>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/12/archival_objects/3536414"
+            id="aspace_83c185eeda182b89851fbb8fc57566e0"
+            level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <unitid>Accession 2023-A-0019</unitid>
+            </did>
+            <accessrestrict id="aspace_f8980c6a5bf08d88430d77d3deafc3b2"
+                            localtype="RestrictedSpecColl">
+               <head>Conditions Governing Access</head>
+               <p>Student records are restricted until January 1, 2097.  Scrapbook pages, photographs, event posters and subject files are open for research.</p>
+               <p>Original audiovisual materials, as well as preservation and duplicating masters, may not be played. Researchers must consult use copies, or if none exist must pay for a use copy, which is retained by the repository. Researchers wishing to obtain an additional copy for their personal use should consult Copying Services information on the Manuscripts and Archives web site.</p>
+            </accessrestrict>
+            <c altrender="/repositories/12/archival_objects/3536415"
+               id="aspace_829d7a929b00eeb975a38cae9c723404"
+               level="file">
+               <did>
+                  <unittitle>Event posters</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">2010-2020</unitdate>
+                  <container altrender="/repositories/12/top_containers/391461 /locations/327"
+                             containerid="39002141032202"
+                             encodinganalog="flat box (16d 1h 20w)"
+                             id="aspace_829d7a929b00eeb975a38cae9c723404_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_829d7a929b00eeb975a38cae9c723404_c2"
+                             localtype="folder"
+                             parent="aspace_829d7a929b00eeb975a38cae9c723404_c1">1-2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3536417"
+               id="aspace_1d29ece4d65d11c5d2d5689a6e9a050c"
+               level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/3536648"
+                  id="aspace_d219750696e07682f609752eb0c3293a"
+                  level="file">
+                  <did>
+                     <unittitle>Event photographs</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1996-2000</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_d219750696e07682f609752eb0c3293a_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_d219750696e07682f609752eb0c3293a_c2"
+                                localtype="folder"
+                                parent="aspace_d219750696e07682f609752eb0c3293a_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536649"
+                  id="aspace_e2b9b3c228d8eaf836958c86e1ea9904"
+                  level="file">
+                  <did>
+                     <unittitle>Faculty and students</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">Circa 2000</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_e2b9b3c228d8eaf836958c86e1ea9904_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_e2b9b3c228d8eaf836958c86e1ea9904_c2"
+                                localtype="folder"
+                                parent="aspace_e2b9b3c228d8eaf836958c86e1ea9904_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536650"
+                  id="aspace_745d55b037951c1dd40807c24c9c925a"
+                  level="file">
+                  <did>
+                     <unittitle>Commencement, events and students</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">2000-2002</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_745d55b037951c1dd40807c24c9c925a_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_745d55b037951c1dd40807c24c9c925a_c2"
+                                localtype="folder"
+                                parent="aspace_745d55b037951c1dd40807c24c9c925a_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536651"
+                  id="aspace_bcb8771532f24610b0da21cc85517dfd"
+                  level="file">
+                  <did>
+                     <unittitle>Department reunion</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">2002 May 3-2002 May 5</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_bcb8771532f24610b0da21cc85517dfd_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_bcb8771532f24610b0da21cc85517dfd_c2"
+                                localtype="folder"
+                                parent="aspace_bcb8771532f24610b0da21cc85517dfd_c1">4-9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536652"
+                  id="aspace_29d19095d99353b86406323a1fcfb563"
+                  level="file">
+                  <did>
+                     <unittitle>Department photographs</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">2004</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_29d19095d99353b86406323a1fcfb563_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_29d19095d99353b86406323a1fcfb563_c2"
+                                localtype="folder"
+                                parent="aspace_29d19095d99353b86406323a1fcfb563_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536653"
+                  id="aspace_2ef59591409333ba629014cf4e5076a8"
+                  level="file">
+                  <did>
+                     <unittitle>Paul Gilroy farewell celebration</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">2005 May</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_2ef59591409333ba629014cf4e5076a8_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_2ef59591409333ba629014cf4e5076a8_c2"
+                                localtype="folder"
+                                parent="aspace_2ef59591409333ba629014cf4e5076a8_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536654"
+                  id="aspace_8ff0d3b40a916f4523fc6ea41208077d"
+                  level="file">
+                  <did>
+                     <unittitle>Students and faculty</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">2012-2014</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_8ff0d3b40a916f4523fc6ea41208077d_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_8ff0d3b40a916f4523fc6ea41208077d_c2"
+                                localtype="folder"
+                                parent="aspace_8ff0d3b40a916f4523fc6ea41208077d_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3674921"
+                  id="aspace_28434006e78a14d69ab85188a4dce213"
+                  level="file">
+                  <did>
+                     <unittitle>Commencement</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/391473 /locations/9"
+                                containerid="39002141032327"
+                                encodinganalog="Paige 15"
+                                id="aspace_28434006e78a14d69ab85188a4dce213_c1"
+                                label="Mixed Materials"
+                                localtype="box">13</container>
+                     <container id="aspace_28434006e78a14d69ab85188a4dce213_c2"
+                                localtype="folder"
+                                parent="aspace_28434006e78a14d69ab85188a4dce213_c1">13</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3536418"
+               id="aspace_dfc3f4c19c4b7a55f7a95b849b4e208f"
+               level="file">
+               <did>
+                  <unittitle>Programs and brochures</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/3536655"
+                  id="aspace_151cd5b3a6664f979cd62e75fb27a1f8"
+                  level="file">
+                  <did>
+                     <unittitle>General programs and brochures</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">2002-2005</unitdate>
+                     <container altrender="/repositories/12/top_containers/391474 /locations/9"
+                                containerid="39002141032335"
+                                encodinganalog="archive half letter"
+                                id="aspace_151cd5b3a6664f979cd62e75fb27a1f8_c1"
+                                label="Mixed Materials"
+                                localtype="box">14</container>
+                     <container id="aspace_151cd5b3a6664f979cd62e75fb27a1f8_c2"
+                                localtype="folder"
+                                parent="aspace_151cd5b3a6664f979cd62e75fb27a1f8_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536656"
+                  id="aspace_13c9e33545db2ec07bd98c0376c4b160"
+                  level="file">
+                  <did>
+                     <unittitle>Faculty speaker series</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1999-2002</unitdate>
+                     <container altrender="/repositories/12/top_containers/391474 /locations/9"
+                                containerid="39002141032335"
+                                encodinganalog="archive half letter"
+                                id="aspace_13c9e33545db2ec07bd98c0376c4b160_c1"
+                                label="Mixed Materials"
+                                localtype="box">14</container>
+                     <container id="aspace_13c9e33545db2ec07bd98c0376c4b160_c2"
+                                localtype="folder"
+                                parent="aspace_13c9e33545db2ec07bd98c0376c4b160_c1">2</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3536419"
+               id="aspace_0070e4d883548c4c3aa28de03d2d4741"
+               level="file">
+               <did>
+                  <unittitle>Scrabook pages</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/3536657"
+                  id="aspace_6c5223fde6937d861c0e61862c3ef2bd"
+                  level="file">
+                  <did>
+                     <unitdate label="creation" unitdatetype="inclusive">1968-1976</unitdate>
+                     <container altrender="/repositories/12/top_containers/391475 /locations/9"
+                                containerid="39002141032343"
+                                encodinganalog="Paige 15"
+                                id="aspace_6c5223fde6937d861c0e61862c3ef2bd_c1"
+                                label="Mixed Materials"
+                                localtype="box">15</container>
+                     <container id="aspace_6c5223fde6937d861c0e61862c3ef2bd_c2"
+                                localtype="folder"
+                                parent="aspace_6c5223fde6937d861c0e61862c3ef2bd_c1">1-2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536658"
+                  id="aspace_ec2cbfe2d36936e72e69f8384646dcb3"
+                  level="file">
+                  <did>
+                     <unitdate label="creation" unitdatetype="inclusive">1991-1992</unitdate>
+                     <container altrender="/repositories/12/top_containers/391475 /locations/9"
+                                containerid="39002141032343"
+                                encodinganalog="Paige 15"
+                                id="aspace_ec2cbfe2d36936e72e69f8384646dcb3_c1"
+                                label="Mixed Materials"
+                                localtype="box">15</container>
+                     <container id="aspace_ec2cbfe2d36936e72e69f8384646dcb3_c2"
+                                localtype="folder"
+                                parent="aspace_ec2cbfe2d36936e72e69f8384646dcb3_c1">3-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536659"
+                  id="aspace_bb95c3c356757a0fc68f97a6a33735fd"
+                  level="file">
+                  <did>
+                     <unitdate label="creation" unitdatetype="inclusive">1992-1993</unitdate>
+                     <container altrender="/repositories/12/top_containers/391475 /locations/9"
+                                containerid="39002141032343"
+                                encodinganalog="Paige 15"
+                                id="aspace_bb95c3c356757a0fc68f97a6a33735fd_c1"
+                                label="Mixed Materials"
+                                localtype="box">15</container>
+                     <container id="aspace_bb95c3c356757a0fc68f97a6a33735fd_c2"
+                                localtype="folder"
+                                parent="aspace_bb95c3c356757a0fc68f97a6a33735fd_c1">5-6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536660"
+                  id="aspace_b6611d8717deebde95e3bedb3a1dfd86"
+                  level="file">
+                  <did>
+                     <unitdate label="creation" unitdatetype="inclusive">1993-1994</unitdate>
+                     <container altrender="/repositories/12/top_containers/391475 /locations/9"
+                                containerid="39002141032343"
+                                encodinganalog="Paige 15"
+                                id="aspace_b6611d8717deebde95e3bedb3a1dfd86_c1"
+                                label="Mixed Materials"
+                                localtype="box">15</container>
+                     <container id="aspace_b6611d8717deebde95e3bedb3a1dfd86_c2"
+                                localtype="folder"
+                                parent="aspace_b6611d8717deebde95e3bedb3a1dfd86_c1">7</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3536420"
+               id="aspace_f9fcfb789b44b986ed01900489df8a72"
+               level="file">
+               <did>
+                  <unittitle>Subject files</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/3536661"
+                  id="aspace_431717d44972757dab0e68bb1bcdd7d6"
+                  level="file">
+                  <did>
+                     <unittitle>Amistad incident</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1989</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_431717d44972757dab0e68bb1bcdd7d6_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_431717d44972757dab0e68bb1bcdd7d6_c2"
+                                localtype="folder"
+                                parent="aspace_431717d44972757dab0e68bb1bcdd7d6_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536662"
+                  id="aspace_3b19f1d2788520c09b20675196bf2cfe"
+                  level="file">
+                  <did>
+                     <unittitle>Baker-Steyer digital library</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">2000-2001</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_3b19f1d2788520c09b20675196bf2cfe_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_3b19f1d2788520c09b20675196bf2cfe_c2"
+                                localtype="folder"
+                                parent="aspace_3b19f1d2788520c09b20675196bf2cfe_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536663"
+                  id="aspace_0f6d54024ba8392f2bfd1686a3d8ef50"
+                  level="file">
+                  <did>
+                     <unittitle>Black experience index</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1970-1973</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_0f6d54024ba8392f2bfd1686a3d8ef50_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_0f6d54024ba8392f2bfd1686a3d8ef50_c2"
+                                localtype="folder"
+                                parent="aspace_0f6d54024ba8392f2bfd1686a3d8ef50_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536664"
+                  id="aspace_470802f9217a3afe46393be732127bb4"
+                  level="file">
+                  <did>
+                     <unittitle>Boone, Sylvia Ardyn</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1993</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_470802f9217a3afe46393be732127bb4_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_470802f9217a3afe46393be732127bb4_c2"
+                                localtype="folder"
+                                parent="aspace_470802f9217a3afe46393be732127bb4_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536665"
+                  id="aspace_4e00a775e25e04da3c80344be9c9ea23"
+                  level="file">
+                  <did>
+                     <unittitle>Bouchet, Alexander</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1989-1994</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_4e00a775e25e04da3c80344be9c9ea23_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_4e00a775e25e04da3c80344be9c9ea23_c2"
+                                localtype="folder"
+                                parent="aspace_4e00a775e25e04da3c80344be9c9ea23_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536666"
+                  id="aspace_5318e649b1b07de405f02719571d6220"
+                  level="file">
+                  <did>
+                     <unittitle>Center for Southern Folklore</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1977</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_5318e649b1b07de405f02719571d6220_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_5318e649b1b07de405f02719571d6220_c2"
+                                localtype="folder"
+                                parent="aspace_5318e649b1b07de405f02719571d6220_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536667"
+                  id="aspace_858b295faeffe55b50aee38cdf27b05f"
+                  level="file">
+                  <did>
+                     <unittitle>Cleaver, Eldridge</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1975-1981</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_858b295faeffe55b50aee38cdf27b05f_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_858b295faeffe55b50aee38cdf27b05f_c2"
+                                localtype="folder"
+                                parent="aspace_858b295faeffe55b50aee38cdf27b05f_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536668"
+                  id="aspace_1f4a1f26c56acc6c5edd308923a7f10d"
+                  level="file">
+                  <did>
+                     <unittitle>Cleaver, Kathleen</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1981-1982</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_1f4a1f26c56acc6c5edd308923a7f10d_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_1f4a1f26c56acc6c5edd308923a7f10d_c2"
+                                localtype="folder"
+                                parent="aspace_1f4a1f26c56acc6c5edd308923a7f10d_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536669"
+                  id="aspace_0b877aed179bc2726640cf7b7aaedc65"
+                  level="file">
+                  <did>
+                     <unittitle>Davis, Charles T.</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_0b877aed179bc2726640cf7b7aaedc65_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_0b877aed179bc2726640cf7b7aaedc65_c2"
+                                localtype="folder"
+                                parent="aspace_0b877aed179bc2726640cf7b7aaedc65_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536670"
+                  id="aspace_27b2af8d6104eeab42500e89af282567"
+                  level="file">
+                  <did>
+                     <unittitle>Jayne's Associates report on affirmative action</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1990</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_27b2af8d6104eeab42500e89af282567_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_27b2af8d6104eeab42500e89af282567_c2"
+                                localtype="folder"
+                                parent="aspace_27b2af8d6104eeab42500e89af282567_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536671"
+                  id="aspace_709c1ba6a8f22b033ebaa4866e72a11f"
+                  level="file">
+                  <did>
+                     <unittitle>News clippings</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1975-2006</unitdate>
+                     <container altrender="/repositories/12/top_containers/391476 /locations/9"
+                                containerid="39002141032350"
+                                encodinganalog="archive letter"
+                                id="aspace_709c1ba6a8f22b033ebaa4866e72a11f_c1"
+                                label="Mixed Materials"
+                                localtype="box">16</container>
+                     <container id="aspace_709c1ba6a8f22b033ebaa4866e72a11f_c2"
+                                localtype="folder"
+                                parent="aspace_709c1ba6a8f22b033ebaa4866e72a11f_c1">11</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3536421"
+               id="aspace_e558c45cc3019eb62835062b1ef354c8"
+               level="file">
+               <did>
+                  <unittitle>Audiovisual materials</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/3536672"
+                  id="aspace_33f7394d6840fb3b2f75f9b6e164470b"
+                  level="file">
+                  <did>
+                     <unittitle>Audiocassettes</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/3536676"
+                     id="aspace_4628047ee2f88ca5c39abaa8c63e8d5c"
+                     level="file">
+                     <did>
+                        <unittitle>"Great African Thinkers vol 1. Cheikh Anta Diop"</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Audiocassette</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                   containerid="39002141032368"
+                                   encodinganalog="card box (4d 4h 7w)"
+                                   id="aspace_4628047ee2f88ca5c39abaa8c63e8d5c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536677"
+                     id="aspace_43604ced2aceb3b5bec68401d8d32574"
+                     level="file">
+                     <did>
+                        <unittitle>"Leonard Brown Live Recordings"</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Audiocassette</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                   containerid="39002141032368"
+                                   encodinganalog="card box (4d 4h 7w)"
+                                   id="aspace_43604ced2aceb3b5bec68401d8d32574_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536678"
+                     id="aspace_4f0517dd4d90c20d46cbf6a66d1a5301"
+                     level="file">
+                     <did>
+                        <unittitle>"Van Sertima before Congress"</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Audiocassette</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                   containerid="39002141032368"
+                                   encodinganalog="card box (4d 4h 7w)"
+                                   id="aspace_4f0517dd4d90c20d46cbf6a66d1a5301_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">17</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536673"
+                  id="aspace_e7cd1301eaa3ec708838c07dc46ea75e"
+                  level="file">
+                  <did>
+                     <unittitle>Conferences</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/3536679"
+                     id="aspace_c3292ee7cb8675576ef744107d536a3e"
+                     level="file">
+                     <did>
+                        <unittitle>"A Working Conference " </unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">2011 December 9</unitdate>
+                     </did>
+                     <c altrender="/repositories/12/archival_objects/3536693"
+                        id="aspace_b9869c68692da54f95ad0f36dd7d3a08"
+                        level="file">
+                        <did>
+                           <unittitle>Bridges I Panel: E. Glaude, D. Pinderhuges, K. Gaines, A. Nelson</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_b9869c68692da54f95ad0f36dd7d3a08_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536694"
+                        id="aspace_8961dc5d6b8667ec613409da11b5014d"
+                        level="file">
+                        <did>
+                           <unittitle>Bridges Panel: R. Walcott, R. Gilmore, R. Powell, C.A. Wall, T. Zuberi</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_8961dc5d6b8667ec613409da11b5014d_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536695"
+                        id="aspace_8cd0056622a968405c997ccec0a9fecf"
+                        level="file">
+                        <did>
+                           <unittitle>Dinner lecture: Sonia Sanchez</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>2</quantity>
+                              <unittype>DVD-Rs</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_8cd0056622a968405c997ccec0a9fecf_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536697"
+                        id="aspace_d28663e810911d103d94fe32e59f6c97"
+                        level="file">
+                        <did>
+                           <unittitle>Origins I Panel: S. Evans, F. Griffin, E.E. Miller, J. Bracey, V. Wells</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_d28663e810911d103d94fe32e59f6c97_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536698"
+                        id="aspace_4fc7ccde6ca9723039e794217ffd7193"
+                        level="file">
+                        <did>
+                           <unittitle>Origins II Panel: R.A. Yarborough, E.M. Hammonds, D. Clark Hine, N. Irvin Painter</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_4fc7ccde6ca9723039e794217ffd7193_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536699"
+                        id="aspace_969b1e756a40bb051937c73ec214912d"
+                        level="file">
+                        <did>
+                           <unittitle>Possibilities Pane: L. Railford, J. Jackson, H.J. Elam, Jr., M. Biondi</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_969b1e756a40bb051937c73ec214912d_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536680"
+                     id="aspace_2c2ceed81061429b1cb91e5266dc568d"
+                     level="file">
+                     <did>
+                        <unittitle>"Langston Hughes and His World: Yale Center for British Art" </unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">2002 February 22</unitdate>
+                     </did>
+                     <c altrender="/repositories/12/archival_objects/3536700"
+                        id="aspace_1b5dc2990422b668368fe507b794dffe"
+                        level="file">
+                        <did>
+                           <unittitle>Tape 1: Elizabeth Alexander Panel: Leslie Sanders (Chair), Lindon Barrett, Isaac Julien, Metu Jones, Arnold Rampesad</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>Videocassette (Hi8)</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                      containerid="39002141032368"
+                                      encodinganalog="card box (4d 4h 7w)"
+                                      id="aspace_1b5dc2990422b668368fe507b794dffe_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">17</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536701"
+                        id="aspace_50e3f388df9afcbf6520b82e1a01d3f5"
+                        level="file">
+                        <did>
+                           <unittitle>Tape 2: Panel: Michael Denning, Hazel Carby, Rachel Rubin, James Smethurst</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>Videocassette (Hi8)</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                      containerid="39002141032368"
+                                      encodinganalog="card box (4d 4h 7w)"
+                                      id="aspace_50e3f388df9afcbf6520b82e1a01d3f5_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">17</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536702"
+                        id="aspace_bf7df46e88ebc1dc86a79bbe73a1c273"
+                        level="file">
+                        <did>
+                           <unittitle>Tape 3: Panel: Rob Nixon, Kate Baldwin, Onwuchekwa Jemk</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>Videocassette (Hi8)</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                      containerid="39002141032368"
+                                      encodinganalog="card box (4d 4h 7w)"
+                                      id="aspace_bf7df46e88ebc1dc86a79bbe73a1c273_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">17</container>
+                        </did>
+                     </c>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536681"
+                     id="aspace_963be9f766c93149907f1f7614c25d1c"
+                     level="file">
+                     <did>
+                        <unittitle>"Langston Hughes and His World: Davies Auditorium (Becton Hall)" </unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">2002 February 23</unitdate>
+                     </did>
+                     <c altrender="/repositories/12/archival_objects/3536703"
+                        id="aspace_55203e0df9fa5ded4d704ae12e228d60"
+                        level="file">
+                        <did>
+                           <unittitle>Tape 1: Keynote Michael Harper</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>Videocassette (Hi8)</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                      containerid="39002141032368"
+                                      encodinganalog="card box (4d 4h 7w)"
+                                      id="aspace_55203e0df9fa5ded4d704ae12e228d60_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">17</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536704"
+                        id="aspace_400f2b8ef37e8a7061cb5b2d51d8e27b"
+                        level="file">
+                        <did>
+                           <unittitle>Tape 2: Panel: Emily Bernard, Ann duCilk, Bruce Kellner</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>Videocassette (Hi8)</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                      containerid="39002141032368"
+                                      encodinganalog="card box (4d 4h 7w)"
+                                      id="aspace_400f2b8ef37e8a7061cb5b2d51d8e27b_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">17</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536705"
+                        id="aspace_9f350ed554c7b9ac52824123eb3c65b0"
+                        level="file">
+                        <did>
+                           <unittitle>Tape 3: Afternoon session, Post Office presentation: Elizabeth Alexander, Amin Baraku, Dolores Kendrick, Tracie Morris, Kevin Young</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>Videocassette (Hi8)</unittype>
+                           </physdescstructured>
+                           <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                      containerid="39002141032368"
+                                      encodinganalog="card box (4d 4h 7w)"
+                                      id="aspace_9f350ed554c7b9ac52824123eb3c65b0_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">17</container>
+                        </did>
+                     </c>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536682"
+                     id="aspace_a190d28614dcdab6706b88ffdbe86997"
+                     level="file">
+                     <did>
+                        <unittitle>"Langston Hughes Conference: Hillhouse High School" </unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (Hi8)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2002 February 26</unitdate>
+                        <container altrender="/repositories/12/top_containers/391477 /locations/9"
+                                   containerid="39002141032368"
+                                   encodinganalog="card box (4d 4h 7w)"
+                                   id="aspace_a190d28614dcdab6706b88ffdbe86997_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536683"
+                     id="aspace_b1c7d8fbd036e46ceb860503e071b5ea"
+                     level="file">
+                     <did>
+                        <unittitle>"African American Conference: The Study @ Yale" </unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (MiniDV)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2011 December 9</unitdate>
+                        <container altrender="/repositories/12/top_containers/400598 /locations/9"
+                                   containerid="39002141032384"
+                                   encodinganalog="DVCAM"
+                                   id="aspace_b1c7d8fbd036e46ceb860503e071b5ea_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">19</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536674"
+                  id="aspace_4e534e82f747a1d7395b491faf7c8d85"
+                  level="file">
+                  <did>
+                     <unittitle>Lectures</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/3536684"
+                     id="aspace_d7118d82ca57ca76fb3f74157d87ad34"
+                     level="file">
+                     <did>
+                        <unittitle>DeVane Lecture: Elizabeth Alexander</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>CD-RW</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2012</unitdate>
+                        <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                   containerid="39002141032376"
+                                   encodinganalog="card box (8d 6h 12w)"
+                                   id="aspace_d7118d82ca57ca76fb3f74157d87ad34_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">18</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536685"
+                     id="aspace_75f46dee7cf6c31d394516496abb4ce5"
+                     level="file">
+                     <did>
+                        <unittitle>Henry Louis Gates, Jr. Lectures</unittitle>
+                     </did>
+                     <c altrender="/repositories/12/archival_objects/3536706"
+                        id="aspace_3dce281b56c890eb3597e4a990664039"
+                        level="file">
+                        <did>
+                           <unittitle>Professor Kwame Anthony Appiah</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <unitdate label="creation" unitdatetype="inclusive">2012 October 16</unitdate>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_3dce281b56c890eb3597e4a990664039_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536707"
+                        id="aspace_8760b4137824a31bfff7f018930fb1bf"
+                        level="file">
+                        <did>
+                           <unittitle>Patricia J. Williams: "Anatomy of Short Lives: A Meditation on the Repetitions of Regret"</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <unitdate label="creation" unitdatetype="inclusive">2015 April 21</unitdate>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_8760b4137824a31bfff7f018930fb1bf_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536708"
+                        id="aspace_2fb0a0f766493f98b718b320c40f7f1f"
+                        level="file">
+                        <did>
+                           <unittitle>Dorothy E. Roberts: "Killing the Black Body: A Twenty-Year Retrospective"</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <unitdate label="creation" unitdatetype="inclusive">2017 April 27</unitdate>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_2fb0a0f766493f98b718b320c40f7f1f_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536709"
+                        id="aspace_f8f6b28293b5185d6914ede8adf3df9a"
+                        level="file">
+                        <did>
+                           <unittitle>David Scott: "A Sense of Displacement: Stuart Hall's Art of Living"</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <unitdate label="creation" unitdatetype="inclusive">2018 April 26</unitdate>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_f8f6b28293b5185d6914ede8adf3df9a_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/12/archival_objects/3536710"
+                        id="aspace_6c67d4aebfd877cb92201bf593396ee3"
+                        level="file">
+                        <did>
+                           <unittitle>Hazel V. Carby: "Difficult Times"</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>DVD-R</unittype>
+                           </physdescstructured>
+                           <unitdate label="creation" unitdatetype="inclusive">2019 April 11</unitdate>
+                           <container altrender="/repositories/12/top_containers/400583 /locations/327"
+                                      containerid="39002141032376"
+                                      encodinganalog="card box (8d 6h 12w)"
+                                      id="aspace_6c67d4aebfd877cb92201bf593396ee3_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">18</container>
+                        </did>
+                     </c>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3536675"
+                  id="aspace_53a08c709f9b77a4548d60de0a31c848"
+                  level="file">
+                  <did>
+                     <unittitle>Videocassettes</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/3536686"
+                     id="aspace_8ac6f9157541d57435191ba70016d4b7"
+                     level="file">
+                     <did>
+                        <unittitle>"Duende to Cool: Cross Cultural Perspectives on Flamenco." A film by Omonike Akinyemi</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (VHS)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">1995 April 30</unitdate>
+                        <container altrender="/repositories/12/top_containers/400600 /locations/9"
+                                   containerid="39002141032392"
+                                   encodinganalog="video VHS"
+                                   id="aspace_8ac6f9157541d57435191ba70016d4b7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">20</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536687"
+                     id="aspace_a39f2e7df30999526d30393d27195a10"
+                     level="file">
+                     <did>
+                        <unittitle>"Black Panther Party: New Haven 9 30th Anniversary Discussion"</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (VHS)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">Circa 1999</unitdate>
+                        <container altrender="/repositories/12/top_containers/400601 /locations/9"
+                                   containerid="39002141032400"
+                                   encodinganalog="video VHS"
+                                   id="aspace_a39f2e7df30999526d30393d27195a10_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">21</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536688"
+                     id="aspace_ae4be4b2673c18aae0074ab8f1a08c8e"
+                     level="file">
+                     <did>
+                        <unittitle>"Ralph Bunche: An American Odyssey". Starring Jonathan Holloway, director William Greaves</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (VHS)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2001</unitdate>
+                        <container altrender="/repositories/12/top_containers/400602 /locations/9"
+                                   containerid="39002141032418"
+                                   encodinganalog="video VHS"
+                                   id="aspace_ae4be4b2673c18aae0074ab8f1a08c8e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">22</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536689"
+                     id="aspace_e93432d073e3efa5b9be18757c881216"
+                     level="file">
+                     <did>
+                        <unittitle>"Yale African American Studies Department 30th Reunion." Tape 1 of 2</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (VHS)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2002 May 3</unitdate>
+                        <container altrender="/repositories/12/top_containers/400603 /locations/9"
+                                   containerid="39002141032426"
+                                   encodinganalog="video VHS"
+                                   id="aspace_e93432d073e3efa5b9be18757c881216_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">23</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536690"
+                     id="aspace_618db2970ed4e19d6883c291b82408af"
+                     level="file">
+                     <did>
+                        <unittitle>"Yale African American Studies Department 30th Reunion." Tape 2 of 2</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (VHS)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2002 May 3</unitdate>
+                        <container altrender="/repositories/12/top_containers/400604 /locations/9"
+                                   containerid="39002141032434"
+                                   encodinganalog="video VHS"
+                                   id="aspace_618db2970ed4e19d6883c291b82408af_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">24</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536691"
+                     id="aspace_3a025a54bb58ef16fb44a779d816773f"
+                     level="file">
+                     <did>
+                        <unittitle>"Yale African American Studies Department 30th Reunion." Tape 1 of 2</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (VHS)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2002 May 4</unitdate>
+                        <container altrender="/repositories/12/top_containers/400605 /locations/9"
+                                   containerid="39002141032442"
+                                   encodinganalog="video VHS"
+                                   id="aspace_3a025a54bb58ef16fb44a779d816773f_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">25</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3536692"
+                     id="aspace_57bb333294cf30954e21c62e83b35e5f"
+                     level="file">
+                     <did>
+                        <unittitle>"Yale African American Studies Department 30th Reunion." Tape 2 of 2</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Videocassette (VHS)</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">2002 May 4</unitdate>
+                        <container altrender="/repositories/12/top_containers/400606 /locations/9"
+                                   containerid="39002141032459"
+                                   encodinganalog="video VHS"
+                                   id="aspace_57bb333294cf30954e21c62e83b35e5f_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">26</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3536422"
+               id="aspace_3358f9fe05b69230159587fc7c5670d0"
+               level="file">
+               <did>
+                  <unittitle>Computer files</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/3675349"
+                  id="aspace_ae42c18ac77a33db24123ce12ec6d389"
+                  level="file">
+                  <did>
+                     <unittitle>(PO #12)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_ae42c18ac77a33db24123ce12ec6d389_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787797"
+                  id="aspace_453196fa916c621a5e2d835d0a0c8f6d"
+                  level="file">
+                  <did>
+                     <unittitle>M&amp;P Vacancies</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_453196fa916c621a5e2d835d0a0c8f6d_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787798"
+                  id="aspace_b99fc70209f0699e4503353aedc57563"
+                  level="file">
+                  <did>
+                     <unittitle>Salary Letters</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1989">1989</fromdate>
+                           <todate standarddate="1990">1990</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_b99fc70209f0699e4503353aedc57563_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787799"
+                  id="aspace_a9331375efa9c2b956f7af218db7abca"
+                  level="file">
+                  <did>
+                     <unittitle>Taborg, SCH.31 VAR</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1989">1989</fromdate>
+                           <todate standarddate="1990">1990</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_a9331375efa9c2b956f7af218db7abca_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787800"
+                  id="aspace_bdd0ddf1a8303ed78f35ec6a7e8c472d"
+                  level="file">
+                  <did>
+                     <unittitle>New Salaries - C&amp;T</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_bdd0ddf1a8303ed78f35ec6a7e8c472d_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787801"
+                  id="aspace_86e8f941de0817918aba34146202f6ad"
+                  level="file">
+                  <did>
+                     <unittitle>M&amp;P Salaries</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1988-1990" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1988">1988</fromdate>
+                           <todate standarddate="1990">1990</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_86e8f941de0817918aba34146202f6ad_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787802"
+                  id="aspace_1332f9384e5c8a8335e799839ddd97c6"
+                  level="file">
+                  <did>
+                     <unittitle>M&amp;P</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1988">1988</fromdate>
+                           <todate standarddate="1989">1989</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_1332f9384e5c8a8335e799839ddd97c6_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787848"
+                  id="aspace_5d03164bd7f68d2897c5959a3e6e9cea"
+                  level="file">
+                  <did>
+                     <unittitle>Scot Control - Erase &amp; reuse</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_5d03164bd7f68d2897c5959a3e6e9cea_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3787849"
+                  id="aspace_fef21781665fd81b6844025459919710"
+                  level="file">
+                  <did>
+                     <unittitle>Taborg</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>3.5_floppy_disk</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/400610 /locations/9"
+                                containerid="39002141032467"
+                                encodinganalog="card box (4d 4h 7w)"
+                                id="aspace_fef21781665fd81b6844025459919710_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>
