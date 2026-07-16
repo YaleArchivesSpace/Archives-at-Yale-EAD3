@@ -77,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-14T23:02:28-04:00</eventdatetime>
+            <eventdatetime>2026-07-15T23:00:31-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -47334,7 +47334,9 @@
                   level="file">
                   <did>
                      <unittitle>Press clippings</unittitle>
-                     <unitdatestructured altrender="1995–2013" label="creation" unitdatetype="inclusive">
+                     <unitdatestructured altrender="1983, 1995–2013"
+                                         label="creation"
+                                         unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1995">1995</fromdate>
                            <todate standarddate="2013">2013</todate>
@@ -47350,6 +47352,7 @@
                                 localtype="folder"
                                 parent="aspace_2424516a4936d27456924e0efdf18d4e_c1">2300</container>
                      <container altrender="/repositories/11/top_containers/484038"
+                                containerid="39002098928691"
                                 encodinganalog="flat box (14d 1h 18w)"
                                 id="aspace_2424516a4936d27456924e0efdf18d4e_c3"
                                 label="Mixed Materials"

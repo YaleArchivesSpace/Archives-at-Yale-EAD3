@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-08T23:05:14-04:00</eventdatetime>
+            <eventdatetime>2026-07-15T23:01:08-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  8, 2026 at 23:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -22461,6 +22461,10 @@
                level="item">
                <did>
                   <unittitle>Reza Abdoh / Antonio Attisani</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Audiocassette</unittype>
+                  </physdescstructured>
                   <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   <container altrender="/repositories/11/top_containers/406492 /locations/9"
                              containerid="39002099198351"
@@ -22468,7 +22472,15 @@
                              id="aspace_895ca2ad91347a7774b4d574e0d31387_c1"
                              label="Mixed Materials"
                              localtype="box">76</container>
+                  <container id="aspace_895ca2ad91347a7774b4d574e0d31387_c2"
+                             localtype="item_barcode"
+                             parent="aspace_895ca2ad91347a7774b4d574e0d31387_c1">39002140886624</container>
                </did>
+               <accessrestrict id="aspace_351b666674efb7b7a35c4675710adb66"
+                               localtype="RestrictedFragileSpecColl">
+                  <head>Conditions Governing Access</head>
+                  <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+               </accessrestrict>
             </c>
             <c altrender="/repositories/11/archival_objects/3865174"
                id="aspace_bd8c47a43dd94bcb827d1f0335f3a87c"

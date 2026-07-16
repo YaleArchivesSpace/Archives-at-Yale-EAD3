@@ -42,7 +42,7 @@
                <p>Boxes: 1-19</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="10">10</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1187">1,187</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="11">11</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1299">1,299</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-03-30T23:03:49-04:00</eventdatetime>
+            <eventdatetime>2026-07-15T23:04:50-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 30, 2026 at 23:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -981,6 +981,27 @@
                              id="aspace_ref55_c1"
                              label="Mixed Materials"
                              localtype="box">19</container>
+                  <daoset altrender="/repositories/11/digital_objects/350483">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33692013"
+                          linktitle="112 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33692013"
+                          identifier="oid:33692013"
+                          linktitle="112 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Scrapbook</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_c2780d597235d5c3af8ac67e04d56c1c">
                   <head>Scope and Contents</head>

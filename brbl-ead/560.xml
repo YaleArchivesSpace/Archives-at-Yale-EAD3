@@ -42,7 +42,7 @@
                <p>Boxes: 1-5</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="532">532</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1134">1,134</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T23:02:03-04:00</eventdatetime>
+            <eventdatetime>2026-07-15T23:05:01-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -750,6 +750,35 @@
                           id="aspace_ref54_c1"
                           label="Mixed Materials"
                           localtype="box">5</container>
+               <daoset altrender="/repositories/11/digital_objects/350482">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/manifests/33693130"
+                       identifier="oid:33693130"
+                       linktitle="98 images"
+                       linkrole="text-json"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/iiif/2/33693131/full/!150,150/0/default.jpg"
+                       identifier="oid:33693130"
+                       linktitle="98 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33693130"
+                       identifier="oid:33693130"
+                       linktitle="98 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Volume 25</p>
+                  </descriptivenote>
+               </daoset>
             </did>
             <scopecontent id="aspace_9c6da3837481de2d15e2f3c21f88cfd6">
                <head>Scope and Contents</head>
@@ -774,6 +803,35 @@
                           id="aspace_ref56_c1"
                           label="Mixed Materials"
                           localtype="box">5</container>
+               <daoset altrender="/repositories/11/digital_objects/350486">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/manifests/33693422"
+                       identifier="oid:33693422"
+                       linktitle="312 images"
+                       linkrole="text-json"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/iiif/2/33693423/full/!150,150/0/default.jpg"
+                       identifier="oid:33693422"
+                       linktitle="312 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33693422"
+                       identifier="oid:33693422"
+                       linktitle="312 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Volume 26</p>
+                  </descriptivenote>
+               </daoset>
             </did>
             <scopecontent id="aspace_f6611c3cd895631c42487074ae735f4d">
                <head>Scope and Contents</head>
@@ -791,6 +849,35 @@
                           id="aspace_ref58_c1"
                           label="Mixed Materials"
                           localtype="box">5</container>
+               <daoset altrender="/repositories/11/digital_objects/350484">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/manifests/33693229"
+                       identifier="oid:33693229"
+                       linktitle="192 images"
+                       linkrole="text-json"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/iiif/2/33693230/full/!150,150/0/default.jpg"
+                       identifier="oid:33693229"
+                       linktitle="192 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33693229"
+                       identifier="oid:33693229"
+                       linktitle="192 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Volume 27</p>
+                  </descriptivenote>
+               </daoset>
             </did>
             <scopecontent id="aspace_092eecbd7cabc13b83d649718f2c7309">
                <head>Scope and Contents</head>

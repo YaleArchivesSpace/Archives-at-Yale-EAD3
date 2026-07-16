@@ -44,7 +44,7 @@
                <p>Boxes: 38 (Oversize), 39 (Art), 69, 70-71 (Art), 72 (Oversize), 73-74, 77 (Oversize), 78-79, 80 (Oversize), 82-83, 84 (Oversize), 86</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="11">11</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="11">11</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="15">15</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:59:13-05:00</eventdatetime>
+            <eventdatetime>2026-07-15T23:04:41-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:59</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11842,6 +11842,27 @@ Mark Bibbins, Robert Dash, and Margaret Fuller among others.</p>
                                 id="aspace_ref874_c1"
                                 label="Mixed Materials"
                                 localtype="box">82</container>
+                     <daoset altrender="/repositories/11/digital_objects/350479">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33692126"
+                             linktitle="4 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33692126"
+                             identifier="oid:33692126"
+                             linktitle="4 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Ponty and Pinty--framed artwork</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_eaf2155a99bb3f045f28b682a324697c">
                      <head>Scope and Contents</head>

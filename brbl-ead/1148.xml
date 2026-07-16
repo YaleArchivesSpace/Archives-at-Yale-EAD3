@@ -42,7 +42,7 @@
                <p>Boxes: 1-4</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1384">1,384</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1952">1,952</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-09-12T23:07:53-04:00</eventdatetime>
+            <eventdatetime>2026-07-15T23:05:05-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 12, 2025 at 23:07</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4249,6 +4249,35 @@
             level="series">
             <did>
                <unittitle>Osborn fb190: Volume 3</unittitle>
+               <daoset altrender="/repositories/11/digital_objects/350487">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/manifests/33692561"
+                       identifier="oid:33692561"
+                       linktitle="568 images"
+                       linkrole="text-json"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/iiif/2/33692562/full/!150,150/0/default.jpg"
+                       identifier="oid:33692561"
+                       linktitle="568 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33692561"
+                       identifier="oid:33692561"
+                       linktitle="568 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Osborn fb190: Volume 3</p>
+                  </descriptivenote>
+               </daoset>
             </did>
             <c altrender="/repositories/11/archival_objects/429066"
                id="ref466"
