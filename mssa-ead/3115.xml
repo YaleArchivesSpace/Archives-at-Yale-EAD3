@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T03:44:25-04:00</eventdatetime>
+            <eventdatetime>2026-07-16T03:02:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 03:44</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1831,6 +1831,23 @@
                              label="Mixed Materials"
                              localtype="box">10</container>
                   <container id="aspace_ref108_c2" localtype="folder" parent="aspace_ref108_c1">30-31</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4045676"
+               id="aspace_59594202c8d678a442fa81b5eecc1325"
+               level="item">
+               <did>
+                  <unittitle>Key to Loomis Mortuary Chapel</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/12/top_containers/132624 /locations/9"
+                             containerid="39002046531142"
+                             encodinganalog="archive legal"
+                             id="aspace_59594202c8d678a442fa81b5eecc1325_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+                  <container id="aspace_59594202c8d678a442fa81b5eecc1325_c2"
+                             localtype="folder"
+                             parent="aspace_59594202c8d678a442fa81b5eecc1325_c1">31a</container>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1190713"
