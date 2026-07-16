@@ -37,7 +37,7 @@
                <p>Boxes: 1-184</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="51">51</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="7492">7,492</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="52">52</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="7774">7,774</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-06T18:00:13-04:00</eventdatetime>
+            <eventdatetime>2026-07-16T18:00:52-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July  6, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2930,6 +2930,35 @@
                              id="aspace_2550f3ca361f13d87346bfdaa23efdea_c1"
                              label="Mixed Materials"
                              localtype="box">104</container>
+                  <daoset altrender="/repositories/4/digital_objects/350500">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33693908"
+                          identifier="oid:33693908"
+                          linktitle="282 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33693951/full/!150,150/0/default.jpg"
+                          identifier="oid:33693908"
+                          linktitle="282 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33693908"
+                          identifier="oid:33693908"
+                          linktitle="282 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Africa</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2940327"

@@ -34,7 +34,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-139, 142-144, 147-149, 151-168, 170-194, 196, 201-202, 204-208, 217-220, 223, 226-229, 238, 246-257</p>
+               <p>Boxes: 1-139, 142-144, 147-149, 151-168, 170-194, 196, 201-202, 204-208, 217-220, 223, 226-229, 238, 246-264</p>
             </controlnote>
             <controlnote localtype="onsite">
                <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245</p>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-14T18:00:18-04:00</eventdatetime>
+            <eventdatetime>2026-07-16T18:01:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -128,6 +128,15 @@
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85086032"
                   source="lcsh">
             <part localtype="topical">Missions</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85044442"
+                  source="lcsh">
+            <part localtype="topical">Episcopal Church</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh2010102148"
+                  source="lcsh">
+            <part localtype="topical">Missions</part>
+            <part localtype="geographic">Japan</part>
          </subject>
       </controlaccess>
       <dsc>
@@ -26174,11 +26183,11 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                      id="aspace_8643a44ccac7a1cb356a5ca36cb577a9"
                      level="file">
                      <did>
-                        <unittitle>Home missions work - general, including African Mission School Society in Hartford, work with Hispanics, Swedish</unittitle>
+                        <unittitle>Home missions work - general</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1830">1830</fromdate>
-                              <todate standarddate="1978">1978</todate>
+                              <todate standarddate="1928">1928</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/484025 /locations/9"
@@ -26190,6 +26199,10 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                    localtype="folder"
                                    parent="aspace_8643a44ccac7a1cb356a5ca36cb577a9_c1">1</container>
                      </did>
+                     <scopecontent id="aspace_e5e7b15051889aacdf3e1593a6338dbe">
+                        <head>Scope and Contents</head>
+                        <p>See also home missions work by region and with people groups below.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4045436"
                      id="aspace_e555f866f84a678c8a7bc708bccc4e0b"
@@ -26710,6 +26723,799 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                         <container id="aspace_98422babf1e595177a259497805b7f35_c2"
                                    localtype="folder"
                                    parent="aspace_98422babf1e595177a259497805b7f35_c1">5-7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045678"
+                     id="aspace_3de1cba34532607d98c8905ca96049f9"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Brazil - leaflets, Convocation journal</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1892">1892</fromdate>
+                              <todate standarddate="1942">1942</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484047 /locations/9"
+                                   containerid="39002035369652"
+                                   id="aspace_3de1cba34532607d98c8905ca96049f9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">258</container>
+                        <container id="aspace_3de1cba34532607d98c8905ca96049f9_c2"
+                                   localtype="folder"
+                                   parent="aspace_3de1cba34532607d98c8905ca96049f9_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045679"
+                     id="aspace_10a2c88879f36531332a76d2c70c4c9b"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin American / Caribbean: Cuba - Convocation reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1879">1879</fromdate>
+                              <todate standarddate="1942">1942</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484047 /locations/9"
+                                   containerid="39002035369652"
+                                   id="aspace_10a2c88879f36531332a76d2c70c4c9b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">258</container>
+                        <container id="aspace_10a2c88879f36531332a76d2c70c4c9b_c2"
+                                   localtype="folder"
+                                   parent="aspace_10a2c88879f36531332a76d2c70c4c9b_c1">2-5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045680"
+                     id="aspace_befc1b73f219737c8127246de50468f0"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Haiti - sermon, report</unittitle>
+                        <unitdatestructured altrender="1876, 1939" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1879">1879</fromdate>
+                              <todate standarddate="1939">1939</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484047 /locations/9"
+                                   containerid="39002035369652"
+                                   id="aspace_befc1b73f219737c8127246de50468f0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">258</container>
+                        <container id="aspace_befc1b73f219737c8127246de50468f0_c2"
+                                   localtype="folder"
+                                   parent="aspace_befc1b73f219737c8127246de50468f0_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045681"
+                     id="aspace_66412fefd0280bc41d23124c20e690f1"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Honduras - Convocation journal</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1969">1969</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484047 /locations/9"
+                                   containerid="39002035369652"
+                                   id="aspace_66412fefd0280bc41d23124c20e690f1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">258</container>
+                        <container id="aspace_66412fefd0280bc41d23124c20e690f1_c2"
+                                   localtype="folder"
+                                   parent="aspace_66412fefd0280bc41d23124c20e690f1_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045682"
+                     id="aspace_d68694fbbd7255accb686ad4b5ecf2d9"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Jamaica - service programs</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1888">1888</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484047 /locations/9"
+                                   containerid="39002035369652"
+                                   id="aspace_d68694fbbd7255accb686ad4b5ecf2d9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">258</container>
+                        <container id="aspace_d68694fbbd7255accb686ad4b5ecf2d9_c2"
+                                   localtype="folder"
+                                   parent="aspace_d68694fbbd7255accb686ad4b5ecf2d9_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045683"
+                     id="aspace_0aba262eb2ec2f3f11ea3314b9bcf657"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Mexico - leaflets</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1876">1876</fromdate>
+                              <todate standarddate="1942">1942</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484047 /locations/9"
+                                   containerid="39002035369652"
+                                   id="aspace_0aba262eb2ec2f3f11ea3314b9bcf657_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">258</container>
+                        <container id="aspace_0aba262eb2ec2f3f11ea3314b9bcf657_c2"
+                                   localtype="folder"
+                                   parent="aspace_0aba262eb2ec2f3f11ea3314b9bcf657_c1">9</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045684"
+                     id="aspace_844574e6510e2da53928488e5f8e0e18"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Mexico - Convocation journals</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1959">1959</fromdate>
+                              <todate standarddate="1969">1969</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484047 /locations/9"
+                                   containerid="39002035369652"
+                                   id="aspace_844574e6510e2da53928488e5f8e0e18_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">258</container>
+                        <container id="aspace_844574e6510e2da53928488e5f8e0e18_c2"
+                                   localtype="folder"
+                                   parent="aspace_844574e6510e2da53928488e5f8e0e18_c1">10</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045685"
+                     id="aspace_45aebee5b5fb8b262cb79bb0dad3c2a9"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Panama Canal Zone - leaflets</unittitle>
+                        <unitdatestructured altrender="1909-1915, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1909">1909</fromdate>
+                              <todate standarddate="1915">1915</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484048 /locations/9"
+                                   containerid="39002035369686"
+                                   id="aspace_45aebee5b5fb8b262cb79bb0dad3c2a9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">259</container>
+                        <container id="aspace_45aebee5b5fb8b262cb79bb0dad3c2a9_c2"
+                                   localtype="folder"
+                                   parent="aspace_45aebee5b5fb8b262cb79bb0dad3c2a9_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045687"
+                     id="aspace_84ee0b01e805b483e7aad274ec938892"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Panama Canal Zone - Convocation journals</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1950">1950</fromdate>
+                              <todate standarddate="1968">1968</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484048 /locations/9"
+                                   containerid="39002035369686"
+                                   id="aspace_84ee0b01e805b483e7aad274ec938892_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">259</container>
+                        <container id="aspace_84ee0b01e805b483e7aad274ec938892_c2"
+                                   localtype="folder"
+                                   parent="aspace_84ee0b01e805b483e7aad274ec938892_c1">2-4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045690"
+                     id="aspace_669c5ef105d74fd713ea72fa9da488c1"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Puerto Rico - leaflets</unittitle>
+                        <unitdatestructured altrender="1906-1929, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1906">1906</fromdate>
+                              <todate standarddate="1929">1929</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484050 /locations/9"
+                                   containerid="39002035369660"
+                                   id="aspace_669c5ef105d74fd713ea72fa9da488c1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">260</container>
+                        <container id="aspace_669c5ef105d74fd713ea72fa9da488c1_c2"
+                                   localtype="folder"
+                                   parent="aspace_669c5ef105d74fd713ea72fa9da488c1_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045691"
+                     id="aspace_56a89f6a51a9d6f83e8c78f489032ec7"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Puerto Rico - Convocation journals</unittitle>
+                        <unitdatestructured altrender="1904- 1934, 1960-1964"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1904">1904</fromdate>
+                              <todate standarddate="1964">1964</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484050 /locations/9"
+                                   containerid="39002035369660"
+                                   id="aspace_56a89f6a51a9d6f83e8c78f489032ec7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">260</container>
+                        <container id="aspace_56a89f6a51a9d6f83e8c78f489032ec7_c2"
+                                   localtype="folder"
+                                   parent="aspace_56a89f6a51a9d6f83e8c78f489032ec7_c1">2-4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045695"
+                     id="aspace_6d6174e666ec19caab0590a9feb811f5"
+                     level="file">
+                     <did>
+                        <unittitle>Work in Latin America / Caribbean: Virgin Islands - Convocation journal</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1958">1958</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484050 /locations/9"
+                                   containerid="39002035369660"
+                                   id="aspace_6d6174e666ec19caab0590a9feb811f5_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">260</container>
+                        <container id="aspace_6d6174e666ec19caab0590a9feb811f5_c2"
+                                   localtype="folder"
+                                   parent="aspace_6d6174e666ec19caab0590a9feb811f5_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045700"
+                     id="aspace_1ef01bb0f0716fb1f3110004614e6dca"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Alaska - leaflets, reports</unittitle>
+                        <unitdatestructured altrender="ca. 1895-1963, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1895">1895</fromdate>
+                              <todate standarddate="1963">1963</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_1ef01bb0f0716fb1f3110004614e6dca_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_1ef01bb0f0716fb1f3110004614e6dca_c2"
+                                   localtype="folder"
+                                   parent="aspace_1ef01bb0f0716fb1f3110004614e6dca_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045703"
+                     id="aspace_dd114ab49a5ac4da7455242fdce485f5"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Arizona - Good Shepherd Mission</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_dd114ab49a5ac4da7455242fdce485f5_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_dd114ab49a5ac4da7455242fdce485f5_c2"
+                                   localtype="folder"
+                                   parent="aspace_dd114ab49a5ac4da7455242fdce485f5_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045704"
+                     id="aspace_ca9f38cd4461f3495fe14e0d0e02da6e"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Connecticut - African Mission School Society, Hartford report</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1830">1830</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_ca9f38cd4461f3495fe14e0d0e02da6e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_ca9f38cd4461f3495fe14e0d0e02da6e_c2"
+                                   localtype="folder"
+                                   parent="aspace_ca9f38cd4461f3495fe14e0d0e02da6e_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045707"
+                     id="aspace_82e1bd70e5194a7f1db43a199a84330a"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Connecticut - annual reports of The Church Home, Hartford, report of New London Archdeaconry</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1895">1895</fromdate>
+                              <todate standarddate="1917">1917</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_82e1bd70e5194a7f1db43a199a84330a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_82e1bd70e5194a7f1db43a199a84330a_c2"
+                                   localtype="folder"
+                                   parent="aspace_82e1bd70e5194a7f1db43a199a84330a_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045709"
+                     id="aspace_2dab5c16b3ddd804a1858227f91aac24"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Massachusetts - reports on missionary work, city mission in Boston</unittitle>
+                        <unitdatestructured altrender="1861, 1895" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1861">1861</fromdate>
+                              <todate standarddate="1895">1895</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_2dab5c16b3ddd804a1858227f91aac24_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_2dab5c16b3ddd804a1858227f91aac24_c2"
+                                   localtype="folder"
+                                   parent="aspace_2dab5c16b3ddd804a1858227f91aac24_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045711"
+                     id="aspace_b19643a24f0cadcc8824cadd3a404e4b"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Nevada - report</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1937">1937</fromdate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_b19643a24f0cadcc8824cadd3a404e4b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_b19643a24f0cadcc8824cadd3a404e4b_c2"
+                                   localtype="folder"
+                                   parent="aspace_b19643a24f0cadcc8824cadd3a404e4b_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045716"
+                     id="aspace_861c8780d630b2d76a34917d33d37c0a"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - New York Protestant Episcopal Missionary Society annual reports</unittitle>
+                        <unitdatestructured altrender="1823, 1829" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1823">1823</fromdate>
+                              <todate standarddate="1829">1829</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_861c8780d630b2d76a34917d33d37c0a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_861c8780d630b2d76a34917d33d37c0a_c2"
+                                   localtype="folder"
+                                   parent="aspace_861c8780d630b2d76a34917d33d37c0a_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045723"
+                     id="aspace_9fae17d520783a8b6bdf6be40771b598"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - Education and Missionary Society in the Diocese of New York - Constitution, annual reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1832">1832</fromdate>
+                              <todate standarddate="1841">1841</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_9fae17d520783a8b6bdf6be40771b598_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_9fae17d520783a8b6bdf6be40771b598_c2"
+                                   localtype="folder"
+                                   parent="aspace_9fae17d520783a8b6bdf6be40771b598_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045717"
+                     id="aspace_78d85253e664b513220dc4d637c18297"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - Missionary Society for Seamen annual reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1847">1847</fromdate>
+                              <todate standarddate="1901">1901</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_78d85253e664b513220dc4d637c18297_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_78d85253e664b513220dc4d637c18297_c2"
+                                   localtype="folder"
+                                   parent="aspace_78d85253e664b513220dc4d637c18297_c1">9-11</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045720"
+                     id="aspace_303a036b1e8fe6fe8a73c9594b8bd880"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - New York Protestant Episcopal City Mission Society - annual reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1839">1839</fromdate>
+                              <todate standarddate="1874">1874</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484051 /locations/9"
+                                   containerid="39002035369678"
+                                   id="aspace_303a036b1e8fe6fe8a73c9594b8bd880_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">261</container>
+                        <container id="aspace_303a036b1e8fe6fe8a73c9594b8bd880_c2"
+                                   localtype="folder"
+                                   parent="aspace_303a036b1e8fe6fe8a73c9594b8bd880_c1">12-13</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045722"
+                     id="aspace_17e71aecd4a4a6171a4a0eb1fdc541f5"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - New York Protestant Episcopal City Mission Society - annual reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1880">1880</fromdate>
+                              <todate standarddate="1919">1919</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484054 /locations/9"
+                                   containerid="39002035369694"
+                                   id="aspace_17e71aecd4a4a6171a4a0eb1fdc541f5_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">262</container>
+                        <container id="aspace_17e71aecd4a4a6171a4a0eb1fdc541f5_c2"
+                                   localtype="folder"
+                                   parent="aspace_17e71aecd4a4a6171a4a0eb1fdc541f5_c1">1-6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045726"
+                     id="aspace_d62142940233cc6e267dd16a70f2ea31"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - New York Protestant Episcopal City Mission Society - annual reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1928">1928</fromdate>
+                              <todate standarddate="1936">1936</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484057 /locations/9"
+                                   containerid="39002035369702"
+                                   id="aspace_d62142940233cc6e267dd16a70f2ea31_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">263</container>
+                        <container id="aspace_d62142940233cc6e267dd16a70f2ea31_c2"
+                                   localtype="folder"
+                                   parent="aspace_d62142940233cc6e267dd16a70f2ea31_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045727"
+                     id="aspace_3086adff208d7466f7129f9df100a994"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - Church Mission of Help</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1931">1931</fromdate>
+                              <todate standarddate="1934">1934</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484057 /locations/9"
+                                   containerid="39002035369702"
+                                   id="aspace_3086adff208d7466f7129f9df100a994_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">263</container>
+                        <container id="aspace_3086adff208d7466f7129f9df100a994_c2"
+                                   localtype="folder"
+                                   parent="aspace_3086adff208d7466f7129f9df100a994_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045735"
+                     id="aspace_63b2bab76061b2207db1ba15e09548b0"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: New York - Lake Placid - Missions of Saint Eustace and Saint Hubert</unittitle>
+                        <container altrender="/repositories/4/top_containers/484057 /locations/9"
+                                   containerid="39002035369702"
+                                   id="aspace_63b2bab76061b2207db1ba15e09548b0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">263</container>
+                        <container id="aspace_63b2bab76061b2207db1ba15e09548b0_c2"
+                                   localtype="folder"
+                                   parent="aspace_63b2bab76061b2207db1ba15e09548b0_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045728"
+                     id="aspace_f7d8d48697fb4aad24109cf690814f81"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: North Carolina - Asheville area</unittitle>
+                        <unitdatestructured altrender="1895, 1907" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1895">1895</fromdate>
+                              <todate standarddate="1907">1907</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484057 /locations/9"
+                                   containerid="39002035369702"
+                                   id="aspace_f7d8d48697fb4aad24109cf690814f81_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">263</container>
+                        <container id="aspace_f7d8d48697fb4aad24109cf690814f81_c2"
+                                   localtype="folder"
+                                   parent="aspace_f7d8d48697fb4aad24109cf690814f81_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045729"
+                     id="aspace_63ee9d34a9ca0d57360121c3dada37bb"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work; Oklahoma and Indian Territory - including with Native American tribes in Minnesota, South Dakota</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1870">1870</fromdate>
+                              <todate standarddate="1898">1898</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484057 /locations/9"
+                                   containerid="39002035369702"
+                                   id="aspace_63ee9d34a9ca0d57360121c3dada37bb_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">263</container>
+                        <container id="aspace_63ee9d34a9ca0d57360121c3dada37bb_c2"
+                                   localtype="folder"
+                                   parent="aspace_63ee9d34a9ca0d57360121c3dada37bb_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045730"
+                     id="aspace_4018277ebdd62530962f663ed327a22c"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Pennsylvania - Diocesan Missionary Society annual meeting proceedings</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1858">1858</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484057 /locations/9"
+                                   containerid="39002035369702"
+                                   id="aspace_4018277ebdd62530962f663ed327a22c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">263</container>
+                        <container id="aspace_4018277ebdd62530962f663ed327a22c_c2"
+                                   localtype="folder"
+                                   parent="aspace_4018277ebdd62530962f663ed327a22c_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045731"
+                     id="aspace_a8fc5c99b29e8e0857dfad2e1c24e200"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Pennsylvania - Philadelphia Protestant City Mission annual reports</unittitle>
+                        <unitdatestructured altrender="1867-1916, 1944"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1867">1867</fromdate>
+                              <todate standarddate="1944">1944</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484057 /locations/9"
+                                   containerid="39002035369702"
+                                   id="aspace_a8fc5c99b29e8e0857dfad2e1c24e200_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">263</container>
+                        <container id="aspace_a8fc5c99b29e8e0857dfad2e1c24e200_c2"
+                                   localtype="folder"
+                                   parent="aspace_a8fc5c99b29e8e0857dfad2e1c24e200_c1">7-8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045732"
+                     id="aspace_20ac87e589cfd9508c34585c738e9800"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Pennsylvania - Harrisburg Missionary Diocese brochure</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1937">1937</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_20ac87e589cfd9508c34585c738e9800_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_20ac87e589cfd9508c34585c738e9800_c2"
+                                   localtype="folder"
+                                   parent="aspace_20ac87e589cfd9508c34585c738e9800_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045733"
+                     id="aspace_8fa2608297a71101eb2b834584d37416"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: South Carolina - St. Paul's Mission, Horse Creek Valley</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1914">1914</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_8fa2608297a71101eb2b834584d37416_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_8fa2608297a71101eb2b834584d37416_c2"
+                                   localtype="folder"
+                                   parent="aspace_8fa2608297a71101eb2b834584d37416_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045734"
+                     id="aspace_b57e72ba89f8a21395cde41e7646ae0a"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Tennessee - Sewanee missions, Epiphany Mission</unittitle>
+                        <unitdatestructured altrender="circa 1910, 1940-1942"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1910">1910</fromdate>
+                              <todate standarddate="1942">1942</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_b57e72ba89f8a21395cde41e7646ae0a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_b57e72ba89f8a21395cde41e7646ae0a_c2"
+                                   localtype="folder"
+                                   parent="aspace_b57e72ba89f8a21395cde41e7646ae0a_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045738"
+                     id="aspace_3e9b7337db254c1cea54a15e726293f0"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Wyoming, Colorado, New Mexico, Oregon, West Texas and with Native Americans</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1871">1871</fromdate>
+                              <todate standarddate="1940">1940</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_3e9b7337db254c1cea54a15e726293f0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_3e9b7337db254c1cea54a15e726293f0_c2"
+                                   localtype="folder"
+                                   parent="aspace_3e9b7337db254c1cea54a15e726293f0_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045739"
+                     id="aspace_8ace5f665497942a04ff923f0fffeafb"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: work with Black Americans</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_8ace5f665497942a04ff923f0fffeafb_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_8ace5f665497942a04ff923f0fffeafb_c2"
+                                   localtype="folder"
+                                   parent="aspace_8ace5f665497942a04ff923f0fffeafb_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045740"
+                     id="aspace_5d61c867bcf53c5f36499d195b5086c9"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: work with immigrant groups</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1863">1863</fromdate>
+                              <todate standarddate="1978">1978</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_5d61c867bcf53c5f36499d195b5086c9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_5d61c867bcf53c5f36499d195b5086c9_c2"
+                                   localtype="folder"
+                                   parent="aspace_5d61c867bcf53c5f36499d195b5086c9_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045741"
+                     id="aspace_d923149b3b8e321acea0000049f4269a"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Church Mission to Deaf-Mutes</unittitle>
+                        <unitdatestructured altrender="1876, 1884" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1876">1876</fromdate>
+                              <todate standarddate="1884">1884</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_d923149b3b8e321acea0000049f4269a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_d923149b3b8e321acea0000049f4269a_c2"
+                                   localtype="folder"
+                                   parent="aspace_d923149b3b8e321acea0000049f4269a_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045742"
+                     id="aspace_805664007f0b3f05a2089c2c4624297a"
+                     level="file">
+                     <did>
+                        <unittitle>Home missions work: Church Mission to the Jews</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1865">1865</fromdate>
+                              <todate standarddate="1867">1867</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_805664007f0b3f05a2089c2c4624297a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_805664007f0b3f05a2089c2c4624297a_c2"
+                                   localtype="folder"
+                                   parent="aspace_805664007f0b3f05a2089c2c4624297a_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4045743"
+                     id="aspace_2c2c77012b643e03e0f0c273739a7396"
+                     level="file">
+                     <did>
+                        <unittitle>Conference for Church Work held at Wellesley College</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1946">1946</fromdate>
+                              <todate standarddate="1951">1951</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484059 /locations/9"
+                                   containerid="39002035369710"
+                                   id="aspace_2c2c77012b643e03e0f0c273739a7396_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">264</container>
+                        <container id="aspace_2c2c77012b643e03e0f0c273739a7396_c2"
+                                   localtype="folder"
+                                   parent="aspace_2c2c77012b643e03e0f0c273739a7396_c1">9</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4027106"
