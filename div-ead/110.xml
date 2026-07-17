@@ -44,6 +44,9 @@
             <controlnote localtype="onsite">
                <p>Boxes: OV1-OV2, OVd2</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="194">194</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -72,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-16T18:00:38-04:00</eventdatetime>
+            <eventdatetime>2026-07-17T18:03:26-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -17874,7 +17877,7 @@
                id="ref1076"
                level="file">
                <did>
-                  <unittitle>?CIA and DOM (Division of Overseas Ministries)</unittitle>
+                  <unittitle>CIA and DOM (Division of Overseas Ministries)</unittitle>
                   <container altrender="/repositories/4/top_containers/4769 /locations/9"
                              containerid="39002084398917"
                              id="aspace_ref1076_c1"
@@ -17883,6 +17886,35 @@
                   <container id="aspace_ref1076_c2"
                              localtype="folder"
                              parent="aspace_ref1076_c1">41</container>
+                  <daoset altrender="/repositories/4/digital_objects/350574">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33697956"
+                          identifier="oid:33697956"
+                          linktitle="194 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33698037/full/!150,150/0/default.jpg"
+                          identifier="oid:33697956"
+                          linktitle="194 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33697956"
+                          identifier="oid:33697956"
+                          linktitle="194 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>﻿CIA and DOM (Division of Overseas Ministries); Clinton, President Bill; Columbus, Christopher; ﻿Communication; Communism; Computers; Congregational Christian Historical Society (CCHS)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/4042714"

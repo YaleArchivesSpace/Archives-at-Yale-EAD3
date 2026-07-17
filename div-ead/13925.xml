@@ -40,7 +40,7 @@
                <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="50">50</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="111">111</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-16T18:01:03-04:00</eventdatetime>
+            <eventdatetime>2026-07-17T18:02:37-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2586,6 +2586,35 @@
                      <container id="aspace_2ba2204b38dbc229420426c73c66088e_c2"
                                 localtype="folder"
                                 parent="aspace_2ba2204b38dbc229420426c73c66088e_c1">6</container>
+                     <daoset altrender="/repositories/4/digital_objects/350561">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33696615"
+                             identifier="oid:33696615"
+                             linktitle="40 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33696670/full/!150,150/0/default.jpg"
+                             identifier="oid:33696615"
+                             linktitle="40 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33696615"
+                             identifier="oid:33696615"
+                             linktitle="40 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Canton Committee for Justice to China</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_4d8deb3057c7e9f23885ee88f496b296">
                      <head>Scope and Contents</head>
@@ -3489,6 +3518,35 @@
                      <container id="aspace_fe9f2fb7998137fbd996cefa53a0ace7_c2"
                                 localtype="folder"
                                 parent="aspace_fe9f2fb7998137fbd996cefa53a0ace7_c1">18</container>
+                     <daoset altrender="/repositories/4/digital_objects/350559">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33696648"
+                             identifier="oid:33696648"
+                             linktitle="21 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33696676/full/!150,150/0/default.jpg"
+                             identifier="oid:33696648"
+                             linktitle="21 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33696648"
+                             identifier="oid:33696648"
+                             linktitle="21 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Union Lutheran Conference</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_914b600e25aa8d757d5b8fa0d9945977">
                      <head>Scope and Contents</head>

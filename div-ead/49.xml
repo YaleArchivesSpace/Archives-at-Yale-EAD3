@@ -45,7 +45,7 @@
                <p>Boxes: OVd1, OVd7-OVd9, OV11-G, OV11-U, OV11-V, OVd14-OVd15, OVd17, 466</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="655">655</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="15673">15,673</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="658">658</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="15756">15,756</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-16T18:03:06-04:00</eventdatetime>
+            <eventdatetime>2026-07-17T18:01:47-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1871,6 +1871,35 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                              label="Mixed Materials"
                              localtype="box">6</container>
                   <container id="aspace_ref88_c2" localtype="folder" parent="aspace_ref88_c1">125</container>
+                  <daoset altrender="/repositories/4/digital_objects/350540">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33693808"
+                          identifier="oid:33693808"
+                          linktitle="6 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33694928/full/!150,150/0/default.jpg"
+                          identifier="oid:33693808"
+                          linktitle="6 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33693808"
+                          identifier="oid:33693808"
+                          linktitle="6 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Church Committee for China Relief</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/13199"
@@ -29945,6 +29974,35 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                   <container id="aspace_ref1372_c2"
                              localtype="folder"
                              parent="aspace_ref1372_c1">1930</container>
+                  <daoset altrender="/repositories/4/digital_objects/350550">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33695834"
+                          identifier="oid:33695834"
+                          linktitle="29 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33695863/full/!150,150/0/default.jpg"
+                          identifier="oid:33695834"
+                          linktitle="29 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33695834"
+                          identifier="oid:33695834"
+                          linktitle="29 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Vaughn - Vichert</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/14482"
@@ -104598,6 +104656,35 @@ Ts'en Su-hsing</p>
                                 id="aspace_ref4733_c1"
                                 label="Mixed Materials"
                                 localtype="box">433</container>
+                     <daoset altrender="/repositories/4/digital_objects/350546">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33693814"
+                             identifier="oid:33693814"
+                             linktitle="48 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33695419/full/!150,150/0/default.jpg"
+                             identifier="oid:33693814"
+                             linktitle="48 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33693814"
+                             identifier="oid:33693814"
+                             linktitle="48 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>University of Nanking</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/17836"

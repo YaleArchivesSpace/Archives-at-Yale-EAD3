@@ -37,7 +37,7 @@
                <p>Boxes: 1-184</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="52">52</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="7774">7,774</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="54">54</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="8404">8,404</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-16T18:00:52-04:00</eventdatetime>
+            <eventdatetime>2026-07-17T18:03:23-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2282,6 +2282,35 @@
                              id="aspace_39aa0a036d9b4b0e91f80428e4998afe_c1"
                              label="Mixed Materials"
                              localtype="box">53</container>
+                  <daoset altrender="/repositories/4/digital_objects/350538">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33693875"
+                          identifier="oid:33693875"
+                          linktitle="355 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33694343/full/!150,150/0/default.jpg"
+                          identifier="oid:33693875"
+                          linktitle="355 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33693875"
+                          identifier="oid:33693875"
+                          linktitle="355 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Africa: Kenya, Lessouto, Libya, Malawi, Mali, Morocco, Mozambique, Namibia, Nigeria, Zimbabwe (Rhodesia), Rwanda and Burundi (Ruanda-Urundi)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2940276"
@@ -2293,6 +2322,35 @@
                              id="aspace_401310874c6681dccf1e33e1dbeb55b9_c1"
                              label="Mixed Materials"
                              localtype="box">54</container>
+                  <daoset altrender="/repositories/4/digital_objects/350573">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33698090"
+                          identifier="oid:33698090"
+                          linktitle="275 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33698312/full/!150,150/0/default.jpg"
+                          identifier="oid:33698090"
+                          linktitle="275 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33698090"
+                          identifier="oid:33698090"
+                          linktitle="275 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Africa: Senegal, Sierra Leone, Somalia, Sudan, Eswatini (Swaziland), Tanzania</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2940277"

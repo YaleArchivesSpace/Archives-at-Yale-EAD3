@@ -43,7 +43,7 @@
                <p>Boxes: OVd1, OVd3</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="30">30</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1926">1,926</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="31">31</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1962">1,962</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-02T18:02:11-04:00</eventdatetime>
+            <eventdatetime>2026-07-17T18:00:44-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  2, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -104292,6 +104292,35 @@ Journal issues for 1897, 1899-1901 are available in the cataloged collection.</p
                         <container id="aspace_8c09123faf2eec4f5c9b18a3aa956ea4_c2"
                                    localtype="folder"
                                    parent="aspace_8c09123faf2eec4f5c9b18a3aa956ea4_c1">1788</container>
+                        <daoset altrender="/repositories/4/digital_objects/350533">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33693821"
+                                identifier="oid:33693821"
+                                linktitle="36 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33694307/full/!150,150/0/default.jpg"
+                                identifier="oid:33693821"
+                                linktitle="36 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33693821"
+                                identifier="oid:33693821"
+                                linktitle="36 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Caroline Macdonald</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4042567"

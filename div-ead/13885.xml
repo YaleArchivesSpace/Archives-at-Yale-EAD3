@@ -37,7 +37,7 @@
                <p>Boxes: 1-16, 16A-81</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="388">388</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="657">657</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -60,10 +60,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-16T18:02:44-04:00</eventdatetime>
+            <eventdatetime>2026-07-17T18:02:52-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1173,6 +1173,35 @@
                         <container id="aspace_48a4825566c31b142048ff6d4c09dbbb_c2"
                                    localtype="folder"
                                    parent="aspace_48a4825566c31b142048ff6d4c09dbbb_c1">4</container>
+                        <daoset altrender="/repositories/4/digital_objects/350553">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33696259"
+                                identifier="oid:33696259"
+                                linktitle="11 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33696286/full/!150,150/0/default.jpg"
+                                identifier="oid:33696259"
+                                linktitle="11 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33696259"
+                                identifier="oid:33696259"
+                                linktitle="11 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Light Giving School for Blind Girls and Boys</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_df0cf2b64f6bd178bdc57ce9db00d242">
                         <head>Scope and Contents</head>
@@ -5092,6 +5121,35 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <container id="aspace_a9c76da13fd856579e591251f401f800_c2"
                                    localtype="folder"
                                    parent="aspace_a9c76da13fd856579e591251f401f800_c1">12-13</container>
+                        <daoset altrender="/repositories/4/digital_objects/350555">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33695789"
+                                identifier="oid:33695789"
+                                linktitle="72 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33695842/full/!150,150/0/default.jpg"
+                                identifier="oid:33695789"
+                                linktitle="72 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33695789"
+                                identifier="oid:33695789"
+                                linktitle="72 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Forman Christian College</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_b6be0a3f19fecf22cc0b3a4a77965720">
                         <head>Scope and Contents</head>
@@ -9551,6 +9609,35 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <container id="aspace_3901d13f08a7e75848c61b4142e46d3c_c2"
                                    localtype="folder"
                                    parent="aspace_3901d13f08a7e75848c61b4142e46d3c_c1">19</container>
+                        <daoset altrender="/repositories/4/digital_objects/350568">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33696554"
+                                identifier="oid:33696554"
+                                linktitle="186 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33696775/full/!150,150/0/default.jpg"
+                                identifier="oid:33696554"
+                                linktitle="186 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33696554"
+                                identifier="oid:33696554"
+                                linktitle="186 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Margaret Williamson Hospital</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_a58c8c24c80ce8a248cf42da4b9b2388">
                         <head>Scope and Contents</head>
