@@ -45,7 +45,7 @@
                <p>Boxes: 753 Oversize-754 Oversize, 760 Oversize, 762 Oversize-778 Oversize, 797 Oversize-799 Oversize, 861 Oversize-874 Oversize, 1054-1070 (Oversize), 1072 (Oversize), 1318-1328 (Oversize), 1336-1337 (Oversize), 1352-1362 (Oversize), 1363-1393 (Broadside), 1394 (Broadside oversize), 1395-1396 (Broadside oversize ), 1397 (Art), 1399-1400 (Oversize), 1401-1402 (Art), 1406-1423 (Oversize), 1424-1434 (Broadside), 1435-1437 (Broadside oversize), 1483, 1487 (Record Album Storage), 1566, 1567 (Oversize), 1568-1572 (Art), 1573-1583 (Oversize), 1584-1594 (Broadside), 1595-1596 (Broadside oversize), 1598 (Broadside), 1599-A (Oversize), 1599-B (Oversize), 1607 (Oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="119">119</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="4577">4,577</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="120">120</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="4756">4,756</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:20:14-05:00</eventdatetime>
+            <eventdatetime>2026-07-17T23:02:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:20</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -239847,6 +239847,35 @@
                                 id="aspace_ref13429_c1"
                                 label="Mixed Materials"
                                 localtype="box">1174</container>
+                     <daoset altrender="/repositories/11/digital_objects/350531">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33386481"
+                             identifier="oid:33386481"
+                             linktitle="179 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33386482/full/!150,150/0/default.jpg"
+                             identifier="oid:33386481"
+                             linktitle="179 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33386481"
+                             identifier="oid:33386481"
+                             linktitle="179 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Volume 116. Roar China</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/636299"

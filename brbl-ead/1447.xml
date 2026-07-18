@@ -45,7 +45,7 @@
                <p>Boxes: Art, Art, 64-98, 103-107 (Oversize), 111-112 (Oversize), 103-103 (Oversize), folder 2415</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="127">127</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="3022">3,022</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="128">128</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="3100">3,100</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:12:23-05:00</eventdatetime>
+            <eventdatetime>2026-07-17T23:05:08-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:12</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -35623,6 +35623,35 @@
                         <container id="aspace_ref2351_c2"
                                    localtype="folder"
                                    parent="aspace_ref2351_c1">2142-2146</container>
+                        <daoset altrender="/repositories/11/digital_objects/350565">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33695467"
+                                identifier="oid:33695467"
+                                linktitle="78 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33695468/full/!150,150/0/default.jpg"
+                                identifier="oid:33695467"
+                                linktitle="78 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33695467"
+                                identifier="oid:33695467"
+                                linktitle="78 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Villa Curonia, Florence</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_6458735b689baf65708c00af1ea17340">
                         <head>Scope and Contents</head>
