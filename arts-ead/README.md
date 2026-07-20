@@ -16,7 +16,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.aob.0028.xml](329.xml) | arts.aob.0028 | AOB 28 | Graphic Design Student Projects Collection | 
  [arts.aob.0003.xml](330.xml) | arts.aob.0003 | AOB 3 | American Trade Card Collection | 
  [arts.aob.0031.xml](331.xml) | arts.aob.0031 | AOB 31 | Emma Joy Dana collection of Anna Mackova | 
- [arts.aob.0034.xml](333.xml) | arts.aob.0034 | AOB 34 | Yale Residential Colleges Student Printing Collection | 
  [arts.aob.0038.xml](335.xml) | arts.aob.0038 | AOB 38 | Ken White Collection | 
  [arts.aob.0039.xml](336.xml) | arts.aob.0039 | AOB 39 | Ladislav Sutnar Collection | 
  [arts.aob.0041.xml](337.xml) | arts.aob.0041 | AOB 41 | Collection of Broadsides by Artists and Presses | 
@@ -46,7 +45,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.art.0001.xml](363.xml) | arts.art.0001 | ART 1 | Volvelle collection | 
  [arts.art.0013.xml](364.xml) | arts.art.0013 | ART 13 | Faber Birren papers | 
  [arts.art.0014.xml](365.xml) | arts.art.0014 | ART 14 | Winterhouse Art and Design Collection of Volume 1 Number 1 | 
- [arts.art.0015.xml](366.xml) | arts.art.0015 | ART 15 | Yale School of Architecture exhibition publications | 
  [arts.art.0017.xml](367.xml) | arts.art.0017 | ART 17 | Winterhouse Art and Design Collection of Ezra Winter | 
  [arts.art.0019.xml](368.xml) | arts.art.0019 | ART 19 | Winterhouse Art and Design collection of Pentagram ephemera | 
  [arts.art.0002.xml](369.xml) | arts.art.0002 | ART 2 | Artists Pamphlet collection | 
@@ -110,28 +108,16 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.dra.0010.xml](427.xml) | arts.dra.0010 | DRA 10 | Jack Randall Crawford Modern Drama Collection | 
  [arts.dra.0011.xml](428.xml) | arts.dra.0011 | DRA 11 | The Doolittle Collection of Japanese Drama | 
  [arts.dra.0013.xml](429.xml) | arts.dra.0013 | DRA 13 | Yale School of Drama Production Casebook Collection | 
- [arts.dra.0014.xml](430.xml) | arts.dra.0014 | DRA 14 | Pamela Jordan Yale School of Drama Scrapbook Collection | 
- [arts.dra.0015.xml](431.xml) | arts.dra.0015 | DRA 15 | Dwight/Edgewood Project collection | 
  [arts.dra.0016.xml](432.xml) | arts.dra.0016 | DRA 16 | George Pierce Baker Pageant Collection | 
- [arts.dra.0017.xml](433.xml) | arts.dra.0017 | DRA 17 | Yale School of Drama Production Script Collection | 
  [arts.dra.0002.xml](434.xml) | arts.dra.0002 | DRA 2 | Stage Lighting Catalogs | 
  [arts.dra.0024.xml](435.xml) | arts.dra.0024 | DRA 24 | Collection of Drama 131 Course Materials | 
  [arts.dra.0025.xml](436.xml) | arts.dra.0025 | DRA 25 | Nineteenth-century photograph collection | 
  [arts.dra.0026.xml](437.xml) | arts.dra.0026 | DRA 26 | Souvenir Theatrical Postcard Collection | 
- [arts.dra.0027.xml](438.xml) | arts.dra.0027 | DRA 27 | Yale School of Drama Doctor of Fine Arts Dissertations | 
- [arts.dra.0028.xml](439.xml) | arts.dra.0028 | DRA 28 | Yale School of Drama Master of Fine Arts Theses | 
- [arts.dra.0029.xml](440.xml) | arts.dra.0029 | DRA 29 | Drama 50 Script Collection | 
  [arts.dra.0003.xml](441.xml) | arts.dra.0003 | DRA 3 | Rollo Peters Costume and Set Designs | 
- [arts.dra.0030.xml](442.xml) | arts.dra.0030 | DRA 30 | Yale Repertory Theatre Scripts Collection | 
  [arts.dra.0033.xml](443.xml) | arts.dra.0033 | DRA 33 | Franklin Jasper Walls Collection | 
- [arts.dra.0034.xml](444.xml) | arts.dra.0034 | DRA 34 | Yale Cabaret Scripts and Ephemera Collection | 
- [arts.dra.0035.xml](445.xml) | arts.dra.0035 | DRA 35 | Yale Summer Cabaret Scripts and Ephemera Collection | 
- [arts.dra.0036.xml](446.xml) | arts.dra.0036 | DRA 36 | Yale Dramatic Association Scripts Collection | 
- [arts.dra.0037.xml](447.xml) | arts.dra.0037 | DRA 37 | Yale Repertory Theatre and Yale School of Drama Ephemera Collection | 
  [arts.dra.0038.xml](448.xml) | arts.dra.0038 | DRA 38 | Miscellaneous Scripts Collection | 
  [arts.dra.0005.xml](449.xml) | arts.dra.0005 | DRA 5 | Fashion and costume plate collection | 
  [arts.dra.0006.xml](450.xml) | arts.dra.0006 | DRA 6 | Puppetry collection | 
- [arts.dra.0007.xml](451.xml) | arts.dra.0007 | DRA 7 | Yale School of Drama Student Costume and Scenic Design Collection | 
  [arts.dra.0009.xml](452.xml) | arts.dra.0009 | DRA 9 | Yale Rockefeller theatrical prints collection | 
  [arts.aob.0030.xml](5680.xml) | arts.aob.0030 | AOB 30 | Emma Joy Dana Collection of Artuš Scheiner | 
  [vrc.0071.xml](10410.xml) | vrc.0071 | VRC 71 | Miscellaneous Oversized Sculpture Photographs | 
@@ -271,7 +257,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.aob.0060.xml](11314.xml) | arts.aob.0060 | AOB 60 | Polly Rubin collection of volvelles and slide rules | 
  [arts.aob.0020.xml](11919.xml) | arts.aob.0020 | AOB 20 | Clarence Pearson Hornung papers | 
  [arts.ms.0001.xml](11936.xml) | arts.ms.0001 | ALSC MS 0001 | Lawrence Wolfson papers | 
- [arts.art.0043.xml](12041.xml) | arts.art.0043 | ART 43 | Yale School of Art Master of Fine Arts in Painting/Printmaking and Sculpture thesis documentation collection | 
  [arts.bkp.0181.xml](12280.xml) | arts.bkp.0181 | BKP 181 | FISAE (Fédération Internationale des Sociétés d'Amateurs d'Exlibris) 2020 ex-libris design competition collection | 
  [arts.art.0036.xml](12303.xml) | arts.art.0036 | ART 36 | Artspace records | 
  [12798.xml](12798.xml) |  | VRC 1990a | Garvin City Planning Image Collection | 
