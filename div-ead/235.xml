@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-26T18:03:55-04:00</eventdatetime>
+            <eventdatetime>2026-07-20T18:00:25-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June 26, 2026 at 18:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 20, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -720,9 +720,12 @@
                   id="ref27"
                   level="file">
                   <did>
-                     <unittitle>[Coyle?],Thomas</unittitle>
-                     <unitdatestructured altrender="1884" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1884">1884</datesingle>
+                     <unittitle>[Coyle?],Thomas; Currier, R.B.; Cutler, Henry F.</unittitle>
+                     <unitdatestructured altrender="1880-1896" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1880">1880</fromdate>
+                           <todate standarddate="1896">1896</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -730,41 +733,6 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref27_c2" localtype="folder" parent="aspace_ref27_c1">5</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74231"
-                  id="ref28"
-                  level="file">
-                  <did>
-                     <unittitle>Currier, R.B.</unittitle>
-                     <unitdatestructured altrender="1880" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1880">1880</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref28_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref28_c2" localtype="folder" parent="aspace_ref28_c1">5</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74232"
-                  id="ref29"
-                  level="file">
-                  <did>
-                     <unittitle>Cutler, Henry F.</unittitle>
-                     <unitdatestructured altrender="1895" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1895">1895</datesingle>
-                     </unitdatestructured>
-                     <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1896">1896</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref29_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref29_c2" localtype="folder" parent="aspace_ref29_c1">5</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74233"
@@ -871,9 +839,12 @@
                   id="ref36"
                   level="file">
                   <did>
-                     <unittitle>Gaylord, A.F.</unittitle>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
+                     <unittitle>Gaylord, A.F.; Greene, A.</unittitle>
+                     <unitdatestructured altrender="1872, 1899" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1872">1872</fromdate>
+                           <todate standarddate="1899">1899</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -883,29 +854,16 @@
                      <container id="aspace_ref36_c2" localtype="folder" parent="aspace_ref36_c1">12</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74240"
-                  id="ref37"
-                  level="file">
-                  <did>
-                     <unittitle>Greene, A.</unittitle>
-                     <unitdatestructured altrender="1872" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1872">1872</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref37_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref37_c2" localtype="folder" parent="aspace_ref37_c1">12</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74241"
                   id="ref38"
                   level="file">
                   <did>
-                     <unittitle>Hall, Evelyn</unittitle>
-                     <unitdatestructured altrender="1893" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1893">1893</datesingle>
+                     <unittitle>Hall, Evelyn; Hall [T. Farmer?]; Harper, William R.; Holton, Samuel</unittitle>
+                     <unitdatestructured altrender="1878-1899" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1878">1878</fromdate>
+                           <todate standarddate="1899">1899</todate>
+                        </daterange>
                      </unitdatestructured>
                      <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1896">1896</datesingle>
@@ -916,54 +874,6 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref38_c2" localtype="folder" parent="aspace_ref38_c1">13</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74242"
-                  id="ref39"
-                  level="file">
-                  <did>
-                     <unittitle>Hall [T. Farmer?]</unittitle>
-                     <unitdatestructured altrender="1882" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1882">1882</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref39_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref39_c2" localtype="folder" parent="aspace_ref39_c1">13</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74243"
-                  id="ref40"
-                  level="file">
-                  <did>
-                     <unittitle>Harper, William R</unittitle>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref40_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref40_c2" localtype="folder" parent="aspace_ref40_c1">13</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74244"
-                  id="ref41"
-                  level="file">
-                  <did>
-                     <unittitle>Holton, Samuel</unittitle>
-                     <unitdatestructured altrender="1878" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1878">1878</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref41_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref41_c2" localtype="folder" parent="aspace_ref41_c1">13</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74245"
@@ -1002,9 +912,12 @@
                   id="ref44"
                   level="file">
                   <did>
-                     <unittitle>Keebaugh, J.D.</unittitle>
-                     <unitdatestructured altrender="1877" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1877">1877</datesingle>
+                     <unittitle>Keebaugh, J.D.; Kershaw, Caroline</unittitle>
+                     <unitdatestructured altrender="1877, 1896" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1877">1877</fromdate>
+                           <todate standarddate="1896">1896</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1014,29 +927,16 @@
                      <container id="aspace_ref44_c2" localtype="folder" parent="aspace_ref44_c1">16</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74248"
-                  id="ref45"
-                  level="file">
-                  <did>
-                     <unittitle>Kershaw, Caroline</unittitle>
-                     <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1896">1896</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref45_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref45_c2" localtype="folder" parent="aspace_ref45_c1">16</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74249"
                   id="ref46"
                   level="file">
                   <did>
-                     <unittitle>Matlack, Thomas</unittitle>
-                     <unitdatestructured altrender="1898" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1898">1898</datesingle>
+                     <unittitle>Matlack, Thomas;  McCormick, Cyrus H.;  McCormick, Nettie F.;  MacKinnon, Jane</unittitle>
+                     <unitdatestructured altrender="1887-1899" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1887">1887</fromdate>
+                           <todate standarddate="1899">1899</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1046,59 +946,11 @@
                      <container id="aspace_ref46_c2" localtype="folder" parent="aspace_ref46_c1">17</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74250"
-                  id="ref47"
-                  level="file">
-                  <did>
-                     <unittitle>McCormick, Cyrus H.</unittitle>
-                     <unitdatestructured altrender="1887" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1887">1887</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref47_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref47_c2" localtype="folder" parent="aspace_ref47_c1">17</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74251"
-                  id="ref48"
-                  level="file">
-                  <did>
-                     <unittitle>McCormick, Nettie F.</unittitle>
-                     <unitdatestructured altrender="1895" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1895">1895</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref48_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref48_c2" localtype="folder" parent="aspace_ref48_c1">17</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74252"
-                  id="ref49"
-                  level="file">
-                  <did>
-                     <unittitle>MacKinnon, Jane</unittitle>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref49_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref49_c2" localtype="folder" parent="aspace_ref49_c1">17</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74253"
                   id="ref50"
                   level="file">
                   <did>
-                     <unittitle>Moody, Betsey Holton</unittitle>
+                     <unittitle>Moody, Betsey Holton; Moody, Elizabeth</unittitle>
                      <unitdatestructured altrender="1857-1893" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1857">1857</fromdate>
@@ -1111,22 +963,6 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref50_c2" localtype="folder" parent="aspace_ref50_c1">18</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74254"
-                  id="ref51"
-                  level="file">
-                  <did>
-                     <unittitle>Moody Elizabeth</unittitle>
-                     <unitdatestructured altrender="1859" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1859">1859</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref51_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref51_c2" localtype="folder" parent="aspace_ref51_c1">18</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74255"
@@ -1171,9 +1007,14 @@
                   id="ref54"
                   level="file">
                   <did>
-                     <unittitle>Moody, George</unittitle>
-                     <unitdatestructured altrender="1881" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1881">1881</datesingle>
+                     <unittitle>Moody, George; Moody, Luther</unittitle>
+                     <unitdatestructured altrender="1857, 1881, n.d."
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1857">1857</fromdate>
+                           <todate standarddate="1881">1881</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1181,22 +1022,6 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref54_c2" localtype="folder" parent="aspace_ref54_c1">21</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74258"
-                  id="ref55"
-                  level="file">
-                  <did>
-                     <unittitle>Moody, Luther</unittitle>
-                     <unitdatestructured altrender="1857, n.d." label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1857">1857, n.d.</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref55_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref55_c2" localtype="folder" parent="aspace_ref55_c1">21</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74259"
@@ -1222,9 +1047,12 @@
                   id="ref57"
                   level="file">
                   <did>
-                     <unittitle>Moore, H.M.</unittitle>
-                     <unitdatestructured altrender="1897" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1897">1897</datesingle>
+                     <unittitle>Moore, H.M.; Mott, John r.</unittitle>
+                     <unitdatestructured altrender="1889-1899" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1889">1889</fromdate>
+                           <todate standarddate="1899">1899</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1234,32 +1062,16 @@
                      <container id="aspace_ref57_c2" localtype="folder" parent="aspace_ref57_c1">23</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74261"
-                  id="ref58"
-                  level="file">
-                  <did>
-                     <unittitle>Mott, John R.</unittitle>
-                     <unitdatestructured altrender="1889-1899" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1889">1889</fromdate>
-                           <todate standarddate="1899">1899</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref58_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref58_c2" localtype="folder" parent="aspace_ref58_c1">23</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74262"
                   id="ref59"
                   level="file">
                   <did>
-                     <unittitle>Thos. Nelson Sons</unittitle>
-                     <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1896">1896</datesingle>
+                     <unittitle>Thos. Nelson Sons; Norton, William</unittitle>
+                     <unitdatestructured altrender="1896-1899" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1896">1896</fromdate>
+                           <todate standarddate="1899">1899</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1269,32 +1081,16 @@
                      <container id="aspace_ref59_c2" localtype="folder" parent="aspace_ref59_c1">24</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74263"
-                  id="ref60"
-                  level="file">
-                  <did>
-                     <unittitle>Norton, William</unittitle>
-                     <unitdatestructured altrender="1898" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1898">1898</datesingle>
-                     </unitdatestructured>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref60_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref60_c2" localtype="folder" parent="aspace_ref60_c1">24</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74264"
                   id="ref61"
                   level="file">
                   <did>
-                     <unittitle>Ober, C.K.</unittitle>
-                     <unitdatestructured altrender="1886" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1886">1886</datesingle>
+                     <unittitle>Ober, C.K.; Phillips [Phillip]</unittitle>
+                     <unitdatestructured altrender="1886-1889" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1886">1886</fromdate>
+                           <todate standarddate="1889">1889</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1304,34 +1100,15 @@
                      <container id="aspace_ref61_c2" localtype="folder" parent="aspace_ref61_c1">25</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74265"
-                  id="ref62"
-                  level="file">
-                  <did>
-                     <unittitle>Phillips [Phillip]</unittitle>
-                     <unitdatestructured altrender="1888" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1888">1888</datesingle>
-                     </unitdatestructured>
-                     <unitdatestructured altrender="1889" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1889">1889</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref62_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref62_c2" localtype="folder" parent="aspace_ref62_c1">25</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74266"
                   id="ref63"
                   level="file">
                   <did>
-                     <unittitle>Rankin, Henry W.</unittitle>
-                     <unitdatestructured altrender="1884-1893" label="creation" unitdatetype="inclusive">
+                     <unittitle>Rankin, Henry W.; Rhead, Louis</unittitle>
+                     <unitdatestructured altrender="1884-1899" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1884">1884</fromdate>
-                           <todate standarddate="1893">1893</todate>
+                           <todate standarddate="1899">1899</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
@@ -1342,29 +1119,16 @@
                      <container id="aspace_ref63_c2" localtype="folder" parent="aspace_ref63_c1">26</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74267"
-                  id="ref64"
-                  level="file">
-                  <did>
-                     <unittitle>Rhead, Louis</unittitle>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref64_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref64_c2" localtype="folder" parent="aspace_ref64_c1">26</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74268"
                   id="ref65"
                   level="file">
                   <did>
-                     <unittitle>[Seelye, Henry E.?]</unittitle>
-                     <unitdatestructured altrender="1881" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1881">1881</datesingle>
+                     <unittitle>[Seelye, Henry E.?]; Smith, L.H.</unittitle>
+                     <unitdatestructured altrender="1881, 1896" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1881">1881</fromdate>
+                           <todate standarddate="1896">1896</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1374,27 +1138,11 @@
                      <container id="aspace_ref65_c2" localtype="folder" parent="aspace_ref65_c1">27</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74269"
-                  id="ref66"
-                  level="file">
-                  <did>
-                     <unittitle>Smith, L.H.</unittitle>
-                     <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1896">1896</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref66_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref66_c2" localtype="folder" parent="aspace_ref66_c1">27</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74270"
                   id="ref67"
                   level="file">
                   <did>
-                     <unittitle>Studd, J.E. Kynaston</unittitle>
+                     <unittitle>Studd, J.E. Kynaston;  Sutherland, 3rd Duke of</unittitle>
                      <unitdatestructured altrender="1882, n.d." label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1882">1882, n.d.</datesingle>
                      </unitdatestructured>
@@ -1406,27 +1154,16 @@
                      <container id="aspace_ref67_c2" localtype="folder" parent="aspace_ref67_c1">28</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74271"
-                  id="ref68"
-                  level="file">
-                  <did>
-                     <unittitle>Sutherland, 3rd Duke of</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref68_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref68_c2" localtype="folder" parent="aspace_ref68_c1">28</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74272"
                   id="ref69"
                   level="file">
                   <did>
-                     <unittitle>Talmadge, T. Dewitt</unittitle>
-                     <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1896">1896</datesingle>
+                     <unittitle>Talmadge, T. Dewitt; Varley [Sarah?]; Whittle, D.W.; Wilson, James A.</unittitle>
+                     <unitdatestructured altrender="1889-1897" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1889">1889</fromdate>
+                           <todate standarddate="1897">1897</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7843 /locations/9"
                                 containerid="39002061131935"
@@ -1434,54 +1171,6 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref69_c2" localtype="folder" parent="aspace_ref69_c1">29</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74273"
-                  id="ref70"
-                  level="file">
-                  <did>
-                     <unittitle>Varley [Sarah?]</unittitle>
-                     <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1896">1896</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref70_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref70_c2" localtype="folder" parent="aspace_ref70_c1">29</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74274"
-                  id="ref71"
-                  level="file">
-                  <did>
-                     <unittitle>Whittle, D.W.</unittitle>
-                     <unitdatestructured altrender="1889" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1889">1889</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref71_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref71_c2" localtype="folder" parent="aspace_ref71_c1">29</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74275"
-                  id="ref72"
-                  level="file">
-                  <did>
-                     <unittitle>Wilson, James A.</unittitle>
-                     <unitdatestructured altrender="1897" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1897">1897</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7843 /locations/9"
-                                containerid="39002061131935"
-                                id="aspace_ref72_c1"
-                                label="Mixed Materials"
-                                localtype="box">1</container>
-                     <container id="aspace_ref72_c2" localtype="folder" parent="aspace_ref72_c1">29</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74276"
@@ -1508,9 +1197,12 @@
                   id="ref75"
                   level="file">
                   <did>
-                     <unittitle>Aberdeen, Tohbel</unittitle>
-                     <unitdatestructured altrender="1891" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1891">1891</datesingle>
+                     <unittitle>Aberdeen, Tohbel; Billings, Julia</unittitle>
+                     <unitdatestructured altrender="1891-1893" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1891">1891</fromdate>
+                           <todate standarddate="1893">1893</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -1518,22 +1210,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref75_c2" localtype="folder" parent="aspace_ref75_c1">31</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74279"
-                  id="ref76"
-                  level="file">
-                  <did>
-                     <unittitle>Billings, Julia</unittitle>
-                     <unitdatestructured altrender="1893" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1893">1893</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref76_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref76_c2" localtype="folder" parent="aspace_ref76_c1">31</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74280"
@@ -1556,9 +1232,14 @@
                   id="ref78"
                   level="file">
                   <did>
-                     <unittitle>Ewing, Edith</unittitle>
-                     <unitdatestructured altrender="[1900?]" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1900">[1900?]</datesingle>
+                     <unittitle>Ewing, Edith; Fitt, Emma Moody; Gould, Helen Miller</unittitle>
+                     <unitdatestructured altrender="1899-[1900?], n.d."
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1899">1899</fromdate>
+                           <todate standarddate="1900">1900</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -1568,41 +1249,11 @@
                      <container id="aspace_ref78_c2" localtype="folder" parent="aspace_ref78_c1">33</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74282"
-                  id="ref79"
-                  level="file">
-                  <did>
-                     <unittitle>Fitt, Emma Moody</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref79_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref79_c2" localtype="folder" parent="aspace_ref79_c1">33</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74283"
-                  id="ref80"
-                  level="file">
-                  <did>
-                     <unittitle>Gould, Helen Miller</unittitle>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref80_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref80_c2" localtype="folder" parent="aspace_ref80_c1">33</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74284"
                   id="ref81"
                   level="file">
                   <did>
-                     <unittitle>Kelman, John</unittitle>
+                     <unittitle>Kelman, John; Kinnaird, Alma</unittitle>
                      <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1900">1900</datesingle>
                      </unitdatestructured>
@@ -1614,29 +1265,16 @@
                      <container id="aspace_ref81_c2" localtype="folder" parent="aspace_ref81_c1">34</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74285"
-                  id="ref82"
-                  level="file">
-                  <did>
-                     <unittitle>Kinnaird, Alma</unittitle>
-                     <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1900">1900</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref82_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref82_c2" localtype="folder" parent="aspace_ref82_c1">34</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74286"
                   id="ref83"
                   level="file">
                   <did>
-                     <unittitle>McKenzie, Alexander</unittitle>
-                     <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1900">1900</datesingle>
+                     <unittitle>McKenzie, Alexander;  McKinley, William</unittitle>
+                     <unitdatestructured altrender="1899-1900" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1899">1899</fromdate>
+                           <todate standarddate="1900">1900</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -1644,22 +1282,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref83_c2" localtype="folder" parent="aspace_ref83_c1">35</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74287"
-                  id="ref84"
-                  level="file">
-                  <did>
-                     <unittitle>McKinley, William</unittitle>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref84_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref84_c2" localtype="folder" parent="aspace_ref84_c1">35</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74288"
@@ -1685,7 +1307,7 @@
                   id="ref86"
                   level="file">
                   <did>
-                     <unittitle>MacKinnon, Jane</unittitle>
+                     <unittitle>MacKinnon, Jane;  Mikamb'e, S.M.</unittitle>
                      <unitdatestructured altrender="1885-1900" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1885">1885</fromdate>
@@ -1700,43 +1322,11 @@
                      <container id="aspace_ref86_c2" localtype="folder" parent="aspace_ref86_c1">37</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74290"
-                  id="ref87"
-                  level="file">
-                  <did>
-                     <unittitle>Mikamb'e, S.M.</unittitle>
-                     <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1900">1900</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref87_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref87_c2" localtype="folder" parent="aspace_ref87_c1">37</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74291"
                   id="ref88"
                   level="file">
                   <did>
-                     <unittitle>Moody, Ambert</unittitle>
-                     <unitdatestructured altrender="1882" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1882">1882</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref88_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref88_c2" localtype="folder" parent="aspace_ref88_c1">38</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74292"
-                  id="ref89"
-                  level="file">
-                  <did>
-                     <unittitle>Moody, Betsey Holton</unittitle>
+                     <unittitle>Moody, Ambert; Moody, Betsey Holton</unittitle>
                      <unitdatestructured altrender="1861-1889" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1861">1861</fromdate>
@@ -1745,10 +1335,10 @@
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
-                                id="aspace_ref89_c1"
+                                id="aspace_ref88_c1"
                                 label="Mixed Materials"
                                 localtype="box">2</container>
-                     <container id="aspace_ref89_c2" localtype="folder" parent="aspace_ref89_c1">38</container>
+                     <container id="aspace_ref88_c2" localtype="folder" parent="aspace_ref88_c1">38</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74293"
@@ -1823,9 +1413,12 @@
                   id="ref94"
                   level="file">
                   <did>
-                     <unittitle>Reese, Anna Revell</unittitle>
-                     <unitdatestructured altrender="1867" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1867">1867</datesingle>
+                     <unittitle>Reese, Anna Revell; Revell, Mrs. Fleming</unittitle>
+                     <unitdatestructured altrender="1873-1892" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1873">1873</fromdate>
+                           <todate standarddate="1892">1892</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -1835,32 +1428,16 @@
                      <container id="aspace_ref94_c2" localtype="folder" parent="aspace_ref94_c1">43</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74298"
-                  id="ref95"
-                  level="file">
-                  <did>
-                     <unittitle>Revell, Mrs. Fleming</unittitle>
-                     <unitdatestructured altrender="1873-1892" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1873">1873</fromdate>
-                           <todate standarddate="1892">1892</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref95_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref95_c2" localtype="folder" parent="aspace_ref95_c1">43</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74299"
                   id="ref96"
                   level="file">
                   <did>
-                     <unittitle>Stebbins, [Mrs. George C?]</unittitle>
-                     <unitdatestructured altrender="1897" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1897">1897</datesingle>
+                     <unittitle>Stebbins, [Mrs. George C?]; Varley, [Sarah?]</unittitle>
+                     <unitdatestructured altrender="1897-1899" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1897">1897</fromdate>
+                           <todate standarddate="1899">1899</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -1868,25 +1445,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref96_c2" localtype="folder" parent="aspace_ref96_c1">44</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74300"
-                  id="ref97"
-                  level="file">
-                  <did>
-                     <unittitle>Varley, [Sarah?]</unittitle>
-                     <unitdatestructured altrender="1898-1899" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1898">1898</fromdate>
-                           <todate standarddate="1899">1899</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref97_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref97_c2" localtype="folder" parent="aspace_ref97_c1">44</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74301"
@@ -1929,9 +1487,12 @@
                   id="ref101"
                   level="file">
                   <did>
-                     <unittitle>Cleworth, Thos. E.</unittitle>
-                     <unitdatestructured altrender="1882" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1882">1882</datesingle>
+                     <unittitle>Cleworth, Thos. E.; Coolidge, Calvin</unittitle>
+                     <unitdatestructured altrender="1882, 1930" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1882">1882</fromdate>
+                           <todate standarddate="1930">1930</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -1941,29 +1502,16 @@
                      <container id="aspace_ref101_c2" localtype="folder" parent="aspace_ref101_c1">47</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74305"
-                  id="ref102"
-                  level="file">
-                  <did>
-                     <unittitle>Coolidge, Calvin</unittitle>
-                     <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1930">1930</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref102_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref102_c2" localtype="folder" parent="aspace_ref102_c1">47</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74306"
                   id="ref103"
                   level="file">
                   <did>
-                     <unittitle>Grenfell, Wilfred T.</unittitle>
-                     <unitdatestructured altrender="1907" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1907">1907</datesingle>
+                     <unittitle>Grenfell, Wilfred T.; Keisen, Mori</unittitle>
+                     <unitdatestructured altrender="1907, 1937" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1907">1907</fromdate>
+                           <todate standarddate="1937">1937</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -1971,22 +1519,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref103_c2" localtype="folder" parent="aspace_ref103_c1">48</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74307"
-                  id="ref104"
-                  level="file">
-                  <did>
-                     <unittitle>Keisen, Mori</unittitle>
-                     <unitdatestructured altrender="1937" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1937">1937</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref104_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref104_c2" localtype="folder" parent="aspace_ref104_c1">48</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74308"
@@ -2044,9 +1576,12 @@
                   id="ref108"
                   level="file">
                   <did>
-                     <unittitle>Sankey, Ira D.</unittitle>
-                     <unitdatestructured altrender="1896" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1896">1896</datesingle>
+                     <unittitle>Sankey, Ira D.; Scofield, C.I.</unittitle>
+                     <unitdatestructured altrender="1896, 1909" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1896">1896</fromdate>
+                           <todate standarddate="1909">1909</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -2056,24 +1591,8 @@
                      <container id="aspace_ref108_c2" localtype="folder" parent="aspace_ref108_c1">52</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74312"
-                  id="ref109"
-                  level="file">
-                  <did>
-                     <unittitle>Scofield, C.I.</unittitle>
-                     <unitdatestructured altrender="1909" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1909">1909</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref109_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref109_c2" localtype="folder" parent="aspace_ref109_c1">52</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74313"
-                  id="ref110"
+               <c altrender="/repositories/4/archival_objects/4046299"
+                  id="aspace_ffc0bed5ba6cbe63bc217b52bd022740"
                   level="file">
                   <did>
                      <unittitle>Smith, Gypsy</unittitle>
@@ -2085,21 +1604,25 @@
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
-                                id="aspace_ref110_c1"
+                                id="aspace_ffc0bed5ba6cbe63bc217b52bd022740_c1"
                                 label="Mixed Materials"
                                 localtype="box">2</container>
-                     <container id="aspace_ref110_c2" localtype="folder" parent="aspace_ref110_c1">52</container>
+                     <container id="aspace_ffc0bed5ba6cbe63bc217b52bd022740_c2"
+                                localtype="folder"
+                                parent="aspace_ffc0bed5ba6cbe63bc217b52bd022740_c1">52A</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74314"
                   id="ref111"
                   level="file">
                   <did>
-                     <unittitle>Speer, Robert</unittitle>
-                     <unitdatestructured altrender="1906-1910" label="creation" unitdatetype="inclusive">
+                     <unittitle>Speer, Robert; Stebbins, George</unittitle>
+                     <unitdatestructured altrender="1906-1910, 1939"
+                                         label="creation"
+                                         unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1906">1906</fromdate>
-                           <todate standarddate="1910">1910</todate>
+                           <todate standarddate="1939">1939</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
@@ -2110,53 +1633,25 @@
                      <container id="aspace_ref111_c2" localtype="folder" parent="aspace_ref111_c1">53</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74315"
-                  id="ref112"
-                  level="file">
-                  <did>
-                     <unittitle>Stebbins, George</unittitle>
-                     <unitdatestructured altrender="1939" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1939">1939</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref112_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref112_c2" localtype="folder" parent="aspace_ref112_c1">53</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74316"
                   id="ref113"
                   level="file">
                   <did>
-                     <unittitle>Studd, Charles T.</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                     <unittitle>Studd, Charles T.; Sunday, William A. (Mrs. A.P. Fitt)</unittitle>
+                     <unitdatestructured altrender="1908-1915, n.d."
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1908">1908</fromdate>
+                           <todate standarddate="1915">1915</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
                                 id="aspace_ref113_c1"
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref113_c2" localtype="folder" parent="aspace_ref113_c1">54</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74317"
-                  id="ref114"
-                  level="file">
-                  <did>
-                     <unittitle>Sunday, William A. (Mrs. A.P. Fitt)</unittitle>
-                     <unitdatestructured altrender="1908" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1908">1908</datesingle>
-                     </unitdatestructured>
-                     <unitdatestructured altrender="1915" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1915">1915</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref114_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref114_c2" localtype="folder" parent="aspace_ref114_c1">54</container>
                   </did>
                </c>
             </c>
@@ -2170,9 +1665,12 @@
                   id="ref116"
                   level="file">
                   <did>
-                     <unittitle>Hall, Maria R.</unittitle>
-                     <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1903">1903</datesingle>
+                     <unittitle>Hall, Maria R.; Kinnaird, [Emily?]; Moody, Ambert</unittitle>
+                     <unitdatestructured altrender="1875, 1903" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1875">1875</fromdate>
+                           <todate standarddate="1903">1903</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -2182,144 +1680,25 @@
                      <container id="aspace_ref116_c2" localtype="folder" parent="aspace_ref116_c1">55</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74320"
-                  id="ref117"
-                  level="file">
-                  <did>
-                     <unittitle>Kinnaird, [Emily?]</unittitle>
-                     <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1903">1903</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref117_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref117_c2" localtype="folder" parent="aspace_ref117_c1">55</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74321"
-                  id="ref118"
-                  level="file">
-                  <did>
-                     <unittitle>Moody, Ambert</unittitle>
-                     <unitdatestructured altrender="1875" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1875">1875</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref118_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref118_c2" localtype="folder" parent="aspace_ref118_c1">55</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74322"
                   id="ref119"
                   level="file">
                   <did>
-                     <unittitle>Rankin, Henry</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                     <unittitle>Rankin, Henry; Sangster, Margaret; Silverthorne, Mary E.; Simpson, M.S.; Speer, Robert F.; Stebbins, George C.; Varley, Sarah</unittitle>
+                     <unitdatestructured altrender="1877, 1903-1906, 1941, n.d."
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1877">1877</fromdate>
+                           <todate standarddate="1941">1941</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
                                 id="aspace_ref119_c1"
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref119_c2" localtype="folder" parent="aspace_ref119_c1">56</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74323"
-                  id="ref120"
-                  level="file">
-                  <did>
-                     <unittitle>Sangster, Margaret</unittitle>
-                     <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1903">1903</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref120_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref120_c2" localtype="folder" parent="aspace_ref120_c1">56</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74324"
-                  id="ref121"
-                  level="file">
-                  <did>
-                     <unittitle>Silverthorne, Mary E.</unittitle>
-                     <unitdatestructured altrender="1877" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1877">1877</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref121_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref121_c2" localtype="folder" parent="aspace_ref121_c1">56</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74325"
-                  id="ref122"
-                  level="file">
-                  <did>
-                     <unittitle>Simpson, M.S.</unittitle>
-                     <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1903">1903</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref122_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref122_c2" localtype="folder" parent="aspace_ref122_c1">56</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74326"
-                  id="ref123"
-                  level="file">
-                  <did>
-                     <unittitle>Speer, Robert F.</unittitle>
-                     <unitdatestructured altrender="1906" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1906">1906</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref123_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref123_c2" localtype="folder" parent="aspace_ref123_c1">56</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74327"
-                  id="ref124"
-                  level="file">
-                  <did>
-                     <unittitle>Stebbins, George C.</unittitle>
-                     <unitdatestructured altrender="1941" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1941">1941</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref124_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref124_c2" localtype="folder" parent="aspace_ref124_c1">56</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74328"
-                  id="ref125"
-                  level="file">
-                  <did>
-                     <unittitle>Varley, Sarah</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref125_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref125_c2" localtype="folder" parent="aspace_ref125_c1">56</container>
                   </did>
                </c>
             </c>
@@ -2333,9 +1712,12 @@
                   id="ref127"
                   level="file">
                   <did>
-                     <unittitle>Bennett, George</unittitle>
-                     <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1900">1900</datesingle>
+                     <unittitle>Bennett, George; Gould, Helen Miller; Kinnaird, Lord Arthur</unittitle>
+                     <unitdatestructured altrender="1900-1903" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1900">1900</fromdate>
+                           <todate standarddate="1903">1903</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -2345,45 +1727,18 @@
                      <container id="aspace_ref127_c2" localtype="folder" parent="aspace_ref127_c1">57</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74331"
-                  id="ref128"
-                  level="file">
-                  <did>
-                     <unittitle>Gould, Helen Miller</unittitle>
-                     <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1903">1903</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref128_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref128_c2" localtype="folder" parent="aspace_ref128_c1">57</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74332"
-                  id="ref129"
-                  level="file">
-                  <did>
-                     <unittitle>Kinnaird, Lord Arthur</unittitle>
-                     <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1900">1900</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref129_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref129_c2" localtype="folder" parent="aspace_ref129_c1">57</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74333"
                   id="ref130"
                   level="file">
                   <did>
-                     <unittitle>Lawrence, William</unittitle>
-                     <unitdatestructured altrender="1927" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1927">1927</datesingle>
+                     <unittitle>Lawrence, William; Moffat, James; Mott, John R.; Smith, George Adam (Mrs. E.M. Powell)</unittitle>
+                     <unitdatestructured altrender="1899-1900, 1927-1932"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1899">1899</fromdate>
+                           <todate standarddate="1932">1932</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -2391,57 +1746,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref130_c2" localtype="folder" parent="aspace_ref130_c1">58</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74334"
-                  id="ref131"
-                  level="file">
-                  <did>
-                     <unittitle>Moffat, James</unittitle>
-                     <unitdatestructured altrender="1928" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1928">1928</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref131_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref131_c2" localtype="folder" parent="aspace_ref131_c1">58</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74335"
-                  id="ref132"
-                  level="file">
-                  <did>
-                     <unittitle>Mott, John R.</unittitle>
-                     <unitdatestructured altrender="1932" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1932">1932</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref132_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref132_c2" localtype="folder" parent="aspace_ref132_c1">58</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74336"
-                  id="ref133"
-                  level="file">
-                  <did>
-                     <unittitle>Smith, George Adam (Mrs. E.M. Powell)</unittitle>
-                     <unitdatestructured altrender="1899" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1899">1899</datesingle>
-                     </unitdatestructured>
-                     <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1900">1900</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref133_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref133_c2" localtype="folder" parent="aspace_ref133_c1">58</container>
                   </did>
                </c>
             </c>
@@ -2455,12 +1759,14 @@
                   id="ref135"
                   level="file">
                   <did>
-                     <unittitle>Abell, Bess (sec'y. Mrs. L.B. Johnson)</unittitle>
-                     <unitdatestructured altrender="1965" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1965">1965</datesingle>
-                     </unitdatestructured>
-                     <unitdatestructured altrender="1966" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1966">1966</datesingle>
+                     <unittitle>Abell, Bess (sec'y. Mrs. L.B. Johnson); Chichester, Gerald (sec'y. Queen Mary),</unittitle>
+                     <unitdatestructured altrender="1965-1966, n.d."
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1966">1966</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -2468,20 +1774,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref135_c2" localtype="folder" parent="aspace_ref135_c1">59</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74339"
-                  id="ref136"
-                  level="file">
-                  <did>
-                     <unittitle>Chichester, Gerald (sec'y. Queen Mary)</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref136_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref136_c2" localtype="folder" parent="aspace_ref136_c1">59</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74340"
@@ -2504,8 +1796,10 @@
                   id="ref138"
                   level="file">
                   <did>
-                     <unittitle>Fitt, A. Percy</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                     <unittitle>Fitt, A. Percy; Fosdick, Harry Emerson</unittitle>
+                     <unitdatestructured altrender="1966,n.d." label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1966">1966,n.d.</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
                                 id="aspace_ref138_c1"
@@ -2514,29 +1808,16 @@
                      <container id="aspace_ref138_c2" localtype="folder" parent="aspace_ref138_c1">61</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/74342"
-                  id="ref139"
-                  level="file">
-                  <did>
-                     <unittitle>Fosdick, Harry Emerson</unittitle>
-                     <unitdatestructured altrender="1966" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1966">1966</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref139_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref139_c2" localtype="folder" parent="aspace_ref139_c1">61</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/74343"
                   id="ref140"
                   level="file">
                   <did>
-                     <unittitle>Humphrey, Hubert</unittitle>
-                     <unitdatestructured altrender="1965" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1965">1965</datesingle>
+                     <unittitle>Humphrey, Hubert; Mott, John R.</unittitle>
+                     <unitdatestructured altrender="1942, 1965" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1942">1942</fromdate>
+                           <todate standarddate="1965">1965</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -2544,22 +1825,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref140_c2" localtype="folder" parent="aspace_ref140_c1">62</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74344"
-                  id="ref141"
-                  level="file">
-                  <did>
-                     <unittitle>Mott, John R.</unittitle>
-                     <unitdatestructured altrender="1942" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1942">1942</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref141_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref141_c2" localtype="folder" parent="aspace_ref141_c1">62</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74345"
@@ -2585,9 +1850,14 @@
                   id="ref143"
                   level="file">
                   <did>
-                     <unittitle>Sankey, Ira D.</unittitle>
-                     <unitdatestructured altrender="1895" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1895">1895</datesingle>
+                     <unittitle>Sankey, Ira D.; Stagg, Amos Alonzo; Studd, J.E.K.</unittitle>
+                     <unitdatestructured altrender="1895, 1937, 1960"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1895">1895</fromdate>
+                           <todate standarddate="1960">1960</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7844 /locations/9"
                                 containerid="39002022291828"
@@ -2595,38 +1865,6 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref143_c2" localtype="folder" parent="aspace_ref143_c1">64</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74347"
-                  id="ref144"
-                  level="file">
-                  <did>
-                     <unittitle>Stagg, Amos Alonzo</unittitle>
-                     <unitdatestructured altrender="1960" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1960">1960</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref144_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref144_c2" localtype="folder" parent="aspace_ref144_c1">64</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/74348"
-                  id="ref145"
-                  level="file">
-                  <did>
-                     <unittitle>Studd, J.E.K.</unittitle>
-                     <unitdatestructured altrender="1937" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1937">1937</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/7844 /locations/9"
-                                containerid="39002022291828"
-                                id="aspace_ref145_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref145_c2" localtype="folder" parent="aspace_ref145_c1">64</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74349"

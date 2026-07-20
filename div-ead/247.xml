@@ -45,7 +45,7 @@
                <p>Item: OVd5</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="18">18</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="324">324</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="20">20</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="342">342</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-08-21T18:01:51-04:00</eventdatetime>
+            <eventdatetime>2026-07-20T18:00:21-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 21, 2025 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 20, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7486,6 +7486,35 @@
                                    label="Mixed Materials"
                                    localtype="box">10</container>
                         <container id="aspace_ref345_c2" localtype="folder" parent="aspace_ref345_c1">33</container>
+                        <daoset altrender="/repositories/4/digital_objects/350603">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33700660"
+                                identifier="oid:33700660"
+                                linktitle="11 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33700662/full/!150,150/0/default.jpg"
+                                identifier="oid:33700660"
+                                linktitle="11 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33700660"
+                                identifier="oid:33700660"
+                                linktitle="11 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>"Confucius", "The Jade Monastery and Do Ch'i Deo Church", "The Mokanshan Summer Resort Association"</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3210557"
@@ -8051,6 +8080,35 @@
                                 label="Mixed Materials"
                                 localtype="box">11</container>
                      <container id="aspace_ref371_c2" localtype="folder" parent="aspace_ref371_c1">58</container>
+                     <daoset altrender="/repositories/4/digital_objects/350602">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33700661"
+                             identifier="oid:33700661"
+                             linktitle="7 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33700663/full/!150,150/0/default.jpg"
+                             identifier="oid:33700661"
+                             linktitle="7 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33700661"
+                             identifier="oid:33700661"
+                             linktitle="7 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Printed articles by A. Frank Ufford: "Lovely Mokanshan", "The Night Train to Ningpo, China", "Timely Impressions of a Senior Missionary", "In Remembrance - Percival Rogers Bakeman"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3210418"
