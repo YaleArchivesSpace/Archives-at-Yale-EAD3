@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0036">arts.dra.0036</recordid>
+      <otherrecordid localtype="BIB">9867340</otherrecordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the Yale Dramatic Association Scripts Collection
+ </titleproper>
+            <titleproper localtype="filing">Yale Dramatic Association Scripts Collection</titleproper>
+            <author>Compiled by Monica Achen</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <date>2011</date>
+            <num>DRA 36</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9867340</num>.</p>
+            </controlnote>
+            <controlnote localtype="offsite">
+               <p>Box: 1</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+         <descriptivenote>
+            <p>Finding aid written in English.</p>
+         </descriptivenote>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-07-21T03:02:27-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/446" level="collection">
+      <did>
+         <unittitle>Yale Dramatic Association Scripts Collection</unittitle>
+         <unitid>DRA 36</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>0.42</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">1 box</physdesc>
+         <unitdatestructured altrender="1954-1994" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1954">1954</fromdate>
+               <todate standarddate="1994">1994</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_edfbb2115edfb6b01e2c0b22fd04c111">This collection contains scripts produced by the Yale Dramatic Association (also known as the Dramat).</abstract>
+         <origination label="Creator">
+            <corpname rules="aacr">
+               <part localtype="agent_corporate_entity">Yale University. Dramatic Association</part>
+            </corpname>
+         </origination>
+      </did>
+      <acqinfo id="aspace_a5368e4fb4fbe7d78cbf4713c261a61a">
+         <head>Immediate Source of Acquisition</head>
+         <p>The Yale Dramatic Association Scripts Collection was housed in the former Drama Library until its transfer to the Robert B. Haas Family Arts Library in 2008.</p>
+      </acqinfo>
+      <accessrestrict id="aspace_0efe785b3a88130f6fe79efa6dad127a">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_cbaee234ae31e062320c5c1bb390597b">
+         <head>Conditions Governing Use</head>
+         <p>Copyright has not been transferred to Yale University.</p>
+      </userestrict>
+      <prefercite id="aspace_c7e3b7ff38ec7c56f8e5f19cd12b43b7">
+         <head>Preferred Citation</head>
+         <p>Yale Dramatic Association Scripts Collection, Robert B. Haas Family Arts Library, Yale University.</p>
+      </prefercite>
+      <scopecontent id="aspace_764fae0b7e450ae36ca642bcd7c3ae78">
+         <head>Scope and Contents</head>
+         <p>This collection contains scripts produced by the Yale Dramatic Association (also known as the Dramat).</p>
+      </scopecontent>
+      <arrangement id="aspace_13976014e57eeec0fd4d4b0240a63c32">
+         <head>Arrangement</head>
+         <p>Organized into one series: I. Scripts.</p>
+      </arrangement>
+      <controlaccess>
+         <genreform identifier="http://vocab.getty.edu/aat/300026487" source="aat">
+            <part localtype="genre_form">Scripts (documents)</part>
+         </genreform>
+         <corpname rules="aacr">
+            <part localtype="agent_corporate_entity">Yale University. Dramatic Association</part>
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/12/archival_objects/140140"
+            id="ref9"
+            level="series">
+            <did>
+               <unittitle>Scripts</unittitle>
+            </did>
+            <arrangement id="aspace_ad9b432d0206436c018fbd52437b8352">
+               <head>Arrangement</head>
+               <p>Arranged chronologically by year of production, then alphabetically by author's last name.</p>
+            </arrangement>
+            <c altrender="/repositories/12/archival_objects/140141"
+               id="ref10"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Can-Can</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1954" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1954">1954</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14602 /locations/9"
+                             containerid="39002091386442"
+                             id="aspace_ref10_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140142"
+               id="ref11"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Pantagleize</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1975-1976" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1976">1976</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14602 /locations/9"
+                             containerid="39002091386442"
+                             id="aspace_ref11_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140143"
+               id="ref12"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Oh, Kay!</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1987">1987</fromdate>
+                        <todate standarddate="1988">1988</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14602 /locations/9"
+                             containerid="39002091386442"
+                             id="aspace_ref12_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140144"
+               id="ref13"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Pennies From Heaven</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1990" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1990">1990</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14602 /locations/9"
+                             containerid="39002091386442"
+                             id="aspace_ref13_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140145"
+               id="ref14"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>"D" is for Daddy</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1991" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1991">1991</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14602 /locations/9"
+                             containerid="39002091386442"
+                             id="aspace_ref14_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140146"
+               id="ref15"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Ubu Roi</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1992-1993" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1992">1992</fromdate>
+                        <todate standarddate="1993">1993</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14602 /locations/9"
+                             containerid="39002091386442"
+                             id="aspace_ref15_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140147"
+               id="ref16"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Teach Me That Nothing</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1994" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1994">1994</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14602 /locations/9"
+                             containerid="39002091386442"
+                             id="aspace_ref16_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

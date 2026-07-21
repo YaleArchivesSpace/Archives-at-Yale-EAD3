@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0014">arts.dra.0014</recordid>
+      <otherrecordid localtype="BIB">8258104</otherrecordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Preliminary Guide to the Pamela Jordan Yale School of Drama Scrapbook Collection
+ </titleproper>
+            <titleproper localtype="filing">Jordan (Pamela) Yale School of Drama Scrapbook Collection</titleproper>
+            <author>Compiled by Colleen Reilly</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <date>April
+2009</date>
+            <num>DRA 14</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">8258104</num>.</p>
+            </controlnote>
+            <controlnote localtype="offsite">
+               <p>Boxes: 1-36</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+         <descriptivenote>
+            <p>Finding aid written in English.</p>
+         </descriptivenote>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-07-21T03:02:10-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/430" level="collection">
+      <did>
+         <unittitle>Pamela Jordan Yale School of Drama Scrapbook Collection</unittitle>
+         <unitid>DRA 14</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>20</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">35 boxes</physdesc>
+         <unitdatestructured altrender="1966-2008" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1966">1966</fromdate>
+               <todate standarddate="2008">2008</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_6c9e85010f46e80c0315dbab39641194">Collection of scrapbooks documenting the activities of the Yale School of Drama, Yale Repertory Theatre, and Yale Cabaret, 1966-2008.</abstract>
+         <origination label="Creator">
+            <corpname source="local">
+               <part localtype="agent_corporate_entity">Yale University. Drama Library</part>
+            </corpname>
+         </origination>
+      </did>
+      <acqinfo id="aspace_dd2594aa94886706669fdd070ef25a87">
+         <head>Immediate Source of Acquisition</head>
+         <p>The Pamela Jordan Yale School of Drama Scrapbook Collection was housed in the former Drama Library until its transfer to the Robert B. Haas Family Arts Library in 2008.</p>
+      </acqinfo>
+      <accessrestrict id="aspace_fcf47af01121710660a6963734238108">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+      </accessrestrict>
+      <prefercite id="aspace_6764f7059766f4db7c76a1a3d83a3ca4">
+         <head>Preferred Citation</head>
+         <p>Pamela Jordan Yale School of Drama Scrapbook Collection, Robert B. Haas Family Arts Library, Yale University.</p>
+      </prefercite>
+      <bioghist id="aspace_9117188f7c61c9857e1b32aff9bfc470">
+         <head>Biographical / Historical</head>
+         <p>Pamela C. Jordan served the Yale School of Drama Library for 34 years. In that time she assisted numerous artists, faculty, staff, and students in their research and production work, and served as the documentarian for the Yale School of Drama and Yale Repertory Theatre activities.</p>
+      </bioghist>
+      <scopecontent id="aspace_ed6f4d00ec94f333c666be6a9979db77">
+         <head>Scope and Contents</head>
+         <p>Collection of scrapbooks documenting the activities of the Yale School of Drama, Yale Repertory Theatre, and Yale Cabaret, 1966-2008.</p>
+      </scopecontent>
+      <arrangement id="aspace_78bb3bc0af4e02ef79d23813f225eaaa">
+         <head>Arrangement</head>
+         <p>Arranged chronologically.</p>
+      </arrangement>
+      <controlaccess>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85118923"
+                  source="lcsh">
+            <part localtype="topical">Scrapbooks</part>
+         </subject>
+         <corpname>
+            <part localtype="agent_corporate_entity">Yale School of Drama</part>
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/12/archival_objects/137994"
+            id="ref9"
+            level="series">
+            <did>
+               <unittitle>Box listing</unittitle>
+            </did>
+            <arrangement id="aspace_e6a81471a6fbac8da49567ef74ce0913">
+               <head>Arrangement</head>
+               <p>Key to Abbreviations: YSD = Yale School of Drama; YRT = Yale Repertory Theatre</p>
+            </arrangement>
+            <c altrender="/repositories/12/archival_objects/137995"
+               id="ref10"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1966-1967" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1966">1966</fromdate>
+                        <todate standarddate="1967">1967</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_287717905ba6cf3895e2c8818ba79b53">13 x 15 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14170 /locations/9"
+                             containerid="39002063285341"
+                             id="aspace_ref10_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/137996"
+               id="ref13"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">1966-1967 1967-1968</unitdate>
+                  <physdesc id="aspace_0305824875fb07d1502468653b4c36f0">17 x 18 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14170 /locations/9"
+                             containerid="39002063285341"
+                             id="aspace_ref13_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/137997"
+               id="ref16"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1967-1968" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1967">1967</fromdate>
+                        <todate standarddate="1968">1968</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_17015fb4594894bd1cf36a0386ba2318">12 x 16 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14170 /locations/9"
+                             containerid="39002063285341"
+                             id="aspace_ref16_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/137998"
+               id="ref19"
+               level="file">
+               <did>
+                  <unittitle>YSD/YRT</unittitle>
+                  <unitdatestructured altrender="1968-1969" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1968">1968</fromdate>
+                        <todate standarddate="1969">1969</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d20a6029e4f7483b7b9edab21e1a0854">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14171 /locations/9"
+                             containerid="39002063285358"
+                             id="aspace_ref19_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/137999"
+               id="ref22"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1969">1969</fromdate>
+                        <todate standarddate="1970">1970</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_80760a5b3c32a21a1cef2742817e8297">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14171 /locations/9"
+                             containerid="39002063285358"
+                             id="aspace_ref22_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138000"
+               id="ref25"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1970" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1970">1970</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_9226d775d334c2deb63a828ed9db8415">15 x 14 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14171 /locations/9"
+                             containerid="39002063285358"
+                             id="aspace_ref25_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138001"
+               id="ref28"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">1969-1970 1970-1971</unitdate>
+                  <physdesc id="aspace_afbfa813983c1eb4a41d6e3b9fb8d4fe">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14172 /locations/9"
+                             containerid="39002063285366"
+                             id="aspace_ref28_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138002"
+               id="ref31"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1971">1971</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_03887c58d472ca8fe17b00b1c3860335">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14172 /locations/9"
+                             containerid="39002063285366"
+                             id="aspace_ref31_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138003"
+               id="ref34"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1971-1972" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1971">1971</fromdate>
+                        <todate standarddate="1972">1972</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_fd48ad66ad2a9422d777f2aba2b4e9ed">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14173 /locations/9"
+                             containerid="39002063285374"
+                             id="aspace_ref34_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138004"
+               id="ref37"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">1971-1972 1972-1973</unitdate>
+                  <physdesc id="aspace_10be4fe45c55fa7cdef7dec76eb64855">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14173 /locations/9"
+                             containerid="39002063285374"
+                             id="aspace_ref37_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138005"
+               id="ref40"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1972-1973" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1972">1972</fromdate>
+                        <todate standarddate="1973">1973</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_1d4f55ad1102e4ff470eb00be4e84415">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14174 /locations/9"
+                             containerid="39002063285580"
+                             id="aspace_ref40_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138006"
+               id="ref43"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1973-1974" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1973">1973</fromdate>
+                        <todate standarddate="1974">1974</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_37ee405bb9c9e4a78a8fb5cf1e456032">16 x 18 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14175 /locations/9"
+                             containerid="39002063285499"
+                             id="aspace_ref43_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138007"
+               id="ref46"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1973-1974" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1973">1973</fromdate>
+                        <todate standarddate="1974">1974</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_70ae1964b5418f4378c2b73347d5b06a">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14175 /locations/9"
+                             containerid="39002063285499"
+                             id="aspace_ref46_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138008"
+               id="ref49"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1974-1975" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1974">1974</fromdate>
+                        <todate standarddate="1975">1975</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d608e8b12f93406e63bf8cd05b5d478d">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14176 /locations/9"
+                             containerid="39002063285507"
+                             id="aspace_ref49_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138009"
+               id="ref52"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1974-1975" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1974">1974</fromdate>
+                        <todate standarddate="1975">1975</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_ed978320e9517f6e49cedd3fb77ba1b9">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14176 /locations/9"
+                             containerid="39002063285507"
+                             id="aspace_ref52_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138010"
+               id="ref55"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1975-1976" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1976">1976</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_7b46fc7733c6d719bcfccf69e528b22b">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14177 /locations/9"
+                             containerid="39002063285515"
+                             id="aspace_ref55_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138011"
+               id="ref58"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1975-1976" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1976">1976</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_173b238cee399c05cc95378ce0372924">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14177 /locations/9"
+                             containerid="39002063285515"
+                             id="aspace_ref58_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138012"
+               id="ref61"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1976-1977" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1976">1976</fromdate>
+                        <todate standarddate="1977">1977</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f06606c1796a0eba6bc60e402b1c7837">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14178 /locations/9"
+                             containerid="39002063285523"
+                             id="aspace_ref61_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138013"
+               id="ref64"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1976-1977" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1976">1976</fromdate>
+                        <todate standarddate="1977">1977</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c80d831cf0d3450c8053ed815128be20">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14178 /locations/9"
+                             containerid="39002063285523"
+                             id="aspace_ref64_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138014"
+               id="ref67"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1977-1978" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1977">1977</fromdate>
+                        <todate standarddate="1978">1978</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_7f47434275a30ca9ebc5ece96c0a860c">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14179 /locations/9"
+                             containerid="39002063285598"
+                             id="aspace_ref67_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138015"
+               id="ref70"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1977-1978" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1977">1977</fromdate>
+                        <todate standarddate="1978">1978</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_fe00909f345570979d489dbd359ecb00">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14179 /locations/9"
+                             containerid="39002063285598"
+                             id="aspace_ref70_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138016"
+               id="ref73"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1978-1979" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1978">1978</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f6b7595a633042f26135281af480af86">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14180 /locations/9"
+                             containerid="39002063285531"
+                             id="aspace_ref73_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138017"
+               id="ref76"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1978-1979" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1978">1978</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_84139c7f5f8005e237be47ef8c00c5ab">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14180 /locations/9"
+                             containerid="39002063285531"
+                             id="aspace_ref76_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138018"
+               id="ref79"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1979-1980" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1979">1979</fromdate>
+                        <todate standarddate="1980">1980</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_62f8afd26a5c38a97287401cd0fe746f">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14181 /locations/9"
+                             containerid="39002063285549"
+                             id="aspace_ref79_c1"
+                             label="Mixed Materials"
+                             localtype="box">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138019"
+               id="ref82"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1979-1980" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1979">1979</fromdate>
+                        <todate standarddate="1980">1980</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_5c2f95b22fc6525bea2642e8114860d2">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14181 /locations/9"
+                             containerid="39002063285549"
+                             id="aspace_ref82_c1"
+                             label="Mixed Materials"
+                             localtype="box">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138020"
+               id="ref85"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1980-1981" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1980">1980</fromdate>
+                        <todate standarddate="1981">1981</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e3acc77aadf0b24851de262d6f603cde">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14182 /locations/9"
+                             containerid="39002063285556"
+                             id="aspace_ref85_c1"
+                             label="Mixed Materials"
+                             localtype="box">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138021"
+               id="ref88"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1980-1981" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1980">1980</fromdate>
+                        <todate standarddate="1981">1981</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_18b534391ced7b6dab346a4586cc54e4">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14182 /locations/9"
+                             containerid="39002063285556"
+                             id="aspace_ref88_c1"
+                             label="Mixed Materials"
+                             localtype="box">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138022"
+               id="ref91"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1981-1982" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1981">1981</fromdate>
+                        <todate standarddate="1982">1982</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6a819d308ae7d6cd5a343eaed7d82eb2">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14183 /locations/9"
+                             containerid="39002063285564"
+                             id="aspace_ref91_c1"
+                             label="Mixed Materials"
+                             localtype="box">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138023"
+               id="ref94"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1981-1982" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1981">1981</fromdate>
+                        <todate standarddate="1982">1982</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_149e427cafee092c1da1cbd0e0d32ddf">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14183 /locations/9"
+                             containerid="39002063285564"
+                             id="aspace_ref94_c1"
+                             label="Mixed Materials"
+                             localtype="box">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138024"
+               id="ref97"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1982-1983" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1982">1982</fromdate>
+                        <todate standarddate="1983">1983</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_ab5854e42561d6d71277edb54ab33f36">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14184 /locations/9"
+                             containerid="39002063285606"
+                             id="aspace_ref97_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138025"
+               id="ref100"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1982-1983" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1982">1982</fromdate>
+                        <todate standarddate="1983">1983</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2d670bb8184e43f583d8a56cff6a7553">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14184 /locations/9"
+                             containerid="39002063285606"
+                             id="aspace_ref100_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138026"
+               id="ref103"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1983-1984" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1984">1984</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d2ba6dc86c46c31f75393a5b2108e52c">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14185 /locations/9"
+                             containerid="39002063285655"
+                             id="aspace_ref103_c1"
+                             label="Mixed Materials"
+                             localtype="box">16</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138027"
+               id="ref106"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1983-1984" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1984">1984</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_3a587dc5f66d3d6b49c6f9f2e21f8ace">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14185 /locations/9"
+                             containerid="39002063285655"
+                             id="aspace_ref106_c1"
+                             label="Mixed Materials"
+                             localtype="box">16</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138028"
+               id="ref109"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1984-1985" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1984">1984</fromdate>
+                        <todate standarddate="1985">1985</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c8e8d36b21fa9e94b8f5517bd4a7309c">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14186 /locations/9"
+                             containerid="39002063285671"
+                             id="aspace_ref109_c1"
+                             label="Mixed Materials"
+                             localtype="box">17</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138029"
+               id="ref112"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1984-1985" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1984">1984</fromdate>
+                        <todate standarddate="1985">1985</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_b3854303f869b3d47c5c8951a4c7ac9f">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14186 /locations/9"
+                             containerid="39002063285671"
+                             id="aspace_ref112_c1"
+                             label="Mixed Materials"
+                             localtype="box">17</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138030"
+               id="ref115"
+               level="file">
+               <did>
+                  <unittitle>YRT, <title localtype="simple" render="italic">
+                        <part>Ma Rainey's Black Bottom</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1984-1985" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1984">1984</fromdate>
+                        <todate standarddate="1985">1985</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f89af5abb1464307dde11f0125b43449">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14187 /locations/9"
+                             containerid="39002063285663"
+                             id="aspace_ref115_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138031"
+               id="ref118"
+               level="file">
+               <did>
+                  <unittitle>YRT, <title localtype="simple" render="italic">
+                        <part>Fences</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1986" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1986">1986</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_a17d86e140e3089c4b23f2eff12fade2">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14187 /locations/9"
+                             containerid="39002063285663"
+                             id="aspace_ref118_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138032"
+               id="ref121"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1985-1986" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1985">1985</fromdate>
+                        <todate standarddate="1986">1986</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c77f99e2d339a4898d4bb61a0a92ae5e">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14188 /locations/9"
+                             containerid="39002063285648"
+                             id="aspace_ref121_c1"
+                             label="Mixed Materials"
+                             localtype="box">19</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138033"
+               id="ref124"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1985-1986" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1985">1985</fromdate>
+                        <todate standarddate="1986">1986</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e58290b4058498085f46ce489c924c71">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14188 /locations/9"
+                             containerid="39002063285648"
+                             id="aspace_ref124_c1"
+                             label="Mixed Materials"
+                             localtype="box">19</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138034"
+               id="ref127"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1986-1987" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1986">1986</fromdate>
+                        <todate standarddate="1987">1987</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14189 /locations/9"
+                             containerid="39002063285572"
+                             id="aspace_ref127_c1"
+                             label="Mixed Materials"
+                             localtype="box">20</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138035"
+               id="ref128"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1986-1987" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1986">1986</fromdate>
+                        <todate standarddate="1987">1987</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6b4d9b3bfec7f0cd62ac3e5bee3044ee">19 x 23 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14190 /locations/9"
+                             containerid="39002063285630"
+                             id="aspace_ref128_c1"
+                             label="Mixed Materials"
+                             localtype="box">21</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138036"
+               id="ref132"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret</unittitle>
+                  <unitdatestructured altrender="1983-1985" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1985">1985</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_609d3645b6f907f2621808a00fd3c20d">16 x 19 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14191 /locations/9"
+                             containerid="39002063285614"
+                             id="aspace_ref132_c1"
+                             label="Mixed Materials"
+                             localtype="box">22</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138037"
+               id="ref135"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret</unittitle>
+                  <unitdatestructured altrender="1985-1987" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1985">1985</fromdate>
+                        <todate standarddate="1987">1987</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6ee0dd7cc424fb49809c348f88c55ffd">16 x 19 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14191 /locations/9"
+                             containerid="39002063285614"
+                             id="aspace_ref135_c1"
+                             label="Mixed Materials"
+                             localtype="box">22</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138038"
+               id="ref138"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret</unittitle>
+                  <unitdatestructured altrender="1988-1992" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1992">1992</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f6ee3f57af608f725ecab9c12449b700">16 x 19 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14192 /locations/9"
+                             containerid="39002063285622"
+                             id="aspace_ref138_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138039"
+               id="ref141"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1987">1987</fromdate>
+                        <todate standarddate="1988">1988</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_724d0a60aec081f728854d402c515918">12.5 x 14.5 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14193 /locations/9"
+                             containerid="39002063285382"
+                             id="aspace_ref141_c1"
+                             label="Mixed Materials"
+                             localtype="box">24</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138040"
+               id="ref145"
+               level="file">
+               <did>
+                  <unittitle>August Wilson Plays</unittitle>
+                  <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1987">1987</fromdate>
+                        <todate standarddate="1988">1988</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e671e5cd389e707619e88d64345aa8ab">12.5 x 14.5 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14193 /locations/9"
+                             containerid="39002063285382"
+                             id="aspace_ref145_c1"
+                             label="Mixed Materials"
+                             localtype="box">24</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138041"
+               id="ref148"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>3</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1987">1987</fromdate>
+                        <todate standarddate="1988">1988</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c3806d06c3446f9e082ebee10c76a571">12.5 x 14.5 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14193 /locations/9"
+                             containerid="39002063285382"
+                             id="aspace_ref148_c1"
+                             label="Mixed Materials"
+                             localtype="box">24</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138042"
+               id="ref152"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1989">1989</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_7352480a79b84a7ce21850ff4dfed1d5">12.5 x 14.5 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14193 /locations/9"
+                             containerid="39002063285382"
+                             id="aspace_ref152_c1"
+                             label="Mixed Materials"
+                             localtype="box">24</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138043"
+               id="ref156"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>4</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1989">1989</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_7f520fa7ce635cfc2d07b11084b2ea0b">12.5 x 14.5 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14194 /locations/9"
+                             containerid="39002063285390"
+                             id="aspace_ref156_c1"
+                             label="Mixed Materials"
+                             localtype="box">25</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138044"
+               id="ref160"
+               level="file">
+               <did>
+                  <unittitle>August Wilson Plays</unittitle>
+                  <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1989">1989</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2f26bf14006833f0845b5d9e6d0a4358">12 x 13 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14194 /locations/9"
+                             containerid="39002063285390"
+                             id="aspace_ref160_c1"
+                             label="Mixed Materials"
+                             localtype="box">25</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138045"
+               id="ref163"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>4</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1989">1989</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_34f73451d7e92992fb72700d2fe0074b">12 x 13 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14194 /locations/9"
+                             containerid="39002063285390"
+                             id="aspace_ref163_c1"
+                             label="Mixed Materials"
+                             localtype="box">25</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138046"
+               id="ref167"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1989">1989</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_bc45b9be9485a089f9491014312fe908">12 x 13 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14195 /locations/9"
+                             containerid="39002063285408"
+                             id="aspace_ref167_c1"
+                             label="Mixed Materials"
+                             localtype="box">26</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138047"
+               id="ref171"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1990">1990</fromdate>
+                        <todate standarddate="1991">1991</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_4fb8b368758c6f94eb74ec94e2f4e89c">12 x 13 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14195 /locations/9"
+                             containerid="39002063285408"
+                             id="aspace_ref171_c1"
+                             label="Mixed Materials"
+                             localtype="box">26</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138048"
+               id="ref175"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>3</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1990">1990</fromdate>
+                        <todate standarddate="1991">1991</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_06494ab0655cc9f31c17558395423148">12 x 13 x 1 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14195 /locations/9"
+                             containerid="39002063285408"
+                             id="aspace_ref175_c1"
+                             label="Mixed Materials"
+                             localtype="box">26</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138049"
+               id="ref179"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1991-1992" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1991">1991</fromdate>
+                        <todate standarddate="1992">1992</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2795a1b9f6407fe0deedcc7b15004e0e">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14196 /locations/9"
+                             containerid="39002063285416"
+                             id="aspace_ref179_c1"
+                             label="Mixed Materials"
+                             localtype="box">27</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138050"
+               id="ref182"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1991-1992" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1991">1991</fromdate>
+                        <todate standarddate="1992">1992</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_503bd02823a8bea561dbbbd6ebb15650">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14196 /locations/9"
+                             containerid="39002063285416"
+                             id="aspace_ref182_c1"
+                             label="Mixed Materials"
+                             localtype="box">27</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138051"
+               id="ref186"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1992-1993" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1992">1992</fromdate>
+                        <todate standarddate="1993">1993</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e57078d91c0d5df434d54b3959b153f9">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14196 /locations/9"
+                             containerid="39002063285416"
+                             id="aspace_ref186_c1"
+                             label="Mixed Materials"
+                             localtype="box">27</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138052"
+               id="ref189"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1992-1993" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1992">1992</fromdate>
+                        <todate standarddate="1993">1993</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_b0a51f3d8523b48352e1ee6a66953f0f">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14197 /locations/9"
+                             containerid="39002063285424"
+                             id="aspace_ref189_c1"
+                             label="Mixed Materials"
+                             localtype="box">28</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138053"
+               id="ref193"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1993-1994" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1993">1993</fromdate>
+                        <todate standarddate="1994">1994</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_68130ef79b478f74b19902bf1b57fe3b">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14197 /locations/9"
+                             containerid="39002063285424"
+                             id="aspace_ref193_c1"
+                             label="Mixed Materials"
+                             localtype="box">28</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138054"
+               id="ref196"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1993-1994" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1993">1993</fromdate>
+                        <todate standarddate="1994">1994</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_90568457336ca9b63c45e809918f7912">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14197 /locations/9"
+                             containerid="39002063285424"
+                             id="aspace_ref196_c1"
+                             label="Mixed Materials"
+                             localtype="box">28</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138055"
+               id="ref200"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1994-1995" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1994">1994</fromdate>
+                        <todate standarddate="1995">1995</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_a17daa1b5cc66da24b4bebf299930053">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14198 /locations/9"
+                             containerid="39002063285432"
+                             id="aspace_ref200_c1"
+                             label="Mixed Materials"
+                             localtype="box">29</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138056"
+               id="ref203"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1994-1995" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1994">1994</fromdate>
+                        <todate standarddate="1995">1995</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_4c98e8b36feed5e5680adce2116cb8e7">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14198 /locations/9"
+                             containerid="39002063285432"
+                             id="aspace_ref203_c1"
+                             label="Mixed Materials"
+                             localtype="box">29</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138057"
+               id="ref207"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1995-1996" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995">1995</fromdate>
+                        <todate standarddate="1996">1996</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_9f5b4b08a341692c1af70705fa9b1c21">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14198 /locations/9"
+                             containerid="39002063285432"
+                             id="aspace_ref207_c1"
+                             label="Mixed Materials"
+                             localtype="box">29</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138058"
+               id="ref210"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1995-1996" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995">1995</fromdate>
+                        <todate standarddate="1996">1996</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_5c03f4f9cce606a3f3d20b7f28e3dc34">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14199 /locations/9"
+                             containerid="39002063285440"
+                             id="aspace_ref210_c1"
+                             label="Mixed Materials"
+                             localtype="box">30</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138059"
+               id="ref214"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1996-1997" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1996">1996</fromdate>
+                        <todate standarddate="1997">1997</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_b770a9aece757f32ec61115f0ba180ee">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14199 /locations/9"
+                             containerid="39002063285440"
+                             id="aspace_ref214_c1"
+                             label="Mixed Materials"
+                             localtype="box">30</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138060"
+               id="ref217"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1996-1997" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1996">1996</fromdate>
+                        <todate standarddate="1997">1997</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c6491eb47c9ac2781808533415f199ec">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14199 /locations/9"
+                             containerid="39002063285440"
+                             id="aspace_ref217_c1"
+                             label="Mixed Materials"
+                             localtype="box">30</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138061"
+               id="ref220"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1997-1998" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1997">1997</fromdate>
+                        <todate standarddate="1998">1998</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_82de19207af0ee83ebfce8d8abf6d266">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14200 /locations/9"
+                             containerid="39002063285457"
+                             id="aspace_ref220_c1"
+                             label="Mixed Materials"
+                             localtype="box">31</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3100764"
+               id="aspace_c4f904b658e670b09b0f15827641f7f1"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1997-1998" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1997">1997</fromdate>
+                        <todate standarddate="1998">1998</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d93da0f5831b35014029bc76ff9fb8b5">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14200 /locations/9"
+                             containerid="39002063285457"
+                             id="aspace_c4f904b658e670b09b0f15827641f7f1_c1"
+                             label="Mixed Materials"
+                             localtype="box">31</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138062"
+               id="ref223"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                     <quantity>2</quantity>
+                     <unittype>Volumes</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1998-1999" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1998">1998</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e6aabd58caf3044990e70934b0339ef9">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14200 /locations/9"
+                             containerid="39002063285457"
+                             id="aspace_ref223_c1"
+                             label="Mixed Materials"
+                             localtype="box">31</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138063"
+               id="ref227"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1998-1999" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1998">1998</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_993ea74936edf8bdcadc2f97a1fe0da1">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14201 /locations/9"
+                             containerid="39002063285465"
+                             id="aspace_ref227_c1"
+                             label="Mixed Materials"
+                             localtype="box">32</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138064"
+               id="ref230"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="1999-2000" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1999">1999</fromdate>
+                        <todate standarddate="2000">2000</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_52bf2e035aabf579aff19f3530b505f4">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14201 /locations/9"
+                             containerid="39002063285465"
+                             id="aspace_ref230_c1"
+                             label="Mixed Materials"
+                             localtype="box">32</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138065"
+               id="ref233"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="1999-2000" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1999">1999</fromdate>
+                        <todate standarddate="2000">2000</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_b0202a8cd2d30d3aed9437629969cfb2">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14201 /locations/9"
+                             containerid="39002063285465"
+                             id="aspace_ref233_c1"
+                             label="Mixed Materials"
+                             localtype="box">32</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138066"
+               id="ref236"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="2000-2001" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2000">2000</fromdate>
+                        <todate standarddate="2001">2001</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2874f2b143b99a9124a20ca51212d330">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14201 /locations/9"
+                             containerid="39002063285465"
+                             id="aspace_ref236_c1"
+                             label="Mixed Materials"
+                             localtype="box">32</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138067"
+               id="ref239"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="2000-2001" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2000">2000</fromdate>
+                        <todate standarddate="2001">2001</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_25e1a0105894d5f290d03e9d67e1d351">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14202 /locations/9"
+                             containerid="39002063285473"
+                             id="aspace_ref239_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138068"
+               id="ref242"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="2001-2002" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2001">2001</fromdate>
+                        <todate standarddate="2002">2002</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_63ada2507b22cfdd01165ca236d83fbf">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14202 /locations/9"
+                             containerid="39002063285473"
+                             id="aspace_ref242_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138069"
+               id="ref245"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="2001-2002" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2001">2001</fromdate>
+                        <todate standarddate="2002">2002</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_5cefda6c48995ac0ac7c98aec21cf08c">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14202 /locations/9"
+                             containerid="39002063285473"
+                             id="aspace_ref245_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138070"
+               id="ref248"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="2002-2003" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2002">2002</fromdate>
+                        <todate standarddate="2003">2003</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2dbd92ce23c0ebf92b3a965eb1db394a">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14202 /locations/9"
+                             containerid="39002063285473"
+                             id="aspace_ref248_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138071"
+               id="ref251"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="2002-2003" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2002">2002</fromdate>
+                        <todate standarddate="2003">2003</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c85dc1ce8cb318fb6e38a96082444961">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14203 /locations/9"
+                             containerid="39002063285481"
+                             id="aspace_ref251_c1"
+                             label="Mixed Materials"
+                             localtype="box">34</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138072"
+               id="ref254"
+               level="file">
+               <did>
+                  <unittitle>YRT</unittitle>
+                  <unitdatestructured altrender="2003-2004" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2003">2003</fromdate>
+                        <todate standarddate="2004">2004</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2a63a4ba519141cdddb03b58609c0b24">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14203 /locations/9"
+                             containerid="39002063285481"
+                             id="aspace_ref254_c1"
+                             label="Mixed Materials"
+                             localtype="box">34</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138073"
+               id="ref257"
+               level="file">
+               <did>
+                  <unittitle>YSD</unittitle>
+                  <unitdatestructured altrender="2003-2004" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2003">2003</fromdate>
+                        <todate standarddate="2004">2004</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_fa2d0c2ff8d68a46d1a379751b654d16">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14203 /locations/9"
+                             containerid="39002063285481"
+                             id="aspace_ref257_c1"
+                             label="Mixed Materials"
+                             localtype="box">34</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138074"
+               id="ref260"
+               level="file">
+               <did>
+                  <unittitle>YSD/YRT</unittitle>
+                  <unitdatestructured altrender="2004-2005" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2004">2004</fromdate>
+                        <todate standarddate="2005">2005</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6e34358c2dd510c00761703f787f97a3">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14204 /locations/9"
+                             containerid="39002075063488"
+                             id="aspace_ref260_c1"
+                             label="Mixed Materials"
+                             localtype="box">35</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138075"
+               id="ref263"
+               level="file">
+               <did>
+                  <unittitle>YSD/YRT</unittitle>
+                  <unitdatestructured altrender="2005-2006" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2005">2005</fromdate>
+                        <todate standarddate="2006">2006</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_435308abf671c59c50193ede2df26549">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14204 /locations/9"
+                             containerid="39002075063488"
+                             id="aspace_ref263_c1"
+                             label="Mixed Materials"
+                             localtype="box">35</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138076"
+               id="ref266"
+               level="file">
+               <did>
+                  <unittitle>YSD/YRT</unittitle>
+                  <unitdatestructured altrender="2006-2007" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2006">2006</fromdate>
+                        <todate standarddate="2007">2007</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d3fa9a52b13c64dbd475a5bfd95f0983">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14204 /locations/9"
+                             containerid="39002075063488"
+                             id="aspace_ref266_c1"
+                             label="Mixed Materials"
+                             localtype="box">35</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/138077"
+               id="ref269"
+               level="file">
+               <did>
+                  <unittitle>YSD/YRT</unittitle>
+                  <unitdatestructured altrender="2007-2008" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2007">2007</fromdate>
+                        <todate standarddate="2008">2008</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_28bae66d65a8b4c25ce3a3ff17a52f69">12.5 x 14.5 x 2 inches</physdesc>
+                  <container altrender="/repositories/12/top_containers/14204 /locations/9"
+                             containerid="39002075063488"
+                             id="aspace_ref269_c1"
+                             label="Mixed Materials"
+                             localtype="box">35</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3187150"
+               id="aspace_7bffa22046cbef3116f0aee4a834329f"
+               level="file">
+               <did>
+                  <unittitle>Index to YRT and YSD Scrapbooks, 1979-1980 through 1990-1991</unittitle>
+                  <container altrender="/repositories/12/top_containers/365199 /locations/9"
+                             containerid="39002091582560"
+                             id="aspace_7bffa22046cbef3116f0aee4a834329f_c1"
+                             label="Mixed Materials"
+                             localtype="box">36</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3187151"
+               id="aspace_24adb348c05a86008c8be59dbb26930d"
+               level="file">
+               <did>
+                  <unittitle>Index to YRT and YSD Scrapbooks, 1991-1992 through 2007-2008</unittitle>
+                  <container altrender="/repositories/12/top_containers/365199 /locations/9"
+                             containerid="39002091582560"
+                             id="aspace_24adb348c05a86008c8be59dbb26930d_c1"
+                             label="Mixed Materials"
+                             localtype="box">36</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

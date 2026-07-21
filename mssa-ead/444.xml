@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0034">arts.dra.0034</recordid>
+      <otherrecordid localtype="BIB">9868008</otherrecordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Yale Cabaret Scripts and Ephemera Collection
+ </titleproper>
+            <titleproper localtype="filing">Yale Cabaret Scripts and Ephemera Collection</titleproper>
+            <author>Compiled by Monica Achen</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <date>2011</date>
+            <num>DRA 34</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9868008</num>.</p>
+            </controlnote>
+            <controlnote localtype="offsite">
+               <p>Boxes: 1-11</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+         <descriptivenote>
+            <p>Finding aid written in English.</p>
+         </descriptivenote>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-07-21T03:02:22-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/444" level="collection">
+      <did>
+         <unittitle>Yale Cabaret Scripts and Ephemera Collection</unittitle>
+         <unitid>DRA 34</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>4.59</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">11 boxes</physdesc>
+         <unitdatestructured altrender="1974-2009" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1974">1974</fromdate>
+               <todate standarddate="2009">2009</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_fdb14197b25dba3c5acf7558ac93331c">This collection contains scripts and ephemera from the Yale Cabaret.</abstract>
+         <origination label="Creator">
+            <corpname source="local">
+               <part localtype="agent_corporate_entity">Yale Cabaret</part>
+            </corpname>
+         </origination>
+      </did>
+      <acqinfo id="aspace_815b217a8a729c41c2ad759b0341463c">
+         <head>Immediate Source of Acquisition</head>
+         <p>The Yale Cabaret Scripts and Ephemera Collection was housed in the former Drama Library until its transfer to the Robert B. Haas Family Arts Library in 2008.</p>
+      </acqinfo>
+      <accessrestrict id="aspace_248f1311a59fbed98e80a243c8c9ded5">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_3718934538206a368f536c567e62556c">
+         <head>Conditions Governing Use</head>
+         <p>Copyright has not been transferred to Yale University.</p>
+      </userestrict>
+      <prefercite id="aspace_8960c24c85a0d36e0e78bc0d9e4f997c">
+         <head>Preferred Citation</head>
+         <p>Yale Cabaret Scripts and Ephemera Collection, Robert B. Haas Family Arts Library, Yale University.</p>
+      </prefercite>
+      <scopecontent id="aspace_6d5941ba02028bbde6b04a7c053728fa">
+         <head>Scope and Contents</head>
+         <p>This collection contains scripts produced by and ephemera pertaining to the Yale Cabaret.</p>
+      </scopecontent>
+      <bioghist id="aspace_3dc54bd88f646c3f2c17bbc51690d5b8">
+         <head>Biographical / Historical</head>
+         <p>The Yale Cabaret is a theater managed and produced by Yale School of Drama students. The Cabaret stages about 20 productions per year. It provides a unique performance setting which includes under 100 reconfigurable seats. The theater produces two performances per evening, serving food and beverage. These productions include adaptations of published plays, student-written plays, and collaboratively devised pieces.</p>
+      </bioghist>
+      <arrangement id="aspace_6782fb0f31b712b03e09797e1e662ccc">
+         <head>Arrangement</head>
+         <p>Organized into two series: I. Scripts. II. Ephemera.</p>
+      </arrangement>
+      <controlaccess>
+         <genreform identifier="http://vocab.getty.edu/aat/300026487" source="aat">
+            <part localtype="genre_form">Scripts (documents)</part>
+         </genreform>
+         <genreform identifier="http://vocab.getty.edu/aat/300027217" source="aat">
+            <part localtype="genre_form">Theater programs</part>
+         </genreform>
+         <genreform identifier="http://vocab.getty.edu/aat/300026652" source="aat">
+            <part localtype="genre_form">Newsletters</part>
+         </genreform>
+         <corpname source="local">
+            <part localtype="agent_corporate_entity">Yale Cabaret</part>
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/12/archival_objects/139886"
+            id="ref10"
+            level="series">
+            <did>
+               <unittitle>Scripts</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <arrangement id="aspace_1b460e50494c09222d0f9773889b3dfe">
+               <head>Arrangement</head>
+               <p>Arranged chronologically by year of production, then alphabetically by author's last name.</p>
+            </arrangement>
+            <c altrender="/repositories/12/archival_objects/139887"
+               id="ref11"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>When Dinah Shore Ruled the Earth</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1974-1975" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1974">1974</fromdate>
+                        <todate standarddate="1975">1975</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14581 /locations/9"
+                             containerid="39002091386434"
+                             id="aspace_ref11_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139888"
+               id="ref12"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Insomnia</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1975-1976" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1976">1976</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14581 /locations/9"
+                             containerid="39002091386434"
+                             id="aspace_ref12_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139889"
+               id="ref13"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Taking Care of Business or, A Tic in Their Tongues</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1976-1977" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1976">1976</fromdate>
+                        <todate standarddate="1977">1977</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14581 /locations/9"
+                             containerid="39002091386434"
+                             id="aspace_ref13_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139890"
+               id="ref14"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>The Resurrection of Lady Lester</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1979-1980" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1979">1979</fromdate>
+                        <todate standarddate="1980">1980</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14581 /locations/9"
+                             containerid="39002091386434"
+                             id="aspace_ref14_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139891"
+               id="ref15"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Deadline</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1980-1981" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1980">1980</fromdate>
+                        <todate standarddate="1981">1981</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14581 /locations/9"
+                             containerid="39002091386434"
+                             id="aspace_ref15_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139892"
+               id="ref16"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Celina or, The Child of Mystery</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1980-1981" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1980">1980</fromdate>
+                        <todate standarddate="1981">1981</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14581 /locations/9"
+                             containerid="39002091386434"
+                             id="aspace_ref16_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139893"
+               id="ref17"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>The Hostage</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1981-1982" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1981">1981</fromdate>
+                        <todate standarddate="1982">1982</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14581 /locations/9"
+                             containerid="39002091386434"
+                             id="aspace_ref17_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139894"
+               id="ref18"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Son of Arlecchino</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1981-1982" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1981">1981</fromdate>
+                        <todate standarddate="1982">1982</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref18_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139895"
+               id="ref19"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Holding Patterns</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1983-1984" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1984">1984</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref19_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139896"
+               id="ref20"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Korea</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1983-1984" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1984">1984</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref20_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139897"
+               id="ref21"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Suicidal Romance</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1985-1986" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1985">1985</fromdate>
+                        <todate standarddate="1986">1986</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref21_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139898"
+               id="ref22"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Jungle Toons</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1986-1987" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1986">1986</fromdate>
+                        <todate standarddate="1987">1987</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref22_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139899"
+               id="ref23"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Rhinestones and Paste</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1987">1987</fromdate>
+                        <todate standarddate="1988">1988</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref23_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139900"
+               id="ref24"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>The Flaming Carrot</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1989">1989</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref24_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139901"
+               id="ref25"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>The Lou Pontel Handbook</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1989">1989</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref25_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139902"
+               id="ref26"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Pambo</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1989" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1989">1989</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref26_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139903"
+               id="ref27"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Self Torture and Strenuous Exercise in America</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1989">1989</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref27_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139904"
+               id="ref28"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>The Lesson</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1990">1990</fromdate>
+                        <todate standarddate="1991">1991</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref28_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139905"
+               id="ref29"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Maria</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1991-1992" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1991">1991</fromdate>
+                        <todate standarddate="1992">1992</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref29_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139906"
+               id="ref30"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Home</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1995-1996" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995">1995</fromdate>
+                        <todate standarddate="1996">1996</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14582 /locations/9"
+                             containerid="39002091386426"
+                             id="aspace_ref30_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139907"
+               id="ref31"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Medal of Honor Rag</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1998-1999" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1998">1998</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14583 /locations/9"
+                             containerid="39002091386418"
+                             id="aspace_ref31_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139908"
+               id="ref32"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Kennedy's Children</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2001-2002" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2001">2001</fromdate>
+                        <todate standarddate="2002">2002</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14583 /locations/9"
+                             containerid="39002091386418"
+                             id="aspace_ref32_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139909"
+               id="ref33"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title localtype="simple" render="italic">
+                        <part>Without/Sin</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2004-2005" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2004">2004</fromdate>
+                        <todate standarddate="2005">2005</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14583 /locations/9"
+                             containerid="39002091386418"
+                             id="aspace_ref33_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/139910"
+            id="ref35"
+            level="series">
+            <did>
+               <unittitle>
+                  <emph render="bold">Ephemera</emph>
+               </unittitle>
+            </did>
+            <scopecontent id="aspace_a21b7dd7b6ec67f32487fc577fb364eb">
+               <head>Scope and Contents</head>
+               <p>This series includes ephemera such as posters, programs, photographs, clippings, advertisements, and newsletters pertaining to the Yale Cabaret.</p>
+            </scopecontent>
+            <arrangement id="aspace_3f34ab15c2168d0d1d31394c23e1c49c">
+               <head>Arrangement</head>
+               <p>Arranged chronologically by year and then by month and day of performance.</p>
+            </arrangement>
+            <c altrender="/repositories/12/archival_objects/139911"
+               id="ref36"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1971-1972</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>3</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1971-1972" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1971">1971</fromdate>
+                        <todate standarddate="1972">1972</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14584 /locations/9"
+                             containerid="39002091386400"
+                             id="aspace_ref36_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref36_c2" localtype="folder" parent="aspace_ref36_c1">1a</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139912"
+               id="ref38"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1973-1974</unittitle>
+                  <unitdatestructured altrender="1973-1974" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1973">1973</fromdate>
+                        <todate standarddate="1974">1974</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_67cfbb88cfb84414c5b67c294174b5b8">Folder 1b: 24 items</physdesc>
+                  <physdesc id="aspace_d69345ad370a1f8919e4477a56c89bc4">Folder 2: 14 items</physdesc>
+                  <physdesc id="aspace_0cf299c42f8d3830ffc51c5cbdbe7a66">Folder 3: 24 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14584 /locations/9"
+                             containerid="39002091386400"
+                             id="aspace_ref38_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref38_c2" localtype="folder" parent="aspace_ref38_c1">1b-3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139913"
+               id="ref42"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1974-1975</unittitle>
+                  <unitdatestructured altrender="1974-1975" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1974">1974</fromdate>
+                        <todate standarddate="1975">1975</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d9b6afd2b261b4f33f5eb562b4549d89">Folder 4: 18 items</physdesc>
+                  <physdesc id="aspace_d21e6dbab625aaa242de1d366e0a9449">Folder 5: 33 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14584 /locations/9"
+                             containerid="39002091386400"
+                             id="aspace_ref42_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref42_c2" localtype="folder" parent="aspace_ref42_c1">4-5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139914"
+               id="ref45"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1975-1976</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>45</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1975-1976" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1976">1976</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14584 /locations/9"
+                             containerid="39002091386400"
+                             id="aspace_ref45_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref45_c2" localtype="folder" parent="aspace_ref45_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139915"
+               id="ref47"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1976-1977</unittitle>
+                  <unitdatestructured altrender="1976-1977" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1976">1976</fromdate>
+                        <todate standarddate="1977">1977</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f643af560bc3e933384fb10102f905e1">Folder 7: 27 items</physdesc>
+                  <physdesc id="aspace_dbc043e7b9f127fe5f8c638fb7692480">Folder 8: 20 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14584 /locations/9"
+                             containerid="39002091386400"
+                             id="aspace_ref47_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref47_c2" localtype="folder" parent="aspace_ref47_c1">7-8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139916"
+               id="ref50"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1977-1978</unittitle>
+                  <unitdatestructured altrender="1977-1978" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1977">1977</fromdate>
+                        <todate standarddate="1978">1978</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d1da90eb7048ae1eef9c7d336f58ee54">Folder 1: 26 items</physdesc>
+                  <physdesc id="aspace_617a86177c166727c9e286e9a512502e">Folder 2: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14585 /locations/9"
+                             containerid="39002091386335"
+                             id="aspace_ref50_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+                  <container id="aspace_ref50_c2" localtype="folder" parent="aspace_ref50_c1">1-2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139917"
+               id="ref53"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1978-1979</unittitle>
+                  <unitdatestructured altrender="1978-1979" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1978">1978</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_11f66108976283b5468206332b3e5a27">Folder 9: 20 items</physdesc>
+                  <physdesc id="aspace_c0ac97ddd001463716014e086e924ba3">Folder 10: 18 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14584 /locations/9"
+                             containerid="39002091386400"
+                             id="aspace_ref53_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref53_c2" localtype="folder" parent="aspace_ref53_c1">9-10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139918"
+               id="ref56"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1979-1980</unittitle>
+                  <unitdatestructured altrender="1979-1980" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1979">1979</fromdate>
+                        <todate standarddate="1980">1980</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6ee2cf51bb4ff71f21813612a34daf7a">Folder 3: 16 items</physdesc>
+                  <physdesc id="aspace_f718181cdcebf34a5d688c9e242b973f">Folder 4: 22 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14585 /locations/9"
+                             containerid="39002091386335"
+                             id="aspace_ref56_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+                  <container id="aspace_ref56_c2" localtype="folder" parent="aspace_ref56_c1">3-4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139919"
+               id="ref59"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1980-1981</unittitle>
+                  <unitdatestructured altrender="1980-1981" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1980">1980</fromdate>
+                        <todate standarddate="1981">1981</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_be079550eff30f45ce56e491ab3f8716">Folder 5: 39 items</physdesc>
+                  <physdesc id="aspace_5372dab9229413a86e87cd04ee4af3b0">Folder 6: 47 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14585 /locations/9"
+                             containerid="39002091386335"
+                             id="aspace_ref59_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+                  <container id="aspace_ref59_c2" localtype="folder" parent="aspace_ref59_c1">5-6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139920"
+               id="ref62"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1981-1982</unittitle>
+                  <unitdatestructured altrender="1981-1982" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1981">1981</fromdate>
+                        <todate standarddate="1982">1982</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_5033fb51570d080876e9c3710d034629">Folder 11: 51 items</physdesc>
+                  <physdesc id="aspace_96a07709350c8c78b8384f2ca7790ca0">Folder 12: 44 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14584 /locations/9"
+                             containerid="39002091386400"
+                             id="aspace_ref62_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref62_c2" localtype="folder" parent="aspace_ref62_c1">11-12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139921"
+               id="ref65"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1982-1983</unittitle>
+                  <unitdatestructured altrender="1982-1983" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1982">1982</fromdate>
+                        <todate standarddate="1983">1983</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_00957da2c2e82f57a504d47de702cf2c">Folder 13: 40 items</physdesc>
+                  <physdesc id="aspace_ec91bf605a9345e30c1fc4eabd57c88a">Folder 14: 31 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14586 /locations/9"
+                             containerid="39002091386392"
+                             id="aspace_ref65_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref65_c2" localtype="folder" parent="aspace_ref65_c1">13-14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139922"
+               id="ref68"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1983-1984</unittitle>
+                  <unitdatestructured altrender="1983-1984" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1984">1984</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c60c230849855ed8d7e2cbacf3d3c9c7">Folder 15: 27 items</physdesc>
+                  <physdesc id="aspace_f6acbded2716eec2df0c9d814ba41aed">Folder 16: 27 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14586 /locations/9"
+                             containerid="39002091386392"
+                             id="aspace_ref68_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref68_c2" localtype="folder" parent="aspace_ref68_c1">15-16</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139923"
+               id="ref71"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1984-1985</unittitle>
+                  <unitdatestructured altrender="1984-1985" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1984">1984</fromdate>
+                        <todate standarddate="1985">1985</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_44e90da3b1a915c3ae4ccce0a2e83895">Folder 17: 22 items</physdesc>
+                  <physdesc id="aspace_023dc3bd29b956daecedd522acd88ae2">Folder 18: 21 items</physdesc>
+                  <physdesc id="aspace_548e93db87ca02a177d8a784b2642e6e">Folder 19: 26 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14586 /locations/9"
+                             containerid="39002091386392"
+                             id="aspace_ref71_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref71_c2" localtype="folder" parent="aspace_ref71_c1">17-19</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139924"
+               id="ref75"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1985-1986</unittitle>
+                  <unitdatestructured altrender="1985-1986" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1985">1985</fromdate>
+                        <todate standarddate="1986">1986</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_dc097961c7aa69de2be8fbfa05e7c098">Folder 20: 25 items</physdesc>
+                  <physdesc id="aspace_6180abd6fe21ed9533a1ad015ef4ceb6">Folder 21: 20 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14586 /locations/9"
+                             containerid="39002091386392"
+                             id="aspace_ref75_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref75_c2" localtype="folder" parent="aspace_ref75_c1">20-21</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139925"
+               id="ref78"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1986-1987</unittitle>
+                  <unitdatestructured altrender="1986-1987" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1986">1986</fromdate>
+                        <todate standarddate="1987">1987</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_342397a13ceb7c023a20c0bface650be">Folder 22: 25 items</physdesc>
+                  <physdesc id="aspace_3835ee844dcb2194cdcc86dc3979b2cc">Folder 23: 18 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14587 /locations/9"
+                             containerid="39002091386384"
+                             id="aspace_ref78_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref78_c2" localtype="folder" parent="aspace_ref78_c1">22-23</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139926"
+               id="ref81"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1987-1988</unittitle>
+                  <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1987">1987</fromdate>
+                        <todate standarddate="1988">1988</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_0603840293c39ed4ca9a9e910397dd65">Folder 24: 20 items</physdesc>
+                  <physdesc id="aspace_b5f4bc7e4247a680e08d50d65b1f0188">Folder 25: 16 items</physdesc>
+                  <physdesc id="aspace_6b4e3eecae177cf02528e6d8eab89d84">Folder 26: 24 items</physdesc>
+                  <physdesc id="aspace_fdda2eb0951f02c713c14c72fa5eb86d">Folder 27: 24 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14587 /locations/9"
+                             containerid="39002091386384"
+                             id="aspace_ref81_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref81_c2" localtype="folder" parent="aspace_ref81_c1">24-27</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139927"
+               id="ref86"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1988-1989</unittitle>
+                  <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1989">1989</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_0c5ae78a8bdea8ea5bc7f20ff84d5a12">Folder 28: 24 items</physdesc>
+                  <physdesc id="aspace_cb066e449dc2eb338216c5dd5208e5b7">Folder 29: 28 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14587 /locations/9"
+                             containerid="39002091386384"
+                             id="aspace_ref86_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref86_c2" localtype="folder" parent="aspace_ref86_c1">28-29</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139928"
+               id="ref89"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1989-1990</unittitle>
+                  <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1989">1989</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_9437b3ae3d8f3c0cd07c043380744029">Folder 30: 22 items</physdesc>
+                  <physdesc id="aspace_27ab2050868052e548e3e3fcf411ee95">Folder 31: 21 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14587 /locations/9"
+                             containerid="39002091386384"
+                             id="aspace_ref89_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref89_c2" localtype="folder" parent="aspace_ref89_c1">30-31</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139929"
+               id="ref92"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1990-1991</unittitle>
+                  <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1990">1990</fromdate>
+                        <todate standarddate="1991">1991</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_59b31e019d985551cd2a93b620d5b5c8">Folder 32: 16 items</physdesc>
+                  <physdesc id="aspace_04d800e4ed7b24f648d83d4cbbc915e1">Folder 33: 16 items</physdesc>
+                  <physdesc id="aspace_2b4260f66d7e39c87c8ab89cf5ff3aae">Folder 34: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14587 /locations/9"
+                             containerid="39002091386384"
+                             id="aspace_ref92_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref92_c2" localtype="folder" parent="aspace_ref92_c1">32-34</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139930"
+               id="ref96"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1991-1992</unittitle>
+                  <unitdatestructured altrender="1991-1992" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1991">1991</fromdate>
+                        <todate standarddate="1992">1992</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_3efee55b1f25db95ce5d475a1e8b3e48">Folder 35: 26 items</physdesc>
+                  <physdesc id="aspace_f74c78d02e60a2a55825af9c5af26e69">Folder 36: 20 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14588 /locations/9"
+                             containerid="39002091386376"
+                             id="aspace_ref96_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref96_c2" localtype="folder" parent="aspace_ref96_c1">35-36</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139931"
+               id="ref99"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1992-1993</unittitle>
+                  <unitdatestructured altrender="1992-1993" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1992">1992</fromdate>
+                        <todate standarddate="1993">1993</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c7035c0a35654fee8d15203e2aaffe5a">Folder 37: 23 items</physdesc>
+                  <physdesc id="aspace_4ae201fca3cc33bbeabcb0d5523483c9">Folder 38: 16 items</physdesc>
+                  <physdesc id="aspace_ccb7543d0e5bfd374fc390d58d55be9a">Folder 39: 21 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14588 /locations/9"
+                             containerid="39002091386376"
+                             id="aspace_ref99_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref99_c2" localtype="folder" parent="aspace_ref99_c1">37-39</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139932"
+               id="ref103"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1993-1994</unittitle>
+                  <unitdatestructured altrender="1993-1994" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1993">1993</fromdate>
+                        <todate standarddate="1994">1994</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_55fd3834014c06bd0e449532736fb918">Folder 40: 24 items</physdesc>
+                  <physdesc id="aspace_017686e61ed5a16bf3079bac046bf3e9">Folder 41: 18 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14588 /locations/9"
+                             containerid="39002091386376"
+                             id="aspace_ref103_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref103_c2" localtype="folder" parent="aspace_ref103_c1">40-41</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139933"
+               id="ref106"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1994-1995</unittitle>
+                  <unitdatestructured altrender="1994-1995" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1994">1994</fromdate>
+                        <todate standarddate="1995">1995</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_56ac5e41c0e74bbead4754995e748837">Folder 42: 20 items</physdesc>
+                  <physdesc id="aspace_161e01feb413763df315610665cc086e">Folder 43: 15 items</physdesc>
+                  <physdesc id="aspace_cac784dae7c4b8089eb81190f24e2436">Folder 44: 18 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14588 /locations/9"
+                             containerid="39002091386376"
+                             id="aspace_ref106_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref106_c2" localtype="folder" parent="aspace_ref106_c1">42-44</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139934"
+               id="ref110"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1995-1996</unittitle>
+                  <unitdatestructured altrender="1995-1996" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995">1995</fromdate>
+                        <todate standarddate="1996">1996</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_7fc39654b7e021ffc81db8b57250f661">Folder 45: 11 items</physdesc>
+                  <physdesc id="aspace_bf1de60d219582be67e49038dd594941">Folder 46: 22 items</physdesc>
+                  <physdesc id="aspace_bb263cc1ecd02d4b4761e98336f53db1">Folder 47: 23 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14588 /locations/9"
+                             containerid="39002091386376"
+                             id="aspace_ref110_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref110_c2" localtype="folder" parent="aspace_ref110_c1">45-47</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139935"
+               id="ref114"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1996-1997</unittitle>
+                  <unitdatestructured altrender="1996-1997" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1996">1996</fromdate>
+                        <todate standarddate="1997">1997</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e31074a7bf26ec18ec735e532b4ceed0">Folder 48: 33 items</physdesc>
+                  <physdesc id="aspace_bc76f58eaf49103e8faec1d111d15c26">Folder 49: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14588 /locations/9"
+                             containerid="39002091386376"
+                             id="aspace_ref114_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref114_c2" localtype="folder" parent="aspace_ref114_c1">48-49</container>
+               </did>
+               <scopecontent id="aspace_6d8347e1e310a25bbcb0f51b8f672fa5">
+                  <head>Scope and Contents</head>
+                  <p>Folder 48 includes a Yale Cabaret promotional toothbrush.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139936"
+               id="ref118"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1997-1998</unittitle>
+                  <unitdatestructured altrender="1997-1998" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1997">1997</fromdate>
+                        <todate standarddate="1998">1998</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_a047d12c096bb55da143d78e651b4317">Folder 50: 18 items</physdesc>
+                  <physdesc id="aspace_427e2048ade966b677e2824385020fe6">Folder 51: 13 items</physdesc>
+                  <physdesc id="aspace_6d33d00c8c291207cbcd631bbff47b7a">Folder 52: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14589 /locations/9"
+                             containerid="39002091386368"
+                             id="aspace_ref118_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref118_c2" localtype="folder" parent="aspace_ref118_c1">50-52</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139937"
+               id="ref122"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1998-1999</unittitle>
+                  <unitdatestructured altrender="1998-1999" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1998">1998</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_62d8a2d6dff5c0e58042ef691470da03">Folder 53: 22 items</physdesc>
+                  <physdesc id="aspace_fbe6f4ee0071dd1817b012e8d764d706">Folder 54: 17 items</physdesc>
+                  <physdesc id="aspace_6f8bc881ccebfcbcaba99eea10215042">Folder 55: 8 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14589 /locations/9"
+                             containerid="39002091386368"
+                             id="aspace_ref122_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref122_c2" localtype="folder" parent="aspace_ref122_c1">53-55</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139938"
+               id="ref126"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 1999-2000</unittitle>
+                  <unitdatestructured altrender="1999-2000" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1999">1999</fromdate>
+                        <todate standarddate="2000">2000</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_3234f438394f1183649e67e1b8260d0e">Folder 56: 27 items</physdesc>
+                  <physdesc id="aspace_30fe1e71821970f136fcc012ee8e0fe5">Folder 57: 31 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14589 /locations/9"
+                             containerid="39002091386368"
+                             id="aspace_ref126_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref126_c2" localtype="folder" parent="aspace_ref126_c1">56-57</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139939"
+               id="ref129"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2000-2001</unittitle>
+                  <unitdatestructured altrender="2000-2001" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2000">2000</fromdate>
+                        <todate standarddate="2001">2001</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_965adca747c33334981c874bc13d681d">Folder 58: 25 items</physdesc>
+                  <physdesc id="aspace_2f6e0cae7b33e3c0c317a800d9dc7e3f">Folder 59: 20 items</physdesc>
+                  <physdesc id="aspace_7db330f79b22b28304ba96ca13e16fa6">Folder 60: 21 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14589 /locations/9"
+                             containerid="39002091386368"
+                             id="aspace_ref129_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref129_c2" localtype="folder" parent="aspace_ref129_c1">58-60</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139940"
+               id="ref133"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2001-2002</unittitle>
+                  <unitdatestructured altrender="2001-2002" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2001">2001</fromdate>
+                        <todate standarddate="2002">2002</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_077de01821640ca9828846afe232fdbb">Folder 61: 24 items</physdesc>
+                  <physdesc id="aspace_50634a290205038e8fa10354181f882e">Folder 62: 22 items</physdesc>
+                  <physdesc id="aspace_15599a0d74eba26a4d261cc98a12fd04">Folder 63: 20 items</physdesc>
+                  <physdesc id="aspace_cc8fcce8e20c849cbab0cfc25ab19c0c">Folder 64: 14 items</physdesc>
+                  <physdesc id="aspace_a8baf8f5257047a95b013fafa31307da">Folder 65: 1 item</physdesc>
+                  <container altrender="/repositories/12/top_containers/14589 /locations/9"
+                             containerid="39002091386368"
+                             id="aspace_ref133_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref133_c2" localtype="folder" parent="aspace_ref133_c1">61-65</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139941"
+               id="ref139"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2002-2003</unittitle>
+                  <unitdatestructured altrender="2002-2003" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2002">2002</fromdate>
+                        <todate standarddate="2003">2003</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6f8b358caf0a16e6dd9ccd2d0e100991">Folder 66: 22 items</physdesc>
+                  <physdesc id="aspace_ef1ac35bb619654ca6a870863b5d77b4">Folder 67: 12 items</physdesc>
+                  <physdesc id="aspace_4d17bf6dda3db8dcfc9d113966bda011">Folder 68: 16 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14589 /locations/9"
+                             containerid="39002091386368"
+                             id="aspace_ref139_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref139_c2" localtype="folder" parent="aspace_ref139_c1">66-68</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139942"
+               id="ref143"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2003-2004</unittitle>
+                  <unitdatestructured altrender="2003-2004" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2003">2003</fromdate>
+                        <todate standarddate="2004">2004</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d2ee3230415dc966a9fa7c9962267123">Folder 69: 26 items</physdesc>
+                  <physdesc id="aspace_7a5f026d4c369d6f685bdf1f97ce3640">Folder 70: 29 items</physdesc>
+                  <physdesc id="aspace_4b2dffd702c28e1220df52992f3ee6c1">Folder 71: 21 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14590 /locations/9"
+                             containerid="39002091386350"
+                             id="aspace_ref143_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+                  <container id="aspace_ref143_c2" localtype="folder" parent="aspace_ref143_c1">69-71</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139943"
+               id="ref147"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2004-2005</unittitle>
+                  <unitdatestructured altrender="2004-2005" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2004">2004</fromdate>
+                        <todate standarddate="2005">2005</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_04b64ed6f03e41e9c81ec01e4ca35b9f">Folder 72: 29 items</physdesc>
+                  <physdesc id="aspace_e299cc132401ce4e19d485e15798cc79">Folder 73: 32 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14590 /locations/9"
+                             containerid="39002091386350"
+                             id="aspace_ref147_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+                  <container id="aspace_ref147_c2" localtype="folder" parent="aspace_ref147_c1">72-73</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139944"
+               id="ref150"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2005-2006</unittitle>
+                  <unitdatestructured altrender="2005-2006" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2005">2005</fromdate>
+                        <todate standarddate="2006">2006</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e107d0da08368b6f13f1c67c57ec6dae">Folder 74: 50 items</physdesc>
+                  <physdesc id="aspace_6447c681082cd1fb3053b29f6640e6aa">Folder 75: 32 items</physdesc>
+                  <physdesc id="aspace_0ae81057c4b5ab781a377a59b8f72da1">Folder 76: 25 items</physdesc>
+                  <physdesc id="aspace_603abde3d5469225c3870faf5c58f0ad">Folder 77: 25 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14590 /locations/9"
+                             containerid="39002091386350"
+                             id="aspace_ref150_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+                  <container id="aspace_ref150_c2" localtype="folder" parent="aspace_ref150_c1">74-77</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139945"
+               id="ref155"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2006-2007</unittitle>
+                  <unitdatestructured altrender="2006-2007" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2006">2006</fromdate>
+                        <todate standarddate="2007">2007</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_a923678b1a7bb3401ba2a8b67d85d5dd">Folder 78: 42 items</physdesc>
+                  <physdesc id="aspace_ef11656b148af5d20cd3040de4166a10">Folder 79: 45 items</physdesc>
+                  <physdesc id="aspace_43a6c9be10fa530d456bd54d65f18787">Folder 80: 30 items</physdesc>
+                  <physdesc id="aspace_0040d9d13106de7db56eca2f27d4dc52">Folder 81: 39 items</physdesc>
+                  <physdesc id="aspace_8dddef06dc3abf585db7be2d9ca99044">Folder 82: 34 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14590 /locations/9"
+                             containerid="39002091386350"
+                             id="aspace_ref155_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+                  <container id="aspace_ref155_c2" localtype="folder" parent="aspace_ref155_c1">78-82</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139946"
+               id="ref161"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2007-2008</unittitle>
+                  <unitdatestructured altrender="2007-2008" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2007">2007</fromdate>
+                        <todate standarddate="2008">2008</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_8baaccb60281ceb093e758308875c39b">Folder 83: 26 items</physdesc>
+                  <physdesc id="aspace_b06d92ebe159b1f13635c0b551db93fd">Folder 84: 40 items</physdesc>
+                  <physdesc id="aspace_3fd6f093e7a97158784d7d193c513ef2">Folder 85: 75 items</physdesc>
+                  <physdesc id="aspace_29a60d565ef35ec382c7229fbfad1015">Folder 86: 40 items</physdesc>
+                  <physdesc id="aspace_cb8e4aafc3c77ba229e6588d6ace4c3c">Folder 87: 25 items</physdesc>
+                  <physdesc id="aspace_15b14a9d9cebb7eb14595333c9b3fa78">Folder 88: 40 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14591 /locations/9"
+                             containerid="39002091386343"
+                             id="aspace_ref161_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+                  <container id="aspace_ref161_c2" localtype="folder" parent="aspace_ref161_c1">83-88</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/139947"
+               id="ref168"
+               level="file">
+               <did>
+                  <unittitle>Yale Cabaret ephemera, 2008-2009</unittitle>
+                  <unitdatestructured altrender="2008-2009" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2008">2008</fromdate>
+                        <todate standarddate="2009">2009</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_a71a08e99d526b9ea605ce9e7a37a043">Folder 89: 28 items</physdesc>
+                  <physdesc id="aspace_be88ef5796ff4985464431cf73abfc6d">Folder 90: 32 items</physdesc>
+                  <physdesc id="aspace_74e4eb1be91b501b9da667aa7147bb37">Folder 91: 25 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14591 /locations/9"
+                             containerid="39002091386343"
+                             id="aspace_ref168_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+                  <container id="aspace_ref168_c2" localtype="folder" parent="aspace_ref168_c1">89-91</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2314003"
+               id="aspace_f0e9750888a858be4ec1f0e0649084a4"
+               level="file">
+               <did>
+                  <unittitle>Show posters</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>19</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured label="creation" unitdatetype="bulk">
+                     <daterange>
+                        <fromdate standarddate="2013">2013</fromdate>
+                        <todate standarddate="2014">2014</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14591 /locations/9"
+                             containerid="39002091386343"
+                             id="aspace_f0e9750888a858be4ec1f0e0649084a4_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+                  <container id="aspace_f0e9750888a858be4ec1f0e0649084a4_c2"
+                             localtype="folder"
+                             parent="aspace_f0e9750888a858be4ec1f0e0649084a4_c1">92</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

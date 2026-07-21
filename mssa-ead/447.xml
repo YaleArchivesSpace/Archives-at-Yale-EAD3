@@ -1,0 +1,2583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0037">arts.dra.0037</recordid>
+      <otherrecordid localtype="BIB">9901089</otherrecordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Yale Repertory Theatre and Yale School of Drama Ephemera Collection
+ </titleproper>
+            <titleproper localtype="filing">Yale Repertory Theatre and Yale School of Drama Ephemera Collection</titleproper>
+            <author>Compiled by Monica Achen</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <date>2011</date>
+            <num>DRA 37</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9901089</num>.</p>
+            </controlnote>
+            <controlnote localtype="offsite">
+               <p>Boxes: 1-23</p>
+            </controlnote>
+            <controlnote localtype="onsite">
+               <p>Folder: 1</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+         <descriptivenote>
+            <p>Finding aid written in English.</p>
+         </descriptivenote>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-07-21T03:02:28-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/447" level="collection">
+      <did>
+         <unittitle>Yale Repertory Theatre and Yale School of Drama Ephemera Collection</unittitle>
+         <unitid>DRA 37</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>8.75</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">22 boxes</physdesc>
+         <unitdatestructured altrender="1925-2013" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1925">1925</fromdate>
+               <todate standarddate="2010">2010</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_5d3e93499cbf3141ca3bf7838d437bb4">This collection contains ephemera pertaining to Yale Repertory Theatre, Yale School of Drama, and other undergraduate theater organizations at Yale University.</abstract>
+      </did>
+      <acqinfo id="aspace_8f40837d8541141684131ad16746087e">
+         <head>Immediate Source of Acquisition</head>
+         <p>The Yale Repertory Theatre and Yale School of Drama Ephemera Collection was housed in the former Drama Library until its transfer to the Robert B. Haas Family Arts Library in 2008.</p>
+      </acqinfo>
+      <accessrestrict id="aspace_190ddeea5bad2a2f7cfe7f6bd64d9f74">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_639e46c589bf201df583c020a94bede9">
+         <head>Conditions Governing Use</head>
+         <p>Copyright has not been transferred to Yale University.</p>
+      </userestrict>
+      <prefercite id="aspace_b80b3fe8f2e0ab1086326ef717b60021">
+         <head>Preferred Citation</head>
+         <p>Yale Repertory Theatre and Yale School of Drama Ephemera Collection, Robert B. Haas Family Arts Library, Yale University.</p>
+      </prefercite>
+      <scopecontent id="aspace_c32e17cd37227bed46f45cc4cab30464">
+         <head>Scope and Contents</head>
+         <p>This collection consists of the following ephemeral materials pertaining to Yale Repertory Theatre (YRT) and Yale School of Drama (YSD): theater programs; course catalogues; brochures; posters; student registration lists and directories; rehearsal, production, and course schedules; cast lists; commencement programs; newsletters; clippings; league scenes programs; holiday cards; and materials relating to guest performances sponsored by YRT and YSD. The collection also includes a few items pertaining to the Yale Dramatic Association (also known as the Dramat) and other undergraduate theater organizations and performances.</p>
+      </scopecontent>
+      <arrangement id="aspace_a739d376fcc657728a3b7fb1470e789b">
+         <head>Arrangement</head>
+         <p>Arranged chronologically by year, then month and day. Materials with year-only information are filed after items arranged by month and day. Notes have been provided for any folders containing materials other than YRT and YSD ephemera.</p>
+      </arrangement>
+      <controlaccess>
+         <genreform identifier="http://vocab.getty.edu/aat/300264821" source="aat">
+            <part localtype="genre_form">Printed ephemera</part>
+         </genreform>
+         <genreform identifier="http://vocab.getty.edu/aat/300027217" source="aat">
+            <part localtype="genre_form">Theater programs</part>
+         </genreform>
+         <corpname rules="aacr">
+            <part localtype="agent_corporate_entity">Yale Repertory Theatre</part>
+         </corpname>
+         <corpname>
+            <part localtype="agent_corporate_entity">Yale School of Drama</part>
+         </corpname>
+         <corpname rules="aacr">
+            <part localtype="agent_corporate_entity">Yale University. Dramatic Association</part>
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/12/archival_objects/140148"
+            id="ref9"
+            level="series">
+            <did>
+               <unittitle>Box listing</unittitle>
+            </did>
+            <c altrender="/repositories/12/archival_objects/140149"
+               id="ref10"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>7</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1925-1926" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1925">1925</fromdate>
+                        <todate standarddate="1926">1926</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref10_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref10_c2" localtype="folder" parent="aspace_ref10_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140150"
+               id="ref12"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1926-1927" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1926">1926</fromdate>
+                        <todate standarddate="1927">1927</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_700fdc0379f626fda3e04ba2d28b97bd">Folder 2: 10 items</physdesc>
+                  <physdesc id="aspace_5d05218fb40da30947ff546cccfc480d">Folder 3: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref12_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref12_c2" localtype="folder" parent="aspace_ref12_c1">2-3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140151"
+               id="ref15"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1927-1928" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1927">1927</fromdate>
+                        <todate standarddate="1928">1928</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e02b362e924a2f9c0e18c0d446d027fe">Folder 4: 10 items</physdesc>
+                  <physdesc id="aspace_020e639ba916cab86309125908f34c3c">Folder 5: 4 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref15_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref15_c2" localtype="folder" parent="aspace_ref15_c1">4-5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140152"
+               id="ref18"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>6</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1928-1929" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1928">1928</fromdate>
+                        <todate standarddate="1929">1929</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref18_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref18_c2" localtype="folder" parent="aspace_ref18_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140153"
+               id="ref20"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>8</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1929-1930" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1929">1929</fromdate>
+                        <todate standarddate="1930">1930</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref20_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref20_c2" localtype="folder" parent="aspace_ref20_c1">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140154"
+               id="ref22"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>8</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1930-1931" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1930">1930</fromdate>
+                        <todate standarddate="1931">1931</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref22_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref22_c2" localtype="folder" parent="aspace_ref22_c1">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140155"
+               id="ref24"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>10</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1931-1933" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1931">1931</fromdate>
+                        <todate standarddate="1933">1933</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref24_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref24_c2" localtype="folder" parent="aspace_ref24_c1">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140156"
+               id="ref26"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>9</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1933-1934" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1933">1933</fromdate>
+                        <todate standarddate="1934">1934</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref26_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref26_c2" localtype="folder" parent="aspace_ref26_c1">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140157"
+               id="ref28"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>8</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1934-1935" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1934">1934</fromdate>
+                        <todate standarddate="1935">1935</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref28_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref28_c2" localtype="folder" parent="aspace_ref28_c1">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140158"
+               id="ref30"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>10</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1935-1937" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1935">1935</fromdate>
+                        <todate standarddate="1937">1937</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref30_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref30_c2" localtype="folder" parent="aspace_ref30_c1">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140159"
+               id="ref32"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>12</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1937-1940" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1937">1937</fromdate>
+                        <todate standarddate="1940">1940</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref32_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref32_c2" localtype="folder" parent="aspace_ref32_c1">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140160"
+               id="ref34"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>11</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1940-1942" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1940">1940</fromdate>
+                        <todate standarddate="1942">1942</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref34_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref34_c2" localtype="folder" parent="aspace_ref34_c1">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140161"
+               id="ref36"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>12</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1942-1945" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1942">1942</fromdate>
+                        <todate standarddate="1945">1945</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref36_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref36_c2" localtype="folder" parent="aspace_ref36_c1">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140162"
+               id="ref38"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>10</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1945-1947" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1945">1945</fromdate>
+                        <todate standarddate="1947">1947</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref38_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref38_c2" localtype="folder" parent="aspace_ref38_c1">16</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140163"
+               id="ref40"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>12</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1947-1948" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1947">1947</fromdate>
+                        <todate standarddate="1948">1948</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref40_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref40_c2" localtype="folder" parent="aspace_ref40_c1">17</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140164"
+               id="ref42"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1948-1949" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1948">1948</fromdate>
+                        <todate standarddate="1949">1949</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_b377db43635e8d9492cfd3263bf494de">Folder 18: 9 items</physdesc>
+                  <physdesc id="aspace_b237cc1ce4e7d7af944549d06eefe50a">Folder 19: 6 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref42_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref42_c2" localtype="folder" parent="aspace_ref42_c1">18-19</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140165"
+               id="ref45"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>15</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1949-1950" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1949">1949</fromdate>
+                        <todate standarddate="1950">1950</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14603 /locations/9"
+                             containerid="39002075065681"
+                             id="aspace_ref45_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref45_c2" localtype="folder" parent="aspace_ref45_c1">20</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140166"
+               id="ref47"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1950-1951" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1950">1950</fromdate>
+                        <todate standarddate="1951">1951</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_35d9ea3a5346fb12f39407da92461580">Folder 21: 10 items</physdesc>
+                  <physdesc id="aspace_f31c00feab0c681671ffa6eafb3176b2">Folder 22: 8 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref47_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref47_c2" localtype="folder" parent="aspace_ref47_c1">21-22</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140167"
+               id="ref50"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1951-1952" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1951">1951</fromdate>
+                        <todate standarddate="1952">1952</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_5ad8fc80f5c75b628b615f660e8fc07f">Folder 23: 10 items</physdesc>
+                  <physdesc id="aspace_effb90a42b051349af7fde720c12fe56">Folder 24: 7 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref50_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref50_c2" localtype="folder" parent="aspace_ref50_c1">23-24</container>
+               </did>
+               <scopecontent id="aspace_fa138e3c53382584f5f77e99b2da960f">
+                  <head>Scope and Contents</head>
+                  <p>Folder 24 includes a Dramat program.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140168"
+               id="ref54"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1952-1953" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1952">1952</fromdate>
+                        <todate standarddate="1953">1953</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_0214e5e3697891d8b5699acf06784ec5">Folder 25: 10 items</physdesc>
+                  <physdesc id="aspace_7764cfa0a537e56c4cd1d4348cd49d3d">Folder 26: 6 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref54_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref54_c2" localtype="folder" parent="aspace_ref54_c1">25-26</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140169"
+               id="ref57"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>15</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1953-1954" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1953">1953</fromdate>
+                        <todate standarddate="1954">1954</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref57_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref57_c2" localtype="folder" parent="aspace_ref57_c1">27</container>
+               </did>
+               <scopecontent id="aspace_d2fbfe684d16d593787b4e831c3455cd">
+                  <head>Scope and Contents</head>
+                  <p>Folder 27 includes a Dramat program.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140170"
+               id="ref60"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1954-1955" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1954">1954</fromdate>
+                        <todate standarddate="1955">1955</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_8eecab3bdff55cd82ec0c8db090750fa">Folder 28: 9 items</physdesc>
+                  <physdesc id="aspace_17b7f53ae2ec26087f27b82d0ae6298c">Folder 29: 9 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref60_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref60_c2" localtype="folder" parent="aspace_ref60_c1">28-29</container>
+               </did>
+               <scopecontent id="aspace_0db89d370b43d82034051c8c0fee0fd8">
+                  <head>Scope and Contents</head>
+                  <p>Folder 29 includes a Dramat program.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140171"
+               id="ref64"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>15</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1955-1956" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1955">1955</fromdate>
+                        <todate standarddate="1956">1956</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref64_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref64_c2" localtype="folder" parent="aspace_ref64_c1">30</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140172"
+               id="ref66"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>11</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1956-1957" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1956">1956</fromdate>
+                        <todate standarddate="1957">1957</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref66_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref66_c2" localtype="folder" parent="aspace_ref66_c1">31</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140173"
+               id="ref68"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>14</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1957-1958" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1957">1957</fromdate>
+                        <todate standarddate="1958">1958</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref68_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref68_c2" localtype="folder" parent="aspace_ref68_c1">32</container>
+               </did>
+               <scopecontent id="aspace_04bd7d8ccb9ee14d851b9ce544dc8dbf">
+                  <head>Scope and Contents</head>
+                  <p>Folder 32 includes Dramat programs.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140174"
+               id="ref71"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>14</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1958-1959" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1958">1958</fromdate>
+                        <todate standarddate="1959">1959</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref71_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref71_c2" localtype="folder" parent="aspace_ref71_c1">33</container>
+               </did>
+               <scopecontent id="aspace_caa99476e2f4a34fd4983a6e4177dc60">
+                  <head>Scope and Contents</head>
+                  <p>Folder 33 includes Dramat materials.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140175"
+               id="ref74"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>9</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1959-1960" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1959">1959</fromdate>
+                        <todate standarddate="1960">1960</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref74_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref74_c2" localtype="folder" parent="aspace_ref74_c1">34</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140176"
+               id="ref76"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1960-1961" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1960">1960</fromdate>
+                        <todate standarddate="1961">1961</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_380ebe828e12704ff33eb97c1b00d39a">Folder 35: 10 items</physdesc>
+                  <physdesc id="aspace_5287ba9d694d0c66e6f73b8125e56fb9">Folder 36: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14604 /locations/9"
+                             containerid="39002075065673"
+                             id="aspace_ref76_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref76_c2" localtype="folder" parent="aspace_ref76_c1">35-36</container>
+               </did>
+               <scopecontent id="aspace_cd5f3b107d6a9baa08e9eb38b5e5a8c8">
+                  <head>Scope and Contents</head>
+                  <p>Folder 36 includes Dramat programs and a brochure.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140177"
+               id="ref80"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1961-1962" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1961">1961</fromdate>
+                        <todate standarddate="1962">1962</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_79c2bc28e79e542cdcab21524142256d">Folder 37: 10 items</physdesc>
+                  <physdesc id="aspace_e1aa551948ff4210e1d27a1f6248472a">Folder 38: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14605 /locations/9"
+                             containerid="39002075065665"
+                             id="aspace_ref80_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_ref80_c2" localtype="folder" parent="aspace_ref80_c1">37-38</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140178"
+               id="ref83"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1962-1963" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1962">1962</fromdate>
+                        <todate standarddate="1963">1963</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_3fc454fc35f7af28b28fa957b5c158e7">Folder 39: 10 items</physdesc>
+                  <physdesc id="aspace_14104cb05c36b7696deaf7de72712da5">Folder 40: 10 items</physdesc>
+                  <physdesc id="aspace_99717c8f74916efe2f5283b6a04c1ef4">Folder 41: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14605 /locations/9"
+                             containerid="39002075065665"
+                             id="aspace_ref83_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_ref83_c2" localtype="folder" parent="aspace_ref83_c1">39-41</container>
+               </did>
+               <scopecontent id="aspace_a10ef2ef33878eedf89ba58d5fe0fe0f">
+                  <head>Scope and Contents</head>
+                  <p>Folder 41 includes Dramat materials and a brochure for the Yale Drama Festival. See also a hand-written note to F. Curtis Canfield on verso of one sheet of the production schedule.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140179"
+               id="ref88"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1963-1964" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1963">1963</fromdate>
+                        <todate standarddate="1964">1964</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e8dc92fd9bf415b41942529a84ce4992">Folder 42: 10 items</physdesc>
+                  <physdesc id="aspace_9780afdf6a36a6603fbc9ad2ed358755">Folder 43: 8 items</physdesc>
+                  <physdesc id="aspace_ffdaaa5358f8771c32f0fdf0ad50e892">Folder 44: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14605 /locations/9"
+                             containerid="39002075065665"
+                             id="aspace_ref88_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_ref88_c2" localtype="folder" parent="aspace_ref88_c1">42-44</container>
+               </did>
+               <scopecontent id="aspace_0ccd854e2f7f4a98c5d2ed75ed171c5d">
+                  <head>Scope and Contents</head>
+                  <p>Folder 44 includes Dramat and Yale Drama Festival materials.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140180"
+               id="ref93"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1964-1965" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1964">1964</fromdate>
+                        <todate standarddate="1965">1965</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_8c49062cfa977af16e1122c80ed566d7">Folder 45: 11 items</physdesc>
+                  <physdesc id="aspace_6d0c12597941f30b5dc3e613840b20b5">Folder 46: 10 items</physdesc>
+                  <physdesc id="aspace_4d8d839091fb5978fe284ea87e54fc8f">Folder 47: 7 items</physdesc>
+                  <physdesc id="aspace_5ed93aa665a3e59b199c2f17a536423b">Folder 48: 6 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14605 /locations/9"
+                             containerid="39002075065665"
+                             id="aspace_ref93_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_ref93_c2" localtype="folder" parent="aspace_ref93_c1">45-48</container>
+               </did>
+               <scopecontent id="aspace_528e42742507a48ccbe4216f350f5508">
+                  <head>Scope and Contents</head>
+                  <p>Folder 48 includes Dramat and Yale Drama Festival materials.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140181"
+               id="ref99"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1965-1966" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1965">1965</fromdate>
+                        <todate standarddate="1966">1966</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_76c9986f838413e4ff06df9c4daf4f8b">Folder 49: 11 items</physdesc>
+                  <physdesc id="aspace_a8b72d99b23ccc9aa2a146ea1f3f1ed3">Folder 50: 9 items</physdesc>
+                  <physdesc id="aspace_244dc10354e93142392735eea05fb1ba">Folder 51: 10 items</physdesc>
+                  <physdesc id="aspace_a1e6ebb973e5dbd85b7a239bfbb2ddf3">Folder 52: 6 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14606 /locations/9"
+                             containerid="39002075065657"
+                             id="aspace_ref99_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref99_c2" localtype="folder" parent="aspace_ref99_c1">49-52</container>
+               </did>
+               <scopecontent id="aspace_251a3c3284066be437de735bc763b189">
+                  <head>Scope and Contents</head>
+                  <p>Folder 52 includes Dramat and Yale Drama Festival materials.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140182"
+               id="ref105"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1966-1967" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1966">1966</fromdate>
+                        <todate standarddate="1967">1967</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_0a168925a443f9b673e8af9c27eaebdb">Folder 53: 10 items</physdesc>
+                  <physdesc id="aspace_060dadd0a2de3b6da4882d1262da9e41">Folder 54: 12 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14606 /locations/9"
+                             containerid="39002075065657"
+                             id="aspace_ref105_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref105_c2" localtype="folder" parent="aspace_ref105_c1">53-54</container>
+               </did>
+               <scopecontent id="aspace_b3978bc0524a2e1791a0b3eb358a7857">
+                  <head>Scope and Contents</head>
+                  <p>Folder 54 includes Dramat and Yale Drama Festival materials.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140183"
+               id="ref109"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1967-1968" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1967">1967</fromdate>
+                        <todate standarddate="1968">1968</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_b690db94c6b96895ea50f82d357bf7c7">Folder 55: 11 items</physdesc>
+                  <physdesc id="aspace_530ea4d1bffc35741dc39389451af43a">Folder 56: 6 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14606 /locations/9"
+                             containerid="39002075065657"
+                             id="aspace_ref109_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref109_c2" localtype="folder" parent="aspace_ref109_c1">55-56</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140184"
+               id="ref112"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1968-1969" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1968">1968</fromdate>
+                        <todate standarddate="1969">1969</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_4b28ea59a377bfb31b5f71c228954b8f">Folder 57: 11 items</physdesc>
+                  <physdesc id="aspace_a172663b2db08091d09dd03253fafa8d">Folder 58: 12 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14606 /locations/9"
+                             containerid="39002075065657"
+                             id="aspace_ref112_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref112_c2" localtype="folder" parent="aspace_ref112_c1">57-58</container>
+               </did>
+               <scopecontent id="aspace_11c5e8442ce91164701ed77324044bc4">
+                  <head>Scope and Contents</head>
+                  <p>Folder 57 includes a speech by Robert Brustein given to the School of Drama, minutes from a faculty meeting, and a memo on student discipline. Folder 58 includes materials relating to the cancellation of Sam Shepard's <title localtype="simple" render="italic">
+                        <part>Operation Sidewinder</part>
+                     </title> and a Yale Drama Festival brochure.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140185"
+               id="ref116"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1969">1969</fromdate>
+                        <todate standarddate="1970">1970</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_7197ca2add29ff8776748d5384e951fa">Folder 59: 11 items</physdesc>
+                  <physdesc id="aspace_96ef12ff46b283d36facbfdfd8cec786">Folder 60: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14606 /locations/9"
+                             containerid="39002075065657"
+                             id="aspace_ref116_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_ref116_c2" localtype="folder" parent="aspace_ref116_c1">59-60</container>
+               </did>
+               <scopecontent id="aspace_8d5546b04e3a184c83f5571d67432e0f">
+                  <head>Scope and Contents</head>
+                  <p>Folder 60 includes a Dramat program.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140186"
+               id="ref120"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1971">1971</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_26957e451e3cd4a8067093693d9102e2">Folder 61: 11 items</physdesc>
+                  <physdesc id="aspace_a4a777bfeb370b88176ed4bdc6d6c6f5">Folder 62: 10 items</physdesc>
+                  <physdesc id="aspace_61be2accee26db3274feace933d690f6">Folder 63: 10 items</physdesc>
+                  <physdesc id="aspace_e0ae4e202002d1b1c9eab0f164df7642">Folder 64: 7 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14607 /locations/9"
+                             containerid="39002091386608"
+                             id="aspace_ref120_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref120_c2" localtype="folder" parent="aspace_ref120_c1">61-64</container>
+               </did>
+               <scopecontent id="aspace_86fcf24cda8fd0e7b935294f6a92b572">
+                  <head>Scope and Contents</head>
+                  <p>Folder 63 includes a commencement address by Robert Brustein.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140187"
+               id="ref126"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1971-1972" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1971">1971</fromdate>
+                        <todate standarddate="1972">1972</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_88982505ed35076b0c85d05c96ca5943">Folder 65: 10 items</physdesc>
+                  <physdesc id="aspace_9d665b453878c94907581891c27d71fd">Folder 66: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14607 /locations/9"
+                             containerid="39002091386608"
+                             id="aspace_ref126_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref126_c2" localtype="folder" parent="aspace_ref126_c1">65-66</container>
+               </did>
+               <scopecontent id="aspace_20105166aefd28ddd88171c4cf3df5aa">
+                  <head>Scope and Contents</head>
+                  <p>Folder 66 includes Dramat programs.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140188"
+               id="ref130"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1972-1973" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1972">1972</fromdate>
+                        <todate standarddate="1973">1973</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2ffa4a1db88cbf74079cc47b55fe91b9">Folder 208: 11 items</physdesc>
+                  <physdesc id="aspace_94af799aed4d761497146e2dfe5318de">Folder 209: 10 items</physdesc>
+                  <physdesc id="aspace_bc750c7807d13e377616541df1ec4fc0">Folder 210: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14608 /locations/9"
+                             containerid="39002091386491"
+                             id="aspace_ref130_c1"
+                             label="Mixed Materials"
+                             localtype="box">16</container>
+                  <container id="aspace_ref130_c2" localtype="folder" parent="aspace_ref130_c1">208-210</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140189"
+               id="ref134"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1973-1974" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1973">1973</fromdate>
+                        <todate standarddate="1974">1974</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_4d5e4bb574c8a9ebec75a011984cf7e4">Folder 211: 12 items</physdesc>
+                  <physdesc id="aspace_469f29c259238ced43f5d030db416e3f">Folder 212: 9 items</physdesc>
+                  <physdesc id="aspace_4aa44b7ce385bbe19c93adce4a2e28f2">Folder 213: 8 items</physdesc>
+                  <physdesc id="aspace_be363e394e89451f385cb74eddadaa4f">Folder 214: 6 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14608 /locations/9"
+                             containerid="39002091386491"
+                             id="aspace_ref134_c1"
+                             label="Mixed Materials"
+                             localtype="box">16</container>
+                  <container id="aspace_ref134_c2" localtype="folder" parent="aspace_ref134_c1">211-214</container>
+               </did>
+               <scopecontent id="aspace_4a2182dac745d5b9d8776e68a3d7381b">
+                  <head>Scope and Contents</head>
+                  <p>Folder 212 includes a commencement address by Robert Brustein. Folder 214 includes a program and clipping from a Yale undergraduate production.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140190"
+               id="ref140"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1974-1975" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1974">1974</fromdate>
+                        <todate standarddate="1975">1975</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e111278bfbc846f5d612822572c28be3">Folder 215: 9 items</physdesc>
+                  <physdesc id="aspace_138cd10279933b0f454c2c1a1f42493b">Folder 216: 8 items</physdesc>
+                  <physdesc id="aspace_14ac1001cbfcf009786d8fdcff8a2caa">Folder 217: 6 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14608 /locations/9"
+                             containerid="39002091386491"
+                             id="aspace_ref140_c1"
+                             label="Mixed Materials"
+                             localtype="box">16</container>
+                  <container id="aspace_ref140_c2" localtype="folder" parent="aspace_ref140_c1">215-217</container>
+               </did>
+               <scopecontent id="aspace_8dc81f2100ce0599a53b6bd8f3787966">
+                  <head>Scope and Contents</head>
+                  <p>Folder 217 includes Dramat programs and programs from performances given during the Fourth International Congress on Enlightenment.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140191"
+               id="ref145"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1975-1976" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1976">1976</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_613e612051f540e3703966f6659fa7a7">Folder 218: 10 items</physdesc>
+                  <physdesc id="aspace_c42438ab9fd8a02e4baf0622071997ae">Folder 219: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14608 /locations/9"
+                             containerid="39002091386491"
+                             id="aspace_ref145_c1"
+                             label="Mixed Materials"
+                             localtype="box">16</container>
+                  <container id="aspace_ref145_c2" localtype="folder" parent="aspace_ref145_c1">218-219</container>
+               </did>
+               <scopecontent id="aspace_b6464b50e8ae268fe6c32f081cf14f81">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 17.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140192"
+               id="ref149"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1975-1976" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1975">1975</fromdate>
+                        <todate standarddate="1976">1976</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_04ef942557745849282bb33e124a0a1a">Folder 220: 10 items</physdesc>
+                  <physdesc id="aspace_a79c8b5134e984a77200b0cc5819f4d8">Folder 221: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14609 /locations/9"
+                             containerid="39002091386483"
+                             id="aspace_ref149_c1"
+                             label="Mixed Materials"
+                             localtype="box">17</container>
+                  <container id="aspace_ref149_c2" localtype="folder" parent="aspace_ref149_c1">220-221</container>
+               </did>
+               <scopecontent id="aspace_281ff9a52438848a2a7f48ae895849d4">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 16.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140193"
+               id="ref153"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1976-1977" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1976">1976</fromdate>
+                        <todate standarddate="1977">1977</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e5f381e459f3ad7e2aa0e36f63103961">Folder 222: 10 items</physdesc>
+                  <physdesc id="aspace_da39eb537427bd74b04c21c4bfc087f7">Folder 223: 10 items</physdesc>
+                  <physdesc id="aspace_02257d060348346c5f7a791725904727">Folder 224: 9 items</physdesc>
+                  <physdesc id="aspace_6f2d6a32a2a1f2b25e1745f1da2569df">Folder 225: 10 items</physdesc>
+                  <physdesc id="aspace_eecf1c8d9dea2dcfa8d831619c2d7098">Folder 226: 9 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14609 /locations/9"
+                             containerid="39002091386483"
+                             id="aspace_ref153_c1"
+                             label="Mixed Materials"
+                             localtype="box">17</container>
+                  <container id="aspace_ref153_c2" localtype="folder" parent="aspace_ref153_c1">222-226</container>
+               </did>
+               <scopecontent id="aspace_b3ba087020390bcdf765925069531a29">
+                  <head>Scope and Contents</head>
+                  <p>Folder 226 includes Dramat materials.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140194"
+               id="ref160"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1977-1978" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1977">1977</fromdate>
+                        <todate standarddate="1978">1978</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_afd214407624dd16abb911e5dc14c38f">Folder 227: 11 items</physdesc>
+                  <physdesc id="aspace_12970a664bf422e432f84a91cd160d84">Folder 228: 10 items</physdesc>
+                  <physdesc id="aspace_25eb44140db7bbbdc8c00cb9be6cff22">Folder 229: 10 items</physdesc>
+                  <physdesc id="aspace_02df03d0ae46d3691496b7cd461aa64c">Folder 230: 9 items</physdesc>
+                  <physdesc id="aspace_9dbfcb0cfa6b9c328aa87bd323c94a64">Folder 231: 5 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14609 /locations/9"
+                             containerid="39002091386483"
+                             id="aspace_ref160_c1"
+                             label="Mixed Materials"
+                             localtype="box">17</container>
+                  <container id="aspace_ref160_c2" localtype="folder" parent="aspace_ref160_c1">227-231</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140195"
+               id="ref166"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1978-1979" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1978">1978</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_8d9cac718def579204d091ee04fc6bba">Folder 232: 11 items</physdesc>
+                  <physdesc id="aspace_61b319bf18635db6fe3e623f92d1e1e5">Folder 233: 10 items</physdesc>
+                  <physdesc id="aspace_d0f6b081136b252643f1beb22482420c">Folder 234: 7 items</physdesc>
+                  <physdesc id="aspace_53e070d1ec1208b12ac9236d1b5e6bb7">Folder 235: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14610 /locations/9"
+                             containerid="39002091386475"
+                             id="aspace_ref166_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+                  <container id="aspace_ref166_c2" localtype="folder" parent="aspace_ref166_c1">232-235</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140196"
+               id="ref171"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1979-1980" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1979">1979</fromdate>
+                        <todate standarddate="1980">1980</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f01c095b38b9df0f3e9f6cdf39d0a7ea">Folder 67: 11 items</physdesc>
+                  <physdesc id="aspace_6a723d4276a30be24905fa05df48ea94">Folder 68: 10 items</physdesc>
+                  <physdesc id="aspace_8a66120c339cd549e2879a1b9afc573f">Folder 69: 12 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14607 /locations/9"
+                             containerid="39002091386608"
+                             id="aspace_ref171_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref171_c2" localtype="folder" parent="aspace_ref171_c1">67-69</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140197"
+               id="ref175"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1980-1981" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1980">1980</fromdate>
+                        <todate standarddate="1981">1981</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e1cc760672bf02627a988baf4ec0e6af">Folder 70: 12 items</physdesc>
+                  <physdesc id="aspace_c3502e1336c8ea978f5448133ea89a65">Folder 71: 10 items</physdesc>
+                  <physdesc id="aspace_5444d7c42322babd4515e5964dbddf99">Folder 72: 10 items</physdesc>
+                  <physdesc id="aspace_866cb4c1d832ec575757cf43207bbc4e">Folder 73: 10 items</physdesc>
+                  <physdesc id="aspace_a815546b84ab7393163394665e8a3c7d">Folder 74: 7 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14607 /locations/9"
+                             containerid="39002091386608"
+                             id="aspace_ref175_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_ref175_c2" localtype="folder" parent="aspace_ref175_c1">70-74</container>
+               </did>
+               <scopecontent id="aspace_77f34639a30b89b4d9cf4e169ab98389">
+                  <head>Scope and Contents</head>
+                  <p>Folder 73 includes a letter to patrons regarding cuts to the National Endowment for the Arts (NEA). Folder 74 includes Dramat materials.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140198"
+               id="ref182"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1981-1982" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1981">1981</fromdate>
+                        <todate standarddate="1982">1982</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_cfdb48467608779392ed9fa5662ca1de">Folder 75: 12 items</physdesc>
+                  <physdesc id="aspace_460ec4d33380b6dcf59f1f0e76024994">Folder 76: 10 items</physdesc>
+                  <physdesc id="aspace_6ed78577f5eed2f7eb5ccb5a66e03c3d">Folder 77: 9 items</physdesc>
+                  <physdesc id="aspace_1b50661bfb8ef6da64c8a38cfe09e768">Folder 78: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14611 /locations/9"
+                             containerid="39002091386590"
+                             id="aspace_ref182_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref182_c2" localtype="folder" parent="aspace_ref182_c1">75-78</container>
+               </did>
+               <scopecontent id="aspace_2870da2eb986be4a7ca10fb8d7d32193">
+                  <head>Scope and Contents</head>
+                  <p>Folder 78 includes Dramat programs and an interview with Louise Guay.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140199"
+               id="ref188"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1982-1983" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1982">1982</fromdate>
+                        <todate standarddate="1983">1983</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_706adeb170d2aef58aca9d63eded9f37">Folder 79: 14 items</physdesc>
+                  <physdesc id="aspace_8d9a6e181cd22bf5cf2b5f58b2d9a2fb">Folder 80: 11 items</physdesc>
+                  <physdesc id="aspace_c2543f78149c574ab02a17f2bf7183fe">Folder 81: 11 items</physdesc>
+                  <physdesc id="aspace_7ea3bf40b7542b029a580e57e1257fa4">Folder 82: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14611 /locations/9"
+                             containerid="39002091386590"
+                             id="aspace_ref188_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref188_c2" localtype="folder" parent="aspace_ref188_c1">79-82</container>
+               </did>
+               <scopecontent id="aspace_35e8e8c87e32f5ae581d272020ec2e24">
+                  <head>Scope and Contents</head>
+                  <p>Folder 82 includes a Dramat program.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140200"
+               id="ref194"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1983-1984" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1984">1984</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_8f90dfad1b2ce6046f82e15f1f9c5b7b">Folder 83: 12 items</physdesc>
+                  <physdesc id="aspace_5af27ec092b220122df898c9890a15c0">Folder 84: 10 items</physdesc>
+                  <physdesc id="aspace_71bee4e99f6490ef9c7adb890ab67ddc">Folder 85: 10 items</physdesc>
+                  <physdesc id="aspace_bfdf795fdcaf00618c545384877d8752">Folder 86: 16 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14611 /locations/9"
+                             containerid="39002091386590"
+                             id="aspace_ref194_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_ref194_c2" localtype="folder" parent="aspace_ref194_c1">83-86</container>
+               </did>
+               <scopecontent id="aspace_b4328ccc8237f17b26dff4a3214bd6f2">
+                  <head>Scope and Contents</head>
+                  <p>Folder 86 includes a Dramat program and a poster for a Yale Theatre Studies department colloquium. See also Box 18 for oversize materials dated 1983-1984.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140201"
+               id="ref200"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1983-1984" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1983">1983</fromdate>
+                        <todate standarddate="1984">1984</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14610 /locations/9"
+                             containerid="39002091386475"
+                             id="aspace_ref200_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+                  <container id="aspace_ref200_c2" localtype="folder" parent="aspace_ref200_c1">237</container>
+               </did>
+               <scopecontent id="aspace_025b1ecd3a3f03464cfefdbda475be58">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 6 for regularly sized materials dated 1983-1984.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140202"
+               id="ref202"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1984-1985" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1984">1984</fromdate>
+                        <todate standarddate="1985">1985</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_95d6b1ca907f4ad42f9155e9fbbb6f2e">Folder 87: 14 items</physdesc>
+                  <physdesc id="aspace_98c066cd2a5644779e7a789034b27fd9">Folder 88: 10 items</physdesc>
+                  <physdesc id="aspace_1d33a0e7447ce52c4eb05d62161e1900">Folder 89: 11 items</physdesc>
+                  <physdesc id="aspace_27750d65cbd373ae9cac635b2b255c9e">Folder 90: 9 items</physdesc>
+                  <physdesc id="aspace_dd4bb384b095530dfaf575ecc1237375">Folder 91: 14 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14612 /locations/9"
+                             containerid="39002091386582"
+                             id="aspace_ref202_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref202_c2" localtype="folder" parent="aspace_ref202_c1">87-91</container>
+               </did>
+               <scopecontent id="aspace_8f51c1e83bd33f838fc747a93376d7a8">
+                  <head>Scope and Contents</head>
+                  <p>Folder 87 includes a Theatre for the Nuclear Freeze benefit poster. Folder 90 includes materials relating to the Yale Salute to Cole Porter benefit. Folder 91 includes a Dramat poster and materials from Yale undergraduate productions.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140203"
+               id="ref209"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1985-1986" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1985">1985</fromdate>
+                        <todate standarddate="1986">1986</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_2d19cddbcb9e65123e0624c90ccd7626">Folder 92: 11 items</physdesc>
+                  <physdesc id="aspace_70ddb67f20398783f4915e393577d6d7">Folder 93: 11 items</physdesc>
+                  <physdesc id="aspace_513c7cf02d694ba35a1b82ae2ddc3267">Folder 94: 11 items</physdesc>
+                  <physdesc id="aspace_21893213a13f711a294e8f35167f66e6">Folder 95: 15 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14612 /locations/9"
+                             containerid="39002091386582"
+                             id="aspace_ref209_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref209_c2" localtype="folder" parent="aspace_ref209_c1">92-95</container>
+               </did>
+               <scopecontent id="aspace_475120e0abb8cf798ac5188bc00e8c1a">
+                  <head>Scope and Contents</head>
+                  <p>Folder 94 includes materials relating to the Yale School of Drama 60th Anniversary Celebration. Folder 95 includes Dramat programs.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140204"
+               id="ref215"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>9</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1986-1987" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1986">1986</fromdate>
+                        <todate standarddate="1987">1987</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14612 /locations/9"
+                             containerid="39002091386582"
+                             id="aspace_ref215_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_ref215_c2" localtype="folder" parent="aspace_ref215_c1">96</container>
+               </did>
+               <scopecontent id="aspace_62e4fda1a10f89243cef52b82d94c7e7">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 8.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140205"
+               id="ref218"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1986-1987" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1986">1986</fromdate>
+                        <todate standarddate="1987">1987</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_1f83d5f38b6002b1081cdb1f7eb19659">Folder 97: 10 items</physdesc>
+                  <physdesc id="aspace_d6d1f4ae9c98481dd8b114e782ace038">Folder 98: 9 items</physdesc>
+                  <physdesc id="aspace_1cec09285516d13682019dfbba589a35">Folder 99: 12 items</physdesc>
+                  <physdesc id="aspace_8b95418843bf7672af835b46111d05bf">Folder 100: 8 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14613 /locations/9"
+                             containerid="39002091386574"
+                             id="aspace_ref218_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref218_c2" localtype="folder" parent="aspace_ref218_c1">97-100</container>
+               </did>
+               <scopecontent id="aspace_7b59f9bd69b6ca223da22913fef24a23">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 7.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140206"
+               id="ref224"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1987">1987</fromdate>
+                        <todate standarddate="1988">1988</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_ca10885fa87565280882c839cb5ff675">Folder 101: 12 items</physdesc>
+                  <physdesc id="aspace_65abcc10be148d28dc738ae5b140e293">Folder 102: 10 items</physdesc>
+                  <physdesc id="aspace_9777e796b43547ceed570cfc69fe9c6c">Folder 103: 10 items</physdesc>
+                  <physdesc id="aspace_585a24a3090219808c2d692002337145">Folder 104: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14613 /locations/9"
+                             containerid="39002091386574"
+                             id="aspace_ref224_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref224_c2" localtype="folder" parent="aspace_ref224_c1">101-104</container>
+               </did>
+               <scopecontent id="aspace_855d5bfb6d7d9c9883f503cea3e5e0db">
+                  <head>Scope and Contents</head>
+                  <p>Folder 101 includes materials pertaining to the Yale Repertory Theatre AIDS benefit.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140207"
+               id="ref230"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1989">1989</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_dc1490c6e5fba91f3bdf5014c1845f79">Folder 105: 14 items</physdesc>
+                  <physdesc id="aspace_734342294fce35f92336079c6e5a9b1e">Folder 106: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14613 /locations/9"
+                             containerid="39002091386574"
+                             id="aspace_ref230_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_ref230_c2" localtype="folder" parent="aspace_ref230_c1">105-106</container>
+               </did>
+               <scopecontent id="aspace_5c400a50c21310a8584614cf62c8e4a6">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 9.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140208"
+               id="ref234"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1988-1989" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1989">1989</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_087eb64c55074b3f07dbaae6de967297">Folder 107: 10 items</physdesc>
+                  <physdesc id="aspace_3da71a939702ffecacf3fa9b60638f90">Folder 108: 14 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14614 /locations/9"
+                             containerid="39002091386566"
+                             id="aspace_ref234_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+                  <container id="aspace_ref234_c2" localtype="folder" parent="aspace_ref234_c1">107-108</container>
+               </did>
+               <scopecontent id="aspace_6ea67306f3ad49b2bbeb299a8f177249">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 8.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140209"
+               id="ref238"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1989-1990" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1989">1989</fromdate>
+                        <todate standarddate="1990">1990</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_858ed9301c73be4ece2f0e92223a3397">Folder 109: 9 items</physdesc>
+                  <physdesc id="aspace_b4e6930227f0d02c7e2689f6165d2ab3">Folder 110: 15 items</physdesc>
+                  <physdesc id="aspace_c6d17bad8d16fcd03dbd262f6774c42e">Folder 111: 10 items</physdesc>
+                  <physdesc id="aspace_93b4973f7cae259fc56011a4e1f782fa">Folder 112: 14 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14614 /locations/9"
+                             containerid="39002091386566"
+                             id="aspace_ref238_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+                  <container id="aspace_ref238_c2" localtype="folder" parent="aspace_ref238_c1">109-112</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140210"
+               id="ref243"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1990">1990</fromdate>
+                        <todate standarddate="1991">1991</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_a12eced43ecdb53498f702ef450dedf4">Folder 113: 10 items</physdesc>
+                  <physdesc id="aspace_39726c3580feb210e011263333a3be77">Folder 114: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14614 /locations/9"
+                             containerid="39002091386566"
+                             id="aspace_ref243_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+                  <container id="aspace_ref243_c2" localtype="folder" parent="aspace_ref243_c1">113-114</container>
+               </did>
+               <scopecontent id="aspace_79564f5d50c413538436e8aa4081ae47">
+                  <head>Scope and Contents</head>
+                  <p>Folder 114 includes materials pertaining to the Lloyd Richards Chair benefit. See also Box 10..</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140211"
+               id="ref247"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1990">1990</fromdate>
+                        <todate standarddate="1991">1991</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_02b6d3bc7eca273e7a17638f10ea7596">Folder 115: 12 items</physdesc>
+                  <physdesc id="aspace_91fbf44a0014e592b004a37c6d27a460">Folder 116: 13 items</physdesc>
+                  <physdesc id="aspace_f8bc2fd9ba8297113ca97dc0fe00df84">Folder 117: 12 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14615 /locations/9"
+                             containerid="39002091386558"
+                             id="aspace_ref247_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+                  <container id="aspace_ref247_c2" localtype="folder" parent="aspace_ref247_c1">115-117</container>
+               </did>
+               <scopecontent id="aspace_c5e744fa0fe9e07168603330b8725dd2">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 9.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140212"
+               id="ref252"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1991-1992" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1991">1991</fromdate>
+                        <todate standarddate="1992">1992</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_130ca4a5ba49af6955900e6f9f2fc0fc">Folder 118: 13 items</physdesc>
+                  <physdesc id="aspace_2d88779d5f1ee837f17c3e73072b63de">Folder 119: 10 items</physdesc>
+                  <physdesc id="aspace_82b251acbfa5778e869d8e6e64c04a14">Folder 120: 16 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14615 /locations/9"
+                             containerid="39002091386558"
+                             id="aspace_ref252_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+                  <container id="aspace_ref252_c2" localtype="folder" parent="aspace_ref252_c1">118-120</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140213"
+               id="ref256"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="1992-1993" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1992">1992</fromdate>
+                        <todate standarddate="1993">1993</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_63d20adb1f276f1a2f86475af82fef2b">Folder 121: 12 items</physdesc>
+                  <physdesc id="aspace_a72708da6fda83ef9377391f3d0b3696">Folder 122: 10 items</physdesc>
+                  <physdesc id="aspace_bf2e11f371ccff005800c5ca23dd1563">Folder 123: 10 items</physdesc>
+                  <physdesc id="aspace_f3e5b695303644e125bd65cbc0ad4828">Folder 124: 7 items</physdesc>
+                  <physdesc id="aspace_219efd2405d0728f80fa2b74435cf47b">Folder 125: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14615 /locations/9"
+                             containerid="39002091386558"
+                             id="aspace_ref256_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+                  <container id="aspace_ref256_c2" localtype="folder" parent="aspace_ref256_c1">121-125</container>
+               </did>
+               <scopecontent id="aspace_942af6d14fdf905155b1aa9743678b01">
+                  <head>Scope and Contents</head>
+                  <p>Folder 125 includes a Dramat program. See also Box 18 for oversize programs for <title localtype="simple" render="italic">
+                        <part>Shooting a Dream</part>
+                     </title> and <title localtype="simple" render="italic">
+                        <part>The Duchess of Malfi</part>
+                     </title>.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140214"
+               id="ref263"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1992-1993" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1992">1992</fromdate>
+                        <todate standarddate="1993">1993</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14610 /locations/9"
+                             containerid="39002091386475"
+                             id="aspace_ref263_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+                  <container id="aspace_ref263_c2" localtype="folder" parent="aspace_ref263_c1">236</container>
+               </did>
+               <scopecontent id="aspace_8cbd96cd8383a52f26b75d89fab9b383">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 10.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140215"
+               id="ref266"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1993-1994" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1993">1993</fromdate>
+                        <todate standarddate="1994">1994</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_36472c2da16f524e1a43e98ae22d0fdf">Folder 126: 11 items</physdesc>
+                  <physdesc id="aspace_5fda7144fa2c6e64459e11cbcd4310d9">Folder 127: 11 items</physdesc>
+                  <physdesc id="aspace_7b1dde4bf79fbc9afbfa955c552ca4c5">Folder 128: 12 items</physdesc>
+                  <physdesc id="aspace_5b4cc8f3626d9691456d19cec7bb079b">Folder 129: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14616 /locations/9"
+                             containerid="39002091386541"
+                             id="aspace_ref266_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+                  <container id="aspace_ref266_c2" localtype="folder" parent="aspace_ref266_c1">126-129</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140216"
+               id="ref271"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1994-1995" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1994">1994</fromdate>
+                        <todate standarddate="1995">1995</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_1eaaddb0080ba377c84f247562417ea0">Folder 130: 11 items</physdesc>
+                  <physdesc id="aspace_ad411b876f2d7c984d6492548de48b18">Folder 131: 12 items</physdesc>
+                  <physdesc id="aspace_bafe7a0870536344592913b466927902">Folder 132: 10 items</physdesc>
+                  <physdesc id="aspace_b62c0d9ab7676814d7c2ffa7ccb56d6c">Folder 133: 10 items</physdesc>
+                  <physdesc id="aspace_a7665cac067f2c02a2056df7f4a8ab8c">Folder 134: 12 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14616 /locations/9"
+                             containerid="39002091386541"
+                             id="aspace_ref271_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+                  <container id="aspace_ref271_c2" localtype="folder" parent="aspace_ref271_c1">130-134</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140217"
+               id="ref277"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>12</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1995-1996" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995">1995</fromdate>
+                        <todate standarddate="1996">1996</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14616 /locations/9"
+                             containerid="39002091386541"
+                             id="aspace_ref277_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+                  <container id="aspace_ref277_c2" localtype="folder" parent="aspace_ref277_c1">135</container>
+               </did>
+               <scopecontent id="aspace_f0f63d8175372c7f58edc735a5cf597b">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 12.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140218"
+               id="ref280"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1995-1996" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995">1995</fromdate>
+                        <todate standarddate="1996">1996</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_b54d70a2325e69040aef61755e63ef48">Folder 136: 10 items</physdesc>
+                  <physdesc id="aspace_6fe63fd4a9062bca9ea5afaf92005bdd">Folder 137: 10 items</physdesc>
+                  <physdesc id="aspace_9cb6827f48003142a4f81fb3d1bd7dd7">Folder 138: 11 items</physdesc>
+                  <physdesc id="aspace_2b47d13567f383a84b5b82627e100c7d">Folder 139: 14 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14617 /locations/9"
+                             containerid="39002091386533"
+                             id="aspace_ref280_c1"
+                             label="Mixed Materials"
+                             localtype="box">12</container>
+                  <container id="aspace_ref280_c2" localtype="folder" parent="aspace_ref280_c1">136-139</container>
+               </did>
+               <scopecontent id="aspace_39e5ac1826abe781c0b6ee9732867540">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 11.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140219"
+               id="ref286"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1996-1997" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1996">1996</fromdate>
+                        <todate standarddate="1997">1997</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_8643d416ba059d0a8b52f02a1806d9bb">Folder 140: 12 items</physdesc>
+                  <physdesc id="aspace_f0f20a0e9d9e86fcdc0849664944ca04">Folder 141: 10 items</physdesc>
+                  <physdesc id="aspace_5aa7d0de25608cf9d35ca5f9a9f0ea40">Folder 142: 10 items</physdesc>
+                  <physdesc id="aspace_d563bf1496f3458920d375f93683f79d">Folder 143: 10 items</physdesc>
+                  <physdesc id="aspace_5091fddd654a2995aa7669d62b9b3123">Folder 144: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14617 /locations/9"
+                             containerid="39002091386533"
+                             id="aspace_ref286_c1"
+                             label="Mixed Materials"
+                             localtype="box">12</container>
+                  <container id="aspace_ref286_c2" localtype="folder" parent="aspace_ref286_c1">140-144</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140220"
+               id="ref292"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1997-1998" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1997">1997</fromdate>
+                        <todate standarddate="1998">1998</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d17a4cfee8171590f1280b5dc6209bd4">Folder 145: 14 items</physdesc>
+                  <physdesc id="aspace_c2b5833159c98e3d3ff217b7b9d4aa37">Folder 146: 10 items</physdesc>
+                  <physdesc id="aspace_7dc88c8f648397a9a642471e8f057c5f">Folder 147: 14 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14617 /locations/9"
+                             containerid="39002091386533"
+                             id="aspace_ref292_c1"
+                             label="Mixed Materials"
+                             localtype="box">12</container>
+                  <container id="aspace_ref292_c2" localtype="folder" parent="aspace_ref292_c1">145-147</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140221"
+               id="ref296"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1998-1999" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1998">1998</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6340941c95c8e48543b4382fef60b337">Folder 148: 18 items</physdesc>
+                  <physdesc id="aspace_fc8640b189850e88354a8ea4c1c8ef55">Folder 149: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14617 /locations/9"
+                             containerid="39002091386533"
+                             id="aspace_ref296_c1"
+                             label="Mixed Materials"
+                             localtype="box">12</container>
+                  <container id="aspace_ref296_c2" localtype="folder" parent="aspace_ref296_c1">148-149</container>
+               </did>
+               <scopecontent id="aspace_a619b6c73133fc4d5e58772192701783">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 13.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140222"
+               id="ref300"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1998-1999" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1998">1998</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_49275c48bb277dff34ba5ba79f9f2a5d">Folder 150: 10 items</physdesc>
+                  <physdesc id="aspace_a37d011d770077183894bdb5712d9df3">Folder 151: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14618 /locations/9"
+                             containerid="39002091386525"
+                             id="aspace_ref300_c1"
+                             label="Mixed Materials"
+                             localtype="box">13</container>
+                  <container id="aspace_ref300_c2" localtype="folder" parent="aspace_ref300_c1">150-151</container>
+               </did>
+               <scopecontent id="aspace_7fae45b94b442ad83074e26924e2bc17">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 12.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140223"
+               id="ref304"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="1999-2000" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1999">1999</fromdate>
+                        <todate standarddate="2000">2000</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f6b306b5e94b42e2309d23fec98d41c6">Folder 152: 11 items</physdesc>
+                  <physdesc id="aspace_a35a3f949f33d6a58f58189043007871">Folder 153: 11 items</physdesc>
+                  <physdesc id="aspace_d3d5c36e581a47fc1bbd124725aeb80c">Folder 154: 10 items</physdesc>
+                  <physdesc id="aspace_fa13f4894dcccf8387fe0e55a643185e">Folder 155: 8 items</physdesc>
+                  <physdesc id="aspace_30651902c511a86f893df638220107bc">Folder 156: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14618 /locations/9"
+                             containerid="39002091386525"
+                             id="aspace_ref304_c1"
+                             label="Mixed Materials"
+                             localtype="box">13</container>
+                  <container id="aspace_ref304_c2" localtype="folder" parent="aspace_ref304_c1">152-156</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140224"
+               id="ref310"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2000-2001" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2000">2000</fromdate>
+                        <todate standarddate="2001">2001</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_76fc2ba4eda48eea2fe68c913f203b3a">Folder 157: 11 items</physdesc>
+                  <physdesc id="aspace_5c7a5e8d2eb3622190b700b016315630">Folder 158: 13 items</physdesc>
+                  <physdesc id="aspace_e5ba4242e69c8b6b724cf049bab83280">Folder 159: 12 items</physdesc>
+                  <physdesc id="aspace_a492123c25a7526d1322bbe5270ccf44">Folder 160: 10 items</physdesc>
+                  <physdesc id="aspace_7319204ea6d9c02fb8e698c355d2f59f">Folder 161: 11 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14618 /locations/9"
+                             containerid="39002091386525"
+                             id="aspace_ref310_c1"
+                             label="Mixed Materials"
+                             localtype="box">13</container>
+                  <container id="aspace_ref310_c2" localtype="folder" parent="aspace_ref310_c1">157-161</container>
+               </did>
+               <scopecontent id="aspace_32e241eabc45b96ca86ffcb284a482ba">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 14.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140225"
+               id="ref317"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>10</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2000-2001" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2000">2000</fromdate>
+                        <todate standarddate="2001">2001</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14619 /locations/9"
+                             containerid="39002091386517"
+                             id="aspace_ref317_c1"
+                             label="Mixed Materials"
+                             localtype="box">14</container>
+                  <container id="aspace_ref317_c2" localtype="folder" parent="aspace_ref317_c1">162</container>
+               </did>
+               <scopecontent id="aspace_1ec9d6ec1bc30abb1ce5f81a2bc7d6c2">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 13.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140226"
+               id="ref320"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2001-2002" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2001">2001</fromdate>
+                        <todate standarddate="2002">2002</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_d3168d0951c373d827047a7c7822e988">Folder 163: 12 items</physdesc>
+                  <physdesc id="aspace_359d45f3fc164c5b327c2e3d9b465f59">Folder 164: 11 items</physdesc>
+                  <physdesc id="aspace_f6dcc6fb363bc7257e9df3f0ee5f6994">Folder 165: 10 items</physdesc>
+                  <physdesc id="aspace_f98202a7a13769bffc9658893b9366ce">Folder 166: 11 items</physdesc>
+                  <physdesc id="aspace_94e0ee7916bb09371347c1148796931b">Folder 167: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14619 /locations/9"
+                             containerid="39002091386517"
+                             id="aspace_ref320_c1"
+                             label="Mixed Materials"
+                             localtype="box">14</container>
+                  <container id="aspace_ref320_c2" localtype="folder" parent="aspace_ref320_c1">163-167</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140227"
+               id="ref326"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2002-2003" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2002">2002</fromdate>
+                        <todate standarddate="2003">2003</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_da2790cbccbcc83a9ed6fafb873ec74f">Folder 168: 12 items</physdesc>
+                  <physdesc id="aspace_b1db219a0909820466204bfff4a14e5a">Folder 169: 10 items</physdesc>
+                  <physdesc id="aspace_8f8607925718360e3766c7a14d45a903">Folder 170: 10 items</physdesc>
+                  <physdesc id="aspace_f86a4354e2b6236721ab96b47684c982">Folder 171: 7 items</physdesc>
+                  <physdesc id="aspace_dbd6d48f1c87084a40aa6c4bbdf82169">Folder 172: 8 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14619 /locations/9"
+                             containerid="39002091386517"
+                             id="aspace_ref326_c1"
+                             label="Mixed Materials"
+                             localtype="box">14</container>
+                  <container id="aspace_ref326_c2" localtype="folder" parent="aspace_ref326_c1">168-172</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140228"
+               id="ref332"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2003-2004" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2003">2003</fromdate>
+                        <todate standarddate="2004">2004</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_72a7bf7b9cbd4f9b0fa7c848f884ef1d">Folder 173: 10 items</physdesc>
+                  <physdesc id="aspace_bca109db66eb2f07d31a676821e59f5f">Folder 174: 10 items</physdesc>
+                  <physdesc id="aspace_d895865af3f0b6e9715b5de403a7f382">Folder 175: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14619 /locations/9"
+                             containerid="39002091386517"
+                             id="aspace_ref332_c1"
+                             label="Mixed Materials"
+                             localtype="box">14</container>
+                  <container id="aspace_ref332_c2" localtype="folder" parent="aspace_ref332_c1">173-175</container>
+               </did>
+               <scopecontent id="aspace_c1372717ed652012763cfc16c5f21375">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 15.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140229"
+               id="ref337"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2003-2004" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2003">2003</fromdate>
+                        <todate standarddate="2004">2004</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_73ed997d056aab0ec71bac74304fbe45">Folder 176: 10 items</physdesc>
+                  <physdesc id="aspace_e5a1ece073df20ed0d0cf72f24f26efb">Folder 177: 10 items</physdesc>
+                  <physdesc id="aspace_eab32ee4ae29e75a4860056146e161e5">Folder 178: 13 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14620 /locations/9"
+                             containerid="39002091386509"
+                             id="aspace_ref337_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+                  <container id="aspace_ref337_c2" localtype="folder" parent="aspace_ref337_c1">176-178</container>
+               </did>
+               <scopecontent id="aspace_23da0e5aaa121edbe183155009a1d170">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 14.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140230"
+               id="ref342"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <unitdatestructured altrender="2004-2005" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2004">2004</fromdate>
+                        <todate standarddate="2005">2005</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c89ce02d507ef3036b3e8363efc4c39a">Folder 179: 11 items</physdesc>
+                  <physdesc id="aspace_f1dd09dbb96de58e65caf5ab9aa830be">Folder 180: 11 items</physdesc>
+                  <physdesc id="aspace_0a7ba59d086aaf29804f92f86202f618">Folder 181: 10 items</physdesc>
+                  <physdesc id="aspace_1aa50abb69acf0a7e4fbf8029e03ee82">Folder 182: 13 items</physdesc>
+                  <physdesc id="aspace_e7a954bf4a53bf9643d67f3602098f88">Folder 183: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14620 /locations/9"
+                             containerid="39002091386509"
+                             id="aspace_ref342_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+                  <container id="aspace_ref342_c2" localtype="folder" parent="aspace_ref342_c1">179-183</container>
+               </did>
+               <scopecontent id="aspace_12134a3e310bd76d84bffd953659a01e">
+                  <head>Scope and Contents</head>
+                  <p>Folder 183 includes a Dramat program.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140231"
+               id="ref349"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2005-2006" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2005">2005</fromdate>
+                        <todate standarddate="2006">2006</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_6c5e72497013f54026e8bdeb49a439f7">Folder 184: 11 items</physdesc>
+                  <physdesc id="aspace_34303a8d8cedb2d11664244eaca7e233">Folder 185: 11 items</physdesc>
+                  <physdesc id="aspace_31bdd4f121a98f4a728daf6d26149e5c">Folder 186: 9 items</physdesc>
+                  <physdesc id="aspace_80e09489e0f6a3fff08277d331d96062">Folder 187: 12 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14620 /locations/9"
+                             containerid="39002091386509"
+                             id="aspace_ref349_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+                  <container id="aspace_ref349_c2" localtype="folder" parent="aspace_ref349_c1">184-187</container>
+               </did>
+               <scopecontent id="aspace_37594e32987d8672f3d2d4c6fcf6138e">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 19.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140232"
+               id="ref355"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>8</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2005-2006" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2005">2005</fromdate>
+                        <todate standarddate="2006">2006</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14621 /locations/9"
+                             containerid="39002091386467"
+                             id="aspace_ref355_c1"
+                             label="Mixed Materials"
+                             localtype="box">19</container>
+                  <container id="aspace_ref355_c2" localtype="folder" parent="aspace_ref355_c1">188</container>
+               </did>
+               <scopecontent id="aspace_e50d0e112deb9bb7d036e02ae26cf6c9">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 15.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140233"
+               id="ref358"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2006-2007" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2006">2006</fromdate>
+                        <todate standarddate="2007">2007</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_3e6269c674b978cd5b4cece1f4d8bea1">Folder 189: 13 items</physdesc>
+                  <physdesc id="aspace_3dba68e38707948fc74911b3690b9173">Folder 190: 12 items</physdesc>
+                  <physdesc id="aspace_4eb5c7b3bd3e2324c148720d14c08a7b">Folder 191: 10 items</physdesc>
+                  <physdesc id="aspace_132e36dec7af97f5447db26e075fd295">Folder 192: 11 items</physdesc>
+                  <physdesc id="aspace_2ac330cd859b312f3d0db0733a7960a6">Folder 193: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14621 /locations/9"
+                             containerid="39002091386467"
+                             id="aspace_ref358_c1"
+                             label="Mixed Materials"
+                             localtype="box">19</container>
+                  <container id="aspace_ref358_c2" localtype="folder" parent="aspace_ref358_c1">189-193</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140234"
+               id="ref364"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2007-2008" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2007">2007</fromdate>
+                        <todate standarddate="2008">2008</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_e60e609e9ad756d3baa6ec38c1bb2f40">Folder 194: 9 items</physdesc>
+                  <physdesc id="aspace_2060e8304ab565d8cd26376c4677e9d2">Folder 195: 16 items</physdesc>
+                  <physdesc id="aspace_3659f04172603d980d2142481d61f920">Folder 196: 9 items</physdesc>
+                  <physdesc id="aspace_8aeab323b61d4383e5a9e3e1400ba2a0">Folder 197: 10 items</physdesc>
+                  <physdesc id="aspace_51a8cbb3c33d6884cf70d23a0d373ac8">Folder 198: 10 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14621 /locations/9"
+                             containerid="39002091386467"
+                             id="aspace_ref364_c1"
+                             label="Mixed Materials"
+                             localtype="box">19</container>
+                  <container id="aspace_ref364_c2" localtype="folder" parent="aspace_ref364_c1">194-198</container>
+               </did>
+               <scopecontent id="aspace_03d93cfadbecf905ee7e7bf09c4510f3">
+                  <head>Scope and Contents</head>
+                  <p>See also Box 20.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140235"
+               id="ref371"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera*</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>5</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2007-2008" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2007">2007</fromdate>
+                        <todate standarddate="2008">2008</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14622 /locations/9"
+                             containerid="39002091386459"
+                             id="aspace_ref371_c1"
+                             label="Mixed Materials"
+                             localtype="box">20</container>
+                  <container id="aspace_ref371_c2" localtype="folder" parent="aspace_ref371_c1">199</container>
+               </did>
+               <scopecontent id="aspace_56d7881d7c819ff17f916e4c726a392f">
+                  <head>Scope and Contents</head>
+                  <p>Folder 199 includes a Dramat program and materials from other Yale undergraduate productions. See also Box 19.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140236"
+               id="ref374"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2008-2009" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2008">2008</fromdate>
+                        <todate standarddate="2009">2009</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <physdesc id="aspace_5c8944a6c7329d975b189ae4f58f004f">Folder 200: 13 items</physdesc>
+                  <physdesc id="aspace_4043f301debd12eb54dd1f59931aa8a3">Folder 201: 10 items</physdesc>
+                  <physdesc id="aspace_b828bcbe2719fbef5e17d41063ebecfb">Folder 202: 10 items</physdesc>
+                  <physdesc id="aspace_50c43c73587658d72bbbc4e9fe37e7a7">Folder 203: 12 items</physdesc>
+                  <physdesc id="aspace_e316de6499746da89a692e49f2e66d48">Folder 204: 13 items</physdesc>
+                  <physdesc id="aspace_5932c34db6da04732c37ed669124eaa0">Folder 205: 11 items</physdesc>
+                  <physdesc id="aspace_d7e14ced5bc89b28c2f9f6dd42d0bb87">Folder 206: 10 items</physdesc>
+                  <physdesc id="aspace_7aa15dc8f0ef8a35ed4f3dc5aea982d7">Folder 207: 7 items</physdesc>
+                  <container altrender="/repositories/12/top_containers/14622 /locations/9"
+                             containerid="39002091386459"
+                             id="aspace_ref374_c1"
+                             label="Mixed Materials"
+                             localtype="box">20</container>
+                  <container id="aspace_ref374_c2" localtype="folder" parent="aspace_ref374_c1">200-207</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140237"
+               id="ref383"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Item</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2009-2010" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2009">2009</fromdate>
+                        <todate standarddate="2010">2010</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14622 /locations/9"
+                             containerid="39002091386459"
+                             id="aspace_ref383_c1"
+                             label="Mixed Materials"
+                             localtype="box">20</container>
+                  <container id="aspace_ref383_c2" localtype="folder" parent="aspace_ref383_c1">208</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140238"
+               id="ref385"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <origination label="Creator">
+                     <persname source="local">
+                        <part localtype="agent_person">Day, Belene</part>
+                     </persname>
+                  </origination>
+                  <unitdatestructured altrender="2009-2010" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2009">2009</fromdate>
+                        <todate standarddate="2010">2010</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14623 /locations/9"
+                             containerid="39002075119165"
+                             id="aspace_ref385_c1"
+                             label="Mixed Materials"
+                             localtype="box">21</container>
+               </did>
+               <scopecontent id="aspace_2858b26d4c9c93dcbdfa438d9db8708e">
+                  <head>Scope and Contents</head>
+                  <p>Includes promotional materials for the 2009-2010 YSD curriculum press releases; 2009-2010 alumni magazine; 2009 Yale Summer Cabaret; 2010 Yale Summer Cabaret; 2009-2010 Yale School of Drama productions; 2009-2010 No Boundaries (WPP); and 2009-2010 Yale Repertory Theatre productions.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/140239"
+               id="ref387"
+               level="file">
+               <did>
+                  <unittitle>YRT and YSD ephemera</unittitle>
+                  <unitdatestructured altrender="2010-2013" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2010">2010</fromdate>
+                        <todate standarddate="2013">2013</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/14624 /locations/9"
+                             containerid="39002075119157"
+                             id="aspace_ref387_c1"
+                             label="Mixed Materials"
+                             localtype="box">22</container>
+               </did>
+               <scopecontent id="aspace_d74a64995b9484eaffd9d2d1a41910ca">
+                  <head>Scope and Contents</head>
+                  <p>Includes promotional materials for the 2010-2011 and 2012-2013 seasons of both the Yale School of Drama and the Yale Repertory Theatre.</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/2801837"
+            id="aspace_22d5ecad0a94d4238764eb2c2fafd2f6"
+            level="series">
+            <did>
+               <unittitle>2017 addition</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1992">1992</fromdate>
+                     <todate standarddate="1998">1998</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <c altrender="/repositories/12/archival_objects/2801841"
+               id="aspace_904e7074040899f0ecafc118fb6a20ca"
+               level="file">
+               <did>
+                  <unittitle>The Colored Museum</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>16</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="Dec 1992" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1992-12">Dec 1992</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/328896 /locations/9"
+                             containerid="39002091300005"
+                             id="aspace_904e7074040899f0ecafc118fb6a20ca_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_904e7074040899f0ecafc118fb6a20ca_c2"
+                             localtype="folder"
+                             parent="aspace_904e7074040899f0ecafc118fb6a20ca_c1">212</container>
+               </did>
+               <scopecontent id="aspace_13504d651814b78a61b22aef32dd77d9">
+                  <head>Scope and Contents</head>
+                  <p>Includes photographs, press releases, flyer, and event programs.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2801845"
+               id="aspace_83614b174d1433fc9b279fce68d267d3"
+               level="file">
+               <did>
+                  <unittitle>As You Like It</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>10</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1994-02">1994 February</fromdate>
+                        <todate standarddate="1994-03">1994 March</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/328896 /locations/9"
+                             containerid="39002091300005"
+                             id="aspace_83614b174d1433fc9b279fce68d267d3_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_83614b174d1433fc9b279fce68d267d3_c2"
+                             localtype="folder"
+                             parent="aspace_83614b174d1433fc9b279fce68d267d3_c1">214</container>
+               </did>
+               <scopecontent id="aspace_9ff06752803807c81da763510ed3afbf">
+                  <head>Scope and Contents</head>
+                  <p>Includes photographs and flyers.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2801848"
+               id="aspace_53690fa9993ac55aa0b5758b2d0f2405"
+               level="file">
+               <did>
+                  <unittitle>The Marriage of Figaro / Figaro Gets a Divorce</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>12</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1994-12">1994 December</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/328896 /locations/9"
+                             containerid="39002091300005"
+                             id="aspace_53690fa9993ac55aa0b5758b2d0f2405_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_53690fa9993ac55aa0b5758b2d0f2405_c2"
+                             localtype="folder"
+                             parent="aspace_53690fa9993ac55aa0b5758b2d0f2405_c1">216</container>
+               </did>
+               <scopecontent id="aspace_86d87f45ed3d66af911e96d4a007277a">
+                  <head>Scope and Contents</head>
+                  <p>Includes flyers and photographs for Marriage of Figaro / Figaro Gets a Divorce; Postcarsds for The Good Person of Szechwan.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2801849"
+               id="aspace_06a276d9782cdc0c479dc565080b7378"
+               level="file">
+               <did>
+                  <unittitle>Le Cirque Invisible</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>4</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995-10">1995 October</fromdate>
+                        <todate standarddate="1995-11">1995 November</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/328896 /locations/9"
+                             containerid="39002091300005"
+                             id="aspace_06a276d9782cdc0c479dc565080b7378_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_06a276d9782cdc0c479dc565080b7378_c2"
+                             localtype="folder"
+                             parent="aspace_06a276d9782cdc0c479dc565080b7378_c1">217</container>
+               </did>
+               <scopecontent id="aspace_df352b28675ba1cff2fa15a68e6a34f3">
+                  <head>Scope and Contents</head>
+                  <p>Includes program, flyer, and photographs.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2832872"
+               id="aspace_062f53ffa4b302c6dd289066e652db7b"
+               level="file">
+               <did>
+                  <unittitle>YRT/YSD - 1994-1995 Season Program</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1994">1994</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/328896 /locations/9"
+                             containerid="39002091300005"
+                             id="aspace_062f53ffa4b302c6dd289066e652db7b_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_062f53ffa4b302c6dd289066e652db7b_c2"
+                             localtype="folder"
+                             parent="aspace_062f53ffa4b302c6dd289066e652db7b_c1">218</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2832870"
+               id="aspace_2526a34d32d1570c0aa1640927c3ebdd"
+               level="file">
+               <did>
+                  <unittitle>YRT - 1997-98 Season Program</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>Items</unittype>
+                  </physdescstructured>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1997">1997</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/328896 /locations/9"
+                             containerid="39002091300005"
+                             id="aspace_2526a34d32d1570c0aa1640927c3ebdd_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_2526a34d32d1570c0aa1640927c3ebdd_c2"
+                             localtype="folder"
+                             parent="aspace_2526a34d32d1570c0aa1640927c3ebdd_c1">219</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

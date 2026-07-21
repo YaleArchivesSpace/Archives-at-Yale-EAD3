@@ -2,6 +2,20 @@
 
 EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
+ [arts.aob.0034.xml](333.xml) | arts.aob.0034 | AOB 34 | Yale Residential Colleges Student Printing Collection | 
+ [arts.art.0015.xml](366.xml) | arts.art.0015 | ART 15 | Yale School of Architecture exhibition publications | 
+ [arts.dra.0014.xml](430.xml) | arts.dra.0014 | DRA 14 | Pamela Jordan Yale School of Drama Scrapbook Collection | 
+ [arts.dra.0015.xml](431.xml) | arts.dra.0015 | DRA 15 | Dwight/Edgewood Project collection | 
+ [arts.dra.0017.xml](433.xml) | arts.dra.0017 | DRA 17 | Yale School of Drama Production Script Collection | 
+ [arts.dra.0027.xml](438.xml) | arts.dra.0027 | DRA 27 | Yale School of Drama Doctor of Fine Arts Dissertations | 
+ [arts.dra.0028.xml](439.xml) | arts.dra.0028 | DRA 28 | Yale School of Drama Master of Fine Arts Theses | 
+ [arts.dra.0029.xml](440.xml) | arts.dra.0029 | DRA 29 | Drama 50 Script Collection | 
+ [arts.dra.0030.xml](442.xml) | arts.dra.0030 | DRA 30 | Yale Repertory Theatre Scripts Collection | 
+ [arts.dra.0034.xml](444.xml) | arts.dra.0034 | DRA 34 | Yale Cabaret Scripts and Ephemera Collection | 
+ [arts.dra.0035.xml](445.xml) | arts.dra.0035 | DRA 35 | Yale Summer Cabaret Scripts and Ephemera Collection | 
+ [arts.dra.0036.xml](446.xml) | arts.dra.0036 | DRA 36 | Yale Dramatic Association Scripts Collection | 
+ [arts.dra.0037.xml](447.xml) | arts.dra.0037 | DRA 37 | Yale Repertory Theatre and Yale School of Drama Ephemera Collection | 
+ [arts.dra.0007.xml](451.xml) | arts.dra.0007 | DRA 7 | Yale School of Drama Student Costume and Scenic Design Collection | 
  [mssa.ru.1154.xml](876.xml) | mssa.ru.1154 | RU 1154 | Early Yale documents collection | 
  [mssa.ru.0003.xml](1896.xml) | mssa.ru.0003 | RU 3 | Yale Bowl Materials Collected By Charles A. Ferry | 
  [mssa.ru.0010.xml](1897.xml) | mssa.ru.0010 | RU 10 | Helen Hadley Hall, Yale University, construction records maintained by the treasurer | 
@@ -2918,6 +2932,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ms.2121.xml](11961.xml) | mssa.ms.2121 | MS 2121 | Robert Lane and Dana Ward interview transcripts on political ideology | 
  [mssa.ms.2122.xml](12003.xml) | mssa.ms.2122 | MS 2122 | Carolyn Davidson Hill Diary and Family Papers | 
  [mssa.ms.2123.xml](12007.xml) | mssa.ms.2123 | MS 2123 | L. Paul Bremer III Papers | 
+ [arts.art.0043.xml](12041.xml) | arts.art.0043 | ART 43 | Yale School of Art Master of Fine Arts in Painting/Printmaking and Sculpture thesis documentation collection | 
  [mssa.ru.1177.xml](12043.xml) | mssa.ru.1177 | RU 1177 | Robert Gifford, Associate Dean for Education and Student Affairs, School of Medicine, Yale University, records | 
  [mssa.ms.2088.xml](12060.xml) | mssa.ms.2088 | MS 2088 | George Bundy Smith papers | 
  [mssa.ms.2095.xml](12137.xml) | mssa.ms.2095 | MS 2095 | Joel Sanders Papers | 
