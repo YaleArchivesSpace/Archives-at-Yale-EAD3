@@ -34,7 +34,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-139, 142-144, 147-149, 151-168, 170-194, 196, 201-202, 204-208, 217-220, 223, 226-229, 238, 246-264</p>
+               <p>Boxes: 1-139, 142-144, 147-149, 151-168, 170-194, 196, 201-202, 204-208, 217-220, 223, 226-229, 238, 246-268</p>
             </controlnote>
             <controlnote localtype="onsite">
                <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245</p>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-17T18:02:37-04:00</eventdatetime>
+            <eventdatetime>2026-07-21T18:00:21-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -133,11 +133,65 @@
                   source="lcsh">
             <part localtype="topical">Episcopal Church</part>
          </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85106408"
+                  source="lcsh">
+            <part localtype="topical">Presbyterian Church</part>
+            <part localtype="topical">Missions</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Methodist Church</part>
+            <part localtype="topical">Missions</part>
+            <part localtype="geographic">China</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85079012"
+                  source="lcsh">
+            <part localtype="topical">Lutheran Church</part>
+            <part localtype="topical">Missions</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Catholic Church</part>
+            <part localtype="topical">Missions</part>
+            <part localtype="geographic">China</part>
+         </subject>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh2010102148"
                   source="lcsh">
             <part localtype="topical">Missions</part>
             <part localtype="geographic">Japan</part>
          </subject>
+         <subject source="local">
+            <part localtype="topical">Missions, American</part>
+            <part localtype="geographic">China</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh2010102147"
+                  source="lcsh">
+            <part localtype="topical">Missions</part>
+            <part localtype="geographic">Indonesia</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85086055"
+                  source="lcsh">
+            <part localtype="topical">Missions</part>
+            <part localtype="geographic">South Africa</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh2008107864"
+                  source="lcsh">
+            <part localtype="topical">Missions</part>
+            <part localtype="geographic">India</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh2008107868"
+                  source="lcsh">
+            <part localtype="topical">Missions</part>
+            <part localtype="geographic">Congo (Democratic Republic)</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85025619"
+                  source="lcsh">
+            <part localtype="topical">Church history</part>
+         </subject>
+         <corpname rules="aacr">
+            <part localtype="agent_corporate_entity">American Baptist Foreign Mission Society</part>
+         </corpname>
+         <corpname>
+            <part localtype="agent_corporate_entity">American Board of Commissioners for Foreign Missions</part>
+         </corpname>
       </controlaccess>
       <dsc>
          <c altrender="/repositories/4/archival_objects/3998978"
@@ -36331,6 +36385,174 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                      <p>Reports and pamphlets about work in China, Madagascar, South Africa and the United States of organization later associated with the American Lutheran Church.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4046359"
+                  id="aspace_2060fdbe0e75828312127f6bc1a7e908"
+                  level="subseries">
+                  <did>
+                     <unittitle>Oberlin Shansi Memorial Association</unittitle>
+                  </did>
+                  <scopecontent id="aspace_d5ce02f22e2628f9afd7a22f960a8dcb">
+                     <head>Scope and Contents</head>
+                     <p>Also known as Oberlin-in-China Memorial Association</p>
+                  </scopecontent>
+                  <c altrender="/repositories/4/archival_objects/4046366"
+                     id="aspace_7bd9e24ac2d4340b0242f689784fbed8"
+                     level="file">
+                     <did>
+                        <unittitle>Reports and brochures</unittitle>
+                        <unitdatestructured altrender="1909-1929, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1909">1909</fromdate>
+                              <todate standarddate="1929">1929</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484292 /locations/9"
+                                   containerid="39002035369421"
+                                   id="aspace_7bd9e24ac2d4340b0242f689784fbed8_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">265</container>
+                        <container id="aspace_7bd9e24ac2d4340b0242f689784fbed8_c2"
+                                   localtype="folder"
+                                   parent="aspace_7bd9e24ac2d4340b0242f689784fbed8_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4046373"
+                     id="aspace_848b20b7e299ca1e42011dbc1a01dfa9"
+                     level="file">
+                     <did>
+                        <unittitle>Board of Trustees / Advisory Council documentation - meetings, reports, memos</unittitle>
+                        <unitdatestructured altrender="1929, 1949-1956, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1929">1929</fromdate>
+                              <todate standarddate="1956">1956</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484292 /locations/9"
+                                   containerid="39002035369421"
+                                   id="aspace_848b20b7e299ca1e42011dbc1a01dfa9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">265</container>
+                        <container id="aspace_848b20b7e299ca1e42011dbc1a01dfa9_c2"
+                                   localtype="folder"
+                                   parent="aspace_848b20b7e299ca1e42011dbc1a01dfa9_c1">2-4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4046374"
+                     id="aspace_cb9205f5a8d51793c2d72e596d490525"
+                     level="file">
+                     <did>
+                        <unittitle>Newsletters</unittitle>
+                        <unitdatestructured altrender="1913-1917, 1950-1952"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1913">1913</fromdate>
+                              <todate standarddate="1952">1952</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484292 /locations/9"
+                                   containerid="39002035369421"
+                                   id="aspace_cb9205f5a8d51793c2d72e596d490525_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">265</container>
+                        <container id="aspace_cb9205f5a8d51793c2d72e596d490525_c2"
+                                   localtype="folder"
+                                   parent="aspace_cb9205f5a8d51793c2d72e596d490525_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4046375"
+                     id="aspace_70aa3b19a8eb01022b596021882784b5"
+                     level="file">
+                     <did>
+                        <unittitle>Letters from field representatives - China, Taiwan</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1948">1948</fromdate>
+                              <todate standarddate="1956">1956</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484293 /locations/9"
+                                   containerid="39002035369439"
+                                   id="aspace_70aa3b19a8eb01022b596021882784b5_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">266</container>
+                        <container id="aspace_70aa3b19a8eb01022b596021882784b5_c2"
+                                   localtype="folder"
+                                   parent="aspace_70aa3b19a8eb01022b596021882784b5_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4046376"
+                     id="aspace_d42151e6e42e0319563133cd20c86e09"
+                     level="file">
+                     <did>
+                        <unittitle>Letters from field representatives - India</unittitle>
+                        <unitdatestructured altrender="1952-1956, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1952">1952</fromdate>
+                              <todate standarddate="1956">1956</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484293 /locations/9"
+                                   containerid="39002035369439"
+                                   id="aspace_d42151e6e42e0319563133cd20c86e09_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">266</container>
+                        <container id="aspace_d42151e6e42e0319563133cd20c86e09_c2"
+                                   localtype="folder"
+                                   parent="aspace_d42151e6e42e0319563133cd20c86e09_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4046377"
+                     id="aspace_5c3908945d7505710a377a4086167b23"
+                     level="file">
+                     <did>
+                        <unittitle>Letters from field representatives - Japan</unittitle>
+                        <unitdatestructured altrender="1951-1956, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1951">1951</fromdate>
+                              <todate standarddate="1956">1956</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484293 /locations/9"
+                                   containerid="39002035369439"
+                                   id="aspace_5c3908945d7505710a377a4086167b23_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">266</container>
+                        <container id="aspace_5c3908945d7505710a377a4086167b23_c2"
+                                   localtype="folder"
+                                   parent="aspace_5c3908945d7505710a377a4086167b23_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4046378"
+                     id="aspace_9be076d8dffe834fb42ca21b37acb4fe"
+                     level="file">
+                     <did>
+                        <unittitle>Articles, paper about to the Association</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1950">1950</fromdate>
+                              <todate standarddate="1980">1980</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484293 /locations/9"
+                                   containerid="39002035369439"
+                                   id="aspace_9be076d8dffe834fb42ca21b37acb4fe_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">266</container>
+                        <container id="aspace_9be076d8dffe834fb42ca21b37acb4fe_c2"
+                                   localtype="folder"
+                                   parent="aspace_9be076d8dffe834fb42ca21b37acb4fe_c1">4</container>
+                     </did>
+                  </c>
+               </c>
                <c altrender="/repositories/4/archival_objects/4035616"
                   id="aspace_4b02150ffa2e67913a64252654db2427"
                   level="file">
@@ -44111,6 +44333,555 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                      <p>Histories, informational booklet.</p>
                   </scopecontent>
                </c>
+            </c>
+         </c>
+         <c altrender="/repositories/4/archival_objects/4046405"
+            id="aspace_72571b0c76a96fdd25337fdcdc80c640"
+            level="series">
+            <did>
+               <unittitle>International / multiple headquarters</unittitle>
+               <unitid>Series VIII</unitid>
+            </did>
+            <scopecontent id="aspace_85c31e44e3cab8884d59acbe9674c897">
+               <head>Scope and Contents</head>
+               <p>This Series contains documentation from organizations that are not easily categorized as being supported by, or headquartered in, one particular country or region.</p>
+            </scopecontent>
+            <c altrender="/repositories/4/archival_objects/4046406"
+               id="aspace_1abf7d67bd0088621ad38899d5a6521a"
+               level="file">
+               <did>
+                  <unittitle>Bible Lands Agency South of the Bible Society</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1949">1949</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                             containerid="39002038426392"
+                             id="aspace_1abf7d67bd0088621ad38899d5a6521a_c1"
+                             label="Mixed Materials"
+                             localtype="box">267</container>
+                  <container id="aspace_1abf7d67bd0088621ad38899d5a6521a_c2"
+                             localtype="folder"
+                             parent="aspace_1abf7d67bd0088621ad38899d5a6521a_c1">1</container>
+               </did>
+               <scopecontent id="aspace_ddab6ece78b850ab5d618ad13ff812af">
+                  <head>Scope and Contents</head>
+                  <p>Report of organization sponsored by the British and Foreign Bible Society and American Bible Society.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4046413"
+               id="aspace_4549eebdfa1505edcb7387682f6f417c"
+               level="file">
+               <did>
+                  <unittitle>Bolivian Indian Mission</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1914">1914</fromdate>
+                        <todate standarddate="1957">1957</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                             containerid="39002038426392"
+                             id="aspace_4549eebdfa1505edcb7387682f6f417c_c1"
+                             label="Mixed Materials"
+                             localtype="box">267</container>
+                  <container id="aspace_4549eebdfa1505edcb7387682f6f417c_c2"
+                             localtype="folder"
+                             parent="aspace_4549eebdfa1505edcb7387682f6f417c_c1">2</container>
+               </did>
+               <scopecontent id="aspace_e0610d60d323db676c5e4a4588abbd36">
+                  <head>Scope and Contents</head>
+                  <p>Organization with offices in Bolivia, New Zealand, United States.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4046415"
+               id="aspace_7f985c9561ddce28fbd35f7234a86497"
+               level="subseries">
+               <did>
+                  <unittitle>Catholic Church</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4046445"
+                  id="aspace_ed4a3ffd429d2d6e49e4d533f2ea97b0"
+                  level="file">
+                  <did>
+                     <unittitle>Capuchin missions</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1936">1936</fromdate>
+                           <todate standarddate="1952">1952</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_ed4a3ffd429d2d6e49e4d533f2ea97b0_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_ed4a3ffd429d2d6e49e4d533f2ea97b0_c2"
+                                localtype="folder"
+                                parent="aspace_ed4a3ffd429d2d6e49e4d533f2ea97b0_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046418"
+                  id="aspace_09e178c78436030231c69c1aad6f4a46"
+                  level="file">
+                  <did>
+                     <unittitle>Catholic Biblical Federation</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1990">1990</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_09e178c78436030231c69c1aad6f4a46_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_09e178c78436030231c69c1aad6f4a46_c2"
+                                localtype="folder"
+                                parent="aspace_09e178c78436030231c69c1aad6f4a46_c1">4</container>
+                  </did>
+                  <scopecontent id="aspace_6b7b369037187e0af3adb7a6bca32e0e">
+                     <head>Scope and Contents</head>
+                     <p>Final statement of the 4th Plenary Assembly, Bogota, Colombia, 27 June-6 July 1990.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046439"
+                  id="aspace_7d077e057118a55362f7d04cb38c3b7b"
+                  level="file">
+                  <did>
+                     <unittitle>Congregation de Propaganda Fide</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1894">1894</fromdate>
+                           <todate standarddate="1960">1960</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_7d077e057118a55362f7d04cb38c3b7b_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_7d077e057118a55362f7d04cb38c3b7b_c2"
+                                localtype="folder"
+                                parent="aspace_7d077e057118a55362f7d04cb38c3b7b_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046447"
+                  id="aspace_2db81b69076d2a266cdc5fa3323d6ee1"
+                  level="file">
+                  <did>
+                     <unittitle>Congregation of the Holy Cross</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1924">1924</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_2db81b69076d2a266cdc5fa3323d6ee1_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_2db81b69076d2a266cdc5fa3323d6ee1_c2"
+                                localtype="folder"
+                                parent="aspace_2db81b69076d2a266cdc5fa3323d6ee1_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046424"
+                  id="aspace_426f8dd7ee7cdbaf8475b128c3138da4"
+                  level="file">
+                  <did>
+                     <unittitle>Congregation of the Missionaries of Mariannhill</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1915">1915</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_426f8dd7ee7cdbaf8475b128c3138da4_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_426f8dd7ee7cdbaf8475b128c3138da4_c2"
+                                localtype="folder"
+                                parent="aspace_426f8dd7ee7cdbaf8475b128c3138da4_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046426"
+                  id="aspace_fffe5f07f6632ffe02d46a30539cd1ef"
+                  level="file">
+                  <did>
+                     <unittitle>Jesuit missions</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1962">1962</fromdate>
+                           <todate standarddate="1967">1967</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_fffe5f07f6632ffe02d46a30539cd1ef_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_fffe5f07f6632ffe02d46a30539cd1ef_c2"
+                                localtype="folder"
+                                parent="aspace_fffe5f07f6632ffe02d46a30539cd1ef_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046427"
+                  id="aspace_a1789c66690d47cdac1edab08f861451"
+                  level="file">
+                  <did>
+                     <unittitle>Movimento International de Estudiantes Catolicas</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1969">1969</fromdate>
+                           <todate standarddate="1971">1971</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_a1789c66690d47cdac1edab08f861451_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_a1789c66690d47cdac1edab08f861451_c2"
+                                localtype="folder"
+                                parent="aspace_a1789c66690d47cdac1edab08f861451_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046429"
+                  id="aspace_9d9bd50e23177fd9bdf2138668abc493"
+                  level="file">
+                  <did>
+                     <unittitle>Pontifical Commission for Social Communication</unittitle>
+                     <unitdatestructured altrender="1973-1974, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1973">1973</fromdate>
+                           <todate standarddate="1974">1974</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_9d9bd50e23177fd9bdf2138668abc493_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_9d9bd50e23177fd9bdf2138668abc493_c2"
+                                localtype="folder"
+                                parent="aspace_9d9bd50e23177fd9bdf2138668abc493_c1">10-11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046430"
+                  id="aspace_742ad5924f16fa5761835c6a319d1e45"
+                  level="file">
+                  <did>
+                     <unittitle>Society for the Propagation of the Faith</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1908">1908</fromdate>
+                           <todate standarddate="1973">1973</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_742ad5924f16fa5761835c6a319d1e45_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_742ad5924f16fa5761835c6a319d1e45_c2"
+                                localtype="folder"
+                                parent="aspace_742ad5924f16fa5761835c6a319d1e45_c1">12-13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046431"
+                  id="aspace_88b75bf678d905273fa24b940063e3bc"
+                  level="file">
+                  <did>
+                     <unittitle>Society of St. Peter the Apostle for Native Clergy</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931">1931</fromdate>
+                           <todate standarddate="1949">1949</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_88b75bf678d905273fa24b940063e3bc_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_88b75bf678d905273fa24b940063e3bc_c2"
+                                localtype="folder"
+                                parent="aspace_88b75bf678d905273fa24b940063e3bc_c1">14-15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046436"
+                  id="aspace_adf253b5976313ac29e6f9d4a3b9a881"
+                  level="file">
+                  <did>
+                     <unittitle>Society of the Divine Savior / De Gesellschaft des Gottlichen Heilandes</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_adf253b5976313ac29e6f9d4a3b9a881_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_adf253b5976313ac29e6f9d4a3b9a881_c2"
+                                localtype="folder"
+                                parent="aspace_adf253b5976313ac29e6f9d4a3b9a881_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046433"
+                  id="aspace_3fcf47467c1bd91b72726ba12ff45367"
+                  level="file">
+                  <did>
+                     <unittitle>Society of the Divine Word</unittitle>
+                     <unitdatestructured altrender="1918-1964, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1918">1918</fromdate>
+                           <todate standarddate="1964">1964</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_3fcf47467c1bd91b72726ba12ff45367_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_3fcf47467c1bd91b72726ba12ff45367_c2"
+                                localtype="folder"
+                                parent="aspace_3fcf47467c1bd91b72726ba12ff45367_c1">17</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046440"
+                  id="aspace_3a568c2b3be39a45d723d0272375f68e"
+                  level="file">
+                  <did>
+                     <unittitle>Other Catholic societies</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/484295 /locations/9"
+                                containerid="39002038426392"
+                                id="aspace_3a568c2b3be39a45d723d0272375f68e_c1"
+                                label="Mixed Materials"
+                                localtype="box">267</container>
+                     <container id="aspace_3a568c2b3be39a45d723d0272375f68e_c2"
+                                localtype="folder"
+                                parent="aspace_3a568c2b3be39a45d723d0272375f68e_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046441"
+                  id="aspace_930bda159d5c8f803816016621662c91"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Africa and Asia </unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_930bda159d5c8f803816016621662c91_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_930bda159d5c8f803816016621662c91_c2"
+                                localtype="folder"
+                                parent="aspace_930bda159d5c8f803816016621662c91_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_cbb6003bb968e193cc60489cdeadac5b">
+                     <head>Scope and Contents</head>
+                     <p>Portfolio of photographic leaflets picturing work with children.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046442"
+                  id="aspace_55a3381c1aa4c58d2c76bda81624adbe"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Africa: Capuchin, Jesuit, Mariannhill, Mill-Hill, and White Fathers missions</unittitle>
+                     <unitdatestructured altrender="1907-1969, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1907">1907</fromdate>
+                           <todate standarddate="1969">1969</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_55a3381c1aa4c58d2c76bda81624adbe_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_55a3381c1aa4c58d2c76bda81624adbe_c2"
+                                localtype="folder"
+                                parent="aspace_55a3381c1aa4c58d2c76bda81624adbe_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046443"
+                  id="aspace_08b9455a37ea695345503189d40acc7b"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Africa: Portuguese missions in Congo and Angola</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1889">1889</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_08b9455a37ea695345503189d40acc7b_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_08b9455a37ea695345503189d40acc7b_c2"
+                                localtype="folder"
+                                parent="aspace_08b9455a37ea695345503189d40acc7b_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046444"
+                  id="aspace_8c8b322b4b2a31f38b156ad26b9d67a6"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Africa: Checklist of Catholic missionary journals relating to Africa by D. Henige</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1980">1980</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_8c8b322b4b2a31f38b156ad26b9d67a6_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_8c8b322b4b2a31f38b156ad26b9d67a6_c2"
+                                localtype="folder"
+                                parent="aspace_8c8b322b4b2a31f38b156ad26b9d67a6_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046446"
+                  id="aspace_d35b21b7890eb3e1761951756fa6d523"
+                  level="file">
+                  <did>
+                     <unittitle>Work in China: photo album related to Franciscan missions</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_d35b21b7890eb3e1761951756fa6d523_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_d35b21b7890eb3e1761951756fa6d523_c2"
+                                localtype="folder"
+                                parent="aspace_d35b21b7890eb3e1761951756fa6d523_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046448"
+                  id="aspace_0511b0d7620ab20ccdc8366522e5050b"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Indonesia: Capuchin, Jesuit missions</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1924">1924</fromdate>
+                           <todate standarddate="1963">1963</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_0511b0d7620ab20ccdc8366522e5050b_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_0511b0d7620ab20ccdc8366522e5050b_c2"
+                                localtype="folder"
+                                parent="aspace_0511b0d7620ab20ccdc8366522e5050b_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046449"
+                  id="aspace_3251d704bcb10c95e666efea46d09b0a"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Indonesia: Society of the Divine Word</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_3251d704bcb10c95e666efea46d09b0a_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_3251d704bcb10c95e666efea46d09b0a_c2"
+                                localtype="folder"
+                                parent="aspace_3251d704bcb10c95e666efea46d09b0a_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046450"
+                  id="aspace_f2b952d59d22dd674e7eef70f7cb1ae0"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Indonesia: Crosier Order</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1970">1970</fromdate>
+                           <todate standarddate="1978">1978</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_f2b952d59d22dd674e7eef70f7cb1ae0_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_f2b952d59d22dd674e7eef70f7cb1ae0_c2"
+                                localtype="folder"
+                                parent="aspace_f2b952d59d22dd674e7eef70f7cb1ae0_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046454"
+                  id="aspace_c930b93d5c02915d155f32b627c35a54"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Oceania: Marist missions</unittitle>
+                     <unitdatestructured altrender="circa 1963" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1963">circa 1963</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_c930b93d5c02915d155f32b627c35a54_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_c930b93d5c02915d155f32b627c35a54_c2"
+                                localtype="folder"
+                                parent="aspace_c930b93d5c02915d155f32b627c35a54_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046456"
+                  id="aspace_1961b3b9dffdb1fe5fd7099b186b2478"
+                  level="file">
+                  <did>
+                     <unittitle>Work in Oceania: Jesuit missions</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1963">1963</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_1961b3b9dffdb1fe5fd7099b186b2478_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_1961b3b9dffdb1fe5fd7099b186b2478_c2"
+                                localtype="folder"
+                                parent="aspace_1961b3b9dffdb1fe5fd7099b186b2478_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046451"
+                  id="aspace_38ca454228636baa3e4420d7586a1c3b"
+                  level="file">
+                  <did>
+                     <unittitle>Work in the Philippines: Mission of St. Mary the Virgin, Sagada</unittitle>
+                     <unitdatestructured altrender="1923, undated" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1923">1923, undated</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484296 /locations/9"
+                                containerid="39002038426384"
+                                id="aspace_38ca454228636baa3e4420d7586a1c3b_c1"
+                                label="Mixed Materials"
+                                localtype="box">268</container>
+                     <container id="aspace_38ca454228636baa3e4420d7586a1c3b_c2"
+                                localtype="folder"
+                                parent="aspace_38ca454228636baa3e4420d7586a1c3b_c1">10</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4046467"
+               id="aspace_8ea7abfb1d40fd54010105ef2eb0b672"
+               level="subseries">
+               <did>
+                  <unittitle>China Inland Mission</unittitle>
+               </did>
+               <scopecontent id="aspace_3852ea94ea0088a427e78aba6b37f95c">
+                  <head>Scope and Contents</head>
+                  <p>The China Inland Mission was founded in England but also had headquarters in China, Canada, and the United States.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>
