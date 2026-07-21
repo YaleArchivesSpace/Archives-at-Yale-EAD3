@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-17T23:04:47-04:00</eventdatetime>
+            <eventdatetime>2026-07-20T23:00:19-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 23:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 20, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -392,35 +392,6 @@
                         <todate standarddate="1962">1962</todate>
                      </daterange>
                   </unitdatestructured>
-                  <daoset altrender="/repositories/11/digital_objects/133759">
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/manifests/11860681"
-                          identifier="oid:11860681"
-                          linktitle="69 images"
-                          linkrole="text-json"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/iiif/2/11860840/full/!150,150/0/default.jpg"
-                          identifier="oid:11860681"
-                          linktitle="[Front cover]"
-                          linkrole="image-thumbnail"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/catalog/11860681"
-                          identifier="oid:11860681"
-                          linktitle="[Front cover]"
-                          linkrole="text-html"
-                          show="new"/>
-                     <descriptivenote>
-                        <p>Diaries and notebooks</p>
-                     </descriptivenote>
-                  </daoset>
                </did>
                <scopecontent id="aspace_27e0027b9fc65474de25fe71721d285c">
                   <head>Scope and Contents</head>
@@ -487,6 +458,35 @@ Bedfordshire</p>
                      <container id="aspace_016f345f270a29f82cff566617a6a981_c2"
                                 localtype="folder"
                                 parent="aspace_016f345f270a29f82cff566617a6a981_c1">3</container>
+                     <daoset altrender="/repositories/11/digital_objects/133759">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/11860681"
+                             identifier="oid:11860681"
+                             linktitle="69 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/11860840/full/!150,150/0/default.jpg"
+                             identifier="oid:11860681"
+                             linktitle="[Front cover]"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/11860681"
+                             identifier="oid:11860681"
+                             linktitle="[Front cover]"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>History for V.S.W. by Christopher St. John</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_d283734c6b5d86c2fe0dbebf62619e36">
                      <head>Scope and Contents</head>
