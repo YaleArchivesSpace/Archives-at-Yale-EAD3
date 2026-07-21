@@ -13,7 +13,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.aob.0014.xml](326.xml) | arts.aob.0014 | AOB 14 | British School Printing Examples | 
  [arts.aob.0018.xml](327.xml) | arts.aob.0018 | AOB 18 | John O. C. McCrillis Designs and Art Work | 
  [arts.aob.0019.xml](328.xml) | arts.aob.0019 | AOB 19 | Bradbury Thompson collection | 
- [arts.aob.0028.xml](329.xml) | arts.aob.0028 | AOB 28 | Graphic Design Student Projects Collection | 
  [arts.aob.0003.xml](330.xml) | arts.aob.0003 | AOB 3 | American Trade Card Collection | 
  [arts.aob.0031.xml](331.xml) | arts.aob.0031 | AOB 31 | Emma Joy Dana collection of Anna Mackova | 
  [arts.aob.0038.xml](335.xml) | arts.aob.0038 | AOB 38 | Ken White Collection | 
@@ -270,7 +269,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [ead.arts.alsc.0006.xml](13882.xml) | ead.arts.alsc.0006 | ALSC MS 0006 | Sheila Levrant de Bretteville papers | 
  [arts.aob.0002.xml](13901.xml) | arts.aob.0002 | AOB 2 | Scrapbook and album collection | 
  [arts.art.0030.xml](13936.xml) | arts.art.0030 | ART 30 | Birren collection of paint catalogs and samples | 
- [ead.arts.alsc.0007.xml](13950.xml) | ead.arts.alsc.0007 | ALSC MS 0007 | Graphic Design Program collection of faculty problem books | 
  [ead.arts.alsc.0008.xml](14056.xml) | ead.arts.alsc.0008 | ALSC MS 0008 | Green Family collection of volvelles | 
  [aob103.xml](14063.xml) | aob103 | AOB 103 | Arnold Saks Associates records | 
 
