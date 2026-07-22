@@ -36,6 +36,9 @@
             <controlnote localtype="offsite">
                <p>Box: 1</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Boxes: (Broadside) 2, 3</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -64,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-08T23:02:01-04:00</eventdatetime>
+            <eventdatetime>2026-07-21T23:00:44-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  8, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -84,13 +87,13 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>0.21</quantity>
+            <quantity>6.04</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">(1 box)</physdesc>
+         <physdesc localtype="container_summary">(2 boxes) + 1 broadside</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
-               <fromdate standarddate="1968">1968</fromdate>
+               <fromdate standarddate="1967">1967</fromdate>
                <todate standarddate="1971">1971</todate>
             </daterange>
          </unitdatestructured>
@@ -108,10 +111,11 @@
          <head>Immediate Source of Acquisition</head>
          <p>Purchased from John E. Herzog on the Edwin J. Beinecke Book Fund, 2009.</p>
          <p>Purchased from D. Anthem Bookseller on the Walter Jennings Memorial Fund, 2025.</p>
+         <p>Purchased from Nick Aretakis Americana on the Walter Jennings Memorial Fund, 2026.</p>
       </acqinfo>
       <arrangement id="aspace_cefc052b2ff2c8a86fd874b029148bd7">
          <head>Arrangement</head>
-         <p>This collection is arranged into two series: I. 2016 acquisition, 1968 - 1971. II. February 2025 acquisition, 1970.</p>
+         <p>This collection is arranged into two series: I. 2016 acquisition, 1968 - 1971. II. February 2025 acquisition, 1970. III. March 2026 acquisitions, 1967-1971.</p>
       </arrangement>
       <prefercite id="aspace_7e4e851783d217fb6f57f11253059c3c">
          <head>Preferred Citation</head>
@@ -126,7 +130,7 @@
       </processinfo>
       <scopecontent id="aspace_df4a3c4ddb5fcbd64e3be47a37995926">
          <head>Scope and Contents</head>
-         <p>This collection contains protest fliers, newsletters, leaflets, and other printed ephemera related to the Black Panther Party.</p>
+         <p>This collection contains protest fliers, newsletters, leaflets, posters and other printed ephemera related to the Black Panther Party.</p>
       </scopecontent>
       <userestrict id="aspace_5d474ec4fd4aad62df826d0e1f565793">
          <head>Conditions Governing Use</head>
