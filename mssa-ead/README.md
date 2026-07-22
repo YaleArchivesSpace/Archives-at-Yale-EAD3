@@ -2,6 +2,7 @@
 
 EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
+ [arts.aob.0028.xml](329.xml) | arts.aob.0028 | AOB 28 | Graphic Design Student Projects Collection | 
  [arts.aob.0034.xml](333.xml) | arts.aob.0034 | AOB 34 | Yale Residential Colleges Student Printing Collection | 
  [arts.art.0015.xml](366.xml) | arts.art.0015 | ART 15 | Yale School of Architecture exhibition publications | 
  [arts.dra.0014.xml](430.xml) | arts.dra.0014 | DRA 14 | Pamela Jordan Yale School of Drama Scrapbook Collection | 
@@ -2964,4 +2965,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ru.1203.xml](13855.xml) | mssa.ru.1203 | RU 1203 | Isaac Mills (1767-1843), records | 
  [mssa.ru.1204.xml](13863.xml) | mssa.ru.1204 | RU 1204 | Theater, Dance and Performance Studies, Yale University, records | 
  [mssa.ms.555xxx.xml](13943.xml) | mssa.ms.555xxx | MS/RU.555xxx | Demo Resource - December 2025 | 
+ [ead.arts.alsc.0007.xml](13950.xml) | ead.arts.alsc.0007 | ALSC MS 0007 | Graphic Design Program collection of faculty problem books | 
 

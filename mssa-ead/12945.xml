@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-15T03:00:20-04:00</eventdatetime>
+            <eventdatetime>2026-07-22T03:00:28-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 15, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -941,7 +941,7 @@
                      id="aspace_b1c7d8fbd036e46ceb860503e071b5ea"
                      level="file">
                      <did>
-                        <unittitle>"African American Conference: The Study @ Yale" </unittitle>
+                        <unittitle>"African American Conference: The Study @ Yale"</unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                            <quantity>1</quantity>
                            <unittype>Videocassette (MiniDV)</unittype>
@@ -954,6 +954,11 @@
                                    label="Mixed Materials"
                                    localtype="box">19</container>
                      </did>
+                     <accessrestrict id="aspace_0c77c170b474ee55837f4c7d6a1bd999"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                </c>
                <c altrender="/repositories/12/archival_objects/3536674"

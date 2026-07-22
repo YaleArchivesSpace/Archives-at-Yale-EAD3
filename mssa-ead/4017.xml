@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-07-12T03:00:34-04:00</eventdatetime>
+            <eventdatetime>2026-07-22T03:00:24-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday July 12, 2025 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4127,6 +4127,11 @@
                                    label="Mixed Materials"
                                    localtype="box">48U</container>
                      </did>
+                     <accessrestrict id="aspace_0a87ecb3bd47bc7995eb1413ee67a612"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                </c>
                <c altrender="/repositories/12/archival_objects/1265776"
