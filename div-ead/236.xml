@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-05-20T18:00:40-04:00</eventdatetime>
+            <eventdatetime>2026-07-22T18:01:16-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday May 20, 2025 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -635,16 +635,104 @@
                                 localtype="box">31</container>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4046757"
+                  id="aspace_e0d3c145419e47c446943f285a144018"
+                  level="file">
+                  <did>
+                     <unittitle>Stewart, Lucy Alfreda</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1961">1961</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7877 /locations/9"
+                                containerid="39002038300787"
+                                id="aspace_e0d3c145419e47c446943f285a144018_c1"
+                                label="Mixed Materials"
+                                localtype="box">32</container>
+                     <container id="aspace_e0d3c145419e47c446943f285a144018_c2"
+                                localtype="folder"
+                                parent="aspace_e0d3c145419e47c446943f285a144018_c1">1-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046758"
+                  id="aspace_577f6a37efd45bbbc96ab2995c4fbee3"
+                  level="file">
+                  <did>
+                     <unittitle>Young, Maud</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1930">1930</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7877 /locations/9"
+                                containerid="39002038300787"
+                                id="aspace_577f6a37efd45bbbc96ab2995c4fbee3_c1"
+                                label="Mixed Materials"
+                                localtype="box">32</container>
+                     <container id="aspace_577f6a37efd45bbbc96ab2995c4fbee3_c2"
+                                localtype="folder"
+                                parent="aspace_577f6a37efd45bbbc96ab2995c4fbee3_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046759"
+                  id="aspace_8b9d7863cce0fc2d792c2b17d2f8cf5b"
+                  level="file">
+                  <did>
+                     <unittitle>Note: Cousin Mary</unittitle>
+                     <unitdatestructured altrender="1925, 1944" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1925">1925</fromdate>
+                           <todate standarddate="1944">1944</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7877 /locations/9"
+                                containerid="39002038300787"
+                                id="aspace_8b9d7863cce0fc2d792c2b17d2f8cf5b_c1"
+                                label="Mixed Materials"
+                                localtype="box">32</container>
+                     <container id="aspace_8b9d7863cce0fc2d792c2b17d2f8cf5b_c2"
+                                localtype="folder"
+                                parent="aspace_8b9d7863cce0fc2d792c2b17d2f8cf5b_c1">10</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/74569"
                   id="ref32"
                   level="file">
                   <did>
-                     <unittitle>Young, Maud; Family history materials, including early letters by Ezra Fisher and his wife</unittitle>
+                     <unittitle>Fisher, Amelia and Ezra</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1861">1861</fromdate>
+                           <todate standarddate="1862">1862</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7877 /locations/9"
                                 containerid="39002038300787"
                                 id="aspace_ref32_c1"
                                 label="Mixed Materials"
                                 localtype="box">32</container>
+                     <container id="aspace_ref32_c2" localtype="folder" parent="aspace_ref32_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046760"
+                  id="aspace_d7414d53d0cbb910de2721cef044a95b"
+                  level="file">
+                  <did>
+                     <unittitle>Family history</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1907">1907</fromdate>
+                           <todate standarddate="1962">1962</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7877 /locations/9"
+                                containerid="39002038300787"
+                                id="aspace_d7414d53d0cbb910de2721cef044a95b_c1"
+                                label="Mixed Materials"
+                                localtype="box">32</container>
+                     <container id="aspace_d7414d53d0cbb910de2721cef044a95b_c2"
+                                localtype="folder"
+                                parent="aspace_d7414d53d0cbb910de2721cef044a95b_c1">12-13</container>
                   </did>
                </c>
             </c>
@@ -858,16 +946,65 @@
                                 localtype="box">48</container>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4046761"
+                  id="aspace_e364fdff20c33e4b580f64e2087c531f"
+                  level="file">
+                  <did>
+                     <unittitle>Chih - China Institute in America, Bulletin No. 1</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1904">1904</fromdate>
+                           <todate standarddate="1966">1966</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7895 /locations/9"
+                                containerid="39002038300969"
+                                id="aspace_e364fdff20c33e4b580f64e2087c531f_c1"
+                                label="Mixed Materials"
+                                localtype="box">49</container>
+                     <container id="aspace_e364fdff20c33e4b580f64e2087c531f_c2"
+                                localtype="folder"
+                                parent="aspace_e364fdff20c33e4b580f64e2087c531f_c1">1-20</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/74588"
                   id="ref51"
                   level="file">
                   <did>
-                     <unittitle>Chih - Christianity</unittitle>
+                     <unittitle>China Institute in America, Correspondence</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1927">1927</fromdate>
+                           <todate standarddate="1952">1952</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/7895 /locations/9"
                                 containerid="39002038300969"
                                 id="aspace_ref51_c1"
                                 label="Mixed Materials"
                                 localtype="box">49</container>
+                     <container id="aspace_ref51_c2" localtype="folder" parent="aspace_ref51_c1">21</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046763"
+                  id="aspace_f147ce8d99469cd3dc67cf2618df9739"
+                  level="file">
+                  <did>
+                     <unittitle>China Institute in America, Receipts for Annual Associate Membership Dues - Christianity Today</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1911">1911</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7895 /locations/9"
+                                containerid="39002038300969"
+                                id="aspace_f147ce8d99469cd3dc67cf2618df9739_c1"
+                                label="Mixed Materials"
+                                localtype="box">49</container>
+                     <container id="aspace_f147ce8d99469cd3dc67cf2618df9739_c2"
+                                localtype="folder"
+                                parent="aspace_f147ce8d99469cd3dc67cf2618df9739_c1">22-63</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74589"
@@ -1122,16 +1259,67 @@
                                 localtype="box">70</container>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4046764"
+                  id="aspace_4b4b985d6c5e3f8fd9c6d84f37b76b05"
+                  level="file">
+                  <did>
+                     <unittitle>Houston, James Macintosh - Hsu, Pearl</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1909">1909</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/347990 /locations/9"
+                                containerid="39002038301181"
+                                id="aspace_4b4b985d6c5e3f8fd9c6d84f37b76b05_c1"
+                                label="Mixed Materials"
+                                localtype="box">71</container>
+                     <container id="aspace_4b4b985d6c5e3f8fd9c6d84f37b76b05_c2"
+                                localtype="folder"
+                                parent="aspace_4b4b985d6c5e3f8fd9c6d84f37b76b05_c1">1-34</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/2962831"
                   id="aspace_6a7555ef89a39579f35bd3eef3053509"
                   level="file">
                   <did>
-                     <unittitle>Houston - Hutchinson</unittitle>
+                     <unittitle>Hu, Shih</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1927">1927</fromdate>
+                           <todate standarddate="1939">1939</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/347990 /locations/9"
                                 containerid="39002038301181"
                                 id="aspace_6a7555ef89a39579f35bd3eef3053509_c1"
                                 label="Mixed Materials"
                                 localtype="box">71</container>
+                     <container id="aspace_6a7555ef89a39579f35bd3eef3053509_c2"
+                                localtype="folder"
+                                parent="aspace_6a7555ef89a39579f35bd3eef3053509_c1">35</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046766"
+                  id="aspace_0ef6445efa3ca2d586366342b0129398"
+                  level="file">
+                  <did>
+                     <unittitle>Hua-chung ta hsüeh, Wuchang, China - Hutchison, William Robert</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1909">1909</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/347990 /locations/9"
+                                containerid="39002038301181"
+                                id="aspace_0ef6445efa3ca2d586366342b0129398_c1"
+                                label="Mixed Materials"
+                                localtype="box">71</container>
+                     <container id="aspace_0ef6445efa3ca2d586366342b0129398_c2"
+                                localtype="folder"
+                                parent="aspace_0ef6445efa3ca2d586366342b0129398_c1">36-115</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/74608"
