@@ -42,7 +42,7 @@
                <p>Boxes: 1-29, 31-43, 45-61, 63, 65-114</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 30, 44, 62, 64</p>
+               <p>Boxes: 30, 44, 62, 64, 115-125</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="10">10</num> published digital objects.</p>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-07T23:02:16-04:00</eventdatetime>
+            <eventdatetime>2026-07-22T23:03:23-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:03</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -15294,9 +15294,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:28:22</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1995" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1995">1995</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_9c79987fa902b972250760dac6669ecc">Audio distortion, hiss, and hum are present.</materialspec>
                         <container altrender="/repositories/11/top_containers/391053 /locations/9"
                                    containerid="39002140865560"
                                    id="aspace_ea7d20889713b3c1c19356bd87be3acf_c1"
@@ -15471,9 +15476,18 @@
                               <part>Letter to Bill</part>
                            </title>
                         </unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Audiocassette</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:21:21</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1982 April 14" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1982-04-14">1982 April 14</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_a9bc027c312521c74625275aef3ff9f6">Audio distortion, hiss, and hum are present.</materialspec>
                         <container altrender="/repositories/11/top_containers/391053 /locations/9"
                                    containerid="39002140865560"
                                    id="aspace_9c0af197f8e00834901458ca7d2b7eef_c1"

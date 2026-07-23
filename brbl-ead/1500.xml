@@ -45,7 +45,7 @@
                <p>Boxes: 37-38</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="609">609</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="609">609</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-08T23:02:20-04:00</eventdatetime>
+            <eventdatetime>2026-07-22T23:02:57-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July  8, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -9504,6 +9504,25 @@
                            <container id="aspace_ref608_c2"
                                       localtype="item_barcode"
                                       parent="aspace_ref608_c1">39002140917452</container>
+                           <daoset altrender="/repositories/11/digital_objects/350980">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://beineckelibrary.aviaryplatform.com/r/028pc2w271"
+                                   identifier="aviary_176204"
+                                   linkrole="video-streaming"
+                                   show="new"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/315/688/original/open-uri20260722-904-x86cza?1784747631"
+                                   identifier="aviary_176204"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <descriptivenote>
+                                 <p>[Aviary] ycalmss028339002140917452.u.mp3</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                         <accessrestrict id="aspace_b5b15d3d0af5a85a25d36ee300b2d640"
                                         localtype="RestrictedFragileSpecColl">

@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-04T23:05:34-04:00</eventdatetime>
+            <eventdatetime>2026-07-22T23:03:05-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday May  4, 2026 at 23:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -15764,9 +15764,14 @@ Audio, at times, sounds hollow or unclear.</materialspec>
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:45:00</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1993">1993</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_0f1fe4ff6db3e24387079c1aa6f908c8">Audio distortion, hiss, and hum are present.</materialspec>
                         <container altrender="/repositories/11/top_containers/369377 /locations/9"
                                    containerid="39002104904363"
                                    encodinganalog="archive legal"
@@ -15792,9 +15797,14 @@ Audio, at times, sounds hollow or unclear.</materialspec>
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:44:37</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1993">1993</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_265f0cf41a41f116176944f57b800f7c">Audio distortion, hiss, and hum are present.</materialspec>
                         <container altrender="/repositories/11/top_containers/369377 /locations/9"
                                    containerid="39002104904363"
                                    encodinganalog="archive legal"
