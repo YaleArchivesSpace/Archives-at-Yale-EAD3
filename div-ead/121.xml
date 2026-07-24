@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-16T18:02:24-04:00</eventdatetime>
+            <eventdatetime>2026-07-24T18:00:55-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 16, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 24, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4576,7 +4576,7 @@
                   id="ref268"
                   level="file">
                   <did>
-                     <unittitle>Videocassettes: 1988 ASK Reunion at Gustavus, Chas Roberts and 1987 Underground Church - Changsha; Moongate Dedication, 1998; Chinese Video of ASK Moongate Groundbreaking and subsequent banquet with Sinyang Authorities and Tourist Promotion beginning with Jigongshan; 1992 Return to China; The Christian Church in China: A Story of Faith; Service at Kingkushan Church, 1992; Moongate Dedication, 9/21/1998 produced by Jade Tree Trail</unittitle>
+                     <unittitle>Videocassettes: Moongate Dedication, 1998; Chinese Video of ASK Moongate Groundbreaking and subsequent banquet with Sinyang Authorities and Tourist Promotion beginning with Jigongshan; 1992 Return to China; The Christian Church in China: A Story of Faith; Service at Kingkushan Church, 1992; Moongate Dedication, 9/21/1998 produced by Jade Tree Trail</unittitle>
                      <unitdatestructured altrender="1988-1998" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1988">1988</fromdate>
@@ -4589,6 +4589,27 @@
                                 label="Mixed Materials"
                                 localtype="box">10</container>
                      <container id="aspace_ref268_c2" localtype="folder" parent="aspace_ref268_c1">96</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4046964"
+                  id="aspace_d61f9121196cfd5efed3f3e2edd592b9"
+                  level="file">
+                  <did>
+                     <unittitle>1988 ASK Reunion at Gustavus, Chas Roberts and 1987 Underground Church - Changsha</unittitle>
+                     <unitdatestructured altrender="1987-1988" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1987">1987</fromdate>
+                           <todate standarddate="1988">1988</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/5182 /locations/9"
+                                containerid="39002061138039"
+                                id="aspace_d61f9121196cfd5efed3f3e2edd592b9_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_d61f9121196cfd5efed3f3e2edd592b9_c2"
+                                localtype="item"
+                                parent="aspace_d61f9121196cfd5efed3f3e2edd592b9_c1">VHS tape</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/39631"
