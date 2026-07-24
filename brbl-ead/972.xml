@@ -79,10 +79,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-23T23:00:29-04:00</eventdatetime>
+            <eventdatetime>2026-07-23T23:01:27-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 23, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 23, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2675,7 +2675,10 @@
                      id="ref152"
                      level="file">
                      <did>
-                        <unittitle>Drafts, typescript, corrected [with working notes on advance proof of David L. Cohn's article, "The Negro Novel: Richard Wright"]</unittitle>
+                        <unittitle>Drafts, typescript, corrected [with working notes on advance proof of David L. Cohn's article, "The Negro Novel: Richard Wright"]; Setting typescript, corrected; Printed version, <title localtype="simple" render="italic">
+                              <part>Atlantic Monthly</part>
+                           </title>
+                        </unittitle>
                         <unitdatestructured altrender="[1940]" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1940">[1940]</datesingle>
                         </unitdatestructured>
@@ -2685,41 +2688,6 @@
                                    label="Mixed Materials"
                                    localtype="box">5</container>
                         <container id="aspace_ref152_c2" localtype="folder" parent="aspace_ref152_c1">108</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/11/archival_objects/352772"
-                     id="ref153"
-                     level="file">
-                     <did>
-                        <unittitle>Setting typescript, corrected</unittitle>
-                        <unitdatestructured altrender="[1940]" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1940">[1940]</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/11/top_containers/34754 /locations/4051"
-                                   containerid="39002099351893"
-                                   id="aspace_ref153_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">5</container>
-                        <container id="aspace_ref153_c2" localtype="folder" parent="aspace_ref153_c1">108</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/11/archival_objects/352773"
-                     id="ref154"
-                     level="file">
-                     <did>
-                        <unittitle>Printed version, <title localtype="simple" render="italic">
-                              <part>Atlantic Monthly</part>
-                           </title>
-                        </unittitle>
-                        <unitdatestructured altrender="1940 Jun" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1940-06">1940 Jun</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/11/top_containers/34754 /locations/4051"
-                                   containerid="39002099351893"
-                                   id="aspace_ref154_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">5</container>
-                        <container id="aspace_ref154_c2" localtype="folder" parent="aspace_ref154_c1">108</container>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/352774"
