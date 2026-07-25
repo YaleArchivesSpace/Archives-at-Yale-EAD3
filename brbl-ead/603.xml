@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-10-30T23:02:49-04:00</eventdatetime>
+            <eventdatetime>2026-07-24T23:01:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 30, 2025 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 24, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3649,6 +3649,10 @@
                level="file">
                <did>
                   <unittitle>Photograph album</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>Folders</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1978" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1978">1978</datesingle>
                   </unitdatestructured>
