@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="http://hdl.handle.net/10079/fa/">mssa.ms.xxxx or mssa.ru.xxxx</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Yale Symphony Orchestra, records </titleproper>
+            <author>compiled by Matt Nelson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <num>RU.1210</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-07-25T03:01:08-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday July 25, 2026 at 03:01</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/14088" level="collection">
+      <did>
+         <unittitle>Yale Symphony Orchestra, records</unittitle>
+         <unitid>RU.1210</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>8057</quantity>
+            <unittype>Computer Files (.jpg)</unittype>
+         </physdescstructured>
+         <unitdatestructured altrender="1986-2025" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1986">1986</fromdate>
+               <todate standarddate="2025">2025</todate>
+            </daterange>
+         </unitdatestructured>
+         <origination label="Creator">
+            <corpname rules="aacr">
+               <part localtype="agent_corporate_entity">Yale Symphony Orchestra</part>
+               <part localtype="title">Donor</part>
+            </corpname>
+         </origination>
+      </did>
+      <prefercite id="aspace_e512a5ff52b0fb150992760340a52ad4">
+         <head>Preferred Citation</head>
+         <p>Collection Title (MS XXXX or RU XXXX). Manuscripts and Archives, Yale University Library.</p>
+      </prefercite>
+      <bioghist id="aspace_7eb0297d2e4eb7629e866d3fab96b1c3">
+         <head>Biographical / Historical</head>
+         <p>The Yale Symphony Orchestra was founded in 1965 as the Calhoun Chamber Orchestra and renamed to its current title by 1967. Since its inception, the orchestra consists of current Yale students and is conducted by Yale faculty or graduate students. The orchestra performs several times each year in Woolsey Hall and over live-stream to an audience of several thousand spectators and, since 1971, has periodically gone on performance tours in Europe, South America, and Asia. Performances include a wide range of music, including traditional Western European classical music, American heritage, and American contemporary music. Information for this historical note was taken from the Yale Symphony Orchestra website, "The Fifty-Year Crescendo" by Teresa Chen in the Yale Daily News, and "Making music for a half century" by Christopher Arnott in the Yale Alumni Magazine.</p>
+      </bioghist>
+      <odd id="aspace_8352029a53cc70fc4a08f1494e695652">
+         <head>General</head>
+         <p>Forms part of Record Group 40 (YRG 40), Records of Yale Clubs, Societies, and Organizations</p>
+      </odd>
+      <controlaccess>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85095326"
+                  source="lcsh">
+            <part localtype="topical">Orchestral music</part>
+         </subject>
+         <genreform identifier="http://id.loc.gov/authorities/genreForms/gf2014027121"
+                    source="lcgft">
+            <part localtype="genre_form">Symphonies</part>
+         </genreform>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85030622"
+                  source="lcsh">
+            <part localtype="topical">Concert programs</part>
+         </subject>
+         <subject source="local_music">
+            <part localtype="topical">Yale University</part>
+            <part localtype="topical">Music ensembles</part>
+         </subject>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>
