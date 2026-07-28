@@ -33,11 +33,11 @@
             <num>RG 349</num>
          </publicationstmt>
          <notestmt>
+            <controlnote localtype="onsite">
+               <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245, 270, 272, 276-278</p>
+            </controlnote>
             <controlnote localtype="offsite">
                <p>Boxes: 1-139, 142-144, 147-149, 151-168, 170-194, 196, 201-202, 204-208, 217-220, 223, 226-229, 238, 246-269, 271, 273-275</p>
-            </controlnote>
-            <controlnote localtype="onsite">
-               <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245, 270, 272</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="111">111</num> digital files.</p>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-23T18:00:47-04:00</eventdatetime>
+            <eventdatetime>2026-07-28T18:00:16-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 23, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1562,7 +1562,7 @@
                   id="aspace_bb343c399e09fa0c3209595f10955e23"
                   level="subseries">
                   <did>
-                     <unittitle>Church of the Province of South Africa</unittitle>
+                     <unittitle>Church of the Province of Southern Africa</unittitle>
                   </did>
                   <c altrender="/repositories/4/archival_objects/4000627"
                      id="aspace_afb4f2ed06f00c0167d838d9d9a8a450"
@@ -1899,7 +1899,7 @@
                   </did>
                   <scopecontent id="aspace_b8910a714c4f741f64301ede399106e8">
                      <head>Scope and Contents</head>
-                     <p>Reports</p>
+                     <p>Reports, newsletters.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4000645"
@@ -4181,7 +4181,7 @@
                   id="aspace_94d059b123f42c5ccd0f7862d6586acb"
                   level="file">
                   <did>
-                     <unittitle>All Saints' Church</unittitle>
+                     <unittitle>All Saints' Church, Bangalore [Bengaluru]</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1970">1970</datesingle>
                      </unitdatestructured>
@@ -10178,33 +10178,6 @@
                   <scopecontent id="aspace_8c909843f28fc0c609948d281fe94b1e">
                      <head>Scope and Contents</head>
                      <p>Reports of social service agency for the poor located in Torino.</p>
-                  </scopecontent>
-               </c>
-               <c altrender="/repositories/4/archival_objects/4003573"
-                  id="aspace_aef035f2e41184ddae8014a4876fa35a"
-                  level="file">
-                  <did>
-                     <unittitle>Waldensian Church of Italy / Chiesa Evangelica Valdese</unittitle>
-                     <unitdatestructured altrender="1905-1939, undated"
-                                         label="creation"
-                                         unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1905">1905</fromdate>
-                           <todate standarddate="1939">1939</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/422229 /locations/9"
-                                containerid="39002112325957"
-                                id="aspace_aef035f2e41184ddae8014a4876fa35a_c1"
-                                label="Mixed Materials"
-                                localtype="box">45</container>
-                     <container id="aspace_aef035f2e41184ddae8014a4876fa35a_c2"
-                                localtype="folder"
-                                parent="aspace_aef035f2e41184ddae8014a4876fa35a_c1">7-8</container>
-                  </did>
-                  <scopecontent id="aspace_76176332feed4f78e6af48c6a0e35b2e">
-                     <head>Scope and Contents</head>
-                     <p>Reports, publications.</p>
                   </scopecontent>
                </c>
             </c>
@@ -45937,6 +45910,149 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                 parent="aspace_2aadb145aeb9cfc7b862e124a21e53ab_c1">10</container>
                   </did>
                </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4047501"
+               id="aspace_09a45a8f4ea199371451ab8401f66742"
+               level="subseries">
+               <did>
+                  <unittitle>World University Service</unittitle>
+               </did>
+               <scopecontent id="aspace_65797d63e35d7482d2abc9740ead4a5e">
+                  <head>Scope and Contents</head>
+                  <p>Included here are records of predecessor organizations of World University Service: European Student Relief Fund, World Student Service, International Student Service.</p>
+               </scopecontent>
+               <c altrender="/repositories/4/archival_objects/4047505"
+                  id="aspace_45b6edad96f5808ff0ff473334e044ed"
+                  level="file">
+                  <did>
+                     <unittitle>European Student Relief Fund / World Student Relief / International Student Relief annual reports</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1941">1941</fromdate>
+                           <todate standarddate="1950">1950</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484340 /locations/2"
+                                containerid="39002112327128"
+                                id="aspace_45b6edad96f5808ff0ff473334e044ed_c1"
+                                label="Mixed Materials"
+                                localtype="box">276</container>
+                     <container id="aspace_45b6edad96f5808ff0ff473334e044ed_c2"
+                                localtype="folder"
+                                parent="aspace_45b6edad96f5808ff0ff473334e044ed_c1">1-2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047506"
+                  id="aspace_4c60e440a9c89185bb72c3c79fb1e26b"
+                  level="file">
+                  <did>
+                     <unittitle>European Student Relief Fund / World Student Relief news letters</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1942">1942</fromdate>
+                           <todate standarddate="1946">1946</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484340 /locations/2"
+                                containerid="39002112327128"
+                                id="aspace_4c60e440a9c89185bb72c3c79fb1e26b_c1"
+                                label="Mixed Materials"
+                                localtype="box">276</container>
+                     <container id="aspace_4c60e440a9c89185bb72c3c79fb1e26b_c2"
+                                localtype="folder"
+                                parent="aspace_4c60e440a9c89185bb72c3c79fb1e26b_c1">3-5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047509"
+                  id="aspace_7c059fa372f9012dd543e7db8d75c63d"
+                  level="file">
+                  <did>
+                     <unittitle>European Student Relief Postwar Reconstruction reports</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1944">1944</fromdate>
+                           <todate standarddate="1945">1945</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484340 /locations/2"
+                                containerid="39002112327128"
+                                id="aspace_7c059fa372f9012dd543e7db8d75c63d_c1"
+                                label="Mixed Materials"
+                                localtype="box">276</container>
+                     <container id="aspace_7c059fa372f9012dd543e7db8d75c63d_c2"
+                                localtype="folder"
+                                parent="aspace_7c059fa372f9012dd543e7db8d75c63d_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047511"
+                  id="aspace_14af641d32d7a5e6d2ba021331eda228"
+                  level="file">
+                  <did>
+                     <unittitle>European Student Relief Fund overviews of work</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1944">1944</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484340 /locations/2"
+                                containerid="39002112327128"
+                                id="aspace_14af641d32d7a5e6d2ba021331eda228_c1"
+                                label="Mixed Materials"
+                                localtype="box">276</container>
+                     <container id="aspace_14af641d32d7a5e6d2ba021331eda228_c2"
+                                localtype="folder"
+                                parent="aspace_14af641d32d7a5e6d2ba021331eda228_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047513"
+                  id="aspace_c45476e247827436106ea176e8534396"
+                  level="file">
+                  <did>
+                     <unittitle>World University Service historical sketch of student relief 1940-1950, newsletters</unittitle>
+                     <unitdatestructured altrender="1950, 1954, 1966"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1950">1950</fromdate>
+                           <todate standarddate="1966">1966</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484340 /locations/2"
+                                containerid="39002112327128"
+                                id="aspace_c45476e247827436106ea176e8534396_c1"
+                                label="Mixed Materials"
+                                localtype="box">276</container>
+                     <container id="aspace_c45476e247827436106ea176e8534396_c2"
+                                localtype="folder"
+                                parent="aspace_c45476e247827436106ea176e8534396_c1">8</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4047516"
+               id="aspace_ddc411cc6a02a27b33354bfe7ed2b331"
+               level="file">
+               <did>
+                  <unittitle>World Young Women's Christian Association</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1978">1978</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/484340 /locations/2"
+                             containerid="39002112327128"
+                             id="aspace_ddc411cc6a02a27b33354bfe7ed2b331_c1"
+                             label="Mixed Materials"
+                             localtype="box">276</container>
+                  <container id="aspace_ddc411cc6a02a27b33354bfe7ed2b331_c2"
+                             localtype="folder"
+                             parent="aspace_ddc411cc6a02a27b33354bfe7ed2b331_c1">9</container>
+               </did>
+               <scopecontent id="aspace_854768cd9dba68cca96edb42828e120b">
+                  <head>Scope and Contents</head>
+                  <p>Annual reports, Programme of Cooperation for Development, Refugee and Rehabilitation Services.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>

@@ -39,7 +39,7 @@
                <p>This encoded findingaid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-11, OV11-A1, OV11-A2, OV11-B3, OV11-B2, OV11-B1, OV11-C2, OV11-C3, OV11-C4, OV11-C1, OV11-D, OV11-E, OV11-F7, OV11-F1, OV11-F2, OV11-F3, OV11-F4, OV11-F5, OV11-F6, OV11-H, OV11-i2, OV11-i1, OV11-J1, OV11-J2, OV11-J3, OV11-J4, OV11-J5, OV11-L, OV11-M, OV11-N, OV11-O, OV11-P1, OV11-P2, OV11-Q, OV11-R, OV11-S, OV11-T-56, 56a-143, 143A-235, 235A-400A, 400B-420A, 420B-432, 434-465, 442.5</p>
+               <p>Boxes: 1-11, OV11-A1, OV11-A2, OV11-B3, OV11-B2, OV11-B1, OV11-C2, OV11-C3, OV11-C4, OV11-C1, OV11-D, OV11-E, OV11-F7, OV11-F1, OV11-F2, OV11-F3, OV11-F4, OV11-F5, OV11-F6, OV11-H, OV11-i2, OV11-i1, OV11-J1, OV11-J2, OV11-J3, OV11-J4, OV11-J5, OV11-L, OV11-M, OV11-N, OV11-O, OV11-P1, OV11-P2, OV11-Q, OV11-R, OV11-S, OV11-T-56, 56a-143, 143A-235, 235A-400A, 400B-420A, 420B-432, 434-465, 442.5C</p>
             </controlnote>
             <controlnote localtype="onsite">
                <p>Boxes: OVd1, OVd7-OVd9, OV11-G, OV11-U, OV11-V, OVd14-OVd15, OVd17, 433, 466</p>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-24T18:00:58-04:00</eventdatetime>
+            <eventdatetime>2026-07-28T18:00:57-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 24, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -93171,18 +93171,27 @@ Ts'en Su-hsing</p>
                                    label="Mixed Materials"
                                    localtype="box">381</container>
                         <container id="aspace_ref4371_c2" localtype="reel" parent="aspace_ref4371_c1">1</container>
+                        <container id="aspace_ref4371_c3"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref4371_c2">39002109700840</container>
                         <container altrender="/repositories/4/top_containers/3114 /locations/9"
                                    containerid="39002038309093"
-                                   id="aspace_ref4371_c3"
+                                   id="aspace_ref4371_c4"
                                    label="Mixed Materials"
                                    localtype="box">381</container>
-                        <container id="aspace_ref4371_c4" localtype="reel" parent="aspace_ref4371_c3">2</container>
+                        <container id="aspace_ref4371_c5" localtype="reel" parent="aspace_ref4371_c4">2</container>
+                        <container id="aspace_ref4371_c6"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref4371_c5">39002109700857</container>
                         <container altrender="/repositories/4/top_containers/3114 /locations/9"
                                    containerid="39002038309093"
-                                   id="aspace_ref4371_c5"
+                                   id="aspace_ref4371_c7"
                                    label="Mixed Materials"
                                    localtype="box">381</container>
-                        <container id="aspace_ref4371_c6" localtype="reel" parent="aspace_ref4371_c5">3</container>
+                        <container id="aspace_ref4371_c8" localtype="reel" parent="aspace_ref4371_c7">3</container>
+                        <container id="aspace_ref4371_c9"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref4371_c8">39002109700865</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/17474"
@@ -104788,10 +104797,11 @@ Ts'en Su-hsing</p>
                   <did>
                      <unittitle>Miscellaneous and unidentified</unittitle>
                      <container altrender="/repositories/4/top_containers/3171 /locations/9"
-                                containerid="39002038420387"
+                                containerid="39002144680551"
                                 id="aspace_ref4736_c1"
                                 label="Mixed Materials"
-                                localtype="box">442.5</container>
+                                localtype="box">442.5C</container>
+                     <container id="aspace_ref4736_c2" localtype="slide" parent="aspace_ref4736_c1">111-139</container>
                      <daoset altrender="/repositories/4/digital_objects/288385">
                         <dao actuate="onrequest"
                              audience="external"

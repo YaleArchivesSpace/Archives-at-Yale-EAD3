@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-24T18:00:46-04:00</eventdatetime>
+            <eventdatetime>2026-07-28T18:00:32-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 24, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5168,38 +5168,60 @@
                                 label="Mixed Materials"
                                 localtype="box">22</container>
                      <container id="aspace_ref103_c2" localtype="volume" parent="aspace_ref103_c1">1</container>
+                     <container id="aspace_ref103_c3"
+                                localtype="item_barcode"
+                                parent="aspace_ref103_c2">39002144680494</container>
                      <container altrender="/repositories/4/top_containers/5648 /locations/9"
                                 containerid="39002063192950"
-                                id="aspace_ref103_c3"
+                                id="aspace_ref103_c4"
                                 label="Mixed Materials"
                                 localtype="box">22</container>
-                     <container id="aspace_ref103_c4" localtype="volume" parent="aspace_ref103_c3">2</container>
-                     <container altrender="/repositories/4/top_containers/5648 /locations/9"
-                                containerid="39002063192950"
-                                id="aspace_ref103_c5"
-                                label="Mixed Materials"
-                                localtype="box">22</container>
-                     <container id="aspace_ref103_c6" localtype="volume" parent="aspace_ref103_c5">3</container>
+                     <container id="aspace_ref103_c5" localtype="volume" parent="aspace_ref103_c4">2</container>
+                     <container id="aspace_ref103_c6"
+                                localtype="item_barcode"
+                                parent="aspace_ref103_c5">39002144680502</container>
                      <container altrender="/repositories/4/top_containers/5648 /locations/9"
                                 containerid="39002063192950"
                                 id="aspace_ref103_c7"
                                 label="Mixed Materials"
                                 localtype="box">22</container>
-                     <container id="aspace_ref103_c8" localtype="volume" parent="aspace_ref103_c7">4</container>
-                     <container altrender="/repositories/4/top_containers/5651 /locations/9"
-                                containerid="39002063192968"
-                                id="aspace_ref103_c9"
+                     <container id="aspace_ref103_c8" localtype="volume" parent="aspace_ref103_c7">3</container>
+                     <container id="aspace_ref103_c9"
+                                localtype="item_barcode"
+                                parent="aspace_ref103_c8">39002144680510</container>
+                     <container altrender="/repositories/4/top_containers/5648 /locations/9"
+                                containerid="39002063192950"
+                                id="aspace_ref103_c10"
                                 label="Mixed Materials"
-                                localtype="box">23</container>
-                     <container id="aspace_ref103_c10" localtype="volume" parent="aspace_ref103_c9">5</container>
-                     <container altrender="/repositories/4/top_containers/5651 /locations/9"
-                                containerid="39002063192968"
-                                id="aspace_ref103_c11"
-                                label="Mixed Materials"
-                                localtype="box">23</container>
-                     <container id="aspace_ref103_c12"
+                                localtype="box">22</container>
+                     <container id="aspace_ref103_c11"
                                 localtype="volume"
-                                parent="aspace_ref103_c11">6</container>
+                                parent="aspace_ref103_c10">4</container>
+                     <container id="aspace_ref103_c12"
+                                localtype="item_barcode"
+                                parent="aspace_ref103_c11">39002144680528</container>
+                     <container altrender="/repositories/4/top_containers/5651 /locations/9"
+                                containerid="39002063192968"
+                                id="aspace_ref103_c13"
+                                label="Mixed Materials"
+                                localtype="box">23</container>
+                     <container id="aspace_ref103_c14"
+                                localtype="volume"
+                                parent="aspace_ref103_c13">5</container>
+                     <container id="aspace_ref103_c15"
+                                localtype="item_barcode"
+                                parent="aspace_ref103_c14">39002144680486</container>
+                     <container altrender="/repositories/4/top_containers/5651 /locations/9"
+                                containerid="39002063192968"
+                                id="aspace_ref103_c16"
+                                label="Mixed Materials"
+                                localtype="box">23</container>
+                     <container id="aspace_ref103_c17"
+                                localtype="volume"
+                                parent="aspace_ref103_c16">6</container>
+                     <container id="aspace_ref103_c18"
+                                localtype="item_barcode"
+                                parent="aspace_ref103_c17">39002144680478</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/47549"
