@@ -654,7 +654,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ru.0965.xml](2540.xml) | mssa.ru.0965 | RU 965 | Waltraude Woods, senior architect/planner, Yale University, records documenting the history of Yale buildings and grounds | 
  [mssa.ru.0968.xml](2541.xml) | mssa.ru.0968 | RU 968 | Department of Athletics, Yale University, motion pictures documenting men's crew | 
  [mssa.ru.0969.xml](2542.xml) | mssa.ru.0969 | RU 969 | Department of Athletics, Yale University, motion pictures documenting men's ice hockey | 
- [mssa.ru.0973.xml](2543.xml) | mssa.ru.0973 | RU 973 | Csaba Horvath, chairman of the Department of Chemical Engineering, Yale University, records | 
+ [mssa.ru.0973.xml](2543.xml) | mssa.ru.0973 | RU 973 | Department of Chemical Engineering, Yale University, records | 
  [mssa.ru.0975.xml](2544.xml) | mssa.ru.0975 | RU 975 | Hematopoiesis research project, School of Medicine, Yale University, records | 
  [mssa.ru.0977.xml](2545.xml) | mssa.ru.0977 | RU 977 | Labor-Management Relations, Yale University, records | 
  [mssa.ru.0991.xml](2546.xml) | mssa.ru.0991 | RU 991 | Department of Athletics, Yale University, motion pictures documenting soccer | 

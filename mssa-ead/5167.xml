@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-14T03:05:13-04:00</eventdatetime>
+            <eventdatetime>2026-07-28T03:01:47-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 03:01</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -234347,9 +234347,14 @@ Nuclear Energy, DOE</unittitle>
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:06:18</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1997">1997</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_f89f4c3488e0abc1b85df6ac0b5bce0c">Audio hiss, hum, and distortion are present.</materialspec>
                         <container altrender="/repositories/12/top_containers/412407 /locations/206"
                                    containerid="39002140885089"
                                    encodinganalog="archive half legal"
