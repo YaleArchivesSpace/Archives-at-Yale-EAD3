@@ -77,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-22T23:00:35-04:00</eventdatetime>
+            <eventdatetime>2026-07-27T23:58:55-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 27, 2026 at 23:58</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11503,6 +11503,63 @@
                      <p>Files are restricted until 2037 January 1.</p>
                   </scopecontent>
                </c>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4045295"
+            id="aspace_783d55b406f36da28f2b69597e77ac2f"
+            level="series">
+            <did>
+               <unittitle>Printed material previously separated</unittitle>
+               <unitid>Series X</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.417</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(1 box)</physdesc>
+               <unitdatestructured altrender="1968-2014" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1968">1968</fromdate>
+                     <todate standarddate="2014">2014</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_05fc5cbe063cc98f1373cb387b3981d2">
+               <head>Scope and Contents</head>
+               <p>The series contains printed material that was previously separated for bibliographic description, and later returned for incorporation with the papers.</p>
+            </scopecontent>
+            <acqinfo id="aspace_c5dda19dc63ad05ae6b8d1a5bfbfe674">
+               <head>Immediate Source of Acquisition</head>
+               <p>Printed material separated from unidentified previous accessions.</p>
+            </acqinfo>
+            <c altrender="/repositories/11/archival_objects/4045296"
+               id="aspace_8f8f6670d1549802f141f114e18dc01b"
+               level="file">
+               <did>
+                  <unittitle>Printed material</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>6</quantity>
+                     <unittype>Folders</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1968-2014" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1968">1968</fromdate>
+                        <todate standarddate="2014">2014</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484007"
+                             containerid="39002104917480"
+                             encodinganalog="archive legal"
+                             id="aspace_8f8f6670d1549802f141f114e18dc01b_c1"
+                             label="Mixed Materials"
+                             localtype="box">93</container>
+                  <container id="aspace_8f8f6670d1549802f141f114e18dc01b_c2"
+                             localtype="folder"
+                             parent="aspace_8f8f6670d1549802f141f114e18dc01b_c1">1-6</container>
+               </did>
+               <scopecontent id="aspace_558103ab883056a4aeb9ebfcffd4bc76">
+                  <head>Scope and Contents</head>
+                  <p>The files contains magazines and newspapers relating to Louise Glück.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>

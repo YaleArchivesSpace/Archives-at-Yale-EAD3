@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-22T23:10:49-04:00</eventdatetime>
+            <eventdatetime>2026-07-27T23:53:23-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:10</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 27, 2026 at 23:53</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4742,6 +4742,157 @@
                              localtype="folder"
                              parent="aspace_2594208bab55456642205e34997f8fab_c1">324</container>
                </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4045304"
+            id="aspace_b9e6d028b19123a28a53c85221debde6"
+            level="series">
+            <did>
+               <unittitle>May 2026 Acquisition</unittitle>
+               <unitid>Series IX</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.25</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(1 box)</physdesc>
+               <unitdatestructured altrender="circa 1866-1926"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1866">1866</fromdate>
+                     <todate standarddate="1926">1926</todate>
+                  </daterange>
+               </unitdatestructured>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+            </did>
+            <acqinfo id="aspace_632625a6fea0e1231fc47756d7744366">
+               <head>Immediate Source of Acquisition</head>
+               <p>Purchased in 2026 from The Book Shop, LLC on the James Marshall and Marie-Louise Osborn Collection Fund.</p>
+            </acqinfo>
+            <arrangement id="aspace_374d70d2fdfe892a7fb405be8e8112d2">
+               <head>Arrangement</head>
+               <p>Materials maintain order found at time of acquisition.</p>
+            </arrangement>
+            <scopecontent id="aspace_2ee78c5e06747864fc1f4baeef9fff0f">
+               <head>Scope and Contents</head>
+               <p>This accquisition contains writings, correspondence, and other papers created by or related to the life and work of Robert Louis Stevenson.</p>
+            </scopecontent>
+            <c altrender="/repositories/11/archival_objects/4045305"
+               id="aspace_492f613a439a1c3fd7ccd1c630067e13"
+               level="file">
+               <did>
+                  <unittitle>An unfinished story</unittitle>
+                  <unitdatestructured altrender="circa 1866" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1866">circa 1866</datesingle>
+                  </unitdatestructured>
+                  <unitdatestructured altrender="1910 April 4" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1910-04-10">1910 April 4</datesingle>
+                  </unitdatestructured>
+                  <unitdatestructured altrender="1914 April 14" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1914-04-14">1914 April 14</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484010 /locations/9"
+                             containerid="39002104917506"
+                             encodinganalog="archive half legal"
+                             id="aspace_492f613a439a1c3fd7ccd1c630067e13_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+                  <container id="aspace_492f613a439a1c3fd7ccd1c630067e13_c2"
+                             localtype="folder"
+                             parent="aspace_492f613a439a1c3fd7ccd1c630067e13_c1">1</container>
+               </did>
+               <scopecontent id="aspace_8a18a3a4a27c0af4041094087b1d301c">
+                  <head>Scope and Contents</head>
+                  <p>Contains an untitled and unpublished short story along with a fictional letter, autograph manuscript, corrected in the hand of Robert Louis Stevenson. Bound with transcription in unidentified calligraphic hand, illuminated, autograph letter signed from Katherine D. Osbourne to Mr. Newbegin, 1910 April 4, and subscription form for lecture series by Mrs. Lloyd Osbourne on Robert Louis Stevenson, 1910 April 14. Bound and in a slipcase.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4045306"
+               id="aspace_ef77d078e86879bfd71ceebf73441c17"
+               level="file">
+               <did>
+                  <unittitle>Robert Lous Stevenson letter to Mrs. Williams</unittitle>
+                  <unitdatestructured altrender="circa 1887" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1887">circa 1887</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484010 /locations/9"
+                             containerid="39002104917506"
+                             encodinganalog="archive half legal"
+                             id="aspace_ef77d078e86879bfd71ceebf73441c17_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+                  <container id="aspace_ef77d078e86879bfd71ceebf73441c17_c2"
+                             localtype="folder"
+                             parent="aspace_ef77d078e86879bfd71ceebf73441c17_c1">2</container>
+               </did>
+               <scopecontent id="aspace_76a7cdd27b6c858a4c5eb3815bfbdcef">
+                  <head>Scope and Contents</head>
+                  <p>Contains an autograph letter signed to Mrs. Williams from Robert Louis Stevenson on the death of Virgil Williams.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4045307"
+               id="aspace_ea8997607e10bfb37d21cd7e0b4c4c7a"
+               level="file">
+               <did>
+                  <unittitle>John Howell letter to Mary A. Gray</unittitle>
+                  <unitdatestructured altrender="1926 March 25" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1926-03-25">1926 March 25</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484010 /locations/9"
+                             containerid="39002104917506"
+                             encodinganalog="archive half legal"
+                             id="aspace_ea8997607e10bfb37d21cd7e0b4c4c7a_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+                  <container id="aspace_ea8997607e10bfb37d21cd7e0b4c4c7a_c2"
+                             localtype="folder"
+                             parent="aspace_ea8997607e10bfb37d21cd7e0b4c4c7a_c1">3</container>
+               </did>
+               <scopecontent id="aspace_7241c07746eddd84479b44878bd45040">
+                  <head>Scope and Contents</head>
+                  <p>The file contains a typed letter signed from John Howell to Mary A. Gray concerning the Robert Louis Stevenson letter to Katherine Osbourne.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4045308"
+               id="aspace_5460d91ea6788d1f0f4a619abaa5ac5f"
+               level="file">
+               <did>
+                  <unittitle>An unfinished story by Robert Louis Stevenson. The original manuscript unpublished</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/484010 /locations/9"
+                             containerid="39002104917506"
+                             encodinganalog="archive half legal"
+                             id="aspace_5460d91ea6788d1f0f4a619abaa5ac5f_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+                  <container id="aspace_5460d91ea6788d1f0f4a619abaa5ac5f_c2"
+                             localtype="folder"
+                             parent="aspace_5460d91ea6788d1f0f4a619abaa5ac5f_c1">4</container>
+               </did>
+               <scopecontent id="aspace_d6d954607ea08b03c6fa9a5eb2d9becc">
+                  <head>Scope and Contents</head>
+                  <p>The file contains a typescript description by unidentified author.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4045309"
+               id="aspace_3563785156ed11ccf6c306ad6eef59ea"
+               level="file">
+               <did>
+                  <unittitle>Dealer description</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/484010 /locations/9"
+                             containerid="39002104917506"
+                             encodinganalog="archive half legal"
+                             id="aspace_3563785156ed11ccf6c306ad6eef59ea_c1"
+                             label="Mixed Materials"
+                             localtype="box">33</container>
+                  <container id="aspace_3563785156ed11ccf6c306ad6eef59ea_c2"
+                             localtype="folder"
+                             parent="aspace_3563785156ed11ccf6c306ad6eef59ea_c1">5</container>
+               </did>
+               <scopecontent id="aspace_b5ffd31ec3bdc512fd02e250d75c8433">
+                  <head>Scope and Contents</head>
+                  <p>The file contains an unidentified dealer description.</p>
+               </scopecontent>
             </c>
          </c>
          <c altrender="/repositories/11/archival_objects/265379"

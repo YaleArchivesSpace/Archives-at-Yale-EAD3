@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-22T23:10:44-04:00</eventdatetime>
+            <eventdatetime>2026-07-27T23:59:07-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:10</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 27, 2026 at 23:59</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1406,6 +1406,66 @@
                              label="Mixed Materials"
                              localtype="box">12</container>
                </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4045310"
+            id="aspace_efa6846d127a9282ffe4557fbf5496cf"
+            level="series">
+            <did>
+               <unittitle>May 2026 Acquisition</unittitle>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.209</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">1 box</physdesc>
+               <unitdatestructured altrender="1902 December 25"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <datesingle standarddate="1902-12-25">1902 December 25</datesingle>
+               </unitdatestructured>
+               <unitdatestructured altrender="1902 December 26"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <datesingle standarddate="1902-12-26">1902 December 26</datesingle>
+               </unitdatestructured>
+            </did>
+            <acqinfo id="aspace_00f10ffc0f524b57eec0090028ab37c6">
+               <head>Immediate Source of Acquisition</head>
+               <p>The contains material given by The Strong Museum of Play, 2026.</p>
+            </acqinfo>
+            <scopecontent id="aspace_764f90fca859b38ca7807c09373df1cd">
+               <head>Scope and Contents</head>
+               <p>The series contains two letters from Hannah Henley.</p>
+            </scopecontent>
+            <c altrender="/repositories/11/archival_objects/4045311"
+               id="aspace_625c3e80e65f0e52ece7342c800bf9b2"
+               level="file">
+               <did>
+                  <unittitle>Hannah Henley letters to Mrs. [Heard]</unittitle>
+                  <unitdatestructured altrender="1902 December 25"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1902-12-25">1902 December 25</datesingle>
+                  </unitdatestructured>
+                  <unitdatestructured altrender="1902 December 26"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1902-12-26">1902 December 26</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484011 /locations/9"
+                             containerid="39002104917514"
+                             encodinganalog="archive half letter"
+                             id="aspace_625c3e80e65f0e52ece7342c800bf9b2_c1"
+                             label="Mixed Materials"
+                             localtype="box">13</container>
+                  <container id="aspace_625c3e80e65f0e52ece7342c800bf9b2_c2"
+                             localtype="folder"
+                             parent="aspace_625c3e80e65f0e52ece7342c800bf9b2_c1">1</container>
+               </did>
+               <scopecontent id="aspace_6a79c7b1c0675b0dbe2b35977363f9d8">
+                  <head>Scope and Contents</head>
+                  <p>The files contain letters from Hannah Henley to Mrs. [Heard]. Processor assigned name of receipient based on legibility of the handwriting.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>

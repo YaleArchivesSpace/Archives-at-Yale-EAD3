@@ -65,10 +65,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-22T23:10:54-04:00</eventdatetime>
+            <eventdatetime>2026-07-27T23:53:17-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:10</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 27, 2026 at 23:53</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2026-07-13</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Updated by Tina Evans in July 2026 to describe material received after initial acquisition.</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2483,6 +2490,61 @@
                   <head>Scope and Contents</head>
                   <p>Contains a booklet privately printed for Faber and Faber London.</p>
                </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4045297"
+               id="aspace_af5e4a284a5613d64ce29c2d3e11e1a6"
+               level="subseries">
+               <did>
+                  <unittitle>Barnes, Djuna</unittitle>
+               </did>
+               <scopecontent id="aspace_48a83356d86131a345b8c2decdbbe870">
+                  <head>Scope and Contents</head>
+                  <p>The files contain materials received at a later date, under terms of original agreement.</p>
+               </scopecontent>
+               <c altrender="/repositories/11/archival_objects/4045298"
+                  id="aspace_c2751f627c6995ac7567f99bb4d914f7"
+                  level="file">
+                  <did>
+                     <unittitle>Annals of publishing</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484008 /locations/9"
+                                containerid="39002104917498"
+                                encodinganalog="archive half legal"
+                                id="aspace_c2751f627c6995ac7567f99bb4d914f7_c1"
+                                label="Mixed Materials"
+                                localtype="box">17</container>
+                     <container id="aspace_c2751f627c6995ac7567f99bb4d914f7_c2"
+                                localtype="folder"
+                                parent="aspace_c2751f627c6995ac7567f99bb4d914f7_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_e92c709e750386d06690e5ab9500717f">
+                     <head>Scope and Contents</head>
+                     <p>The file contains a typescript corrected by Robert Giroux.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4045299"
+                  id="aspace_18897215cfff734f08fc649bddebede7"
+                  level="file">
+                  <did>
+                     <unittitle>Selected works of Djuna Barnes</unittitle>
+                     <unitdatestructured altrender="1962" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1962">1962</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484008 /locations/9"
+                                containerid="39002104917498"
+                                encodinganalog="archive half legal"
+                                id="aspace_18897215cfff734f08fc649bddebede7_c1"
+                                label="Mixed Materials"
+                                localtype="box">17</container>
+                     <container id="aspace_18897215cfff734f08fc649bddebede7_c2"
+                                localtype="folder"
+                                parent="aspace_18897215cfff734f08fc649bddebede7_c1">2</container>
+                  </did>
+                  <scopecontent id="aspace_8dce8631645492ee8b350841fee2d002">
+                     <head>Scope and Contents</head>
+                     <p>The file contains The selected works of Djuna Barnes. New York: Farrar, Straus abd Cudahy, 1962. Laid in: Farar, Straus and Cudahy review noteis, 1962 April 6.</p>
+                  </scopecontent>
+               </c>
             </c>
             <c altrender="/repositories/11/archival_objects/3926499"
                id="aspace_d800e281c094201f7cec4454779d3bce"
