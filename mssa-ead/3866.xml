@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T03:28:04-05:00</eventdatetime>
+            <eventdatetime>2026-07-29T03:00:22-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 03:28</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 29, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -117,7 +117,7 @@
       </did>
       <accessrestrict id="aspace_1154d554ba08f774318fffb493d6d132">
          <head>Conditions Governing Access</head>
-         <p>Accession 1997-M-022, boxes 2, 7, 10, 32-38, 41-42, 45-46, and 49-51; Accession 1997-M-146, boxes 3 and 4; Accession 2000-M-056 and Accession 2020-M-0028, are open for research. The rest of the material is unprocessed and may contain sensitive information or be in a physical state that would prohibit use.</p>
+         <p>Accession 1988-M-004, boxes 1-6; 1997-M-022, boxes 2, 7, 10, 32-38, 41-42, 45-46, and 49-51; Accession 1997-M-146, boxes 3 and 4; Accession 2000-M-056 and Accession 2020-M-0028, are open for research. The rest of the material is unprocessed and may contain sensitive information or be in a physical state that would prohibit use.</p>
       </accessrestrict>
       <userestrict id="aspace_e4df49e56ff9210ad8975ce7659939f7">
          <head>Conditions Governing Use</head>
@@ -428,10 +428,9 @@
                <p>Inventory by Joseph P. Papagoda, 1987 Nov</p>
                <p>Received from: George Kubler, 1987 Jul 7</p>
             </scopecontent>
-            <accessrestrict id="aspace_8b82a1d8215d6de897c1b7df7374df3c"
-                            localtype="RestrictedCurApprSpecColl">
+            <accessrestrict id="aspace_8b82a1d8215d6de897c1b7df7374df3c">
                <head>Conditions Governing Access</head>
-               <p>Closed until processed.</p>
+               <p>Restricted correspondence contains personally identifiable student information and is closed to research until January 1, 2076.</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/1244156"
                id="ref27"
@@ -639,6 +638,36 @@
                                 localtype="box">6</container>
                   </did>
                </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4047592"
+               id="aspace_9e5af81a0cb8d323fa383590ef80e95a"
+               level="file">
+               <did>
+                  <unittitle>Restricted correspondence</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1965">1965</fromdate>
+                        <todate standarddate="1975">1975</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/484345 /locations/7165"
+                             containerid="39002139877592"
+                             id="aspace_9e5af81a0cb8d323fa383590ef80e95a_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_9e5af81a0cb8d323fa383590ef80e95a_c2"
+                             localtype="folder"
+                             parent="aspace_9e5af81a0cb8d323fa383590ef80e95a_c1">1-4</container>
+               </did>
+               <scopecontent id="aspace_71a0921d5e966bd62c9be972c647dd12">
+                  <head>Scope and Contents</head>
+                  <p>Contains correspondence related to student performance.</p>
+               </scopecontent>
+               <accessrestrict id="aspace_4afc456189cecf8b42a778e1174185c3"
+                               localtype="RestrictedSpecColl">
+                  <head>Conditions Governing Access</head>
+                  <p>Per university policy, the material is closed to research until January 1 , 2076.</p>
+               </accessrestrict>
             </c>
          </c>
          <c altrender="/repositories/12/archival_objects/1244166"
