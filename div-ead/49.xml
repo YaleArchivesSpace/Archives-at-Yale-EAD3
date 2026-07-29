@@ -39,13 +39,13 @@
                <p>This encoded findingaid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-11, OV11-A1, OV11-A2, OV11-B3, OV11-B2, OV11-B1, OV11-C2, OV11-C3, OV11-C4, OV11-C1, OV11-D, OV11-E, OV11-F7, OV11-F1, OV11-F2, OV11-F3, OV11-F4, OV11-F5, OV11-F6, OV11-H, OV11-i2, OV11-i1, OV11-J1, OV11-J2, OV11-J3, OV11-J4, OV11-J5, OV11-L, OV11-M, OV11-N, OV11-O, OV11-P1, OV11-P2, OV11-Q, OV11-R, OV11-S, OV11-T-56, 56a-143, 143A-235, 235A-400A, 400B-420A, 420B-432, 434-465, 442.5C</p>
+               <p>Boxes: 1-11, OV11-A1, OV11-A2, OV11-B3, OV11-B2, OV11-B1, OV11-C2, OV11-C3, OV11-C4, OV11-C1, OV11-D, OV11-E, OV11-F7, OV11-F1, OV11-F2, OV11-F3, OV11-F4, OV11-F5, OV11-F6, OV11-H, OV11-i2, OV11-i1, OV11-J1, OV11-J2, OV11-J3, OV11-J4, OV11-J5, OV11-L, OV11-M, OV11-N, OV11-O, OV11-P1, OV11-P2, OV11-Q, OV11-R, OV11-S, OV11-T-56, 56a-143, 143A-235, 235A-400A, 400B-420A, 420B-432, 434-444, 448-465, 442.5C</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: OVd1, OVd7-OVd9, OV11-G, OV11-U, OV11-V, OVd14-OVd15, OVd17, 433, 466</p>
+               <p>Boxes: LS1, OVd1-LS4, OVd7-OVd9, OV11-U, OV11-V, OVd14-OVd15, OVd17, 433, 438B, 440B, 443B, 466, 442.5A, 442.5B</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="658">658</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="15756">15,756</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="666">666</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="16787">16,787</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-28T18:00:57-04:00</eventdatetime>
+            <eventdatetime>2026-07-29T18:00:46-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 29, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -17915,6 +17915,35 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                              label="Mixed Materials"
                              localtype="box">42</container>
                   <container id="aspace_ref834_c2" localtype="folder" parent="aspace_ref834_c1">1096-1098</container>
+                  <daoset altrender="/repositories/4/digital_objects/351190">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33608649"
+                          identifier="oid:33608649"
+                          linktitle="34 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33608713/full/!150,150/0/default.jpg"
+                          identifier="oid:33608649"
+                          linktitle="34 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33608649"
+                          identifier="oid:33608649"
+                          linktitle="34 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Fenn, William P.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/13944"
@@ -19575,6 +19604,35 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                              label="Mixed Materials"
                              localtype="box">46</container>
                   <container id="aspace_ref895_c2" localtype="folder" parent="aspace_ref895_c1">1187</container>
+                  <daoset altrender="/repositories/4/digital_objects/351189">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33604166"
+                          identifier="oid:33604166"
+                          linktitle="34 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33707380/full/!150,150/0/default.jpg"
+                          identifier="oid:33604166"
+                          linktitle="34 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33604166"
+                          identifier="oid:33604166"
+                          linktitle="34 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Harvard-Yenching Institute: University of Nanking Reports</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/14005"
@@ -20745,6 +20803,35 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                           href="https://collections.library.yale.edu/catalog/33355587"
                           identifier="oid:33355587"
                           linktitle="29 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Insurance Data: Hangchow Christian College</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/4/digital_objects/351191">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33607305"
+                          identifier="oid:33607305"
+                          linktitle="37 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33607339/full/!150,150/0/default.jpg"
+                          identifier="oid:33607305"
+                          linktitle="37 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33607305"
+                          identifier="oid:33607305"
+                          linktitle="37 images"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -36086,6 +36173,35 @@ See
                                 href="https://collections.library.yale.edu/catalog/33596007"
                                 identifier="oid:33596007"
                                 linktitle="16 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Preliminary Committee of the Foochow Christian University</p>
+                           </descriptivenote>
+                        </daoset>
+                        <daoset altrender="/repositories/4/digital_objects/351192">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33609229"
+                                identifier="oid:33609229"
+                                linktitle="62 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33609378/full/!150,150/0/default.jpg"
+                                identifier="oid:33609229"
+                                linktitle="62 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33609229"
+                                identifier="oid:33609229"
+                                linktitle="62 images"
                                 linkrole="text-html"
                                 show="new"/>
                            <descriptivenote>
@@ -103134,6 +103250,35 @@ Ts'en Su-hsing</p>
                         <container id="aspace_e934a111fdbd8840ee69c8dc86c39f2d_c2"
                                    localtype="folder"
                                    parent="aspace_e934a111fdbd8840ee69c8dc86c39f2d_c1">5918-5921</container>
+                        <daoset altrender="/repositories/4/digital_objects/351195">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33606113"
+                                identifier="oid:33606113"
+                                linktitle="202 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33606297/full/!150,150/0/default.jpg"
+                                identifier="oid:33606113"
+                                linktitle="202 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33606113"
+                                identifier="oid:33606113"
+                                linktitle="202 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Buildings, Misc.</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/17768"
@@ -103533,6 +103678,35 @@ Ts'en Su-hsing</p>
                                    id="aspace_ref4675_c1"
                                    label="Mixed Materials"
                                    localtype="box">423</container>
+                        <daoset altrender="/repositories/4/digital_objects/351194">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33607128"
+                                identifier="oid:33607128"
+                                linktitle="340 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33607306/full/!150,150/0/default.jpg"
+                                identifier="oid:33607128"
+                                linktitle="340 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33607128"
+                                identifier="oid:33607128"
+                                linktitle="340 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Chronological sequence</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/17779"
@@ -104710,98 +104884,259 @@ Ts'en Su-hsing</p>
                      <p>The first 44 slides depict images of the University of Nanking and the final 4 depict images of West China Union University.</p>
                   </scopecontent>
                </c>
-               <c altrender="/repositories/4/archival_objects/17837"
-                  id="ref4735"
-                  level="file">
+               <c altrender="/repositories/4/archival_objects/4048747"
+                  id="aspace_84b5e42525eca42860d375d993b462d6"
+                  level="subseries">
                   <did>
                      <unittitle>Yenching University</unittitle>
-                     <container altrender="/repositories/4/top_containers/347938 /locations/9"
-                                containerid="39002038420296"
-                                id="aspace_ref4735_c1"
-                                label="Mixed Materials"
-                                localtype="box">434</container>
-                     <container altrender="/repositories/4/top_containers/347939 /locations/9"
-                                containerid="39002038420304"
-                                id="aspace_ref4735_c2"
-                                label="Mixed Materials"
-                                localtype="box">435</container>
-                     <container altrender="/repositories/4/top_containers/347940 /locations/9"
-                                containerid="39002038420312"
-                                id="aspace_ref4735_c3"
-                                label="Mixed Materials"
-                                localtype="box">436</container>
-                     <container altrender="/repositories/4/top_containers/347941 /locations/9"
-                                containerid="39002038420320"
-                                id="aspace_ref4735_c4"
-                                label="Mixed Materials"
-                                localtype="box">437</container>
-                     <container altrender="/repositories/4/top_containers/347942 /locations/9"
-                                containerid="39002038420338"
-                                id="aspace_ref4735_c5"
-                                label="Mixed Materials"
-                                localtype="box">438</container>
-                     <container altrender="/repositories/4/top_containers/347943 /locations/9"
-                                containerid="39002038420346"
-                                id="aspace_ref4735_c6"
-                                label="Mixed Materials"
-                                localtype="box">439</container>
-                     <container altrender="/repositories/4/top_containers/347944 /locations/9"
-                                containerid="39002038420353"
-                                id="aspace_ref4735_c7"
-                                label="Mixed Materials"
-                                localtype="box">440</container>
-                     <container altrender="/repositories/4/top_containers/347945 /locations/9"
-                                containerid="39002038420361"
-                                id="aspace_ref4735_c8"
-                                label="Mixed Materials"
-                                localtype="box">441</container>
-                     <container altrender="/repositories/4/top_containers/347946 /locations/9"
-                                containerid="39002038420379"
-                                id="aspace_ref4735_c9"
-                                label="Mixed Materials"
-                                localtype="box">442</container>
-                     <daoset altrender="/repositories/4/digital_objects/288378">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33250357"
-                             identifier="oid:33250357"
-                             linktitle="60 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33250400/full/!150,150/0/default.jpg"
-                             identifier="oid:33250357"
-                             linktitle="60 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33250357"
-                             identifier="oid:33250357"
-                             linktitle="60 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Yenching University</p>
-                        </descriptivenote>
-                     </daoset>
                   </did>
+                  <c altrender="/repositories/4/archival_objects/4048892"
+                     id="aspace_f4bc84219fb0feff14746ac756330ea9"
+                     level="file">
+                     <did>
+                        <unittitle>Portraits, campus plan, and buildings</unittitle>
+                        <unitdatestructured altrender="1928, n.d." label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1928">1928, n.d.</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/347938 /locations/9"
+                                   containerid="39002144680577"
+                                   id="aspace_f4bc84219fb0feff14746ac756330ea9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">434</container>
+                     </did>
+                     <scopecontent id="aspace_4c2d5f6d1e2a5155468e779557f18adb">
+                        <head>Scope and Contents</head>
+                        <p>Includes 16 35mm slides</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048745"
+                     id="aspace_e96550c370c2a192daae1a4c4eac082f"
+                     level="file">
+                     <did>
+                        <unittitle>Sports, classes, buildings, and events</unittitle>
+                        <unitdatestructured altrender="1925-1929, n.d."
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1925">1925</fromdate>
+                              <todate standarddate="1929">1929</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/347939 /locations/9"
+                                   containerid="39002144680569"
+                                   id="aspace_e96550c370c2a192daae1a4c4eac082f_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">435</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048760"
+                     id="aspace_7250295080803459db694639f04ec523"
+                     level="file">
+                     <did>
+                        <unittitle>Group portraits, buildings, and events</unittitle>
+                        <unitdatestructured altrender="1929-1930, n.d."
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1929">1929</fromdate>
+                              <todate standarddate="1930">1930</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/347940 /locations/9"
+                                   containerid="39002144680585"
+                                   id="aspace_7250295080803459db694639f04ec523_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">436</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048775"
+                     id="aspace_71027c88559b2f121efc3b89b51b04e3"
+                     level="file">
+                     <did>
+                        <unittitle>Industrial classes, campus, buildings, activities</unittitle>
+                        <container altrender="/repositories/4/top_containers/347941 /locations/9"
+                                   containerid="39002109700873"
+                                   id="aspace_71027c88559b2f121efc3b89b51b04e3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">437</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048776"
+                     id="aspace_9a67631cfe79195cb845c73fae53d244"
+                     level="file">
+                     <did>
+                        <unittitle>Campus, daily life, landscapes, and architectural drawings of Peking Union Medical College and Peking University</unittitle>
+                        <container altrender="/repositories/4/top_containers/347942 /locations/9"
+                                   containerid="39002109700881"
+                                   id="aspace_9a67631cfe79195cb845c73fae53d244_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">438A</container>
+                        <container id="aspace_9a67631cfe79195cb845c73fae53d244_c2"
+                                   localtype="slide"
+                                   parent="aspace_9a67631cfe79195cb845c73fae53d244_c1">1-68, 88</container>
+                        <container altrender="/repositories/4/top_containers/484458 /locations/2"
+                                   containerid="39002144680593"
+                                   id="aspace_9a67631cfe79195cb845c73fae53d244_c3"
+                                   label="Mixed Materials"
+                                   localtype="box">438B</container>
+                        <container id="aspace_9a67631cfe79195cb845c73fae53d244_c4"
+                                   localtype="slide"
+                                   parent="aspace_9a67631cfe79195cb845c73fae53d244_c3">69-87</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048783"
+                     id="aspace_805d807cd55f76c615c0c03d65a7acc4"
+                     level="file">
+                     <did>
+                        <unittitle>Temples, panoramas, daily life</unittitle>
+                        <container altrender="/repositories/4/top_containers/347943 /locations/9"
+                                   containerid="39002109700899"
+                                   id="aspace_805d807cd55f76c615c0c03d65a7acc4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">439</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048805"
+                     id="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35"
+                     level="file">
+                     <did>
+                        <unittitle>"Slides of Peking and Yenching"</unittitle>
+                        <unitdatestructured altrender="Spring 1941" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1941">Spring 1941</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/347944 /locations/9"
+                                   containerid="39002109700915"
+                                   id="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">440A</container>
+                        <container id="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c2"
+                                   localtype="slide"
+                                   parent="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c1">1-54</container>
+                        <container altrender="/repositories/4/top_containers/484459 /locations/2"
+                                   containerid="39002109700907"
+                                   id="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c3"
+                                   label="Mixed Materials"
+                                   localtype="box">440B</container>
+                        <container id="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c4"
+                                   localtype="slide"
+                                   parent="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c3">55-95</container>
+                        <container altrender="/repositories/4/top_containers/3145 /locations/9"
+                                   containerid="39002038309390"
+                                   id="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c5"
+                                   label="Mixed Materials"
+                                   localtype="box">410</container>
+                        <container id="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c6"
+                                   localtype="folder"
+                                   parent="aspace_c5a68c6e58d53d31b5cfb0f27ae03a35_c5">5839.5</container>
+                     </did>
+                     <scopecontent id="aspace_7847b295d389526b5c7b80eed34d255e">
+                        <head>Scope and Contents</head>
+                        <p>Slide listing included, though the slide numbers seem to differ from the current arrangement, and the listing may in fact be for other slides entirely. Includes 16 35mm slides.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048884"
+                     id="aspace_64f701bda70099b4fa8be15ff74d69ef"
+                     level="file">
+                     <did>
+                        <unittitle>"Colored Slides Taken by Dr. Porter"</unittitle>
+                        <unitdatestructured altrender="1940" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1940">1940</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/347945 /locations/9"
+                                   containerid="39002038420361"
+                                   id="aspace_64f701bda70099b4fa8be15ff74d69ef_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">441</container>
+                        <container id="aspace_64f701bda70099b4fa8be15ff74d69ef_c2"
+                                   localtype="slide"
+                                   parent="aspace_64f701bda70099b4fa8be15ff74d69ef_c1">1-60</container>
+                        <container altrender="/repositories/4/top_containers/484464 /locations/2"
+                                   containerid="39002109700949"
+                                   id="aspace_64f701bda70099b4fa8be15ff74d69ef_c3"
+                                   label="Mixed Materials"
+                                   localtype="box">443B</container>
+                        <container id="aspace_64f701bda70099b4fa8be15ff74d69ef_c4"
+                                   localtype="slide"
+                                   parent="aspace_64f701bda70099b4fa8be15ff74d69ef_c3">61-76</container>
+                        <container altrender="/repositories/4/top_containers/3145 /locations/9"
+                                   containerid="39002038309390"
+                                   id="aspace_64f701bda70099b4fa8be15ff74d69ef_c5"
+                                   label="Mixed Materials"
+                                   localtype="box">410</container>
+                        <container id="aspace_64f701bda70099b4fa8be15ff74d69ef_c6"
+                                   localtype="folder"
+                                   parent="aspace_64f701bda70099b4fa8be15ff74d69ef_c5">5839.5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/17837"
+                     id="ref4735"
+                     level="file">
+                     <did>
+                        <unittitle>Buildings, campus, portraits, athletic events, meals</unittitle>
+                        <container altrender="/repositories/4/top_containers/347946 /locations/9"
+                                   containerid="39002109700931"
+                                   id="aspace_ref4735_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">442</container>
+                        <daoset altrender="/repositories/4/digital_objects/288378">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33250357"
+                                identifier="oid:33250357"
+                                linktitle="60 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33250400/full/!150,150/0/default.jpg"
+                                identifier="oid:33250357"
+                                linktitle="60 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33250357"
+                                identifier="oid:33250357"
+                                linktitle="60 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Yenching University</p>
+                           </descriptivenote>
+                        </daoset>
+                     </did>
+                     <scopecontent id="aspace_4aba1ac712c05c9c695eb94e425567c8">
+                        <head>Scope and Contents</head>
+                        <p>Most slides labeled as the "Property of the Board of Foreign Missions of the Presbyterian Church in the U.S.A. 156 Avenue, New York City"</p>
+                     </scopecontent>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/17838"
                   id="ref4736"
                   level="file">
                   <did>
                      <unittitle>Miscellaneous and unidentified</unittitle>
-                     <container altrender="/repositories/4/top_containers/3171 /locations/9"
-                                containerid="39002144680551"
+                     <container altrender="/repositories/4/top_containers/484466 /locations/2"
+                                containerid="39002109700956"
                                 id="aspace_ref4736_c1"
                                 label="Mixed Materials"
+                                localtype="box">442.5A</container>
+                     <container id="aspace_ref4736_c2" localtype="slide" parent="aspace_ref4736_c1">1-63</container>
+                     <container altrender="/repositories/4/top_containers/484467 /locations/2"
+                                containerid="39002109700964"
+                                id="aspace_ref4736_c3"
+                                label="Mixed Materials"
+                                localtype="box">442.5B</container>
+                     <container id="aspace_ref4736_c4" localtype="slide" parent="aspace_ref4736_c3">64-110</container>
+                     <container altrender="/repositories/4/top_containers/3171 /locations/9"
+                                containerid="39002144680551"
+                                id="aspace_ref4736_c5"
+                                label="Mixed Materials"
                                 localtype="box">442.5C</container>
-                     <container id="aspace_ref4736_c2" localtype="slide" parent="aspace_ref4736_c1">111-139</container>
+                     <container id="aspace_ref4736_c6" localtype="slide" parent="aspace_ref4736_c5">111-139</container>
                      <daoset altrender="/repositories/4/digital_objects/288385">
                         <dao actuate="onrequest"
                              audience="external"
@@ -104839,30 +105174,17 @@ Ts'en Su-hsing</p>
                   <did>
                      <unittitle>Miscellaneous and unidentified</unittitle>
                      <container altrender="/repositories/4/top_containers/347947 /locations/9"
-                                containerid="39002038309747"
+                                containerid="39002109700972"
                                 id="aspace_ref4737_c1"
                                 label="Mixed Materials"
-                                localtype="box">443</container>
-                     <container altrender="/repositories/4/top_containers/347948 /locations/9"
-                                containerid="39002038309754"
-                                id="aspace_ref4737_c2"
-                                label="Mixed Materials"
-                                localtype="box">444</container>
-                     <container altrender="/repositories/4/top_containers/347949 /locations/9"
-                                containerid="39002038309762"
+                                localtype="box">443A</container>
+                     <container id="aspace_ref4737_c2" localtype="slide" parent="aspace_ref4737_c1">1-60</container>
+                     <container altrender="/repositories/4/top_containers/484464 /locations/2"
+                                containerid="39002109700949"
                                 id="aspace_ref4737_c3"
                                 label="Mixed Materials"
-                                localtype="box">445</container>
-                     <container altrender="/repositories/4/top_containers/347950 /locations/9"
-                                containerid="39002038309796"
-                                id="aspace_ref4737_c4"
-                                label="Mixed Materials"
-                                localtype="box">446</container>
-                     <container altrender="/repositories/4/top_containers/347951 /locations/9"
-                                containerid="39002038309804"
-                                id="aspace_ref4737_c5"
-                                label="Mixed Materials"
-                                localtype="box">447</container>
+                                localtype="box">443B</container>
+                     <container id="aspace_ref4737_c4" localtype="slide" parent="aspace_ref4737_c3">61-92</container>
                      <daoset altrender="/repositories/4/digital_objects/288377">
                         <dao actuate="onrequest"
                              audience="external"
@@ -105037,6 +105359,18 @@ Ts'en Su-hsing</p>
                            <p>Miscellaneous and unidentified</p>
                         </descriptivenote>
                      </daoset>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048902"
+                  id="aspace_9a38eb1e1c57a6debc2b22e10319cc91"
+                  level="file">
+                  <did>
+                     <unittitle>35mm slides of travels and daily life</unittitle>
+                     <container altrender="/repositories/4/top_containers/347948 /locations/9"
+                                containerid="39002109700980"
+                                id="aspace_9a38eb1e1c57a6debc2b22e10319cc91_c1"
+                                label="Mixed Materials"
+                                localtype="box">444</container>
                   </did>
                </c>
             </c>
@@ -106324,6 +106658,35 @@ Ts'en Su-hsing</p>
                              href="https://collections.library.yale.edu/catalog/33596533"
                              identifier="oid:33596533"
                              linktitle="29 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Union Medical College (Peking)</p>
+                        </descriptivenote>
+                     </daoset>
+                     <daoset altrender="/repositories/4/digital_objects/351196">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33609859"
+                             identifier="oid:33609859"
+                             linktitle="261 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33610006/full/!150,150/0/default.jpg"
+                             identifier="oid:33609859"
+                             linktitle="261 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33609859"
+                             identifier="oid:33609859"
+                             linktitle="261 images"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -108683,14 +109046,58 @@ Folder 3: blueprints of campus grounds, placement of buildings</p>
                </c>
                <c altrender="/repositories/4/archival_objects/18022"
                   id="ref4932"
-                  level="file">
+                  level="subseries">
                   <did>
-                     <unittitle>2 cases of lantern slides</unittitle>
-                     <container altrender="/repositories/4/top_containers/3196"
-                                id="aspace_ref4932_c1"
-                                label="Mixed Materials"
-                                localtype="box">OV11-G</container>
+                     <unittitle>Lantern slides</unittitle>
                   </did>
+                  <c altrender="/repositories/4/archival_objects/4048927"
+                     id="aspace_d47db6ca2360e30bed3e1ebb4f635cc9"
+                     level="file">
+                     <did>
+                        <unittitle>People</unittitle>
+                        <container altrender="/repositories/4/top_containers/484470 /locations/2"
+                                   containerid="39002144680627"
+                                   id="aspace_d47db6ca2360e30bed3e1ebb4f635cc9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">LS1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048929"
+                     id="aspace_2e084e0f63b69c989107698f3bf20d86"
+                     level="file">
+                     <did>
+                        <unittitle>Athletics, buildings, campus views</unittitle>
+                        <container altrender="/repositories/4/top_containers/484471 /locations/2"
+                                   containerid="39002144680635"
+                                   id="aspace_2e084e0f63b69c989107698f3bf20d86_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">LS2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048930"
+                     id="aspace_50c85a94bda57837dcdb39ed0977c61d"
+                     level="file">
+                     <did>
+                        <unittitle>Construction, Great Wall, street views</unittitle>
+                        <container altrender="/repositories/4/top_containers/484472 /locations/2"
+                                   containerid="39002144680619"
+                                   id="aspace_50c85a94bda57837dcdb39ed0977c61d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">LS3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048932"
+                     id="aspace_c1fe3ce1357ac9c37ec4ab13b84bc987"
+                     level="file">
+                     <did>
+                        <unittitle>Beijing, medical, miscellaneous</unittitle>
+                        <container altrender="/repositories/4/top_containers/484473 /locations/2"
+                                   containerid="39002144680601"
+                                   id="aspace_c1fe3ce1357ac9c37ec4ab13b84bc987_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">LS4</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/18023"
                   id="ref4933"
@@ -108906,6 +109313,35 @@ Folder 3: blueprints of campus grounds, placement of buildings</p>
                                 id="aspace_ref4947_c1"
                                 label="Mixed Materials"
                                 localtype="box">OV11-L</container>
+                     <daoset altrender="/repositories/4/digital_objects/351193">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33607389"
+                             identifier="oid:33607389"
+                             linktitle="61 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33607499/full/!150,150/0/default.jpg"
+                             identifier="oid:33607389"
+                             linktitle="61 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33607389"
+                             identifier="oid:33607389"
+                             linktitle="61 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Photograph album</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/18038"

@@ -34,7 +34,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="onsite">
-               <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245, 270, 272, 276-278</p>
+               <p>Boxes: 140-141, 145-146, 150, 169, 195, 197-200, 203, 209-216, 221-222, 224-225, 230-237, 239-245, 270, 272, 276-279</p>
             </controlnote>
             <controlnote localtype="offsite">
                <p>Boxes: 1-139, 142-144, 147-149, 151-168, 170-194, 196, 201-202, 204-208, 217-220, 223, 226-229, 238, 246-269, 271, 273-275</p>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-28T18:00:16-04:00</eventdatetime>
+            <eventdatetime>2026-07-29T18:00:16-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 29, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -207,6 +207,31 @@
                <did>
                   <unittitle>Algeria</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4047522"
+                  id="aspace_4534d0f7a0da63a924c41da696076ee0"
+                  level="file">
+                  <did>
+                     <unittitle>Algiers Mission Band</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1913">1913</fromdate>
+                           <todate standarddate="1929">1929</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_4534d0f7a0da63a924c41da696076ee0_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_4534d0f7a0da63a924c41da696076ee0_c2"
+                                localtype="folder"
+                                parent="aspace_4534d0f7a0da63a924c41da696076ee0_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_dd58f87d84bca9bf6419acba0c45435b">
+                     <head>Scope and Contents</head>
+                     <p>Brochures, newsletters, reports of organization founded by I. Lillias Trotter, which was headquartered in Algiers with advisory councils in France, the United Kingdom, and the United States. Includes reports of the School for Blind Arabs.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/3998986"
                   id="aspace_6af4aea166b40dde31d2c50803706288"
                   level="file">
@@ -597,6 +622,31 @@
                <did>
                   <unittitle>Ethiopia</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4047525"
+                  id="aspace_c8e3496c8e746a5e1a124ce3ee3bda64"
+                  level="file">
+                  <did>
+                     <unittitle>Christian Relief and Development Association</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1975">1975</fromdate>
+                           <todate standarddate="1988">1988</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_c8e3496c8e746a5e1a124ce3ee3bda64_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_c8e3496c8e746a5e1a124ce3ee3bda64_c2"
+                                localtype="folder"
+                                parent="aspace_c8e3496c8e746a5e1a124ce3ee3bda64_c1">2</container>
+                  </did>
+                  <scopecontent id="aspace_382ad15c8c60e1f93ce6c0632cd2c51c">
+                     <head>Scope and Contents</head>
+                     <p>Brochure and meeting records for organization targeting drought in Ethiopia, based in Addis Ababa, with international ecumenical support.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/3999596"
                   id="aspace_55daf7338badaf9772f10f0f402d9444"
                   level="file">
@@ -1999,6 +2049,31 @@
                      <p>Brochure, newspaper clippings.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4047526"
+                  id="aspace_37fa9529ff58e2aeb63d788bcfda43e0"
+                  level="file">
+                  <did>
+                     <unittitle>South Africa Compounds and Interior Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1912">1912</fromdate>
+                           <todate standarddate="1918">1918</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_37fa9529ff58e2aeb63d788bcfda43e0_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_37fa9529ff58e2aeb63d788bcfda43e0_c2"
+                                localtype="folder"
+                                parent="aspace_37fa9529ff58e2aeb63d788bcfda43e0_c1">3</container>
+                  </did>
+                  <scopecontent id="aspace_a545eae798de6e7f79ddbc36a3fbe7c1">
+                     <head>Scope and Contents</head>
+                     <p>Leaflets describing work of organization based in Johannesburg, with international advisory councils.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4000649"
                   id="aspace_45f1b1d2221595adb8f5c9ec66c506a1"
                   level="file">
@@ -2470,6 +2545,127 @@
                   </scopecontent>
                </c>
             </c>
+            <c altrender="/repositories/4/archival_objects/4047527"
+               id="aspace_7c7c72dd4f39fc64ddeb7280aa75ff4b"
+               level="subseries">
+               <did>
+                  <unittitle>Regional</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4047529"
+                  id="aspace_bbee171151134ed2e374fdcc149a2810"
+                  level="file">
+                  <did>
+                     <unittitle>Association of Member Episcopal Conferences in Eastern Africa (AMECEA)</unittitle>
+                     <unitdatestructured altrender="1979, 1994" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1979">1979</fromdate>
+                           <todate standarddate="1994">1994</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_bbee171151134ed2e374fdcc149a2810_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_bbee171151134ed2e374fdcc149a2810_c2"
+                                localtype="folder"
+                                parent="aspace_bbee171151134ed2e374fdcc149a2810_c1">4</container>
+                  </did>
+                  <scopecontent id="aspace_4a5067f1e352c2ad3029791df62d42d3">
+                     <head>Scope and Contents</head>
+                     <p>Report, brochures of Catholic regional pastoral solidarity organization.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047530"
+                  id="aspace_4bdf6c3f9353475544f768eab24d2e68"
+                  level="file">
+                  <did>
+                     <unittitle>Council of Anglican Provinces in Africa</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1979">1979</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_4bdf6c3f9353475544f768eab24d2e68_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_4bdf6c3f9353475544f768eab24d2e68_c2"
+                                localtype="folder"
+                                parent="aspace_4bdf6c3f9353475544f768eab24d2e68_c1">5</container>
+                  </did>
+                  <scopecontent id="aspace_b5d3c24301754cd0eaeccb584a206238">
+                     <head>Scope and Contents</head>
+                     <p>Report of inaugural meeting in Chilema, Malawi.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047532"
+                  id="aspace_1faed64e4006126e2db48d38f5fbea62"
+                  level="file">
+                  <did>
+                     <unittitle>Presbyterian Church of East Africa</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1974">1974</fromdate>
+                           <todate standarddate="1978">1978</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_1faed64e4006126e2db48d38f5fbea62_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_1faed64e4006126e2db48d38f5fbea62_c2"
+                                localtype="folder"
+                                parent="aspace_1faed64e4006126e2db48d38f5fbea62_c1">6</container>
+                  </did>
+                  <scopecontent id="aspace_14522a363401c0d07ec4044190630f9e">
+                     <head>Scope and Contents</head>
+                     <p>Handbook and funeral service program for church based in Nairobi, Kenya.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047533"
+                  id="aspace_316f34f4343aba056040bb2bbd72bf57"
+                  level="file">
+                  <did>
+                     <unittitle>Southern African Catholic Bishops' Conference</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1997, undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_316f34f4343aba056040bb2bbd72bf57_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_316f34f4343aba056040bb2bbd72bf57_c2"
+                                localtype="folder"
+                                parent="aspace_316f34f4343aba056040bb2bbd72bf57_c1">7</container>
+                  </did>
+                  <scopecontent id="aspace_2738940d4a6fd185e4c0460148fa9fd2">
+                     <head>Scope and Contents</head>
+                     <p>Publication of Justice and War Committtee related to Philip Wilkinson, memo "Catholic Church Submission to the Truth and Reconciliation Commission.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047534"
+                  id="aspace_d66739c76dafd2add1bab7b79ada82c5"
+                  level="file">
+                  <did>
+                     <unittitle>United Congregational Church of Southern Africa</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1969">1969</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_d66739c76dafd2add1bab7b79ada82c5_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_d66739c76dafd2add1bab7b79ada82c5_c2"
+                                localtype="folder"
+                                parent="aspace_d66739c76dafd2add1bab7b79ada82c5_c1">8</container>
+                  </did>
+                  <scopecontent id="aspace_49f8a42f3ffbf3e6e2481bf2bb1464df">
+                     <head>Scope and Contents</head>
+                     <p>Year book.</p>
+                  </scopecontent>
+               </c>
+            </c>
          </c>
          <c altrender="/repositories/4/archival_objects/3998979"
             id="aspace_65ea44b2fc8a1efcc481793e489f6685"
@@ -2864,6 +3060,28 @@
                      <p>Newsletter and bulletins for organization headquartered in Shanghai.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4047536"
+                  id="aspace_5a43e2f9059621f64a4ec405f6302437"
+                  level="file">
+                  <did>
+                     <unittitle>Chinese Industrial Cooperatives</unittitle>
+                     <unitdatestructured altrender="1939, undated" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1939">1939, undated</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_5a43e2f9059621f64a4ec405f6302437_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_5a43e2f9059621f64a4ec405f6302437_c2"
+                                localtype="folder"
+                                parent="aspace_5a43e2f9059621f64a4ec405f6302437_c1">9</container>
+                  </did>
+                  <scopecontent id="aspace_4884de472030366828fa39c37827b2d6">
+                     <head>Scope and Contents</head>
+                     <p>Leaflet, memo including model Constitution for Chinese Industrial Cooperatives Societies.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4001311"
                   id="aspace_a61a23581822a18d7ed9241e44c434d2"
                   level="file">
@@ -3238,6 +3456,28 @@
                   <scopecontent id="aspace_d063d8b6a4d94e700401ba714b5e5db0">
                      <head>Scope and Contents</head>
                      <p>Newsletters, orders of worship, publications for church located in Peking [Beijing].</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047537"
+                  id="aspace_3ae7347ba34ce6866a573747429a8901"
+                  level="file">
+                  <did>
+                     <unittitle>Presbyterian Church in China</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1914">1914</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_3ae7347ba34ce6866a573747429a8901_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_3ae7347ba34ce6866a573747429a8901_c2"
+                                localtype="folder"
+                                parent="aspace_3ae7347ba34ce6866a573747429a8901_c1">10</container>
+                  </did>
+                  <scopecontent id="aspace_7aaaab114c7ff878ac8a17b2ed7c1244">
+                     <head>Scope and Contents</head>
+                     <p>Minutes of Federal Council meeting.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4001339"
@@ -3634,6 +3874,31 @@
                      <p>Reports, publications in English and Chinese.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4047538"
+                  id="aspace_3a7d9f1872bc4c958fb7b6772682ac8a"
+                  level="file">
+                  <did>
+                     <unittitle>United Clearing Board of Mission, Educational and Relief Agencies</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1944">1944</fromdate>
+                           <todate standarddate="1945">1945</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_3a7d9f1872bc4c958fb7b6772682ac8a_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_3a7d9f1872bc4c958fb7b6772682ac8a_c2"
+                                localtype="folder"
+                                parent="aspace_3a7d9f1872bc4c958fb7b6772682ac8a_c1">11</container>
+                  </did>
+                  <scopecontent id="aspace_c488e83942ac5ebcf5e3d853b2ab9a5c">
+                     <head>Scope and Contents</head>
+                     <p>Articles re. audits, reports of organization formed to allow better exchange rate for mission, educational and relief agencies.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4001474"
                   id="aspace_4b35e2832e3679071340dca0da1a3bf1"
                   level="file">
@@ -3715,6 +3980,31 @@
                <did>
                   <unittitle>Hong Kong</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4047541"
+                  id="aspace_561b9c816d080bee92a6192da91626ac"
+                  level="file">
+                  <did>
+                     <unittitle>Asian Human Rights Commission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1985">1985</fromdate>
+                           <todate standarddate="1996">1996</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_561b9c816d080bee92a6192da91626ac_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_561b9c816d080bee92a6192da91626ac_c2"
+                                localtype="folder"
+                                parent="aspace_561b9c816d080bee92a6192da91626ac_c1">12</container>
+                  </did>
+                  <scopecontent id="aspace_e4906e4c5daa3bbb98638daa944476df">
+                     <head>Scope and Contents</head>
+                     <p>Minutes of Executive Committee, dossier on human rights violations in Burma [Myanmar], "Asian Human Rights Charter."</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4001478"
                   id="aspace_9697e488074f3b22ba0816c67311c0f1"
                   level="file">
@@ -3734,6 +4024,47 @@
                      <head>Scope and Contents</head>
                      <p>Informational brochure about Center established in 1979 with headquarters in Kowloon.</p>
                   </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047543"
+                  id="aspace_45a6243c9ddbe3ec363c19d2682a1bee"
+                  level="file">
+                  <did>
+                     <unittitle>China Congregational Church</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1963, undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_45a6243c9ddbe3ec363c19d2682a1bee_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_45a6243c9ddbe3ec363c19d2682a1bee_c2"
+                                localtype="folder"
+                                parent="aspace_45a6243c9ddbe3ec363c19d2682a1bee_c1">13</container>
+                  </did>
+                  <scopecontent id="aspace_d5d563d0b5fd8a9b5277a1e004b7b370">
+                     <head>Scope and Contents</head>
+                     <p>Historical sketch, leaflets in Chinese.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047544"
+                  id="aspace_713a3e93ed7e340eacf26f36de0b233b"
+                  level="file">
+                  <did>
+                     <unittitle>China Defence League</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1939">1939</fromdate>
+                           <todate standarddate="1940">1940</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_713a3e93ed7e340eacf26f36de0b233b_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_713a3e93ed7e340eacf26f36de0b233b_c2"
+                                localtype="folder"
+                                parent="aspace_713a3e93ed7e340eacf26f36de0b233b_c1">14</container>
+                  </did>
                </c>
                <c altrender="/repositories/4/archival_objects/4001501"
                   id="aspace_7d29119b249b7247005cfd35e77ccba1"
@@ -4199,6 +4530,28 @@
                      <p>Centenary publication of church located in Bangalore [Bengaluru].</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4047549"
+                  id="aspace_a81f143d181cdafd3902fde0adf6c628"
+                  level="file">
+                  <did>
+                     <unittitle>All Saints' Church, Triplicane</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1973">1973</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_a81f143d181cdafd3902fde0adf6c628_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_a81f143d181cdafd3902fde0adf6c628_c2"
+                                localtype="folder"
+                                parent="aspace_a81f143d181cdafd3902fde0adf6c628_c1">15</container>
+                  </did>
+                  <scopecontent id="aspace_05a94e3a65eab00af65448c6783c68ab">
+                     <head>Scope and Contents</head>
+                     <p>Silver Jublilee Celebration souvenir program for church located in Tripicane, Madras [Chennai].</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4001682"
                   id="aspace_b790d3c4a6141b879abe20b550cd56f7"
                   level="file">
@@ -4598,6 +4951,31 @@
                      <p>Report, dedication of the Devanandan House and public meeting, issue of Bulletin of institute located in Bangalore [Bengaluru].</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4047552"
+                  id="aspace_1131a6938cca16f54577a9e9e230dd38"
+                  level="file">
+                  <did>
+                     <unittitle>Christian Literature for Muslims Committee</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1949">1949</fromdate>
+                           <todate standarddate="1953">1953</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_1131a6938cca16f54577a9e9e230dd38_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_1131a6938cca16f54577a9e9e230dd38_c2"
+                                localtype="folder"
+                                parent="aspace_1131a6938cca16f54577a9e9e230dd38_c1">16</container>
+                  </did>
+                  <scopecontent id="aspace_82576e73406de6e4b5ee293179ef71bc">
+                     <head>Scope and Contents</head>
+                     <p>Reports of the secretary-treasurer.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4002756"
                   id="aspace_14d3b1c7773b3dce842bbc3ff935d838"
                   level="file">
@@ -4691,6 +5069,28 @@
                            <part>Mission School Magazine.</part>
                         </title>
                      </p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047558"
+                  id="aspace_7f2665abb9083ae9c06ed60562e33350"
+                  level="file">
+                  <did>
+                     <unittitle>Church History Association of India, Burma and Ceylon</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1940">1940</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_7f2665abb9083ae9c06ed60562e33350_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_7f2665abb9083ae9c06ed60562e33350_c2"
+                                localtype="folder"
+                                parent="aspace_7f2665abb9083ae9c06ed60562e33350_c1">17</container>
+                  </did>
+                  <scopecontent id="aspace_244b83915712d23ce951068732e5c4d4">
+                     <head>Scope and Contents</head>
+                     <p>Calendar for the Church in India, Burma, and Ceylon.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4002759"
@@ -4946,6 +5346,31 @@
                   <scopecontent id="aspace_fb8ba87b8e84f66830809e03412823fe">
                      <head>Scope and Contents</head>
                      <p>Reports of organization in Bombay [Mumbai].</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047564"
+                  id="aspace_4a717b80916d9ae40591b3991dbc2847"
+                  level="file">
+                  <did>
+                     <unittitle>Friends Missionary Prayer Band</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1975">1975</fromdate>
+                           <todate standarddate="1979">1979</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_4a717b80916d9ae40591b3991dbc2847_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_4a717b80916d9ae40591b3991dbc2847_c2"
+                                localtype="folder"
+                                parent="aspace_4a717b80916d9ae40591b3991dbc2847_c1">19</container>
+                  </did>
+                  <scopecontent id="aspace_b662879977bde7303616a39276754745">
+                     <head>Scope and Contents</head>
+                     <p>Newsletter, essay by Samuel Kamaleson, brochure in Tamil, for organization headquartered in Madras [Chennai].</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4002771"
@@ -6938,6 +7363,31 @@
                      <p>Reports, minutes, journal of Nihon Mesojisuto Kyōkai.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4047571"
+                  id="aspace_766ec9c6b0dc970e62f7c2396cf1d8c2"
+                  level="file">
+                  <did>
+                     <unittitle>Nippon Kirisuto Kyodan / United Church of Christ in Japan</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1967">1967</fromdate>
+                           <todate standarddate="1988">1988</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_766ec9c6b0dc970e62f7c2396cf1d8c2_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_766ec9c6b0dc970e62f7c2396cf1d8c2_c2"
+                                localtype="folder"
+                                parent="aspace_766ec9c6b0dc970e62f7c2396cf1d8c2_c1">20</container>
+                  </did>
+                  <scopecontent id="aspace_5245b0c55acb7f6da4df5c88ae861f72">
+                     <head>Scope and Contents</head>
+                     <p>"Confession of Responsibility During World War II"; memos and articles related to Toyohiko Kagawa.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4003237"
                   id="aspace_aacc6b4183c4b203e08b14786a1c504d"
                   level="file">
@@ -8143,6 +8593,31 @@
                      <p>10 year report of religious community in Jaffna, Ceylon [Sri Lanka].</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4047583"
+                  id="aspace_faf316ac61546c3b9e2548a512c7f208"
+                  level="file">
+                  <did>
+                     <unittitle>India Christian Mission</unittitle>
+                     <unitdatestructured altrender="1917, 1934" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1917">1917</fromdate>
+                           <todate standarddate="1934">1934</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484341 /locations/2"
+                                containerid="39002112327136"
+                                id="aspace_faf316ac61546c3b9e2548a512c7f208_c1"
+                                label="Mixed Materials"
+                                localtype="box">277</container>
+                     <container id="aspace_faf316ac61546c3b9e2548a512c7f208_c2"
+                                localtype="folder"
+                                parent="aspace_faf316ac61546c3b9e2548a512c7f208_c1">21</container>
+                  </did>
+                  <scopecontent id="aspace_3304429f8b6526836eba1935fc5eb8f6">
+                     <head>Scope and Contents</head>
+                     <p>Newsletters of organization based in Ceylon [Sri Lanka] with work in South India.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4003342"
                   id="aspace_de4fb8f3b97fc6cbf6f1d1a6c43ce4b6"
                   level="file">
@@ -8571,6 +9046,230 @@
                   </scopecontent>
                </c>
             </c>
+            <c altrender="/repositories/4/archival_objects/4047587"
+               id="aspace_8bf4dfc6e9a52645f3ae790c193c912a"
+               level="subseries">
+               <did>
+                  <unittitle>Regional</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4047589"
+                  id="aspace_22f33a6a69ce8648ef1ea7e8524c45be"
+                  level="file">
+                  <did>
+                     <unittitle>Asia Missions Association</unittitle>
+                     <unitdatestructured altrender="circa 1973" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1973">circa 1973</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                containerid="39002112327144"
+                                id="aspace_22f33a6a69ce8648ef1ea7e8524c45be_c1"
+                                label="Mixed Materials"
+                                localtype="box">278</container>
+                     <container id="aspace_22f33a6a69ce8648ef1ea7e8524c45be_c2"
+                                localtype="folder"
+                                parent="aspace_22f33a6a69ce8648ef1ea7e8524c45be_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_44625797e6d2a014a0e3311aeeef485f">
+                     <head>Scope and Contents</head>
+                     <p>Statement of objectives and Constitution.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047588"
+                  id="aspace_c6f4251743f000bd50a62c30a44d8ab4"
+                  level="file">
+                  <did>
+                     <unittitle>Asian Outreach</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1977">1977</fromdate>
+                           <todate standarddate="1979">1979</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                containerid="39002112327144"
+                                id="aspace_c6f4251743f000bd50a62c30a44d8ab4_c1"
+                                label="Mixed Materials"
+                                localtype="box">278</container>
+                     <container id="aspace_c6f4251743f000bd50a62c30a44d8ab4_c2"
+                                localtype="folder"
+                                parent="aspace_c6f4251743f000bd50a62c30a44d8ab4_c1">2</container>
+                  </did>
+                  <scopecontent id="aspace_4cb0fdbc9087e8b389ca791e7bfdd3af">
+                     <head>Scope and Contents</head>
+                     <p>Brochures, newsletter.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4047590"
+                  id="aspace_f6cd7550d6cf4b76d3d5b4357b5d6f3c"
+                  level="subseries">
+                  <did>
+                     <unittitle>Federation of Asian Bishops Conferences</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4047591"
+                     id="aspace_3d87dae072146d7b147709368de3883d"
+                     level="file">
+                     <did>
+                        <unittitle>Plenary Assemblies</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1974">1974</fromdate>
+                              <todate standarddate="2000">2000</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_3d87dae072146d7b147709368de3883d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_3d87dae072146d7b147709368de3883d_c2"
+                                   localtype="folder"
+                                   parent="aspace_3d87dae072146d7b147709368de3883d_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048551"
+                     id="aspace_d5100967787f97e1b0326e6d26d84761"
+                     level="file">
+                     <did>
+                        <unittitle>Documents related to India, Indonesia</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1971">1971</fromdate>
+                              <todate standarddate="1974">1974</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_d5100967787f97e1b0326e6d26d84761_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_d5100967787f97e1b0326e6d26d84761_c2"
+                                   localtype="folder"
+                                   parent="aspace_d5100967787f97e1b0326e6d26d84761_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048552"
+                     id="aspace_352a410603386c0976e949dfc6e58804"
+                     level="file">
+                     <did>
+                        <unittitle>Documents related to Korea, Laos</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1974">1974</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_352a410603386c0976e949dfc6e58804_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_352a410603386c0976e949dfc6e58804_c2"
+                                   localtype="folder"
+                                   parent="aspace_352a410603386c0976e949dfc6e58804_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048553"
+                     id="aspace_033438154b2409c070ee6abb97957f76"
+                     level="file">
+                     <did>
+                        <unittitle>Documents related to Malaysia, Singapore</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_033438154b2409c070ee6abb97957f76_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_033438154b2409c070ee6abb97957f76_c2"
+                                   localtype="folder"
+                                   parent="aspace_033438154b2409c070ee6abb97957f76_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048554"
+                     id="aspace_919045850bb30d4540527d846314396c"
+                     level="file">
+                     <did>
+                        <unittitle>Documents related to the Philippines, Sri Lanka, Thailand</unittitle>
+                        <unitdatestructured altrender="1974, undated" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1974">1974, undated</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_919045850bb30d4540527d846314396c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_919045850bb30d4540527d846314396c_c2"
+                                   localtype="folder"
+                                   parent="aspace_919045850bb30d4540527d846314396c_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048555"
+                     id="aspace_184a2faf68fdcbe648bf1da2cc76ebe5"
+                     level="file">
+                     <did>
+                        <unittitle>Office of Education and Students' Chaplains</unittitle>
+                        <unitdatestructured altrender="1982, 1992" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1982">1982</fromdate>
+                              <todate standarddate="1992">1992</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_184a2faf68fdcbe648bf1da2cc76ebe5_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_184a2faf68fdcbe648bf1da2cc76ebe5_c2"
+                                   localtype="folder"
+                                   parent="aspace_184a2faf68fdcbe648bf1da2cc76ebe5_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048556"
+                     id="aspace_cb497e744edcd9bf01a450c44f0b0c8e"
+                     level="file">
+                     <did>
+                        <unittitle>Report on membership, reprints, issue of <title>
+                              <part>Nova</part>
+                           </title>
+                        </unittitle>
+                        <unitdatestructured altrender="2000-2003, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="2000">2000</fromdate>
+                              <todate standarddate="2003">2003</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_cb497e744edcd9bf01a450c44f0b0c8e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_cb497e744edcd9bf01a450c44f0b0c8e_c2"
+                                   localtype="folder"
+                                   parent="aspace_cb497e744edcd9bf01a450c44f0b0c8e_c1">9</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048557"
+                  id="aspace_20994722b053c0199982556713f18ac1"
+                  level="file">
+                  <did>
+                     <unittitle>Priests' Institute for Social Action in Asia (PISA)</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1965">1965</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                containerid="39002112327144"
+                                id="aspace_20994722b053c0199982556713f18ac1_c1"
+                                label="Mixed Materials"
+                                localtype="box">278</container>
+                     <container id="aspace_20994722b053c0199982556713f18ac1_c2"
+                                localtype="folder"
+                                parent="aspace_20994722b053c0199982556713f18ac1_c1">10</container>
+                  </did>
+                  <scopecontent id="aspace_29650d956c3a283663dc2d9191d0aeed">
+                     <head>Scope and Contents</head>
+                     <p>Document from consultation on social problems.</p>
+                  </scopecontent>
+               </c>
+            </c>
          </c>
          <c altrender="/repositories/4/archival_objects/3998980"
             id="aspace_bab18d390565cc2463f13b8bfbf6e91b"
@@ -8605,6 +9304,28 @@
                   <scopecontent id="aspace_03614518c8f2c3a2f22c4068d31028cd">
                      <head>Scope and Contents</head>
                      <p>First report of the society.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048558"
+                  id="aspace_ac0898862c690153a1a6fd598f6ddec6"
+                  level="file">
+                  <did>
+                     <unittitle>Catholic Church</unittitle>
+                     <unitdatestructured altrender="circa 1950" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1950">circa 1950</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                containerid="39002112327144"
+                                id="aspace_ac0898862c690153a1a6fd598f6ddec6_c1"
+                                label="Mixed Materials"
+                                localtype="box">278</container>
+                     <container id="aspace_ac0898862c690153a1a6fd598f6ddec6_c2"
+                                localtype="folder"
+                                parent="aspace_ac0898862c690153a1a6fd598f6ddec6_c1">11</container>
+                  </did>
+                  <scopecontent id="aspace_3f594fed06a6c32148914a9b8c44f86a">
+                     <head>Scope and Contents</head>
+                     <p>Brochure related to missions in the Belgian Congo.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4003471"
@@ -8985,6 +9706,28 @@
                   <scopecontent id="aspace_2752cf2b4fbed2f42c69b0dd8daba824">
                      <head>Scope and Contents</head>
                      <p>Report of mission in Kabylie [Algeria].</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048559"
+                  id="aspace_b3f244051bfc5c3a39f0fddd6076ba14"
+                  level="file">
+                  <did>
+                     <unittitle>American Chapel in Paris</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1876">1876</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                containerid="39002112327144"
+                                id="aspace_b3f244051bfc5c3a39f0fddd6076ba14_c1"
+                                label="Mixed Materials"
+                                localtype="box">278</container>
+                     <container id="aspace_b3f244051bfc5c3a39f0fddd6076ba14_c2"
+                                localtype="folder"
+                                parent="aspace_b3f244051bfc5c3a39f0fddd6076ba14_c1">12</container>
+                  </did>
+                  <scopecontent id="aspace_64ec693cd9c91d541a8259bbc22f09cc">
+                     <head>Scope and Contents</head>
+                     <p>Annual report of missionary and benevolent work.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4003488"
@@ -10180,6 +10923,65 @@
                      <p>Reports of social service agency for the poor located in Torino.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4048563"
+                  id="aspace_0939ffbcdaf0d45ce5de97ef12cbdf8c"
+                  level="subseries">
+                  <did>
+                     <unittitle>Waldensian Evangelical Church </unittitle>
+                  </did>
+                  <scopecontent id="aspace_c27bd942c56239060475f1e214f64896">
+                     <head>Scope and Contents</head>
+                     <p>The Waldensian Church was active in Italy and Switzerland.</p>
+                  </scopecontent>
+                  <c altrender="/repositories/4/archival_objects/4003573"
+                     id="aspace_aef035f2e41184ddae8014a4876fa35a"
+                     level="file">
+                     <did>
+                        <unittitle>Chiesa Evangelica Valdese</unittitle>
+                        <unitdatestructured altrender="1905-1939, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1905">1905</fromdate>
+                              <todate standarddate="1939">1939</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/422229 /locations/9"
+                                   containerid="39002112325957"
+                                   id="aspace_aef035f2e41184ddae8014a4876fa35a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">45</container>
+                        <container id="aspace_aef035f2e41184ddae8014a4876fa35a_c2"
+                                   localtype="folder"
+                                   parent="aspace_aef035f2e41184ddae8014a4876fa35a_c1">7-8</container>
+                     </did>
+                     <scopecontent id="aspace_76176332feed4f78e6af48c6a0e35b2e">
+                        <head>Scope and Contents</head>
+                        <p>Reports, publications.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4048564"
+                     id="aspace_b55763662f3cc9f020d38d25c90857c7"
+                     level="file">
+                     <did>
+                        <unittitle>Eglise  Evangélique  Vaudoise - reports on work in Italy</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1876">1876</fromdate>
+                              <todate standarddate="1887">1887</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484344 /locations/2"
+                                   containerid="39002112327144"
+                                   id="aspace_b55763662f3cc9f020d38d25c90857c7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">278</container>
+                        <container id="aspace_b55763662f3cc9f020d38d25c90857c7_c2"
+                                   localtype="folder"
+                                   parent="aspace_b55763662f3cc9f020d38d25c90857c7_c1">13</container>
+                     </did>
+                  </c>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/4003574"
                id="aspace_9e4af4d5fd5454afc1bfa17199318334"
@@ -11223,96 +12025,96 @@
                      <p>Bulletin</p>
                   </scopecontent>
                </c>
-               <c altrender="/repositories/4/archival_objects/4004392"
-                  id="aspace_506392312138b416b8ed17444feb0b90"
+               <c altrender="/repositories/4/archival_objects/4048649"
+                  id="aspace_3d8b8ff7af1d0beb5a756b8b7aa26d60"
+                  level="file">
+                  <did>
+                     <unittitle>La Mission Philafricaine</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1909">1909</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_3d8b8ff7af1d0beb5a756b8b7aa26d60_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_3d8b8ff7af1d0beb5a756b8b7aa26d60_c2"
+                                localtype="folder"
+                                parent="aspace_3d8b8ff7af1d0beb5a756b8b7aa26d60_c1">1</container>
+                  </did>
+                  <scopecontent id="aspace_b918bc72a99163a45d0959c3ff378478">
+                     <head>Scope and Contents</head>
+                     <p>Pictorial brochure regarding work in Angola by mission headquartered in Lausanne.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048651"
+                  id="aspace_5c795b768ef4fd9e32d82a9a27d19c84"
                   level="subseries">
                   <did>
-                     <unittitle>Lutheran World Federation</unittitle>
+                     <unittitle>Mission Suisse Romande</unittitle>
                   </did>
-                  <c altrender="/repositories/4/archival_objects/4004393"
-                     id="aspace_83260faca01534e52e8f18ad51e07551"
+                  <scopecontent id="aspace_74639948acdf44cb18e776a1343ad94b">
+                     <head>Scope and Contents</head>
+                     <p>Also known as Known also as Mission Suisse dans l'Afrique du Sud, Mission des Eglises Libres de la Suisse Romande.</p>
+                  </scopecontent>
+                  <c altrender="/repositories/4/archival_objects/4048653"
+                     id="aspace_4b2418a1b878078f3372ad49da7bb90f"
                      level="file">
                      <did>
-                        <unittitle>Assembly reports, Broadcasting Service</unittitle>
-                        <unitdatestructured altrender="1947, 1957, 1961"
-                                            label="creation"
-                                            unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1947">1947</fromdate>
-                              <todate standarddate="1961">1961</todate>
-                           </daterange>
+                        <unittitle>Constitution of mission; rules related to missionary children</unittitle>
+                        <unitdatestructured altrender="1918, undated" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1918">1918, undated</datesingle>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/422307 /locations/9"
-                                   containerid="39002112326013"
-                                   id="aspace_83260faca01534e52e8f18ad51e07551_c1"
+                        <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                   containerid="39002112327151"
+                                   id="aspace_4b2418a1b878078f3372ad49da7bb90f_c1"
                                    label="Mixed Materials"
-                                   localtype="box">50</container>
-                        <container id="aspace_83260faca01534e52e8f18ad51e07551_c2"
+                                   localtype="box">279</container>
+                        <container id="aspace_4b2418a1b878078f3372ad49da7bb90f_c2"
                                    localtype="folder"
-                                   parent="aspace_83260faca01534e52e8f18ad51e07551_c1">8</container>
+                                   parent="aspace_4b2418a1b878078f3372ad49da7bb90f_c1">2</container>
                      </did>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/4004394"
-                     id="aspace_60f90d71a88a324716424eb6e882bc56"
+                  <c altrender="/repositories/4/archival_objects/4048654"
+                     id="aspace_a3bb2d043b888d1b93b9e1a809fe099e"
                      level="file">
                      <did>
-                        <unittitle>Consultation and workshop reports on African theology, Namibia, women in Africa</unittitle>
+                        <unittitle>Two issues of bulletin, historical sketches</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1976">1976</fromdate>
-                              <todate standarddate="1980">1980</todate>
+                              <fromdate standarddate="1899">1899</fromdate>
+                              <todate standarddate="1934">1934</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/422307 /locations/9"
-                                   containerid="39002112326013"
-                                   id="aspace_60f90d71a88a324716424eb6e882bc56_c1"
+                        <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                   containerid="39002112327151"
+                                   id="aspace_a3bb2d043b888d1b93b9e1a809fe099e_c1"
                                    label="Mixed Materials"
-                                   localtype="box">50</container>
-                        <container id="aspace_60f90d71a88a324716424eb6e882bc56_c2"
+                                   localtype="box">279</container>
+                        <container id="aspace_a3bb2d043b888d1b93b9e1a809fe099e_c2"
                                    localtype="folder"
-                                   parent="aspace_60f90d71a88a324716424eb6e882bc56_c1">9</container>
+                                   parent="aspace_a3bb2d043b888d1b93b9e1a809fe099e_c1">3</container>
                      </did>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/4004395"
-                     id="aspace_e5b96c6d67e643b352ac6747c6af414d"
+                  <c altrender="/repositories/4/archival_objects/4048655"
+                     id="aspace_3fc69fd3c3ff5cc8d6441210d0880528"
                      level="file">
                      <did>
-                        <unittitle>Consultation and workshop reports on Christianity in China, Marxism, Human Rights</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <unittitle>Histories of work with Thonga and Gouamba people in Africa</unittitle>
+                        <unitdatestructured altrender="1896, 1921" label="creation" unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1974">1974</fromdate>
-                              <todate standarddate="1977">1977</todate>
+                              <fromdate standarddate="1896">1896</fromdate>
+                              <todate standarddate="1921">1921</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/422307 /locations/9"
-                                   containerid="39002112326013"
-                                   id="aspace_e5b96c6d67e643b352ac6747c6af414d_c1"
+                        <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                   containerid="39002112327151"
+                                   id="aspace_3fc69fd3c3ff5cc8d6441210d0880528_c1"
                                    label="Mixed Materials"
-                                   localtype="box">50</container>
-                        <container id="aspace_e5b96c6d67e643b352ac6747c6af414d_c2"
+                                   localtype="box">279</container>
+                        <container id="aspace_3fc69fd3c3ff5cc8d6441210d0880528_c2"
                                    localtype="folder"
-                                   parent="aspace_e5b96c6d67e643b352ac6747c6af414d_c1">10</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/4004396"
-                     id="aspace_924dc331e9877e8eb52ba8d2282b8111"
-                     level="file">
-                     <did>
-                        <unittitle>Marxism and China Study information letters</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1974">1974</fromdate>
-                              <todate standarddate="1975">1975</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/422307 /locations/9"
-                                   containerid="39002112326013"
-                                   id="aspace_924dc331e9877e8eb52ba8d2282b8111_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">50</container>
-                        <container id="aspace_924dc331e9877e8eb52ba8d2282b8111_c2"
-                                   localtype="folder"
-                                   parent="aspace_924dc331e9877e8eb52ba8d2282b8111_c1">11</container>
+                                   parent="aspace_3fc69fd3c3ff5cc8d6441210d0880528_c1">4</container>
                      </did>
                   </c>
                </c>
@@ -11368,6 +12170,55 @@
                <did>
                   <unittitle>United Kingdom</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4048675"
+                  id="aspace_7ada63f27748fde47be8e425bc00d5b4"
+                  level="file">
+                  <did>
+                     <unittitle>Africa Inland Mission</unittitle>
+                     <unitdatestructured altrender="1936-2010, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1936">1936</fromdate>
+                           <todate standarddate="2010">2010</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_7ada63f27748fde47be8e425bc00d5b4_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_7ada63f27748fde47be8e425bc00d5b4_c2"
+                                localtype="folder"
+                                parent="aspace_7ada63f27748fde47be8e425bc00d5b4_c1">5</container>
+                  </did>
+                  <scopecontent id="aspace_cd69dacbd9d342d6b09c9fdf60be8582">
+                     <head>Scope and Contents</head>
+                     <p>Brochures, appeals, prayer calendars regarding work in Africa by mission headquartered in London.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048667"
+                  id="aspace_ec18141dbaa3d074427c7a161e4633ad"
+                  level="file">
+                  <did>
+                     <unittitle>Anglo-Oriental Literature Society</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1858">1858</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_ec18141dbaa3d074427c7a161e4633ad_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_ec18141dbaa3d074427c7a161e4633ad_c2"
+                                localtype="folder"
+                                parent="aspace_ec18141dbaa3d074427c7a161e4633ad_c1">6</container>
+                  </did>
+                  <scopecontent id="aspace_10c0bff0c1750b7b5d68d8f0030a50ad">
+                     <head>Scope and Contents</head>
+                     <p>Report of Anglo-Turkish Literature Committee</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4004400"
                   id="aspace_e46bb5cfd62e06a50538b516d3c2bcaa"
                   level="file">
@@ -12032,6 +12883,28 @@
                   <scopecontent id="aspace_f75ba77e825ac62b510c172f917cf20a">
                      <head>Scope and Contents</head>
                      <p>Annual reports of organization later associated with the Scripture Union.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048680"
+                  id="aspace_599b49e5c02c507cfca967e1ec49a2a5"
+                  level="file">
+                  <did>
+                     <unittitle>China Campaign Committee</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1938">1938</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_599b49e5c02c507cfca967e1ec49a2a5_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_599b49e5c02c507cfca967e1ec49a2a5_c2"
+                                localtype="folder"
+                                parent="aspace_599b49e5c02c507cfca967e1ec49a2a5_c1">7</container>
+                  </did>
+                  <scopecontent id="aspace_708f5e53c2386fcf3df48b2acb955dd5">
+                     <head>Scope and Contents</head>
+                     <p>Flyer proposing boycott of purchasing Japanese goods during the Sino-Japanese War, from organization based in London.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4004464"
@@ -13748,8 +14621,10 @@
                   id="aspace_ce70a1ca71f4da75a2ae21d85223ae1b"
                   level="file">
                   <did>
-                     <unittitle>Egypt General Mission</unittitle>
-                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <unittitle>Egypt General Mission / Middle East General Mission</unittitle>
+                     <unitdatestructured altrender="1914-1945, 1972"
+                                         label="creation"
+                                         unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1914">1914</fromdate>
                            <todate standarddate="1945">1945</todate>
@@ -13766,7 +14641,7 @@
                   </did>
                   <scopecontent id="aspace_a4493038fb2fdca145021f53d87a1880">
                      <head>Scope and Contents</head>
-                     <p>News bulletins, circular prayer letters. Formerly known as Egypt Mission Band; later known as Middle East General Mission. Began missionary work in Egypt in 1898. Headquarters in London.</p>
+                     <p>News bulletins, circular prayer letters. Formerly known as Egypt Mission Band; later known as Middle East General Mission. Began missionary work in Egypt in 1898 and work in Eritrea in 1957. Headquarters in London.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4004639"
@@ -14329,6 +15204,31 @@
                   <scopecontent id="aspace_4fe541ff645ecb462e65a3310728be32">
                      <head>Scope and Contents</head>
                      <p>Constitution, historical sketches for mission working in the Congo.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048689"
+                  id="aspace_0becbfdca3263207507d3e5089828a9b"
+                  level="file">
+                  <did>
+                     <unittitle>London Association in Aid of Moravian Missions</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1826">1826</fromdate>
+                           <todate standarddate="1918">1918</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_0becbfdca3263207507d3e5089828a9b_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_0becbfdca3263207507d3e5089828a9b_c2"
+                                localtype="folder"
+                                parent="aspace_0becbfdca3263207507d3e5089828a9b_c1">8</container>
+                  </did>
+                  <scopecontent id="aspace_5988e05ee4dbf3999d1a6ff0a5d4345c">
+                     <head>Scope and Contents</head>
+                     <p>Brochures and reports, including regarding work with lepers.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4004665"
@@ -14981,6 +15881,31 @@
                      <p>Leaflet describing home for unwed mothers.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4048704"
+                  id="aspace_0ec101a6ac7ab2b9a3e5d2e3060e5001"
+                  level="file">
+                  <did>
+                     <unittitle>Mission to Lepers</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1917">1917</fromdate>
+                           <todate standarddate="1964">1964</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_0ec101a6ac7ab2b9a3e5d2e3060e5001_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_0ec101a6ac7ab2b9a3e5d2e3060e5001_c2"
+                                localtype="folder"
+                                parent="aspace_0ec101a6ac7ab2b9a3e5d2e3060e5001_c1">9-10</container>
+                  </did>
+                  <scopecontent id="aspace_24ae130eb5c0bf112925a100a315f9ea">
+                     <head>Scope and Contents</head>
+                     <p>Informational bulletins, narratives; work in Africa, Asia, India.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4007604"
                   id="aspace_41133d535d7c94c7ff529d68646d98fe"
                   level="file">
@@ -15051,6 +15976,33 @@
                   <scopecontent id="aspace_04bcd881bcb53f616b50869efe2b1063">
                      <head>Scope and Contents</head>
                      <p>Booklets descriptive of the Society's Bible distribution work.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048713"
+                  id="aspace_62483109623cfa82f714d3542eb09870"
+                  level="file">
+                  <did>
+                     <unittitle>National Laymen's Missionary Movement</unittitle>
+                     <unitdatestructured altrender="1922-1926, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922">1922</fromdate>
+                           <todate standarddate="1926">1926</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_62483109623cfa82f714d3542eb09870_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_62483109623cfa82f714d3542eb09870_c2"
+                                localtype="folder"
+                                parent="aspace_62483109623cfa82f714d3542eb09870_c1">11</container>
+                  </did>
+                  <scopecontent id="aspace_a2ff31fda8c860c406a301c71917b8f2">
+                     <head>Scope and Contents</head>
+                     <p>Handbook, report, brochures.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4007607"
@@ -15489,6 +16441,28 @@
                   <scopecontent id="aspace_ea04ec41343fd7ba008fa582e3f4a0ae">
                      <head>Scope and Contents</head>
                      <p>Newsletters, appeal for mission affiliated with the Baptist Missionary Society.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048716"
+                  id="aspace_1915b0f4b1e20c8a91b200e73a40491d"
+                  level="file">
+                  <did>
+                     <unittitle>Sierra Leone Mission</unittitle>
+                     <unitdatestructured altrender="circa 1907" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1907">circa 1907</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_1915b0f4b1e20c8a91b200e73a40491d_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_1915b0f4b1e20c8a91b200e73a40491d_c2"
+                                localtype="folder"
+                                parent="aspace_1915b0f4b1e20c8a91b200e73a40491d_c1">12</container>
+                  </did>
+                  <scopecontent id="aspace_c211c69d853b14bc6a5f42695f8f4f34">
+                     <head>Scope and Contents</head>
+                     <p>Informational leaflet regarding mission supported by churches of the Countess of Huntingdon's Connexion and the Free Church of England.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4008028"
@@ -16086,6 +17060,34 @@
                   <scopecontent id="aspace_ecc62879d825db29d8f13bb2d25b3ce3">
                      <head>Scope and Contents</head>
                      <p>Historical summary.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048717"
+                  id="aspace_7209400d4927c72994041b7d9e126fc1"
+                  level="file">
+                  <did>
+                     <unittitle>Society of the Sacred Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1961">1961</fromdate>
+                           <todate standarddate="1964">1964</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_7209400d4927c72994041b7d9e126fc1_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_7209400d4927c72994041b7d9e126fc1_c2"
+                                localtype="folder"
+                                parent="aspace_7209400d4927c72994041b7d9e126fc1_c1">13</container>
+                  </did>
+                  <scopecontent id="aspace_5a53e2191c52b8cdabce8422aff666cc">
+                     <head>Scope and Contents</head>
+                     <p>Issues of <title>
+                           <part>SSM Quarterly.</part>
+                        </title>
+                     </p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4008068"
@@ -16784,6 +17786,56 @@
                                 localtype="folder"
                                 parent="aspace_b45f639a42b297fbc81d17a537faebf1_c1">8</container>
                   </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048722"
+                  id="aspace_05508d8ff9ff37dfdb924429684e21f7"
+                  level="file">
+                  <did>
+                     <unittitle>World's Evangelical Alliance</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1906">1906</fromdate>
+                           <todate standarddate="1948">1948</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_05508d8ff9ff37dfdb924429684e21f7_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_05508d8ff9ff37dfdb924429684e21f7_c2"
+                                localtype="folder"
+                                parent="aspace_05508d8ff9ff37dfdb924429684e21f7_c1">14</container>
+                  </did>
+                  <scopecontent id="aspace_55d036b4b2eb64ed9217846a5805b7d2">
+                     <head>Scope and Contents</head>
+                     <p>Address, pictorial booklet, brochure on Universal Week of Prayer published by organization based in London, previously known as the Evangelical Alliance.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048723"
+                  id="aspace_b7c7f57a44b52ffa223d3b9e9541b028"
+                  level="file">
+                  <did>
+                     <unittitle>Worldwide Evangelization Crusade</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1916">1916</fromdate>
+                           <todate standarddate="1924">1924</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_b7c7f57a44b52ffa223d3b9e9541b028_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_b7c7f57a44b52ffa223d3b9e9541b028_c2"
+                                localtype="folder"
+                                parent="aspace_b7c7f57a44b52ffa223d3b9e9541b028_c1">15</container>
+                  </did>
+                  <scopecontent id="aspace_62c7db84c723978a70353041f4ce9fee">
+                     <head>Scope and Contents</head>
+                     <p>Publications, newsletters of organization known as the Heart of Africa Mission in Africa and the Amazonia Mission in Brazil. Its work was later continued by Unevangelized Fields Mission.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4008098"
                   id="aspace_dad16c11ce51da11d607180e22f83267"
@@ -17755,6 +18807,31 @@
                      <p>Reports.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4048729"
+                  id="aspace_0b80f201df11cc019a30766bbfff4fb9"
+                  level="file">
+                  <did>
+                     <unittitle>Haitian Gospel Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1942">1942</fromdate>
+                           <todate standarddate="1943">1943</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_0b80f201df11cc019a30766bbfff4fb9_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_0b80f201df11cc019a30766bbfff4fb9_c2"
+                                localtype="folder"
+                                parent="aspace_0b80f201df11cc019a30766bbfff4fb9_c1">16</container>
+                  </did>
+                  <scopecontent id="aspace_057cd21f88de1498770081da05c0d541">
+                     <head>Scope and Contents</head>
+                     <p>Newsletters from organization that was part of the Unevangelized Fields Mission from 1943.</p>
+                  </scopecontent>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/4017573"
                id="aspace_29d4d4b5064ca1de510915c5194c3130"
@@ -18005,6 +19082,28 @@
                      <p>History, issues of periodical.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4048733"
+                  id="aspace_8c1c114a3213dd748185c892ac4c1de3"
+                  level="file">
+                  <did>
+                     <unittitle>Mexican Indian Mission</unittitle>
+                     <unitdatestructured altrender="1942, undated" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1942">1942, undated</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_8c1c114a3213dd748185c892ac4c1de3_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_8c1c114a3213dd748185c892ac4c1de3_c2"
+                                localtype="folder"
+                                parent="aspace_8c1c114a3213dd748185c892ac4c1de3_c1">17</container>
+                  </did>
+                  <scopecontent id="aspace_fc3585eac109a5a4a2e5f2d504c72297">
+                     <head>Scope and Contents</head>
+                     <p>Newsletter, brochure.</p>
+                  </scopecontent>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/4017585"
                id="aspace_ad51b7cccee1c775b33d0ed3945d9ca6"
@@ -18012,6 +19111,28 @@
                <did>
                   <unittitle>Peru</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4048736"
+                  id="aspace_78a7887906b65621252500298e2798f7"
+                  level="file">
+                  <did>
+                     <unittitle>Mid-Peruvian Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1921">1921</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_78a7887906b65621252500298e2798f7_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_78a7887906b65621252500298e2798f7_c2"
+                                localtype="folder"
+                                parent="aspace_78a7887906b65621252500298e2798f7_c1">18</container>
+                  </did>
+                  <scopecontent id="aspace_280fd058a2ca95b936ce02408d943f1e">
+                     <head>Scope and Contents</head>
+                     <p>Informational leaflet.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4017586"
                   id="aspace_bf8e3619bcdabb0c51db978cabf1c5be"
                   level="file">
@@ -18064,6 +19185,31 @@
                   <scopecontent id="aspace_0a4cc3ca0ca480f18c5f4b7a9d24b433">
                      <head>Scope and Contents</head>
                      <p>Reports, constitution and by-laws.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048737"
+                  id="aspace_dfae0a42d533fef8e72f606a08d00fb6"
+                  level="file">
+                  <did>
+                     <unittitle>Asociacion Bautista de Puerto Rico</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1930">1930</fromdate>
+                           <todate standarddate="1940">1940</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484453 /locations/2"
+                                containerid="39002112327151"
+                                id="aspace_dfae0a42d533fef8e72f606a08d00fb6_c1"
+                                label="Mixed Materials"
+                                localtype="box">279</container>
+                     <container id="aspace_dfae0a42d533fef8e72f606a08d00fb6_c2"
+                                localtype="folder"
+                                parent="aspace_dfae0a42d533fef8e72f606a08d00fb6_c1">19</container>
+                  </did>
+                  <scopecontent id="aspace_4174b25879fd37c8a2804c6be0bc6372">
+                     <head>Scope and Contents</head>
+                     <p>Reports of annual assemblies of Baptist churches in Puerto Rico.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4017590"
@@ -45087,6 +46233,99 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                   <head>Scope and Contents</head>
                   <p>Pamphlets related to Liebenzeller Mission work in China.</p>
                </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4004392"
+               id="aspace_506392312138b416b8ed17444feb0b90"
+               level="subseries">
+               <did>
+                  <unittitle>Lutheran World Federation</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4004393"
+                  id="aspace_83260faca01534e52e8f18ad51e07551"
+                  level="file">
+                  <did>
+                     <unittitle>Assembly reports, Broadcasting Service</unittitle>
+                     <unitdatestructured altrender="1947, 1957, 1961"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1947">1947</fromdate>
+                           <todate standarddate="1961">1961</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/422307 /locations/9"
+                                containerid="39002112326013"
+                                id="aspace_83260faca01534e52e8f18ad51e07551_c1"
+                                label="Mixed Materials"
+                                localtype="box">50</container>
+                     <container id="aspace_83260faca01534e52e8f18ad51e07551_c2"
+                                localtype="folder"
+                                parent="aspace_83260faca01534e52e8f18ad51e07551_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4004394"
+                  id="aspace_60f90d71a88a324716424eb6e882bc56"
+                  level="file">
+                  <did>
+                     <unittitle>Consultation and workshop reports on African theology, Namibia, women in Africa</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1976">1976</fromdate>
+                           <todate standarddate="1980">1980</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/422307 /locations/9"
+                                containerid="39002112326013"
+                                id="aspace_60f90d71a88a324716424eb6e882bc56_c1"
+                                label="Mixed Materials"
+                                localtype="box">50</container>
+                     <container id="aspace_60f90d71a88a324716424eb6e882bc56_c2"
+                                localtype="folder"
+                                parent="aspace_60f90d71a88a324716424eb6e882bc56_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4004395"
+                  id="aspace_e5b96c6d67e643b352ac6747c6af414d"
+                  level="file">
+                  <did>
+                     <unittitle>Consultation and workshop reports on Christianity in China, Marxism, Human Rights</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1974">1974</fromdate>
+                           <todate standarddate="1977">1977</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/422307 /locations/9"
+                                containerid="39002112326013"
+                                id="aspace_e5b96c6d67e643b352ac6747c6af414d_c1"
+                                label="Mixed Materials"
+                                localtype="box">50</container>
+                     <container id="aspace_e5b96c6d67e643b352ac6747c6af414d_c2"
+                                localtype="folder"
+                                parent="aspace_e5b96c6d67e643b352ac6747c6af414d_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4004396"
+                  id="aspace_924dc331e9877e8eb52ba8d2282b8111"
+                  level="file">
+                  <did>
+                     <unittitle>Marxism and China Study information letters</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1974">1974</fromdate>
+                           <todate standarddate="1975">1975</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/422307 /locations/9"
+                                containerid="39002112326013"
+                                id="aspace_924dc331e9877e8eb52ba8d2282b8111_c1"
+                                label="Mixed Materials"
+                                localtype="box">50</container>
+                     <container id="aspace_924dc331e9877e8eb52ba8d2282b8111_c2"
+                                localtype="folder"
+                                parent="aspace_924dc331e9877e8eb52ba8d2282b8111_c1">11</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/4046744"
                id="aspace_9b73691fa82551fc7a2025e148a2f222"

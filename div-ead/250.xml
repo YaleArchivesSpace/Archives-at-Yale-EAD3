@@ -41,7 +41,7 @@
                <p>Boxes: 1, Ov1-2, Ov2-3, Ov3-4, Ov4-5, Ov5-6, Ov6-7, Ov7-8, Ov8-9, Ov9-10, Ov10-11, Ov11-12, Ov12-13, Ov13-14, Ov14-15, Ov15-16, Ov16-17, Ov17-18, Ov18-19, Ov19-20, Ov20-21, Ov21-22, Ov22-23, Ov23-24, Ov24-25, Ov25-26, Ov26-131, 133-395, 395a, 395b-546, 546A-671</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Box: 562A</p>
+               <p>Boxes: OVd10, 562A</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="227">227</num> digital files.</p>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-30T18:00:07-04:00</eventdatetime>
+            <eventdatetime>2026-07-29T18:00:33-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 29, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -43603,6 +43603,25 @@
                      <container id="aspace_ref2781_c2"
                                 localtype="folder"
                                 parent="aspace_ref2781_c1">7745-7748</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4048885"
+                  id="aspace_916d82f933f88a28de5d6473c2713791"
+                  level="file">
+                  <did>
+                     <unittitle>Eleventh Quadrennial Convention: Student Volunteer Movement for Foreign Missions. Buffalo, New York</unittitle>
+                     <unitdatestructured altrender="1931 December 30 - 1932 January 3"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931-12-30">1931 December 30</fromdate>
+                           <todate standarddate="1932-01-03">1932 January 3</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484463 /locations/2"
+                                id="aspace_916d82f933f88a28de5d6473c2713791_c1"
+                                label="Mixed Materials"
+                                localtype="box">OVd10</container>
                   </did>
                </c>
             </c>
