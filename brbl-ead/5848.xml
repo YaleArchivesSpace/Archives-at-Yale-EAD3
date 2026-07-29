@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-07T00:01:53-05:00</eventdatetime>
+            <eventdatetime>2026-07-28T23:00:14-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday December  7, 2025 at 00:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -135,7 +135,7 @@
       <accessrestrict id="aspace_05bb2a6d18e3d749f42841130bf5f9fa">
          <head>Conditions Governing Access</head>
          <p>The materials are open for research.</p>
-         <p>Box 8 (floppy disks): Restricted fragile material. Reference copies of electronic files may be requested. Consult Access Services for further information.</p>
+         <p>Box 8 (floppy disks): Original computer files may not be accessed due to their fragility. Researchers must consult access copies instead of the originals.  Consult Access Services for further information.</p>
       </accessrestrict>
       <processinfo id="aspace_4363044713c254be6c53dc20e3456e47">
          <head>Processing Information</head>
@@ -4352,7 +4352,7 @@
                <accessrestrict id="aspace_8e88b417ef5df14158fe22316835279e"
                                localtype="RestrictedFragileSpecColl">
                   <head>Conditions Governing Access</head>
-                  <p>Original computer disks are restricted and may only be seen with approval from the appropriate curator until the files have been imaged and reviewed. Contact Access Services for further information.</p>
+                  <p>Original computer files may not be accessed due to their fragility. Researchers must consult access copies instead of the originals.</p>
                </accessrestrict>
                <c altrender="/repositories/11/archival_objects/2362398"
                   id="aspace_913c09b6e8df7974115e3eb492bc62ca"
