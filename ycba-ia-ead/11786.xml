@@ -32,6 +32,11 @@
             </address>
             <num>MSS 57</num>
          </publicationstmt>
+         <notestmt>
+            <controlnote localtype="onsite">
+               <p>Boxes: 1-4</p>
+            </controlnote>
+         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency countrycode="US">
@@ -57,15 +62,15 @@
          </descriptivenote>
       </rightsdeclaration>
       <localcontrol localtype="findaidstatus">
-         <term>unprocessed</term>
+         <term>in_progress</term>
       </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-03-02T18:00:51-05:00</eventdatetime>
+            <eventdatetime>2026-07-30T18:00:54-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March  2, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -88,14 +93,8 @@
          <physdesc localtype="container_summary">5 document boxes</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
-               <fromdate standarddate="1972">1972</fromdate>
+               <fromdate standarddate="1974">1974</fromdate>
                <todate standarddate="1992">1992</todate>
-            </daterange>
-         </unitdatestructured>
-         <unitdatestructured label="creation" unitdatetype="bulk">
-            <daterange>
-               <fromdate standarddate="1981">1981</fromdate>
-               <todate standarddate="1982">1982</todate>
             </daterange>
          </unitdatestructured>
          <origination label="Creator">
@@ -180,14 +179,9 @@
       </scopecontent>
       <userestrict id="aspace_1bfc0269f4d931eb88e20f4f75d38c6b">
          <head>Conditions Governing Use</head>
-         <p>Copyright Undetermined</p>
+         <p>In Copyright</p>
          <p>The collection is the physical property of the Yale Center for British Art. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the Archives Department.</p>
       </userestrict>
-      <accessrestrict id="aspace_b87d0bd1deffce8c6808c3413e87f39b"
-                      localtype="InProcessSpecColl">
-         <head>Conditions Governing Access</head>
-         <p>This collection is unprocessed and is not available for access in the Study Room.</p>
-      </accessrestrict>
       <acqinfo id="aspace_a28be28a8662d37561bb5ab87575c623">
          <head>Immediate Source of Acquisition</head>
          <p>Yale Center for British Art, Courtesy Linda Benedict-Jones</p>
