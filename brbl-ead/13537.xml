@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-22T23:11:23-04:00</eventdatetime>
+            <eventdatetime>2026-07-29T23:00:23-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:11</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 29, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -22465,7 +22465,12 @@
                      <quantity>1</quantity>
                      <unittype>Audiocassette</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>00:47:24</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
                   <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <materialspec id="aspace_f4a7d50c760e885348694abbe64ee9c0">Audio distortion, hiss, and hum are present.</materialspec>
                   <container altrender="/repositories/11/top_containers/406492 /locations/9"
                              containerid="39002099198351"
                              encodinganalog="card box (4d 6h 8w)"
