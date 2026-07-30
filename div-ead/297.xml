@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-17T18:02:16-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T18:01:31-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -30699,7 +30699,7 @@ Chapter 36: Work in Wartime.</p>
                </bioghist>
                <c altrender="/repositories/4/archival_objects/115835"
                   id="ref1501"
-                  level="file">
+                  level="item">
                   <did>
                      <unittitle>Film strips (8 reels)</unittitle>
                      <container altrender="/repositories/4/top_containers/11925 /locations/2"
@@ -30707,10 +30707,25 @@ Chapter 36: Work in Wartime.</p>
                                 id="aspace_ref1501_c1"
                                 label="Mixed Materials"
                                 localtype="box">152</container>
-                     <container id="aspace_ref1501_c2"
-                                localtype="folder"
-                                parent="aspace_ref1501_c1">1</container>
-                     <container id="aspace_ref1501_c3" localtype="reel" parent="aspace_ref1501_c2">1-8</container>
+                     <container id="aspace_ref1501_c2" localtype="reel" parent="aspace_ref1501_c1">1-Rural China</container>
+                     <container id="aspace_ref1501_c3"
+                                localtype="item_barcode"
+                                parent="aspace_ref1501_c2">39002144680643</container>
+                     <container altrender="/repositories/4/top_containers/11925 /locations/2"
+                                containerid="39002131151996"
+                                id="aspace_ref1501_c4"
+                                label="Mixed Materials"
+                                localtype="box">152</container>
+                     <container id="aspace_ref1501_c5" localtype="reel" parent="aspace_ref1501_c4">E1-Rural Education, Yenching</container>
+                     <container id="aspace_ref1501_c6"
+                                localtype="item_barcode"
+                                parent="aspace_ref1501_c5">39002144680650</container>
+                     <container altrender="/repositories/4/top_containers/11925 /locations/2"
+                                containerid="39002131151996"
+                                id="aspace_ref1501_c7"
+                                label="Mixed Materials"
+                                localtype="box">152</container>
+                     <container id="aspace_ref1501_c8" localtype="reel" parent="aspace_ref1501_c7">F1-Farm Life</container>
                   </did>
                </c>
             </c>
