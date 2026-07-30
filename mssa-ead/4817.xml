@@ -38,7 +38,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="41">41</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="863">863</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="42">42</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1113">1,113</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-10T03:00:52-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:13:52-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:13</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -49708,6 +49708,35 @@ See: <ref actuate="onrequest" show="replace" target="ref1480">Pacific Islands an
                         <container id="aspace_ref2210_c2"
                                    localtype="folder"
                                    parent="aspace_ref2210_c1">595</container>
+                        <daoset altrender="/repositories/12/digital_objects/351298">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33719197"
+                                identifier="oid:33719197"
+                                linktitle="250 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33719424/full/!150,150/0/default.jpg"
+                                identifier="oid:33719197"
+                                linktitle="250 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33719197"
+                                identifier="oid:33719197"
+                                linktitle="250 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Notebooks: typed transcripts</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1957259"

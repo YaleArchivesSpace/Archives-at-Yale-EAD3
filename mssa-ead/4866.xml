@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="440">440</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -68,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T03:00:11-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:14:49-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:14</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -847,6 +850,35 @@
                                 id="aspace_ref62_c1"
                                 label="Mixed Materials"
                                 localtype="box">3</container>
+                     <daoset altrender="/repositories/12/digital_objects/351308">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33719763"
+                             identifier="oid:33719763"
+                             linktitle="212 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33719943/full/!150,150/0/default.jpg"
+                             identifier="oid:33719763"
+                             linktitle="212 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33719763"
+                             identifier="oid:33719763"
+                             linktitle="212 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Reports, Triffin</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/2009345"
@@ -2053,6 +2085,35 @@
                                    id="aspace_ref131_c1"
                                    label="Mixed Materials"
                                    localtype="box">5</container>
+                        <daoset altrender="/repositories/12/digital_objects/351301">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33719936"
+                                identifier="oid:33719936"
+                                linktitle="200 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33720116/full/!150,150/0/default.jpg"
+                                identifier="oid:33719936"
+                                linktitle="200 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33719936"
+                                identifier="oid:33719936"
+                                linktitle="200 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Central Banking Law</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/2009414"
@@ -3422,6 +3483,35 @@
                                 id="aspace_ref210_c1"
                                 label="Mixed Materials"
                                 localtype="box">6</container>
+                     <daoset altrender="/repositories/12/digital_objects/351270">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33719963"
+                             identifier="oid:33719963"
+                             linktitle="28 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33719988/full/!150,150/0/default.jpg"
+                             identifier="oid:33719963"
+                             linktitle="28 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33719963"
+                             identifier="oid:33719963"
+                             linktitle="28 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Central Banking and Monetary Management, Triffin</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/2009493"

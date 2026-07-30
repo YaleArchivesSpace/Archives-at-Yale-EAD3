@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="6">6</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="178">178</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="10">10</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1014">1,014</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T03:00:22-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:15:19-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:15</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2864,6 +2864,35 @@ See also: <ref actuate="onrequest" show="replace" target="ref1190">box 218, fold
                              label="Mixed Materials"
                              localtype="box">26</container>
                   <container id="aspace_ref127_c2" localtype="folder" parent="aspace_ref127_c1">323-324</container>
+                  <daoset altrender="/repositories/12/digital_objects/351259">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33715542"
+                          identifier="oid:33715542"
+                          linktitle="62 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33715599/full/!150,150/0/default.jpg"
+                          identifier="oid:33715542"
+                          linktitle="62 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33715542"
+                          identifier="oid:33715542"
+                          linktitle="62 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Chen, Lung-chu</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1529018"
@@ -5879,6 +5908,35 @@ See also: <ref actuate="onrequest" show="replace" target="ref1167">box 212, fold
                              label="Mixed Materials"
                              localtype="box">43</container>
                   <container id="aspace_ref264_c2" localtype="folder" parent="aspace_ref264_c1">593</container>
+                  <daoset altrender="/repositories/12/digital_objects/351256">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33715590"
+                          identifier="oid:33715590"
+                          linktitle="57 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33715641/full/!150,150/0/default.jpg"
+                          identifier="oid:33715590"
+                          linktitle="57 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33715590"
+                          identifier="oid:33715590"
+                          linktitle="57 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Helmick, Milton J.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1529155"
@@ -9108,6 +9166,35 @@ See: <ref actuate="onrequest" show="replace" target="ref552">box 89, folders 109
                              label="Mixed Materials"
                              localtype="box">66</container>
                   <container id="aspace_ref423_c2" localtype="folder" parent="aspace_ref423_c1">872-877</container>
+                  <daoset altrender="/repositories/12/digital_objects/351329">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33716003"
+                          identifier="oid:33716003"
+                          linktitle="569 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33716628/full/!150,150/0/default.jpg"
+                          identifier="oid:33716003"
+                          linktitle="569 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33716003"
+                          identifier="oid:33716003"
+                          linktitle="569 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>N</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1529314"
@@ -13698,6 +13785,35 @@ See: <ref actuate="onrequest" show="replace" target="ref389">box 62, folders 834
                              label="Mixed Materials"
                              localtype="box">103</container>
                   <container id="aspace_ref652_c2" localtype="folder" parent="aspace_ref652_c1">1259</container>
+                  <daoset altrender="/repositories/12/digital_objects/351264">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33716387"
+                          identifier="oid:33716387"
+                          linktitle="148 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33716455/full/!150,150/0/default.jpg"
+                          identifier="oid:33716387"
+                          linktitle="148 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33716387"
+                          identifier="oid:33716387"
+                          linktitle="148 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Wright, Quincy</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1529542"

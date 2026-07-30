@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="470">470</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1834">1,834</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T03:01:05-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:16:15-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:16</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -28684,6 +28684,35 @@
                         <container id="aspace_ref1940_c2"
                                    localtype="folder"
                                    parent="aspace_ref1940_c1">2384 - 2385</container>
+                        <daoset altrender="/repositories/12/digital_objects/351310">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33716936"
+                                identifier="oid:33716936"
+                                linktitle="466 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33717977/full/!150,150/0/default.jpg"
+                                identifier="oid:33716936"
+                                linktitle="466 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33716936"
+                                identifier="oid:33716936"
+                                linktitle="466 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Curtis Publishing Co. v. Butts, nos. 37 and 150</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1702839"
@@ -54105,6 +54134,35 @@
                         <container id="aspace_ref3537_c2"
                                    localtype="folder"
                                    parent="aspace_ref3537_c1">4132 - 4135</container>
+                        <daoset altrender="/repositories/12/digital_objects/351359">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33718215"
+                                identifier="oid:33718215"
+                                linktitle="898 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33718840/full/!150,150/0/default.jpg"
+                                identifier="oid:33718215"
+                                linktitle="898 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33718215"
+                                identifier="oid:33718215"
+                                linktitle="898 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Bell, Attorney General v. Wolfish, no. 77-1829</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1704436"

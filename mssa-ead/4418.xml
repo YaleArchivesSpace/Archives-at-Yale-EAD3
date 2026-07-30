@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="455">455</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2067">2,067</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="458">458</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="3282">3,282</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-28T03:01:10-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:17:14-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:17</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -12531,6 +12531,27 @@
                                       label="Mixed Materials"
                                       localtype="box">43</container>
                            <container id="aspace_ref636_c2" localtype="folder" parent="aspace_ref636_c1">89</container>
+                           <daoset altrender="/repositories/12/digital_objects/351369">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                   identifier="oid:33734493"
+                                   linktitle="73 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33734493"
+                                   identifier="oid:33734493"
+                                   linktitle="73 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>World's Fair Exhibition Hall and Park, IBM, New York, NY</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                      </c>
                      <c altrender="/repositories/12/archival_objects/1368821"
@@ -23986,6 +24007,35 @@
                         <container id="aspace_ref3868_c2"
                                    localtype="folder"
                                    parent="aspace_ref3868_c1">63</container>
+                        <daoset altrender="/repositories/12/digital_objects/351241">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33712134"
+                                identifier="oid:33712134"
+                                linktitle="32 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33712164/full/!150,150/0/default.jpg"
+                                identifier="oid:33712134"
+                                linktitle="32 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33712134"
+                                identifier="oid:33712134"
+                                linktitle="32 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Structural details and sections</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1369335"
@@ -71011,6 +71061,35 @@
                                 id="aspace_ref3311_c1"
                                 label="Mixed Materials"
                                 localtype="box">5</container>
+                     <daoset altrender="/repositories/12/digital_objects/351366">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33713103"
+                             identifier="oid:33713103"
+                             linktitle="1110 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33714289/full/!150,150/0/default.jpg"
+                             identifier="oid:33713103"
+                             linktitle="1110 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33713103"
+                             identifier="oid:33713103"
+                             linktitle="1110 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Program information, publicity and clippings, bills and accounting, union news, and Washington office correspondence</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>

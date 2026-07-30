@@ -40,7 +40,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="1">1</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="343">343</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T03:01:49-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:03:49-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4761,6 +4761,35 @@
                                 label="Mixed Materials"
                                 localtype="box">14</container>
                      <container id="aspace_ref261_c2" localtype="folder" parent="aspace_ref261_c1">20</container>
+                     <daoset altrender="/repositories/12/digital_objects/351219">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33709096"
+                             identifier="oid:33709096"
+                             linktitle="112 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33709227/full/!150,150/0/default.jpg"
+                             identifier="oid:33709096"
+                             linktitle="112 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33709096"
+                             identifier="oid:33709096"
+                             linktitle="112 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Kailua</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1249491"
@@ -4807,6 +4836,35 @@
                                 label="Mixed Materials"
                                 localtype="box">14</container>
                      <container id="aspace_ref282_c2" localtype="folder" parent="aspace_ref282_c1">22</container>
+                     <daoset altrender="/repositories/12/digital_objects/351221">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33709224"
+                             identifier="oid:33709224"
+                             linktitle="110 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33709372/full/!150,150/0/default.jpg"
+                             identifier="oid:33709224"
+                             linktitle="110 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33709224"
+                             identifier="oid:33709224"
+                             linktitle="110 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Kauai</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1249493"
@@ -4880,6 +4938,35 @@
                                 label="Mixed Materials"
                                 localtype="box">14</container>
                      <container id="aspace_ref285_c2" localtype="folder" parent="aspace_ref285_c1">25-26</container>
+                     <daoset altrender="/repositories/12/digital_objects/351222">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33709389"
+                             identifier="oid:33709389"
+                             linktitle="120 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33709565/full/!150,150/0/default.jpg"
+                             identifier="oid:33709389"
+                             linktitle="120 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33709389"
+                             identifier="oid:33709389"
+                             linktitle="120 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Oahu</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <altformavail id="aspace_9e17c6eed0da6acede7b9b674adc3762">
                      <head>Existence and Location of Copies</head>

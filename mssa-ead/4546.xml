@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="145">145</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="248">248</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-09T06:45:39-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:21:08-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 06:45</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:21</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -9910,6 +9910,27 @@ See: <ref actuate="onrequest" show="replace" target="ref2118">Part I, box 152, f
                                 label="Mixed Materials"
                                 localtype="box">32</container>
                      <container id="aspace_ref580_c2" localtype="folder" parent="aspace_ref580_c1">519</container>
+                     <daoset altrender="/repositories/12/digital_objects/351416">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33739331"
+                             linktitle="74 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33739331"
+                             identifier="oid:33739331"
+                             linktitle="74 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Makanya, Violet S.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <odd id="aspace_6f6df7172fb73d9ed254919a49522577">
                      <head>General note</head>
@@ -32061,6 +32082,27 @@ See: <ref actuate="onrequest" show="replace" target="ref1308">Part I, box 91, fo
                      <container id="aspace_ref2046_c2"
                                 localtype="folder"
                                 parent="aspace_ref2046_c1">93</container>
+                     <daoset altrender="/repositories/12/digital_objects/351408">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33739375"
+                             linktitle="29 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33739375"
+                             identifier="oid:33739375"
+                             linktitle="29 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Outlines of addresses, Skull and Bones Society, Yale University</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1669653"

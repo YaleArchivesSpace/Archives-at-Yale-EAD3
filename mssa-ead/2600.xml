@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="9">9</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="448">448</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="880">880</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-06T03:01:47-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:15:05-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July  6, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:15</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4275,6 +4275,35 @@
                            <p>Copies of WYBC Microphone [newsletter]</p>
                         </descriptivenote>
                      </daoset>
+                     <daoset altrender="/repositories/12/digital_objects/351290">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33722958"
+                             identifier="oid:33722958"
+                             linktitle="64 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33723057/full/!150,150/0/default.jpg"
+                             identifier="oid:33722958"
+                             linktitle="64 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33722958"
+                             identifier="oid:33722958"
+                             linktitle="64 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Copies of WYBC Microphone [newsletter]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/808051"
@@ -4405,6 +4434,35 @@
                                 label="Mixed Materials"
                                 localtype="box">16</container>
                      <container id="aspace_ref232_c2" localtype="folder" parent="aspace_ref232_c1">52</container>
+                     <daoset altrender="/repositories/12/digital_objects/351323">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33723297"
+                             identifier="oid:33723297"
+                             linktitle="304 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33723709/full/!150,150/0/default.jpg"
+                             identifier="oid:33723297"
+                             linktitle="304 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33723297"
+                             identifier="oid:33723297"
+                             linktitle="304 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Program guide</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/808057"
@@ -4425,6 +4483,35 @@
                                 label="Mixed Materials"
                                 localtype="box">16</container>
                      <container id="aspace_ref233_c2" localtype="folder" parent="aspace_ref233_c1">53 - 54</container>
+                     <daoset altrender="/repositories/12/digital_objects/351297">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33723386"
+                             identifier="oid:33723386"
+                             linktitle="64 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33723528/full/!150,150/0/default.jpg"
+                             identifier="oid:33723386"
+                             linktitle="64 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33723386"
+                             identifier="oid:33723386"
+                             linktitle="64 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Promotional fliers and advertisements</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/808058"

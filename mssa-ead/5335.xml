@@ -35,6 +35,11 @@
             <date>November 2015</date>
             <num>MS 2033</num>
          </publicationstmt>
+         <notestmt>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="92">92</num> digital files.</p>
+            </controlnote>
+         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -65,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-14T03:06:21-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:30:04-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:06</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:30</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -176,6 +181,27 @@
                <container id="aspace_6f2aae4ff172f22f69ffaf0d6877982e_c2"
                           localtype="folder"
                           parent="aspace_6f2aae4ff172f22f69ffaf0d6877982e_c1">1-18</container>
+               <daoset altrender="/repositories/12/digital_objects/351446">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                       identifier="oid:33742850"
+                       linktitle="92 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33742850"
+                       identifier="oid:33742850"
+                       linktitle="92 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Correspondence and financial documents</p>
+                  </descriptivenote>
+               </daoset>
             </did>
          </c>
       </dsc>

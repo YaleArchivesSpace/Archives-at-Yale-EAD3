@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2">2</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="8">8</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="252">252</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-11T03:04:53-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:18:41-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday July 11, 2026 at 03:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:18</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4651,6 +4651,27 @@ See: <ref actuate="onrequest" show="replace" target="ref554">box 13, folder 20-5
                                 label="Mixed Materials"
                                 localtype="box">4</container>
                      <container id="aspace_ref240_c2" localtype="folder" parent="aspace_ref240_c1">75</container>
+                     <daoset altrender="/repositories/12/digital_objects/351382">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33736847"
+                             linktitle="46 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33736847"
+                             identifier="oid:33736847"
+                             linktitle="46 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Howe, Mark Dew.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1456505"
@@ -6713,6 +6734,27 @@ See also: <ref actuate="onrequest" show="replace" target="ref1203">box 32, folde
                                 label="Mixed Materials"
                                 localtype="box">6</container>
                      <container id="aspace_ref347_c2" localtype="folder" parent="aspace_ref347_c1">116</container>
+                     <daoset altrender="/repositories/12/digital_objects/351388">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33736930"
+                             linktitle="78 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33736930"
+                             identifier="oid:33736930"
+                             linktitle="78 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Parrish, Michael E.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1456612"
@@ -8350,6 +8392,27 @@ See: <ref actuate="onrequest" show="replace" target="ref1610">box 45, folder 34<
                                 label="Mixed Materials"
                                 localtype="box">8</container>
                      <container id="aspace_ref434_c2" localtype="folder" parent="aspace_ref434_c1">142</container>
+                     <daoset altrender="/repositories/12/digital_objects/351391">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33737028"
+                             linktitle="90 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33737028"
+                             identifier="oid:33737028"
+                             linktitle="90 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Todd, Alden</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1456699"
@@ -20530,6 +20593,27 @@ to the Pentagon Papers," <title render="italic">
                      <container id="aspace_ref1037_c2"
                                 localtype="folder"
                                 parent="aspace_ref1037_c1">161</container>
+                     <daoset altrender="/repositories/12/digital_objects/351384">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33737067"
+                             linktitle="32 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33737067"
+                             identifier="oid:33737067"
+                             linktitle="32 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Justice on Trial, by A. L. Todd, New Republic</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1457296"
@@ -45058,6 +45142,27 @@ and <title render="italic">
                      <container id="aspace_ref2337_c2"
                                 localtype="folder"
                                 parent="aspace_ref2337_c1">30</container>
+                     <daoset altrender="/repositories/12/digital_objects/351379">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33737077"
+                             linktitle="4 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33737077"
+                             identifier="oid:33737077"
+                             linktitle="4 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>A. Bickel and an unidentified woman</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1458567"

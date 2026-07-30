@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="236">236</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T03:00:17-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:15:57-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:15</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2837,6 +2840,27 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref190_c2" localtype="folder" parent="aspace_ref190_c1">124</container>
+                     <daoset altrender="/repositories/12/digital_objects/351340">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33730983"
+                             linktitle="16 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33730983"
+                             identifier="oid:33730983"
+                             linktitle="16 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"State Machinery in the U.S."</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1245049"
@@ -2857,6 +2881,27 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref191_c2" localtype="folder" parent="aspace_ref191_c1">125</container>
+                     <daoset altrender="/repositories/12/digital_objects/351344">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33731061"
+                             linktitle="72 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33731061"
+                             identifier="oid:33731061"
+                             linktitle="72 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Technical Problems of the Stage"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1245050"
@@ -2907,6 +2952,27 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref194_c2" localtype="folder" parent="aspace_ref194_c1">128</container>
+                     <daoset altrender="/repositories/12/digital_objects/351349">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33731165"
+                             linktitle="84 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33731165"
+                             identifier="oid:33731165"
+                             linktitle="84 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Theatre architecture, articles by ECC and Harold Burris - Meyer</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1245053"
@@ -2927,6 +2993,27 @@
                                 label="Mixed Materials"
                                 localtype="box">2</container>
                      <container id="aspace_ref195_c2" localtype="folder" parent="aspace_ref195_c1">129</container>
+                     <daoset altrender="/repositories/12/digital_objects/351346">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33731267"
+                             linktitle="64 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33731267"
+                             identifier="oid:33731267"
+                             linktitle="64 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Theatre and Technical Revolution"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1245054"

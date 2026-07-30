@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="126">126</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-10T03:13:20-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:03:38-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:13</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2253,6 +2256,35 @@
                                 label="Mixed Materials"
                                 localtype="box">6</container>
                      <container id="aspace_ref104_c2" localtype="folder" parent="aspace_ref104_c1">145</container>
+                     <daoset altrender="/repositories/12/digital_objects/351211">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33708823"
+                             identifier="oid:33708823"
+                             linktitle="24 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33708854/full/!150,150/0/default.jpg"
+                             identifier="oid:33708823"
+                             linktitle="24 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33708823"
+                             identifier="oid:33708823"
+                             linktitle="24 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Latin America</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1241330"
@@ -2343,6 +2375,35 @@
                                    label="Mixed Materials"
                                    localtype="box">6</container>
                         <container id="aspace_ref109_c2" localtype="folder" parent="aspace_ref109_c1">159-176</container>
+                        <daoset altrender="/repositories/12/digital_objects/351215">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33708857"
+                                identifier="oid:33708857"
+                                linktitle="44 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33708905/full/!150,150/0/default.jpg"
+                                identifier="oid:33708857"
+                                linktitle="44 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33708857"
+                                identifier="oid:33708857"
+                                linktitle="44 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Activities in the U.S.</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <altformavail id="aspace_fc4606ae36cc90c6f982d5170edad1c8">
                         <head>Existence and Location of Copies</head>
@@ -2364,6 +2425,35 @@
                                    label="Mixed Materials"
                                    localtype="box">6</container>
                         <container id="aspace_ref110_c2" localtype="folder" parent="aspace_ref110_c1">177</container>
+                        <daoset altrender="/repositories/12/digital_objects/351216">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33708907"
+                                identifier="oid:33708907"
+                                linktitle="58 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33708980/full/!150,150/0/default.jpg"
+                                identifier="oid:33708907"
+                                linktitle="58 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33708907"
+                                identifier="oid:33708907"
+                                linktitle="58 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>New York financial records</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                </c>

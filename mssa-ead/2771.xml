@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="20">20</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="30">30</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="21">21</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="34">34</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-06T03:01:50-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:13:07-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July  6, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:13</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2740,6 +2740,35 @@
                              label="Mixed Materials"
                              localtype="box">33</container>
                   <container id="aspace_ref153_c2" localtype="folder" parent="aspace_ref153_c1">5</container>
+                  <daoset altrender="/repositories/12/digital_objects/351293">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33724096"
+                          identifier="oid:33724096"
+                          linktitle="4 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33724442/full/!150,150/0/default.jpg"
+                          identifier="oid:33724096"
+                          linktitle="4 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33724096"
+                          identifier="oid:33724096"
+                          linktitle="4 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>#142 Secession Flag, Alumni Hall, 1861 put up by Southern students of Yale (possibly taken down by Roswell Parish Y. 1864); homemade</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/872091"

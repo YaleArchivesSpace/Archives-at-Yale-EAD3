@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="52">52</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="148">148</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="55">55</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="288">288</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-14T03:04:43-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:30:24-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:30</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -428,6 +428,27 @@
                      <container id="aspace_94ec481ab2e9e4767dfbf2e9e1b841d9_c2"
                                 localtype="folder"
                                 parent="aspace_94ec481ab2e9e4767dfbf2e9e1b841d9_c1">6</container>
+                     <daoset altrender="/repositories/12/digital_objects/351453">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33744023"
+                             linktitle="102 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33744023"
+                             identifier="oid:33744023"
+                             linktitle="102 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Barrientos; diary theft</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/3435910"
@@ -734,6 +755,27 @@
                      <container id="aspace_4306995ad0281d1a025348e7e7cd87c2_c2"
                                 localtype="folder"
                                 parent="aspace_4306995ad0281d1a025348e7e7cd87c2_c1">20</container>
+                     <daoset altrender="/repositories/12/digital_objects/351447">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33744043"
+                             linktitle="14 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33744043"
+                             identifier="oid:33744043"
+                             linktitle="14 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Correspondence re: accusations of CIA affiliation</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -1855,6 +1897,27 @@
                      <container id="aspace_a92e640e521c9c6b47e7bc545c2a4e57_c2"
                                 localtype="folder"
                                 parent="aspace_a92e640e521c9c6b47e7bc545c2a4e57_c1">8</container>
+                     <daoset altrender="/repositories/12/digital_objects/351449">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33744072"
+                             linktitle="24 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33744072"
+                             identifier="oid:33744072"
+                             linktitle="24 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Che14: Washington Organization of American States</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/3435972"

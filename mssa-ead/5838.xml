@@ -35,6 +35,11 @@
             <date>May 2021</date>
             <num>MS 2070</num>
          </publicationstmt>
+         <notestmt>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="118">118</num> digital files.</p>
+            </controlnote>
+         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -65,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-14T03:11:21-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:30:10-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:11</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:30</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -20725,6 +20730,27 @@ Gift of Norma Thompson, 2023.</p>
                      <container id="aspace_5ff88c6fd7ade22b40cd78d12e3ed147_c2"
                                 localtype="folder"
                                 parent="aspace_5ff88c6fd7ade22b40cd78d12e3ed147_c1">4</container>
+                     <daoset altrender="/repositories/12/digital_objects/351451">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33743097"
+                             linktitle="118 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33743097"
+                             identifier="oid:33743097"
+                             linktitle="118 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Marriage talk (Mace &amp; Chain)</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/2754692"

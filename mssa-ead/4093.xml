@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="749">749</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-14T03:00:13-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:07:01-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 14, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:07</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2105,6 +2108,35 @@
                                    label="Mixed Materials"
                                    localtype="box">5</container>
                         <container id="aspace_ref140_c2" localtype="folder" parent="aspace_ref140_c1">98</container>
+                        <daoset altrender="/repositories/12/digital_objects/351225">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33710097"
+                                identifier="oid:33710097"
+                                linktitle="96 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33710179/full/!150,150/0/default.jpg"
+                                identifier="oid:33710097"
+                                linktitle="96 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33710097"
+                                identifier="oid:33710097"
+                                linktitle="96 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Break-ins [re: security issues]</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1295958"
@@ -3964,6 +3996,35 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref241_c2" localtype="folder" parent="aspace_ref241_c1">19</container>
+                     <daoset altrender="/repositories/12/digital_objects/351227">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33710163"
+                             identifier="oid:33710163"
+                             linktitle="80 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33710239/full/!150,150/0/default.jpg"
+                             identifier="oid:33710163"
+                             linktitle="80 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33710163"
+                             identifier="oid:33710163"
+                             linktitle="80 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Thames River Plowshares</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -6929,6 +6990,35 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref417_c2" localtype="folder" parent="aspace_ref417_c1">4 - 6</container>
+                  <daoset altrender="/repositories/12/digital_objects/351257">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33710667"
+                          identifier="oid:33710667"
+                          linktitle="573 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33711059/full/!150,150/0/default.jpg"
+                          identifier="oid:33710667"
+                          linktitle="573 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33710667"
+                          identifier="oid:33710667"
+                          linktitle="573 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Protest information [flyers, mailings, clippings, and other materials]</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1296226"

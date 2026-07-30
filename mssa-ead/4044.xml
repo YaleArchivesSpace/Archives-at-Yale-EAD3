@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="11">11</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="113">113</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-10T03:00:44-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:04:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -656,6 +656,35 @@
                           href="https://collections.library.yale.edu/catalog/10013704"
                           identifier="oid:10013704"
                           linktitle="Letter from William Kent To the President Theodore Roosevelt, Washington, D.C.."
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>CORRESPONDENCE, 1906-1908 June</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/12/digital_objects/351226">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33709888"
+                          identifier="oid:33709888"
+                          linktitle="102 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33709988/full/!150,150/0/default.jpg"
+                          identifier="oid:33709888"
+                          linktitle="102 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33709888"
+                          identifier="oid:33709888"
+                          linktitle="102 images"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>

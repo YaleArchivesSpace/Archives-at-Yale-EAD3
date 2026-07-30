@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="434">434</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="13">13</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="496">496</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-29T03:00:27-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:07:27-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 29, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:07</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -30159,6 +30159,35 @@
                      <container id="aspace_ref3135_c2"
                                 localtype="folder"
                                 parent="aspace_ref3135_c1">1150</container>
+                     <daoset altrender="/repositories/12/digital_objects/351267">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33718642"
+                             identifier="oid:33718642"
+                             linktitle="62 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33718685/full/!150,150/0/default.jpg"
+                             identifier="oid:33718642"
+                             linktitle="62 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33718642"
+                             identifier="oid:33718642"
+                             linktitle="62 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Wright, Henry B.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1936399"
@@ -240281,7 +240310,7 @@
             <accessrestrict id="aspace_3473ce08e60bae733f26b9d280bc939a"
                             localtype="RestrictedCurApprSpecColl">
                <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2017</p>
+               <p>Portions of this series are open for research. Personnel files are restricted until January 1, 2057.</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/1946329"
                id="ref13075"
@@ -245148,7 +245177,7 @@
             <accessrestrict id="aspace_b3bf920a305e9a7baf1a88dc71b383d2"
                             localtype="RestrictedCurApprSpecColl">
                <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2018</p>
+               <p>Portions of this series are open for research. Personnel files are restricted until January 1, 2058.</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/1946583"
                id="ref13330"
@@ -249783,7 +249812,7 @@
             <accessrestrict id="aspace_e4e2f0ec42c983a68b0009b7f25dd5dc"
                             localtype="RestrictedCurApprSpecColl">
                <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2019</p>
+               <p>Portions of this series are open for research. Personnel files are restricted until January 1, 2059.</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/1946847"
                id="ref13595"
@@ -253458,7 +253487,7 @@
                id="ref13802"
                level="file">
                <did>
-                  <unittitle>Reprint &amp; Puo1ications Coordinator</unittitle>
+                  <unittitle>Reprint &amp; Publications Coordinator</unittitle>
                   <unitdatestructured altrender="1983" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1983">1983</datesingle>
                   </unitdatestructured>
@@ -253533,7 +253562,7 @@
                   id="ref13806"
                   level="file">
                   <did>
-                     <unittitle>Board of Govern9rs</unittitle>
+                     <unittitle>Board of Governers</unittitle>
                      <unitdatestructured altrender="1983" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1983">1983</datesingle>
                      </unitdatestructured>
@@ -254399,7 +254428,7 @@
             <accessrestrict id="aspace_bd436a505fc085a49b9b7a13764f2c25"
                             localtype="RestrictedCurApprSpecColl">
                <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2020</p>
+               <p>Portions of this series is open for research. Personnel files are restricted until January 1, 2060.</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/1947105"
                id="ref14121"
@@ -255120,22 +255149,22 @@
                              localtype="folder"
                              parent="aspace_ref14167_c1">46</container>
                </did>
-               <c altrender="/repositories/12/archival_objects/1947152"
-                  id="ref14168"
-                  level="file">
-                  <did>
-                     <unittitle>Collections</unittitle>
-                     <container altrender="/repositories/12/top_containers/186174 /locations/9"
-                                containerid="39002042745373"
-                                encodinganalog="archive letter"
-                                id="aspace_ref14168_c1"
-                                label="Mixed Materials"
-                                localtype="box">2</container>
-                     <container id="aspace_ref14168_c2"
-                                localtype="folder"
-                                parent="aspace_ref14168_c1">47</container>
-                  </did>
-               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/1947152"
+               id="ref14168"
+               level="file">
+               <did>
+                  <unittitle>Collections</unittitle>
+                  <container altrender="/repositories/12/top_containers/186174 /locations/9"
+                             containerid="39002042745373"
+                             encodinganalog="archive letter"
+                             id="aspace_ref14168_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref14168_c2"
+                             localtype="folder"
+                             parent="aspace_ref14168_c1">47</container>
+               </did>
                <c altrender="/repositories/12/archival_objects/1947153"
                   id="ref14169"
                   level="file">
@@ -257810,7 +257839,7 @@
             <accessrestrict id="aspace_d940a23dacb91e6abcd971d1fd949b4e"
                             localtype="RestrictedCurApprSpecColl">
                <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2020</p>
+               <p>Restricted until Jan 1, 2060.</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/1947328"
                id="ref14345"
@@ -257927,7 +257956,7 @@
             <accessrestrict id="aspace_166419765590cb5f75c3f6ff6a2bb932"
                             localtype="RestrictedCurApprSpecColl">
                <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2021</p>
+               <p>Portions of this series are open for research. Personnel files are restricted until January 1, 2061.</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/1947335"
                id="ref14353"

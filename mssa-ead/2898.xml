@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="108">108</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1805">1,805</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="109">109</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2027">2,027</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-06T03:04:25-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:03:05-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July  6, 2026 at 03:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -16881,6 +16881,35 @@
                              label="Mixed Materials"
                              localtype="box">58</container>
                   <container id="aspace_ref712_c2" localtype="folder" parent="aspace_ref712_c1">66</container>
+                  <daoset altrender="/repositories/12/digital_objects/351208">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33707537"
+                          identifier="oid:33707537"
+                          linktitle="222 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33707611/full/!150,150/0/default.jpg"
+                          identifier="oid:33707537"
+                          linktitle="222 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33707537"
+                          identifier="oid:33707537"
+                          linktitle="222 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Chien Mu (President New Asia College)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <altformavail id="aspace_347043a06aede002210dac0c624ba42d">
                   <head>Existence and Location of Copies</head>

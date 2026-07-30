@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="6">6</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="6">6</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="801">801</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T03:00:34-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:26:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:26</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2103,6 +2103,27 @@
                              id="aspace_ref74_c3"
                              label="Mixed Materials"
                              localtype="reel">6U</container>
+                  <daoset altrender="/repositories/12/digital_objects/351433">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33737871"
+                          linktitle="465 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33737871"
+                          identifier="oid:33737871"
+                          linktitle="465 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Lorwin, Rose Strunsky(*)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_2c9b1771e1709a4feb7e33bdbbf22169" localtype="UseSurrogate">
                   <head>Conditions Governing Access</head>
@@ -2350,6 +2371,27 @@
                              id="aspace_ref83_c3"
                              label="Mixed Materials"
                              localtype="reel">8U</container>
+                  <daoset altrender="/repositories/12/digital_objects/351403">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33737894"
+                          linktitle="184 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33737894"
+                          identifier="oid:33737894"
+                          linktitle="184 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Maryson, Katherine E., Jay and Edna(*)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_5df84245682e3acde2b43b8fcca3ce75" localtype="UseSurrogate">
                   <head>Conditions Governing Access</head>
@@ -3351,6 +3393,27 @@
                              id="aspace_ref118_c3"
                              label="Mixed Materials"
                              localtype="reel">10U</container>
+                  <daoset altrender="/repositories/12/digital_objects/351407">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33737922"
+                          linktitle="146 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33737922"
+                          identifier="oid:33737922"
+                          linktitle="146 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Strunsky, Mr. and Mrs. Elias(*)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_9bc8ff5a0ac51799e6e6fe210a1ccb7b" localtype="UseSurrogate">
                   <head>Conditions Governing Access</head>

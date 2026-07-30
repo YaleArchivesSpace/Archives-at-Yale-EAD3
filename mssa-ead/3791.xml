@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="596">596</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-09T03:09:54-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:15:54-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 03:09</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:15</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2695,6 +2698,27 @@
                                    label="Mixed Materials"
                                    localtype="box">17</container>
                         <container id="aspace_ref153_c2" localtype="folder" parent="aspace_ref153_c1">153-165</container>
+                        <daoset altrender="/repositories/12/digital_objects/351336">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33728631"
+                                linktitle="160 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33728631"
+                                identifier="oid:33728631"
+                                linktitle="160 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Family</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1225573"
@@ -2747,6 +2771,27 @@
                                          label="Mixed Materials"
                                          localtype="box">18</container>
                               <container id="aspace_ref157_c2" localtype="folder" parent="aspace_ref157_c1">167</container>
+                              <daoset altrender="/repositories/12/digital_objects/351341">
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                      identifier="oid:33728929"
+                                      linktitle="208 images"
+                                      linkrole="image-thumbnail"
+                                      show="embed"/>
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/catalog/33728929"
+                                      identifier="oid:33728929"
+                                      linktitle="208 images"
+                                      linkrole="text-html"
+                                      show="new"/>
+                                 <descriptivenote>
+                                    <p>General correspondence</p>
+                                 </descriptivenote>
+                              </daoset>
                            </did>
                         </c>
                         <c altrender="/repositories/12/archival_objects/1225577"
@@ -2767,6 +2812,27 @@
                                          label="Mixed Materials"
                                          localtype="box">18</container>
                               <container id="aspace_ref158_c2" localtype="folder" parent="aspace_ref158_c1">168</container>
+                              <daoset altrender="/repositories/12/digital_objects/351331">
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                      identifier="oid:33728978"
+                                      linktitle="33 images"
+                                      linkrole="image-thumbnail"
+                                      show="embed"/>
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/catalog/33728978"
+                                      identifier="oid:33728978"
+                                      linktitle="33 images"
+                                      linkrole="text-html"
+                                      show="new"/>
+                                 <descriptivenote>
+                                    <p>Memoranda</p>
+                                 </descriptivenote>
+                              </daoset>
                            </did>
                         </c>
                         <c altrender="/repositories/12/archival_objects/1225578"
@@ -2787,6 +2853,27 @@
                                          label="Mixed Materials"
                                          localtype="box">18</container>
                               <container id="aspace_ref159_c2" localtype="folder" parent="aspace_ref159_c1">169-170</container>
+                              <daoset altrender="/repositories/12/digital_objects/351348">
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                      identifier="oid:33729249"
+                                      linktitle="184 images"
+                                      linkrole="image-thumbnail"
+                                      show="embed"/>
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/catalog/33729249"
+                                      identifier="oid:33729249"
+                                      linktitle="184 images"
+                                      linkrole="text-html"
+                                      show="new"/>
+                                 <descriptivenote>
+                                    <p>Monthly reports</p>
+                                 </descriptivenote>
+                              </daoset>
                            </did>
                         </c>
                         <c altrender="/repositories/12/archival_objects/1225579"
@@ -2850,6 +2937,27 @@
                                 label="Mixed Materials"
                                 localtype="box">18</container>
                      <container id="aspace_ref162_c2" localtype="folder" parent="aspace_ref162_c1">173</container>
+                     <daoset altrender="/repositories/12/digital_objects/351328">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33729268"
+                             linktitle="11 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33729268"
+                             identifier="oid:33729268"
+                             linktitle="11 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Regulation for Enforcing the Employees' Aid Law</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1225582"

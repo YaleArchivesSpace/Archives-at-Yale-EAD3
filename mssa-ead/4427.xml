@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="178">178</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="412">412</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-10T03:04:23-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:05:17-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 10, 2026 at 03:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -544,6 +544,35 @@
                                 label="Mixed Materials"
                                 localtype="box">8</container>
                      <container id="aspace_ref25_c2" localtype="folder" parent="aspace_ref25_c1">111-113</container>
+                     <daoset altrender="/repositories/12/digital_objects/351246">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33713270"
+                             identifier="oid:33713270"
+                             linktitle="78 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33713406/full/!150,150/0/default.jpg"
+                             identifier="oid:33713270"
+                             linktitle="78 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33713270"
+                             identifier="oid:33713270"
+                             linktitle="78 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>General, 1890 - 1903</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1387420"
@@ -559,6 +588,35 @@
                                 label="Mixed Materials"
                                 localtype="box">8</container>
                      <container id="aspace_ref26_c2" localtype="folder" parent="aspace_ref26_c1">114-116</container>
+                     <daoset altrender="/repositories/12/digital_objects/351248">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33713518"
+                             identifier="oid:33713518"
+                             linktitle="156 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33713705/full/!150,150/0/default.jpg"
+                             identifier="oid:33713518"
+                             linktitle="156 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33713518"
+                             identifier="oid:33713518"
+                             linktitle="156 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>General, undated</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>

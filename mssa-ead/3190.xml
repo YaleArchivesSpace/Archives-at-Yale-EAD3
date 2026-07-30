@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="124">124</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-13T03:00:46-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T03:14:27-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 13, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:14</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -201,6 +204,35 @@
                           label="Mixed Materials"
                           localtype="box">1</container>
                <container id="aspace_ref13_c2" localtype="folder" parent="aspace_ref13_c1">2</container>
+               <daoset altrender="/repositories/12/digital_objects/351212">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/manifests/33708567"
+                       identifier="oid:33708567"
+                       linktitle="70 images"
+                       linkrole="text-json"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/iiif/2/33708603/full/!150,150/0/default.jpg"
+                       identifier="oid:33708567"
+                       linktitle="70 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33708567"
+                       identifier="oid:33708567"
+                       linktitle="70 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Lab notes from Berlin</p>
+                  </descriptivenote>
+               </daoset>
             </did>
          </c>
          <c altrender="/repositories/12/archival_objects/1198253"
@@ -226,6 +258,27 @@
                           label="Mixed Materials"
                           localtype="box">1</container>
                <container id="aspace_ref14_c2" localtype="folder" parent="aspace_ref14_c1">3</container>
+               <daoset altrender="/repositories/12/digital_objects/351305">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                       identifier="oid:33725014"
+                       linktitle="34 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33725014"
+                       identifier="oid:33725014"
+                       linktitle="34 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>"The Place of Physics in the Modern World" [address]</p>
+                  </descriptivenote>
+               </daoset>
             </did>
          </c>
          <c altrender="/repositories/12/archival_objects/1198254"
@@ -363,6 +416,27 @@
                           label="Mixed Materials"
                           localtype="box">1</container>
                <container id="aspace_ref23_c2" localtype="folder" parent="aspace_ref23_c1">11</container>
+               <daoset altrender="/repositories/12/digital_objects/351304">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                       identifier="oid:33725039"
+                       linktitle="20 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33725039"
+                       identifier="oid:33725039"
+                       linktitle="20 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Photographs</p>
+                  </descriptivenote>
+               </daoset>
             </did>
          </c>
          <c altrender="/repositories/12/archival_objects/1198263"
