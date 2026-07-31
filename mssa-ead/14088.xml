@@ -57,10 +57,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-30T03:09:35-04:00</eventdatetime>
+            <eventdatetime>2026-07-31T03:01:55-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:09</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -696,10 +696,12 @@
                         <quantity>40.8</quantity>
                         <unittype>Megabytes</unittype>
                      </physdescstructured>
-                     <unitdatestructured altrender="1968-1974" label="creation" unitdatetype="inclusive">
+                     <unitdatestructured altrender="10 March 1968-13 April 1974"
+                                         label="creation"
+                                         unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="1968">1968</fromdate>
-                           <todate standarddate="1974">1974</todate>
+                           <fromdate standarddate="1968-03-10">1968 March 10</fromdate>
+                           <todate standarddate="1974-04-13">1974 April 13</todate>
                         </daterange>
                      </unitdatestructured>
                   </did>
@@ -731,10 +733,12 @@
                            <quantity>3.1</quantity>
                            <unittype>Megabytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="1968-2004" label="creation" unitdatetype="inclusive">
+                        <unitdatestructured altrender="21 May 1968-20 March 2004"
+                                            label="creation"
+                                            unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1968">1968</fromdate>
-                              <todate standarddate="2004">2004</todate>
+                              <fromdate standarddate="1968-05-21">1968 May 21</fromdate>
+                              <todate standarddate="2004-03-20">2004 March 20</todate>
                            </daterange>
                         </unitdatestructured>
                      </did>
@@ -761,8 +765,10 @@
                            <quantity>1.16</quantity>
                            <unittype>kilobytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="1968" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1968">1968</datesingle>
+                        <unitdatestructured altrender="September 1968"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="1968-09">September 1968</datesingle>
                         </unitdatestructured>
                      </did>
                   </c>
@@ -788,10 +794,12 @@
                            <quantity>1.71</quantity>
                            <unittype>Megabytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="1968-1972" label="creation" unitdatetype="inclusive">
+                        <unitdatestructured altrender="15 September 1968-January 1972"
+                                            label="creation"
+                                            unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1968">1968</fromdate>
-                              <todate standarddate="1972">1972</todate>
+                              <fromdate standarddate="1968-09-15">1968 September 15</fromdate>
+                              <todate standarddate="1972-01">1972 January</todate>
                            </daterange>
                         </unitdatestructured>
                      </did>
@@ -822,12 +830,12 @@
                            <unittype>computer files</unittype>
                         </physdescstructured>
                         <physdesc localtype="container_summary">2 .png files</physdesc>
-                        <unitdatestructured altrender="October-November 1968"
+                        <unitdatestructured altrender="22 October-17 November 1968"
                                             label="creation"
                                             unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1968-10">1968 October</fromdate>
-                              <todate standarddate="1968-11">1968 November</todate>
+                              <fromdate standarddate="1968-10-22">1968 October 22</fromdate>
+                              <todate standarddate="1968-11-17">1968 November 17</todate>
                            </daterange>
                         </unitdatestructured>
                      </did>
@@ -2678,8 +2686,13 @@
                                  <quantity>6.54</quantity>
                                  <unittype>Megabytes</unittype>
                               </physdescstructured>
-                              <unitdatestructured altrender="June 1973" label="creation" unitdatetype="inclusive">
-                                 <datesingle standarddate="1973-06">June 1973</datesingle>
+                              <unitdatestructured altrender="June 1973-1974"
+                                                  label="creation"
+                                                  unitdatetype="inclusive">
+                                 <daterange>
+                                    <fromdate standarddate="1973-06">1973 June</fromdate>
+                                    <todate standarddate="1974">1974</todate>
+                                 </daterange>
                               </unitdatestructured>
                            </did>
                         </c>
@@ -2958,8 +2971,13 @@
                                  <quantity>2.43</quantity>
                                  <unittype>Megabytes</unittype>
                               </physdescstructured>
-                              <unitdatestructured altrender="June 1973" label="creation" unitdatetype="inclusive">
-                                 <datesingle standarddate="1973-06">June 1973</datesingle>
+                              <unitdatestructured altrender="26-27 June 1973"
+                                                  label="creation"
+                                                  unitdatetype="inclusive">
+                                 <daterange>
+                                    <fromdate standarddate="1973-06-26">1973 June 26</fromdate>
+                                    <todate standarddate="1973-06-27">1973 June 27</todate>
+                                 </daterange>
                               </unitdatestructured>
                            </did>
                         </c>
@@ -2985,7 +3003,9 @@
                                  <quantity>3.66</quantity>
                                  <unittype>Megabytes</unittype>
                               </physdescstructured>
-                              <unitdatestructured altrender="1973-1974" label="creation" unitdatetype="inclusive">
+                              <unitdatestructured altrender="24 February 1973-27 June 1974"
+                                                  label="creation"
+                                                  unitdatetype="inclusive">
                                  <daterange>
                                     <fromdate standarddate="1973">1973</fromdate>
                                     <todate standarddate="1974">1974</todate>
@@ -3026,8 +3046,13 @@
                            <quantity>4.74</quantity>
                            <unittype>Megabytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="March 1973" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1973-03">March 1973</datesingle>
+                        <unitdatestructured altrender="4-8 March 1973"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1973-03-04">1973 March 4</fromdate>
+                              <todate standarddate="1973-04-08">1973 April 8</todate>
+                           </daterange>
                         </unitdatestructured>
                      </did>
                   </c>
@@ -3098,12 +3123,12 @@
                            <quantity>3.94</quantity>
                            <unittype>Megabytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="April-May 1973"
+                        <unitdatestructured altrender="29 April-21 May 1973"
                                             label="creation"
                                             unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1973-04">1973 April</fromdate>
-                              <todate standarddate="1973-05">1973 May</todate>
+                              <fromdate standarddate="1973-04-29">1973 April 29</fromdate>
+                              <todate standarddate="1973-05-21">1973 May 21</todate>
                            </daterange>
                         </unitdatestructured>
                      </did>
@@ -3187,8 +3212,123 @@
                            <quantity>3.21</quantity>
                            <unittype>Megabytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="October 1973" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1973-10">October 1973</datesingle>
+                        <unitdatestructured altrender="20-30 October 1973"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1973-10-20">1973 October 20</fromdate>
+                              <todate standarddate="1973-10-30">1973 October 30</todate>
+                           </daterange>
+                        </unitdatestructured>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4048945"
+                     id="aspace_e124ab073278516139c3dad9293343e2"
+                     level="file">
+                     <did>
+                        <unittitle>Vienna premiere of "Mass" on Channel 13</unittitle>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>computer files</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">.txt files</physdesc>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>1.03</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>23</quantity>
+                           <unittype>Computer Files (.jpg)</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                           <quantity>4.01</quantity>
+                           <unittype>Megabytes</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1973-February 1974"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1973">1973</fromdate>
+                              <todate standarddate="1974-02">1974 February</todate>
+                           </daterange>
+                        </unitdatestructured>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4048954"
+                     id="aspace_463c01b4781f5bc8dcd2be2c1995f5be"
+                     level="file">
+                     <did>
+                        <unittitle>All Ives</unittitle>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>computer files</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">.txt files</physdesc>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>2.09</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>50</quantity>
+                           <unittype>Computer Files (.jpg)</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                           <quantity>8.51</quantity>
+                           <unittype>Megabytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>computer files</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">.png files</physdesc>
+                        <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                           <quantity>3.55</quantity>
+                           <unittype>Megabytes</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="8 November 1973-May 1974"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1973-11-08">1973 November 8</fromdate>
+                              <todate standarddate="1974-05">1974 May</todate>
+                           </daterange>
+                        </unitdatestructured>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4048955"
+                     id="aspace_f7cd1c0fd76b4e692660ae725f5d9c8e"
+                     level="file">
+                     <did>
+                        <unittitle>"Der Rosenkavalier"</unittitle>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>computer files</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">.txt files</physdesc>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>1.71</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>34</quantity>
+                           <unittype>Computer Files (.jpg)</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                           <quantity>5.19</quantity>
+                           <unittype>Megabytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>computer files</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">.png files</physdesc>
+                        <unitdatestructured altrender="5 June 1973-1 April 1974"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1973-06-05">1973 June 5</fromdate>
+                              <todate standarddate="1974-04-01">1974 April 1</todate>
+                           </daterange>
                         </unitdatestructured>
                      </did>
                   </c>
@@ -3222,8 +3362,13 @@
                            <quantity>3.13</quantity>
                            <unittype>Megabytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="April 1974" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1974-04">April 1974</datesingle>
+                        <unitdatestructured altrender="13-15 April 1974"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1974-04-13">1974 April 13</fromdate>
+                              <todate standarddate="1974-04-15">1974 April 15</todate>
+                           </daterange>
                         </unitdatestructured>
                      </did>
                   </c>
@@ -3249,10 +3394,12 @@
                            <quantity>4.88</quantity>
                            <unittype>Megabytes</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="1973-1974" label="creation" unitdatetype="inclusive">
+                        <unitdatestructured altrender="3 October 1973-12 April 1974"
+                                            label="creation"
+                                            unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1973">1973</fromdate>
-                              <todate standarddate="1974">1974</todate>
+                              <fromdate standarddate="1973-10-03">1973 October 3</fromdate>
+                              <todate standarddate="1974-04-12">1974 April 12</todate>
                            </daterange>
                         </unitdatestructured>
                      </did>

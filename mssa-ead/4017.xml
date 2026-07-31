@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-30T03:04:12-04:00</eventdatetime>
+            <eventdatetime>2026-07-31T03:00:29-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4090,37 +4090,28 @@
                      id="ref200"
                      level="file">
                      <did>
-                        <unittitle>Original cassettes <emph render="smcaps">[4 tapes; restricted]</emph>
-                        </unittitle>
+                        <unittitle>Paul Guth </unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <unitdatestructured altrender="2001 February 24"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="2001-02-24">2001 February 24</datesingle>
+                        </unitdatestructured>
                         <container altrender="/repositories/12/top_containers/144422 /locations/9"
                                    containerid="39002063470539"
                                    encodinganalog="audiocassette case"
                                    id="aspace_ref200_c1"
                                    label="Mixed Materials"
                                    localtype="box">46</container>
-                        <container altrender="/repositories/12/top_containers/144423 /locations/9"
-                                   containerid="39002063470547"
-                                   encodinganalog="audiocassette case"
-                                   id="aspace_ref200_c2"
-                                   label="Mixed Materials"
-                                   localtype="box">47</container>
-                        <container altrender="/repositories/12/top_containers/144424 /locations/9"
-                                   containerid="39002063470554"
-                                   encodinganalog="audiocassette case"
-                                   id="aspace_ref200_c3"
-                                   label="Mixed Materials"
-                                   localtype="box">48</container>
-                        <container altrender="/repositories/12/top_containers/144425 /locations/9"
-                                   containerid="39002063470562"
-                                   encodinganalog="audiocassette case"
-                                   id="aspace_ref200_c4"
-                                   label="Mixed Materials"
-                                   localtype="box">49</container>
                      </did>
+                     <accessrestrict id="aspace_08b61857534a0fdb1d1081925223b458"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1265775"
                      id="ref201"
