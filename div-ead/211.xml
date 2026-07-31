@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-5</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="117">117</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-30T18:00:49-04:00</eventdatetime>
+            <eventdatetime>2026-07-31T18:00:59-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1649,6 +1652,27 @@
                              label="Mixed Materials"
                              localtype="box">3</container>
                   <container id="aspace_ref91_c2" localtype="folder" parent="aspace_ref91_c1">66</container>
+                  <daoset altrender="/repositories/4/digital_objects/351494">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33747362"
+                          linktitle="41 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33747362"
+                          identifier="oid:33747362"
+                          linktitle="41 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Poems by DR</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/69052"
@@ -1674,30 +1698,39 @@
                id="ref93"
                level="file">
                <did>
-                  <unittitle>Essay on "Democracy"</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                  <unittitle>Essay on "Democracy"; DR notes for 4 session presentation on "Principles of Christian Leadership" for C.E. Conference, Kokokahi</unittitle>
+                  <unitdatestructured altrender="1938 April, n.d."
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1938-04">1938 April, n.d.</datesingle>
+                  </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/7528 /locations/9"
                              containerid="39002106730527"
                              id="aspace_ref93_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
                   <container id="aspace_ref93_c2" localtype="folder" parent="aspace_ref93_c1">68</container>
-               </did>
-            </c>
-            <c altrender="/repositories/4/archival_objects/69054"
-               id="ref94"
-               level="file">
-               <did>
-                  <unittitle>DR notes for 4 session presentation on "Principles of Christian Leadership" for C.E. Conference, Kokokahi</unittitle>
-                  <unitdatestructured altrender="1938 Apr" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1938-04">1938 Apr</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/7528 /locations/9"
-                             containerid="39002106730527"
-                             id="aspace_ref94_c1"
-                             label="Mixed Materials"
-                             localtype="box">3</container>
-                  <container id="aspace_ref94_c2" localtype="folder" parent="aspace_ref94_c1">68</container>
+                  <daoset altrender="/repositories/4/digital_objects/351505">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33747366"
+                          linktitle="53 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33747366"
+                          identifier="oid:33747366"
+                          linktitle="53 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Essay on "Democracy"; DR notes for 4 session presentation on "Principles of Christian Leadership" for C.E. Conference, Kokokahi</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/69055"
@@ -1734,9 +1767,14 @@
                id="ref97"
                level="file">
                <did>
-                  <unittitle>Excerpt from minutes of Yale-in-China Association Meeting of the Trustees of June 17, 1945 re. terms for reappointment of DR</unittitle>
-                  <unitdatestructured altrender="1948 Dec 27" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1948-12-27">1948 Dec 27</datesingle>
+                  <unittitle>Excerpt from minutes of Yale-in-China Association Meeting of the Trustees of June 17, 1945 re. terms for reappointment of DR; Newspapers clippings re. BJR scholarship to Oberlin College; Program of memorial service for Dwight Rugh with biographical sketch; Commentary by Betty Jean Rugh Elder on Yale-China History chapter, with biographical information about parents</unittitle>
+                  <unitdatestructured altrender="1948-1952, 1981, 2000"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1948">1948</fromdate>
+                        <todate standarddate="2000">2000</todate>
+                     </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/7528 /locations/9"
                              containerid="39002106730527"
@@ -1744,54 +1782,27 @@
                              label="Mixed Materials"
                              localtype="box">3</container>
                   <container id="aspace_ref97_c2" localtype="folder" parent="aspace_ref97_c1">70</container>
-               </did>
-            </c>
-            <c altrender="/repositories/4/archival_objects/69058"
-               id="ref98"
-               level="file">
-               <did>
-                  <unittitle>Newspapers clippings re. BJR scholarship to Oberlin College</unittitle>
-                  <unitdatestructured altrender="1952" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1952">1952</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/7528 /locations/9"
-                             containerid="39002106730527"
-                             id="aspace_ref98_c1"
-                             label="Mixed Materials"
-                             localtype="box">3</container>
-                  <container id="aspace_ref98_c2" localtype="folder" parent="aspace_ref98_c1">70</container>
-               </did>
-            </c>
-            <c altrender="/repositories/4/archival_objects/69059"
-               id="ref99"
-               level="file">
-               <did>
-                  <unittitle>Program of memorial service for Dwight Rugh with biographical sketch</unittitle>
-                  <unitdatestructured altrender="1981 Mar 29" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1981-03-29">1981 Mar 29</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/7528 /locations/9"
-                             containerid="39002106730527"
-                             id="aspace_ref99_c1"
-                             label="Mixed Materials"
-                             localtype="box">3</container>
-                  <container id="aspace_ref99_c2" localtype="folder" parent="aspace_ref99_c1">70</container>
-               </did>
-            </c>
-            <c altrender="/repositories/4/archival_objects/69060"
-               id="ref100"
-               level="file">
-               <did>
-                  <unittitle>Commentary by Betty Jean Rugh Elder on Yale-China History chapter, with biographical information about parents</unittitle>
-                  <unitdatestructured altrender="2000" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="2000">2000</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/7528 /locations/9"
-                             containerid="39002106730527"
-                             id="aspace_ref100_c1"
-                             label="Mixed Materials"
-                             localtype="box">3</container>
-                  <container id="aspace_ref100_c2" localtype="folder" parent="aspace_ref100_c1">70</container>
+                  <daoset altrender="/repositories/4/digital_objects/351497">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33747376"
+                          linktitle="23 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33747376"
+                          identifier="oid:33747376"
+                          linktitle="23 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Excerpt from minutes of Yale-in-China Association Meeting of the Trustees of June 17, 1945 re. terms for reappointment of DR; Newspapers clippings re. BJR scholarship to Oberlin College; Program of memorial service for Dwight Rugh with biographical sketch; Commentary by Betty Jean Rugh Elder on Yale-China History chapter, with biographical information about parents</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/69061"

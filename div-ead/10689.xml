@@ -35,10 +35,10 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="onsite">
-               <p>Boxes: 1-21</p>
+               <p>Boxes: 1-Box 21</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="292">292</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="5460">5,460</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="311">311</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="5760">5,760</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-28T18:00:08-04:00</eventdatetime>
+            <eventdatetime>2026-07-31T18:01:01-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3218,14 +3218,61 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      </daoset>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4051843"
+                  id="aspace_4c42c203b7541ef36e225a70676d0f96"
+                  level="file">
+                  <did>
+                     <unittitle>Isaiah 28:29</unittitle>
+                     <unitdatestructured altrender="1770 April 2" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1770-04-02">1770 April 2</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/304065 /locations/2"
+                                containerid="39002099038730"
+                                id="aspace_4c42c203b7541ef36e225a70676d0f96_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_4c42c203b7541ef36e225a70676d0f96_c2"
+                                localtype="folder"
+                                parent="aspace_4c42c203b7541ef36e225a70676d0f96_c1">14</container>
+                     <daoset altrender="/repositories/4/digital_objects/351490">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747360"
+                             identifier="oid:33747360"
+                             linktitle="1 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747361/full/!150,150/0/default.jpg"
+                             identifier="oid:33747360"
+                             linktitle="1 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747360"
+                             identifier="oid:33747360"
+                             linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Isaiah 28:29</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/2629256"
                   id="aspace_f662f41ab690c193e07d54d06f039dac"
                   level="file">
                   <did>
                      <unittitle>Numbers 11:20</unittitle>
-                     <unitdatestructured altrender="1770 April 2" label="creation" unitdatetype="inclusive">
+                     <unitdatestructured altrender="1770 April 5" label="creation" unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="1770-04-02">1770 April 2</fromdate>
+                           <fromdate standarddate="1770-04-05">1770 April 5</fromdate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/304065 /locations/2"
@@ -6934,6 +6981,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_813f7145151485bdbbf700da08fda2e9_c2"
                                 localtype="folder"
                                 parent="aspace_813f7145151485bdbbf700da08fda2e9_c1">11</container>
+                     <daoset altrender="/repositories/4/digital_objects/351499">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747391"
+                             identifier="oid:33747391"
+                             linktitle="33 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747436/full/!150,150/0/default.jpg"
+                             identifier="oid:33747391"
+                             linktitle="33 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747391"
+                             identifier="oid:33747391"
+                             linktitle="33 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Church records: Massachusetts / Rehoboth / Second Baptist Church</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629327"
@@ -6950,6 +7026,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_599971a5cb978c2f12b795aa278a9348_c2"
                                 localtype="folder"
                                 parent="aspace_599971a5cb978c2f12b795aa278a9348_c1">12</container>
+                     <daoset altrender="/repositories/4/digital_objects/351493">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747397"
+                             identifier="oid:33747397"
+                             linktitle="6 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747412/full/!150,150/0/default.jpg"
+                             identifier="oid:33747397"
+                             linktitle="6 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747397"
+                             identifier="oid:33747397"
+                             linktitle="6 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Church records: Massachusetts / South Brimfield / Baptist Church</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629328"
@@ -6966,6 +7071,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_f87d529c0160e773d6384dc794e11656_c2"
                                 localtype="folder"
                                 parent="aspace_f87d529c0160e773d6384dc794e11656_c1">13</container>
+                     <daoset altrender="/repositories/4/digital_objects/351491">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747400"
+                             identifier="oid:33747400"
+                             linktitle="3 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747408/full/!150,150/0/default.jpg"
+                             identifier="oid:33747400"
+                             linktitle="3 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747400"
+                             identifier="oid:33747400"
+                             linktitle="3 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Church records: Massachusetts / Swansea / Baptist Church</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629329"
@@ -7002,6 +7136,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_57dc3f95354308dc080bcb1aa8a8ea84_c2"
                                 localtype="folder"
                                 parent="aspace_57dc3f95354308dc080bcb1aa8a8ea84_c1">14</container>
+                     <daoset altrender="/repositories/4/digital_objects/351492">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747404"
+                             identifier="oid:33747404"
+                             linktitle="2 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747409/full/!150,150/0/default.jpg"
+                             identifier="oid:33747404"
+                             linktitle="2 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747404"
+                             identifier="oid:33747404"
+                             linktitle="2 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Church records: Rhode Island /Newport / First Baptist Church</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629331"
@@ -7038,6 +7201,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_590f969351e86bfbdbd62e042d2435a7_c2"
                                 localtype="folder"
                                 parent="aspace_590f969351e86bfbdbd62e042d2435a7_c1">15</container>
+                     <daoset altrender="/repositories/4/digital_objects/351508">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747470"
+                             identifier="oid:33747470"
+                             linktitle="53 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747519/full/!150,150/0/default.jpg"
+                             identifier="oid:33747470"
+                             linktitle="53 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747470"
+                             identifier="oid:33747470"
+                             linktitle="53 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Authors and various subjects: booklet</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_7e3a5a7ab7483425920e2a6c28997187">
                      <head>Scope and Contents</head>
@@ -7058,6 +7250,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_0bd133fb823fec40c49be234640f9514_c2"
                                 localtype="folder"
                                 parent="aspace_0bd133fb823fec40c49be234640f9514_c1">16</container>
+                     <daoset altrender="/repositories/4/digital_objects/351503">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747492"
+                             identifier="oid:33747492"
+                             linktitle="25 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747517/full/!150,150/0/default.jpg"
+                             identifier="oid:33747492"
+                             linktitle="25 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747492"
+                             identifier="oid:33747492"
+                             linktitle="25 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Authors and various subjects: booklet</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_e980220c54e26f3597d3a93ac1bae0bc">
                      <head>Scope and Contents</head>
@@ -7078,6 +7299,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_44376642aeb4b20a76d69b44cd77ecf5_c2"
                                 localtype="folder"
                                 parent="aspace_44376642aeb4b20a76d69b44cd77ecf5_c1">17</container>
+                     <daoset altrender="/repositories/4/digital_objects/351500">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747500"
+                             identifier="oid:33747500"
+                             linktitle="8 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747509/full/!150,150/0/default.jpg"
+                             identifier="oid:33747500"
+                             linktitle="8 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747500"
+                             identifier="oid:33747500"
+                             linktitle="8 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: Morgan Edwards, Materials for a history of Baptists in Rhode Island</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629335"
@@ -7094,6 +7344,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_1a3cb21a86710aac0b50b34599e56e17_c2"
                                 localtype="folder"
                                 parent="aspace_1a3cb21a86710aac0b50b34599e56e17_c1">18</container>
+                     <daoset altrender="/repositories/4/digital_objects/351502">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747513"
+                             identifier="oid:33747513"
+                             linktitle="18 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747537/full/!150,150/0/default.jpg"
+                             identifier="oid:33747513"
+                             linktitle="18 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747513"
+                             identifier="oid:33747513"
+                             linktitle="18 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: Governor Winthrop's Journal</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629336"
@@ -7110,6 +7389,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_82cc94c63ebd76aeea65cd39805f5942_c2"
                                 localtype="folder"
                                 parent="aspace_82cc94c63ebd76aeea65cd39805f5942_c1">19</container>
+                     <daoset altrender="/repositories/4/digital_objects/351498">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747515"
+                             identifier="oid:33747515"
+                             linktitle="2 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747523/full/!150,150/0/default.jpg"
+                             identifier="oid:33747515"
+                             linktitle="2 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747515"
+                             identifier="oid:33747515"
+                             linktitle="2 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: America Dissected</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629337"
@@ -7126,6 +7434,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_9a1edfc40945bbfc52e877e187824d42_c2"
                                 localtype="folder"
                                 parent="aspace_9a1edfc40945bbfc52e877e187824d42_c1">19</container>
+                     <daoset altrender="/repositories/4/digital_objects/351496">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747520"
+                             identifier="oid:33747520"
+                             linktitle="3 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747527/full/!150,150/0/default.jpg"
+                             identifier="oid:33747520"
+                             linktitle="3 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747520"
+                             identifier="oid:33747520"
+                             linktitle="3 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: Paul Bunyan, Prison Meditations</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629338"
@@ -7142,6 +7479,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_87fb6947a8b9206767ebc163b50d94ac_c2"
                                 localtype="folder"
                                 parent="aspace_87fb6947a8b9206767ebc163b50d94ac_c1">19</container>
+                     <daoset altrender="/repositories/4/digital_objects/351495">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747524"
+                             identifier="oid:33747524"
+                             linktitle="2 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747528/full/!150,150/0/default.jpg"
+                             identifier="oid:33747524"
+                             linktitle="2 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747524"
+                             identifier="oid:33747524"
+                             linktitle="2 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: Roger Williams, The fox digged out of his burrows</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629339"
@@ -7158,6 +7524,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_a707420c1082264d74016bd9a955b07e_c2"
                                 localtype="folder"
                                 parent="aspace_a707420c1082264d74016bd9a955b07e_c1">19</container>
+                     <daoset altrender="/repositories/4/digital_objects/351501">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747534"
+                             identifier="oid:33747534"
+                             linktitle="9 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747549/full/!150,150/0/default.jpg"
+                             identifier="oid:33747534"
+                             linktitle="9 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747534"
+                             identifier="oid:33747534"
+                             linktitle="9 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: Spectator, vol.2, #126</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629340"
@@ -7174,6 +7569,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_6227acbcb2ec9800ec8febdd5654f219_c2"
                                 localtype="folder"
                                 parent="aspace_6227acbcb2ec9800ec8febdd5654f219_c1">20</container>
+                     <daoset altrender="/repositories/4/digital_objects/351510">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747580"
+                             identifier="oid:33747580"
+                             linktitle="40 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747629/full/!150,150/0/default.jpg"
+                             identifier="oid:33747580"
+                             linktitle="40 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747580"
+                             identifier="oid:33747580"
+                             linktitle="40 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: Letters of Roger Williams and Samuel Hubbard</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2629341"
@@ -7190,6 +7614,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_5d1361c8fee1636101fb3b7cb3c405d8_c2"
                                 localtype="folder"
                                 parent="aspace_5d1361c8fee1636101fb3b7cb3c405d8_c1">21</container>
+                     <daoset altrender="/repositories/4/digital_objects/351511">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747633"
+                             identifier="oid:33747633"
+                             linktitle="52 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747686/full/!150,150/0/default.jpg"
+                             identifier="oid:33747633"
+                             linktitle="52 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747633"
+                             identifier="oid:33747633"
+                             linktitle="52 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Individual manuscripts: Diary of John Comer</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -7215,6 +7668,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                      <container id="aspace_8bce7b1d64b0639de65b901963076ecd_c2"
                                 localtype="folder"
                                 parent="aspace_8bce7b1d64b0639de65b901963076ecd_c1">22</container>
+                     <daoset altrender="/repositories/4/digital_objects/351506">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33747638"
+                             identifier="oid:33747638"
+                             linktitle="7 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33747645/full/!150,150/0/default.jpg"
+                             identifier="oid:33747638"
+                             linktitle="7 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33747638"
+                             identifier="oid:33747638"
+                             linktitle="7 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Backus Memorial" by H. E. McElvaine</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -7240,6 +7722,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                   <container id="aspace_9e06532023eab098e4569af4154059f1_c2"
                              localtype="folder"
                              parent="aspace_9e06532023eab098e4569af4154059f1_c1">23</container>
+                  <daoset altrender="/repositories/4/digital_objects/351504">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33747643"
+                          identifier="oid:33747643"
+                          linktitle="7 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33747654/full/!150,150/0/default.jpg"
+                          identifier="oid:33747643"
+                          linktitle="7 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33747643"
+                          identifier="oid:33747643"
+                          linktitle="7 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Fragments and undated papers</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_fdd29674f7723f0719936f8103b3ec45">
                   <head>Scope and Contents</head>
@@ -7260,6 +7771,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                   <container id="aspace_d6e38bdde6a03a7a4bee1efc2f9b8468_c2"
                              localtype="folder"
                              parent="aspace_d6e38bdde6a03a7a4bee1efc2f9b8468_c1">24</container>
+                  <daoset altrender="/repositories/4/digital_objects/351507">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33747649"
+                          identifier="oid:33747649"
+                          linktitle="5 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33747660/full/!150,150/0/default.jpg"
+                          identifier="oid:33747649"
+                          linktitle="5 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33747649"
+                          identifier="oid:33747649"
+                          linktitle="5 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Fragments and undated papers</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_199e30b3d311513b011aefdd6f1312d2">
                   <head>Scope and Contents</head>
@@ -7280,6 +7820,35 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                   <container id="aspace_5df5ba1ca078337581dbd723a73e4d31_c2"
                              localtype="folder"
                              parent="aspace_5df5ba1ca078337581dbd723a73e4d31_c1">25</container>
+                  <daoset altrender="/repositories/4/digital_objects/351509">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33747678"
+                          identifier="oid:33747678"
+                          linktitle="24 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33747701/full/!150,150/0/default.jpg"
+                          identifier="oid:33747678"
+                          linktitle="24 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33747678"
+                          identifier="oid:33747678"
+                          linktitle="24 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Fragments and undated papers</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_d0326167cfe219d4c4c21102720452ef">
                   <head>Scope and Contents</head>
@@ -21522,7 +22091,7 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                              containerid="39002131203367"
                              id="aspace_6899069fe250d9b75c2ffbc2089bc911_c1"
                              label="Mixed Materials"
-                             localtype="box">20</container>
+                             localtype="box">Box 20</container>
                   <dao actuate="onrequest"
                        altrender="/repositories/4/digital_objects/230263"
                        daotype="unknown"
@@ -21590,7 +22159,7 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                              containerid="39002112323903"
                              id="aspace_b72f1b09e4b124bd1ca0a625fead3f07_c1"
                              label="Mixed Materials"
-                             localtype="box">21</container>
+                             localtype="box">Box 21</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/3502649"
@@ -21602,7 +22171,7 @@ religious taxation as part of efforts to achieve religious freedom. Throughout h
                              containerid="39002112323903"
                              id="aspace_2b3cea79e2b5c1bdd8080aa22b3e7eca_c1"
                              label="Mixed Materials"
-                             localtype="box">21</container>
+                             localtype="box">Box 21</container>
                </did>
             </c>
          </c>
