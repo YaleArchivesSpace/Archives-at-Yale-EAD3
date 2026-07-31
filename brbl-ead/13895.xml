@@ -39,6 +39,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-27</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: 28</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -70,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-03-25T23:03:03-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T23:01:30-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday March 25, 2026 at 23:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -100,10 +103,10 @@
             </descriptivenote>
          </langmaterial>
          <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
-            <quantity>16.02</quantity>
+            <quantity>16.44</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">27 boxes</physdesc>
+         <physdesc localtype="container_summary">28 boxes</physdesc>
          <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
             <quantity>1.26</quantity>
             <unittype>Gigabytes</unittype>
@@ -3590,6 +3593,31 @@
                              parent="aspace_044b0eb8cc5970f867dc326a02e83234_c1">3</container>
                </did>
             </c>
+            <c altrender="/repositories/11/archival_objects/4009290"
+               id="aspace_1feb58ffbedce2c45f990cc13252d3a9"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Khrushchev Remembers</part>
+                     </title> in <title>
+                        <part>Life</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1970">1970</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/466155 /locations/9"
+                             containerid="39002098947535"
+                             encodinganalog="flat box (11d 1h 14w)"
+                             id="aspace_1feb58ffbedce2c45f990cc13252d3a9_c1"
+                             label="Mixed Materials"
+                             localtype="box">27</container>
+                  <container id="aspace_1feb58ffbedce2c45f990cc13252d3a9_c2"
+                             localtype="folder"
+                             parent="aspace_1feb58ffbedce2c45f990cc13252d3a9_c1">1</container>
+               </did>
+            </c>
             <c altrender="/repositories/11/archival_objects/4009291"
                id="aspace_95b9953619e3f93918b0ea3aeff1edaf"
                level="file">
@@ -3724,31 +3752,6 @@
                   <container id="aspace_1ff0934acc59d5780aa96acee8c9a95f_c2"
                              localtype="folder"
                              parent="aspace_1ff0934acc59d5780aa96acee8c9a95f_c1">6</container>
-               </did>
-            </c>
-            <c altrender="/repositories/11/archival_objects/4009290"
-               id="aspace_1feb58ffbedce2c45f990cc13252d3a9"
-               level="file">
-               <did>
-                  <unittitle>
-                     <title>
-                        <part>Khrushchev Remembers</part>
-                     </title> in <title>
-                        <part>Life</part>
-                     </title>
-                  </unittitle>
-                  <unitdatestructured label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1970">1970</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/466155 /locations/9"
-                             containerid="39002098947535"
-                             encodinganalog="flat box (11d 1h 14w)"
-                             id="aspace_1feb58ffbedce2c45f990cc13252d3a9_c1"
-                             label="Mixed Materials"
-                             localtype="box">27</container>
-                  <container id="aspace_1feb58ffbedce2c45f990cc13252d3a9_c2"
-                             localtype="folder"
-                             parent="aspace_1feb58ffbedce2c45f990cc13252d3a9_c1">1</container>
                </did>
             </c>
          </c>

@@ -40,6 +40,9 @@
             <controlnote localtype="onsite">
                <p>Box: 79 (Broadside)</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-29T23:00:23-04:00</eventdatetime>
+            <eventdatetime>2026-07-30T23:01:19-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 29, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -22480,6 +22483,25 @@
                   <container id="aspace_895ca2ad91347a7774b4d574e0d31387_c2"
                              localtype="item_barcode"
                              parent="aspace_895ca2ad91347a7774b4d574e0d31387_c1">39002140886624</container>
+                  <daoset altrender="/repositories/11/digital_objects/351463">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://beineckelibrary.aviaryplatform.com/r/nk3610z419"
+                          identifier="aviary_176438"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/315/972/original/open-uri20260730-224867-hfiytj?1785422249"
+                          identifier="aviary_176438"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] ycalmss162239002140886624a.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_351b666674efb7b7a35c4675710adb66"
                                localtype="RestrictedFragileSpecColl">
