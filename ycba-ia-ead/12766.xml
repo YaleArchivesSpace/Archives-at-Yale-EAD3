@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-04T18:00:57-04:00</eventdatetime>
+            <eventdatetime>2026-07-31T18:00:34-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday May  4, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -89,11 +89,11 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>.25</quantity>
+            <quantity>0.25</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
          <physdesc localtype="container_summary">1 box</physdesc>
-         <unitdatestructured altrender="1950-1957" label="creation" unitdatetype="inclusive">
+         <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1950">1950</fromdate>
                <todate standarddate="1957">1957</todate>
