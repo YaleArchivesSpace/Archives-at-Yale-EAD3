@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-25T03:06:30-04:00</eventdatetime>
+            <eventdatetime>2026-08-01T03:06:42-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday June 25, 2026 at 03:06</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August  1, 2026 at 03:06</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -8135,6 +8135,40 @@
                   <head>TypeCollection</head>
                   <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;a4d1c877-b186-4522-a87c-d0c00be314b9</p>
                </otherfindaid>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4041749"
+            id="aspace_81c233b03ccb31d4c4ee48eed71bb8cd"
+            level="series">
+            <did>
+               <unittitle>Additional material</unittitle>
+               <unitid>Accession 2023-M-0026</unitid>
+               <unitdatestructured altrender="2022" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="2022">2022</datesingle>
+               </unitdatestructured>
+            </did>
+            <c altrender="/repositories/12/archival_objects/4041754"
+               id="aspace_dabad4226bec5be8348b14972ba677c4"
+               level="file">
+               <did>
+                  <unittitle>Introduction to the Jonathan Barnett papers Yale University Library</unittitle>
+                  <unitdatestructured altrender="2022" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2022">2022</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/483317 /locations/9"
+                             containerid="39002104917365"
+                             encodinganalog="archive half letter"
+                             id="aspace_dabad4226bec5be8348b14972ba677c4_c1"
+                             label="Mixed Materials"
+                             localtype="box">31</container>
+                  <container id="aspace_dabad4226bec5be8348b14972ba677c4_c2"
+                             localtype="folder"
+                             parent="aspace_dabad4226bec5be8348b14972ba677c4_c1">1</container>
+               </did>
+               <scopecontent id="aspace_167b0b9fcb1c8d49d3521a7a4d58ee8f">
+                  <head>Scope and Contents</head>
+                  <p>The file contains a typescript with biographical information and a description of the papers written by Jonathan Barnett.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>
