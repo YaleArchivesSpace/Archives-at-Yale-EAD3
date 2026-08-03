@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-01-08T18:04:44-05:00</eventdatetime>
+            <eventdatetime>2026-08-03T18:00:57-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday January  8, 2025 at 18:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August  3, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -225,39 +225,831 @@
                id="ref12"
                level="file">
                <did>
-                  <unittitle>Letters from Austin Long to family in U.S.; first folder includes index to 1918 letters and eight page narrative by Austin Long re: trip to China and arrival in Beijing (Peking)</unittitle>
-                  <unitdatestructured altrender="1918-1923" label="creation" unitdatetype="inclusive">
+                  <unittitle>Letters from Austin O. Long to family in United States</unittitle>
+                  <unitdatestructured altrender="1918-1928" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1918">1918</fromdate>
-                        <todate standarddate="1923">1923</todate>
+                        <todate standarddate="1928">1928</todate>
                      </daterange>
                   </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/4499 /locations/9"
-                             containerid="39002038424082"
-                             id="aspace_ref12_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref12_c2" localtype="folder" parent="aspace_ref12_c1">1-27</container>
                </did>
-            </c>
-            <c altrender="/repositories/4/archival_objects/33235"
-               id="ref13"
-               level="file">
-               <did>
-                  <unittitle>Letters from AOL to family in U.S</unittitle>
-                  <unitdatestructured altrender="1924 Nov-1928" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1924-11">1924 November</fromdate>
-                        <todate standarddate="1928-12">1928 December</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/4500 /locations/9"
-                             containerid="39002038424090"
-                             id="aspace_ref13_c1"
-                             label="Mixed Materials"
-                             localtype="box">2</container>
-                  <container id="aspace_ref13_c2" localtype="folder" parent="aspace_ref13_c1">1-9</container>
-               </did>
+               <scopecontent id="aspace_32b874dc74bccbf8e9b5f89eccaf10b2">
+                  <head>Scope and Contents</head>
+                  <p>First folder includes index to 1918 letters and eight page narrative by Austin Long regarding trip to China and arrival in Beijing (Peking)</p>
+               </scopecontent>
+               <c altrender="/repositories/4/archival_objects/4052094"
+                  id="aspace_d4b424f7763daee28e4300d9206e07cd"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1918 August 14 - September 12"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1914-08-14">1914 August 14</fromdate>
+                           <todate standarddate="1914-09-12">1914 September 12</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_d4b424f7763daee28e4300d9206e07cd_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_d4b424f7763daee28e4300d9206e07cd_c2"
+                                localtype="folder"
+                                parent="aspace_d4b424f7763daee28e4300d9206e07cd_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052095"
+                  id="aspace_c04f584e611ba9e004f81f3915d79993"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1918 September 22 - October 6"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1918-09-22">1918 September 22</fromdate>
+                           <todate standarddate="1918-10-06">1918 October 6</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_c04f584e611ba9e004f81f3915d79993_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_c04f584e611ba9e004f81f3915d79993_c2"
+                                localtype="folder"
+                                parent="aspace_c04f584e611ba9e004f81f3915d79993_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052096"
+                  id="aspace_59d759f58c54e8a7f3ab6953318f43ef"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1918 October 13 - November 10"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1918-10-13">1918 October 13</fromdate>
+                           <todate standarddate="1918-11-10">1918 November 10</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_59d759f58c54e8a7f3ab6953318f43ef_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_59d759f58c54e8a7f3ab6953318f43ef_c2"
+                                localtype="folder"
+                                parent="aspace_59d759f58c54e8a7f3ab6953318f43ef_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052097"
+                  id="aspace_f4caacfb17196698c0eecbe20dcbb52e"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1918 November 17 - December 29"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1918-11-17">1918 November 17</fromdate>
+                           <todate standarddate="1918-12-29">1918 December 29</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_f4caacfb17196698c0eecbe20dcbb52e_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_f4caacfb17196698c0eecbe20dcbb52e_c2"
+                                localtype="folder"
+                                parent="aspace_f4caacfb17196698c0eecbe20dcbb52e_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052098"
+                  id="aspace_5e299e01b93a20b1ce9a26a2c4728d71"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1919 January 5 - February 23"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1919-01-05">1919 January 5</fromdate>
+                           <todate standarddate="1919-02-23">1919 February 23</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_5e299e01b93a20b1ce9a26a2c4728d71_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_5e299e01b93a20b1ce9a26a2c4728d71_c2"
+                                localtype="folder"
+                                parent="aspace_5e299e01b93a20b1ce9a26a2c4728d71_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052099"
+                  id="aspace_034c6f70aaee73fe14c3497e55977675"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1919 March - April"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1919-03">1919 March</fromdate>
+                           <todate standarddate="1919-04">1919 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_034c6f70aaee73fe14c3497e55977675_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_034c6f70aaee73fe14c3497e55977675_c2"
+                                localtype="folder"
+                                parent="aspace_034c6f70aaee73fe14c3497e55977675_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052100"
+                  id="aspace_b46f2ead93c6e7e722e747d85f6cb811"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1919 May - June" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1919-05">1919 May</fromdate>
+                           <todate standarddate="1919-06">1919 June</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_b46f2ead93c6e7e722e747d85f6cb811_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_b46f2ead93c6e7e722e747d85f6cb811_c2"
+                                localtype="folder"
+                                parent="aspace_b46f2ead93c6e7e722e747d85f6cb811_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052101"
+                  id="aspace_cab980cc2170e4850c673e58f92d3613"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1919 July - August"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1919-07">1919 July</fromdate>
+                           <todate standarddate="1919-08">1919 August</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_cab980cc2170e4850c673e58f92d3613_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_cab980cc2170e4850c673e58f92d3613_c2"
+                                localtype="folder"
+                                parent="aspace_cab980cc2170e4850c673e58f92d3613_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052102"
+                  id="aspace_404406e91f4e00d9668d573a4224324b"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1919 September - October"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1919-09">1919 September</fromdate>
+                           <todate standarddate="1919-10">1919 October</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_404406e91f4e00d9668d573a4224324b_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_404406e91f4e00d9668d573a4224324b_c2"
+                                localtype="folder"
+                                parent="aspace_404406e91f4e00d9668d573a4224324b_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052103"
+                  id="aspace_efb3c99a026e379a514c455a2557b2f5"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1919 November - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1919-11">1919 November</fromdate>
+                           <todate standarddate="1919-12">1919 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_efb3c99a026e379a514c455a2557b2f5_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_efb3c99a026e379a514c455a2557b2f5_c2"
+                                localtype="folder"
+                                parent="aspace_efb3c99a026e379a514c455a2557b2f5_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052104"
+                  id="aspace_5345d3e7467189062a8fd747a473d85e"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1920 January - February"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1920-01">1920 January</fromdate>
+                           <todate standarddate="1920-02">1920 February</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_5345d3e7467189062a8fd747a473d85e_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_5345d3e7467189062a8fd747a473d85e_c2"
+                                localtype="folder"
+                                parent="aspace_5345d3e7467189062a8fd747a473d85e_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052105"
+                  id="aspace_e89bb61a83e4639a43be35970c69d8cd"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1920 March - April"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1920-03">1920 March</fromdate>
+                           <todate standarddate="1920-04">1920 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_e89bb61a83e4639a43be35970c69d8cd_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_e89bb61a83e4639a43be35970c69d8cd_c2"
+                                localtype="folder"
+                                parent="aspace_e89bb61a83e4639a43be35970c69d8cd_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052106"
+                  id="aspace_fcff2aa175b98307d4b97033f84180b3"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1920 May - July" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1920-05">1920 May</fromdate>
+                           <todate standarddate="1920-07">1920 July</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_fcff2aa175b98307d4b97033f84180b3_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_fcff2aa175b98307d4b97033f84180b3_c2"
+                                localtype="folder"
+                                parent="aspace_fcff2aa175b98307d4b97033f84180b3_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052107"
+                  id="aspace_1873410d4c2dfd6b33ae09c195a1f105"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1920 August - September"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1920-08">1920 August</fromdate>
+                           <todate standarddate="1920-09">1920 September</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_1873410d4c2dfd6b33ae09c195a1f105_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_1873410d4c2dfd6b33ae09c195a1f105_c2"
+                                localtype="folder"
+                                parent="aspace_1873410d4c2dfd6b33ae09c195a1f105_c1">14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052108"
+                  id="aspace_a7ff4bf6c910448062756ee9f8f25f7f"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1920 October - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1920-10">1920 October</fromdate>
+                           <todate standarddate="1920-12">1920 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_a7ff4bf6c910448062756ee9f8f25f7f_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_a7ff4bf6c910448062756ee9f8f25f7f_c2"
+                                localtype="folder"
+                                parent="aspace_a7ff4bf6c910448062756ee9f8f25f7f_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052109"
+                  id="aspace_02b8a1f20c249c9de15a5f5d91343070"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1921 January - February"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-01">1921 January</fromdate>
+                           <todate standarddate="1921-02">1921 February</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_02b8a1f20c249c9de15a5f5d91343070_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_02b8a1f20c249c9de15a5f5d91343070_c2"
+                                localtype="folder"
+                                parent="aspace_02b8a1f20c249c9de15a5f5d91343070_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052110"
+                  id="aspace_f9ee46e43df49c53eb08772e6b37241b"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1921 March - May" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-03">1921 March</fromdate>
+                           <todate standarddate="1921-05">1921 May</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_f9ee46e43df49c53eb08772e6b37241b_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_f9ee46e43df49c53eb08772e6b37241b_c2"
+                                localtype="folder"
+                                parent="aspace_f9ee46e43df49c53eb08772e6b37241b_c1">17</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052111"
+                  id="aspace_5ee6493f5d67abf723e8cea0939f8052"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1921 June - August"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-06">1921 June</fromdate>
+                           <todate standarddate="1921-08">1921 August</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_5ee6493f5d67abf723e8cea0939f8052_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_5ee6493f5d67abf723e8cea0939f8052_c2"
+                                localtype="folder"
+                                parent="aspace_5ee6493f5d67abf723e8cea0939f8052_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052112"
+                  id="aspace_2e2aa1e324962e45b2e1438a20e29eb3"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1921 September - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921-09">1921 September</fromdate>
+                           <todate standarddate="1921-12">1921 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_2e2aa1e324962e45b2e1438a20e29eb3_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_2e2aa1e324962e45b2e1438a20e29eb3_c2"
+                                localtype="folder"
+                                parent="aspace_2e2aa1e324962e45b2e1438a20e29eb3_c1">19</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052113"
+                  id="aspace_ee1e4d4ab72a5af66db350a23abaf8cf"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1922 January - February"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-01">1922 January</fromdate>
+                           <todate standarddate="1922-02">1922 February</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_ee1e4d4ab72a5af66db350a23abaf8cf_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_ee1e4d4ab72a5af66db350a23abaf8cf_c2"
+                                localtype="folder"
+                                parent="aspace_ee1e4d4ab72a5af66db350a23abaf8cf_c1">20</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052114"
+                  id="aspace_948e74b369d8025bb0e8b716abc050c0"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1922 March - May" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-03">1922 March</fromdate>
+                           <todate standarddate="1922-05">1922 May</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_948e74b369d8025bb0e8b716abc050c0_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_948e74b369d8025bb0e8b716abc050c0_c2"
+                                localtype="folder"
+                                parent="aspace_948e74b369d8025bb0e8b716abc050c0_c1">21</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052115"
+                  id="aspace_27d3124c446e79b92b11fe1195b00e92"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1922 June - August"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-06">1922 June</fromdate>
+                           <todate standarddate="1922-08">1922 August</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_27d3124c446e79b92b11fe1195b00e92_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_27d3124c446e79b92b11fe1195b00e92_c2"
+                                localtype="folder"
+                                parent="aspace_27d3124c446e79b92b11fe1195b00e92_c1">22</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052116"
+                  id="aspace_bd2fd3521bc481146b6bda1a9f618ac8"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1922 September - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1922-09">1922 September</fromdate>
+                           <todate standarddate="1922-12">1922 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_bd2fd3521bc481146b6bda1a9f618ac8_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_bd2fd3521bc481146b6bda1a9f618ac8_c2"
+                                localtype="folder"
+                                parent="aspace_bd2fd3521bc481146b6bda1a9f618ac8_c1">23</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052117"
+                  id="aspace_c72207c7c6e966917600500889ee8a3f"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1923 January - March"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-01">1923 January</fromdate>
+                           <todate standarddate="1923-03">1923 March</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_c72207c7c6e966917600500889ee8a3f_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_c72207c7c6e966917600500889ee8a3f_c2"
+                                localtype="folder"
+                                parent="aspace_c72207c7c6e966917600500889ee8a3f_c1">24</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052118"
+                  id="aspace_5af4f2309ec4aea1bf3741f512d36954"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1923 April - June"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-04">1923 April</fromdate>
+                           <todate standarddate="1923-06">1923 June</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_5af4f2309ec4aea1bf3741f512d36954_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_5af4f2309ec4aea1bf3741f512d36954_c2"
+                                localtype="folder"
+                                parent="aspace_5af4f2309ec4aea1bf3741f512d36954_c1">25</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052119"
+                  id="aspace_7682b73e06fc0475776a947a6f4103a1"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1923 July - September"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-07">1923 July</fromdate>
+                           <todate standarddate="1923-09">1923 September</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_7682b73e06fc0475776a947a6f4103a1_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_7682b73e06fc0475776a947a6f4103a1_c2"
+                                localtype="folder"
+                                parent="aspace_7682b73e06fc0475776a947a6f4103a1_c1">26</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052120"
+                  id="aspace_e31d0b9fb0d7f10f9cd8aa8c3cc94bb4"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1923 October - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923-10">1923 October</fromdate>
+                           <todate standarddate="1923-12">1923 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4499 /locations/9"
+                                containerid="39002038424082"
+                                id="aspace_e31d0b9fb0d7f10f9cd8aa8c3cc94bb4_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_e31d0b9fb0d7f10f9cd8aa8c3cc94bb4_c2"
+                                localtype="folder"
+                                parent="aspace_e31d0b9fb0d7f10f9cd8aa8c3cc94bb4_c1">27</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052121"
+                  id="aspace_18df37654bf6cc5ea0009e4ebb26ec03"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1924 November - December"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1924-11">1924 November</fromdate>
+                           <todate standarddate="1924-12">1924 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_18df37654bf6cc5ea0009e4ebb26ec03_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_18df37654bf6cc5ea0009e4ebb26ec03_c2"
+                                localtype="folder"
+                                parent="aspace_18df37654bf6cc5ea0009e4ebb26ec03_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052122"
+                  id="aspace_b5637f80f0f4fe78b95385afd05c6c0a"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1925 January - April"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1925-01">1925 January</fromdate>
+                           <todate standarddate="1925-04">1925 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_b5637f80f0f4fe78b95385afd05c6c0a_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_b5637f80f0f4fe78b95385afd05c6c0a_c2"
+                                localtype="folder"
+                                parent="aspace_b5637f80f0f4fe78b95385afd05c6c0a_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052123"
+                  id="aspace_1e0b71c78e29e6d70e9dcbb998db23a6"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1925 May - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1925-05">1925 May</fromdate>
+                           <todate standarddate="1925-12">1925 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_1e0b71c78e29e6d70e9dcbb998db23a6_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_1e0b71c78e29e6d70e9dcbb998db23a6_c2"
+                                localtype="folder"
+                                parent="aspace_1e0b71c78e29e6d70e9dcbb998db23a6_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052124"
+                  id="aspace_6145576ba57ba0e03c9e4c017d70fa36"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1926 January - August"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1926-01">1926 January</fromdate>
+                           <todate standarddate="1926-08">1926 August</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_6145576ba57ba0e03c9e4c017d70fa36_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_6145576ba57ba0e03c9e4c017d70fa36_c2"
+                                localtype="folder"
+                                parent="aspace_6145576ba57ba0e03c9e4c017d70fa36_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052125"
+                  id="aspace_13cc970168f3ce5f021f0c299ec7d92f"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1926 September - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1926-09">1926 September</fromdate>
+                           <todate standarddate="1926-12">1926 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_13cc970168f3ce5f021f0c299ec7d92f_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_13cc970168f3ce5f021f0c299ec7d92f_c2"
+                                localtype="folder"
+                                parent="aspace_13cc970168f3ce5f021f0c299ec7d92f_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052126"
+                  id="aspace_8719322713de4f7cd3ac66ffaf3da04f"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1927 January - April"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1927-01">1927 January</fromdate>
+                           <todate standarddate="1927-04">1927 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_8719322713de4f7cd3ac66ffaf3da04f_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_8719322713de4f7cd3ac66ffaf3da04f_c2"
+                                localtype="folder"
+                                parent="aspace_8719322713de4f7cd3ac66ffaf3da04f_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052127"
+                  id="aspace_3e4ef488d503ac99c5919f9cc14b6fb2"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1927 May - July" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1927-05">1927 May</fromdate>
+                           <todate standarddate="1927-07">1927 July</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_3e4ef488d503ac99c5919f9cc14b6fb2_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_3e4ef488d503ac99c5919f9cc14b6fb2_c2"
+                                localtype="folder"
+                                parent="aspace_3e4ef488d503ac99c5919f9cc14b6fb2_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052128"
+                  id="aspace_2ad454442602a23e72264a9bee00e00b"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1927 August - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1927-08">1927 August</fromdate>
+                           <todate standarddate="1927-12">1927 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_2ad454442602a23e72264a9bee00e00b_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_2ad454442602a23e72264a9bee00e00b_c2"
+                                localtype="folder"
+                                parent="aspace_2ad454442602a23e72264a9bee00e00b_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052129"
+                  id="aspace_c362222d52f4534f1834ba0eadb53024"
+                  level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdatestructured altrender="1928" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1928">1928</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                                containerid="39002038424090"
+                                id="aspace_c362222d52f4534f1834ba0eadb53024_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_c362222d52f4534f1834ba0eadb53024_c2"
+                                localtype="folder"
+                                parent="aspace_c362222d52f4534f1834ba0eadb53024_c1">9</container>
+                  </did>
+               </c>
             </c>
          </c>
          <c altrender="/repositories/4/archival_objects/33236"
@@ -266,30 +1058,137 @@
             <did>
                <unittitle>Diaries</unittitle>
                <unitid>Series II</unitid>
-               <unitdatestructured altrender="1919-1929" label="creation" unitdatetype="inclusive">
+               <unitdatestructured altrender="1918-1929" label="creation" unitdatetype="inclusive">
                   <daterange>
-                     <fromdate standarddate="1919">1919</fromdate>
+                     <fromdate standarddate="1918">1918</fromdate>
                      <todate standarddate="1929">1929</todate>
                   </daterange>
                </unitdatestructured>
             </did>
-            <c altrender="/repositories/4/archival_objects/33237"
-               id="ref15"
+            <c altrender="/repositories/4/archival_objects/4052136"
+               id="aspace_b0f61e815c456f6ca2e33f975988a6d9"
                level="file">
                <did>
                   <unittitle>Diaries</unittitle>
-                  <unitdatestructured altrender="1919-1929" label="creation" unitdatetype="inclusive">
+                  <unitdatestructured altrender="1918, 1919" label="other" unitdatetype="inclusive">
                      <daterange>
-                        <fromdate standarddate="1919">1919</fromdate>
+                        <fromdate standarddate="1918">1918</fromdate>
+                        <todate standarddate="1919">1919</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                             containerid="39002038424090"
+                             id="aspace_b0f61e815c456f6ca2e33f975988a6d9_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_b0f61e815c456f6ca2e33f975988a6d9_c2"
+                             localtype="folder"
+                             parent="aspace_b0f61e815c456f6ca2e33f975988a6d9_c1">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4052137"
+               id="aspace_489ec59297e13c0617685873cf9b7dbb"
+               level="file">
+               <did>
+                  <unittitle>Diaries</unittitle>
+                  <unitdatestructured altrender="1920, 1921" label="other" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1920">1920</fromdate>
+                        <todate standarddate="1921">1921</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                             containerid="39002038424090"
+                             id="aspace_489ec59297e13c0617685873cf9b7dbb_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_489ec59297e13c0617685873cf9b7dbb_c2"
+                             localtype="folder"
+                             parent="aspace_489ec59297e13c0617685873cf9b7dbb_c1">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4052138"
+               id="aspace_ec26042c9352d2f2abd19a78e200db63"
+               level="file">
+               <did>
+                  <unittitle>Diaries</unittitle>
+                  <unitdatestructured altrender="1922, 1923" label="other" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1922">1922</fromdate>
+                        <todate standarddate="1923">1923</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                             containerid="39002038424090"
+                             id="aspace_ec26042c9352d2f2abd19a78e200db63_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ec26042c9352d2f2abd19a78e200db63_c2"
+                             localtype="folder"
+                             parent="aspace_ec26042c9352d2f2abd19a78e200db63_c1">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4052139"
+               id="aspace_0296f15ddb48f8f50494e7d63ed25af7"
+               level="file">
+               <did>
+                  <unittitle>Diaries</unittitle>
+                  <unitdatestructured altrender="1924, 1925" label="other" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1924">1924</fromdate>
+                        <todate standarddate="1925">1925</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                             containerid="39002038424090"
+                             id="aspace_0296f15ddb48f8f50494e7d63ed25af7_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_0296f15ddb48f8f50494e7d63ed25af7_c2"
+                             localtype="folder"
+                             parent="aspace_0296f15ddb48f8f50494e7d63ed25af7_c1">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4052140"
+               id="aspace_572d3d81d531ded912692e153e96e35d"
+               level="file">
+               <did>
+                  <unittitle>Diaries</unittitle>
+                  <unitdatestructured altrender="1926, 1927" label="other" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1926">1926</fromdate>
+                        <todate standarddate="1927">1927</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4500 /locations/9"
+                             containerid="39002038424090"
+                             id="aspace_572d3d81d531ded912692e153e96e35d_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_572d3d81d531ded912692e153e96e35d_c2"
+                             localtype="folder"
+                             parent="aspace_572d3d81d531ded912692e153e96e35d_c1">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4052141"
+               id="aspace_235a3c1605a07070ea0b4d060466e2f5"
+               level="file">
+               <did>
+                  <unittitle>Diaries</unittitle>
+                  <unitdatestructured altrender="1928, 1929" label="other" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1928">1928</fromdate>
                         <todate standarddate="1929">1929</todate>
                      </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/4500 /locations/9"
                              containerid="39002038424090"
-                             id="aspace_ref15_c1"
+                             id="aspace_235a3c1605a07070ea0b4d060466e2f5_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
-                  <container id="aspace_ref15_c2" localtype="folder" parent="aspace_ref15_c1">10-15</container>
+                  <container id="aspace_235a3c1605a07070ea0b4d060466e2f5_c2"
+                             localtype="folder"
+                             parent="aspace_235a3c1605a07070ea0b4d060466e2f5_c1">15</container>
                </did>
             </c>
          </c>
