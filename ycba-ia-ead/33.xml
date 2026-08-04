@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-03T18:01:17-04:00</eventdatetime>
+            <eventdatetime>2026-08-04T18:00:05-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August  3, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August  4, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -278,11 +278,11 @@
                <unittitle>Wedgwood Queen's ware plates of New England Industries</unittitle>
                <unitid>Series I</unitid>
             </did>
-            <c altrender="/repositories/3/archival_objects/6175"
-               id="ref12"
+            <c altrender="/repositories/3/archival_objects/6179"
+               id="ref24"
                level="item">
                <did>
-                  <unittitle>Whaling: Wedgwood plate</unittitle>
+                  <unittitle>Codfishing: Wedgwood plate</unittitle>
                   <origination label="Creator">
                      <persname rules="aacr">
                         <part localtype="agent_person">Leighton, Clare, 1898-1989</part>
@@ -296,16 +296,17 @@
                   <unitdatestructured altrender="[1952]" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1952">[1952]</datesingle>
                   </unitdatestructured>
-                  <physdesc id="aspace_070533cb7c8e19162a8066b1d733dd94"> 1 creamware plate : Queen's ware ;</physdesc>
-                  <physdesc id="aspace_80fd1bda640d02f5e0b958c98f30b9e7">diameter 27 cm.</physdesc>
+                  <physdesc id="aspace_ae25ac7ab1a6e39725ba0670333e88b7"> 1 creamware plate : Queen's ware ;</physdesc>
+                  <physdesc id="aspace_c11e097ec6b275e512076ea39a809832">diameter 27 cm.</physdesc>
                   <container altrender="/repositories/3/top_containers/1670"
-                             id="aspace_ref12_c1"
+                             id="aspace_ref24_c1"
                              label="Mixed Materials"
                              localtype="box">Oversize 4</container>
+                  <container id="aspace_ref24_c2" localtype="item" parent="aspace_ref24_c1">4</container>
                </did>
                <controlaccess>
                   <subject source="local">
-                     <part localtype="topical">Whaling</part>
+                     <part localtype="topical">Atlantic cod fishing</part>
                      <part localtype="topical">Pictorial works</part>
                   </subject>
                   <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
@@ -333,10 +334,11 @@
                   </unitdatestructured>
                   <physdesc id="aspace_c7e3970af249a9527076a880ed28bf3a"> 1 creamware plate : Queen's ware ;</physdesc>
                   <physdesc id="aspace_2279a770bf27b0a42e442b68b37da165">diameter 27 cm.</physdesc>
-                  <container altrender="/repositories/3/top_containers/1670"
+                  <container altrender="/repositories/3/top_containers/1671"
                              id="aspace_ref15_c1"
                              label="Mixed Materials"
-                             localtype="box">Oversize 4</container>
+                             localtype="box">Oversize 5</container>
+                  <container id="aspace_ref15_c2" localtype="item" parent="aspace_ref15_c1">1</container>
                </did>
                <controlaccess>
                   <subject source="local">
@@ -346,6 +348,42 @@
                   <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
                      <part localtype="genre_form">Queen's ware</part>
                   </genreform>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/3/archival_objects/6186"
+               id="ref45"
+               level="item">
+               <did>
+                  <unittitle>Farming: Wedgwood plate</unittitle>
+                  <origination label="Creator">
+                     <corpname>
+                        <part localtype="agent_corporate_entity">Josiah Wedgwood &amp; Sons</part>
+                     </corpname>
+                  </origination>
+                  <origination label="Creator">
+                     <persname rules="aacr">
+                        <part localtype="agent_person">Leighton, Clare, 1898-1989</part>
+                     </persname>
+                  </origination>
+                  <unitdatestructured altrender="[1952]" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1952">[1952]</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_bfb2211b72261ba9f80cb260a3922cc4"> 1 creamware plate : Queen's ware ;</physdesc>
+                  <physdesc id="aspace_6826887b1a9aca507bc096cae4373040">diameter 27 cm.</physdesc>
+                  <container altrender="/repositories/3/top_containers/1671"
+                             id="aspace_ref45_c1"
+                             label="Mixed Materials"
+                             localtype="box">Oversize 5</container>
+                  <container id="aspace_ref45_c2" localtype="item" parent="aspace_ref45_c1">6</container>
+               </did>
+               <controlaccess>
+                  <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
+                     <part localtype="genre_form">Queen's ware</part>
+                  </genreform>
+                  <subject source="local">
+                     <part localtype="topical">Agriculture</part>
+                     <part localtype="topical">Pictorial works</part>
+                  </subject>
                </controlaccess>
             </c>
             <c altrender="/repositories/3/archival_objects/6177"
@@ -372,6 +410,7 @@
                              id="aspace_ref18_c1"
                              label="Mixed Materials"
                              localtype="box">Oversize 4</container>
+                  <container id="aspace_ref18_c2" localtype="item" parent="aspace_ref18_c1">3</container>
                </did>
                <controlaccess>
                   <subject source="local">
@@ -408,45 +447,11 @@
                              id="aspace_ref21_c1"
                              label="Mixed Materials"
                              localtype="box">Oversize 4</container>
+                  <container id="aspace_ref21_c2" localtype="item" parent="aspace_ref21_c1">1</container>
                </did>
                <controlaccess>
                   <subject source="local">
                      <part localtype="topical">Ice industry</part>
-                     <part localtype="topical">Pictorial works</part>
-                  </subject>
-                  <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
-                     <part localtype="genre_form">Queen's ware</part>
-                  </genreform>
-               </controlaccess>
-            </c>
-            <c altrender="/repositories/3/archival_objects/6179"
-               id="ref24"
-               level="item">
-               <did>
-                  <unittitle>Codfishing: Wedgwood plate</unittitle>
-                  <origination label="Creator">
-                     <persname rules="aacr">
-                        <part localtype="agent_person">Leighton, Clare, 1898-1989</part>
-                     </persname>
-                  </origination>
-                  <origination label="Creator">
-                     <corpname>
-                        <part localtype="agent_corporate_entity">Josiah Wedgwood &amp; Sons</part>
-                     </corpname>
-                  </origination>
-                  <unitdatestructured altrender="[1952]" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1952">[1952]</datesingle>
-                  </unitdatestructured>
-                  <physdesc id="aspace_ae25ac7ab1a6e39725ba0670333e88b7"> 1 creamware plate : Queen's ware ;</physdesc>
-                  <physdesc id="aspace_c11e097ec6b275e512076ea39a809832">diameter 27 cm.</physdesc>
-                  <container altrender="/repositories/3/top_containers/1671"
-                             id="aspace_ref24_c1"
-                             label="Mixed Materials"
-                             localtype="box">Oversize 5</container>
-               </did>
-               <controlaccess>
-                  <subject source="local">
-                     <part localtype="topical">Atlantic cod fishing</part>
                      <part localtype="topical">Pictorial works</part>
                   </subject>
                   <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
@@ -478,6 +483,7 @@
                              id="aspace_ref27_c1"
                              label="Mixed Materials"
                              localtype="box">Oversize 5</container>
+                  <container id="aspace_ref27_c2" localtype="item" parent="aspace_ref27_c1">2</container>
                </did>
                <controlaccess>
                   <subject source="local">
@@ -513,6 +519,7 @@
                              id="aspace_ref30_c1"
                              label="Mixed Materials"
                              localtype="box">Oversize 5</container>
+                  <container id="aspace_ref30_c2" localtype="item" parent="aspace_ref30_c1">3</container>
                </did>
                <controlaccess>
                   <subject source="local">
@@ -548,6 +555,7 @@
                              id="aspace_ref33_c1"
                              label="Mixed Materials"
                              localtype="box">Oversize 5</container>
+                  <container id="aspace_ref33_c2" localtype="item" parent="aspace_ref33_c1">4</container>
                </did>
                <controlaccess>
                   <subject source="local">
@@ -579,10 +587,11 @@
                   </unitdatestructured>
                   <physdesc id="aspace_09a0e1ceb5ed501757f4a90ff36ab499"> 1 creamware plate : Queen's ware ;</physdesc>
                   <physdesc id="aspace_a1ccb403b87f110017738444dfa32c8a">diameter 27 cm.</physdesc>
-                  <container altrender="/repositories/3/top_containers/1671"
+                  <container altrender="/repositories/3/top_containers/1670"
                              id="aspace_ref36_c1"
                              label="Mixed Materials"
-                             localtype="box">Oversize 5</container>
+                             localtype="box">Oversize 4</container>
+                  <container id="aspace_ref36_c2" localtype="item" parent="aspace_ref36_c1">6</container>
                </did>
                <controlaccess>
                   <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
@@ -618,6 +627,7 @@
                              id="aspace_ref39_c1"
                              label="Mixed Materials"
                              localtype="box">Oversize 5</container>
+                  <container id="aspace_ref39_c2" localtype="item" parent="aspace_ref39_c1">5</container>
                </did>
                <controlaccess>
                   <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
@@ -649,10 +659,11 @@
                   </unitdatestructured>
                   <physdesc id="aspace_82ee07e04a5d04917dd6f4f581e6a05c"> 1 creamware plate : Queen's ware ;</physdesc>
                   <physdesc id="aspace_2b4b29bf8e832abd92b8726c50167c31">diameter 27 cm.</physdesc>
-                  <container altrender="/repositories/3/top_containers/1671"
+                  <container altrender="/repositories/3/top_containers/1670"
                              id="aspace_ref42_c1"
                              label="Mixed Materials"
-                             localtype="box">Oversize 5</container>
+                             localtype="box">Oversize 4</container>
+                  <container id="aspace_ref42_c2" localtype="item" parent="aspace_ref42_c1">5</container>
                </did>
                <controlaccess>
                   <subject source="local">
@@ -664,39 +675,40 @@
                   </genreform>
                </controlaccess>
             </c>
-            <c altrender="/repositories/3/archival_objects/6186"
-               id="ref45"
+            <c altrender="/repositories/3/archival_objects/6175"
+               id="ref12"
                level="item">
                <did>
-                  <unittitle>Farming: Wedgwood plate</unittitle>
-                  <origination label="Creator">
-                     <corpname>
-                        <part localtype="agent_corporate_entity">Josiah Wedgwood &amp; Sons</part>
-                     </corpname>
-                  </origination>
+                  <unittitle>Whaling: Wedgwood plate</unittitle>
                   <origination label="Creator">
                      <persname rules="aacr">
                         <part localtype="agent_person">Leighton, Clare, 1898-1989</part>
                      </persname>
                   </origination>
+                  <origination label="Creator">
+                     <corpname>
+                        <part localtype="agent_corporate_entity">Josiah Wedgwood &amp; Sons</part>
+                     </corpname>
+                  </origination>
                   <unitdatestructured altrender="[1952]" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1952">[1952]</datesingle>
                   </unitdatestructured>
-                  <physdesc id="aspace_bfb2211b72261ba9f80cb260a3922cc4"> 1 creamware plate : Queen's ware ;</physdesc>
-                  <physdesc id="aspace_6826887b1a9aca507bc096cae4373040">diameter 27 cm.</physdesc>
-                  <container altrender="/repositories/3/top_containers/1671"
-                             id="aspace_ref45_c1"
+                  <physdesc id="aspace_070533cb7c8e19162a8066b1d733dd94"> 1 creamware plate : Queen's ware ;</physdesc>
+                  <physdesc id="aspace_80fd1bda640d02f5e0b958c98f30b9e7">diameter 27 cm.</physdesc>
+                  <container altrender="/repositories/3/top_containers/1670"
+                             id="aspace_ref12_c1"
                              label="Mixed Materials"
-                             localtype="box">Oversize 5</container>
+                             localtype="box">Oversize 4</container>
+                  <container id="aspace_ref12_c2" localtype="item" parent="aspace_ref12_c1">2</container>
                </did>
                <controlaccess>
+                  <subject source="local">
+                     <part localtype="topical">Whaling</part>
+                     <part localtype="topical">Pictorial works</part>
+                  </subject>
                   <genreform identifier="http://vocab.getty.edu/aat/300265756" source="aat">
                      <part localtype="genre_form">Queen's ware</part>
                   </genreform>
-                  <subject source="local">
-                     <part localtype="topical">Agriculture</part>
-                     <part localtype="topical">Pictorial works</part>
-                  </subject>
                </controlaccess>
             </c>
          </c>
