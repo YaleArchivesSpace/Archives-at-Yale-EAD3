@@ -41,6 +41,9 @@
             <controlnote localtype="onsite">
                <p>Box: 1</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="79">79</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -72,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T00:01:17-04:00</eventdatetime>
+            <eventdatetime>2026-08-03T23:04:21-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 00:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August  3, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -481,6 +484,35 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref34_c2" localtype="folder" parent="aspace_ref34_c1">6</container>
+                  <daoset altrender="/repositories/11/digital_objects/351532">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33748205"
+                          identifier="oid:33748205"
+                          linktitle="79 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33748206/full/!150,150/0/default.jpg"
+                          identifier="oid:33748205"
+                          linktitle="79 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33748205"
+                          identifier="oid:33748205"
+                          linktitle="79 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Miscellaneous maps</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
          </c>

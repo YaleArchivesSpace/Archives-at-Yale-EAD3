@@ -45,7 +45,7 @@
                <p>Boxes: 6 (Oversize), 9, 22-40, 41 (Broadside)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="23">23</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="293">293</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="24">24</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="296">296</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-09T23:54:47-05:00</eventdatetime>
+            <eventdatetime>2026-08-03T23:04:12-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday February  9, 2026 at 23:54</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August  3, 2026 at 23:04</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -10407,6 +10407,35 @@
                                 label="Mixed Materials"
                                 localtype="box">30</container>
                      <container id="aspace_ref603_c2" localtype="folder" parent="aspace_ref603_c1">246</container>
+                     <daoset altrender="/repositories/11/digital_objects/351531">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33748285"
+                             identifier="oid:33748285"
+                             linktitle="3 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33748286/full/!150,150/0/default.jpg"
+                             identifier="oid:33748285"
+                             linktitle="3 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33748285"
+                             identifier="oid:33748285"
+                             linktitle="3 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Brady, John G. and family; portraits</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/444308"
