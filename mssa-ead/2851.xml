@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="23">23</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="28">28</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-01T03:05:12-04:00</eventdatetime>
+            <eventdatetime>2026-08-04T03:04:11-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August  1, 2026 at 03:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August  4, 2026 at 03:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -874,7 +874,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/iiif/2/33746464/full/!150,150/0/default.jpg"
                              identifier="oid:33746463"
-                             linktitle="21 images"
+                             linktitle="slides 3-20"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -882,7 +882,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33746463"
                              identifier="oid:33746463"
-                             linktitle="21 images"
+                             linktitle="slides 3-20"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -6039,6 +6039,27 @@
                                 label="Mixed Materials"
                                 localtype="box">9</container>
                      <container id="aspace_ref326_c2" localtype="folder" parent="aspace_ref326_c1">69</container>
+                     <daoset altrender="/repositories/12/digital_objects/351523">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33748043"
+                             linktitle="2 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33748043"
+                             identifier="oid:33748043"
+                             linktitle="2 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Frank Gehry Studio Mid-Term Review</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/985921"
@@ -6158,6 +6179,27 @@
                                 label="Mixed Materials"
                                 localtype="box">9</container>
                      <container id="aspace_ref333_c2" localtype="folder" parent="aspace_ref333_c1">71</container>
+                     <daoset altrender="/repositories/12/digital_objects/351526">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33748046"
+                             linktitle="3 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33748046"
+                             identifier="oid:33748046"
+                             linktitle="3 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Frank Gehry Studio Review with Richard Serra</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/985928"
