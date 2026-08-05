@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-23T03:01:24-04:00</eventdatetime>
+            <eventdatetime>2026-08-05T03:00:41-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 23, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -30557,6 +30557,55 @@ Pennsylvania, originally published 1855</p>
                              label="Mixed Materials"
                              localtype="box">1</container>
                </did>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4045312"
+            id="aspace_61af23b88e152c31e101c3023a68e612"
+            level="series">
+            <did>
+               <unittitle>Additional Material</unittitle>
+               <unitid>Accession 2026-M-0008</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.25</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(1 box)</physdesc>
+               <unitdatestructured altrender="1858 April 25" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1858-04-24">1858 April 25</datesingle>
+               </unitdatestructured>
+            </did>
+            <acqinfo id="aspace_ce5c63b5859e6325d71fdb39aa71563f">
+               <head>Immediate Source of Acquisition</head>
+               <p>Purchased from Donald Lippincott on the Louis Mayer Rabinowitz Memorial Fund.</p>
+            </acqinfo>
+            <scopecontent id="aspace_bcc713a4c2529653c2cf3590edb9cda2">
+               <head>Scope and Contents</head>
+               <p>The series contains a letter.</p>
+            </scopecontent>
+            <c altrender="/repositories/12/archival_objects/4045313"
+               id="aspace_5ca751269c3c4e68d53a2ba082b7f292"
+               level="file">
+               <did>
+                  <unittitle>Elihu Burritt letter to Benjamin Silliman</unittitle>
+                  <unitdatestructured altrender="1858 April 24" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1858-04-24">1858 April 24</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/484013 /locations/9"
+                             containerid="39002104917522"
+                             encodinganalog="archive legal"
+                             id="aspace_5ca751269c3c4e68d53a2ba082b7f292_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_5ca751269c3c4e68d53a2ba082b7f292_c2"
+                             localtype="folder"
+                             parent="aspace_5ca751269c3c4e68d53a2ba082b7f292_c1">1</container>
+               </did>
+               <scopecontent id="aspace_56d7400d1e78b858bd07ab5c37c5a7a5">
+                  <head>Scope and Contents</head>
+                  <p>The file contains an autograph letter signed to Benjamin Silliman from Elihu Burritt on the printed circular Prospectus of "The North and South".</p>
+                  <p>Elihu Burritt, editor and proprietor, discusses the possible appointment of Benjamin Silliman to the honorary position of a new organization advocating for abolition.</p>
+                  <p>Docketted.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>

@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-04T03:04:11-04:00</eventdatetime>
+            <eventdatetime>2026-08-05T03:00:34-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August  4, 2026 at 03:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -6043,9 +6043,17 @@
                         <dao actuate="onrequest"
                              audience="external"
                              daotype="unknown"
-                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             href="https://collections.library.yale.edu/manifests/33748043"
                              identifier="oid:33748043"
                              linktitle="2 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33748044/full/!150,150/0/default.jpg"
+                             identifier="oid:33748043"
+                             linktitle="1r"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -6053,7 +6061,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33748043"
                              identifier="oid:33748043"
-                             linktitle="2 images"
+                             linktitle="1r"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -6183,9 +6191,17 @@
                         <dao actuate="onrequest"
                              audience="external"
                              daotype="unknown"
-                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             href="https://collections.library.yale.edu/manifests/33748046"
                              identifier="oid:33748046"
                              linktitle="3 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33748047/full/!150,150/0/default.jpg"
+                             identifier="oid:33748046"
+                             linktitle="1r"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -6193,7 +6209,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33748046"
                              identifier="oid:33748046"
-                             linktitle="3 images"
+                             linktitle="1r"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>

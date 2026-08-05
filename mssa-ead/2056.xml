@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-01T03:00:37-04:00</eventdatetime>
+            <eventdatetime>2026-08-05T03:00:12-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August  1, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1202,11 +1202,8 @@
                            id="aspace_2d24005326bc14e595299c960684db7d"
                            level="file">
                            <did>
-                              <unitdatestructured altrender="1978-1986" label="creation" unitdatetype="inclusive">
-                                 <daterange>
-                                    <fromdate standarddate="1978">1978</fromdate>
-                                    <todate standarddate="1986">1986</todate>
-                                 </daterange>
+                              <unitdatestructured altrender="1978" label="creation" unitdatetype="inclusive">
+                                 <datesingle standarddate="1978">1978</datesingle>
                               </unitdatestructured>
                               <container altrender="/repositories/12/top_containers/399965 /locations/9"
                                          containerid="39002141033705"
@@ -11161,7 +11158,10 @@
                      id="aspace_8c93def853b19c279350bd68c5c3afd4"
                      level="file">
                      <did>
-                        <unittitle>White, Paul A. B.</unittitle>
+                        <unittitle>White, Paul A. B., <title render="italic">
+                              <part>The Fettered and the Free: The Life and Times of Mary Bryant Broad</part>
+                           </title>
+                        </unittitle>
                         <unitdatestructured altrender="2006" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="2006">2006</datesingle>
                         </unitdatestructured>
@@ -11174,25 +11174,6 @@
                         <container id="aspace_8c93def853b19c279350bd68c5c3afd4_c2"
                                    localtype="folder"
                                    parent="aspace_8c93def853b19c279350bd68c5c3afd4_c1">6</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/12/archival_objects/3676190"
-                     id="aspace_c90ffe8d60951daa72febf2bd92a272c"
-                     level="file">
-                     <did>
-                        <unittitle>Williams, Emily Jane</unittitle>
-                        <unitdatestructured altrender="1977" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1977">1977</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/12/top_containers/400709 /locations/9"
-                                   containerid="39002141033820"
-                                   encodinganalog="Paige 15"
-                                   id="aspace_c90ffe8d60951daa72febf2bd92a272c_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">13</container>
-                        <container id="aspace_c90ffe8d60951daa72febf2bd92a272c_c2"
-                                   localtype="folder"
-                                   parent="aspace_c90ffe8d60951daa72febf2bd92a272c_c1">7</container>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/3676191"
@@ -11671,28 +11652,6 @@
                               <container id="aspace_2fcfba362c9ddaaba4c8d88a621a8a22_c2"
                                          localtype="folder"
                                          parent="aspace_2fcfba362c9ddaaba4c8d88a621a8a22_c1">29</container>
-                           </did>
-                        </c>
-                        <c altrender="/repositories/12/archival_objects/3676233"
-                           id="aspace_cd0ec0df499d98bb4326002dbbf2fb3f"
-                           level="file">
-                           <did>
-                              <unittitle>Yale Alumni Fund</unittitle>
-                              <unitdatestructured altrender="1982-1984" label="creation" unitdatetype="inclusive">
-                                 <daterange>
-                                    <fromdate standarddate="1982">1982</fromdate>
-                                    <todate standarddate="1984">1984</todate>
-                                 </daterange>
-                              </unitdatestructured>
-                              <container altrender="/repositories/12/top_containers/400709 /locations/9"
-                                         containerid="39002141033820"
-                                         encodinganalog="Paige 15"
-                                         id="aspace_cd0ec0df499d98bb4326002dbbf2fb3f_c1"
-                                         label="Mixed Materials"
-                                         localtype="box">13</container>
-                              <container id="aspace_cd0ec0df499d98bb4326002dbbf2fb3f_c2"
-                                         localtype="folder"
-                                         parent="aspace_cd0ec0df499d98bb4326002dbbf2fb3f_c1">30</container>
                            </did>
                         </c>
                         <c altrender="/repositories/12/archival_objects/3676234"

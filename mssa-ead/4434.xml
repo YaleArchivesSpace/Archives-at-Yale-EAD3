@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-23T03:00:41-04:00</eventdatetime>
+            <eventdatetime>2026-08-05T03:00:59-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 23, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 03:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -62209,6 +62209,79 @@
                              localtype="folder"
                              parent="aspace_b18f7b388447c2832809bb4e17413c9c_c1">1</container>
                </did>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4045315"
+            id="aspace_8b8c1747504dac1f0a8931d421767b88"
+            level="series">
+            <did>
+               <unittitle>Additional Material</unittitle>
+               <unitid>Accession 2026-M-0009</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.21</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(1 box)</physdesc>
+               <unitdatestructured altrender="1845-1846" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1845">1845</fromdate>
+                     <todate standarddate="1846">1846</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <acqinfo id="aspace_910644eb3eda22a23b15376407eac6e8">
+               <head>Immediate Source of Acquisition</head>
+               <p>Purchased from Donald Lippincott on the Louis Mayer Rabinowitz Memorial Fund, 2026</p>
+            </acqinfo>
+            <scopecontent id="aspace_e82dd5a6caf49201f50e80e0ee2f4901">
+               <head>Scope and Contents</head>
+               <p>The series contains two letters between Beecher family members and Milton Badger.</p>
+            </scopecontent>
+            <c altrender="/repositories/12/archival_objects/4045316"
+               id="aspace_d3b3f92ef63117e5537dbdf4c4c4c869"
+               level="file">
+               <did>
+                  <unittitle>Charles Beecher letter to Milton Badger</unittitle>
+                  <unitdatestructured altrender="1845 June 3" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1845-06-03">1845 June 3</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/484015"
+                             containerid="39002104917530"
+                             encodinganalog="archive half legal"
+                             id="aspace_d3b3f92ef63117e5537dbdf4c4c4c869_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_d3b3f92ef63117e5537dbdf4c4c4c869_c2"
+                             localtype="folder"
+                             parent="aspace_d3b3f92ef63117e5537dbdf4c4c4c869_c1">1</container>
+               </did>
+               <scopecontent id="aspace_1db7c7689a728fbfa230dd275d2ff61e">
+                  <head>Scope and Contents</head>
+                  <p>Autograph letter signed to Milton Badger from Charles Beecher; contains an account of his travels through Indiana and a meeting in Hartford City.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4045317"
+               id="aspace_3e901c8f0451382df4b3d460f0e087a6"
+               level="file">
+               <did>
+                  <unittitle>Henry Ward Beecher letter to Milton Badger</unittitle>
+                  <unitdatestructured altrender="1846 April 14" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1846-04-14">1846 April 14</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/484015"
+                             containerid="39002104917530"
+                             encodinganalog="archive half legal"
+                             id="aspace_3e901c8f0451382df4b3d460f0e087a6_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_3e901c8f0451382df4b3d460f0e087a6_c2"
+                             localtype="folder"
+                             parent="aspace_3e901c8f0451382df4b3d460f0e087a6_c1">2</container>
+               </did>
+               <scopecontent id="aspace_b6e38f2615a89146ef38b0228ce3aac3">
+                  <head>Scope and Contents</head>
+                  <p>Autograph letter signed to Milton Badger relating to the Stony Creek Church in Noblesville; signed by William Nelson Stimson, Curtis Mallery, and Henry Ward Beecher. Docketted.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>

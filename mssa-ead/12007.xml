@@ -59,13 +59,16 @@
             <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
          </descriptivenote>
       </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>completed</term>
+      </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-30T03:33:19-04:00</eventdatetime>
+            <eventdatetime>2026-08-05T03:00:25-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:33</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -9840,6 +9843,25 @@
                   </did>
                </c>
             </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4045319"
+            id="aspace_5c30e387a0b5b56017ffe1f97371e969"
+            level="series">
+            <did>
+               <unittitle>December 2025 Acquisition</unittitle>
+               <unitid>Series V</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.92</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(3 boxes)</physdesc>
+               <unitdatestructured altrender="2003-2023" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="2003">2003</fromdate>
+                     <todate standarddate="2023">2023</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
          </c>
       </dsc>
    </archdesc>
