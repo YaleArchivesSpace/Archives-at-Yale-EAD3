@@ -45,7 +45,7 @@
                <p>Boxes: 32-33 (Oversize), 34 (Broadside), 35 (Oversize), 36-38 (Art), 39 (Oversize), 40-41 (Art), 42 (Overize), 43 (Art), 44 (Oversize), 46-52 (Art), 53-56, 145 (Roll)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="388">388</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="721">721</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="389">389</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="721">721</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-16T23:05:06-04:00</eventdatetime>
+            <eventdatetime>2026-08-04T23:00:15-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 16, 2026 at 23:05</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August  4, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -45805,6 +45805,25 @@
                      <container id="aspace_ref3437_c2"
                                 localtype="item_barcode"
                                 parent="aspace_ref3437_c1">39002140886194</container>
+                     <daoset altrender="/repositories/11/digital_objects/351535">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/0p0wp9w52j"
+                             identifier="aviary_176459"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_176459"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Charles Bukowski reading in keeping Sheri 1961 August 24</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_7e742f6cd5e37c5bf449376bcb728937"
                                   localtype="RestrictedFragileSpecColl">

@@ -41,7 +41,7 @@
                <p>Boxes: 91, 295-296, 300-326, 500-511 (Oversize), 512-554 (Oversize), 555-628 (Broadside), 631, 633-634 (Roll), 642, 643 (Record album storage), 645-656 (Broadside)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1517">1,517</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="8341">8,341</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="1518">1,518</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="8346">8,346</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-17T23:00:50-04:00</eventdatetime>
+            <eventdatetime>2026-08-04T23:05:48-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 23:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August  4, 2026 at 23:05</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -106931,6 +106931,27 @@ Collections are processed to a variety of levels, depending on the work necessar
                              href="https://collections.library.yale.edu/catalog/33687553"
                              identifier="oid:33687553"
                              linktitle="2 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Bombay Bauhaus</p>
+                        </descriptivenote>
+                     </daoset>
+                     <daoset altrender="/repositories/11/digital_objects/351601">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33749010"
+                             linktitle="5 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33749010"
+                             identifier="oid:33749010"
+                             linktitle="5 images"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
