@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-26T18:03:05-04:00</eventdatetime>
+            <eventdatetime>2026-08-06T18:00:27-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June 26, 2026 at 18:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August  6, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -553,44 +553,400 @@
                      <container id="aspace_ref17_c2" localtype="folder" parent="aspace_ref17_c1">33-51</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/121551"
-                  id="ref18"
+               <c altrender="/repositories/4/archival_objects/4052431"
+                  id="aspace_99b34ea2e70b9b0b9033793ae7d8e93b"
                   level="file">
                   <did>
-                     <unittitle>Immedlate family</unittitle>
-                     <unitdatestructured altrender="1944 May-1954" label="creation" unitdatetype="inclusive">
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1944 May - July"
+                                         label="creation"
+                                         unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1944-05">1944 May</fromdate>
-                           <todate standarddate="1954-12">1954 December</todate>
+                           <todate standarddate="1944-07">1944 July</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/12457 /locations/9"
                                 containerid="39002038303484"
-                                id="aspace_ref18_c1"
+                                id="aspace_99b34ea2e70b9b0b9033793ae7d8e93b_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
-                     <container id="aspace_ref18_c2" localtype="folder" parent="aspace_ref18_c1">52-69</container>
+                     <container id="aspace_99b34ea2e70b9b0b9033793ae7d8e93b_c2"
+                                localtype="folder"
+                                parent="aspace_99b34ea2e70b9b0b9033793ae7d8e93b_c1">52</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/121552"
-                  id="ref19"
+               <c altrender="/repositories/4/archival_objects/4052434"
+                  id="aspace_f2a09115d5032d3a29c9571a5efe4419"
                   level="file">
                   <did>
                      <unittitle>Immediate family</unittitle>
-                     <unitdatestructured altrender="1955-1967, undated"
-                                         label="creation"
+                     <unitdatestructured altrender="1944 August - September"
+                                         label="other"
                                          unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="1955">1955</fromdate>
-                           <todate standarddate="1967">1967</todate>
+                           <fromdate standarddate="1944-08">1944 August</fromdate>
+                           <todate standarddate="1944-09">1944 September</todate>
                         </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_f2a09115d5032d3a29c9571a5efe4419_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_f2a09115d5032d3a29c9571a5efe4419_c2"
+                                localtype="folder"
+                                parent="aspace_f2a09115d5032d3a29c9571a5efe4419_c1">53</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052435"
+                  id="aspace_0854d657a90ab3657647f60c518b67c3"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1944 October - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1944-10">1944 October</fromdate>
+                           <todate standarddate="1944-12">1944 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_0854d657a90ab3657647f60c518b67c3_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_0854d657a90ab3657647f60c518b67c3_c2"
+                                localtype="folder"
+                                parent="aspace_0854d657a90ab3657647f60c518b67c3_c1">54</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052436"
+                  id="aspace_248bac9ce1ece01c7a8e1d126e4ed9af"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1945 January - April"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1945-01">1945 January</fromdate>
+                           <todate standarddate="1945-04">1945 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_248bac9ce1ece01c7a8e1d126e4ed9af_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_248bac9ce1ece01c7a8e1d126e4ed9af_c2"
+                                localtype="folder"
+                                parent="aspace_248bac9ce1ece01c7a8e1d126e4ed9af_c1">55</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052437"
+                  id="aspace_e2f41e020b978800b1cc7e934deb5234"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1945 May - June" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1945-05">1945 May</fromdate>
+                           <todate standarddate="1945-06">1945 June</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_e2f41e020b978800b1cc7e934deb5234_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_e2f41e020b978800b1cc7e934deb5234_c2"
+                                localtype="folder"
+                                parent="aspace_e2f41e020b978800b1cc7e934deb5234_c1">56</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052438"
+                  id="aspace_82814f73b63cb213678179bca370c407"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1945 July - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1945-07">1945 July</fromdate>
+                           <todate standarddate="1945-12">1945 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_82814f73b63cb213678179bca370c407_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_82814f73b63cb213678179bca370c407_c2"
+                                localtype="folder"
+                                parent="aspace_82814f73b63cb213678179bca370c407_c1">57</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052439"
+                  id="aspace_9111d65b1ae0452d84a30e0e9bc7eb5f"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1946 January - May"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1946-01">1946 January</fromdate>
+                           <todate standarddate="1946-05">1946 May</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_9111d65b1ae0452d84a30e0e9bc7eb5f_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_9111d65b1ae0452d84a30e0e9bc7eb5f_c2"
+                                localtype="folder"
+                                parent="aspace_9111d65b1ae0452d84a30e0e9bc7eb5f_c1">58</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052440"
+                  id="aspace_b07db1d8d93d51c93ef88adb79a20397"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1946 June - October"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1946-06">1946 June</fromdate>
+                           <todate standarddate="1946-10">1946 October</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_b07db1d8d93d51c93ef88adb79a20397_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_b07db1d8d93d51c93ef88adb79a20397_c2"
+                                localtype="folder"
+                                parent="aspace_b07db1d8d93d51c93ef88adb79a20397_c1">59</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052441"
+                  id="aspace_6c664f45eeb9bfb37743b72611241273"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1946 November - December"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1946-11">1946 November</fromdate>
+                           <todate standarddate="1946-12">1946 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_6c664f45eeb9bfb37743b72611241273_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_6c664f45eeb9bfb37743b72611241273_c2"
+                                localtype="folder"
+                                parent="aspace_6c664f45eeb9bfb37743b72611241273_c1">60</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052442"
+                  id="aspace_b35b090693743f516451d37d447f0dfe"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1947 January" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1947-01">1947 January</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_b35b090693743f516451d37d447f0dfe_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_b35b090693743f516451d37d447f0dfe_c2"
+                                localtype="folder"
+                                parent="aspace_b35b090693743f516451d37d447f0dfe_c1">61</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052443"
+                  id="aspace_c4e952a11905d3d5c67f6b3a9346cc60"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1947 February" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1947-02">1947 February</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_c4e952a11905d3d5c67f6b3a9346cc60_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_c4e952a11905d3d5c67f6b3a9346cc60_c2"
+                                localtype="folder"
+                                parent="aspace_c4e952a11905d3d5c67f6b3a9346cc60_c1">62</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052444"
+                  id="aspace_c32597b847ee9f3ebf4c1e148bab459c"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1947 March - April"
+                                         label="other"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1947-03">1947 March</fromdate>
+                           <todate standarddate="1947-04">1947 April</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_c32597b847ee9f3ebf4c1e148bab459c_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_c32597b847ee9f3ebf4c1e148bab459c_c2"
+                                localtype="folder"
+                                parent="aspace_c32597b847ee9f3ebf4c1e148bab459c_c1">63</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052445"
+                  id="aspace_a2a54727a49dd0faa1ff396cb20d082e"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1947 May - June" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1947-05">1947 May</fromdate>
+                           <todate standarddate="1947-06">1947 June</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_a2a54727a49dd0faa1ff396cb20d082e_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_a2a54727a49dd0faa1ff396cb20d082e_c2"
+                                localtype="folder"
+                                parent="aspace_a2a54727a49dd0faa1ff396cb20d082e_c1">64</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052446"
+                  id="aspace_770f5994f8dba8f9de455f9b0e2bbdbe"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1948-1949" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1948">1948</fromdate>
+                           <todate standarddate="1949">1949</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_770f5994f8dba8f9de455f9b0e2bbdbe_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_770f5994f8dba8f9de455f9b0e2bbdbe_c2"
+                                localtype="folder"
+                                parent="aspace_770f5994f8dba8f9de455f9b0e2bbdbe_c1">65</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052447"
+                  id="aspace_437bd6e343ab88df226dd3193d8b7b25"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1951" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1951">1951</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_437bd6e343ab88df226dd3193d8b7b25_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_437bd6e343ab88df226dd3193d8b7b25_c2"
+                                localtype="folder"
+                                parent="aspace_437bd6e343ab88df226dd3193d8b7b25_c1">66</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052448"
+                  id="aspace_35a2514a443eb57a3f8c8487992ba6d5"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1952" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1952">1952</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_35a2514a443eb57a3f8c8487992ba6d5_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_35a2514a443eb57a3f8c8487992ba6d5_c2"
+                                localtype="folder"
+                                parent="aspace_35a2514a443eb57a3f8c8487992ba6d5_c1">67</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052449"
+                  id="aspace_1e48bed2a970ad76f0ac759d91c771e8"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1953" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1953">1953</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_1e48bed2a970ad76f0ac759d91c771e8_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_1e48bed2a970ad76f0ac759d91c771e8_c2"
+                                localtype="folder"
+                                parent="aspace_1e48bed2a970ad76f0ac759d91c771e8_c1">68</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052450"
+                  id="aspace_ebcf05ab67a0501ba766f25517405fce"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1954" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1954">1954</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12457 /locations/9"
+                                containerid="39002038303484"
+                                id="aspace_ebcf05ab67a0501ba766f25517405fce_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_ebcf05ab67a0501ba766f25517405fce_c2"
+                                localtype="folder"
+                                parent="aspace_ebcf05ab67a0501ba766f25517405fce_c1">69</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052451"
+                  id="aspace_e81a692167305e933d881c4cc038f153"
+                  level="file">
+                  <did>
+                     <unittitle>Immediate family</unittitle>
+                     <unitdatestructured altrender="1955" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1955">1955</datesingle>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/12458 /locations/9"
                                 containerid="39002038303492"
-                                id="aspace_ref19_c1"
+                                id="aspace_e81a692167305e933d881c4cc038f153_c1"
                                 label="Mixed Materials"
                                 localtype="box">5</container>
-                     <container id="aspace_ref19_c2" localtype="folder" parent="aspace_ref19_c1">70-77</container>
+                     <container id="aspace_e81a692167305e933d881c4cc038f153_c2"
+                                localtype="folder"
+                                parent="aspace_e81a692167305e933d881c4cc038f153_c1">70</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/121553"

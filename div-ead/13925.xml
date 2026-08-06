@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-05T18:00:14-04:00</eventdatetime>
+            <eventdatetime>2026-08-06T18:00:32-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August  6, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2900,6 +2900,28 @@
                      <p>Brochure.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/4/archival_objects/4052459"
+                  id="aspace_ac23d6660246eeb6575fc7fd31b0615a"
+                  level="file">
+                  <did>
+                     <unittitle>China Christian Endeavour Union</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1925">1925</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484683 /locations/2"
+                                containerid="39002112327177"
+                                id="aspace_ac23d6660246eeb6575fc7fd31b0615a_c1"
+                                label="Mixed Materials"
+                                localtype="box">281</container>
+                     <container id="aspace_ac23d6660246eeb6575fc7fd31b0615a_c2"
+                                localtype="folder"
+                                parent="aspace_ac23d6660246eeb6575fc7fd31b0615a_c1">17</container>
+                  </did>
+                  <scopecontent id="aspace_1a0b16c128e9e92318b15cb2939daa26">
+                     <head>Scope and Contents</head>
+                     <p>Publications for fortieth anniversary of founding.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/4001304"
                   id="aspace_ecf64ac8a61eb5f7303fafdad1dc83b4"
                   level="file">
@@ -4675,6 +4697,28 @@
                   <scopecontent id="aspace_e4a8c8058bd5e3a8433cccc7d5e85585">
                      <head>Scope and Contents</head>
                      <p>100th anniversary booklet.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052432"
+                  id="aspace_c64f659b813abde022b72a537ac896f3"
+                  level="file">
+                  <did>
+                     <unittitle>Bethel Santhal Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1888">1888</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484683 /locations/2"
+                                containerid="39002112327177"
+                                id="aspace_c64f659b813abde022b72a537ac896f3_c1"
+                                label="Mixed Materials"
+                                localtype="box">281</container>
+                     <container id="aspace_c64f659b813abde022b72a537ac896f3_c2"
+                                localtype="folder"
+                                parent="aspace_c64f659b813abde022b72a537ac896f3_c1">16</container>
+                  </did>
+                  <scopecontent id="aspace_963f67f8f8e00f34910ce610e44fd42c">
+                     <head>Scope and Contents</head>
+                     <p>Leaflet</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4001697"
@@ -6660,7 +6704,9 @@
                   </did>
                   <scopecontent id="aspace_2606e8af4ce252f01f32cadabbf81048">
                      <head>Scope and Contents</head>
-                     <p>Brochures, newsletters, reports.</p>
+                     <p>Brochures, newsletters, reports, issues of <title>
+                           <part>Prayer Bell</part>
+                        </title> newsletter.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4003155"
@@ -23924,6 +23970,22 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                         <p>See also under Missionary education programs and literature: resources for pastors.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052460"
+                     id="aspace_4df09dca6b7e1fc92e57fe7996ef6274"
+                     level="file">
+                     <did>
+                        <unittitle>Copy of handwritten catalogue of library of the American Board of Commissioners for Foreign Missions</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/484683 /locations/2"
+                                   containerid="39002112327177"
+                                   id="aspace_4df09dca6b7e1fc92e57fe7996ef6274_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">281</container>
+                        <container id="aspace_4df09dca6b7e1fc92e57fe7996ef6274_c2"
+                                   localtype="folder"
+                                   parent="aspace_4df09dca6b7e1fc92e57fe7996ef6274_c1">18</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/4025209"
                   id="aspace_8f54bbb191158e3abbe61760cefc606a"
@@ -27318,9 +27380,12 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                      id="aspace_a2f8a07af866028b0e142dfb09b0cf58"
                      level="file">
                      <did>
-                        <unittitle>General Association of Connecticut, Committee on Home Evangelization</unittitle>
+                        <unittitle>General Association of Connecticut, Committee on Home Evangelization and Connecticut Home Missionary Society</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1860">1860</datesingle>
+                           <daterange>
+                              <fromdate standarddate="1860">1860</fromdate>
+                              <todate standarddate="1865">1865</todate>
+                           </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/466380 /locations/9"
                                    containerid="39002112326658"
