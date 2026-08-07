@@ -40,7 +40,10 @@
             </controlnote>
             <controlnote localtype="offsite">
                <p>Boxes: 1-50, 50a, 50b, 50c, 50d, 50e, 50f, 50g, 50h, 50i, 50j, 50k-52, 62, 93-94</p>
-               <p>Reels: 1-3</p>
+               <p>Reel: 2D</p>
+            </controlnote>
+            <controlnote localtype="onsite">
+               <p>Reels: 1D, 1U, 3D</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="610">610</num> digital files.</p>
@@ -73,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-01-21T20:00:32-05:00</eventdatetime>
+            <eventdatetime>2026-08-06T20:00:24-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday January 21, 2026 at 20:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August  6, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -28879,8 +28882,12 @@
             </did>
             <odd id="aspace_75967701062527a26eadc143e5e552d4">
                <head>General</head>
-               <p>The scrapbooks are arranged in the order in which they were microfilmed, and the microfilm numbers are indicated in the left-hand column. Since the filming certain valuable and preservable items have been removed from the scrapbooks and added to folders in appropriate places.</p>
+               <p>The scrapbooks are arranged in the order in which they were microfilmed. Since the filming certain valuable and preservable items have been removed from the scrapbooks and added to folders in appropriate places.</p>
             </odd>
+            <accessrestrict id="aspace_50c5d2085d35bf8f0daee1a7f0c10ddf" localtype="UseSurrogate">
+               <head>Conditions Governing Access</head>
+               <p>Duplicating negataives, designated by suffix D in the reel number, may only be used for duplication. Researchers must use access copies, designated by suffix U.</p>
+            </accessrestrict>
             <c altrender="/repositories/6/archival_objects/2546014"
                id="aspace_s3r1.d0e32354"
                level="item">
@@ -28903,11 +28910,17 @@
                                       unitdatetype="inclusive">
                      <datesingle standarddate="1916">1916</datesingle>
                   </unitdatestructured>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32354_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
+                  <container altrender="/repositories/6/top_containers/484711"
+                             containerid="39002138950382"
+                             encodinganalog="microfilm box"
+                             id="aspace_s3r1.d0e32354_c2"
+                             label="Mixed Materials"
+                             localtype="reel">1D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546015"
@@ -28932,11 +28945,11 @@
                      <datesingle standarddate="1925">1925</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_dc2372a0d14abd64644ad5aba00a9254">23 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32381_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546016"
@@ -28968,11 +28981,11 @@
                      </daterange>
                   </unitdatestructured>
                   <physdesc id="aspace_c15c18c89b61c7ced3ee5c82c387d5c0">70 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32408_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546017"
@@ -29004,11 +29017,11 @@
                      </daterange>
                   </unitdatestructured>
                   <physdesc id="aspace_8fd7a0422b7059314a27aba3e21af0cd">80 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32437_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546018"
@@ -29033,11 +29046,11 @@
                                       unitdatetype="inclusive">
                      <datesingle standarddate="1930">1930</datesingle>
                   </unitdatestructured>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32466_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
                <odd id="aspace_e15f3372373f86969949c73dfef3dc44">
                   <head>General</head>
@@ -29067,11 +29080,11 @@
                      <datesingle standarddate="1930">1930</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_26de5bce3c15e6852235940d66050105">139 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32499_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546020"
@@ -29097,11 +29110,11 @@
                      <datesingle standarddate="1932">1932</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_ba39d01c45b380243233201faf34c6b4">91 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32528_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546021"
@@ -29127,11 +29140,11 @@
                      <datesingle standarddate="1933">1933</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_6d02c35ddb03486583858e289a27a6b8">103 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32557_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546022"
@@ -29157,11 +29170,11 @@
                      <datesingle standarddate="1934">1934</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_7f276e9422866290d96fc9487f2f9e4c">186 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32586_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546023"
@@ -29193,11 +29206,11 @@
                      </daterange>
                   </unitdatestructured>
                   <physdesc id="aspace_eb6eb1eba3c963cd931592a88cf7ddce">65 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32615_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546024"
@@ -29223,11 +29236,11 @@
                      <datesingle standarddate="1936">1936</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_1dfc7f0d69130aa8e14757be048c8164">80 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32647_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546025"
@@ -29253,11 +29266,11 @@
                      <datesingle standarddate="1936">1936</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_ec7012fd47b4e65237e531a8d7b7a9a9">72 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32676_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546026"
@@ -29289,11 +29302,11 @@
                      </daterange>
                   </unitdatestructured>
                   <physdesc id="aspace_6f0dbe09cc2d9111339dc975f5ce01e3">74 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32705_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546027"
@@ -29319,11 +29332,11 @@
                      <datesingle standarddate="1938">1938</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_af2e3ae63c660b6818ad57cabf713328">77 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32737_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546028"
@@ -29349,11 +29362,11 @@
                      <datesingle standarddate="1939">1939</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_ae1ca09161971d7cff9501d6387bdf24">101 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32766_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546029"
@@ -29379,11 +29392,11 @@
                      <datesingle standarddate="1940">1940</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_89e87b73f9529638485a85a2dbde67d0">63 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32795_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546030"
@@ -29409,11 +29422,11 @@
                      <datesingle standarddate="1941">1941</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_21118851cb0b1c0ce6720e2a45d8c8ab">77 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300409 /locations/9"
-                             containerid="39002124167330"
+                  <container altrender="/repositories/6/top_containers/300409 /locations/32"
+                             containerid="39002138956280"
                              id="aspace_s3r1.d0e32824_c1"
                              label="Mixed Materials"
-                             localtype="reel">1</container>
+                             localtype="reel">1U</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546031"
@@ -29440,10 +29453,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_848f1a18d5ba70e3e3bd512b5ffee250">107 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e32856_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546032"
@@ -29470,10 +29483,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_4781485548eae238e5212a5a130f8c1b">66 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e32888_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546033"
@@ -29507,10 +29520,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_14f28cb8e0e4296f0b5e66730aaf2a72">108 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e32917_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546034"
@@ -29537,10 +29550,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_ef347d87b1c2c749308eff3ec884edb1">64 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e32951_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546035"
@@ -29551,10 +29564,10 @@
                   <unitid>21</unitid>
                   <physdesc id="aspace_d0ef85bd43fa57fc92a9a251aaad2927">205 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e32980_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
                <odd id="aspace_fe78351bd8cd39b0558d6c1cd51d5c13">
                   <head>General</head>
@@ -29595,10 +29608,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_f230f774c6f5e59e1ab91b24db56525c">157 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e33027_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546037"
@@ -29653,10 +29666,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_fa72aeb24fc3d5dae2f2bd67173220a2">80 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e33084_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546039"
@@ -29683,10 +29696,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_b9905b1a32cf79bec8459fa2f3e3968e">68 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e33113_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546040"
@@ -29713,10 +29726,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_6cbfdba7a8c5059110aa0492a03bce78">173 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e33142_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546041"
@@ -29743,10 +29756,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_217b4682054359fbb04fc2619f4122d9">243 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e33171_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546042"
@@ -29773,10 +29786,10 @@
                   </unitdatestructured>
                   <physdesc id="aspace_13c9dbb03311ded0b0d8c99915d9db5f">130 pages</physdesc>
                   <container altrender="/repositories/6/top_containers/300410 /locations/9"
-                             containerid="39002124167348"
+                             containerid="39002138950374"
                              id="aspace_s3r2.d0e33200_c1"
                              label="Mixed Materials"
-                             localtype="reel">2</container>
+                             localtype="reel">2D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546043"
@@ -29802,11 +29815,12 @@
                      <datesingle standarddate="1953">1953</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_91de009ecb185291dbb5b69ae46d9b1d">118 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300411 /locations/9"
-                             containerid="39002124167355"
+                  <container altrender="/repositories/6/top_containers/300411"
+                             containerid="39002138950390"
+                             encodinganalog="microfilm box"
                              id="aspace_s3r3.d0e33229_c1"
                              label="Mixed Materials"
-                             localtype="reel">3</container>
+                             localtype="reel">3D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546044"
@@ -29832,11 +29846,12 @@
                      <datesingle standarddate="1955">1955</datesingle>
                   </unitdatestructured>
                   <physdesc id="aspace_950aa70938eb4126b56ca6414686dbc0">108 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300411 /locations/9"
-                             containerid="39002124167355"
+                  <container altrender="/repositories/6/top_containers/300411"
+                             containerid="39002138950390"
+                             encodinganalog="microfilm box"
                              id="aspace_s3r3.d0e33258_c1"
                              label="Mixed Materials"
-                             localtype="reel">3</container>
+                             localtype="reel">3D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546045"
@@ -29846,11 +29861,12 @@
                   <unittitle>Personal scrapbooks: celebrities &amp; trips</unittitle>
                   <unitid>31</unitid>
                   <physdesc id="aspace_67f350a78081ae2dfd77f7e43d3de811">125 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300411 /locations/9"
-                             containerid="39002124167355"
+                  <container altrender="/repositories/6/top_containers/300411"
+                             containerid="39002138950390"
+                             encodinganalog="microfilm box"
                              id="aspace_s3r3.d0e33287_c1"
                              label="Mixed Materials"
-                             localtype="reel">3</container>
+                             localtype="reel">3D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546046"
@@ -29860,11 +29876,12 @@
                   <unittitle>Personal scrapbooks: celebrities &amp; trips</unittitle>
                   <unitid>32</unitid>
                   <physdesc id="aspace_d3e0331edda34138c67c8f85c1ff699d">102 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300411 /locations/9"
-                             containerid="39002124167355"
+                  <container altrender="/repositories/6/top_containers/300411"
+                             containerid="39002138950390"
+                             encodinganalog="microfilm box"
                              id="aspace_s3r3.d0e33311_c1"
                              label="Mixed Materials"
-                             localtype="reel">3</container>
+                             localtype="reel">3D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546047"
@@ -29874,11 +29891,12 @@
                   <unittitle>Personal scrapbooks: celebrities &amp; trips</unittitle>
                   <unitid>33</unitid>
                   <physdesc id="aspace_6eb062e9c0a8d4981db52821f0e39a23">88 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300411 /locations/9"
-                             containerid="39002124167355"
+                  <container altrender="/repositories/6/top_containers/300411"
+                             containerid="39002138950390"
+                             encodinganalog="microfilm box"
                              id="aspace_s3r3.d0e33335_c1"
                              label="Mixed Materials"
-                             localtype="reel">3</container>
+                             localtype="reel">3D</container>
                </did>
             </c>
             <c altrender="/repositories/6/archival_objects/2546048"
@@ -29888,11 +29906,12 @@
                   <unittitle>Personal scrapbooks: celebrities &amp; trips</unittitle>
                   <unitid>34</unitid>
                   <physdesc id="aspace_dfd8dc7d27fb664fdd158885ff3c6906">112 pages</physdesc>
-                  <container altrender="/repositories/6/top_containers/300411 /locations/9"
-                             containerid="39002124167355"
+                  <container altrender="/repositories/6/top_containers/300411"
+                             containerid="39002138950390"
+                             encodinganalog="microfilm box"
                              id="aspace_s3r3.d0e33359_c1"
                              label="Mixed Materials"
-                             localtype="reel">3</container>
+                             localtype="reel">3D</container>
                </did>
             </c>
          </c>
