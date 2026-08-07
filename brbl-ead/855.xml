@@ -44,7 +44,7 @@
             </controlnote>
             <controlnote localtype="onsite">
                <p>Boxes: 27, 32-40, 48 Oversize, 50 Broadside folder-60 Object storage, 73, 106-110, 112-118 Oversize, 131 Oversize-143 Framed art
-                        storage, 143a Framed art storage-159 Object storage, 162-164, 166</p>
+                        storage, 143a Framed art storage-159 Object storage, 162-164, 166, 230-231</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="21">21</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="98">98</num> digital files.</p>
@@ -77,10 +77,24 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-15T23:09:27-05:00</eventdatetime>
+            <eventdatetime>2026-08-06T23:00:29-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday December 15, 2025 at 23:09</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August  6, 2026 at 23:00</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2015-11-10</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>[Revision description not specified]</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2010-02-10</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Transformed with yale.addEadidUrl.xsl. Adds @url with handle for finding aid. Overwrites @url if already present. </eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11706,6 +11720,1385 @@
                                 localtype="box">167</container>
                   </did>
                </c>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/3180040"
+            id="aspace_c713f133ebc336fe8898fe5f069bef58"
+            level="series">
+            <did>
+               <unittitle>Additional material</unittitle>
+            </did>
+            <accessrestrict id="aspace_62515155ecdff9b38dc41abead89c419"
+                            localtype="RestrictedCurApprSpecColl">
+               <head>Conditions Governing Access</head>
+               <p>Restricted pending full processing. Access to specific items may be requested. For further information consult the appropriate curator.</p>
+            </accessrestrict>
+            <c altrender="/repositories/11/archival_objects/3180041"
+               id="aspace_e13103fb98b01cdea4649d338aa91b15"
+               level="file">
+               <did>
+                  <unittitle>Subject Files</unittitle>
+                  <unitdatestructured altrender="circa 1940s-1990s"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1940">1940</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <c altrender="/repositories/11/archival_objects/3180058"
+                  id="aspace_961b13ee8a5797588bb14fb61e248c3b"
+                  level="file">
+                  <did>
+                     <unittitle>A-Ba</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364736 /locations/9"
+                                containerid="39002104810610"
+                                id="aspace_961b13ee8a5797588bb14fb61e248c3b_c1"
+                                label="Mixed Materials"
+                                localtype="box">168</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180059"
+                  id="aspace_03861dcb888b7a309c56ea0a022703c5"
+                  level="file">
+                  <did>
+                     <unittitle>Be-Boo</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364737 /locations/9"
+                                containerid="39002104810628"
+                                id="aspace_03861dcb888b7a309c56ea0a022703c5_c1"
+                                label="Mixed Materials"
+                                localtype="box">169</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180060"
+                  id="aspace_61262cdfc597ad19be20607f815c66bd"
+                  level="file">
+                  <did>
+                     <unittitle>Bor-Bun</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364738 /locations/9"
+                                containerid="39002104810636"
+                                id="aspace_61262cdfc597ad19be20607f815c66bd_c1"
+                                label="Mixed Materials"
+                                localtype="box">170</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180061"
+                  id="aspace_df5d77dc10eb182e8139d8733e84bc01"
+                  level="file">
+                  <did>
+                     <unittitle>Bus-Car</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364739 /locations/9"
+                                containerid="39002104810644"
+                                id="aspace_df5d77dc10eb182e8139d8733e84bc01_c1"
+                                label="Mixed Materials"
+                                localtype="box">171</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180062"
+                  id="aspace_0a8e5ab1808a0d3d97c03e9d2b0286aa"
+                  level="file">
+                  <did>
+                     <unittitle>Cas-C.I.A.</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364740 /locations/9"
+                                containerid="39002104810651"
+                                id="aspace_0a8e5ab1808a0d3d97c03e9d2b0286aa_c1"
+                                label="Mixed Materials"
+                                localtype="box">172</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180063"
+                  id="aspace_924c6b254c271e767571f1931229db41"
+                  level="file">
+                  <did>
+                     <unittitle>C.I.A.-Cliff</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364741 /locations/9"
+                                containerid="39002104810669"
+                                id="aspace_924c6b254c271e767571f1931229db41_c1"
+                                label="Mixed Materials"
+                                localtype="box">173</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180064"
+                  id="aspace_7db477fa9dbb1c13842fddb49dd5c7bb"
+                  level="file">
+                  <did>
+                     <unittitle>Clift-Conf</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364742 /locations/9"
+                                containerid="39002104810677"
+                                id="aspace_7db477fa9dbb1c13842fddb49dd5c7bb_c1"
+                                label="Mixed Materials"
+                                localtype="box">174</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180065"
+                  id="aspace_09e54a2a4a31e32e469104b66db5eb90"
+                  level="file">
+                  <did>
+                     <unittitle>Cons-Cve</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364743 /locations/9"
+                                containerid="39002104810685"
+                                id="aspace_09e54a2a4a31e32e469104b66db5eb90_c1"
+                                label="Mixed Materials"
+                                localtype="box">175</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180066"
+                  id="aspace_b2052a315962e80837025b55f06e2e97"
+                  level="file">
+                  <did>
+                     <unittitle>Dan-Dul</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364744 /locations/9"
+                                containerid="39002104810693"
+                                id="aspace_b2052a315962e80837025b55f06e2e97_c1"
+                                label="Mixed Materials"
+                                localtype="box">176</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180067"
+                  id="aspace_97fa223390cdffe00d3524f2f709f653"
+                  level="file">
+                  <did>
+                     <unittitle>Dul-Dz</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364745 /locations/9"
+                                containerid="39002104810701"
+                                id="aspace_97fa223390cdffe00d3524f2f709f653_c1"
+                                label="Mixed Materials"
+                                localtype="box">177</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180068"
+                  id="aspace_33e164c8490eec99d6801a70cdd8bd7d"
+                  level="file">
+                  <did>
+                     <unittitle>Ein-Gaz</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364746 /locations/9"
+                                containerid="39002104810719"
+                                id="aspace_33e164c8490eec99d6801a70cdd8bd7d_c1"
+                                label="Mixed Materials"
+                                localtype="box">178</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180069"
+                  id="aspace_49f05c0c0f69c325995bf86d44abc653"
+                  level="file">
+                  <did>
+                     <unittitle>Gla-Hart</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364747 /locations/9"
+                                containerid="39002104810727"
+                                id="aspace_49f05c0c0f69c325995bf86d44abc653_c1"
+                                label="Mixed Materials"
+                                localtype="box">179</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180070"
+                  id="aspace_fa97760e76768577d2ed0ff21666d5d3"
+                  level="file">
+                  <did>
+                     <unittitle>Harv-Huy</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364748 /locations/9"
+                                containerid="39002104810735"
+                                id="aspace_fa97760e76768577d2ed0ff21666d5d3_c1"
+                                label="Mixed Materials"
+                                localtype="box">180</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180071"
+                  id="aspace_9dacfce098ce5338dc1006657fb6318c"
+                  level="file">
+                  <did>
+                     <unittitle>Inm-Joh</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364749 /locations/9"
+                                containerid="39002104810743"
+                                id="aspace_9dacfce098ce5338dc1006657fb6318c_c1"
+                                label="Mixed Materials"
+                                localtype="box">181</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180072"
+                  id="aspace_2538ab598207360d3790d892a69173c1"
+                  level="file">
+                  <did>
+                     <unittitle>Jon-Kno</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364750 /locations/9"
+                                containerid="39002104810750"
+                                id="aspace_2538ab598207360d3790d892a69173c1_c1"
+                                label="Mixed Materials"
+                                localtype="box">182</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180054"
+                  id="aspace_be7f1eb0036b41d1aca59b14ca074bb9"
+                  level="file">
+                  <did>
+                     <unittitle>Knopf</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364798 /locations/9"
+                                containerid="39002099300023"
+                                id="aspace_be7f1eb0036b41d1aca59b14ca074bb9_c1"
+                                label="Mixed Materials"
+                                localtype="box">182A</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180073"
+                  id="aspace_2b4e8f4e0020bd2481da59ba8870ce94"
+                  level="file">
+                  <did>
+                     <unittitle>Kol-Kuc</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364751 /locations/9"
+                                containerid="39002104810768"
+                                id="aspace_2b4e8f4e0020bd2481da59ba8870ce94_c1"
+                                label="Mixed Materials"
+                                localtype="box">183</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180056"
+                  id="aspace_97b5b5b47e8c6346e64b3ed82fd3bf4f"
+                  level="file">
+                  <did>
+                     <unittitle>Lam-Mas</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364800 /locations/9"
+                                containerid="39002099300031"
+                                id="aspace_97b5b5b47e8c6346e64b3ed82fd3bf4f_c1"
+                                label="Mixed Materials"
+                                localtype="box">183A</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180074"
+                  id="aspace_5f93a5cfda896a29a5ef975b66f2513d"
+                  level="file">
+                  <did>
+                     <unittitle>Mau-Mya</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364752 /locations/9"
+                                containerid="39002104810776"
+                                id="aspace_5f93a5cfda896a29a5ef975b66f2513d_c1"
+                                label="Mixed Materials"
+                                localtype="box">184</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180075"
+                  id="aspace_0afa9515a86f13e5c724571f35ccbf0a"
+                  level="file">
+                  <did>
+                     <unittitle>Naf-New</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364753 /locations/9"
+                                containerid="39002104810784"
+                                id="aspace_0afa9515a86f13e5c724571f35ccbf0a_c1"
+                                label="Mixed Materials"
+                                localtype="box">185</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180055"
+                  id="aspace_a80b34c82ba75448d8b62e7657dfcf25"
+                  level="file">
+                  <did>
+                     <unittitle>Nic-Pat</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364799 /locations/9"
+                                containerid="39002099300049"
+                                id="aspace_a80b34c82ba75448d8b62e7657dfcf25_c1"
+                                label="Mixed Materials"
+                                localtype="box">185A</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180076"
+                  id="aspace_71b156f54b20bd0fd76089968c14b052"
+                  level="file">
+                  <did>
+                     <unittitle>Pea-Pla</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364754 /locations/9"
+                                containerid="39002104810792"
+                                id="aspace_71b156f54b20bd0fd76089968c14b052_c1"
+                                label="Mixed Materials"
+                                localtype="box">186</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180077"
+                  id="aspace_4ae24d3e36a7be583c5c05d28bd0adba"
+                  level="file">
+                  <did>
+                     <unittitle>Pol-Rei</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364755 /locations/9"
+                                containerid="39002104810800"
+                                id="aspace_4ae24d3e36a7be583c5c05d28bd0adba_c1"
+                                label="Mixed Materials"
+                                localtype="box">187</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180078"
+                  id="aspace_db0a3d4194f04f8d9b93114e0b4f5b6f"
+                  level="file">
+                  <did>
+                     <unittitle>Rob-Roy</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364756 /locations/9"
+                                containerid="39002104810818"
+                                id="aspace_db0a3d4194f04f8d9b93114e0b4f5b6f_c1"
+                                label="Mixed Materials"
+                                localtype="box">188</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180079"
+                  id="aspace_841f2880c7e5a48a8afea17a944bda68"
+                  level="file">
+                  <did>
+                     <unittitle>Roy-Sor</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364757 /locations/9"
+                                containerid="39002104810826"
+                                id="aspace_841f2880c7e5a48a8afea17a944bda68_c1"
+                                label="Mixed Materials"
+                                localtype="box">189</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180057"
+                  id="aspace_bfa0e29afe0ad5687ff093d1419fd4e0"
+                  level="file">
+                  <did>
+                     <unittitle>Sor</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364801 /locations/9"
+                                containerid="39002099300056"
+                                id="aspace_bfa0e29afe0ad5687ff093d1419fd4e0_c1"
+                                label="Mixed Materials"
+                                localtype="box">189A</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180080"
+                  id="aspace_1b1fc7d405c02538fa4e0554fe5c6573"
+                  level="file">
+                  <did>
+                     <unittitle>Sov-Tid</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364758 /locations/9"
+                                containerid="39002104810834"
+                                id="aspace_1b1fc7d405c02538fa4e0554fe5c6573_c1"
+                                label="Mixed Materials"
+                                localtype="box">190</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180081"
+                  id="aspace_c5def856319d4027951067d735b4af36"
+                  level="file">
+                  <did>
+                     <unittitle>To-U.S.</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364759 /locations/9"
+                                containerid="39002104810842"
+                                id="aspace_c5def856319d4027951067d735b4af36_c1"
+                                label="Mixed Materials"
+                                localtype="box">191</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180082"
+                  id="aspace_8a05f9466a2bcfefba9919146ce4ee88"
+                  level="file">
+                  <did>
+                     <unittitle>U.S. Congress</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364760 /locations/9"
+                                containerid="39002104810859"
+                                id="aspace_8a05f9466a2bcfefba9919146ce4ee88_c1"
+                                label="Mixed Materials"
+                                localtype="box">192</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180083"
+                  id="aspace_5c30bc08dda84eff1a0b718a2290cdd2"
+                  level="file">
+                  <did>
+                     <unittitle>U.S. Congress-U.S. Naval Institute</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364761 /locations/9"
+                                containerid="39002104810867"
+                                id="aspace_5c30bc08dda84eff1a0b718a2290cdd2_c1"
+                                label="Mixed Materials"
+                                localtype="box">193</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180084"
+                  id="aspace_a2c46430f533d7172d188a1d46fa7a32"
+                  level="file">
+                  <did>
+                     <unittitle>U.S. Department of Justice-U.S. Department of State</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364762 /locations/9"
+                                containerid="39002104810875"
+                                id="aspace_a2c46430f533d7172d188a1d46fa7a32_c1"
+                                label="Mixed Materials"
+                                localtype="box">194</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180085"
+                  id="aspace_63db1b5704bcf3a9cc9f115717cd796c"
+                  level="file">
+                  <did>
+                     <unittitle>U.S. Office of Strategic Services (O.S.S.)-Union of Soviet Socialist Republics (U.S.S.R.)</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364763 /locations/9"
+                                containerid="39002104810883"
+                                id="aspace_63db1b5704bcf3a9cc9f115717cd796c_c1"
+                                label="Mixed Materials"
+                                localtype="box">195</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180086"
+                  id="aspace_60a65e975831a480558e91a62ff2d6ac"
+                  level="file">
+                  <did>
+                     <unittitle>Van-Fourth Venona Release</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364764 /locations/9"
+                                containerid="39002104810925"
+                                id="aspace_60a65e975831a480558e91a62ff2d6ac_c1"
+                                label="Mixed Materials"
+                                localtype="box">196</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180087"
+                  id="aspace_4cc88d1e019370dc7f885ec9b7bdcb5d"
+                  level="file">
+                  <did>
+                     <unittitle>Fourth Venona Release (1 of 2)</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364765 /locations/9"
+                                containerid="39002104810933"
+                                id="aspace_4cc88d1e019370dc7f885ec9b7bdcb5d_c1"
+                                label="Mixed Materials"
+                                localtype="box">197</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180088"
+                  id="aspace_0178ca718cc75e607cb0b12e1485a52a"
+                  level="file">
+                  <did>
+                     <unittitle>Fourth Venona Release (2 of 2)</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364766 /locations/9"
+                                containerid="39002104810917"
+                                id="aspace_0178ca718cc75e607cb0b12e1485a52a_c1"
+                                label="Mixed Materials"
+                                localtype="box">198</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180089"
+                  id="aspace_7af7d007dea7bd1eef9216b76e188e95"
+                  level="file">
+                  <did>
+                     <unittitle>Ven-Wal</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364767 /locations/9"
+                                containerid="39002104810909"
+                                id="aspace_7af7d007dea7bd1eef9216b76e188e95_c1"
+                                label="Mixed Materials"
+                                localtype="box">199</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180090"
+                  id="aspace_99d0d05e09146765d94e38b5b9ed329d"
+                  level="file">
+                  <did>
+                     <unittitle>Wal-Wen</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364768 /locations/9"
+                                containerid="39002104810891"
+                                id="aspace_99d0d05e09146765d94e38b5b9ed329d_c1"
+                                label="Mixed Materials"
+                                localtype="box">200</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180091"
+                  id="aspace_5716555303ea4a7579f5c40269e56f27"
+                  level="file">
+                  <did>
+                     <unittitle>Wen-Wy</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364769 /locations/9"
+                                containerid="39002104810602"
+                                id="aspace_5716555303ea4a7579f5c40269e56f27_c1"
+                                label="Mixed Materials"
+                                localtype="box">201</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180092"
+                  id="aspace_baf511513526a34778f57fa7ad97ca01"
+                  level="file">
+                  <did>
+                     <unittitle>Press Statements on C.I.A. and Subject of Intelligence</unittitle>
+                     <unitdatestructured altrender="circa 1940s-1990s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364770 /locations/9"
+                                containerid="39002104810594"
+                                id="aspace_baf511513526a34778f57fa7ad97ca01_c1"
+                                label="Mixed Materials"
+                                localtype="box">202</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180093"
+                  id="aspace_73ece7d29780208f68b36aa1752ae4dd"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Command Decision</part>
+                        </title> (film)</unittitle>
+                     <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1949">1949</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364771 /locations/9"
+                                containerid="39002104810362"
+                                id="aspace_73ece7d29780208f68b36aa1752ae4dd_c1"
+                                label="Mixed Materials"
+                                localtype="box">225</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180094"
+                  id="aspace_fb21f96bb02bfc23d2261cd08b017467"
+                  level="file">
+                  <did>
+                     <unittitle>Secret Agent File</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/364771 /locations/9"
+                                containerid="39002104810362"
+                                id="aspace_fb21f96bb02bfc23d2261cd08b017467_c1"
+                                label="Mixed Materials"
+                                localtype="box">225</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180042"
+               id="aspace_81d2980ffe9b465ae234dd8e91aa6f30"
+               level="file">
+               <did>
+                  <unittitle>C.I.A. Clippings</unittitle>
+               </did>
+               <c altrender="/repositories/11/archival_objects/3180095"
+                  id="aspace_05488d9ff6f2b07fdc7683ae660d8158"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1909-1950 June"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1909">1909</fromdate>
+                           <todate standarddate="1950">1950</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364772 /locations/9"
+                                containerid="39002104810586"
+                                id="aspace_05488d9ff6f2b07fdc7683ae660d8158_c1"
+                                label="Mixed Materials"
+                                localtype="box">203</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180096"
+                  id="aspace_82c53bc83b59bf3a19582436448e80d5"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1950 July-1953 December"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1950">1950</fromdate>
+                           <todate standarddate="1953">1953</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364773 /locations/9"
+                                containerid="39002104810578"
+                                id="aspace_82c53bc83b59bf3a19582436448e80d5_c1"
+                                label="Mixed Materials"
+                                localtype="box">204</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180097"
+                  id="aspace_2a32db1714db5b3fc5e86bf4b5a7223b"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1954 January-1957 June"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1954">1954</fromdate>
+                           <todate standarddate="1957">1957</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364774 /locations/9"
+                                containerid="39002104810560"
+                                id="aspace_2a32db1714db5b3fc5e86bf4b5a7223b_c1"
+                                label="Mixed Materials"
+                                localtype="box">205</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180098"
+                  id="aspace_f68361fbc14470e5ca0dbc9f4b505695"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1957 July-1961 December"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1957">1957</fromdate>
+                           <todate standarddate="1961">1961</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364775 /locations/9"
+                                containerid="39002104810552"
+                                id="aspace_f68361fbc14470e5ca0dbc9f4b505695_c1"
+                                label="Mixed Materials"
+                                localtype="box">206</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180099"
+                  id="aspace_3e669565932a8680c40f5261de07aa67"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1977–1979" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1977">1977</fromdate>
+                           <todate standarddate="1979">1979</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364776 /locations/9"
+                                containerid="39002104810545"
+                                id="aspace_3e669565932a8680c40f5261de07aa67_c1"
+                                label="Mixed Materials"
+                                localtype="box">207</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180100"
+                  id="aspace_66c1e1123d7ad0962391cb39ecead5a8"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1980–1981" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1980">1980</fromdate>
+                           <todate standarddate="1981">1981</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364777 /locations/9"
+                                containerid="39002104810537"
+                                id="aspace_66c1e1123d7ad0962391cb39ecead5a8_c1"
+                                label="Mixed Materials"
+                                localtype="box">208</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180101"
+                  id="aspace_889f324a654e29d04736423765be28ab"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1981 September-1982"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1981">1981</fromdate>
+                           <todate standarddate="1982">1982</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364778 /locations/9"
+                                containerid="39002104810529"
+                                id="aspace_889f324a654e29d04736423765be28ab_c1"
+                                label="Mixed Materials"
+                                localtype="box">209</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180102"
+                  id="aspace_b463aaae02535e7db52b6512c9ad6602"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1983-1984 August"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1983">1983</fromdate>
+                           <todate standarddate="1984">1984</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364779 /locations/9"
+                                containerid="39002104810511"
+                                id="aspace_b463aaae02535e7db52b6512c9ad6602_c1"
+                                label="Mixed Materials"
+                                localtype="box">210</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180103"
+                  id="aspace_a1399f2cf480ed516ead879fbb85fafa"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1984 September-1985 September"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1984">1984</fromdate>
+                           <todate standarddate="1985">1985</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364780 /locations/9"
+                                containerid="39002104810503"
+                                id="aspace_a1399f2cf480ed516ead879fbb85fafa_c1"
+                                label="Mixed Materials"
+                                localtype="box">211</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180104"
+                  id="aspace_67b65eac93117aaee1ab9479b006cfd6"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1985 October-1986"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1985">1985</fromdate>
+                           <todate standarddate="1986">1986</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364781 /locations/9"
+                                containerid="39002104810495"
+                                id="aspace_67b65eac93117aaee1ab9479b006cfd6_c1"
+                                label="Mixed Materials"
+                                localtype="box">212</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180105"
+                  id="aspace_2a35412377d6cfa5b7c13c25d212ce9e"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1987-1988 July"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1987">1987</fromdate>
+                           <todate standarddate="1988">1988</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364782 /locations/9"
+                                containerid="39002104810487"
+                                id="aspace_2a35412377d6cfa5b7c13c25d212ce9e_c1"
+                                label="Mixed Materials"
+                                localtype="box">213</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180106"
+                  id="aspace_285cd5e7a52882d8d41fc18b22fa1ac3"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1988 July-1989"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1988">1988</fromdate>
+                           <todate standarddate="1989">1989</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364783 /locations/9"
+                                containerid="39002104810479"
+                                id="aspace_285cd5e7a52882d8d41fc18b22fa1ac3_c1"
+                                label="Mixed Materials"
+                                localtype="box">214</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180107"
+                  id="aspace_8a02216ac54cc4634777d9c66cc5119a"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1990–1992" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1990">1990</fromdate>
+                           <todate standarddate="1992">1992</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364784 /locations/9"
+                                containerid="39002104810461"
+                                id="aspace_8a02216ac54cc4634777d9c66cc5119a_c1"
+                                label="Mixed Materials"
+                                localtype="box">215</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180108"
+                  id="aspace_514ed4fa34ec5045b9cb03bb67b10a88"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1993–1994" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1993">1993</fromdate>
+                           <todate standarddate="1994">1994</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364785 /locations/9"
+                                containerid="39002104810453"
+                                id="aspace_514ed4fa34ec5045b9cb03bb67b10a88_c1"
+                                label="Mixed Materials"
+                                localtype="box">216</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3180109"
+                  id="aspace_9234d2f3e4e8f26b484155d22df2c14c"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1995–1997" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1995">1995</fromdate>
+                           <todate standarddate="1997">1997</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/364786 /locations/9"
+                                containerid="39002104810446"
+                                id="aspace_9234d2f3e4e8f26b484155d22df2c14c_c1"
+                                label="Mixed Materials"
+                                localtype="box">217</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180043"
+               id="aspace_57fbd28fe244b3c3d1a7f9828571ab33"
+               level="file">
+               <did>
+                  <unittitle>General clippings and research files</unittitle>
+                  <unitdatestructured altrender="1947–1956" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1947">1947</fromdate>
+                        <todate standarddate="1956">1956</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/364787 /locations/9"
+                             containerid="39002104810438"
+                             id="aspace_57fbd28fe244b3c3d1a7f9828571ab33_c1"
+                             label="Mixed Materials"
+                             localtype="box">218</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180044"
+               id="aspace_2175e333664496a195512683a9a4edbd"
+               level="file">
+               <did>
+                  <unittitle>Exhibition materials, photographs, research files</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/364788 /locations/9"
+                             containerid="39002104810420"
+                             id="aspace_2175e333664496a195512683a9a4edbd_c1"
+                             label="Mixed Materials"
+                             localtype="box">219</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180045"
+               id="aspace_d980b5f24f5ce99feb5b23443381c9b5"
+               level="file">
+               <did>
+                  <unittitle>Yale Law School materials, Air Force Manuals, Certificates, Research Files</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/364789 /locations/9"
+                             containerid="39002104810412"
+                             id="aspace_d980b5f24f5ce99feb5b23443381c9b5_c1"
+                             label="Mixed Materials"
+                             localtype="box">220</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180046"
+               id="aspace_842b118077143bdb2449be84f5de7cf5"
+               level="file">
+               <did>
+                  <unittitle>SM 625 readings, reports, research files</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/364790 /locations/9"
+                             containerid="39002104810404"
+                             id="aspace_842b118077143bdb2449be84f5de7cf5_c1"
+                             label="Mixed Materials"
+                             localtype="box">221</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180047"
+               id="aspace_839d9fa8783d19391aafe4b0aea6299f"
+               level="file">
+               <did>
+                  <unittitle>Government reports concerning the C.I.A.</unittitle>
+                  <unitdatestructured altrender="1950, 1953" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1950">1950</fromdate>
+                        <todate standarddate="1953">1953</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/364791 /locations/9"
+                             containerid="39002104810396"
+                             id="aspace_839d9fa8783d19391aafe4b0aea6299f_c1"
+                             label="Mixed Materials"
+                             localtype="box">222</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180048"
+               id="aspace_cd80d12f166b850e02ad081bb29e4f97"
+               level="file">
+               <did>
+                  <unittitle>General reports and papers</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/364792 /locations/9"
+                             containerid="39002104810388"
+                             id="aspace_cd80d12f166b850e02ad081bb29e4f97_c1"
+                             label="Mixed Materials"
+                             localtype="box">223</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180049"
+               id="aspace_122483426da6dd03317ff79f18f68669"
+               level="file">
+               <did>
+                  <unittitle>Unsorted papers</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/364793 /locations/9"
+                             containerid="39002104810370"
+                             id="aspace_122483426da6dd03317ff79f18f68669_c1"
+                             label="Mixed Materials"
+                             localtype="box">224</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180050"
+               id="aspace_040fc91552ed1e594dd9049d4d706301"
+               level="file">
+               <did>
+                  <unittitle>Subject files, A-M</unittitle>
+                  <unitdatestructured altrender="circa 1940s-1990s"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1940">1940</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/364794 /locations/9"
+                             containerid="39002098813661"
+                             id="aspace_040fc91552ed1e594dd9049d4d706301_c1"
+                             label="Mixed Materials"
+                             localtype="box">226 (Oversize)</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180051"
+               id="aspace_a2f7dbded63c4168cc81991cfe2b65f4"
+               level="file">
+               <did>
+                  <unittitle>Subject files, P-V</unittitle>
+                  <unitdatestructured altrender="circa 1940s-1990s"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1940">1940</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/364795 /locations/9"
+                             containerid="39002098813679"
+                             id="aspace_a2f7dbded63c4168cc81991cfe2b65f4_c1"
+                             label="Mixed Materials"
+                             localtype="box">227 (Oversize)</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180053"
+               id="aspace_e74a1efe5cd7c4e8b05b23ff2b10de3d"
+               level="file">
+               <did>
+                  <unittitle>Subject files, W-Y</unittitle>
+                  <unitdatestructured altrender="circa 1940s-1990s"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1940">1940</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/364797 /locations/9"
+                             containerid="39002099300064"
+                             id="aspace_e74a1efe5cd7c4e8b05b23ff2b10de3d_c1"
+                             label="Mixed Materials"
+                             localtype="box">227A (Oversize)</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3180052"
+               id="aspace_6b937622009a1fe08337561a74611738"
+               level="file">
+               <did>
+                  <unittitle>Subject files, Walker</unittitle>
+                  <unitdatestructured altrender="circa 1940s-1990s"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1940">1940</fromdate>
+                        <todate standarddate="1999">1999</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/364796 /locations/9"
+                             containerid="39002098813687"
+                             id="aspace_6b937622009a1fe08337561a74611738_c1"
+                             label="Mixed Materials"
+                             localtype="box">228 (Oversize)</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4052416"
+               id="aspace_c416a8238ce42403f84eb79ddbab0e52"
+               level="file">
+               <did>
+                  <unittitle>CIA 25th anniversary photograph</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1972">1972</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484709"
+                             encodinganalog="archive legal"
+                             id="aspace_c416a8238ce42403f84eb79ddbab0e52_c1"
+                             label="Mixed Materials"
+                             localtype="box">230</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4052417"
+               id="aspace_9a0a96a81759c4469cac66b6f6500944"
+               level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">1986, undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/484709"
+                             encodinganalog="archive legal"
+                             id="aspace_9a0a96a81759c4469cac66b6f6500944_c1"
+                             label="Mixed Materials"
+                             localtype="box">230</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4052418"
+               id="aspace_cda0669504ed64bd06042fafb94bfa8c"
+               level="file">
+               <did>
+                  <unittitle>Horace Mann School yearbooks</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1927">1927</fromdate>
+                        <todate standarddate="1931">1931</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484709"
+                             encodinganalog="archive legal"
+                             id="aspace_cda0669504ed64bd06042fafb94bfa8c_c1"
+                             label="Mixed Materials"
+                             localtype="box">230</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4052419"
+               id="aspace_69c1a4dd0f13aab295110c7e8ca79ab8"
+               level="file">
+               <did>
+                  <unittitle>Horace Mann School yearbook</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1932">1932</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484710"
+                             encodinganalog="archive half letter"
+                             id="aspace_69c1a4dd0f13aab295110c7e8ca79ab8_c1"
+                             label="Mixed Materials"
+                             localtype="box">231</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4052420"
+               id="aspace_9e1e74b5b616c473c3b820e839650c05"
+               level="file">
+               <did>
+                  <unittitle>Yale freshman yearbook</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1935">1935</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484710"
+                             encodinganalog="archive half letter"
+                             id="aspace_9e1e74b5b616c473c3b820e839650c05_c1"
+                             label="Mixed Materials"
+                             localtype="box">231</container>
+               </did>
             </c>
          </c>
       </dsc>

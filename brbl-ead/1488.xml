@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-11T23:02:06-04:00</eventdatetime>
+            <eventdatetime>2026-08-06T23:00:56-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday May 11, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August  6, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7636,21 +7636,7 @@
                                 id="aspace_ref442_c1"
                                 label="Mixed Materials"
                                 localtype="box">26</container>
-                     <container id="aspace_ref442_c2" localtype="folder" parent="aspace_ref442_c1">419</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/567900"
-                  id="ref443"
-                  level="file">
-                  <did>
-                     <unittitle>Gurdjieff, Georges Ivanovitch</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
-                     <container altrender="/repositories/11/top_containers/69415 /locations/9"
-                                containerid="39002099422157"
-                                id="aspace_ref443_c1"
-                                label="Mixed Materials"
-                                localtype="box">26</container>
-                     <container id="aspace_ref443_c2" localtype="folder" parent="aspace_ref443_c1">420</container>
+                     <container id="aspace_ref442_c2" localtype="folder" parent="aspace_ref442_c1">420</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/567901"
@@ -7705,6 +7691,20 @@
                      <head>Scope and Contents</head>
                      <p>Includes performance program and advertisement</p>
                   </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/567900"
+                  id="ref443"
+                  level="file">
+                  <did>
+                     <unittitle>Gurdjieff, Georges Ivanovitch</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/69415 /locations/9"
+                                containerid="39002099422157"
+                                id="aspace_ref443_c1"
+                                label="Mixed Materials"
+                                localtype="box">26</container>
+                     <container id="aspace_ref443_c2" localtype="folder" parent="aspace_ref443_c1">419</container>
+                  </did>
                </c>
             </c>
             <c altrender="/repositories/11/archival_objects/567903"
