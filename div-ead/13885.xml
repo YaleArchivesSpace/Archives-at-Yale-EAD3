@@ -36,6 +36,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-16, 16A-81</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: 82</p>
+            </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="657">657</num> digital files.</p>
             </controlnote>
@@ -60,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-17T18:02:52-04:00</eventdatetime>
+            <eventdatetime>2026-08-10T18:01:23-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 10, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -86,8 +89,13 @@
             <quantity>33</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">82 boxes</physdesc>
-         <unitdate label="creation" unitdatetype="inclusive">1867 - 2005</unitdate>
+         <physdesc localtype="container_summary">83 boxes</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1855">1855</fromdate>
+               <todate standarddate="2005">2005</todate>
+            </daterange>
+         </unitdatestructured>
          <abstract id="aspace_b2464ed56476238ce48e3c3db920a94f">This collection draws together documentation relating to educational and medical institutions and organizations that were established by mission agencies and World Christian churches. It complements other substantial archival collections held by the Divinity Library.</abstract>
          <origination label="Source">
             <corpname source="local">
@@ -674,6 +682,28 @@
                      <scopecontent id="aspace_213a63883eace294cef9af410b407924">
                         <head>Scope and Contents</head>
                         <p>Catalogues, report, constitution.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052585"
+                     id="aspace_9ffa954d19b82fcbcc0e59047e4c0dbe"
+                     level="file">
+                     <did>
+                        <unittitle>Catholic University of Peking</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1925">1925</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_9ffa954d19b82fcbcc0e59047e4c0dbe_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_9ffa954d19b82fcbcc0e59047e4c0dbe_c2"
+                                   localtype="folder"
+                                   parent="aspace_9ffa954d19b82fcbcc0e59047e4c0dbe_c1">1</container>
+                     </did>
+                     <scopecontent id="aspace_2340b27d59145e6c3678569cdf4c8872">
+                        <head>Scope and Contents</head>
+                        <p>Brochure proposing Society of the Friends of the Catholic University of Peking.</p>
                      </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3967191"
@@ -2686,9 +2716,7 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      level="file">
                      <did>
                         <unittitle>Ahmednagar Theological Seminary</unittitle>
-                        <unitdatestructured altrender="1883, 1892, 1917"
-                                            label="creation"
-                                            unitdatetype="inclusive">
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1883">1883</fromdate>
                               <todate standarddate="1917">1917</todate>
@@ -3939,11 +3967,11 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      level="file">
                      <did>
                         <unittitle>Aoyama Gakuin Daigaku</unittitle>
-                        <unitdatestructured altrender="1909-1927, undated"
+                        <unitdatestructured altrender="1906-1927, undated"
                                             label="creation"
                                             unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1909">1909</fromdate>
+                              <fromdate standarddate="1906">1906</fromdate>
                               <todate standarddate="1927">1927</todate>
                            </daterange>
                         </unitdatestructured>
@@ -3958,7 +3986,7 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      </did>
                      <scopecontent id="aspace_4fdb20a98f273b5ce946439a4a2efeac">
                         <head>Scope and Contents</head>
-                        <p>Report, publication, catalogue for a group of Christian schools located in Tokyo.</p>
+                        <p>Constitution, report, publication, catalogues for a group of Christian schools located in Tokyo.</p>
                      </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3975921"
@@ -4614,6 +4642,31 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Fiftieth anniversary booklet for school located in Sendai.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052587"
+                     id="aspace_6ce046cebb7c303dd85728f8bb7ad856"
+                     level="file">
+                     <did>
+                        <unittitle>Miyagi Girls' School</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1911">1911</fromdate>
+                              <todate standarddate="1917">1917</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_6ce046cebb7c303dd85728f8bb7ad856_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_6ce046cebb7c303dd85728f8bb7ad856_c2"
+                                   localtype="folder"
+                                   parent="aspace_6ce046cebb7c303dd85728f8bb7ad856_c1">4</container>
+                     </did>
+                     <scopecontent id="aspace_c793ab8b932ace33ad13072a59795237">
+                        <head>Scope and Contents</head>
+                        <p>Catalogues.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3976088"
                      id="aspace_01e7353d20a082996542626acb343bc5"
                      level="file">
@@ -4966,6 +5019,26 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Brochure and bulletin for Catholic university located in Seoul.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052586"
+                     id="aspace_0af7fb75f029e3b2950894973b5058b4"
+                     level="file">
+                     <did>
+                        <unittitle>Taejon Presbyterian College</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_0af7fb75f029e3b2950894973b5058b4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_0af7fb75f029e3b2950894973b5058b4_c2"
+                                   localtype="folder"
+                                   parent="aspace_0af7fb75f029e3b2950894973b5058b4_c1">3</container>
+                     </did>
+                     <scopecontent id="aspace_52a25fa9401ff748253770f04624a02b">
+                        <head>Scope and Contents</head>
+                        <p>Brochure, proposal.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3976111"
                      id="aspace_167deeee5f86b1bc6ff3e0ea13995dc9"
                      level="file">
@@ -5008,6 +5081,35 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      <scopecontent id="aspace_9de9f70435eb38dc1ffc463a67106974">
                         <head>Scope and Contents</head>
                         <p>Brochure regarding school located in Kongju.</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4052583"
+                  id="aspace_f65f846d9bf7387ea30a19c8096cf45d"
+                  level="subseries">
+                  <did>
+                     <unittitle>Macao</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4052584"
+                     id="aspace_63656718831625652689e01cecace7ef"
+                     level="file">
+                     <did>
+                        <unittitle>"Evangelize China" Fellowship Orphanage</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1983">1983</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_63656718831625652689e01cecace7ef_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_63656718831625652689e01cecace7ef_c2"
+                                   localtype="folder"
+                                   parent="aspace_63656718831625652689e01cecace7ef_c1">2</container>
+                     </did>
+                     <scopecontent id="aspace_c0af65459cc70111179543f273b399d3">
+                        <head>Scope and Contents</head>
+                        <p>Thirtieth anniversary publication.</p>
                      </scopecontent>
                   </c>
                </c>
@@ -5885,6 +5987,31 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Catalogue, newsletter for Waldensian Theological Seminary located in Rome.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052588"
+                     id="aspace_1d1e33b988e3f0e3e5f4df2485a0b910"
+                     level="file">
+                     <did>
+                        <unittitle>Gould Memorial Home and Industrial Schools</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1892">1892</fromdate>
+                              <todate standarddate="1914">1914</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_1d1e33b988e3f0e3e5f4df2485a0b910_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_1d1e33b988e3f0e3e5f4df2485a0b910_c2"
+                                   localtype="folder"
+                                   parent="aspace_1d1e33b988e3f0e3e5f4df2485a0b910_c1">5</container>
+                     </did>
+                     <scopecontent id="aspace_dac6085bcde639ff8d6f4ad615a02fd7">
+                        <head>Scope and Contents</head>
+                        <p>Annual reports of institution in Rome.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3998236"
                      id="aspace_c070e6683eefb9ef4a8b1922fdd3b818"
                      level="file">
@@ -5908,6 +6035,28 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      <scopecontent id="aspace_d7abd691832ba0d42805f8e85b90f176">
                         <head>Scope and Contents</head>
                         <p>Reports for institution also known as Boyce Memorial Home.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052589"
+                     id="aspace_78bf307f0b7fbefbe30a5716151ed41c"
+                     level="file">
+                     <did>
+                        <unittitle>Istituto Gould</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1931">1931</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_78bf307f0b7fbefbe30a5716151ed41c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_78bf307f0b7fbefbe30a5716151ed41c_c2"
+                                   localtype="folder"
+                                   parent="aspace_78bf307f0b7fbefbe30a5716151ed41c_c1">6</container>
+                     </did>
+                     <scopecontent id="aspace_e05e339577c5612a79d2155eaef83721">
+                        <head>Scope and Contents</head>
+                        <p>Pictorial brochure of institution in Florence.</p>
                      </scopecontent>
                   </c>
                </c>
@@ -5994,6 +6143,31 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      <scopecontent id="aspace_2be69028d99f5bf9177e95a1e13904b4">
                         <head>Scope and Contents</head>
                         <p>Outline of programme for 1957, brochure.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052590"
+                     id="aspace_77c0175e87bdb5d35d1e891175f6028d"
+                     level="file">
+                     <did>
+                        <unittitle>Église Évangélique Libre du Canton de Vaud Faculté de Théologie</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1939">1939</fromdate>
+                              <todate standarddate="1948">1948</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_77c0175e87bdb5d35d1e891175f6028d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_77c0175e87bdb5d35d1e891175f6028d_c2"
+                                   localtype="folder"
+                                   parent="aspace_77c0175e87bdb5d35d1e891175f6028d_c1">7</container>
+                     </did>
+                     <scopecontent id="aspace_10eb5f233df2a49c4fec8a3b427e8945">
+                        <head>Scope and Contents</head>
+                        <p>Catalogues.</p>
                      </scopecontent>
                   </c>
                </c>
@@ -6536,6 +6710,26 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                                       parent="aspace_0a7205f59a47a1c75d6d7fdb28dabc80_c3">1-6</container>
                         </did>
                      </c>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052591"
+                     id="aspace_403e6b7ca746e053fe7189c66bc108f6"
+                     level="file">
+                     <did>
+                        <unittitle>Center of Intercultural Formation (Cuernavaca, Mexico)</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_403e6b7ca746e053fe7189c66bc108f6_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_403e6b7ca746e053fe7189c66bc108f6_c2"
+                                   localtype="folder"
+                                   parent="aspace_403e6b7ca746e053fe7189c66bc108f6_c1">8</container>
+                     </did>
+                     <scopecontent id="aspace_d503f319c3de31b598b406042cc071c9">
+                        <head>Scope and Contents</head>
+                        <p>Brochures.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3989245"
                      id="aspace_0b699c454c5761935d6b4aeb4a7e9833"
@@ -7120,6 +7314,28 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Reports, charter, college quarterly for school located in Istanbul, which was also known as Constantinople College and later affiliated with Robert College.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052592"
+                     id="aspace_1c81536a632789dd34ea4aaa042efb61"
+                     level="file">
+                     <did>
+                        <unittitle>American Collegiate Institute</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1980">1980</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_1c81536a632789dd34ea4aaa042efb61_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_1c81536a632789dd34ea4aaa042efb61_c2"
+                                   localtype="folder"
+                                   parent="aspace_1c81536a632789dd34ea4aaa042efb61_c1">9</container>
+                     </did>
+                     <scopecontent id="aspace_102cc9fe2e95d30fb209def4fdf07429">
+                        <head>Scope and Contents</head>
+                        <p>Yearbook for private high school in Goztepe, İzmir.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3989425"
                      id="aspace_9f40fe22dffe462da33799c502581ca4"
                      level="file">
@@ -7128,7 +7344,7 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1888">1888</fromdate>
-                              <todate standarddate="1893">1893</todate>
+                              <todate standarddate="1897">1897</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/420654 /locations/9"
@@ -7619,6 +7835,31 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Bulletins for school located in Washington, D.C., also known as Lucy Webb Hayes National Training School for Missionaries and Deaconesses. Sibley Hospital was an integral part of the Training School, providing training for nurses.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052593"
+                     id="aspace_dfcf968fa36f6b1ccc44cf619e4b6e66"
+                     level="file">
+                     <did>
+                        <unittitle>New England Kurn Hattin Homes</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1949">1949</fromdate>
+                              <todate standarddate="1953">1953</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_dfcf968fa36f6b1ccc44cf619e4b6e66_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_dfcf968fa36f6b1ccc44cf619e4b6e66_c2"
+                                   localtype="folder"
+                                   parent="aspace_dfcf968fa36f6b1ccc44cf619e4b6e66_c1">10</container>
+                     </did>
+                     <scopecontent id="aspace_caaeac7586e30f39e876dcb1276c833e">
+                        <head>Scope and Contents</head>
+                        <p>Annual report, bulletins for institution in Vermont.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3990061"
                      id="aspace_4a8681390e4def89897d6a2841dc78c6"
                      level="file">
@@ -8047,6 +8288,26 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Report and history for Methodist school.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052594"
+                     id="aspace_71b29d0f834d27a396ec475be3bad78b"
+                     level="file">
+                     <did>
+                        <unittitle>Rarongo Theological College</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_71b29d0f834d27a396ec475be3bad78b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_71b29d0f834d27a396ec475be3bad78b_c2"
+                                   localtype="folder"
+                                   parent="aspace_71b29d0f834d27a396ec475be3bad78b_c1">11</container>
+                     </did>
+                     <scopecontent id="aspace_c7cef5c775dca6250b29d18471473bc0">
+                        <head>Scope and Contents</head>
+                        <p>Brochures for Methodist institution in Rabaul, New Britain.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3989951"
                      id="aspace_d92ac763d7c5c66aee7439f0e18c99e8"
                      level="file">
@@ -8413,6 +8674,28 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      <scopecontent id="aspace_3db927cba2e9bbc9618803430cdb2663">
                         <head>Scope and Contents</head>
                         <p>Reports related to rural reconstruction, Ting Hsien experiment.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052595"
+                     id="aspace_2755643e806fce258888734d357d31fc"
+                     level="file">
+                     <did>
+                        <unittitle>Committee on Christian Education in China</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1910">1910</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_2755643e806fce258888734d357d31fc_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_2755643e806fce258888734d357d31fc_c2"
+                                   localtype="folder"
+                                   parent="aspace_2755643e806fce258888734d357d31fc_c1">12</container>
+                     </did>
+                     <scopecontent id="aspace_ebb573bbb2145af9dc1300a770173be3">
+                        <head>Scope and Contents</head>
+                        <p>Tentative report of committee formed at Conference of Foreign Mission Boards of the United States and Canada.</p>
                      </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3991096"
@@ -9307,12 +9590,20 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                <did>
                   <unittitle>Asia</unittitle>
                </did>
+               <scopecontent id="aspace_5fa4e22b393ccd1a2cbca60d4ee3fd78">
+                  <head>Scope and Contents</head>
+                  <p>See also Doshisha Mission Hospital under American Board of Commissioners for Foreign Missions in Record Group 349.</p>
+               </scopecontent>
                <c altrender="/repositories/4/archival_objects/3998169"
                   id="aspace_4d86e06b3d69a2092c24ad7b5ccddc9d"
                   level="subseries">
                   <did>
                      <unittitle>China</unittitle>
                   </did>
+                  <scopecontent id="aspace_9ea9ac8ae015e17eb12dbf7afb3a7daf">
+                     <head>Scope and Contents</head>
+                     <p>See also Foochow Missionary Hospital, Ponasang Missionary Hospital, and Williams-Porter Hospitals in Record Group 349 under American Board of Commissioners for Foreign Missions.</p>
+                  </scopecontent>
                   <c altrender="/repositories/4/archival_objects/3998170"
                      id="aspace_c831194d5ba8235938e751b716524bb0"
                      level="file">
@@ -9568,6 +9859,28 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Annual reports for psychiatric hospital first known as Refuge for the Insane, located in Canton [Guangzhou].</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052596"
+                     id="aspace_cb955d29b231ba5358e73e4c1b412a68"
+                     level="file">
+                     <did>
+                        <unittitle>London Missionary Society Hospital, Canton [Guangzhou]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1855">1855</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_cb955d29b231ba5358e73e4c1b412a68_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_cb955d29b231ba5358e73e4c1b412a68_c2"
+                                   localtype="folder"
+                                   parent="aspace_cb955d29b231ba5358e73e4c1b412a68_c1">13</container>
+                     </did>
+                     <scopecontent id="aspace_1122332d232b6d3f8a8f848e41ab4d99">
+                        <head>Scope and Contents</head>
+                        <p>Report of hospital in the western suburbs of Canton [Guangzhou] under the care of Dr. Benjamin Hobson.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3998185"
                      id="aspace_e3ff4b35c97f1bd87692ff7596d89d74"
                      level="file">
@@ -9763,6 +10076,28 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      <scopecontent id="aspace_e9d85a05f863e37becc09d41c5681bf5">
                         <head>Scope and Contents</head>
                         <p>Reports for hospital located in Tai Yuen Fu [Taiyuan, Shanxi]</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052597"
+                     id="aspace_1b5113b246cea39353f2c344463365bc"
+                     level="file">
+                     <did>
+                        <unittitle>Siao Kan Hospital </unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1922">1922</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_1b5113b246cea39353f2c344463365bc_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_1b5113b246cea39353f2c344463365bc_c2"
+                                   localtype="folder"
+                                   parent="aspace_1b5113b246cea39353f2c344463365bc_c1">14</container>
+                     </did>
+                     <scopecontent id="aspace_62532daf9ec4d8b9a2a9b849fd0280f5">
+                        <head>Scope and Contents</head>
+                        <p>Reports of London Missionary Hospital at Siao Kan [Xiaogan], Hupeh [Hubei] Province.</p>
                      </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3998193"
@@ -10934,6 +11269,28 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Newsletters.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4052598"
+                     id="aspace_4018a5370d2875a55bbaad2e249bf55d"
+                     level="file">
+                     <did>
+                        <unittitle>Medical Missionary Association of India</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1917">1917</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_4018a5370d2875a55bbaad2e249bf55d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_4018a5370d2875a55bbaad2e249bf55d_c2"
+                                   localtype="folder"
+                                   parent="aspace_4018a5370d2875a55bbaad2e249bf55d_c1">15</container>
+                     </did>
+                     <scopecontent id="aspace_59f94f705fda17bc5885ffc2781053cb">
+                        <head>Scope and Contents</head>
+                        <p>Report of meeting at Kodaikanal.</p>
+                     </scopecontent>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/3998397"
                   id="aspace_8989c1c4308d9abeb690bbd9becce6ee"
@@ -11141,7 +11498,7 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      </did>
                      <scopecontent id="aspace_1c663f3f4667e6d67933c924b1a9f9cd">
                         <head>Scope and Contents</head>
-                        <p>Annual report, calendar, historical leaflet related to Catholic organization founded in 1926.</p>
+                        <p>Annual report, calendar, newsletters, historical leaflet related to Catholic organization founded in 1926.</p>
                      </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3998409"
