@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-03T20:01:09-05:00</eventdatetime>
+            <eventdatetime>2026-08-10T20:01:32-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday December  3, 2025 at 20:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 10, 2026 at 20:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -139150,12 +139150,19 @@
                         </title>
                      </unittitle>
                      <unitid>335</unitid>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiotape Reel</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">no date</unitdate>
                      <container altrender="/repositories/6/top_containers/263384 /locations/9"
                                 containerid="39002124813594"
                                 id="aspace_s13b422.d0e83643_c1"
                                 label="Mixed Materials"
                                 localtype="box">422</container>
+                     <container id="aspace_s13b422.d0e83643_c2"
+                                localtype="folder"
+                                parent="aspace_s13b422.d0e83643_c1">1</container>
                   </did>
                </c>
                <c altrender="/repositories/6/archival_objects/2425834"
