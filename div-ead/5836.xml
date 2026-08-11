@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-06-30T18:00:27-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T18:00:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June 30, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -154,6 +154,10 @@ The papers of the Church of the Redeemer arrived at the New Haven Colony Histori
          <head>Preferred Citation</head>
          <p>Church of the Redeemer (New Haven, Conn.) Records (RG 266), Special Collections, Yale Divinity Library.</p>
       </prefercite>
+      <accessrestrict id="aspace_20c1e39e5544309fe3c3936eec4e79fe">
+         <head>Conditions Governing Access</head>
+         <p>This collection is open for research.</p>
+      </accessrestrict>
       <dsc>
          <c altrender="/repositories/4/archival_objects/2768982"
             id="aspace_8552706a1b78876529437fb255a76c07"
@@ -819,24 +823,25 @@ The papers of the Church of the Redeemer arrived at the New Haven Colony Histori
                                 parent="aspace_d67a0dea217ad281642c8a7ed0e9661e_c1">W</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/2769166"
-                  id="aspace_6699f8cc6324454d3cbf36ab223b3755"
+               <c altrender="/repositories/4/archival_objects/4052803"
+                  id="aspace_55cdd976fa0911403bb6f091602e52ec"
                   level="file">
                   <did>
-                     <unittitle>140th anniversary, November 26, 1978 service bulletin</unittitle>
-                     <unitdatestructured altrender="1978" label="creation" unitdatetype="inclusive">
+                     <unittitle>Papers re deposit of church records in Whitney Library of New Haven Historical Society</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="1978">1978</fromdate>
+                           <fromdate standarddate="1982">1982</fromdate>
+                           <todate standarddate="1988">1988</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/331235 /locations/9"
                                 containerid="39002125101122"
-                                id="aspace_6699f8cc6324454d3cbf36ab223b3755_c1"
+                                id="aspace_55cdd976fa0911403bb6f091602e52ec_c1"
                                 label="Mixed Materials"
                                 localtype="box">3</container>
-                     <container id="aspace_6699f8cc6324454d3cbf36ab223b3755_c2"
+                     <container id="aspace_55cdd976fa0911403bb6f091602e52ec_c2"
                                 localtype="folder"
-                                parent="aspace_6699f8cc6324454d3cbf36ab223b3755_c1">X</container>
+                                parent="aspace_55cdd976fa0911403bb6f091602e52ec_c1">X</container>
                   </did>
                </c>
             </c>
