@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-11T03:50:58-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T05:05:59-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 03:50</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 05:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -26198,6 +26198,28 @@ OPA Archive, June 23, 2003 - </unittitle>
                              localtype="box">803</container>
                </did>
             </c>
+            <c altrender="/repositories/12/archival_objects/958744"
+               id="ref1732"
+               level="item">
+               <did>
+                  <unittitle>4054: Poynter Lecture - Judy Woodruff</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Videocassette (VHS)</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2004 November 15"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2004-11-15">2004 November 15</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/111121 /locations/9"
+                             containerid="39002057033947"
+                             encodinganalog="video VHS"
+                             id="aspace_ref1732_c1"
+                             label="Mixed Materials"
+                             localtype="box">680</container>
+               </did>
+            </c>
             <c altrender="/repositories/12/archival_objects/958722"
                id="ref1684"
                level="item">
@@ -26348,6 +26370,23 @@ OPA Archive, June 23, 2003 - </unittitle>
                              label="Mixed Materials"
                              localtype="box">808</container>
                </did>
+               <c altrender="/repositories/12/archival_objects/958729"
+                  id="ref1698"
+                  level="item">
+                  <did>
+                     <unittitle>Use copy</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Videocassette (VHS)</unittype>
+                     </physdescstructured>
+                     <container altrender="/repositories/12/top_containers/111106 /locations/3624"
+                                containerid="39002057034580"
+                                encodinganalog="video VHS"
+                                id="aspace_ref1698_c1"
+                                label="Mixed Materials"
+                                localtype="box">692U</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/958728"
                id="ref1696"
@@ -26370,8 +26409,8 @@ OPA Archive, June 23, 2003 - </unittitle>
                              label="Mixed Materials"
                              localtype="box">692</container>
                </did>
-               <c altrender="/repositories/12/archival_objects/958729"
-                  id="ref1698"
+               <c altrender="/repositories/12/archival_objects/958731"
+                  id="ref1702"
                   level="item">
                   <did>
                      <unittitle>Use copy</unittitle>
@@ -26379,12 +26418,12 @@ OPA Archive, June 23, 2003 - </unittitle>
                         <quantity>1</quantity>
                         <unittype>Videocassette (VHS)</unittype>
                      </physdescstructured>
-                     <container altrender="/repositories/12/top_containers/111106 /locations/3624"
-                                containerid="39002057034580"
+                     <container altrender="/repositories/12/top_containers/111108 /locations/3624"
+                                containerid="39002057034564"
                                 encodinganalog="video VHS"
-                                id="aspace_ref1698_c1"
+                                id="aspace_ref1702_c1"
                                 label="Mixed Materials"
-                                localtype="box">692U</container>
+                                localtype="box">689U</container>
                   </did>
                </c>
             </c>
@@ -26409,8 +26448,8 @@ OPA Archive, June 23, 2003 - </unittitle>
                              label="Mixed Materials"
                              localtype="box">689</container>
                </did>
-               <c altrender="/repositories/12/archival_objects/958731"
-                  id="ref1702"
+               <c altrender="/repositories/12/archival_objects/958733"
+                  id="ref1706"
                   level="item">
                   <did>
                      <unittitle>Use copy</unittitle>
@@ -26418,12 +26457,12 @@ OPA Archive, June 23, 2003 - </unittitle>
                         <quantity>1</quantity>
                         <unittype>Videocassette (VHS)</unittype>
                      </physdescstructured>
-                     <container altrender="/repositories/12/top_containers/111108 /locations/3624"
-                                containerid="39002057034564"
+                     <container altrender="/repositories/12/top_containers/111110 /locations/3624"
+                                containerid="39002057034572"
                                 encodinganalog="video VHS"
-                                id="aspace_ref1702_c1"
+                                id="aspace_ref1706_c1"
                                 label="Mixed Materials"
-                                localtype="box">689U</container>
+                                localtype="box">691U</container>
                   </did>
                </c>
             </c>
@@ -26467,23 +26506,6 @@ OPA Archive, June 23, 2003 - </unittitle>
                      </descriptivenote>
                   </daoset>
                </did>
-               <c altrender="/repositories/12/archival_objects/958733"
-                  id="ref1706"
-                  level="item">
-                  <did>
-                     <unittitle>Use copy</unittitle>
-                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                        <quantity>1</quantity>
-                        <unittype>Videocassette (VHS)</unittype>
-                     </physdescstructured>
-                     <container altrender="/repositories/12/top_containers/111110 /locations/3624"
-                                containerid="39002057034572"
-                                encodinganalog="video VHS"
-                                id="aspace_ref1706_c1"
-                                label="Mixed Materials"
-                                localtype="box">691U</container>
-                  </did>
-               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/958734"
                id="ref1708"
@@ -26636,6 +26658,23 @@ OPA Archive, June 23, 2003 - </unittitle>
                              label="Mixed Materials"
                              localtype="box">652</container>
                </did>
+               <c altrender="/repositories/12/archival_objects/958741"
+                  id="ref1726"
+                  level="item">
+                  <did>
+                     <unittitle>Use copy</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Videocassette (VHS)</unittype>
+                     </physdescstructured>
+                     <container altrender="/repositories/12/top_containers/111118 /locations/3624"
+                                containerid="39002057036544"
+                                encodinganalog="video VHS"
+                                id="aspace_ref1726_c1"
+                                label="Mixed Materials"
+                                localtype="box">695U</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/958740"
                id="ref1724"
@@ -26658,8 +26697,8 @@ OPA Archive, June 23, 2003 - </unittitle>
                              label="Mixed Materials"
                              localtype="box">695</container>
                </did>
-               <c altrender="/repositories/12/archival_objects/958741"
-                  id="ref1726"
+               <c altrender="/repositories/12/archival_objects/958743"
+                  id="ref1730"
                   level="item">
                   <did>
                      <unittitle>Use copy</unittitle>
@@ -26667,12 +26706,12 @@ OPA Archive, June 23, 2003 - </unittitle>
                         <quantity>1</quantity>
                         <unittype>Videocassette (VHS)</unittype>
                      </physdescstructured>
-                     <container altrender="/repositories/12/top_containers/111118 /locations/3624"
-                                containerid="39002057036544"
+                     <container altrender="/repositories/12/top_containers/111120 /locations/3625"
+                                containerid="39002057036585"
                                 encodinganalog="video VHS"
-                                id="aspace_ref1726_c1"
+                                id="aspace_ref1730_c1"
                                 label="Mixed Materials"
-                                localtype="box">695U</container>
+                                localtype="box">704U</container>
                   </did>
                </c>
             </c>
@@ -26696,45 +26735,6 @@ OPA Archive, June 23, 2003 - </unittitle>
                              id="aspace_ref1728_c1"
                              label="Mixed Materials"
                              localtype="box">704</container>
-               </did>
-               <c altrender="/repositories/12/archival_objects/958743"
-                  id="ref1730"
-                  level="item">
-                  <did>
-                     <unittitle>Use copy</unittitle>
-                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                        <quantity>1</quantity>
-                        <unittype>Videocassette (VHS)</unittype>
-                     </physdescstructured>
-                     <container altrender="/repositories/12/top_containers/111120 /locations/3625"
-                                containerid="39002057036585"
-                                encodinganalog="video VHS"
-                                id="aspace_ref1730_c1"
-                                label="Mixed Materials"
-                                localtype="box">704U</container>
-                  </did>
-               </c>
-            </c>
-            <c altrender="/repositories/12/archival_objects/958744"
-               id="ref1732"
-               level="item">
-               <did>
-                  <unittitle>4054: Poynter Lecture - Judy Woodruff</unittitle>
-                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                     <quantity>1</quantity>
-                     <unittype>Videocassette (VHS)</unittype>
-                  </physdescstructured>
-                  <unitdatestructured altrender="2004 November 15"
-                                      label="creation"
-                                      unitdatetype="inclusive">
-                     <datesingle standarddate="2004-11-15">2004 November 15</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/111121 /locations/9"
-                             containerid="39002057033947"
-                             encodinganalog="video VHS"
-                             id="aspace_ref1732_c1"
-                             label="Mixed Materials"
-                             localtype="box">680</container>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/958745"
