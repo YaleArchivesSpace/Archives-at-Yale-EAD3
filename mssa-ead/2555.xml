@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-11-27T03:02:45-05:00</eventdatetime>
+            <eventdatetime>2026-08-11T03:00:58-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 27, 2025 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -90,11 +90,19 @@
          <langmaterial>
             <language langcode="eng">English</language>
          </langmaterial>
-         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>2.5</quantity>
+         <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+            <quantity>3.5</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">5 boxes</physdesc>
+         <physdesc localtype="container_summary">5 boxes, 1 envelope.</physdesc>
+         <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+            <quantity>3</quantity>
+            <unittype>Computer Files (.jpg)</unittype>
+         </physdescstructured>
+         <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+            <quantity>2.41</quantity>
+            <unittype>Megabytes</unittype>
+         </physdescstructured>
          <unitdatestructured altrender="1955-1997" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1955">1955</fromdate>
@@ -114,7 +122,9 @@
       </odd>
       <acqinfo id="aspace_3610e848e5e8475f778974dfdead6dbe">
          <head>Immediate Source of Acquisition</head>
-         <p>Transferred from the Department of Athletics, 2005.</p>
+         <p>Transferred from the Department of Athletics, 2005.
+Accession 2023-A-0020 is a gift of Barbara Frank, Yale College Class of 1977.
+Accession 2027-A-0006 is a gift from Fred Cantor, Yale College Class of 1975.</p>
       </acqinfo>
       <accessrestrict id="aspace_7242b1a28b0ab2b8a217d16be61b94b5">
          <head>Conditions Governing Access</head>
