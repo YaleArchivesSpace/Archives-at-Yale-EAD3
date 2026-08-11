@@ -106,7 +106,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [ycba.mss.0051.xml](11784.xml) | ycba.mss.0051 | MSS 51 | Postcards of the British royal family | 
  [ycba.mss.0055.xml](11785.xml) | ycba.mss.0055 | MSS 55 | John Bastin archive | 
  [ycba.mss.0057.xml](11786.xml) | ycba.mss.0057 | MSS 57 | Linda Benedict-Jones papers | 
- [ycba.ia.s021.xml](11824.xml) | ycba.ia.s021 | S 021 | Yale Center for British Art oral history collection | 
+ [ycba.ia.s021.xml](11824.xml) | ycba.ia.s021 | S 21 | Yale Center for British Art oral history collection | 
  [ycba.mss.0067.xml](12052.xml) | ycba.mss.0067 | MSS 67 | Frank Brangwyn papers | 
  [ycba.mss.0072.xml](12056.xml) | ycba.mss.0072 | MSS 72 | Hubert von Herkomer archive | 
  [ycba.mss.0076.xml](12058.xml) | ycba.mss.0076 | MSS 76 | Edward McKnight Kauffer photographic negatives | 
@@ -120,6 +120,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [ycba.mss.0036.xml](13061.xml) | ycba.mss.0036 | MSS 36 | James Meller collection of John McHale and Magda Cordell McHale papers | 
  [ycba.mss.0074.xml](13070.xml) | ycba.mss.0074 | MSS 74 | John Reynolds archive | 
  [ycba.s018.xml](13080.xml) | ycba.s018 | S 018 | Duncan Robinson papers on Paul Mellon | 
- [ycba.s019.xml](13213.xml) | ycba.s019 | S 019 | Louis I. Kahn Yale Center for British Art sketches | 
+ [ycba.s019.xml](13213.xml) | ycba.s019 | S 19 | Louis I. Kahn Yale Center for British Art sketches | 
  [ycba.s023.xml](13565.xml) | ycba.s023 | S 023 | Patrick Noon papers | 
 

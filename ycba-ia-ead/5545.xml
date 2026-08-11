@@ -64,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-08-20T18:03:51-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T18:00:06-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 20, 2025 at 18:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -177,7 +177,8 @@ Rights-holders for other material in this collection are unknown. Transmission o
             id="aspace_fb9217bfe9ad01c542d6354ea3b8293e"
             level="series">
             <did>
-               <unittitle>Series I. Building</unittitle>
+               <unittitle>Building</unittitle>
+               <unitid>Series I</unitid>
             </did>
             <arrangement id="aspace_c0381cd1bde86959dbf91a9466a62833">
                <head>Arrangement</head>
@@ -1339,7 +1340,8 @@ Rights-holders for other material in this collection are unknown. Transmission o
             id="aspace_c749f626aa4630f1e1c150839a6c9b05"
             level="series">
             <did>
-               <unittitle>Series II. Credited Photograph Sets</unittitle>
+               <unittitle>Credited Photograph Sets</unittitle>
+               <unitid>Series II</unitid>
             </did>
             <scopecontent id="aspace_07cc4c30cc5346630fbb16aee486b96d">
                <head>Scope and Contents</head>
@@ -1505,7 +1507,8 @@ Rights-holders for other material in this collection are unknown. Transmission o
             id="aspace_9f9207e5fbc3cadec242c6aaa4753b09"
             level="series">
             <did>
-               <unittitle>Series III. Events and Programs</unittitle>
+               <unittitle>Events and Programs</unittitle>
+               <unitid>Series III</unitid>
             </did>
             <arrangement id="aspace_e73addd540c645ea989cd85a09e83972">
                <head>Arrangement</head>
@@ -2421,7 +2424,8 @@ Rights-holders for other material in this collection are unknown. Transmission o
             id="aspace_80f3ca7e7992a58d4f4fa1bd89f5d73f"
             level="series">
             <did>
-               <unittitle>Series IV. People</unittitle>
+               <unittitle>People</unittitle>
+               <unitid>Series IV</unitid>
             </did>
             <arrangement id="aspace_18a7eacbc9998e39b986c8642f1547c0">
                <head>Arrangement</head>
@@ -3284,7 +3288,8 @@ Rights-holders for other material in this collection are unknown. Transmission o
             id="aspace_c69d7e718ff635a5cb5b4f15426210d3"
             level="series">
             <did>
-               <unittitle>Series V. General</unittitle>
+               <unittitle>General</unittitle>
+               <unitid>Series V</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1975">1975</fromdate>
@@ -3407,7 +3412,8 @@ Rights-holders for other material in this collection are unknown. Transmission o
             id="aspace_cd16f969bca8cc76d74d0b748c43ff5e"
             level="series">
             <did>
-               <unittitle>Series VI. CD-ROMS</unittitle>
+               <unittitle>CD-ROMS</unittitle>
+               <unitid>6.</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="2007">2007</fromdate>
@@ -3423,6 +3429,11 @@ Rights-holders for other material in this collection are unknown. Transmission o
                <head>Scope and Contents</head>
                <p>This series includes CD-ROMS that contain images of Paul Mellon's Brick House, the Yale Center for British Art's (YCBA) permanent collection, and interior and exterior views of the YCBA building.</p>
             </scopecontent>
+            <accessrestrict id="aspace_28fe5f2b7a3d8d5e962d57d376b62692"
+                            localtype="ColdStorageBrbl">
+               <head>Conditions Governing Access</head>
+               <p>A CD-ROM reader is not available in the Study Room.</p>
+            </accessrestrict>
             <c altrender="/repositories/3/archival_objects/2287420"
                id="aspace_2df4b28d8d9f279439923cad09a2f4a6"
                level="file">

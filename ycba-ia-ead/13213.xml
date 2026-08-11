@@ -31,7 +31,7 @@
                </addressline>
             </address>
             <date>October 2023</date>
-            <num>S 019</num>
+            <num>S 19</num>
          </publicationstmt>
          <notestmt>
             <controlnote localtype="onsite">
@@ -62,17 +62,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-02T18:00:34-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T18:00:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday April  2, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/3/resources/13213" level="collection">
       <did>
          <unittitle>Louis I. Kahn Yale Center for British Art sketches</unittitle>
-         <unitid>S 019</unitid>
+         <unitid>S 19</unitid>
          <repository>
             <corpname>
                <part>Yale Center for British Art, Archives</part>
@@ -85,7 +85,7 @@
             <quantity>1</quantity>
             <unittype>Linear Foot</unittype>
          </physdescstructured>
-         <unitdatestructured altrender="1971-1972" label="creation" unitdatetype="inclusive">
+         <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1971">1971</fromdate>
                <todate standarddate="1972">1972</todate>
@@ -188,7 +188,12 @@
                level="item">
                <did>
                   <unittitle>Chapel and High corner entrance to Mellon Center</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <unitdatestructured altrender="1970s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
                   <physdesc id="aspace_56847ce382dc188821164579bf719072">16 15/16 x 12 1/8 inches unmatted; 22 x 16 inches matted</physdesc>
                   <container altrender="/repositories/3/top_containers/397065"
                              id="aspace_8c41c482dd10632b49f3ab3b3bb8ade0_c1"
@@ -240,7 +245,12 @@
                level="item">
                <did>
                   <unittitle>[Second floor plan]</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <unitdatestructured altrender="1970s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
                   <physdesc id="aspace_db51b8b6600f6ea6ce5f36c5cd532816">25 x 23 1/4 inches unmatted; 31 1/2 x 30 inches matted</physdesc>
                   <container altrender="/repositories/3/top_containers/397065"
                              id="aspace_377bf69c710d6f5649d9cd45600abf30_c1"
@@ -256,7 +266,12 @@
                level="item">
                <did>
                   <unittitle>1 [First floor plan]</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <unitdatestructured altrender="1970s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
                   <physdesc id="aspace_3c6dc1acab5f9e392e41752a2b2ac529">30 3/4 x 24 inches unmatted</physdesc>
                   <container altrender="/repositories/3/top_containers/397065"
                              id="aspace_45b9c4f678e2b01af8f501d59382a7a7_c1"
@@ -272,7 +287,12 @@
                level="item">
                <did>
                   <unittitle>2M [Second floor mezzanine plan]</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <unitdatestructured altrender="1970s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
                   <physdesc id="aspace_68aa0b93c49d1e49afae3d79f9af3a77">32 1/4 x 24 15/16 inches unmatted</physdesc>
                   <container altrender="/repositories/3/top_containers/397065"
                              id="aspace_ea18936fcf8c014f933a1fa487329a4c_c1"
@@ -288,7 +308,12 @@
                level="item">
                <did>
                   <unittitle>4 [Fourth floor plan]</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <unitdatestructured altrender="1970s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
                   <physdesc id="aspace_e413fdc7d2b93c24f93c0997ed22c5b5">31 5/15 x 24 inches unmatted</physdesc>
                   <container altrender="/repositories/3/top_containers/397065"
                              id="aspace_605a6ebcabf0dc1e9fbaa27af2766586_c1"
@@ -324,7 +349,12 @@
                level="item">
                <did>
                   <unittitle>3 [Third floor plan]</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <unitdatestructured altrender="1970s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
                   <physdesc id="aspace_7ccf70191787fd27dfe9ba0616ee48d0">29 7/8 x 24 inches unmatted</physdesc>
                   <container altrender="/repositories/3/top_containers/397065"
                              id="aspace_1fb1c4898ad2ce1cc424dbf89807b82d_c1"
@@ -340,7 +370,12 @@
                level="file">
                <did>
                   <unittitle>2 [Second floor plan]</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <unitdatestructured altrender="1970s" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1979">1979</todate>
+                     </daterange>
+                  </unitdatestructured>
                   <physdesc id="aspace_9c735b7ca4ced59beb203be402f35da1">31 7/8 x 24 inches unmatted</physdesc>
                   <container altrender="/repositories/3/top_containers/397065"
                              id="aspace_0be7199f3cd7bf64ffe8737ee355e0ee_c1"
