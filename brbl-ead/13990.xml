@@ -37,7 +37,7 @@
                <p>Boxes: 1, 2-3 (Oversize), 4-7 (oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="24">24</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="24">24</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="26">26</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="85">85</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-22T00:09:07-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T23:03:08-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June 22, 2026 at 00:09</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -246,6 +246,27 @@
                           id="aspace_32bd30e11b3aeaa936e32b983e8affbc_c1"
                           label="Mixed Materials"
                           localtype="box">1</container>
+               <daoset altrender="/repositories/11/digital_objects/351766">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                       identifier="oid:17442845"
+                       linktitle="60 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/17442845"
+                       identifier="oid:17442845"
+                       linktitle="60 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Sketchbook</p>
+                  </descriptivenote>
+               </daoset>
             </did>
          </c>
          <c altrender="/repositories/11/archival_objects/4023932"
@@ -269,6 +290,27 @@
                              id="aspace_81d5257c03cb11549a9da2b363d5c774_c1"
                              label="Mixed Materials"
                              localtype="box">2 (Oversize)</container>
+                  <daoset altrender="/repositories/11/digital_objects/351760">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:2026731"
+                          linktitle="1 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/2026731"
+                          identifier="oid:2026731"
+                          linktitle="1 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Rennie Davis and Bobby G. Seale</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/4023934"

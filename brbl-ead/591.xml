@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-07T23:00:36-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T23:03:13-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August  7, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -16067,7 +16067,10 @@
                      id="aspace_ebe67aa0c8bfe6fdaa61f9494e1a0e17"
                      level="file">
                      <did>
-                        <unittitle>Out Magazine lawsuit</unittitle>
+                        <unittitle>
+                           <title>
+                              <part>Out</part>
+                           </title> magazine lawsuit</unittitle>
                         <unitdatestructured altrender="2006–2008" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="2006">2006</fromdate>

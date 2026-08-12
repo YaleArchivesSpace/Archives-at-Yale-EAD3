@@ -37,6 +37,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-17</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: 18</p>
+            </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects.</p>
             </controlnote>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-09T23:02:01-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T23:03:33-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -91,10 +94,10 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>7.75</quantity>
+            <quantity>8.0</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">17 boxes</physdesc>
+         <physdesc localtype="container_summary">18 boxes</physdesc>
          <unitdatestructured altrender="circa 1960-2018"
                              label="creation"
                              unitdatetype="inclusive">

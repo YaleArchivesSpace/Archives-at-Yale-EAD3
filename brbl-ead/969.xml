@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-29T23:15:25-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T23:00:26-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday May 29, 2026 at 23:15</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -22518,635 +22518,635 @@
                   <container id="aspace_ref889_c2" localtype="folder" parent="aspace_ref889_c1">1137</container>
                </did>
             </c>
-            <c altrender="/repositories/11/archival_objects/335282"
-               id="ref890"
+            <c altrender="/repositories/11/archival_objects/3529332"
+               id="aspace_98d044d6fa3b3be747c3495234635e9b"
                level="file">
                <did>
-                  <unittitle>"F" General</unittitle>
+                  <unittitle>"F" General [1 of 14]</unittitle>
                   <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
                   <container altrender="/repositories/11/top_containers/34097 /locations/4051"
                              containerid="39002091610593"
-                             id="aspace_ref890_c1"
+                             id="aspace_98d044d6fa3b3be747c3495234635e9b_c1"
                              label="Mixed Materials"
                              localtype="box">60</container>
-                  <container id="aspace_ref890_c2" localtype="folder" parent="aspace_ref890_c1">1138-1151</container>
+                  <container id="aspace_98d044d6fa3b3be747c3495234635e9b_c2"
+                             localtype="folder"
+                             parent="aspace_98d044d6fa3b3be747c3495234635e9b_c1">1138</container>
+                  <daoset altrender="/repositories/11/digital_objects/235197">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33077547"
+                          identifier="oid:33077547"
+                          linktitle="76 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33077548/full/!150,150/0/default.jpg"
+                          identifier="oid:33077547"
+                          linktitle="1r"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33077547"
+                          identifier="oid:33077547"
+                          linktitle="1r"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [1 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
-               <c altrender="/repositories/11/archival_objects/3529332"
-                  id="aspace_98d044d6fa3b3be747c3495234635e9b"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [1 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_98d044d6fa3b3be747c3495234635e9b_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_98d044d6fa3b3be747c3495234635e9b_c2"
-                                localtype="folder"
-                                parent="aspace_98d044d6fa3b3be747c3495234635e9b_c1">1138</container>
-                     <daoset altrender="/repositories/11/digital_objects/235197">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33077547"
-                             identifier="oid:33077547"
-                             linktitle="76 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33077548/full/!150,150/0/default.jpg"
-                             identifier="oid:33077547"
-                             linktitle="1r"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33077547"
-                             identifier="oid:33077547"
-                             linktitle="1r"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [1 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529333"
-                  id="aspace_491dd761da04ed44f49786cd413b2879"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [2 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_491dd761da04ed44f49786cd413b2879_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_491dd761da04ed44f49786cd413b2879_c2"
-                                localtype="folder"
-                                parent="aspace_491dd761da04ed44f49786cd413b2879_c1">1139</container>
-                     <daoset altrender="/repositories/11/digital_objects/235190">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33077624"
-                             identifier="oid:33077624"
-                             linktitle="59 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33077625/full/!150,150/0/default.jpg"
-                             identifier="oid:33077624"
-                             linktitle="1r"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33077624"
-                             identifier="oid:33077624"
-                             linktitle="1r"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [2 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529334"
-                  id="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [3 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86_c2"
-                                localtype="folder"
-                                parent="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86_c1">1140</container>
-                     <daoset altrender="/repositories/11/digital_objects/235198">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33077684"
-                             identifier="oid:33077684"
-                             linktitle="81 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33077685/full/!150,150/0/default.jpg"
-                             identifier="oid:33077684"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33077684"
-                             identifier="oid:33077684"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [3 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529335"
-                  id="aspace_52244c5edd72d79aa86820a1127138cc"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [4 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_52244c5edd72d79aa86820a1127138cc_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_52244c5edd72d79aa86820a1127138cc_c2"
-                                localtype="folder"
-                                parent="aspace_52244c5edd72d79aa86820a1127138cc_c1">1141</container>
-                     <daoset altrender="/repositories/11/digital_objects/235192">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33077766"
-                             identifier="oid:33077766"
-                             linktitle="57 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33077767/full/!150,150/0/default.jpg"
-                             identifier="oid:33077766"
-                             linktitle="1r"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33077766"
-                             identifier="oid:33077766"
-                             linktitle="1r"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [4 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529336"
-                  id="aspace_ee525943b0fb54fd2bd08a8c882dc01e"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [5 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_ee525943b0fb54fd2bd08a8c882dc01e_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_ee525943b0fb54fd2bd08a8c882dc01e_c2"
-                                localtype="folder"
-                                parent="aspace_ee525943b0fb54fd2bd08a8c882dc01e_c1">1142</container>
-                     <daoset altrender="/repositories/11/digital_objects/235199">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33077824"
-                             identifier="oid:33077824"
-                             linktitle="79 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33077825/full/!150,150/0/default.jpg"
-                             identifier="oid:33077824"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33077824"
-                             identifier="oid:33077824"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [5 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529337"
-                  id="aspace_d09d85e28cb96709ba0ddfb6a773a5e9"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [6 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_d09d85e28cb96709ba0ddfb6a773a5e9_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_d09d85e28cb96709ba0ddfb6a773a5e9_c2"
-                                localtype="folder"
-                                parent="aspace_d09d85e28cb96709ba0ddfb6a773a5e9_c1">1143</container>
-                     <daoset altrender="/repositories/11/digital_objects/235191">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33077904"
-                             identifier="oid:33077904"
-                             linktitle="32 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33077905/full/!150,150/0/default.jpg"
-                             identifier="oid:33077904"
-                             linktitle="1r"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33077904"
-                             identifier="oid:33077904"
-                             linktitle="1r"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [6 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529338"
-                  id="aspace_50cded4f523f0197117de866eb538d6b"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [7 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_50cded4f523f0197117de866eb538d6b_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_50cded4f523f0197117de866eb538d6b_c2"
-                                localtype="folder"
-                                parent="aspace_50cded4f523f0197117de866eb538d6b_c1">1144</container>
-                     <daoset altrender="/repositories/11/digital_objects/235193">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33077937"
-                             identifier="oid:33077937"
-                             linktitle="65 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33077938/full/!150,150/0/default.jpg"
-                             identifier="oid:33077937"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33077937"
-                             identifier="oid:33077937"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [7 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529339"
-                  id="aspace_c1e7f02ed947d39d212a767e6a07950c"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [8 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_c1e7f02ed947d39d212a767e6a07950c_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_c1e7f02ed947d39d212a767e6a07950c_c2"
-                                localtype="folder"
-                                parent="aspace_c1e7f02ed947d39d212a767e6a07950c_c1">1145</container>
-                     <daoset altrender="/repositories/11/digital_objects/235194">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33078003"
-                             identifier="oid:33078003"
-                             linktitle="65 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33078004/full/!150,150/0/default.jpg"
-                             identifier="oid:33078003"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33078003"
-                             identifier="oid:33078003"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [8 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529340"
-                  id="aspace_af4d22642ed8a6ed2eee8670482019f2"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [9 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_af4d22642ed8a6ed2eee8670482019f2_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_af4d22642ed8a6ed2eee8670482019f2_c2"
-                                localtype="folder"
-                                parent="aspace_af4d22642ed8a6ed2eee8670482019f2_c1">1146</container>
-                     <daoset altrender="/repositories/11/digital_objects/235184">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33078069"
-                             identifier="oid:33078069"
-                             linktitle="69 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33078070/full/!150,150/0/default.jpg"
-                             identifier="oid:33078069"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33078069"
-                             identifier="oid:33078069"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [9 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529341"
-                  id="aspace_a82171445ddead07931d13cdf2664134"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [10 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_a82171445ddead07931d13cdf2664134_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_a82171445ddead07931d13cdf2664134_c2"
-                                localtype="folder"
-                                parent="aspace_a82171445ddead07931d13cdf2664134_c1">1147</container>
-                     <daoset altrender="/repositories/11/digital_objects/235196">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33078139"
-                             identifier="oid:33078139"
-                             linktitle="75 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33078140/full/!150,150/0/default.jpg"
-                             identifier="oid:33078139"
-                             linktitle="p. [4 - 1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33078139"
-                             identifier="oid:33078139"
-                             linktitle="p. [4 - 1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [10 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529342"
-                  id="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [11 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc_c2"
-                                localtype="folder"
-                                parent="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc_c1">1148</container>
-                     <daoset altrender="/repositories/11/digital_objects/235187">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33078215"
-                             identifier="oid:33078215"
-                             linktitle="46 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33078216/full/!150,150/0/default.jpg"
-                             identifier="oid:33078215"
-                             linktitle="1r"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33078215"
-                             identifier="oid:33078215"
-                             linktitle="1r"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [11 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529343"
-                  id="aspace_4f0c2d414db1207101a0f10301df74ee"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [12 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_4f0c2d414db1207101a0f10301df74ee_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_4f0c2d414db1207101a0f10301df74ee_c2"
-                                localtype="folder"
-                                parent="aspace_4f0c2d414db1207101a0f10301df74ee_c1">1149</container>
-                     <daoset altrender="/repositories/11/digital_objects/235195">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33078262"
-                             identifier="oid:33078262"
-                             linktitle="43 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33078263/full/!150,150/0/default.jpg"
-                             identifier="oid:33078262"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33078262"
-                             identifier="oid:33078262"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [12 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529344"
-                  id="aspace_534190286a1a967ad1611cc9d65b73c1"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [13 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_534190286a1a967ad1611cc9d65b73c1_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_534190286a1a967ad1611cc9d65b73c1_c2"
-                                localtype="folder"
-                                parent="aspace_534190286a1a967ad1611cc9d65b73c1_c1">1150</container>
-                     <daoset altrender="/repositories/11/digital_objects/235188">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33078306"
-                             identifier="oid:33078306"
-                             linktitle="51 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33078307/full/!150,150/0/default.jpg"
-                             identifier="oid:33078306"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33078306"
-                             identifier="oid:33078306"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [13 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/3529345"
-                  id="aspace_178d7482597d723af31b0002f24a01ea"
-                  level="file">
-                  <did>
-                     <unittitle>"F" General [14 of 14]</unittitle>
-                     <container altrender="/repositories/11/top_containers/34097 /locations/4051"
-                                containerid="39002091610593"
-                                id="aspace_178d7482597d723af31b0002f24a01ea_c1"
-                                label="Mixed Materials"
-                                localtype="box">60</container>
-                     <container id="aspace_178d7482597d723af31b0002f24a01ea_c2"
-                                localtype="folder"
-                                parent="aspace_178d7482597d723af31b0002f24a01ea_c1">1151</container>
-                     <daoset altrender="/repositories/11/digital_objects/235189">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33078358"
-                             identifier="oid:33078358"
-                             linktitle="27 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33078359/full/!150,150/0/default.jpg"
-                             identifier="oid:33078358"
-                             linktitle="p. [1]"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33078358"
-                             identifier="oid:33078358"
-                             linktitle="p. [1]"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>"F" General [14 of 14]</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529333"
+               id="aspace_491dd761da04ed44f49786cd413b2879"
+               level="file">
+               <did>
+                  <unittitle>"F" General [2 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_491dd761da04ed44f49786cd413b2879_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_491dd761da04ed44f49786cd413b2879_c2"
+                             localtype="folder"
+                             parent="aspace_491dd761da04ed44f49786cd413b2879_c1">1139</container>
+                  <daoset altrender="/repositories/11/digital_objects/235190">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33077624"
+                          identifier="oid:33077624"
+                          linktitle="59 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33077625/full/!150,150/0/default.jpg"
+                          identifier="oid:33077624"
+                          linktitle="1r"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33077624"
+                          identifier="oid:33077624"
+                          linktitle="1r"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [2 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529334"
+               id="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86"
+               level="file">
+               <did>
+                  <unittitle>"F" General [3 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86_c2"
+                             localtype="folder"
+                             parent="aspace_ca2d3da4aa1d5f7c16c1c0c5c3576b86_c1">1140</container>
+                  <daoset altrender="/repositories/11/digital_objects/235198">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33077684"
+                          identifier="oid:33077684"
+                          linktitle="81 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33077685/full/!150,150/0/default.jpg"
+                          identifier="oid:33077684"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33077684"
+                          identifier="oid:33077684"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [3 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529335"
+               id="aspace_52244c5edd72d79aa86820a1127138cc"
+               level="file">
+               <did>
+                  <unittitle>"F" General [4 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_52244c5edd72d79aa86820a1127138cc_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_52244c5edd72d79aa86820a1127138cc_c2"
+                             localtype="folder"
+                             parent="aspace_52244c5edd72d79aa86820a1127138cc_c1">1141</container>
+                  <daoset altrender="/repositories/11/digital_objects/235192">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33077766"
+                          identifier="oid:33077766"
+                          linktitle="57 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33077767/full/!150,150/0/default.jpg"
+                          identifier="oid:33077766"
+                          linktitle="1r"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33077766"
+                          identifier="oid:33077766"
+                          linktitle="1r"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [4 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529336"
+               id="aspace_ee525943b0fb54fd2bd08a8c882dc01e"
+               level="file">
+               <did>
+                  <unittitle>"F" General [5 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_ee525943b0fb54fd2bd08a8c882dc01e_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_ee525943b0fb54fd2bd08a8c882dc01e_c2"
+                             localtype="folder"
+                             parent="aspace_ee525943b0fb54fd2bd08a8c882dc01e_c1">1142</container>
+                  <daoset altrender="/repositories/11/digital_objects/235199">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33077824"
+                          identifier="oid:33077824"
+                          linktitle="79 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33077825/full/!150,150/0/default.jpg"
+                          identifier="oid:33077824"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33077824"
+                          identifier="oid:33077824"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [5 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529337"
+               id="aspace_d09d85e28cb96709ba0ddfb6a773a5e9"
+               level="file">
+               <did>
+                  <unittitle>"F" General [6 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_d09d85e28cb96709ba0ddfb6a773a5e9_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_d09d85e28cb96709ba0ddfb6a773a5e9_c2"
+                             localtype="folder"
+                             parent="aspace_d09d85e28cb96709ba0ddfb6a773a5e9_c1">1143</container>
+                  <daoset altrender="/repositories/11/digital_objects/235191">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33077904"
+                          identifier="oid:33077904"
+                          linktitle="32 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33077905/full/!150,150/0/default.jpg"
+                          identifier="oid:33077904"
+                          linktitle="1r"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33077904"
+                          identifier="oid:33077904"
+                          linktitle="1r"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [6 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529338"
+               id="aspace_50cded4f523f0197117de866eb538d6b"
+               level="file">
+               <did>
+                  <unittitle>"F" General [7 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_50cded4f523f0197117de866eb538d6b_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_50cded4f523f0197117de866eb538d6b_c2"
+                             localtype="folder"
+                             parent="aspace_50cded4f523f0197117de866eb538d6b_c1">1144</container>
+                  <daoset altrender="/repositories/11/digital_objects/235193">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33077937"
+                          identifier="oid:33077937"
+                          linktitle="65 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33077938/full/!150,150/0/default.jpg"
+                          identifier="oid:33077937"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33077937"
+                          identifier="oid:33077937"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [7 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529339"
+               id="aspace_c1e7f02ed947d39d212a767e6a07950c"
+               level="file">
+               <did>
+                  <unittitle>"F" General [8 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_c1e7f02ed947d39d212a767e6a07950c_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_c1e7f02ed947d39d212a767e6a07950c_c2"
+                             localtype="folder"
+                             parent="aspace_c1e7f02ed947d39d212a767e6a07950c_c1">1145</container>
+                  <daoset altrender="/repositories/11/digital_objects/235194">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33078003"
+                          identifier="oid:33078003"
+                          linktitle="65 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33078004/full/!150,150/0/default.jpg"
+                          identifier="oid:33078003"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33078003"
+                          identifier="oid:33078003"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [8 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529340"
+               id="aspace_af4d22642ed8a6ed2eee8670482019f2"
+               level="file">
+               <did>
+                  <unittitle>"F" General [9 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_af4d22642ed8a6ed2eee8670482019f2_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_af4d22642ed8a6ed2eee8670482019f2_c2"
+                             localtype="folder"
+                             parent="aspace_af4d22642ed8a6ed2eee8670482019f2_c1">1146</container>
+                  <daoset altrender="/repositories/11/digital_objects/235184">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33078069"
+                          identifier="oid:33078069"
+                          linktitle="69 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33078070/full/!150,150/0/default.jpg"
+                          identifier="oid:33078069"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33078069"
+                          identifier="oid:33078069"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [9 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529341"
+               id="aspace_a82171445ddead07931d13cdf2664134"
+               level="file">
+               <did>
+                  <unittitle>"F" General [10 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_a82171445ddead07931d13cdf2664134_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_a82171445ddead07931d13cdf2664134_c2"
+                             localtype="folder"
+                             parent="aspace_a82171445ddead07931d13cdf2664134_c1">1147</container>
+                  <daoset altrender="/repositories/11/digital_objects/235196">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33078139"
+                          identifier="oid:33078139"
+                          linktitle="75 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33078140/full/!150,150/0/default.jpg"
+                          identifier="oid:33078139"
+                          linktitle="p. [4 - 1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33078139"
+                          identifier="oid:33078139"
+                          linktitle="p. [4 - 1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [10 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529342"
+               id="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc"
+               level="file">
+               <did>
+                  <unittitle>"F" General [11 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc_c2"
+                             localtype="folder"
+                             parent="aspace_dd38b4ccca3b0ab0d48919622ad2b2dc_c1">1148</container>
+                  <daoset altrender="/repositories/11/digital_objects/235187">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33078215"
+                          identifier="oid:33078215"
+                          linktitle="46 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33078216/full/!150,150/0/default.jpg"
+                          identifier="oid:33078215"
+                          linktitle="1r"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33078215"
+                          identifier="oid:33078215"
+                          linktitle="1r"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [11 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529343"
+               id="aspace_4f0c2d414db1207101a0f10301df74ee"
+               level="file">
+               <did>
+                  <unittitle>"F" General [12 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_4f0c2d414db1207101a0f10301df74ee_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_4f0c2d414db1207101a0f10301df74ee_c2"
+                             localtype="folder"
+                             parent="aspace_4f0c2d414db1207101a0f10301df74ee_c1">1149</container>
+                  <daoset altrender="/repositories/11/digital_objects/235195">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33078262"
+                          identifier="oid:33078262"
+                          linktitle="43 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33078263/full/!150,150/0/default.jpg"
+                          identifier="oid:33078262"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33078262"
+                          identifier="oid:33078262"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [12 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529344"
+               id="aspace_534190286a1a967ad1611cc9d65b73c1"
+               level="file">
+               <did>
+                  <unittitle>"F" General [13 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_534190286a1a967ad1611cc9d65b73c1_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_534190286a1a967ad1611cc9d65b73c1_c2"
+                             localtype="folder"
+                             parent="aspace_534190286a1a967ad1611cc9d65b73c1_c1">1150</container>
+                  <daoset altrender="/repositories/11/digital_objects/235188">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33078306"
+                          identifier="oid:33078306"
+                          linktitle="51 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33078307/full/!150,150/0/default.jpg"
+                          identifier="oid:33078306"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33078306"
+                          identifier="oid:33078306"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [13 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3529345"
+               id="aspace_178d7482597d723af31b0002f24a01ea"
+               level="file">
+               <did>
+                  <unittitle>"F" General [14 of 14]</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">ca. 1920s-60s</unitdate>
+                  <container altrender="/repositories/11/top_containers/34097 /locations/4051"
+                             containerid="39002091610593"
+                             id="aspace_178d7482597d723af31b0002f24a01ea_c1"
+                             label="Mixed Materials"
+                             localtype="box">60</container>
+                  <container id="aspace_178d7482597d723af31b0002f24a01ea_c2"
+                             localtype="folder"
+                             parent="aspace_178d7482597d723af31b0002f24a01ea_c1">1151</container>
+                  <daoset altrender="/repositories/11/digital_objects/235189">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33078358"
+                          identifier="oid:33078358"
+                          linktitle="27 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33078359/full/!150,150/0/default.jpg"
+                          identifier="oid:33078358"
+                          linktitle="p. [1]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33078358"
+                          identifier="oid:33078358"
+                          linktitle="p. [1]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"F" General [14 of 14]</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
             </c>
             <c altrender="/repositories/11/archival_objects/335283"
                id="ref891"
