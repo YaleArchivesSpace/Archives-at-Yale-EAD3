@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T18:34:15-04:00</eventdatetime>
+            <eventdatetime>2026-08-12T18:00:56-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 18:34</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2641,10 +2641,17 @@
                   <did>
                      <unittitle>The Romantic Religious Revolution and the Dilemmas of Religious History, <title localtype="simple" render="italic">
                            <part>Church History</part>
+                        </title>;  Romanticism as a Religious Revolution (abridged version of Haverford lectures on Romanticism);  The Saybrook Platform, <title localtype="simple" render="italic">
+                           <part>Bulletin of the Congregational Library</part>
                         </title>
                      </unittitle>
-                     <unitdatestructured altrender="1977 June" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1977-06">1977 June</datesingle>
+                     <unitdatestructured altrender="1959, 1971-1977"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1959">1959</fromdate>
+                           <todate standarddate="1977">1977</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/12071 /locations/9"
                                 containerid="39002038277811"
@@ -2652,41 +2659,6 @@
                                 label="Mixed Materials"
                                 localtype="box">14</container>
                      <container id="aspace_ref140_c2" localtype="folder" parent="aspace_ref140_c1">182</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/117302"
-                  id="ref141"
-                  level="file">
-                  <did>
-                     <unittitle>Romanticism as a Religious Revolution (abridged version of Haverford lectures on Romanticism)</unittitle>
-                     <unitdatestructured altrender="1971" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1971">1971</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/12071 /locations/9"
-                                containerid="39002038277811"
-                                id="aspace_ref141_c1"
-                                label="Mixed Materials"
-                                localtype="box">14</container>
-                     <container id="aspace_ref141_c2" localtype="folder" parent="aspace_ref141_c1">182</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/117303"
-                  id="ref142"
-                  level="file">
-                  <did>
-                     <unittitle>The Saybrook Platform, <title localtype="simple" render="italic">
-                           <part>Bulletin of the Congregational Library</part>
-                        </title>
-                     </unittitle>
-                     <unitdatestructured altrender="1959 October" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1959-10">1959 October</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/12071 /locations/9"
-                                containerid="39002038277811"
-                                id="aspace_ref142_c1"
-                                label="Mixed Materials"
-                                localtype="box">14</container>
-                     <container id="aspace_ref142_c2" localtype="folder" parent="aspace_ref142_c1">182</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/117304"

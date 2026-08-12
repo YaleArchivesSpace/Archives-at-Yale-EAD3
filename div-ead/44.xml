@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-16T18:00:47-04:00</eventdatetime>
+            <eventdatetime>2026-08-12T18:01:07-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5270,26 +5270,19 @@
                            <part>Asian Women's Institute Newsletter</part>
                         </title>
                      </unittitle>
+                     <unitdatestructured altrender="1975-1977" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1975">1975</fromdate>
+                           <todate standarddate="1977">1977</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/2590 /locations/9"
+                                containerid="39002038425782"
+                                id="aspace_ref310_c1"
+                                label="Mixed Materials"
+                                localtype="box">37</container>
+                     <container id="aspace_ref310_c2" localtype="folder" parent="aspace_ref310_c1">327</container>
                   </did>
-                  <c altrender="/repositories/4/archival_objects/11837"
-                     id="ref311"
-                     level="file">
-                     <did>
-                        <unittitle>issues</unittitle>
-                        <unitdatestructured altrender="1975-1977" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1975">1975</fromdate>
-                              <todate standarddate="1977">1977</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/2590 /locations/9"
-                                   containerid="39002038425782"
-                                   id="aspace_ref311_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">37</container>
-                        <container id="aspace_ref311_c2" localtype="folder" parent="aspace_ref311_c1">327</container>
-                     </did>
-                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/11838"
                   id="ref312"

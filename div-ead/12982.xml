@@ -60,10 +60,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-26T18:02:47-04:00</eventdatetime>
+            <eventdatetime>2026-08-12T18:01:58-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June 26, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 18:01</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -4273,35 +4273,18 @@
                            </daoset>
                         </did>
                      </c>
-                     <c altrender="/repositories/4/archival_objects/3539622"
-                        id="aspace_c56e9ee05ecbd8ca2cd7420ab667f172"
-                        level="file">
-                        <did>
-                           <unittitle>To his son William T. Dwight</unittitle>
-                           <unitdatestructured altrender="1808 October (?) 19"
-                                               label="creation"
-                                               unitdatetype="inclusive">
-                              <datesingle standarddate="1808-10-19">1808 October (?) 19</datesingle>
-                           </unitdatestructured>
-                           <container altrender="/repositories/4/top_containers/391719 /locations/2"
-                                      containerid="39002112324075"
-                                      id="aspace_c56e9ee05ecbd8ca2cd7420ab667f172_c1"
-                                      label="Mixed Materials"
-                                      localtype="box">2</container>
-                           <container id="aspace_c56e9ee05ecbd8ca2cd7420ab667f172_c2"
-                                      localtype="folder"
-                                      parent="aspace_c56e9ee05ecbd8ca2cd7420ab667f172_c1">20</container>
-                        </did>
-                     </c>
                      <c altrender="/repositories/4/archival_objects/3539630"
                         id="aspace_307a567e5ecc1de5c872d2e5d95dfc24"
                         level="file">
                         <did>
-                           <unittitle>To his son William T. Dwight, with enclosed undated note to Timothy Dwight from Erasmus Darwin </unittitle>
-                           <unitdatestructured altrender="1809 January 9"
+                           <unittitle>To his son William T. Dwight</unittitle>
+                           <unitdatestructured altrender="1808 October(?) 19, 1809 January 9"
                                                label="creation"
                                                unitdatetype="inclusive">
-                              <datesingle standarddate="1809-01-09">1809 January 9</datesingle>
+                              <daterange>
+                                 <fromdate standarddate="1808-10-19">1808 October 19</fromdate>
+                                 <todate standarddate="1809-01-09">1809 January 9</todate>
+                              </daterange>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/391719 /locations/2"
                                       containerid="39002112324075"
@@ -4343,7 +4326,7 @@
                         </did>
                         <scopecontent id="aspace_088ec16e487baeaf9d0206151c4f195c">
                            <head>Scope and Contents</head>
-                           <p>The letter to William T. Dwight lacks its concluding page(s).</p>
+                           <p>The letter to William T. Dwight from 1809 lacks its concluding page(s) and includes an enclosed undated note to Timothy Dwight from Erasmus Darwin</p>
                         </scopecontent>
                      </c>
                      <c altrender="/repositories/4/archival_objects/3539635"
@@ -18057,10 +18040,15 @@ Timothy Dwight to Josiah Dunham, 1812 April 3</p>
                      <did>
                         <unittitle>Daniel Dana: <title>
                               <part>A Sermon on the Atonement : preached at the annual convention of the Congregational and Presbyterian ministers of the state of New Hampshire</part>
+                           </title>; James Dana: <title>
+                              <part>An Examination of the late Reverend President Edward's 'Enquiry on freedom of will : more especially the foundation principle of his book, with the tendency and consequences of the reasoning therein contained ...</part>
                            </title>
                         </unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1824">1824</datesingle>
+                        <unitdatestructured altrender="1770, 1824" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1770">1770</fromdate>
+                              <todate standarddate="1824">1824</todate>
+                           </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/392450 /locations/2"
                                    containerid="39002112324166"
@@ -18099,27 +18087,6 @@ Timothy Dwight to Josiah Dunham, 1812 April 3</p>
                               <p>Daniel Dana: A Sermon on the Atonement : preached at the annual convention of the Congregational and Presbyterian ministers of the state of New Hampshire</p>
                            </descriptivenote>
                         </daoset>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/3554539"
-                     id="aspace_66ee3a9833edcf088715fcb730f549b6"
-                     level="file">
-                     <did>
-                        <unittitle>James Dana: <title>
-                              <part>An Examination of the late Reverend President Edward's 'Enquiry on freedom of will : more especially the foundation principle of his book, with the tendency and consequences of the reasoning therein contained ...</part>
-                           </title>
-                        </unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1770">1770</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/392450 /locations/2"
-                                   containerid="39002112324166"
-                                   id="aspace_66ee3a9833edcf088715fcb730f549b6_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">9</container>
-                        <container id="aspace_66ee3a9833edcf088715fcb730f549b6_c2"
-                                   localtype="folder"
-                                   parent="aspace_66ee3a9833edcf088715fcb730f549b6_c1">7</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3554538"

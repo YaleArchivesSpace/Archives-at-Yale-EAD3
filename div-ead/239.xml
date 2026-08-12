@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-17T18:05:09-04:00</eventdatetime>
+            <eventdatetime>2026-08-12T18:00:51-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday June 17, 2026 at 18:05</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2547,7 +2547,7 @@
                   id="ref147"
                   level="file">
                   <did>
-                     <unittitle>"In Manchuria", "Now It Must Be Told"</unittitle>
+                     <unittitle>"In Manchuria", "Now It Must Be Told", "Personal Observations in the Ruhr"</unittitle>
                      <unitdatestructured altrender="1923" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1923">1923</datesingle>
                      </unitdatestructured>
@@ -2557,22 +2557,6 @@
                                 label="Mixed Materials"
                                 localtype="box">6</container>
                      <container id="aspace_ref147_c2" localtype="folder" parent="aspace_ref147_c1">108</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/76361"
-                  id="ref148"
-                  level="file">
-                  <did>
-                     <unittitle>"Personal Observations in the Ruhr"</unittitle>
-                     <unitdatestructured altrender="1923" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1923">1923</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/8250 /locations/9"
-                                containerid="39002022292529"
-                                id="aspace_ref148_c1"
-                                label="Mixed Materials"
-                                localtype="box">6</container>
-                     <container id="aspace_ref148_c2" localtype="folder" parent="aspace_ref148_c1">108</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/76362"

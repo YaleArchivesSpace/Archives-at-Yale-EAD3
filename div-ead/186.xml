@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-07T18:00:21-04:00</eventdatetime>
+            <eventdatetime>2026-08-12T18:02:12-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11153,52 +11153,11 @@
                      </daoset>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/2949420"
-                  id="aspace_8fb524c77480fc1b5c3101d946bc843a"
-                  level="file">
-                  <did>
-                     <unittitle>Slides from Northern Baptist Convention - Changning</unittitle>
-                     <container altrender="/repositories/4/top_containers/348148 /locations/2"
-                                containerid="39002098723472"
-                                id="aspace_8fb524c77480fc1b5c3101d946bc843a_c1"
-                                label="Mixed Materials"
-                                localtype="box">42</container>
-                     <daoset altrender="/repositories/4/digital_objects/251850">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33118036"
-                             identifier="oid:33118036"
-                             linktitle="4 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33118037/full/!150,150/0/default.jpg"
-                             identifier="oid:33118036"
-                             linktitle="4 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33118036"
-                             identifier="oid:33118036"
-                             linktitle="4 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Slides from Northern Baptist Convention - Changning</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/2949421"
                   id="aspace_113e4e674a1f300d599d912acf10371d"
                   level="file">
                   <did>
-                     <unittitle>Slides from Hui Wen Academy</unittitle>
+                     <unittitle>Slides from Northern Baptist Convention - Changning</unittitle>
                      <container altrender="/repositories/4/top_containers/348148 /locations/2"
                                 containerid="39002098723472"
                                 id="aspace_113e4e674a1f300d599d912acf10371d_c1"
@@ -11231,6 +11190,47 @@
                              show="new"/>
                         <descriptivenote>
                            <p>Slides from Hui Wen Academy</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/2949420"
+                  id="aspace_8fb524c77480fc1b5c3101d946bc843a"
+                  level="file">
+                  <did>
+                     <unittitle>Slides from Hui Wen Academy</unittitle>
+                     <container altrender="/repositories/4/top_containers/348148 /locations/2"
+                                containerid="39002098723472"
+                                id="aspace_8fb524c77480fc1b5c3101d946bc843a_c1"
+                                label="Mixed Materials"
+                                localtype="box">42</container>
+                     <daoset altrender="/repositories/4/digital_objects/251850">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33118036"
+                             identifier="oid:33118036"
+                             linktitle="4 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33118037/full/!150,150/0/default.jpg"
+                             identifier="oid:33118036"
+                             linktitle="4 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33118036"
+                             identifier="oid:33118036"
+                             linktitle="4 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Slides from Northern Baptist Convention - Changning</p>
                         </descriptivenote>
                      </daoset>
                   </did>
@@ -11564,6 +11564,10 @@
                         </descriptivenote>
                      </daoset>
                   </did>
+                  <scopecontent id="aspace_c214565cdc648d4513b2c1f61978cdd2">
+                     <head>Scope and Contents</head>
+                     <p>Slides identified as WS-16 and WS-21 are duplicates of each other.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/2949430"
                   id="aspace_d19cda00a4f2486ffd2215c8fdf41220"

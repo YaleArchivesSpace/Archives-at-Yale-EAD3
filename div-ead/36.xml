@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-24T18:02:31-04:00</eventdatetime>
+            <eventdatetime>2026-08-12T18:00:39-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 24, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7979,30 +7979,16 @@
                   id="ref433"
                   level="file">
                   <did>
-                     <unittitle>Price, Frank W., "The Church in China Today"</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <unittitle>Price, Frank W., "The Church in China Today" and "History of Nanking Theological Seminary, 1911 to 1961"</unittitle>
+                     <unitdatestructured altrender="1961, n.d." label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1961">1961, n.d.</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/2160 /locations/9"
                                 containerid="39002038304326"
                                 id="aspace_ref433_c1"
                                 label="Mixed Materials"
                                 localtype="box">31</container>
                      <container id="aspace_ref433_c2" localtype="folder" parent="aspace_ref433_c1">428</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/7447"
-                  id="ref434"
-                  level="file">
-                  <did>
-                     <unittitle>Price, Frank W. History of Nanking Theological Seminary, 1911-1961</unittitle>
-                     <unitdatestructured altrender="1961" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1961">1961</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/2160 /locations/9"
-                                containerid="39002038304326"
-                                id="aspace_ref434_c1"
-                                label="Mixed Materials"
-                                localtype="box">31</container>
-                     <container id="aspace_ref434_c2" localtype="folder" parent="aspace_ref434_c1">428</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/7448"

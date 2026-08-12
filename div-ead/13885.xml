@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-10T18:01:23-04:00</eventdatetime>
+            <eventdatetime>2026-08-12T18:01:11-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 10, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7297,7 +7297,7 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1908">1908</fromdate>
-                              <todate standarddate="1932">1932</todate>
+                              <todate standarddate="1914">1914</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/420654 /locations/9"
@@ -7307,12 +7307,54 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                                    localtype="box">56</container>
                         <container id="aspace_665ccc6d56704caaf106a2ef440625ca_c2"
                                    localtype="folder"
-                                   parent="aspace_665ccc6d56704caaf106a2ef440625ca_c1">6-8</container>
+                                   parent="aspace_665ccc6d56704caaf106a2ef440625ca_c1">6</container>
                      </did>
                      <scopecontent id="aspace_b4b4520712f17624e716ab9d1ba7abab">
                         <head>Scope and Contents</head>
                         <p>Reports, charter, college quarterly for school located in Istanbul, which was also known as Constantinople College and later affiliated with Robert College.</p>
                      </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052864"
+                     id="aspace_0a6db20a29ddef155fbf6a2ccddb4b7a"
+                     level="file">
+                     <did>
+                        <unittitle>American College for Girls in Constantinople</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1915">1915</fromdate>
+                              <todate standarddate="1919">1919</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/420654 /locations/9"
+                                   containerid="39002112325262"
+                                   id="aspace_0a6db20a29ddef155fbf6a2ccddb4b7a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">56</container>
+                        <container id="aspace_0a6db20a29ddef155fbf6a2ccddb4b7a_c2"
+                                   localtype="folder"
+                                   parent="aspace_0a6db20a29ddef155fbf6a2ccddb4b7a_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4052865"
+                     id="aspace_589b21239a6d1e8e8118d1be9d65b4f6"
+                     level="file">
+                     <did>
+                        <unittitle>American College for Girls in Constantinople</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1920">1920</fromdate>
+                              <todate standarddate="1932">1932</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/420654 /locations/9"
+                                   containerid="39002112325262"
+                                   id="aspace_589b21239a6d1e8e8118d1be9d65b4f6_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">56</container>
+                        <container id="aspace_589b21239a6d1e8e8118d1be9d65b4f6_c2"
+                                   localtype="folder"
+                                   parent="aspace_589b21239a6d1e8e8118d1be9d65b4f6_c1">8</container>
+                     </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4052592"
                      id="aspace_1c81536a632789dd34ea4aaa042efb61"
