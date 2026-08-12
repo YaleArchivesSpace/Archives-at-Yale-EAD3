@@ -39,7 +39,7 @@
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">4065431</num>.</p>
             </controlnote>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-93, 93A-125, 127-144, 144a-146, 153-155-161 and 2 oversize posters, 160-161, 161a-162, 162a, 162b, 162c-168A, 170-174, 174a, 174b-184, 192-193, 203-208, 210-220</p>
+               <p>Boxes: 1-93, 93A-125, 127-144, 144a-146, 153-161, 161a-162, 162a, 162b, 162c-168A, 170-174, 174a, 174b-184, 192-193, 203-208, 210-220</p>
                <p>Folders: Oversized Folder-Oversized Folder (ovf) 2</p>
             </controlnote>
             <controlnote localtype="onsite">
@@ -79,10 +79,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-30T20:00:30-04:00</eventdatetime>
+            <eventdatetime>2026-08-11T20:00:07-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -93286,9 +93286,89 @@
                         </unitdatestructured>
                         <physdesc id="aspace_2eb8263a455642c1f0c78e9aaf827a0d">49 items.</physdesc>
                         <container altrender="/repositories/6/top_containers/306566 /locations/9"
+                                   containerid="39002038168770"
                                    id="aspace_d1e94444_c1"
                                    label="Mixed Materials"
-                                   localtype="box">155-161 and 2 oversize posters</container>
+                                   localtype="box">155</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4052776"
+                     id="aspace_6df1c4b9955fb6051877328930c50dc1"
+                     level="file">
+                     <did>
+                        <unittitle>Posters and displays</unittitle>
+                        <container altrender="/repositories/6/top_containers/484738 /locations/9"
+                                   containerid="39002038168762"
+                                   id="aspace_6df1c4b9955fb6051877328930c50dc1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">156</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4052777"
+                     id="aspace_0ba9c51cc12d32fd23d359feaa415a96"
+                     level="file">
+                     <did>
+                        <unittitle>Posters and displays</unittitle>
+                        <container altrender="/repositories/6/top_containers/484739 /locations/9"
+                                   containerid="39002115985856"
+                                   id="aspace_0ba9c51cc12d32fd23d359feaa415a96_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">157</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4052778"
+                     id="aspace_481eb52d04c096e2fbec885a0fcf2239"
+                     level="file">
+                     <did>
+                        <unittitle>Posters and displays</unittitle>
+                        <container altrender="/repositories/6/top_containers/484740 /locations/9"
+                                   containerid="39002038168788"
+                                   id="aspace_481eb52d04c096e2fbec885a0fcf2239_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">158</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4052779"
+                     id="aspace_5193280f8b72f929d72b0b3c97bfb381"
+                     level="file">
+                     <did>
+                        <unittitle>Posters and displays</unittitle>
+                        <container altrender="/repositories/6/top_containers/484741 /locations/9"
+                                   containerid="39002115985864"
+                                   id="aspace_5193280f8b72f929d72b0b3c97bfb381_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">159</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4052782"
+                     id="aspace_d8ea30d38d1a22d7f06c624da32baac0"
+                     level="file">
+                     <did>
+                        <unittitle>Posters and displays</unittitle>
+                        <container altrender="/repositories/6/top_containers/306499 /locations/9"
+                                   containerid="39002038168739"
+                                   id="aspace_d8ea30d38d1a22d7f06c624da32baac0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">160</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4052783"
+                     id="aspace_947aff4b0c7eb9b16fb2c844784176d4"
+                     level="file">
+                     <did>
+                        <unittitle>Posters and displays</unittitle>
+                        <container altrender="/repositories/6/top_containers/306531 /locations/9"
+                                   containerid="39002038168754"
+                                   id="aspace_947aff4b0c7eb9b16fb2c844784176d4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">161</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4052784"
+                     id="aspace_157de8d92c910e834237c293c2a55239"
+                     level="file">
+                     <did>
+                        <unittitle>Posters (Oversize)</unittitle>
                      </did>
                   </c>
                </c>
