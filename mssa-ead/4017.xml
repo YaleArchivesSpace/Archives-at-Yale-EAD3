@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-31T03:00:29-04:00</eventdatetime>
+            <eventdatetime>2026-08-13T03:02:30-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4090,16 +4090,21 @@
                      id="ref200"
                      level="file">
                      <did>
-                        <unittitle>Paul Guth </unittitle>
+                        <unittitle>Paul Guth</unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:47:10</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
                         </physdescstructured>
                         <unitdatestructured altrender="2001 February 24"
                                             label="creation"
                                             unitdatetype="inclusive">
                            <datesingle standarddate="2001-02-24">2001 February 24</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_a8dafb35d823be3306d92a0b7a2bd53a">Audio distortion, hiss, and hum are present.</materialspec>
                         <container altrender="/repositories/12/top_containers/144422 /locations/9"
                                    containerid="39002063470539"
                                    encodinganalog="audiocassette case"
