@@ -1804,7 +1804,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.thompson.xml](12312.xml) | beinecke.thompson | WA MSS S-2404 | Lucy Thompson papers | 
  [beinecke.hugoh.xml](12323.xml) | beinecke.hugoh | GEN MSS 1785 | Harold Hugo papers | 
  [beinecke.jacksonlafayette.xml](12330.xml) | beinecke.jacksonlafayette | GEN MSS 1458 | Stuart W. Jackson collection of Marquis de Lafayette manuscripts | 
- [beinecke.parksstudy.xml](12331.xml) | beinecke.parksstudy | JWJ MSS 363 | Study Sets of Photographs | 
+ [beinecke.parksstudy.xml](12331.xml) | beinecke.parksstudy | JWJ MSS 363 | Gordon Parks Study Sets of Photographs | 
  [beinecke.millerbriggs.xml](12332.xml) | beinecke.millerbriggs | JWJ MSS 364 | Olivette Miller and Bunny Briggs collection | 
  [beinecke.benjamintrumbull.xml](12336.xml) | beinecke.benjamintrumbull | GEN MSS 1894 | Benjamin Trumbull Papers | 
  [beinecke.cprrstereographs.xml](12343.xml) | beinecke.cprrstereographs | WA Photos 1265 | Alfred A. Hart and Carleton E. Watkins Stereographs of the Central Pacific Railroad | 

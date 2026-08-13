@@ -71,16 +71,16 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-07T00:31:45-05:00</eventdatetime>
+            <eventdatetime>2026-08-12T23:00:15-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday December  7, 2025 at 00:31</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/11/resources/12331" level="collection">
       <did>
-         <unittitle>Study Sets of Photographs</unittitle>
+         <unittitle>Gordon Parks Study Sets of Photographs</unittitle>
          <unitid>JWJ MSS 363</unitid>
          <repository>
             <corpname>
@@ -144,7 +144,7 @@
       </bioghist>
       <prefercite id="aspace_63ea8c48a3e7f9a89651d76917cbda00">
          <head>Preferred Citation</head>
-         <p>Gordon Parks, Study Sets of Photographs. James Weldon Johnson Memorial Collection in the Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</p>
+         <p>Gordon Parks Study Sets of Photographs. James Weldon Johnson Memorial Collection in the Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</p>
       </prefercite>
       <processinfo id="aspace_aaad96cafb5c6d4a49ac556fa4f9b491">
          <head>Processing Information</head>
@@ -161,6 +161,14 @@
          <p>Study sets that straddle the 1960s and 1970s include <emph>The Flávio Story</emph>, a series on poverty in the favelas of Rio de Janeiro, Brazil, in 1961 and 1976, which documents Brazilian boy Flávio da Silva and his family for <emph>Life</emph>, and <emph>Gordon Parks X Muhammad Ali</emph>, a series of portraits of the heavyweight boxer for <emph>Life</emph>, 1966 and 1970.</p>
          <p>Prints in the collection made by Parks during his lifetime were bequeathed to The Gordon Parks Foundation. Prints reproduced and distributed by the Gordon Parks Foundation include gelatin silver prints by Griffin Editions and inkjet prints by Adamson Editions.</p>
       </scopecontent>
+      <accessrestrict id="aspace_aa9a2c976a4a3e137b2aa999ee0b6fee">
+         <head>Conditions Governing Access</head>
+         <p>This material is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_8accd0653e755d91d6d748d37d6f72e6">
+         <head>Conditions Governing Use</head>
+         <p>The Gordon Parks Study Sets of Photographs is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns.</p>
+      </userestrict>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh2009114048"
                   source="lcsh">
