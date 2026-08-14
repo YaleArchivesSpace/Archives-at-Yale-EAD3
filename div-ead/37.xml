@@ -41,7 +41,7 @@
                <p>Boxes: 1-5</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="172">172</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="250">250</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:03:30-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:54:06-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:54</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -518,6 +518,27 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref27_c2" localtype="folder" parent="aspace_ref27_c1">7</container>
+                  <daoset altrender="/repositories/4/digital_objects/352941">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33765740"
+                          linktitle="41 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33765740"
+                          identifier="oid:33765740"
+                          linktitle="41 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Kettner, Gertruth; India</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/8528"
@@ -1562,6 +1583,27 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33752427"
                           identifier="oid:33752427"
+                          linktitle="37 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Halvorson, Marian; Tanzania</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/4/digital_objects/352936">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33765141"
+                          linktitle="37 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33765141"
+                          identifier="oid:33765141"
                           linktitle="37 images"
                           linkrole="text-html"
                           show="new"/>

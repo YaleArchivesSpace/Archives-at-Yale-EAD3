@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-24, 24a-26, 26a, 26b-28, 28a, 28b-47, 47a-50, 50a-62</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="72">72</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-19T18:01:34-05:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:52:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday December 19, 2025 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:52</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -8917,6 +8920,27 @@
                                 label="Mixed Materials"
                                 localtype="box">58</container>
                      <container id="aspace_ref543_c2" localtype="folder" parent="aspace_ref543_c1">703</container>
+                     <daoset altrender="/repositories/4/digital_objects/352931">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33764790"
+                             linktitle="72 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33764790"
+                             identifier="oid:33764790"
+                             linktitle="72 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Refugee Women-GTU</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/10799"

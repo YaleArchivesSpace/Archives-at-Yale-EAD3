@@ -40,7 +40,7 @@
                <p>Boxes: 1-49, 49A-182</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="98">98</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="191">191</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-22T18:01:15-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:52:45-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday April 22, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:52</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -70443,6 +70443,27 @@ Administrative files include partner agency correspondence and reports, Urban Ru
                            <container id="aspace_9618f275363bcf7f52b5b13cb51dfb45_c2"
                                       localtype="folder"
                                       parent="aspace_9618f275363bcf7f52b5b13cb51dfb45_c1">15</container>
+                           <daoset altrender="/repositories/4/digital_objects/352937">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                   identifier="oid:33765053"
+                                   linktitle="93 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33765053"
+                                   identifier="oid:33765053"
+                                   linktitle="93 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>Migrant Workers, Refugees and Internally-Displaced Communities (MRIA)</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                      </c>
                      <c altrender="/repositories/4/archival_objects/2318433"

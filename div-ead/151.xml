@@ -45,7 +45,7 @@
                <p>Boxes: OV1-OV2, 5-7</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="10">10</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="558">558</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="11">11</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="582">582</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-16T18:02:32-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:51:40-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 16, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:51</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -425,6 +425,27 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref23_c2" localtype="folder" parent="aspace_ref23_c1">12</container>
+                     <daoset altrender="/repositories/4/digital_objects/352928">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33764857"
+                             linktitle="24 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33764857"
+                             identifier="oid:33764857"
+                             linktitle="24 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Advocacy letters for refugees</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>

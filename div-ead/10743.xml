@@ -37,6 +37,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-6</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="135">135</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -65,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-02-10T18:02:23-05:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:50:55-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday February 10, 2025 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:50</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -216,6 +219,27 @@
                              id="aspace_8003e6e052547a89cfd751b28d3d1ee1_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
+                  <daoset altrender="/repositories/4/digital_objects/352920">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33762382"
+                          linktitle="135 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33762382"
+                          identifier="oid:33762382"
+                          linktitle="135 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Alcott, Louisa May</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2645433"

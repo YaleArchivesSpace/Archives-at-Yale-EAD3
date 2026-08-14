@@ -42,7 +42,7 @@
                <p>Boxes: 1-61, 63-131</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="603">603</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="15">15</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="667">667</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:29:16-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:52:23-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:29</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:52</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -24336,54 +24336,6 @@
                      <p>Comments: contains issues of newspapers issued by residents of several relocation camps</p>
                   </scopecontent>
                </c>
-               <c altrender="/repositories/4/archival_objects/110297"
-                  id="ref2037"
-                  level="file">
-                  <did>
-                     <unittitle>World War, 1939-1945</unittitle>
-                     <unitdatestructured altrender="1943-1944" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1943">1943</fromdate>
-                           <todate standarddate="1944">1944</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/11318 /locations/9"
-                                containerid="39002038277027"
-                                id="aspace_ref2037_c1"
-                                label="Mixed Materials"
-                                localtype="box">130</container>
-                     <container id="aspace_ref2037_c2"
-                                localtype="folder"
-                                parent="aspace_ref2037_c1">4</container>
-                     <daoset altrender="/repositories/4/digital_objects/352922">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
-                             identifier="oid:33763156"
-                             linktitle="136 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33763156"
-                             identifier="oid:33763156"
-                             linktitle="136 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>World War, 1939-1945</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-                  <scopecontent id="aspace_11ffe16fcb27c742c0669c3806691b95">
-                     <head>Scope and Contents</head>
-                     <p>Subject Headings: Civil Rights; College students; Education; Japanese Americans-Evacuation and relocation; Race relations; World War, 1939-1945</p>
-                     <p>Corporate Bodies: National Japanese American Student Relocation Council: Philadelphia, PA</p>
-                     <p>Comments: contains papers and pamphlets about the activities of the Council which worked with Japanese American college students whose families had been relocated and students from relocation camps; for related materials see files in boxes 128,129 &amp; 130</p>
-                  </scopecontent>
-               </c>
                <c altrender="/repositories/4/archival_objects/110290"
                   id="ref2023"
                   level="file">
@@ -24565,6 +24517,54 @@
                      <p>Subject Headings: Civil Rights; Japanese Americans-Evacuation and relocation; Race relations; World War, 1939-1945</p>
                      <p>Corporate Bodies:Japanese American Committee for Democracy: New York, NY</p>
                      <p>Comments: contains the constitution and papers about the activities of the Committee on behalf of the civil rights of Japanese Americans during the War; for related materials see files in boxes 128, 129 &amp; 130</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/110297"
+                  id="ref2037"
+                  level="file">
+                  <did>
+                     <unittitle>World War, 1939-1945</unittitle>
+                     <unitdatestructured altrender="1943-1944" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1943">1943</fromdate>
+                           <todate standarddate="1944">1944</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11318 /locations/9"
+                                containerid="39002038277027"
+                                id="aspace_ref2037_c1"
+                                label="Mixed Materials"
+                                localtype="box">130</container>
+                     <container id="aspace_ref2037_c2"
+                                localtype="folder"
+                                parent="aspace_ref2037_c1">4</container>
+                     <daoset altrender="/repositories/4/digital_objects/352922">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33763156"
+                             linktitle="136 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33763156"
+                             identifier="oid:33763156"
+                             linktitle="136 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>World War, 1939-1945</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <scopecontent id="aspace_11ffe16fcb27c742c0669c3806691b95">
+                     <head>Scope and Contents</head>
+                     <p>Subject Headings: Civil Rights; College students; Education; Japanese Americans-Evacuation and relocation; Race relations; World War, 1939-1945</p>
+                     <p>Corporate Bodies: National Japanese American Student Relocation Council: Philadelphia, PA</p>
+                     <p>Comments: contains papers and pamphlets about the activities of the Council which worked with Japanese American college students whose families had been relocated and students from relocation camps; for related materials see files in boxes 128,129 &amp; 130</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/110298"
@@ -24869,6 +24869,27 @@
                      <container id="aspace_ref2063_c2"
                                 localtype="folder"
                                 parent="aspace_ref2063_c1">4</container>
+                     <daoset altrender="/repositories/4/digital_objects/352934">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33764937"
+                             linktitle="64 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33764937"
+                             identifier="oid:33764937"
+                             linktitle="64 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>A survey of prostitution</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_0560b4e9ff6a0d7326fdaca760aa451f">
                      <head>Scope and Contents</head>
