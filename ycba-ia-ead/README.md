@@ -94,7 +94,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [ycba.mss.0027.xml](11764.xml) | ycba.mss.0027 | MSS 27 | Grimston family letters | 
  [ycba.mss.0026.xml](11766.xml) | ycba.mss.0026 | MSS 26 | James Wales archive | 
  [ycba.mss.0033.xml](11767.xml) | ycba.mss.0033 | MSS 33 | Wake and Bellhouse family papers | 
- [ycba.mss.0034.xml](11770.xml) | ycba.mss.0034 | MSS 34 | Album of letters to David Roberts, with autographs, engraved portraits, and printed ephemera, compiled by Henry Sanford Bicknell | 
+ [ycba.mss.0034.xml](11770.xml) | ycba.mss.0034 | MSS 34 | Album of letters to David Roberts compiled by Henry Sanford Bicknell | 
  [ycba.mss.0035.xml](11771.xml) | ycba.mss.0035 | MSS 35 | Rowe collection of botanical specimens | 
  [ycba.mss.0037.xml](11772.xml) | ycba.mss.0037 | MSS 37 | John Ruskin letters to John Henry Le Keux | 
  [ycba.mss.0041.xml](11773.xml) | ycba.mss.0041 | MSS 41 | John Britton archive | 

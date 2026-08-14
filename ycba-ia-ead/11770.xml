@@ -13,8 +13,8 @@
       <otherrecordid localtype="BIB">11746157</otherrecordid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Album of letters to David Roberts, with autographs, engraved portraits, and printed ephemera, compiled by Henry Sanford Bicknell </titleproper>
-            <titleproper localtype="filing">Roberts (David), Album of letters, with autographs, engraved portraits, and printed ephemera, compiled by Henry Sanford Bicknell</titleproper>
+            <titleproper>Guide to the Album of letters to David Roberts compiled by Henry Sanford Bicknell </titleproper>
+            <titleproper localtype="filing">Roberts (David), Album of letters compiled by Henry Sanford Bicknell</titleproper>
          </titlestmt>
          <publicationstmt>
             <publisher>Yale Center for British Art, Archives</publisher>
@@ -62,16 +62,16 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-09T18:00:33-05:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:00:28-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday February  9, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/3/resources/11770" level="collection">
       <did>
-         <unittitle>Album of letters to David Roberts, with autographs, engraved portraits, and printed ephemera, compiled by Henry Sanford Bicknell</unittitle>
+         <unittitle>Album of letters to David Roberts compiled by Henry Sanford Bicknell</unittitle>
          <unitid>MSS 34</unitid>
          <repository>
             <corpname>
@@ -82,8 +82,8 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>2</quantity>
-            <unittype>Linear Feet</unittype>
+            <quantity>1</quantity>
+            <unittype>Linear Foot</unittype>
          </physdescstructured>
          <physdesc localtype="container_summary">1 volume</physdesc>
          <unitdatestructured altrender="circa 1813-circa 1864"
@@ -91,10 +91,11 @@
                              label="creation"
                              unitdatetype="inclusive">
             <daterange>
-               <fromdate standarddate="1813">1813</fromdate>
-               <todate standarddate="1864">1864</todate>
+               <fromdate standarddate="1810">1810</fromdate>
+               <todate standarddate="1869">1869</todate>
             </daterange>
          </unitdatestructured>
+         <abstract id="aspace_d9446a2134d0be8b3320ae9d0680d345">Album of letters to David Roberts, with autographs, engraved portraits, and printed ephemera, compiled by Henry Sanford Bicknell</abstract>
          <origination label="Creator">
             <persname relator="com" rules="rda" source="local_ycba_rbm">
                <part localtype="agent_person">Bicknell, Henry Sanford, 1818-1880</part>
@@ -521,9 +522,9 @@
          <p>The collection is the physical property of the Yale Center for British Art. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the Archives Department.</p>
       </userestrict>
       <accessrestrict id="aspace_ea3c7e10b5bd2892c1af936cd0f8bfee"
-                      localtype="InProcessSpecColl">
+                      localtype="RestrictedFragileSpecColl">
          <head>Conditions Governing Access</head>
-         <p>This collection is unprocessed and may not be available for immediate access.</p>
+         <p>This item is in fragile condition.  Extra care will need to be taken when handling this item.</p>
       </accessrestrict>
       <acqinfo id="aspace_28d5e62677ee0de75b045d2212774ab8">
          <head>Immediate Source of Acquisition</head>
