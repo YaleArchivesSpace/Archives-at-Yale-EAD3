@@ -79,10 +79,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-11T23:02:14-04:00</eventdatetime>
+            <eventdatetime>2026-08-13T23:00:43-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday May 11, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -72987,6 +72987,24 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                      <head>General note</head>
                      <p>Accession: .</p>
                   </odd>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4052991"
+                  id="aspace_92d2747bf3755cc0ba74e3d8d28893bf"
+                  level="file">
+                  <did>
+                     <unittitle>Sketches of Garrick properties</unittitle>
+                     <unitdatestructured altrender="1828, undated" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1828">1828, undated</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/371439 /locations/4051"
+                                containerid="39002137225133"
+                                id="aspace_92d2747bf3755cc0ba74e3d8d28893bf_c1"
+                                label="Mixed Materials"
+                                localtype="box">38</container>
+                     <container id="aspace_92d2747bf3755cc0ba74e3d8d28893bf_c2"
+                                localtype="folder"
+                                parent="aspace_92d2747bf3755cc0ba74e3d8d28893bf_c1">GROUP 932, F-1</container>
+                  </did>
                </c>
             </c>
             <c altrender="/repositories/11/archival_objects/322984"
