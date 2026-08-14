@@ -37,7 +37,7 @@
                <p>Boxes: 1-7</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="8">8</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="223">223</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="10">10</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="261">261</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -64,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T18:02:26-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:03:37-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1763,6 +1763,35 @@
                   <container id="aspace_a2ee6af79bb206bc04de4d9d82237342_c2"
                              localtype="folder"
                              parent="aspace_a2ee6af79bb206bc04de4d9d82237342_c1">10</container>
+                  <daoset altrender="/repositories/4/digital_objects/352487">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33752881"
+                          identifier="oid:33752881"
+                          linktitle="16 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33753010/full/!150,150/0/default.jpg"
+                          identifier="oid:33752881"
+                          linktitle="16 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33752881"
+                          identifier="oid:33752881"
+                          linktitle="16 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>James Ingram to Myrtle, family</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/3502104"
@@ -1836,6 +1865,35 @@
                   <container id="aspace_5a574f5562d9db661869a82c479465bd_c2"
                              localtype="folder"
                              parent="aspace_5a574f5562d9db661869a82c479465bd_c1">13</container>
+                  <daoset altrender="/repositories/4/digital_objects/352503">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33752933"
+                          identifier="oid:33752933"
+                          linktitle="22 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33753044/full/!150,150/0/default.jpg"
+                          identifier="oid:33752933"
+                          linktitle="22 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33752933"
+                          identifier="oid:33752933"
+                          linktitle="22 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>James Ingram to family</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/3502107"

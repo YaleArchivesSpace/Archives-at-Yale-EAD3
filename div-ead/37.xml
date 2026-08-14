@@ -41,7 +41,7 @@
                <p>Boxes: 1-5</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="40">40</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="172">172</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-09T18:00:15-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:03:30-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June  9, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -208,6 +208,27 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref14_c2" localtype="folder" parent="aspace_ref14_c1">1</container>
+                  <daoset altrender="/repositories/4/digital_objects/352469">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33752456"
+                          linktitle="32 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33752456"
+                          identifier="oid:33752456"
+                          linktitle="32 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Anderson, Adelia; China, Hong Kong</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/8515"
@@ -227,6 +248,27 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref15_c2" localtype="folder" parent="aspace_ref15_c1">1</container>
+                  <daoset altrender="/repositories/4/digital_objects/352468">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33752493"
+                          linktitle="28 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33752493"
+                          identifier="oid:33752493"
+                          linktitle="28 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Bly, Stella, China; Taiwan</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/8516"
@@ -436,6 +478,27 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref26_c2" localtype="folder" parent="aspace_ref26_c1">7</container>
+                  <daoset altrender="/repositories/4/digital_objects/352472">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33752533"
+                          linktitle="35 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33752533"
+                          identifier="oid:33752533"
+                          linktitle="35 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Jensen, Cornelia; Colombia</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/8527"
@@ -1485,6 +1548,27 @@
                              label="Mixed Materials"
                              localtype="box">4</container>
                   <container id="aspace_ref82_c2" localtype="folder" parent="aspace_ref82_c1">34</container>
+                  <daoset altrender="/repositories/4/digital_objects/352473">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33752427"
+                          linktitle="37 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33752427"
+                          identifier="oid:33752427"
+                          linktitle="37 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Halvorson, Marian; Tanzania</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/8583"

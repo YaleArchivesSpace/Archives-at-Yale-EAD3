@@ -39,13 +39,13 @@
                <p>This encoded finding aid is compliant with the Yale EADBest Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-3, OV3-4</p>
+               <p>Boxes: 1-3, OV3-5</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: Ov1-Ov2, 5</p>
+               <p>Boxes: Ov1-Ov2</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="131">131</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="157">157</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T18:00:27-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:05:11-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2128,6 +2128,35 @@ and Greenville College Preparatory School (1918)</unittitle>
                              label="Mixed Materials"
                              localtype="box">Ov2</container>
                   <container id="aspace_ref128_c2" localtype="folder" parent="aspace_ref128_c1">2</container>
+                  <daoset altrender="/repositories/4/digital_objects/352552">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33752815"
+                          identifier="oid:33752815"
+                          linktitle="26 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33752902/full/!150,150/0/default.jpg"
+                          identifier="oid:33752815"
+                          linktitle="26 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33752815"
+                          identifier="oid:33752815"
+                          linktitle="26 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Handmade photograph album: "China as seen from 1917-1923 by Dr. Rolland Welch"; two placards of mounted photographs; oversize photograph of mission conference</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
          </c>
@@ -2213,7 +2242,7 @@ and Greenville College Preparatory School (1918)</unittitle>
                         <todate standarddate="1925">1925</todate>
                      </daterange>
                   </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/483236 /locations/2"
+                  <container altrender="/repositories/4/top_containers/483236 /locations/9"
                              containerid="39002144680445"
                              encodinganalog="archive legal"
                              id="aspace_ref133_c1"

@@ -43,6 +43,9 @@
             <controlnote localtype="onsite">
                <p>Boxes: Library storage closet-OV1</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="26">26</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-09T18:00:42-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:10:36-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July  9, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:10</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -19159,6 +19162,35 @@
                      <container id="aspace_ref2951_c2"
                                 localtype="folder"
                                 parent="aspace_ref2951_c1">109</container>
+                     <daoset altrender="/repositories/4/digital_objects/352807">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33760870"
+                             identifier="oid:33760870"
+                             linktitle="26 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33760877/full/!150,150/0/default.jpg"
+                             identifier="oid:33760870"
+                             linktitle="26 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33760870"
+                             identifier="oid:33760870"
+                             linktitle="26 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Black Episcopal Seminarians</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2295671"

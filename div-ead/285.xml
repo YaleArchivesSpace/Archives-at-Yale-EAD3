@@ -43,6 +43,9 @@
             <controlnote localtype="onsite">
                <p>Box: OVd7</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="211">211</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T18:02:46-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:05:04-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4355,6 +4358,35 @@
                                 label="Mixed Materials"
                                 localtype="box">10</container>
                      <container id="aspace_ref221_c2" localtype="folder" parent="aspace_ref221_c1">206</container>
+                     <daoset altrender="/repositories/4/digital_objects/352376">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33751871"
+                             identifier="oid:33751871"
+                             linktitle="11 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33751872/full/!150,150/0/default.jpg"
+                             identifier="oid:33751871"
+                             linktitle="11 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33751871"
+                             identifier="oid:33751871"
+                             linktitle="11 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Dorothy Campbell: Letter from Marion Reith to her parents--describing Shantou (Swatow), Kakchieh, and Jieyang (Kityang); letter from Dr. Marguerite Everham to "girls"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -6196,6 +6228,35 @@
                                 label="Mixed Materials"
                                 localtype="box">24</container>
                      <container id="aspace_ref321_c2" localtype="folder" parent="aspace_ref321_c1">84</container>
+                     <daoset altrender="/repositories/4/digital_objects/352551">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33751881"
+                             identifier="oid:33751881"
+                             linktitle="200 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33751920/full/!150,150/0/default.jpg"
+                             identifier="oid:33751881"
+                             linktitle="200 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33751881"
+                             identifier="oid:33751881"
+                             linktitle="200 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Diary</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/108742"

@@ -45,7 +45,7 @@
                <p>Boxes: LS1, OVd1-LS4, OVd7-OVd9, OV11-U, OV11-V, OVd14-OVd15, OVd17, 433, 438B, 440B, 443B, 447B, 466, 442.5A, 442.5B</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="666">666</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="16379">16,379</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="668">668</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="16452">16,452</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-11T18:00:11-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:05:23-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -18773,6 +18773,35 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                              label="Mixed Materials"
                              localtype="box">44</container>
                   <container id="aspace_ref853_c2" localtype="folder" parent="aspace_ref853_c1">1142</container>
+                  <daoset altrender="/repositories/4/digital_objects/352529">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33753322"
+                          identifier="oid:33753322"
+                          linktitle="35 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33753419/full/!150,150/0/default.jpg"
+                          identifier="oid:33753322"
+                          linktitle="35 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33753322"
+                          identifier="oid:33753322"
+                          linktitle="35 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Freeman, R. - Frei</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/13963"
@@ -18792,6 +18821,35 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                              label="Mixed Materials"
                              localtype="box">44</container>
                   <container id="aspace_ref854_c2" localtype="folder" parent="aspace_ref854_c1">1142A</container>
+                  <daoset altrender="/repositories/4/digital_objects/352569">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33753382"
+                          identifier="oid:33753382"
+                          linktitle="38 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33753603/full/!150,150/0/default.jpg"
+                          identifier="oid:33753382"
+                          linktitle="38 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33753382"
+                          identifier="oid:33753382"
+                          linktitle="38 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>French, Clara M.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/13964"

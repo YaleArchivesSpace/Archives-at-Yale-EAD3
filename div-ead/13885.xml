@@ -40,7 +40,7 @@
                <p>Box: 82</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="657">657</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="859">859</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T18:01:14-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:07:46-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:07</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7308,6 +7308,35 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <container id="aspace_665ccc6d56704caaf106a2ef440625ca_c2"
                                    localtype="folder"
                                    parent="aspace_665ccc6d56704caaf106a2ef440625ca_c1">6</container>
+                        <daoset altrender="/repositories/4/digital_objects/352589">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33753060"
+                                identifier="oid:33753060"
+                                linktitle="78 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33753317/full/!150,150/0/default.jpg"
+                                identifier="oid:33753060"
+                                linktitle="78 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33753060"
+                                identifier="oid:33753060"
+                                linktitle="78 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>American College for Girls in Constantinople</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_b4b4520712f17624e716ab9d1ba7abab">
                         <head>Scope and Contents</head>
@@ -7333,6 +7362,35 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <container id="aspace_0a6db20a29ddef155fbf6a2ccddb4b7a_c2"
                                    localtype="folder"
                                    parent="aspace_0a6db20a29ddef155fbf6a2ccddb4b7a_c1">7</container>
+                        <daoset altrender="/repositories/4/digital_objects/352635">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33753277"
+                                identifier="oid:33753277"
+                                linktitle="124 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33753551/full/!150,150/0/default.jpg"
+                                identifier="oid:33753277"
+                                linktitle="124 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33753277"
+                                identifier="oid:33753277"
+                                linktitle="124 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>American College for Girls in Constantinople</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4052865"

@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-4, 6</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="494">494</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-10-09T18:00:58-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:08:16-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  9, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -296,6 +299,27 @@
                                    label="Mixed Materials"
                                    localtype="box">1</container>
                         <container id="aspace_ref21_c2" localtype="folder" parent="aspace_ref21_c1">10-16</container>
+                        <daoset altrender="/repositories/4/digital_objects/352676">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33755472"
+                                linktitle="226 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33755472"
+                                identifier="oid:33755472"
+                                linktitle="226 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Board of International Missions (see also: Gregory and Hartman)</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/34040"
@@ -461,6 +485,27 @@
                                    label="Mixed Materials"
                                    localtype="box">2</container>
                         <container id="aspace_ref31_c2" localtype="folder" parent="aspace_ref31_c1">41</container>
+                        <daoset altrender="/repositories/4/digital_objects/352649">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33755507"
+                                linktitle="43 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33755507"
+                                identifier="oid:33755507"
+                                linktitle="43 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>L, incl. Li, Liu</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/34050"
@@ -821,6 +866,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref56_c2" localtype="folder" parent="aspace_ref56_c1">67</container>
+                     <daoset altrender="/repositories/4/digital_objects/352639">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33755554"
+                             linktitle="46 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33755554"
+                             identifier="oid:33755554"
+                             linktitle="46 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Grace Liu, Daniel Bays, Leonard</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/34075"
@@ -932,6 +998,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref63_c2" localtype="folder" parent="aspace_ref63_c1">73</container>
+                     <daoset altrender="/repositories/4/digital_objects/352638">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33755591"
+                             linktitle="34 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33755591"
+                             identifier="oid:33755591"
+                             linktitle="34 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Chinese language reports</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/34082"
@@ -1089,6 +1176,27 @@
                                 label="Mixed Materials"
                                 localtype="box">4</container>
                      <container id="aspace_ref73_c2" localtype="folder" parent="aspace_ref73_c1">81</container>
+                     <daoset altrender="/repositories/4/digital_objects/352651">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33755667"
+                             linktitle="43 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33755667"
+                             identifier="oid:33755667"
+                             linktitle="43 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Miscellaneous reports</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/34092"
@@ -1108,6 +1216,27 @@
                                 label="Mixed Materials"
                                 localtype="box">4</container>
                      <container id="aspace_ref74_c2" localtype="folder" parent="aspace_ref74_c1">82</container>
+                     <daoset altrender="/repositories/4/digital_objects/352653">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33755742"
+                             linktitle="41 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33755742"
+                             identifier="oid:33755742"
+                             linktitle="41 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Children's work (Grampian Village, Homantin Faith Hope Club)</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/34093"
@@ -1122,6 +1251,27 @@
                                 label="Mixed Materials"
                                 localtype="box">4</container>
                      <container id="aspace_ref75_c2" localtype="folder" parent="aspace_ref75_c1">83</container>
+                     <daoset altrender="/repositories/4/digital_objects/352654">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33755869"
+                             linktitle="61 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33755869"
+                             identifier="oid:33755869"
+                             linktitle="61 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Refugee village biographies</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/34094"

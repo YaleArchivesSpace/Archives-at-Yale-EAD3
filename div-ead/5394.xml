@@ -41,7 +41,7 @@
                <p>Boxes: 1-6</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object.</p>
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="13">13</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T18:02:34-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:03:33-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -540,6 +540,27 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref18_c2" localtype="folder" parent="aspace_ref18_c1">4</container>
+                     <daoset altrender="/repositories/4/digital_objects/352483">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33752844"
+                             linktitle="13 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33752844"
+                             identifier="oid:33752844"
+                             linktitle="13 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Course-related: "Theology and Art: Religion 81 - A Selected Bibliography" by WHP</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>

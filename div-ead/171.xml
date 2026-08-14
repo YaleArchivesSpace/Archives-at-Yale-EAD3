@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-11</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="17">17</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-09-11T18:00:44-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:08:34-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 11, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -286,6 +289,27 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref18_c2" localtype="folder" parent="aspace_ref18_c1">5-A</container>
+                     <daoset altrender="/repositories/4/digital_objects/352721">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33758901"
+                             linktitle="9 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33758901"
+                             identifier="oid:33758901"
+                             linktitle="9 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Correspondence between churches</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/54355"
@@ -1672,6 +1696,27 @@
                                    label="Mixed Materials"
                                    localtype="box">6</container>
                         <container id="aspace_ref95_c2" localtype="folder" parent="aspace_ref95_c1">6</container>
+                        <daoset altrender="/repositories/4/digital_objects/352720">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33758919"
+                                linktitle="8 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33758919"
+                                identifier="oid:33758919"
+                                linktitle="8 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>By Paul Hilmer, Jean Lesher, Edward Nestingen, William Roy, Richard Schaull, Steve Schomberg, Samuel Slie, Franklin Woo</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                </c>

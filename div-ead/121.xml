@@ -45,7 +45,7 @@
                <p>Box: OVd-4</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="351">351</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="8">8</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="363">363</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T18:02:38-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:03:13-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1586,6 +1586,27 @@
                                 label="Mixed Materials"
                                 localtype="box">14</container>
                      <container id="aspace_ref61_c2" localtype="folder" parent="aspace_ref61_c1">108</container>
+                     <daoset altrender="/repositories/4/digital_objects/352463">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33752428"
+                             linktitle="12 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33752428"
+                             identifier="oid:33752428"
+                             linktitle="12 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Misc writing of ASK Alumni: "Returning Home" H. Daniel Friberg; "As a Spectator in a Chinese service" Agnes M. Thorson; "Beauty Spots in Kikungshan" John Scholsser.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/39424"

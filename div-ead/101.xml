@@ -42,7 +42,7 @@
                <p>Boxes: 1-95</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="53">53</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="266">266</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-05T18:00:43-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:08:01-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June  5, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -200,6 +200,27 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref10_c2" localtype="folder" parent="aspace_ref10_c1">1</container>
+                  <daoset altrender="/repositories/4/digital_objects/352637">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33755268"
+                          linktitle="54 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33755268"
+                          identifier="oid:33755268"
+                          linktitle="54 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>May meeting preliminary correspondence, report of C.K. Yang trip to China</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/33396"
@@ -3571,6 +3592,27 @@
                                 label="Mixed Materials"
                                 localtype="box">13</container>
                      <container id="aspace_ref213_c2" localtype="folder" parent="aspace_ref213_c1">16</container>
+                     <daoset altrender="/repositories/4/digital_objects/352648">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33755232"
+                             linktitle="108 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33755232"
+                             identifier="oid:33755232"
+                             linktitle="108 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>C. K. Yang</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/33599"
@@ -9139,6 +9181,27 @@
                         <container id="aspace_95230efc3e651849583ea61b5ea8a914_c2"
                                    localtype="folder"
                                    parent="aspace_95230efc3e651849583ea61b5ea8a914_c1">8</container>
+                        <daoset altrender="/repositories/4/digital_objects/352636">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33755141"
+                                linktitle="51 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33755141"
+                                identifier="oid:33755141"
+                                linktitle="51 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>C. K. Yang</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                </c>

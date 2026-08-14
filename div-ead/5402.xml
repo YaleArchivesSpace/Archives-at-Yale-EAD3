@@ -43,6 +43,9 @@
             <controlnote localtype="onsite">
                <p>Boxes: OVd-4-OV1</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="27">27</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T18:00:19-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:08:38-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4131,6 +4134,27 @@
                                 label="Mixed Materials"
                                 localtype="box">17</container>
                      <container id="aspace_ref227_c2" localtype="folder" parent="aspace_ref227_c1">13</container>
+                     <daoset altrender="/repositories/4/digital_objects/352504">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33752767"
+                             linktitle="26 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33752767"
+                             identifier="oid:33752767"
+                             linktitle="26 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Agnes Davis Greene ('28)</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2151943"
@@ -5908,6 +5932,27 @@
                                 label="Mixed Materials"
                                 localtype="box">21</container>
                      <container id="aspace_ref360_c2" localtype="folder" parent="aspace_ref360_c1">11</container>
+                     <daoset altrender="/repositories/4/digital_objects/352722">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33759062"
+                             linktitle="1 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33759062"
+                             identifier="oid:33759062"
+                             linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Henry Vetch ('48)</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2152076"
