@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-12</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="75">75</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T18:31:46-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:28:47-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 18:31</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:28</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4943,6 +4946,27 @@
                                 label="Mixed Materials"
                                 localtype="box">12</container>
                      <container id="aspace_ref300_c2" localtype="folder" parent="aspace_ref300_c1">225</container>
+                     <daoset altrender="/repositories/4/digital_objects/352872">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33762428"
+                             linktitle="8 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33762428"
+                             identifier="oid:33762428"
+                             linktitle="8 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Translating the Bible for Today" by Dr. C.T. Craig</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/109148"
@@ -4959,6 +4983,27 @@
                                 label="Mixed Materials"
                                 localtype="box">12</container>
                      <container id="aspace_ref301_c2" localtype="folder" parent="aspace_ref301_c1">225</container>
+                     <daoset altrender="/repositories/4/digital_objects/352904">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33762483"
+                             linktitle="50 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33762483"
+                             identifier="oid:33762483"
+                             linktitle="50 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"An Introduction to the Revised Standard Version of the Old Testament"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/109149"
@@ -4975,6 +5020,27 @@
                                 label="Mixed Materials"
                                 localtype="box">12</container>
                      <container id="aspace_ref302_c2" localtype="folder" parent="aspace_ref302_c1">225</container>
+                     <daoset altrender="/repositories/4/digital_objects/352881">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33762493"
+                             linktitle="14 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33762493"
+                             identifier="oid:33762493"
+                             linktitle="14 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"The New Bible: Why Christians Should Not Accept It" by Carl McIntire</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/109150"
@@ -4991,6 +5057,27 @@
                                 label="Mixed Materials"
                                 localtype="box">12</container>
                      <container id="aspace_ref303_c2" localtype="folder" parent="aspace_ref303_c1">225</container>
+                     <daoset altrender="/repositories/4/digital_objects/352873">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33762497"
+                             linktitle="3 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33762497"
+                             identifier="oid:33762497"
+                             linktitle="3 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"A Criticism of the Revised Standard Version 1952 of the Bible" by Bob Jones, Jr.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/109151"

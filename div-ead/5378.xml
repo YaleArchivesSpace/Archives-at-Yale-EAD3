@@ -40,6 +40,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-31</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="50">50</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -68,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-11-17T18:00:43-05:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:27:36-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 17, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:27</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -841,6 +844,27 @@ Includes sermons/Addresses: "Drafted by God," "The Role of the Church in a Time 
                      <container id="aspace_f4a94f0872d927fb46073ee307766af9_c2"
                                 localtype="folder"
                                 parent="aspace_f4a94f0872d927fb46073ee307766af9_c1">3</container>
+                     <daoset altrender="/repositories/4/digital_objects/352861">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33761606"
+                             linktitle="50 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33761606"
+                             identifier="oid:33761606"
+                             linktitle="50 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Baptism</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2630879"

@@ -37,6 +37,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-36</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="17">17</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -68,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-05-12T18:00:38-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:27:51-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday May 12, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:27</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -15278,6 +15281,27 @@
                         <container id="aspace_e870876d6ace9116f44617cc824704b1_c2"
                                    localtype="folder"
                                    parent="aspace_e870876d6ace9116f44617cc824704b1_c1">13</container>
+                        <daoset altrender="/repositories/4/digital_objects/352882">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33762410"
+                                linktitle="17 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33762410"
+                                identifier="oid:33762410"
+                                linktitle="17 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>"The Misreading of '?lâ (curse) as '?lleh (these) in the Texts of Jeremiah's Poetry"</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3198247"

@@ -40,6 +40,9 @@
             <controlnote localtype="onsite">
                <p>Boxes: OV1-OV3</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="38">38</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -68,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-11T18:00:03-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:27:12-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:27</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -581,6 +584,27 @@ The papers of the Church of the Redeemer arrived at the New Haven Colony Histori
                      <container id="aspace_94d8673b832f91b22318d5e11524abe2_c2"
                                 localtype="folder"
                                 parent="aspace_94d8673b832f91b22318d5e11524abe2_c1">F</container>
+                     <daoset altrender="/repositories/4/digital_objects/352840">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33761537"
+                             linktitle="38 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33761537"
+                             identifier="oid:33761537"
+                             linktitle="38 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>History of the Sunday School by Marjorie M. Lewis (Church Historian); letter from Fannie Augur re Sunday School; pages from History of Church (Folder A) re Church School; notebook of information collected by Mrs. Lewis for Sunday School History</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2769154"

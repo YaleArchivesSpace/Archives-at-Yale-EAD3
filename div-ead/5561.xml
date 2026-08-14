@@ -37,6 +37,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-4</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="13">13</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -65,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-01-20T18:00:12-05:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:27:02-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday January 20, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:27</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -499,6 +502,27 @@
                   <container id="aspace_2333146817fbdced906db04b354d895c_c2"
                              localtype="folder"
                              parent="aspace_2333146817fbdced906db04b354d895c_c1">5</container>
+                  <daoset altrender="/repositories/4/digital_objects/352839">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33761636"
+                          linktitle="13 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33761636"
+                          identifier="oid:33761636"
+                          linktitle="13 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Escape, AKA The Great Escape</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_d4267a1f166c38e313c4af2ed93f4796">
                   <head>Scope and Contents</head>

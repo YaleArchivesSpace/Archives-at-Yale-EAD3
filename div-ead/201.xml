@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-49</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="157">157</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-09-10T18:00:22-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:27:25-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 10, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:27</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3915,6 +3918,27 @@
                                 label="Mixed Materials"
                                 localtype="box">14</container>
                      <container id="aspace_ref231_c2" localtype="folder" parent="aspace_ref231_c1">200</container>
+                     <daoset altrender="/repositories/4/digital_objects/352838">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33760984"
+                             linktitle="112 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33760984"
+                             identifier="oid:33760984"
+                             linktitle="112 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Topical: Vietnam draft, Black Power movement, and academic freedom</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/63894"
@@ -5039,6 +5063,27 @@
                              label="Mixed Materials"
                              localtype="box">19</container>
                   <container id="aspace_ref297_c2" localtype="folder" parent="aspace_ref297_c1">267</container>
+                  <daoset altrender="/repositories/4/digital_objects/352849">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33761285"
+                          linktitle="45 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33761285"
+                          identifier="oid:33761285"
+                          linktitle="45 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>The Second Look: Analyzing World Issues of Interests to Students (newsletter)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/63960"

@@ -42,7 +42,7 @@
                <p>Boxes: 1-13</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="142">142</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="11">11</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="299">299</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-05T18:02:13-05:00</eventdatetime>
+            <eventdatetime>2026-08-14T18:27:43-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday December  5, 2025 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:27</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4351,6 +4351,27 @@ The original collection received in 2014, with additional material integrated in
                      <container id="aspace_73f18bb35638d9aa7e7ca85ae8aba997_c2"
                                 localtype="folder"
                                 parent="aspace_73f18bb35638d9aa7e7ca85ae8aba997_c1">7</container>
+                     <daoset altrender="/repositories/4/digital_objects/352827">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33761298"
+                             linktitle="8 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33761298"
+                             identifier="oid:33761298"
+                             linktitle="8 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Pilgrimage 'Round the Mountain"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3672751"
@@ -4371,6 +4392,27 @@ The original collection received in 2014, with additional material integrated in
                      <container id="aspace_39c382ca6eb08c4a864a3495a5aa4adf_c2"
                                 localtype="folder"
                                 parent="aspace_39c382ca6eb08c4a864a3495a5aa4adf_c1">8</container>
+                     <daoset altrender="/repositories/4/digital_objects/352859">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33761354"
+                             linktitle="47 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33761354"
+                             identifier="oid:33761354"
+                             linktitle="47 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Seasons of Worship at Kirkridge: A Place of Pilgrimage and Prayer"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -4508,6 +4550,27 @@ The original collection received in 2014, with additional material integrated in
                   <container id="aspace_09697258ee37f8713f32c209d936666d_c2"
                              localtype="folder"
                              parent="aspace_09697258ee37f8713f32c209d936666d_c1">15</container>
+                  <daoset altrender="/repositories/4/digital_objects/352850">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33761404"
+                          linktitle="43 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33761404"
+                          identifier="oid:33761404"
+                          linktitle="43 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"Go Tell It On The Mountain: Stories of Kirkridge 1942-1992"</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/3672759"
@@ -4528,6 +4591,27 @@ The original collection received in 2014, with additional material integrated in
                   <container id="aspace_98863f6ea72a487c12b52dd84ee1d400_c2"
                              localtype="folder"
                              parent="aspace_98863f6ea72a487c12b52dd84ee1d400_c1">16</container>
+                  <daoset altrender="/repositories/4/digital_objects/352837">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33761418"
+                          linktitle="10 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33761418"
+                          identifier="oid:33761418"
+                          linktitle="10 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"The Legacy Continues"</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/3672760"
@@ -4569,6 +4653,27 @@ The original collection received in 2014, with additional material integrated in
                   <container id="aspace_742f813ead241fda72cfefc81a867191_c2"
                              localtype="folder"
                              parent="aspace_742f813ead241fda72cfefc81a867191_c1">18</container>
+                  <daoset altrender="/repositories/4/digital_objects/352865">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33761485"
+                          linktitle="45 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33761485"
+                          identifier="oid:33761485"
+                          linktitle="45 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"Navigating the Mobius Strip of Money: A Fundraising Guide for Courage and Renewal Facilities"</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
          </c>
@@ -4834,6 +4939,27 @@ The original collection received in 2014, with additional material integrated in
                   <container id="aspace_e8c1c44eab1dff2ba201e58170452603_c2"
                              localtype="folder"
                              parent="aspace_e8c1c44eab1dff2ba201e58170452603_c1">10</container>
+                  <daoset altrender="/repositories/4/digital_objects/352828">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33761495"
+                          linktitle="4 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33761495"
+                          identifier="oid:33761495"
+                          linktitle="4 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Trail maps</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/3672608"
