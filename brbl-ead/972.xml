@@ -79,10 +79,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-23T23:01:27-04:00</eventdatetime>
+            <eventdatetime>2026-08-14T23:10:35-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 23, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 23:10</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1102,7 +1102,7 @@
                      <did>
                         <unittitle>
                            <title localtype="simple" render="italic">
-                              <part>American Negro Poetry</part>
+                              <part>American Negro Poetry; American Scenes</part>
                            </title>
                         </unittitle>
                         <unitdatestructured altrender="1963" label="creation" unitdatetype="inclusive">
@@ -1111,32 +1111,15 @@
                         <unitdatestructured altrender="1966" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1966">1966</datesingle>
                         </unitdatestructured>
+                        <unitdatestructured altrender="1942 Feb 26" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1942-02-26">1942 Feb 26</datesingle>
+                        </unitdatestructured>
                         <container altrender="/repositories/11/top_containers/34753 /locations/4051"
                                    containerid="39002091450800"
                                    id="aspace_ref59_c1"
                                    label="Mixed Materials"
                                    localtype="box">4</container>
                         <container id="aspace_ref59_c2" localtype="folder" parent="aspace_ref59_c1">46</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/11/archival_objects/352683"
-                     id="ref60"
-                     level="file">
-                     <did>
-                        <unittitle>
-                           <title localtype="simple" render="italic">
-                              <part>American Scenes</part>
-                           </title>
-                        </unittitle>
-                        <unitdatestructured altrender="1942 Feb 26" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1942-02-26">1942 Feb 26</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/11/top_containers/34753 /locations/4051"
-                                   containerid="39002091450800"
-                                   id="aspace_ref60_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">4</container>
-                        <container id="aspace_ref60_c2" localtype="folder" parent="aspace_ref60_c1">46</container>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/352684"
