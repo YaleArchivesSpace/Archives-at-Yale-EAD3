@@ -44,7 +44,7 @@
                <p>Box: OV1</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="16">16</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1295">1,295</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="17">17</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1896">1,896</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:51:42-04:00</eventdatetime>
+            <eventdatetime>2026-08-15T18:01:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:51</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 15, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -6234,6 +6234,27 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33563687"
                           identifier="oid:33563687"
+                          linktitle="601 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Asia Foundation</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/4/digital_objects/352952">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33764667"
+                          linktitle="601 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33764667"
+                          identifier="oid:33764667"
                           linktitle="601 images"
                           linkrole="text-html"
                           show="new"/>

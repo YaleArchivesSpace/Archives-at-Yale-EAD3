@@ -44,6 +44,9 @@
             <controlnote localtype="onsite">
                <p>Box: OV-1</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="118">118</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -72,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-03-31T18:02:04-04:00</eventdatetime>
+            <eventdatetime>2026-08-15T18:00:35-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 31, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 15, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -759,6 +762,27 @@
                                    label="Mixed Materials"
                                    localtype="box">6</container>
                         <container id="aspace_ref76_c2" localtype="folder" parent="aspace_ref76_c1">49-50</container>
+                        <daoset altrender="/repositories/4/digital_objects/352942">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33765463"
+                                linktitle="118 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33765463"
+                                identifier="oid:33765463"
+                                linktitle="118 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Soochow University</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_b77ff45eb4056870344df0c0a67b4cb0">
                         <head>Scope and Contents</head>
