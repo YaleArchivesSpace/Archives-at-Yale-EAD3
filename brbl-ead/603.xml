@@ -45,7 +45,7 @@
                <p>Boxes: 29, 34</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="160">160</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="13">13</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="212">212</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-12T23:00:59-04:00</eventdatetime>
+            <eventdatetime>2026-08-17T23:05:29-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 12, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 17, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3540,6 +3540,46 @@
                   </daterange>
                </unitdatestructured>
             </did>
+            <c altrender="/repositories/11/archival_objects/201660"
+               id="ref133"
+               level="file">
+               <did>
+                  <unittitle>Photograph album</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>Folders</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="1978" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1978">1978</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/18820 /locations/9"
+                             containerid="39002091435710"
+                             id="aspace_ref133_c1"
+                             label="Mixed Materials"
+                             localtype="box">21</container>
+                  <daoset altrender="/repositories/11/digital_objects/352978">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33767802"
+                          linktitle="52 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33767802"
+                          identifier="oid:33767802"
+                          linktitle="52 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Photograph album</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+            </c>
             <c altrender="/repositories/11/archival_objects/201653"
                id="ref127"
                level="file">
@@ -3642,25 +3682,6 @@
                              id="aspace_ref131_c1"
                              label="Mixed Materials"
                              localtype="box">20</container>
-               </did>
-            </c>
-            <c altrender="/repositories/11/archival_objects/201660"
-               id="ref133"
-               level="file">
-               <did>
-                  <unittitle>Photograph album</unittitle>
-                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                     <quantity>2</quantity>
-                     <unittype>Folders</unittype>
-                  </physdescstructured>
-                  <unitdatestructured altrender="1978" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1978">1978</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/18820 /locations/9"
-                             containerid="39002091435710"
-                             id="aspace_ref133_c1"
-                             label="Mixed Materials"
-                             localtype="box">21</container>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/201661"

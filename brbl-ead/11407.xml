@@ -38,7 +38,7 @@
                <p>Boxes: 1-80, 81-89 (Oversize), 90-92 (Broadside), 93-97, 98 (Oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="187">187</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="3191">3,191</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="188">188</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="3193">3,193</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:27:01-05:00</eventdatetime>
+            <eventdatetime>2026-08-17T23:05:41-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:27</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 17, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -65185,6 +65185,57 @@ Yale University Corporation Records (RU 164), Manuscripts and Archives, Yale Uni
                              parent="aspace_ce642bfe4054b0253c285a135d3c7546_c1">1986</container>
                </did>
             </c>
+            <c altrender="/repositories/11/archival_objects/2980926"
+               id="aspace_b6b02e69d1fed29885bc0bd7cc3f08bc"
+               level="file">
+               <did>
+                  <unittitle>Diagram of the track of a 1759 comet (MVP #217)</unittitle>
+                  <unitdatestructured altrender="1759 July 10" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1759-07-10">1759 July 10</fromdate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/351022 /locations/4051"
+                             containerid="39002099220791"
+                             encodinganalog="folder (40d 55w)"
+                             id="aspace_b6b02e69d1fed29885bc0bd7cc3f08bc_c1"
+                             label="Mixed Materials"
+                             localtype="box">90 (Broadside)</container>
+                  <daoset altrender="/repositories/11/digital_objects/352979">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33767885"
+                          identifier="oid:33767885"
+                          linktitle="2 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33767886/full/!150,150/0/default.jpg"
+                          identifier="oid:33767885"
+                          linktitle="1r"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33767885"
+                          identifier="oid:33767885"
+                          linktitle="1r"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Diagram of the track of a 1759 comet (MVP #217)</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <acqinfo id="aspace_82435794d2edfcbd1c6385fbaf30089c">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Purchased from Mackay on the American Studies Fund, 1967</p>
+               </acqinfo>
+            </c>
             <c altrender="/repositories/11/archival_objects/2980922"
                id="aspace_3c61e2229b565fce647ded64f323c18b"
                level="file">
@@ -65289,28 +65340,6 @@ Yale University Corporation Records (RU 164), Manuscripts and Archives, Yale Uni
                              localtype="folder"
                              parent="aspace_1ec805d2e25cbd87dffd3333434c863d_c1">1990</container>
                </did>
-            </c>
-            <c altrender="/repositories/11/archival_objects/2980926"
-               id="aspace_b6b02e69d1fed29885bc0bd7cc3f08bc"
-               level="file">
-               <did>
-                  <unittitle>Diagram of the track of a 1759 comet (MVP #217)</unittitle>
-                  <unitdatestructured altrender="1759 July 10" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1759-07-10">1759 July 10</fromdate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/351022 /locations/4051"
-                             containerid="39002099220791"
-                             encodinganalog="folder (40d 55w)"
-                             id="aspace_b6b02e69d1fed29885bc0bd7cc3f08bc_c1"
-                             label="Mixed Materials"
-                             localtype="box">90 (Broadside)</container>
-               </did>
-               <acqinfo id="aspace_82435794d2edfcbd1c6385fbaf30089c">
-                  <head>Immediate Source of Acquisition</head>
-                  <p>Purchased from Mackay on the American Studies Fund, 1967</p>
-               </acqinfo>
             </c>
             <c altrender="/repositories/11/archival_objects/2980927"
                id="aspace_7dacf369faa5f267263718e3c05986ea"
