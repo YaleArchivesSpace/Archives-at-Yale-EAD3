@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="20">20</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="28">28</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="18">18</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="26">26</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-05T03:00:32-04:00</eventdatetime>
+            <eventdatetime>2026-08-18T03:00:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -665,7 +665,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749017/full/!150,150/0/default.jpg"
                           identifier="oid:33749016"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -673,7 +673,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749016"
                           identifier="oid:33749016"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -711,7 +711,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749019/full/!150,150/0/default.jpg"
                           identifier="oid:33749018"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -719,7 +719,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749018"
                           identifier="oid:33749018"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -757,7 +757,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749021/full/!150,150/0/default.jpg"
                           identifier="oid:33749020"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -765,7 +765,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749020"
                           identifier="oid:33749020"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -803,7 +803,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749023/full/!150,150/0/default.jpg"
                           identifier="oid:33749022"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -811,7 +811,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749022"
                           identifier="oid:33749022"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -835,35 +835,6 @@
                              label="Mixed Materials"
                              localtype="box">2</container>
                   <container id="aspace_ref40_c2" localtype="folder" parent="aspace_ref40_c1">5</container>
-                  <daoset altrender="/repositories/12/digital_objects/182892">
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/manifests/10020679"
-                          identifier="oid:10020679"
-                          linktitle="1 images"
-                          linkrole="text-json"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/iiif/2/32272114/full/!150,150/0/default.jpg"
-                          identifier="oid:10020679"
-                          linktitle="New Haven Window Shade Co.."
-                          linkrole="image-thumbnail"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/catalog/10020679"
-                          identifier="oid:10020679"
-                          linktitle="New Haven Window Shade Co.."
-                          linkrole="text-html"
-                          show="new"/>
-                     <descriptivenote>
-                        <p>W. F. Foster &amp; Co. / New Haven Window Shade Co.</p>
-                     </descriptivenote>
-                  </daoset>
                   <daoset altrender="/repositories/12/digital_objects/351608">
                      <dao actuate="onrequest"
                           audience="external"
@@ -878,7 +849,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749025/full/!150,150/0/default.jpg"
                           identifier="oid:33749024"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -886,7 +857,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749024"
                           identifier="oid:33749024"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -924,7 +895,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749027/full/!150,150/0/default.jpg"
                           identifier="oid:33749026"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -932,7 +903,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749026"
                           identifier="oid:33749026"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -970,7 +941,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749029/full/!150,150/0/default.jpg"
                           identifier="oid:33749028"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -978,7 +949,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749028"
                           identifier="oid:33749028"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -1016,7 +987,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749031/full/!150,150/0/default.jpg"
                           identifier="oid:33749030"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -1024,7 +995,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749030"
                           identifier="oid:33749030"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -1048,35 +1019,6 @@
                              label="Mixed Materials"
                              localtype="box">2</container>
                   <container id="aspace_ref44_c2" localtype="folder" parent="aspace_ref44_c1">9</container>
-                  <daoset altrender="/repositories/12/digital_objects/182889">
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/manifests/10020680"
-                          identifier="oid:10020680"
-                          linktitle="1 images"
-                          linkrole="text-json"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/iiif/2/32272115/full/!150,150/0/default.jpg"
-                          identifier="oid:10020680"
-                          linktitle="Wooster A. Ensign's iron and steel store."
-                          linkrole="image-thumbnail"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/catalog/10020680"
-                          identifier="oid:10020680"
-                          linktitle="Wooster A. Ensign's iron and steel store."
-                          linkrole="text-html"
-                          show="new"/>
-                     <descriptivenote>
-                        <p>Wooster A. Ensig...</p>
-                     </descriptivenote>
-                  </daoset>
                   <daoset altrender="/repositories/12/digital_objects/351604">
                      <dao actuate="onrequest"
                           audience="external"
@@ -1091,7 +1033,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/iiif/2/33749033/full/!150,150/0/default.jpg"
                           identifier="oid:33749032"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -1099,7 +1041,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33749032"
                           identifier="oid:33749032"
-                          linktitle="1 images"
+                          linktitle="[Unnumbered]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
@@ -1143,7 +1085,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/iiif/2/33749035/full/!150,150/0/default.jpg"
                              identifier="oid:33749034"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -1151,7 +1093,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33749034"
                              identifier="oid:33749034"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -1189,7 +1131,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/iiif/2/33749037/full/!150,150/0/default.jpg"
                              identifier="oid:33749036"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -1197,7 +1139,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33749036"
                              identifier="oid:33749036"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -1235,7 +1177,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/iiif/2/33749039/full/!150,150/0/default.jpg"
                              identifier="oid:33749038"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -1243,7 +1185,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33749038"
                              identifier="oid:33749038"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -1281,7 +1223,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/iiif/2/33749041/full/!150,150/0/default.jpg"
                              identifier="oid:33749040"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -1289,7 +1231,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33749040"
                              identifier="oid:33749040"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -1327,7 +1269,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/iiif/2/33749043/full/!150,150/0/default.jpg"
                              identifier="oid:33749042"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -1335,7 +1277,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33749042"
                              identifier="oid:33749042"
-                             linktitle="1 images"
+                             linktitle="[Unnumbered]"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -1375,7 +1317,7 @@
                        daotype="unknown"
                        href="https://collections.library.yale.edu/iiif/2/33749045/full/!150,150/0/default.jpg"
                        identifier="oid:33749044"
-                       linktitle="7 images"
+                       linktitle="[Unnumbered]"
                        linkrole="image-thumbnail"
                        show="embed"/>
                   <dao actuate="onrequest"
@@ -1383,7 +1325,7 @@
                        daotype="unknown"
                        href="https://collections.library.yale.edu/catalog/33749044"
                        identifier="oid:33749044"
-                       linktitle="7 images"
+                       linktitle="[Unnumbered]"
                        linkrole="text-html"
                        show="new"/>
                   <descriptivenote>
