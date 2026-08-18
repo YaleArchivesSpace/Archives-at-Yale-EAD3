@@ -40,7 +40,7 @@
                <p>Boxes: 39002038321791, 39002038324183</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1378">1,378</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="1392">1,392</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T20:00:31-04:00</eventdatetime>
+            <eventdatetime>2026-08-17T20:00:53-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 17, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -6258,6 +6258,60 @@
             <did>
                <unittitle>Berger, Arthur</unittitle>
             </did>
+            <c altrender="/repositories/7/archival_objects/4046987"
+               id="aspace_5c1139607bf0816c4dda707a2a5aa832"
+               level="item">
+               <did>
+                  <unittitle>Berger, Arthur</unittitle>
+                  <unitid>OHV 198 m</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">68.7 megabytes</physdesc>
+                  <unitdatestructured altrender="1987 March 28" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1987-03-28">1987 March 28</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f4f8e6f805b5cddb61db89da4b398258">Approximate running time: 60 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352959">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/vt1gh9dr46"
+                          identifier="aviary_177005"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/643/original/open-uri20260817-1678986-zilg09?1786982419"
+                          identifier="aviary_177005"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 198 m.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_0d38abcc21fc4e9cf984f84fd75d276e">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_27a7775d-4c98-41b8-82fc-787f4a03fcb4">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;27a7775d-4c98-41b8-82fc-787f4a03fcb4</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Berger, Arthur, 1912-2003</part>
+                  </persname>
+               </controlaccess>
+            </c>
             <c altrender="/repositories/7/archival_objects/3184197"
                id="aspace_6f62f5c96110c5439afa3d3aed6b465f"
                level="item">
@@ -24969,6 +25023,71 @@
                </controlaccess>
             </c>
          </c>
+         <c altrender="/repositories/7/archival_objects/4047498"
+            id="aspace_b98cc3eb533de0863405026daa83c4c9"
+            level="series">
+            <did>
+               <unittitle>Gena, Peter</unittitle>
+            </did>
+            <otherfindaid id="aspace_a6013546-0e72-46b3-ba13-ee73c10b078b">
+               <head>TypeCollection</head>
+               <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;a6013546-0e72-46b3-ba13-ee73c10b078b</p>
+            </otherfindaid>
+            <c altrender="/repositories/7/archival_objects/4047499"
+               id="aspace_9a94823f0aaba020d794a783c7d8e40c"
+               level="item">
+               <did>
+                  <unittitle>Gena, Peter</unittitle>
+                  <unitid>OHV 619 a-b</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr">
+                        <part localtype="agent_person">Van Cleve, Libby</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">1.26 gigabytes</physdesc>
+                  <unitdatestructured altrender="2026 July 29" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2026-07-19">2026 July 29</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_77a2c7113a3c6baa2338ac0e63dc221c">Approximate running time: 128 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352970">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/bc3st7h45f"
+                          identifier="aviary_177016"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/654/original/open-uri20260817-1678986-urdybi?1786982637"
+                          identifier="aviary_177016"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 619 a.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_8fdb934824449bff9d25f9406c4ee7d1">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_9300a105-1fae-46b5-8da0-2771e00646b5">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;9300a105-1fae-46b5-8da0-2771e00646b5</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Gena, Peter, 1947-</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
          <c altrender="/repositories/7/archival_objects/3197744"
             id="aspace_0c7c1b405a8ed11c1937b5cbd61ca5d4"
             level="series">
@@ -28728,6 +28847,67 @@
                <controlaccess>
                   <persname relator="pre">
                      <part localtype="agent_person">Halle, John (1959)</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4046295"
+            id="aspace_eb51d0936fada7e4e4d990955be93c87"
+            level="series">
+            <did>
+               <unittitle>Halvorson, Mary</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4046296"
+               id="aspace_9b95aeea0eb028fa3437a9e34e279093"
+               level="item">
+               <did>
+                  <unittitle>Halvorson, Mary</unittitle>
+                  <unitid>OHV 615 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Celli, Joseph</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">153 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 July 3" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2026-07-03">2026 July 3</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_9e42c14c1db40dbe5fffca043d332232">Approximate running time: 67 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352957">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/fx73t9gk6c"
+                          identifier="aviary_177003"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/641/original/open-uri20260817-1678986-3krxlt?1786982343"
+                          identifier="aviary_177003"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 615 a.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_67014f1a1a42fe36462ff280976b4a33">
+                  <head>Interview location</head>
+                  <p>Brooklyn, NY</p>
+               </scopecontent>
+               <phystech id="aspace_ed995f205a6726ac5c414cc40014d803">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Halvorson, Mary, 1980-</part>
                   </persname>
                </controlaccess>
             </c>
@@ -32728,6 +32908,62 @@
                </controlaccess>
             </c>
          </c>
+         <c altrender="/repositories/7/archival_objects/4046297"
+            id="aspace_28204982cef49f4e44bbbf3abf02d93c"
+            level="series">
+            <did>
+               <unittitle>Hwang, Jason Kao</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4046298"
+               id="aspace_1aefef0d490168f99e7a51885f15479f"
+               level="item">
+               <did>
+                  <unittitle>Hwang, Jason Kao</unittitle>
+                  <unitid>OHV 616 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Celli, Joseph</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">1.7 gigabytes</physdesc>
+                  <unitdatestructured altrender="2026 June 13" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2026-07-13">2026 June 13</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_28bbcc90d3199e6ed6efe2501d4677ef">Approximate running time: 118 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352958">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/m901z44539"
+                          identifier="aviary_177004"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/642/original/open-uri20260817-1678986-jgh55x?1786982395"
+                          identifier="aviary_177004"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 616 a.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_11b4321ab2a3076cf2da2a9f18058216">
+                  <head>Interview location</head>
+                  <p>Morris Plains, NJ</p>
+               </scopecontent>
+               <phystech id="aspace_58be4f9e406d4877d816c6cd40e7e45c">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav file</p>
+               </phystech>
+            </c>
+         </c>
          <c altrender="/repositories/7/archival_objects/3901204"
             id="aspace_4c099c9cd906534c39d2c49f36e3a7cf"
             level="series">
@@ -32901,6 +33137,60 @@
                <controlaccess>
                   <persname relator="ive">
                      <part localtype="agent_person">Ivey, Jean Eichelberger, 1923-2010</part>
+                  </persname>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/7/archival_objects/4046988"
+               id="aspace_4ab633254ffe25669f788903dada82be"
+               level="item">
+               <did>
+                  <unittitle>Ivey, Jean Eichelberger</unittitle>
+                  <unitid>OHV 52 d</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">82.4 megabytes</physdesc>
+                  <unitdatestructured altrender="1987 February 28"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1987-03-28">1987 February 28</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_46e5d95dec68c6cfe16764483683b773">Approximate running time: 72 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352960">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/610vq2v39d"
+                          identifier="aviary_177006"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/644/original/open-uri20260817-1678986-nu4fb6?1786982440"
+                          identifier="aviary_177006"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 52 d.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_692cd39c674fbd8b829ce98dd619d09b">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_a67d8fe4-6ac5-410d-bc7b-1ec2f0803b10">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;a67d8fe4-6ac5-410d-bc7b-1ec2f0803b10</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Ivey, Jean Eichelberger, 1923-2010</part>
+                  </persname>
+                  <persname relator="ivr" rules="dacs" source="naf">
+                     <part localtype="agent_person">Duffie, Bruce</part>
                   </persname>
                </controlaccess>
             </c>
@@ -43308,6 +43598,60 @@
                   <head>Interview Location</head>
                   <p>Washington Depot, CT</p>
                </scopecontent>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Lerdahl, Fred, 1943-</part>
+                  </persname>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/7/archival_objects/4046989"
+               id="aspace_d634256371cc39a3e1a0159d1f401e1c"
+               level="item">
+               <did>
+                  <unittitle>Lerdahl, Fred</unittitle>
+                  <unitid>OHV 83 c</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">53.7 megabytes</physdesc>
+                  <unitdatestructured altrender="1992 May 16" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1992-05-16">1992 May 16</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_c9fee8c1b89f34b64f08f13504a8b166">Approximate running time: 47 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352961">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/416sx66c95"
+                          identifier="aviary_177007"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/645/original/open-uri20260817-1678986-aodg53?1786982460"
+                          identifier="aviary_177007"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 83 c.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_38c683e493a7b811569ca477f8952351">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_0ee728b7-d68e-4170-8bfa-96dc9dc2c3c5">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;0ee728b7-d68e-4170-8bfa-96dc9dc2c3c5</p>
+               </otherfindaid>
                <controlaccess>
                   <persname relator="ive">
                      <part localtype="agent_person">Lerdahl, Fred, 1943-</part>
@@ -61112,6 +61456,71 @@
                </controlaccess>
             </c>
          </c>
+         <c altrender="/repositories/7/archival_objects/4047188"
+            id="aspace_72fe81f1e6c69670754a0c7150a6d738"
+            level="series">
+            <did>
+               <unittitle>Scott, Stephen</unittitle>
+            </did>
+            <otherfindaid id="aspace_2863a082-9caf-4cc6-9271-ff63dff100fa">
+               <head>TypeCollection</head>
+               <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;2863a082-9caf-4cc6-9271-ff63dff100fa</p>
+            </otherfindaid>
+            <c altrender="/repositories/7/archival_objects/4047184"
+               id="aspace_8b8f5550f1d33bae2906cea3fda7599f"
+               level="item">
+               <did>
+                  <unittitle>Scott, Stephen</unittitle>
+                  <unitid>OHV 618 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">57 megabytes</physdesc>
+                  <unitdatestructured altrender="1998 March 19" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1998-03-09">1998 March 19</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f5a00f1a8b54f55a932dc807904ee74a">Approximate running time: 50 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352964">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/sj19k4837x"
+                          identifier="aviary_177010"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/648/original/open-uri20260817-1678986-dxensa?1786982510"
+                          identifier="aviary_177010"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 618 a.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_1a3e3bd05959dcb2c60f4c9788687a06">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_98ecb039-9180-4a16-8ae7-af65850f1870">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;98ecb039-9180-4a16-8ae7-af65850f1870</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Scott, Stephen, 1944-</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
          <c altrender="/repositories/7/archival_objects/3183974"
             id="aspace_e70cd11cc9cc7c9e101a9e2a35b2be3c"
             level="series">
@@ -62079,6 +62488,60 @@
                   <p>Vivian Perlis</p>
                </odd>
             </c>
+            <c altrender="/repositories/7/archival_objects/4047496"
+               id="aspace_1cab1d6f6dd42be0c32522f0fef5c668"
+               level="item">
+               <did>
+                  <unittitle>Shapey, Ralph</unittitle>
+                  <unitid>OHV 109 m</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">107 megabytes</physdesc>
+                  <unitdatestructured altrender="1987 May 4" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1987-05-04">1987 May 4</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_3956283208cd08611b7fd4c421daf037">Approximate running time: 94 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352965">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/kd1qf8ms2m"
+                          identifier="aviary_177011"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/649/original/open-uri20260817-1678986-noah6?1786982536"
+                          identifier="aviary_177011"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 109 m.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_b9fbadc0727e8fe1e3f7cc83a874009e">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_ff46a23c-3c7f-4171-a57b-ac606b8ecc6c">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;ff46a23c-3c7f-4171-a57b-ac606b8ecc6c</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Shapey, Ralph, 1921-2002</part>
+                  </persname>
+               </controlaccess>
+            </c>
             <c altrender="/repositories/7/archival_objects/3185233"
                id="aspace_a0244d829c4bf384b2d4e857516f62a9"
                level="item">
@@ -62554,6 +63017,115 @@
                   <head>Interviewer</head>
                   <p>Andrea Olmstead</p>
                </odd>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4046990"
+            id="aspace_2b46b393dbf6b7da5dd64c8e19f8166a"
+            level="series">
+            <did>
+               <unittitle>Shulamit, Ran</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4046991"
+               id="aspace_9f9e6e2c39a5d770a2940743ff77a5e0"
+               level="item">
+               <did>
+                  <unittitle>Shulamit, Ran</unittitle>
+                  <unitid>OHV 617 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ive" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">71.6 megabytes</physdesc>
+                  <unitdatestructured altrender="1994 December 1"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1994-12-01">1994 December 1</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_845d41cf63e52e5eb7e7f767e05c6b5f">Approximate running time: 63 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352962">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/8g8ff3p10t"
+                          identifier="aviary_177008"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/646/original/open-uri20260817-1678986-kwn6fj?1786982479"
+                          identifier="aviary_177008"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 617 a.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_817e2a897616352b9b0ad947f3a54e99">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Ran, Shulamit, 1949-</part>
+                  </persname>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/7/archival_objects/4046992"
+               id="aspace_6bcc28287468b1c8024bda7362082168"
+               level="item">
+               <did>
+                  <unittitle>Shulamit, Ran</unittitle>
+                  <unitid>OHV 617 b</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">23.0 megabytes</physdesc>
+                  <unitdatestructured altrender="1997 June 1" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1997-06-01">1997 June 1</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_ab8581b54404d1e2ea2e060a1916a9bf">Approximate running time: 20 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352963">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/4746q1vk4n"
+                          identifier="aviary_177009"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/647/original/open-uri20260817-1678986-di3wtu?1786982493"
+                          identifier="aviary_177009"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 617 b.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_4f902f612c80b4a5fbb8d76689c60ac9">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Ran, Shulamit, 1949-</part>
+                  </persname>
+               </controlaccess>
             </c>
          </c>
          <c altrender="/repositories/7/archival_objects/3183987"
@@ -65283,6 +65855,60 @@
             <did>
                <unittitle>Stucky, Steven</unittitle>
             </did>
+            <c altrender="/repositories/7/archival_objects/4047497"
+               id="aspace_6477afba4e04b683f3c18bc5ba59fb7b"
+               level="item">
+               <did>
+                  <unittitle>Stucky, Steven</unittitle>
+                  <unitid>OHV 341 i</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">53.6 megabytes</physdesc>
+                  <unitdatestructured altrender="1992 April 23" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1992-04-23">1992 April 23</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_bb23712b6ebabf60fdf800806981f2f4">Approximate running time: 47 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352966">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/rx9377862t"
+                          identifier="aviary_177012"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/650/original/open-uri20260817-1678986-atddb8?1786982554"
+                          identifier="aviary_177012"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 341 i.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_82bd379e8a9f3711b0bb13ba2ec922d4">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_6f78ea90-219f-4976-9d29-6634445e1e09">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;6f78ea90-219f-4976-9d29-6634445e1e09</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Stucky, Steven, 1949-2016</part>
+                  </persname>
+               </controlaccess>
+            </c>
             <c altrender="/repositories/7/archival_objects/3185292"
                id="aspace_72adb1966c4b4fc2e3a8e67f44c9da61"
                level="item">
@@ -70210,6 +70836,62 @@
                   </persname>
                </controlaccess>
             </c>
+            <c altrender="/repositories/7/archival_objects/4047493"
+               id="aspace_03195cbec62f78bc36ca44a12d763c69"
+               level="item">
+               <did>
+                  <unittitle>Ussachevsky, Vladimir</unittitle>
+                  <unitid>OHV 201 y</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">72.4 megabytes</physdesc>
+                  <unitdatestructured altrender="1987 October 30"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1987-10-30">1987 October 30</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_4a47d8f51cc2dfee0b88e07d8af24f42">Approximate running time: 63 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352967">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/nc5s758q8j"
+                          identifier="aviary_177013"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/651/original/open-uri20260817-1678986-5h5rbq?1786982575"
+                          identifier="aviary_177013"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 201 y.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_6a2356c6d5fc2678e8faf620c8a4e349">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_71fa319a-770d-4d28-b661-7d6a1c8ba136">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;71fa319a-770d-4d28-b661-7d6a1c8ba136</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive" rules="aacr">
+                     <part localtype="agent_person">Ussachevsky, Vladimir, 1911-1990</part>
+                  </persname>
+               </controlaccess>
+            </c>
          </c>
          <c altrender="/repositories/7/archival_objects/4030572"
             id="aspace_167b61300cd41e1015836f7792138f3d"
@@ -70355,6 +71037,118 @@
                </did>
                <controlaccess>
                   <persname relator="ivr">
+                     <part localtype="agent_person">Van de Vate, Nancy (Nancy Hayes), 1930-2003</part>
+                  </persname>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/7/archival_objects/4047494"
+               id="aspace_48a370671b1181935396a2fcf9ab427b"
+               level="item">
+               <did>
+                  <unittitle>Van de Vate, Nancy</unittitle>
+                  <unitid>OHV 199 i</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">40.3 megabytes</physdesc>
+                  <unitdatestructured altrender="1990 August 30"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1990-08-30">1990 August 30</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_0b817ceed66b28c416ab4ca556a6c8d9">Approximate running time: 35 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352968">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/sb3ws8kz14"
+                          identifier="aviary_177014"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/652/original/open-uri20260817-1678986-t6f9vg?1786982591"
+                          identifier="aviary_177014"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 199 i.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_fc27319d3b0eebaaac8b50f8b65751c3">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_91ffbcde-3e56-457d-ab19-222f7a351def">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;91ffbcde-3e56-457d-ab19-222f7a351def</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Van de Vate, Nancy (Nancy Hayes), 1930-2003</part>
+                  </persname>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/7/archival_objects/4047495"
+               id="aspace_4c383cbd0e1ac34bb695b0a6959740d6"
+               level="item">
+               <did>
+                  <unittitle>Van de Vate, Nancy</unittitle>
+                  <unitid>OHV 199 j</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">50.6 megabytes</physdesc>
+                  <unitdatestructured altrender="1998 August 27"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1998-08-27">1998 August 27</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_4193dd3a2c17de5fb0673cbd493ebe86">Approximate running time: 94 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352969">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/0g3gx46p4w"
+                          identifier="aviary_177015"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/653/original/open-uri20260817-1678986-msxsxg?1786982606"
+                          identifier="aviary_177015"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 199 j.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_3b1cce485b29f8613e6c881dc43c9120">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_a9563bd7-bc92-4dc3-aa93-9dc802e99749">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;a9563bd7-bc92-4dc3-aa93-9dc802e99749</p>
+               </otherfindaid>
+               <controlaccess>
+                  <persname relator="ive">
                      <part localtype="agent_person">Van de Vate, Nancy (Nancy Hayes), 1930-2003</part>
                   </persname>
                </controlaccess>

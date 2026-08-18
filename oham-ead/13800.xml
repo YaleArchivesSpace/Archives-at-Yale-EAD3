@@ -33,7 +33,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="31">31</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="32">32</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T20:00:26-04:00</eventdatetime>
+            <eventdatetime>2026-08-17T20:01:52-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 17, 2026 at 20:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -693,6 +693,67 @@
                <controlaccess>
                   <persname relator="ive">
                      <part localtype="agent_person">Falcone, Dean</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4046293"
+            id="aspace_613bc7cb98654b81d7ba367726a7d613"
+            level="series">
+            <did>
+               <unittitle>Fischer, Billy</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4046294"
+               id="aspace_0f336c78a9e195f8941bf0bc31c6777b"
+               level="item">
+               <did>
+                  <unittitle>Fischer, Billy</unittitle>
+                  <unitid>NHM 32 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr">
+                        <part localtype="agent_person">Vees, Jack (1955-)</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">432 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 June 7" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2026-06-07">2026 June 7</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_0ec1131f1c4624d05b4c23ffea2bfbe9">Approximate running time: 63 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/352971">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/v97zk57w9p"
+                          identifier="aviary_177017"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/316/656/original/open-uri20260817-1678986-m39xl1?1786983222"
+                          identifier="aviary_177017"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] NHM 32 a.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_3c253d668ae90e2e3be77b557986d6f2">
+                  <head>Interview location</head>
+                  <p>Litchfield, CT</p>
+               </scopecontent>
+               <phystech id="aspace_1e9812ae2c8fd128e8adc1c8faefa04b">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive" source="local_beinecke">
+                     <part localtype="agent_person">Fischer, Billy</part>
                   </persname>
                </controlaccess>
             </c>
