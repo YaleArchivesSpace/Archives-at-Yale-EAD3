@@ -29,7 +29,7 @@
                        show="new">http://web.library.yale.edu/divinity/special-collections</ref>
                </addressline>
             </address>
-            <date>2024</date>
+            <date>2024-2026</date>
             <num>RG 342</num>
          </publicationstmt>
          <notestmt>
@@ -37,7 +37,7 @@
                <p>Boxes: 1-17, 19-104</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Box: 18</p>
+               <p>Boxes: 18, 105-107</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -60,10 +60,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-18T18:01:26-05:00</eventdatetime>
+            <eventdatetime>2026-08-18T18:00:19-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday February 18, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -80,14 +80,14 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>40.5</quantity>
+            <quantity>42.5</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">101 boxes</physdesc>
+         <physdesc localtype="container_summary">107 boxes</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1854">1854</fromdate>
-               <todate standarddate="2025">2025</todate>
+               <todate standarddate="2026">2026</todate>
             </daterange>
          </unitdatestructured>
          <abstract id="aspace_82bf9c93e1fb96ecde6d9f9cd1c74da9">This collection draws together documentation relating to ecumenical and interdenominational organizations and institutions that were established to coordinate and document aspects of the missionary movement and world Christianity. It complements other substantial archival collections held by the Divinity Library.</abstract>
@@ -180,17 +180,6 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                   <scopecontent id="aspace_db544f303de9e7ee290e6fb180ac3b55">
                      <head>Scope and Contents</head>
                      <p>Established by the World Council of Churches and the International Missionary Council.</p>
-                  </scopecontent>
-               </c>
-               <c altrender="/repositories/4/archival_objects/3888963"
-                  id="aspace_90744e3e3d8d0fa5cbb37ecc1c7862ce"
-                  level="subseries">
-                  <did>
-                     <unittitle>Continuation Committee of the World Missionary Conference (1910)</unittitle>
-                  </did>
-                  <scopecontent id="aspace_da7f51e189ec6df19aed5ef2179d9ca3">
-                     <head>Scope and Contents</head>
-                     <p>See Series II, Conferences - World Missionary Conference (1910)</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/3874400"
@@ -1657,9 +1646,12 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                         id="aspace_56a1c8e878f7136dd94c62e613359361"
                         level="file">
                         <did>
-                           <unittitle>Group membership directory</unittitle>
-                           <unitdatestructured label="creation" unitdatetype="inclusive">
-                              <datesingle standarddate="2024">2024</datesingle>
+                           <unittitle>Group membership directories</unittitle>
+                           <unitdatestructured altrender="2024, 2026" label="creation" unitdatetype="inclusive">
+                              <daterange>
+                                 <fromdate standarddate="2024">2024</fromdate>
+                                 <todate standarddate="2026">2026</todate>
+                              </daterange>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/407037 /locations/9"
                                       containerid="39002112324679"
@@ -1680,7 +1672,11 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                      </did>
                      <scopecontent id="aspace_ed4cf75de8317552118fe669133cbcf8">
                         <head>Scope and Contents</head>
-                        <p>The theme statements, or call for papers, of the conferences were prepared by the conveners of the Yale-Edinburgh Group - Andrew Walls and Lamin Sanneh for many years, followed by other representatives from Yale Divinity School and the University of Edinburgh Centre for the Study of World Christianity. Full conference programs and theme statements are not available for all years. Selected papers presented at the conferences are available in digital format at the Yale Divinity Library. Contact the Special Collections Librarian for more information.</p>
+                        <p>The theme statements, or call for papers, of the conferences were prepared by the conveners of the Yale-Edinburgh Group - Andrew Walls and Lamin Sanneh for many years, followed by other representatives from Yale Divinity School and the University of Edinburgh Centre for the Study of World Christianity. Full conference programs and theme statements are not available for all years. Selected papers presented at the conferences are available in digital format at the Yale Divinity Library. Contact the Special Collections Librarian for more information. 
+No records are available for the following meetings:
+"The Churches and the Missionary Movement" at Edinburgh (1994)
+"Missions and Ethnicity" at Edinburgh (1996)
+"War and Peace in the History of Missions" at Edinburgh (1998)</p>
                      </scopecontent>
                      <c altrender="/repositories/4/archival_objects/3873201"
                         id="aspace_347f67fd07fbd837fca001fbf1c0569f"
@@ -1718,20 +1714,6 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                                       parent="aspace_93bcfd65d400669e1777a63b2a346df1_c1">5</container>
                         </did>
                      </c>
-                     <c altrender="/repositories/4/archival_objects/3873203"
-                        id="aspace_5e457b0b0ebf6736c0555396ebe33bb2"
-                        level="file">
-                        <did>
-                           <unittitle>"The Churches and the Missionary Movement" at Edinburgh</unittitle>
-                           <unitdatestructured label="creation" unitdatetype="inclusive">
-                              <datesingle standarddate="1994">1994</datesingle>
-                           </unitdatestructured>
-                        </did>
-                        <scopecontent id="aspace_f342c73f5a01be4d720088674d6f2228">
-                           <head>Scope and Contents</head>
-                           <p>No records available.</p>
-                        </scopecontent>
-                     </c>
                      <c altrender="/repositories/4/archival_objects/3873204"
                         id="aspace_85d6228a978d500e2c73f84a76ce3b37"
                         level="file">
@@ -1750,20 +1732,6 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                                       parent="aspace_85d6228a978d500e2c73f84a76ce3b37_c1">6</container>
                         </did>
                      </c>
-                     <c altrender="/repositories/4/archival_objects/3873205"
-                        id="aspace_86b1b892cf2c0bbe35e14228c6f490de"
-                        level="file">
-                        <did>
-                           <unittitle>"Missions and Ethnicity" at Edinburgh</unittitle>
-                           <unitdatestructured label="creation" unitdatetype="inclusive">
-                              <datesingle standarddate="1996">1996</datesingle>
-                           </unitdatestructured>
-                        </did>
-                        <scopecontent id="aspace_129ddac18e3a44e62438e1b93f1df476">
-                           <head>Scope and Contents</head>
-                           <p>No records available.</p>
-                        </scopecontent>
-                     </c>
                      <c altrender="/repositories/4/archival_objects/3873206"
                         id="aspace_2dbdfe9d7571520a9f7cbe2e93c6a761"
                         level="file">
@@ -1781,20 +1749,6 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                                       localtype="folder"
                                       parent="aspace_2dbdfe9d7571520a9f7cbe2e93c6a761_c1">7</container>
                         </did>
-                     </c>
-                     <c altrender="/repositories/4/archival_objects/3873207"
-                        id="aspace_3eb2d8eb2a88ef0ae02830628ed950ac"
-                        level="file">
-                        <did>
-                           <unittitle>"War and Peace in the History of Missions" at Edinburgh</unittitle>
-                           <unitdatestructured label="creation" unitdatetype="inclusive">
-                              <datesingle standarddate="1998">1998</datesingle>
-                           </unitdatestructured>
-                        </did>
-                        <scopecontent id="aspace_0149d7a48306a0e94aa07512736e2c89">
-                           <head>Scope and Contents</head>
-                           <p>No records available.</p>
-                        </scopecontent>
                      </c>
                      <c altrender="/repositories/4/archival_objects/3873208"
                         id="aspace_641c03ee460da0899b626bd696a43f21"
@@ -5694,7 +5648,7 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                         level="file">
                         <did>
                            <unittitle>Constitution, directory of missionaries, brochure</unittitle>
-                           <unitdate label="creation" unitdatetype="inclusive">1930-1934</unitdate>
+                           <unitdate label="creation" unitdatetype="inclusive">1929-1934</unitdate>
                            <container altrender="/repositories/4/top_containers/408117 /locations/9"
                                       containerid="39002112324760"
                                       id="aspace_e572721555ee9d7a202d8e720e7c9452_c1"
@@ -9247,26 +9201,18 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                </c>
                <c altrender="/repositories/4/archival_objects/3888105"
                   id="aspace_21bbce858b43a998b2eb6ed23ced03cf"
-                  level="subseries">
+                  level="file">
                   <did>
                      <unittitle>Home Missions Council of North America</unittitle>
+                     <container altrender="/repositories/4/top_containers/408318 /locations/9"
+                                containerid="39002112324844"
+                                id="aspace_21bbce858b43a998b2eb6ed23ced03cf_c1"
+                                label="Mixed Materials"
+                                localtype="box">91</container>
+                     <container id="aspace_21bbce858b43a998b2eb6ed23ced03cf_c2"
+                                localtype="folder"
+                                parent="aspace_21bbce858b43a998b2eb6ed23ced03cf_c1">1-3</container>
                   </did>
-                  <c altrender="/repositories/4/archival_objects/3888104"
-                     id="aspace_7cb835fde947c5d28ae01fc4e6c0c782"
-                     level="file">
-                     <did>
-                        <unittitle>Reports, Oriental Missions Directory, work with Native Americans, work with Spanish Americans</unittitle>
-                        <unitdate label="creation" unitdatetype="inclusive">1915-1942</unitdate>
-                        <container altrender="/repositories/4/top_containers/408318 /locations/9"
-                                   containerid="39002112324844"
-                                   id="aspace_7cb835fde947c5d28ae01fc4e6c0c782_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">91</container>
-                        <container id="aspace_7cb835fde947c5d28ae01fc4e6c0c782_c2"
-                                   localtype="folder"
-                                   parent="aspace_7cb835fde947c5d28ae01fc4e6c0c782_c1">1-3</container>
-                     </did>
-                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/3888106"
                   id="aspace_7683c2a40407fa66a9fb5a6e4b4ac5fd"
@@ -12366,8 +12312,13 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                   level="file">
                   <did>
                      <unittitle>Interdenominational Documentation and Communications Center (IDOC)</unittitle>
-                     <unitdatestructured label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1974">1974</datesingle>
+                     <unitdatestructured altrender="1974-1977, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1974">1974</fromdate>
+                           <todate standarddate="1977">1977</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/408351 /locations/9"
                                 containerid="39002112324893"
@@ -12380,7 +12331,7 @@ The Mission Studies Resource Development Project began in 1993 and over the next
                   </did>
                   <scopecontent id="aspace_e7555d1f05cc80776b26114b0e68f706">
                      <head>Scope and Contents</head>
-                     <p>Dossier No. 9 - "In Search of Mission"</p>
+                     <p>Dossier No. 9 - "In Search of Mission"; materials explaining IDOC's program and services.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/3874403"

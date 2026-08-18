@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-17T18:01:40-04:00</eventdatetime>
+            <eventdatetime>2026-08-18T18:00:16-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 17, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2571,67 +2571,162 @@
                   </daoset>
                </did>
             </c>
-            <c altrender="/repositories/4/archival_objects/98996"
-               id="ref206"
-               level="file">
+            <c altrender="/repositories/4/archival_objects/4053409"
+               id="aspace_b92af0f0d39142d7c282ef19d4fd02ca"
+               level="subseries">
                <did>
-                  <unittitle>Album/Scrapbook: "Inghok District of Foochow Mission, China."</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
-                  <container altrender="/repositories/4/top_containers/10318 /locations/9"
-                             containerid="39002038302601"
-                             id="aspace_ref206_c1"
-                             label="Mixed Materials"
-                             localtype="box">17</container>
-                  <container id="aspace_ref206_c2" localtype="folder" parent="aspace_ref206_c1">11</container>
-                  <daoset altrender="/repositories/4/digital_objects/348660">
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/manifests/33648819"
-                          identifier="oid:33648819"
-                          linktitle="37 images"
-                          linkrole="text-json"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/iiif/2/33648900/full/!150,150/0/default.jpg"
-                          identifier="oid:33648819"
-                          linktitle="37 images"
-                          linkrole="image-thumbnail"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/catalog/33648819"
-                          identifier="oid:33648819"
-                          linktitle="37 images"
-                          linkrole="text-html"
-                          show="new"/>
-                     <descriptivenote>
-                        <p>Album/Scrapbook: "Inghok District of Foochow Mission, China."</p>
-                     </descriptivenote>
-                  </daoset>
+                  <unittitle>Albums</unittitle>
                </did>
-            </c>
-            <c altrender="/repositories/4/archival_objects/98997"
-               id="ref207"
-               level="file">
-               <did>
-                  <unittitle>Album - HHS- Family and Wenshan Girls School</unittitle>
-                  <unitdatestructured altrender="1936-1941" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1936">1936</fromdate>
-                        <todate standarddate="1941">1941</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/10311 /locations/9"
-                             containerid="39002038302619"
-                             id="aspace_ref207_c1"
-                             label="Mixed Materials"
-                             localtype="box">18</container>
-                  <container id="aspace_ref207_c2" localtype="folder" parent="aspace_ref207_c1">4</container>
-               </did>
+               <c altrender="/repositories/4/archival_objects/4053408"
+                  id="aspace_c3e0b2d58a2fd2bc8c91ca27e7951483"
+                  level="file">
+                  <did>
+                     <unittitle>Scrapbook album</unittitle>
+                     <container altrender="/repositories/4/top_containers/10318 /locations/9"
+                                containerid="39002038302601"
+                                id="aspace_c3e0b2d58a2fd2bc8c91ca27e7951483_c1"
+                                label="Mixed Materials"
+                                localtype="box">17</container>
+                     <container id="aspace_c3e0b2d58a2fd2bc8c91ca27e7951483_c2"
+                                localtype="folder"
+                                parent="aspace_c3e0b2d58a2fd2bc8c91ca27e7951483_c1">7</container>
+                  </did>
+                  <scopecontent id="aspace_401d4d2b05811763e85c32f89fcafe6b">
+                     <head>Scope and Contents</head>
+                     <p>Scrapbook album containing images of Foochow, the Smith family, Foochow College Class of 1923, group portraits, and other related images.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053387"
+                  id="aspace_9b74fb063c140f1ace536e113215a2a3"
+                  level="file">
+                  <did>
+                     <unittitle>Photograph album</unittitle>
+                     <unitdatestructured altrender="circa 1955-1972"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1950">1950</fromdate>
+                           <todate standarddate="1980">1980</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/10318 /locations/9"
+                                containerid="39002038302601"
+                                id="aspace_9b74fb063c140f1ace536e113215a2a3_c1"
+                                label="Mixed Materials"
+                                localtype="box">17</container>
+                     <container id="aspace_9b74fb063c140f1ace536e113215a2a3_c2"
+                                localtype="folder"
+                                parent="aspace_9b74fb063c140f1ace536e113215a2a3_c1">8</container>
+                  </did>
+                  <scopecontent id="aspace_00c586a00b98665a8f16c35d0839d13d">
+                     <head>Scope and Contents</head>
+                     <p>Photograph album with a note affixed to the interior of the front cover: "Mr. Edward H. Smith's work being carried on in Hongkong and Taiwan by his students, 1955-1972"</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053390"
+                  id="aspace_6fb1097ade18d476cfefeda1a49b52fd"
+                  level="file">
+                  <did>
+                     <unittitle>Inghok District of Foochow Mission, China</unittitle>
+                     <unitdatestructured altrender="circa 1905-1950"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1900">1900</fromdate>
+                           <todate standarddate="1955">1955</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/10318 /locations/9"
+                                containerid="39002038302601"
+                                id="aspace_6fb1097ade18d476cfefeda1a49b52fd_c1"
+                                label="Mixed Materials"
+                                localtype="box">17</container>
+                     <container id="aspace_6fb1097ade18d476cfefeda1a49b52fd_c2"
+                                localtype="folder"
+                                parent="aspace_6fb1097ade18d476cfefeda1a49b52fd_c1">9</container>
+                  </did>
+                  <scopecontent id="aspace_3f3831fdb39b76f7645d34c5cdcc5665">
+                     <head>Scope and Contents</head>
+                     <p>This collection was made by W. W. Adams. Photograph album depicting images, including the Smith family, bible sellers, mission residences, boy's boarding school students, a loom, a bridal sedan, and printed images of surrounding scenes of Foochow. Accompanied by several additional loose prints.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053411"
+                  id="aspace_f24ae30e5021710c44ec09652a8bcf2d"
+                  level="file">
+                  <did>
+                     <unittitle>Photograph album</unittitle>
+                     <container altrender="/repositories/4/top_containers/10318 /locations/9"
+                                containerid="39002038302601"
+                                id="aspace_f24ae30e5021710c44ec09652a8bcf2d_c1"
+                                label="Mixed Materials"
+                                localtype="box">17</container>
+                     <container id="aspace_f24ae30e5021710c44ec09652a8bcf2d_c2"
+                                localtype="folder"
+                                parent="aspace_f24ae30e5021710c44ec09652a8bcf2d_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/98997"
+                  id="ref207"
+                  level="file">
+                  <did>
+                     <unittitle>HHS- Family and Wenshan Girls School</unittitle>
+                     <unitdatestructured altrender="1936-1941" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1936">1936</fromdate>
+                           <todate standarddate="1941">1941</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/10311 /locations/9"
+                                containerid="39002038302619"
+                                id="aspace_ref207_c1"
+                                label="Mixed Materials"
+                                localtype="box">18</container>
+                     <container id="aspace_ref207_c2" localtype="folder" parent="aspace_ref207_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/98996"
+                  id="ref206"
+                  level="file">
+                  <did>
+                     <unittitle>Album/Scrapbook: "Inghok District of Foochow Mission, China."</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/10318 /locations/9"
+                                containerid="39002038302601"
+                                id="aspace_ref206_c1"
+                                label="Mixed Materials"
+                                localtype="box">17</container>
+                     <container id="aspace_ref206_c2" localtype="folder" parent="aspace_ref206_c1">11</container>
+                     <daoset altrender="/repositories/4/digital_objects/348660">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33648819"
+                             identifier="oid:33648819"
+                             linktitle="37 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33648900/full/!150,150/0/default.jpg"
+                             identifier="oid:33648819"
+                             linktitle="37 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33648819"
+                             identifier="oid:33648819"
+                             linktitle="37 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Album/Scrapbook: "Inghok District of Foochow Mission, China."</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/98998"
                id="ref208"

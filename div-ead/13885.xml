@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:07:46-04:00</eventdatetime>
+            <eventdatetime>2026-08-18T18:00:08-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:07</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2813,8 +2813,11 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      level="file">
                      <did>
                         <unittitle>Baldwin Boys' High School</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1940">1940</datesingle>
+                        <unitdatestructured altrender="1932, 1940" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932">1932</fromdate>
+                              <todate standarddate="1940">1940</todate>
+                           </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/419902 /locations/9"
                                    containerid="39002035368001"
@@ -5605,11 +5608,11 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      id="aspace_94ef517005b0763e9c10b757483654c6"
                      level="file">
                      <did>
-                        <unittitle>Trinity College</unittitle>
+                        <unittitle>Trinity College / Trinity Theological College</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1952">1952</fromdate>
-                              <todate standarddate="1955">1955</todate>
+                              <todate standarddate="1961">1961</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/420151 /locations/9"
@@ -5623,7 +5626,7 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                      </did>
                      <scopecontent id="aspace_d255d38c7d638cd6ef4304485c115a27">
                         <head>Scope and Contents</head>
-                        <p>Issues of Sophia magazine.</p>
+                        <p>Issues of Sophia magazine, brochure about Trinity Theological College.</p>
                      </scopecontent>
                   </c>
                </c>
