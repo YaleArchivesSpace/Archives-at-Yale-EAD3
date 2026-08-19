@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-31T03:01:58-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T03:00:18-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 03:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -49331,6 +49331,11 @@ Debris in film gate. Black and white reversal.</materialspec>
                              label="Mixed Materials"
                              localtype="box">41</container>
                </did>
+               <accessrestrict id="aspace_cdf2f98b9765c696c5317f64c49c824c"
+                               localtype="RestrictedFragileSpecColl">
+                  <head>Conditions Governing Access</head>
+                  <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+               </accessrestrict>
                <c altrender="/repositories/12/archival_objects/1074980"
                   id="ref3459"
                   level="file">

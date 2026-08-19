@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="194">194</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-23T03:00:41-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T03:09:35-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday April 23, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 03:09</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -976,6 +979,27 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref56_c2" localtype="folder" parent="aspace_ref56_c1">1</container>
+                  <daoset altrender="/repositories/12/digital_objects/353005">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33770528"
+                          linktitle="194 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33770528"
+                          identifier="oid:33770528"
+                          linktitle="194 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Order book</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
          </c>

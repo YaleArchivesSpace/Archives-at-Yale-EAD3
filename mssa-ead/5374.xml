@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-18T03:00:16-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T03:13:18-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 03:13</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -27031,48 +27031,11 @@
                   </did>
                </c>
             </c>
-            <c altrender="/repositories/12/archival_objects/2135086"
-               id="ref1326"
+            <c altrender="/repositories/12/archival_objects/2135084"
+               id="ref1319"
                level="file">
                <did>
-                  <unittitle>Construction of DKE, regions 3 and 4</unittitle>
-                  <unitdatestructured altrender="Circa 1925" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1925">Circa 1925</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/229807 /locations/3429"
-                             containerid="39002109606450"
-                             id="aspace_ref1326_c1"
-                             label="Mixed Materials"
-                             localtype="box">66</container>
-                  <daoset altrender="/repositories/12/digital_objects/352974">
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/manifests/33767864"
-                          identifier="oid:33767864"
-                          linktitle="2 images"
-                          linkrole="text-json"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/iiif/2/33767865/full/!150,150/0/default.jpg"
-                          identifier="oid:33767864"
-                          linktitle="2 images"
-                          linkrole="image-thumbnail"
-                          show="embed"/>
-                     <dao actuate="onrequest"
-                          audience="external"
-                          daotype="unknown"
-                          href="https://collections.library.yale.edu/catalog/33767864"
-                          identifier="oid:33767864"
-                          linktitle="2 images"
-                          linkrole="text-html"
-                          show="new"/>
-                     <descriptivenote>
-                        <p>Construction of DKE, regions 3 and 4</p>
-                     </descriptivenote>
-                  </daoset>
+                  <unittitle>Montage</unittitle>
                </did>
                <c altrender="/repositories/12/archival_objects/2135944"
                   id="ref1320"
@@ -27114,7 +27077,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/iiif/2/33767868/full/!150,150/0/default.jpg"
                              identifier="oid:33767867"
-                             linktitle="2 images"
+                             linktitle="[Front]"
                              linkrole="image-thumbnail"
                              show="embed"/>
                         <dao actuate="onrequest"
@@ -27122,7 +27085,7 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33767867"
                              identifier="oid:33767867"
-                             linktitle="2 images"
+                             linktitle="[Front]"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
@@ -27131,6 +27094,186 @@
                      </daoset>
                   </did>
                </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2135085"
+               id="ref1322"
+               level="file">
+               <did>
+                  <unittitle>Panorama</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/2135946"
+                  id="ref1323"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1906" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1906">1906</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/229807 /locations/3429"
+                                containerid="39002109606450"
+                                id="aspace_ref1323_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <daoset altrender="/repositories/12/digital_objects/352972">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33767877"
+                             identifier="oid:33767877"
+                             linktitle="2 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33767878/full/!150,150/0/default.jpg"
+                             identifier="oid:33767877"
+                             linktitle="[Front]"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33767877"
+                             identifier="oid:33767877"
+                             linktitle="[Front]"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Panorama, 1906</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/2135947"
+                  id="ref1324"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="Circa 1906" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1906">Circa 1906</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/229807 /locations/3429"
+                                containerid="39002109606450"
+                                id="aspace_ref1324_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <daoset altrender="/repositories/12/digital_objects/352973">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33767870"
+                             identifier="oid:33767870"
+                             linktitle="6 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33767871/full/!150,150/0/default.jpg"
+                             identifier="oid:33767870"
+                             linktitle="[Front]"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33767870"
+                             identifier="oid:33767870"
+                             linktitle="[Front]"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Panorama, Circa 1906</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/2135948"
+                  id="ref1325"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="Circa 1907" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1907">Circa 1907</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/229807 /locations/3429"
+                                containerid="39002109606450"
+                                id="aspace_ref1325_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <daoset altrender="/repositories/12/digital_objects/352977">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33767880"
+                             identifier="oid:33767880"
+                             linktitle="4 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33767881/full/!150,150/0/default.jpg"
+                             identifier="oid:33767880"
+                             linktitle="[Front]"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33767880"
+                             identifier="oid:33767880"
+                             linktitle="[Front]"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Panorama, Circa 1907</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/2135086"
+               id="ref1326"
+               level="file">
+               <did>
+                  <unittitle>Construction of DKE, regions 3 and 4</unittitle>
+                  <unitdatestructured altrender="Circa 1925" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1925">Circa 1925</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/229807 /locations/3429"
+                             containerid="39002109606450"
+                             id="aspace_ref1326_c1"
+                             label="Mixed Materials"
+                             localtype="box">66</container>
+                  <daoset altrender="/repositories/12/digital_objects/352974">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33767864"
+                          identifier="oid:33767864"
+                          linktitle="2 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33767865/full/!150,150/0/default.jpg"
+                          identifier="oid:33767864"
+                          linktitle="[Front]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33767864"
+                          identifier="oid:33767864"
+                          linktitle="[Front]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Construction of DKE, regions 3 and 4</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2135087"
                id="ref1327"
@@ -27174,149 +27317,6 @@
                         <p>Drawing by Graham Peck</p>
                      </descriptivenote>
                   </daoset>
-               </did>
-               <c altrender="/repositories/12/archival_objects/2135946"
-                  id="ref1323"
-                  level="file">
-                  <did>
-                     <unitdatestructured altrender="1906" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1906">1906</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/12/top_containers/229807 /locations/3429"
-                                containerid="39002109606450"
-                                id="aspace_ref1323_c1"
-                                label="Mixed Materials"
-                                localtype="box">66</container>
-                     <daoset altrender="/repositories/12/digital_objects/352972">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33767877"
-                             identifier="oid:33767877"
-                             linktitle="2 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33767878/full/!150,150/0/default.jpg"
-                             identifier="oid:33767877"
-                             linktitle="2 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33767877"
-                             identifier="oid:33767877"
-                             linktitle="2 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Panorama, 1906</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/12/archival_objects/2135947"
-                  id="ref1324"
-                  level="file">
-                  <did>
-                     <unitdatestructured altrender="Circa 1906" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1906">Circa 1906</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/12/top_containers/229807 /locations/3429"
-                                containerid="39002109606450"
-                                id="aspace_ref1324_c1"
-                                label="Mixed Materials"
-                                localtype="box">66</container>
-                     <daoset altrender="/repositories/12/digital_objects/352973">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33767870"
-                             identifier="oid:33767870"
-                             linktitle="6 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33767871/full/!150,150/0/default.jpg"
-                             identifier="oid:33767870"
-                             linktitle="6 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33767870"
-                             identifier="oid:33767870"
-                             linktitle="6 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Panorama, Circa 1906</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-               <c altrender="/repositories/12/archival_objects/2135948"
-                  id="ref1325"
-                  level="file">
-                  <did>
-                     <unitdatestructured altrender="Circa 1907" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1907">Circa 1907</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/12/top_containers/229807 /locations/3429"
-                                containerid="39002109606450"
-                                id="aspace_ref1325_c1"
-                                label="Mixed Materials"
-                                localtype="box">66</container>
-                     <daoset altrender="/repositories/12/digital_objects/352977">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33767880"
-                             identifier="oid:33767880"
-                             linktitle="4 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33767881/full/!150,150/0/default.jpg"
-                             identifier="oid:33767880"
-                             linktitle="4 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33767880"
-                             identifier="oid:33767880"
-                             linktitle="4 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Panorama, Circa 1907</p>
-                        </descriptivenote>
-                     </daoset>
-                  </did>
-               </c>
-            </c>
-            <c altrender="/repositories/12/archival_objects/2135084"
-               id="ref1319"
-               level="file">
-               <did>
-                  <unittitle>Montage</unittitle>
-               </did>
-            </c>
-            <c altrender="/repositories/12/archival_objects/2135085"
-               id="ref1322"
-               level="file">
-               <did>
-                  <unittitle>Panorama</unittitle>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2135088"

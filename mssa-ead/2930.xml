@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="482">482</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T03:11:40-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T03:13:16-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 03:11</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 03:13</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -670,6 +673,35 @@
                                 label="Mixed Materials"
                                 localtype="box">6</container>
                      <container id="aspace_ref41_c2" localtype="folder" parent="aspace_ref41_c1">23</container>
+                     <daoset altrender="/repositories/12/digital_objects/353025">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33774107"
+                             identifier="oid:33774107"
+                             linktitle="346 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33774108/full/!150,150/0/default.jpg"
+                             identifier="oid:33774107"
+                             linktitle="346 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33774107"
+                             identifier="oid:33774107"
+                             linktitle="346 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Journal</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1172205"
@@ -689,6 +721,35 @@
                                 label="Mixed Materials"
                                 localtype="box">6A</container>
                      <container id="aspace_ref42_c2" localtype="folder" parent="aspace_ref42_c1">24</container>
+                     <daoset altrender="/repositories/12/digital_objects/353024">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33773970"
+                             identifier="oid:33773970"
+                             linktitle="136 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33773971/full/!150,150/0/default.jpg"
+                             identifier="oid:33773970"
+                             linktitle="136 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33773970"
+                             identifier="oid:33773970"
+                             linktitle="136 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Journal</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1172206"

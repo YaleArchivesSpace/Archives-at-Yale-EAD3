@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="626">626</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="6">6</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="888">888</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-24T03:04:15-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T03:08:01-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday June 24, 2026 at 03:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 03:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1566,6 +1566,27 @@
                              id="aspace_ref64_c3"
                              label="Mixed Materials"
                              localtype="reel">6U</container>
+                  <daoset altrender="/repositories/12/digital_objects/352995">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33768816"
+                          linktitle="200 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33768816"
+                          identifier="oid:33768816"
+                          linktitle="200 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Learning, psychology of - notes on the writing of a book concerning, 1 vol.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1185459"
@@ -2137,6 +2158,27 @@
                              id="aspace_ref89_c3"
                              label="Mixed Materials"
                              localtype="reel">7U</container>
+                  <daoset altrender="/repositories/12/digital_objects/352990">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33768835"
+                          linktitle="62 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33768835"
+                          identifier="oid:33768835"
+                          linktitle="62 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Theoretical notes, Lewin notes, 1 vol.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1185484"
