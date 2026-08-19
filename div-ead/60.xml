@@ -41,7 +41,7 @@
                <p>Boxes: 1-264, 279-285</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="27">27</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2797">2,797</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="28">28</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2801">2,801</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:09:47-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T18:00:46-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:09</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -35161,6 +35161,27 @@ These archives document the work of the United Board as it sought to redefine it
                         <container id="aspace_ref1858_c2"
                                    localtype="folder"
                                    parent="aspace_ref1858_c1">3029</container>
+                        <daoset altrender="/repositories/4/digital_objects/353051">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33777504"
+                                linktitle="4 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33777504"
+                                identifier="oid:33777504"
+                                linktitle="4 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Calderon, Dr. Cicero D.: Biographical Material</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/21852"
