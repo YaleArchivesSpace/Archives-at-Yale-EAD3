@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1834">1,834</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="17">17</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2360">2,360</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-30T03:16:15-04:00</eventdatetime>
+            <eventdatetime>2026-08-20T03:01:37-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:16</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 20, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1859,6 +1859,27 @@
                                    label="Mixed Materials"
                                    localtype="box">20</container>
                         <container id="aspace_ref132_c2" localtype="folder" parent="aspace_ref132_c1">180 - 183</container>
+                        <daoset altrender="/repositories/12/digital_objects/353050">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33774841"
+                                linktitle="350 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33774841"
+                                identifier="oid:33774841"
+                                linktitle="350 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Russell v. U.S., nos. 8, 9, 10, 11, 12, and 128</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1701036"
@@ -2242,6 +2263,27 @@
                                    label="Mixed Materials"
                                    localtype="box">25</container>
                         <container id="aspace_ref160_c2" localtype="folder" parent="aspace_ref160_c1">213</container>
+                        <daoset altrender="/repositories/12/digital_objects/353039">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33774960"
+                                linktitle="170 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33774960"
+                                identifier="oid:33774960"
+                                linktitle="170 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Rideau v. Louisiana, no. 630</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1701064"
@@ -70248,6 +70290,27 @@
                         <container id="aspace_ref4609_c2"
                                    localtype="folder"
                                    parent="aspace_ref4609_c1">105</container>
+                        <daoset altrender="/repositories/12/digital_objects/353031">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33774965"
+                                linktitle="6 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33774965"
+                                identifier="oid:33774965"
+                                linktitle="6 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Horace Chandler Davis v. U.S., no. 13373</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1705506"

@@ -39,6 +39,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="192">192</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -70,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T04:19:06-04:00</eventdatetime>
+            <eventdatetime>2026-08-20T03:01:26-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 04:19</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 20, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1084,6 +1087,27 @@
                                 label="Mixed Materials"
                                 localtype="box">5</container>
                      <container id="aspace_ref58_c2" localtype="folder" parent="aspace_ref58_c1">35</container>
+                     <daoset altrender="/repositories/12/digital_objects/353040">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33776474"
+                             linktitle="42 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33776474"
+                             identifier="oid:33776474"
+                             linktitle="42 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Feinstein, Alvin [comments on the UGDP in the Medical Tribune, correspondence]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1214895"
@@ -1175,6 +1199,27 @@
                                 label="Mixed Materials"
                                 localtype="box">5</container>
                      <container id="aspace_ref63_c2" localtype="folder" parent="aspace_ref63_c1">39</container>
+                     <daoset altrender="/repositories/12/digital_objects/353046">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33776638"
+                             linktitle="98 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33776638"
+                             identifier="oid:33776638"
+                             linktitle="98 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Food and Drug Administration hearing on oral hypoglycemic agents [Lavietes's presentation, background material, drafts, correspondence]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1214900"
@@ -1290,6 +1335,27 @@
                                 label="Mixed Materials"
                                 localtype="box">5</container>
                      <container id="aspace_ref69_c2" localtype="folder" parent="aspace_ref69_c1">45</container>
+                     <daoset altrender="/repositories/12/digital_objects/353043">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33776684"
+                             linktitle="26 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33776684"
+                             identifier="oid:33776684"
+                             linktitle="26 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Public Citizen Health Research Group [presentation to Food and Drug Administration hearings on proposed labeling for diabetes drugs]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1214906"
@@ -1378,6 +1444,27 @@
                                 label="Mixed Materials"
                                 localtype="box">5</container>
                      <container id="aspace_ref73_c2" localtype="folder" parent="aspace_ref73_c1">49</container>
+                     <daoset altrender="/repositories/12/digital_objects/353042">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33776729"
+                             linktitle="26 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33776729"
+                             identifier="oid:33776729"
+                             linktitle="26 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"A Summary of Findings of the University Group Diabetes Program (UGDP) for Patients Treated With Insulin" [report on presentation at the Tenth Congress ofthe International Diabetes Foundation]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1214910"
