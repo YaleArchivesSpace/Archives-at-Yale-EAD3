@@ -60,10 +60,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-18T18:00:19-04:00</eventdatetime>
+            <eventdatetime>2026-08-20T18:00:31-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 20, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2218,6 +2218,24 @@ No records are available for the following meetings:
                                       parent="aspace_01127037366819a5d7229634a0ddc138_c1">34</container>
                         </did>
                      </c>
+                     <c altrender="/repositories/4/archival_objects/4053370"
+                        id="aspace_1272d6a722fa230077f970f5317b732b"
+                        level="file">
+                        <did>
+                           <unittitle>"Popular, Folk, Grassroots and Pop Culture" at Edinburgh</unittitle>
+                           <unitdatestructured label="creation" unitdatetype="inclusive">
+                              <datesingle standarddate="2026">2026</datesingle>
+                           </unitdatestructured>
+                           <container altrender="/repositories/4/top_containers/407037 /locations/9"
+                                      containerid="39002112324679"
+                                      id="aspace_1272d6a722fa230077f970f5317b732b_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">16</container>
+                           <container id="aspace_1272d6a722fa230077f970f5317b732b_c2"
+                                      localtype="folder"
+                                      parent="aspace_1272d6a722fa230077f970f5317b732b_c1">35</container>
+                        </did>
+                     </c>
                   </c>
                </c>
             </c>
@@ -2459,6 +2477,28 @@ No records are available for the following meetings:
                                 parent="aspace_c726462a91ce11df8fab8d88276c8616_c1">13</container>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4053412"
+                  id="aspace_9fbfdaa2058932d9b4b9a3ca83c6cf67"
+                  level="file">
+                  <did>
+                     <unittitle>Conference of Oriental Orthodox Churches, Addis Ababa, Ethiopia</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1967">1967</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484762 /locations/2"
+                                containerid="39002112327201"
+                                id="aspace_9fbfdaa2058932d9b4b9a3ca83c6cf67_c1"
+                                label="Mixed Materials"
+                                localtype="box">106</container>
+                     <container id="aspace_9fbfdaa2058932d9b4b9a3ca83c6cf67_c2"
+                                localtype="folder"
+                                parent="aspace_9fbfdaa2058932d9b4b9a3ca83c6cf67_c1">7</container>
+                  </did>
+                  <scopecontent id="aspace_a11f18cc32a662e6fa0a7880a88fb9eb">
+                     <head>Scope and Contents</head>
+                     <p>Report on Curriculum Consultation held in Lebanon.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/4/archival_objects/3884920"
                   id="aspace_d09e581c1eefb173a8a067d9cbcfb0b2"
                   level="file">
@@ -2497,6 +2537,10 @@ No records are available for the following meetings:
                   <did>
                      <unittitle>Christian Council of Kenya / National Christian Council of Kenya</unittitle>
                   </did>
+                  <scopecontent id="aspace_457b71341b9b9e82235e06ba05181abc">
+                     <head>Scope and Contents</head>
+                     <p>Also includes National Council of Churches in Kenya.</p>
+                  </scopecontent>
                   <c altrender="/repositories/4/archival_objects/3884965"
                      id="aspace_7dafbaca8af7c19298651c9ac618edc4"
                      level="file">
@@ -2574,6 +2618,24 @@ No records are available for the following meetings:
                      <container id="aspace_21d769470fd0ba37b207fc16eff42291_c2"
                                 localtype="folder"
                                 parent="aspace_21d769470fd0ba37b207fc16eff42291_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053371"
+                  id="aspace_310bec8517250acceef7b55d80c03784"
+                  level="file">
+                  <did>
+                     <unittitle>Christian Council of Northern Rhodesia</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1945">1945</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                containerid="39002112327193"
+                                id="aspace_310bec8517250acceef7b55d80c03784_c1"
+                                label="Mixed Materials"
+                                localtype="box">105</container>
+                     <container id="aspace_310bec8517250acceef7b55d80c03784_c2"
+                                localtype="folder"
+                                parent="aspace_310bec8517250acceef7b55d80c03784_c1">1</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3885143"
@@ -3358,13 +3420,13 @@ No records are available for the following meetings:
                         id="aspace_040df951f42a4595c5c32893206546d7"
                         level="file">
                         <did>
-                           <unittitle>Transcripts of NCCC radio broadcasts from station XMHA, Shanghai</unittitle>
-                           <unitdatestructured altrender="1937 September 26 - December 26"
+                           <unittitle>Transcripts of NCCC radio broadcasts from station XMHA, Shanghai during Sino-Japanese War</unittitle>
+                           <unitdatestructured altrender="1937 September 19 - December 26"
                                                label="creation"
                                                unitdatetype="inclusive">
                               <daterange>
-                                 <fromdate standarddate="1937-09">1937 September</fromdate>
-                                 <todate standarddate="1937-12">1937 December</todate>
+                                 <fromdate standarddate="1937-09-19">1937 September 19</fromdate>
+                                 <todate standarddate="1937-12-26">1937 December 26</todate>
                               </daterange>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/419634 /locations/9"
@@ -3382,12 +3444,12 @@ No records are available for the following meetings:
                         level="file">
                         <did>
                            <unittitle>Transcripts of NCCC radio broadcasts from station XMHA, Shanghai during Sino-Japanese War</unittitle>
-                           <unitdatestructured altrender="1938 January 2 - June 5"
+                           <unitdatestructured altrender="1938 January 2 - June 12"
                                                label="creation"
                                                unitdatetype="inclusive">
                               <daterange>
-                                 <fromdate standarddate="1938-01">1938 January</fromdate>
-                                 <todate standarddate="1938-12">1938 December</todate>
+                                 <fromdate standarddate="1938-01-02">1938 January 2</fromdate>
+                                 <todate standarddate="1938-06-12">1938 June 12</todate>
                               </daterange>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/419634 /locations/9"
@@ -4696,7 +4758,7 @@ No records are available for the following meetings:
                               <datesingle standarddate="1971">1971</datesingle>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/407904 /locations/9"
-                                      containerid="39002-35367854"
+                                      containerid="39002035367854"
                                       id="aspace_f08463949528778b84f6e286e41a68c3_c1"
                                       label="Mixed Materials"
                                       localtype="box">66</container>
@@ -4714,7 +4776,7 @@ No records are available for the following meetings:
                               <datesingle standarddate="1971">1971</datesingle>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/407904 /locations/9"
-                                      containerid="39002-35367854"
+                                      containerid="39002035367854"
                                       id="aspace_c195b4a42927e156b4d747aeee81997d_c1"
                                       label="Mixed Materials"
                                       localtype="box">66</container>
@@ -4732,7 +4794,7 @@ No records are available for the following meetings:
                               <datesingle standarddate="1971">1971</datesingle>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/407904 /locations/9"
-                                      containerid="39002-35367854"
+                                      containerid="39002035367854"
                                       id="aspace_6cf7b5a193f832683f4b37d9f3f8ba99_c1"
                                       label="Mixed Materials"
                                       localtype="box">66</container>
@@ -4750,7 +4812,7 @@ No records are available for the following meetings:
                               <datesingle standarddate="1971">1971</datesingle>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/407904 /locations/9"
-                                      containerid="39002-35367854"
+                                      containerid="39002035367854"
                                       id="aspace_f8988f52a3e72f1ea3a6857d3205095b_c1"
                                       label="Mixed Materials"
                                       localtype="box">66</container>
@@ -5619,6 +5681,24 @@ No records are available for the following meetings:
                                    parent="aspace_89c786cdf6ea802d1e27a9850363c93f_c1">4</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4053372"
+                     id="aspace_ebc24e3f13fca05454d1060e4035aac7"
+                     level="file">
+                     <did>
+                        <unittitle>Council of Churches of Malaysia </unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1997">1997</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_ebc24e3f13fca05454d1060e4035aac7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_ebc24e3f13fca05454d1060e4035aac7_c2"
+                                   localtype="folder"
+                                   parent="aspace_ebc24e3f13fca05454d1060e4035aac7_c1">2</container>
+                     </did>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3886232"
                      id="aspace_ba010ef70a12d63a4234b1d013f44361"
                      level="file">
@@ -5731,6 +5811,31 @@ No records are available for the following meetings:
                      </did>
                   </c>
                </c>
+               <c altrender="/repositories/4/archival_objects/4053373"
+                  id="aspace_f41a2b92ab30a8ac350e1a3f75249747"
+                  level="subseries">
+                  <did>
+                     <unittitle>Sri Lanka</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4053374"
+                     id="aspace_8bed5990d396095836f60e177900812e"
+                     level="file">
+                     <did>
+                        <unittitle>Christian Council of Ceylon [Sri Lanka]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1935">1935</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_8bed5990d396095836f60e177900812e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_8bed5990d396095836f60e177900812e_c2"
+                                   localtype="folder"
+                                   parent="aspace_8bed5990d396095836f60e177900812e_c1">3</container>
+                     </did>
+                  </c>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/3881668"
                id="aspace_9b700f158bda92697555c36ca32a7c84"
@@ -5788,6 +5893,24 @@ No records are available for the following meetings:
                      <container id="aspace_d009d47102c159108ebbcae730a4f848_c2"
                                 localtype="folder"
                                 parent="aspace_d009d47102c159108ebbcae730a4f848_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053375"
+                  id="aspace_f6104607e251ff9c93a295203d493589"
+                  level="file">
+                  <did>
+                     <unittitle>Swedish Ecumenical Council</unittitle>
+                     <unitdatestructured altrender="circa 1953" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1953">circa 1953</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                containerid="39002112327193"
+                                id="aspace_f6104607e251ff9c93a295203d493589_c1"
+                                label="Mixed Materials"
+                                localtype="box">105</container>
+                     <container id="aspace_f6104607e251ff9c93a295203d493589_c2"
+                                localtype="folder"
+                                parent="aspace_f6104607e251ff9c93a295203d493589_c1">4</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3886247"
@@ -5852,6 +5975,27 @@ No records are available for the following meetings:
                         <container id="aspace_bb5f7dff922c47ed9e694ccf324069b2_c2"
                                    localtype="folder"
                                    parent="aspace_bb5f7dff922c47ed9e694ccf324069b2_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053376"
+                     id="aspace_7362ca44221d26a8a33092a5a68de9d0"
+                     level="file">
+                     <did>
+                        <unittitle>Memos by J. H. Oldham on war and missions, Christian missions in Africa</unittitle>
+                        <unitdatestructured altrender="1940s" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1940">1940</fromdate>
+                              <todate standarddate="1945">1945</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_7362ca44221d26a8a33092a5a68de9d0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_7362ca44221d26a8a33092a5a68de9d0_c2"
+                                   localtype="folder"
+                                   parent="aspace_7362ca44221d26a8a33092a5a68de9d0_c1">5</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3886252"
@@ -6265,6 +6409,91 @@ No records are available for the following meetings:
                                    parent="aspace_4a9687926dceeaf1fb3500adefc9ff09_c1">5-6</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4053377"
+                     id="aspace_dbe1d6f0cb2e2e574692de49ed47c245"
+                     level="file">
+                     <did>
+                        <unittitle>
+                           <title>
+                              <part>News Bulletin of the Near East Christian Council</part>
+                           </title>
+                        </unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1949">1949</fromdate>
+                              <todate standarddate="1959">1959</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_dbe1d6f0cb2e2e574692de49ed47c245_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_dbe1d6f0cb2e2e574692de49ed47c245_c2"
+                                   localtype="folder"
+                                   parent="aspace_dbe1d6f0cb2e2e574692de49ed47c245_c1">6-7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053378"
+                     id="aspace_508f4cb228665fe2dd309e4872044bfc"
+                     level="file">
+                     <did>
+                        <unittitle>Committee for Refugee Work report</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1958">1958</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_508f4cb228665fe2dd309e4872044bfc_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_508f4cb228665fe2dd309e4872044bfc_c2"
+                                   localtype="folder"
+                                   parent="aspace_508f4cb228665fe2dd309e4872044bfc_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053379"
+                     id="aspace_878e19c823232b00d411d7c1c7076ba3"
+                     level="file">
+                     <did>
+                        <unittitle>"Operation Reach" - NECC Study Program in Islam</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1957">1957</fromdate>
+                              <todate standarddate="1962">1962</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_878e19c823232b00d411d7c1c7076ba3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_878e19c823232b00d411d7c1c7076ba3_c2"
+                                   localtype="folder"
+                                   parent="aspace_878e19c823232b00d411d7c1c7076ba3_c1">9-10</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053380"
+                     id="aspace_82299eff060e5e401d366cc4362646cf"
+                     level="file">
+                     <did>
+                        <unittitle>"Emmaus Furlongs" - NECC Study Program</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1962">1962</fromdate>
+                              <todate standarddate="1964">1964</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_82299eff060e5e401d366cc4362646cf_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_82299eff060e5e401d366cc4362646cf_c2"
+                                   localtype="folder"
+                                   parent="aspace_82299eff060e5e401d366cc4362646cf_c1">11</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/3886604"
                   id="aspace_cf305615ab6d5150381e60f99895e6ee"
@@ -6385,6 +6614,27 @@ No records are available for the following meetings:
                      </did>
                   </c>
                </c>
+               <c altrender="/repositories/4/archival_objects/4053381"
+                  id="aspace_f9fc1603847cf46800534a6aefab6a8f"
+                  level="file">
+                  <did>
+                     <unittitle>Australian Intercommunion Group</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1937">1937</fromdate>
+                           <todate standarddate="1940">1940</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                containerid="39002112327193"
+                                id="aspace_f9fc1603847cf46800534a6aefab6a8f_c1"
+                                label="Mixed Materials"
+                                localtype="box">105</container>
+                     <container id="aspace_f9fc1603847cf46800534a6aefab6a8f_c2"
+                                localtype="folder"
+                                parent="aspace_f9fc1603847cf46800534a6aefab6a8f_c1">12</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/3888096"
                   id="aspace_61155dc4e67608648ee35f01624f6912"
                   level="file">
@@ -6442,6 +6692,42 @@ No records are available for the following meetings:
                      <container id="aspace_804ae3837dd2aaa88942863c7d47405c_c2"
                                 localtype="folder"
                                 parent="aspace_804ae3837dd2aaa88942863c7d47405c_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053382"
+                  id="aspace_2ca995038cd9569e7c86d1c5eb2f3db9"
+                  level="file">
+                  <did>
+                     <unittitle>Conference of Churches in Aotearoa New Zealand</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1990">1990</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                containerid="39002112327193"
+                                id="aspace_2ca995038cd9569e7c86d1c5eb2f3db9_c1"
+                                label="Mixed Materials"
+                                localtype="box">105</container>
+                     <container id="aspace_2ca995038cd9569e7c86d1c5eb2f3db9_c2"
+                                localtype="folder"
+                                parent="aspace_2ca995038cd9569e7c86d1c5eb2f3db9_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053383"
+                  id="aspace_f5472e462a726404badb77923d1b0688"
+                  level="file">
+                  <did>
+                     <unittitle>New Hebrides Christian Council</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1978">1978</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                containerid="39002112327193"
+                                id="aspace_f5472e462a726404badb77923d1b0688_c1"
+                                label="Mixed Materials"
+                                localtype="box">105</container>
+                     <container id="aspace_f5472e462a726404badb77923d1b0688_c2"
+                                localtype="folder"
+                                parent="aspace_f5472e462a726404badb77923d1b0688_c1">14</container>
                   </did>
                </c>
             </c>
@@ -6793,6 +7079,78 @@ No records are available for the following meetings:
                         <container id="aspace_3c73c6de25cb4d6af18c403e2a5467c4_c2"
                                    localtype="folder"
                                    parent="aspace_3c73c6de25cb4d6af18c403e2a5467c4_c1">8</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053385"
+                  id="aspace_7420b395545ba84ee7fa8e99c6902595"
+                  level="subseries">
+                  <did>
+                     <unittitle>Consultation on Church Union</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4053386"
+                     id="aspace_1f6c0ba8eb699bb7ca7d078d232d50f4"
+                     level="file">
+                     <did>
+                        <unittitle>Brochures, lists of publications</unittitle>
+                        <unitdatestructured altrender="1975-1982, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1975">1975</fromdate>
+                              <todate standarddate="1982">1982</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484762 /locations/2"
+                                   containerid="39002112327201"
+                                   id="aspace_1f6c0ba8eb699bb7ca7d078d232d50f4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">106</container>
+                        <container id="aspace_1f6c0ba8eb699bb7ca7d078d232d50f4_c2"
+                                   localtype="folder"
+                                   parent="aspace_1f6c0ba8eb699bb7ca7d078d232d50f4_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053388"
+                     id="aspace_050e08f6ecf58bfc9a066be9827525dc"
+                     level="file">
+                     <did>
+                        <unittitle>Memos, articles, reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1973">1973</fromdate>
+                              <todate standarddate="1981">1981</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484762 /locations/2"
+                                   containerid="39002112327201"
+                                   id="aspace_050e08f6ecf58bfc9a066be9827525dc_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">106</container>
+                        <container id="aspace_050e08f6ecf58bfc9a066be9827525dc_c2"
+                                   localtype="folder"
+                                   parent="aspace_050e08f6ecf58bfc9a066be9827525dc_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053389"
+                     id="aspace_9af52e8242e93157d5f4479fa6ff04a1"
+                     level="file">
+                     <did>
+                        <unittitle>Proceedings of meetings</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1964">1964</fromdate>
+                              <todate standarddate="1984">1984</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484762 /locations/2"
+                                   containerid="39002112327201"
+                                   id="aspace_9af52e8242e93157d5f4479fa6ff04a1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">106</container>
+                        <container id="aspace_9af52e8242e93157d5f4479fa6ff04a1_c2"
+                                   localtype="folder"
+                                   parent="aspace_9af52e8242e93157d5f4479fa6ff04a1_c1">3-5</container>
                      </did>
                   </c>
                </c>
@@ -9213,6 +9571,10 @@ No records are available for the following meetings:
                                 localtype="folder"
                                 parent="aspace_21bbce858b43a998b2eb6ed23ced03cf_c1">1-3</container>
                   </did>
+                  <scopecontent id="aspace_a9815a8cb7e7c390bb21dd0290efbddb">
+                     <head>Scope and Contents</head>
+                     <p>Reports, Oriental Missions Directory, work with Native Americans, work with Spanish Americans.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/3888106"
                   id="aspace_7683c2a40407fa66a9fb5a6e4b4ac5fd"
@@ -10360,6 +10722,27 @@ No records are available for the following meetings:
                                    parent="aspace_810aff56e593cb273e00239f921440d9_c1">11-12</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4053410"
+                     id="aspace_c88b0b51b810510ca5ef2be042431958"
+                     level="file">
+                     <did>
+                        <unittitle>Department of Faith and Order - conference reports</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1956">1956</fromdate>
+                              <todate standarddate="1957">1957</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484762 /locations/2"
+                                   containerid="39002112327201"
+                                   id="aspace_c88b0b51b810510ca5ef2be042431958_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">106</container>
+                        <container id="aspace_c88b0b51b810510ca5ef2be042431958_c2"
+                                   localtype="folder"
+                                   parent="aspace_c88b0b51b810510ca5ef2be042431958_c1">6</container>
+                     </did>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/3881677"
                      id="aspace_42f3b2cf8a09dcd7ccf7c86ad6729607"
                      level="file">
@@ -10406,6 +10789,27 @@ No records are available for the following meetings:
                         <container id="aspace_7eeb2baabd4649ac332bb53e09951294_c2"
                                    localtype="folder"
                                    parent="aspace_7eeb2baabd4649ac332bb53e09951294_c1">4-5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053384"
+                     id="aspace_94965215293334b56dafc6a5ec72083c"
+                     level="file">
+                     <did>
+                        <unittitle>Division of Home Missions</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1950">1950</fromdate>
+                              <todate standarddate="1974">1974</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484761 /locations/2"
+                                   containerid="39002112327193"
+                                   id="aspace_94965215293334b56dafc6a5ec72083c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">105</container>
+                        <container id="aspace_94965215293334b56dafc6a5ec72083c_c2"
+                                   localtype="folder"
+                                   parent="aspace_94965215293334b56dafc6a5ec72083c_c1">15</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3881680"
@@ -11172,6 +11576,24 @@ No records are available for the following meetings:
                                 parent="aspace_6bed940fc89b29975387062f0ca92654_c1">1</container>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4053413"
+                  id="aspace_dfdc3c0773517c4a489a6470f95bbb78"
+                  level="file">
+                  <did>
+                     <unittitle>General Missionary Conference of Northern Rhodesia [Zambia]</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1941">1941</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                containerid="39002112327219"
+                                id="aspace_dfdc3c0773517c4a489a6470f95bbb78_c1"
+                                label="Mixed Materials"
+                                localtype="box">107</container>
+                     <container id="aspace_dfdc3c0773517c4a489a6470f95bbb78_c2"
+                                localtype="folder"
+                                parent="aspace_dfdc3c0773517c4a489a6470f95bbb78_c1">1</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/3888898"
                   id="aspace_dc803ae1ff2008cb0bb52bfd4315c573"
                   level="file">
@@ -11320,6 +11742,64 @@ No records are available for the following meetings:
                                    parent="aspace_6a94e781e16663904d8ee41441d9d0e8_c1">8</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4053415"
+                     id="aspace_1fa41748ff5f393dbbd4ea3385e694d4"
+                     level="file">
+                     <did>
+                        <unittitle>Asian Seminar on Religion and Development</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1973">1973</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                   containerid="39002112327219"
+                                   id="aspace_1fa41748ff5f393dbbd4ea3385e694d4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">107</container>
+                        <container id="aspace_1fa41748ff5f393dbbd4ea3385e694d4_c2"
+                                   localtype="folder"
+                                   parent="aspace_1fa41748ff5f393dbbd4ea3385e694d4_c1">2</container>
+                     </did>
+                     <scopecontent id="aspace_cef48a08f7e8b792e545bfdea70761ce">
+                        <head>Scope and Contents</head>
+                        <p>Meeting held in Bangalore.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053414"
+                     id="aspace_f4651ee23bb73680fd0f90af17caaf1c"
+                     level="file">
+                     <did>
+                        <unittitle>Assam Baptist Missionary Conference</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1922">1922</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                   containerid="39002112327219"
+                                   id="aspace_f4651ee23bb73680fd0f90af17caaf1c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">107</container>
+                        <container id="aspace_f4651ee23bb73680fd0f90af17caaf1c_c2"
+                                   localtype="folder"
+                                   parent="aspace_f4651ee23bb73680fd0f90af17caaf1c_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4053416"
+                     id="aspace_131e84f2e868375b6871e712f53cfafa"
+                     level="file">
+                     <did>
+                        <unittitle>Third All-India Catholic Congress</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1934">1934</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                   containerid="39002112327219"
+                                   id="aspace_131e84f2e868375b6871e712f53cfafa_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">107</container>
+                        <container id="aspace_131e84f2e868375b6871e712f53cfafa_c2"
+                                   localtype="folder"
+                                   parent="aspace_131e84f2e868375b6871e712f53cfafa_c1">4</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/3888901"
                   id="aspace_9b09058b2ee2818cc1570b389f3cbe70"
@@ -11364,6 +11844,31 @@ No records are available for the following meetings:
                         <container id="aspace_28fd525717a157d727b1a222d38d16f5_c2"
                                    localtype="folder"
                                    parent="aspace_28fd525717a157d727b1a222d38d16f5_c1">10</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053417"
+                  id="aspace_78384716b01428a27b34be79205d9951"
+                  level="subseries">
+                  <did>
+                     <unittitle>Singapore</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4053418"
+                     id="aspace_075dd2de9c340b27b688b37140424673"
+                     level="file">
+                     <did>
+                        <unittitle>Asian Conference on Religion and Peace</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1976">1976</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                   containerid="39002112327219"
+                                   id="aspace_075dd2de9c340b27b688b37140424673_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">107</container>
+                        <container id="aspace_075dd2de9c340b27b688b37140424673_c2"
+                                   localtype="folder"
+                                   parent="aspace_075dd2de9c340b27b688b37140424673_c1">5</container>
                      </did>
                   </c>
                </c>
@@ -11433,6 +11938,24 @@ No records are available for the following meetings:
                      <container id="aspace_42ad834a790dd1b0f0c55702fec03d03_c2"
                                 localtype="folder"
                                 parent="aspace_42ad834a790dd1b0f0c55702fec03d03_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053419"
+                  id="aspace_d70413f873f52f430d271a9af1e24619"
+                  level="file">
+                  <did>
+                     <unittitle>Special-Conferenz uber Heidemission, Basel</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1879">1879</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                containerid="39002112327219"
+                                id="aspace_d70413f873f52f430d271a9af1e24619_c1"
+                                label="Mixed Materials"
+                                localtype="box">107</container>
+                     <container id="aspace_d70413f873f52f430d271a9af1e24619_c2"
+                                localtype="folder"
+                                parent="aspace_d70413f873f52f430d271a9af1e24619_c1">6</container>
                   </did>
                </c>
             </c>
@@ -11590,6 +12113,24 @@ No records are available for the following meetings:
                                 parent="aspace_e8adb216f5c9e788ba805bd376e013d1_c1">18</container>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4053420"
+                  id="aspace_d1a74295c10ae7ede44c48155cac6b37"
+                  level="file">
+                  <did>
+                     <unittitle>East-West Religions in Encounter, held at Hawaii Loa College</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1984">1984</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                containerid="39002112327219"
+                                id="aspace_d1a74295c10ae7ede44c48155cac6b37_c1"
+                                label="Mixed Materials"
+                                localtype="box">107</container>
+                     <container id="aspace_d1a74295c10ae7ede44c48155cac6b37_c2"
+                                localtype="folder"
+                                parent="aspace_d1a74295c10ae7ede44c48155cac6b37_c1">7</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/3874455"
                   id="aspace_439d5d18e2f508794a7bf11953310717"
                   level="file">
@@ -11655,6 +12196,24 @@ No records are available for the following meetings:
                                 parent="aspace_f4b7e2729bd6226c632e4f19b34e9eb8_c1">21</container>
                   </did>
                </c>
+               <c altrender="/repositories/4/archival_objects/4053421"
+                  id="aspace_aea72435d320c5658ecf1813bd34f7cb"
+                  level="file">
+                  <did>
+                     <unittitle>Lutheran Foreign Missions Conference of North America</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1931">1931</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                containerid="39002112327219"
+                                id="aspace_aea72435d320c5658ecf1813bd34f7cb_c1"
+                                label="Mixed Materials"
+                                localtype="box">107</container>
+                     <container id="aspace_aea72435d320c5658ecf1813bd34f7cb_c2"
+                                localtype="folder"
+                                parent="aspace_aea72435d320c5658ecf1813bd34f7cb_c1">8</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/3874462"
                   id="aspace_5c0ac34f1401925f2d8952573e322764"
                   level="file">
@@ -11671,6 +12230,46 @@ No records are available for the following meetings:
                      <container id="aspace_5c0ac34f1401925f2d8952573e322764_c2"
                                 localtype="folder"
                                 parent="aspace_5c0ac34f1401925f2d8952573e322764_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053423"
+                  id="aspace_07fb3bcefadf93381aac9fa22ae0cad8"
+                  level="file">
+                  <did>
+                     <unittitle>Theological Education and the World Mission of Christianity: Conference of Theological Seminaries</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1929">1929</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                containerid="39002112327219"
+                                id="aspace_07fb3bcefadf93381aac9fa22ae0cad8_c1"
+                                label="Mixed Materials"
+                                localtype="box">107</container>
+                     <container id="aspace_07fb3bcefadf93381aac9fa22ae0cad8_c2"
+                                localtype="folder"
+                                parent="aspace_07fb3bcefadf93381aac9fa22ae0cad8_c1">9</container>
+                  </did>
+                  <scopecontent id="aspace_4b14fe06abedcccafbab5d1a2db2022c">
+                     <head>Scope and Contents</head>
+                     <p>Conference held at Drew Theological Seminary, Madison, NJ.  Material includes papers by prominent theologians and historians such as Kenneth Scott Latourette, H. Richard Niebuhr, Henry Nelson Wieman.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053425"
+                  id="aspace_b18835494ae6a2d80f729b5142b9325c"
+                  level="file">
+                  <did>
+                     <unittitle>United Foreign Missionary Conference, New Haven</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933">1933</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                containerid="39002112327219"
+                                id="aspace_b18835494ae6a2d80f729b5142b9325c_c1"
+                                label="Mixed Materials"
+                                localtype="box">107</container>
+                     <container id="aspace_b18835494ae6a2d80f729b5142b9325c_c2"
+                                localtype="folder"
+                                parent="aspace_b18835494ae6a2d80f729b5142b9325c_c1">10</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3888910"
@@ -11705,6 +12304,24 @@ No records are available for the following meetings:
                      <container id="aspace_2e49bcbac0d2d9bdd4640097b8adf80d_c2"
                                 localtype="folder"
                                 parent="aspace_2e49bcbac0d2d9bdd4640097b8adf80d_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4053426"
+                  id="aspace_4ffc87c900ee34580007f02e4fe1f42d"
+                  level="file">
+                  <did>
+                     <unittitle>Pan-American Congress of Religion and Education, Toronto</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1895">1895</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/484764 /locations/2"
+                                containerid="39002112327219"
+                                id="aspace_4ffc87c900ee34580007f02e4fe1f42d_c1"
+                                label="Mixed Materials"
+                                localtype="box">107</container>
+                     <container id="aspace_4ffc87c900ee34580007f02e4fe1f42d_c2"
+                                localtype="folder"
+                                parent="aspace_4ffc87c900ee34580007f02e4fe1f42d_c1">11</container>
                   </did>
                </c>
             </c>
