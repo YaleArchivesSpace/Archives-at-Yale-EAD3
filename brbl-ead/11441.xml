@@ -41,7 +41,7 @@
                <p>Box: 43 (Oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="160">160</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="388">388</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="163">163</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="388">388</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-23T23:00:54-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T23:00:29-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 23, 2026 at 23:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 23:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -13101,7 +13101,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:39</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">April 3</unitdate>
+                     <materialspec id="aspace_68a62565cc85add1f4735e31ac7405ca">Distortion is present. Audio, at times, sounds hollow or unclear. Dropouts in the audio are present. Static can be heard.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -13111,6 +13116,25 @@
                      <container id="aspace_cd06637c8bd5aceba96774da7a92fa6d_c2"
                                 localtype="item_barcode"
                                 parent="aspace_cd06637c8bd5aceba96774da7a92fa6d_c1">39002137116829</container>
+                     <daoset altrender="/repositories/11/digital_objects/353026">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/b56d21tq6z"
+                             identifier="aviary_177100"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_177100"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] 3A 3B April 3</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_373ed1aa0f725bcd41fa5f2164f971b7"
                                   localtype="RestrictedFragileSpecColl">
@@ -13127,7 +13151,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:35:32</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">April 4</unitdate>
+                     <materialspec id="aspace_cd43e891a8f3ebe96e11cec87284402b">Distortion, dropouts and static are present. There is a hum on the tape. High background noise can be heard. Audio, at times, sounds hollow or unclear.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -13137,6 +13166,25 @@
                      <container id="aspace_23f17212c693ed5246429ab3e536604f_c2"
                                 localtype="item_barcode"
                                 parent="aspace_23f17212c693ed5246429ab3e536604f_c1">39002137116837</container>
+                     <daoset altrender="/repositories/11/digital_objects/353027">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/hq3rv0g48k"
+                             identifier="aviary_177101"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_177101"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] 1A 1B April 4</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_12771c94176f646c5ba1f642a9c664ce"
                                   localtype="RestrictedFragileSpecColl">
@@ -13439,7 +13487,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:35:03</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_bd18198aad87a36838fd93423d5f8077">Distortion, static, and hum are present. Audio, at times, sounds hollow or unclear.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -13449,6 +13502,25 @@
                      <container id="aspace_d854c06c0ef88cf161fb6dacd447fc85_c2"
                                 localtype="item_barcode"
                                 parent="aspace_d854c06c0ef88cf161fb6dacd447fc85_c1">39002137116951</container>
+                     <daoset altrender="/repositories/11/digital_objects/353028">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/gt5fb4zw0x"
+                             identifier="aviary_177102"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_177102"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Stuff For Mitch For Ted undated</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_172029d75fe433ff71a503e88dd09b7d"
                                   localtype="RestrictedFragileSpecColl">

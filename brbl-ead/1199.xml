@@ -45,7 +45,7 @@
                <p>Boxes: 6 (Oversize), 9, 22-40, 41 (Broadside)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="24">24</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="296">296</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="25">25</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="301">301</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-04T23:09:11-04:00</eventdatetime>
+            <eventdatetime>2026-08-19T23:01:17-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August  4, 2026 at 23:09</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 23:01</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -9978,6 +9978,35 @@
                                    label="Mixed Materials"
                                    localtype="box">29</container>
                         <container id="aspace_ref577_c2" localtype="folder" parent="aspace_ref577_c1">206</container>
+                        <daoset altrender="/repositories/11/digital_objects/353052">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33777498"
+                                identifier="oid:33777498"
+                                linktitle="5 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33777499/full/!150,150/0/default.jpg"
+                                identifier="oid:33777498"
+                                linktitle="5 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33777498"
+                                identifier="oid:33777498"
+                                linktitle="5 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Family portraits</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/444282"
