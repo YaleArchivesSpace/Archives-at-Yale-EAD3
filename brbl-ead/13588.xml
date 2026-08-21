@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-19T23:01:05-05:00</eventdatetime>
+            <eventdatetime>2026-08-20T23:01:04-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday December 19, 2025 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 20, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -180,7 +180,7 @@
             <part localtype="topical">Families</part>
             <part localtype="geographic">United States</part>
          </subject>
-         <subject identifier="https://id.loc.gov/authorities/names/no2011194099.html"
+         <subject identifier="http://id.loc.gov/authorities/names/no2011194099"
                   source="lcsh">
             <part localtype="topical">Foreign policy of the United States</part>
          </subject>

@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-30T23:25:12-04:00</eventdatetime>
+            <eventdatetime>2026-08-20T23:00:58-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 23:25</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 20, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1252,6 +1252,16 @@
                level="item">
                <did>
                   <unittitle>Wheeling Motel</unittitle>
+                  <unitid>2026-ycal-0004_001</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>640096844</quantity>
+                     <unittype>bytes</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">640.09 Megabytes.</physdesc>
                   <unitdatestructured altrender="2011 June 30" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="2011-06-30">2011 June 30</datesingle>
                   </unitdatestructured>
@@ -1272,6 +1282,16 @@
                level="item">
                <did>
                   <unittitle>Joan Baez / Baptism</unittitle>
+                  <unitid>2026-ycal-0004_002</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>75267622</quantity>
+                     <unittype>bytes</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">75.27 Megabytes.</physdesc>
                   <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   <container altrender="/repositories/11/top_containers/466269"
                              containerid="39002104528741"
