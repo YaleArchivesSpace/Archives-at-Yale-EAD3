@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-17T18:01:24-04:00</eventdatetime>
+            <eventdatetime>2026-08-21T18:00:40-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 17, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 21, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -9515,7 +9515,7 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                level="file">
                <did>
                   <unittitle>Rugh, Arthur and Gertrude</unittitle>
-                  <unitdatestructured altrender="1938 Apr-1945, n.d."
+                  <unitdatestructured altrender="1938 April-May"
                                       label="creation"
                                       unitdatetype="inclusive">
                      <daterange>
@@ -9528,7 +9528,99 @@ https://archives.yale.edu/repositories/4/resources/68/collection_organization</p
                              id="aspace_ref446_c1"
                              label="Mixed Materials"
                              localtype="box">23</container>
-                  <container id="aspace_ref446_c2" localtype="folder" parent="aspace_ref446_c1">552-556</container>
+                  <container id="aspace_ref446_c2" localtype="folder" parent="aspace_ref446_c1">552</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054347"
+               id="aspace_713f5b13eca111989adcfb2e66cc9cba"
+               level="file">
+               <did>
+                  <unittitle> Rugh, Arthur and Gertrude</unittitle>
+                  <unitdatestructured altrender="1938 June-July"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1938-06">1938 June</fromdate>
+                        <todate standarddate="1938-07">1938 July</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/2748 /locations/9"
+                             containerid="39002038305562"
+                             id="aspace_713f5b13eca111989adcfb2e66cc9cba_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_713f5b13eca111989adcfb2e66cc9cba_c2"
+                             localtype="folder"
+                             parent="aspace_713f5b13eca111989adcfb2e66cc9cba_c1">553</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054348"
+               id="aspace_68dd2098b95411262baa31c7d751c5c2"
+               level="file">
+               <did>
+                  <unittitle> Rugh, Arthur and Gertrude</unittitle>
+                  <unitdatestructured altrender="1938 August-1939 October"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1938-08">1938 August</fromdate>
+                        <todate standarddate="1939-10">1939 October</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/2748 /locations/9"
+                             containerid="39002038305562"
+                             id="aspace_68dd2098b95411262baa31c7d751c5c2_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_68dd2098b95411262baa31c7d751c5c2_c2"
+                             localtype="folder"
+                             parent="aspace_68dd2098b95411262baa31c7d751c5c2_c1">554</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054349"
+               id="aspace_1c31d6e4fb8324d445d9e31a07619f15"
+               level="file">
+               <did>
+                  <unittitle> Rugh, Arthur and Gertrude</unittitle>
+                  <unitdatestructured altrender="1939 November-December"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1939-11">1939 November</fromdate>
+                        <todate standarddate="1939-12">1939 December</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/2748 /locations/9"
+                             containerid="39002038305562"
+                             id="aspace_1c31d6e4fb8324d445d9e31a07619f15_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_1c31d6e4fb8324d445d9e31a07619f15_c2"
+                             localtype="folder"
+                             parent="aspace_1c31d6e4fb8324d445d9e31a07619f15_c1">555</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054350"
+               id="aspace_a4d33a405f5742f7073dc66962c87731"
+               level="file">
+               <did>
+                  <unittitle> Rugh, Arthur and Gertrude</unittitle>
+                  <unitdatestructured altrender="1940-1945, undated"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1940">1940</fromdate>
+                        <todate standarddate="1945">1945</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/2748 /locations/9"
+                             containerid="39002038305562"
+                             id="aspace_a4d33a405f5742f7073dc66962c87731_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+                  <container id="aspace_a4d33a405f5742f7073dc66962c87731_c2"
+                             localtype="folder"
+                             parent="aspace_a4d33a405f5742f7073dc66962c87731_c1">556</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/13557"
