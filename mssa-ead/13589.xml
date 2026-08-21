@@ -64,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T04:52:34-04:00</eventdatetime>
+            <eventdatetime>2026-08-21T03:00:34-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 04:52</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 21, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -172,7 +172,7 @@
             <part localtype="topical">Yale University</part>
             <part localtype="topical">Students</part>
          </subject>
-         <subject identifier="https://id.loc.gov/authorities/names/no2011194099.html"
+         <subject identifier="http://id.loc.gov/authorities/names/no2011194099"
                   source="lcsh">
             <part localtype="topical">Foreign policy of the United States</part>
          </subject>
