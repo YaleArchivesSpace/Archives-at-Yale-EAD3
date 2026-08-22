@@ -45,7 +45,7 @@
                <p>Boxes: 71-74, 77-78, 81, 81a-82, 84, 86, 89-90, 98, 128-130, 135, 157-167, 175, 178a, 187, 193-195</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1696">1,696</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="27854">27,854</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="1697">1,697</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="27860">27,860</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-28T23:01:16-04:00</eventdatetime>
+            <eventdatetime>2026-08-21T23:02:32-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 28, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 21, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -106233,6 +106233,35 @@
                            <container id="aspace_ref3413_c2"
                                       localtype="folder"
                                       parent="aspace_ref3413_c1">2697-99</container>
+                           <daoset altrender="/repositories/11/digital_objects/353114">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/manifests/33777885"
+                                   identifier="oid:33777885"
+                                   linktitle="6 images"
+                                   linkrole="text-json"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/iiif/2/33777886/full/!150,150/0/default.jpg"
+                                   identifier="oid:33777885"
+                                   linktitle="6 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33777885"
+                                   identifier="oid:33777885"
+                                   linktitle="6 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>Disposition, charter, and sasine by John Murray to Hugh Mitchell</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                      </c>
                      <c altrender="/repositories/11/archival_objects/294672"
