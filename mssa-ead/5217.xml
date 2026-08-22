@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="66">66</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-17T03:07:24-04:00</eventdatetime>
+            <eventdatetime>2026-08-22T03:06:17-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday April 17, 2026 at 03:07</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 22, 2026 at 03:06</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3841,6 +3844,27 @@
                              id="aspace_589d5ea4cfaa6ed515a013d67716a933_c1"
                              label="Mixed Materials"
                              localtype="box">14</container>
+                  <daoset altrender="/repositories/12/digital_objects/353116">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33777946"
+                          linktitle="15 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33777946"
+                          identifier="oid:33777946"
+                          linktitle="15 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>The Glass House (Apartment)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_956750ef5486a336c99592ff59d0b1a8">
                   <head>Scope and Contents</head>
@@ -3860,6 +3884,27 @@
                              id="aspace_35700a57d096dc9b0bff92938be775d8_c1"
                              label="Mixed Materials"
                              localtype="box">14</container>
+                  <daoset altrender="/repositories/12/digital_objects/353119">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33777892"
+                          linktitle="11 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33777892"
+                          identifier="oid:33777892"
+                          linktitle="11 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Glass House in Chicago</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_4d11a95248f8f736610a9a541e7dded7">
                   <head>Scope and Contents</head>
@@ -3882,6 +3927,27 @@
                              id="aspace_b0183255d9d2b857063a5d6724c98c94_c1"
                              label="Mixed Materials"
                              localtype="box">14</container>
+                  <daoset altrender="/repositories/12/digital_objects/353117">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33777904"
+                          linktitle="5 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33777904"
+                          identifier="oid:33777904"
+                          linktitle="5 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Bottega Glaseia</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_25d01407533b9b9186c7d2d31989d015">
                   <head>Scope and Contents</head>
@@ -3903,6 +3969,27 @@
                              id="aspace_a0ea88b18acd0a51415d08bc10017f84_c1"
                              label="Mixed Materials"
                              localtype="box">14</container>
+                  <daoset altrender="/repositories/12/digital_objects/353122">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33777910"
+                          linktitle="35 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33777910"
+                          identifier="oid:33777910"
+                          linktitle="35 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Chicago Dwelling Association Preliminary Plans for Uptown</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_1af4167dadb04322a50a1af6b0b3a775">
                   <head>Scope and Contents</head>

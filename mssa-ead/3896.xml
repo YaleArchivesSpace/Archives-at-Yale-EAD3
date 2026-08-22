@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="372">372</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T04:15:21-04:00</eventdatetime>
+            <eventdatetime>2026-08-22T03:06:14-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 04:15</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 22, 2026 at 03:06</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1046,6 +1049,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref61_c2" localtype="folder" parent="aspace_ref61_c1">44</container>
+                     <daoset altrender="/repositories/12/digital_objects/353113">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33777509"
+                             linktitle="10 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33777509"
+                             identifier="oid:33777509"
+                             linktitle="10 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>West of Scotland Soviet Conference</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1251793"
@@ -1090,6 +1114,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref63_c2" localtype="folder" parent="aspace_ref63_c1">46</container>
+                     <daoset altrender="/repositories/12/digital_objects/353120">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33777520"
+                             linktitle="114 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33777520"
+                             identifier="oid:33777520"
+                             linktitle="114 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Miscellaneous</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -1113,6 +1158,27 @@
                              label="Mixed Materials"
                              localtype="box">3</container>
                   <container id="aspace_ref64_c2" localtype="folder" parent="aspace_ref64_c1">47</container>
+                  <daoset altrender="/repositories/12/digital_objects/353115">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33777635"
+                          linktitle="32 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33777635"
+                          identifier="oid:33777635"
+                          linktitle="32 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Robertson, William R.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1251796"
@@ -1258,6 +1324,27 @@
                              label="Mixed Materials"
                              localtype="box">3</container>
                   <container id="aspace_ref72_c2" localtype="folder" parent="aspace_ref72_c1">53</container>
+                  <daoset altrender="/repositories/12/digital_objects/353121">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33777668"
+                          linktitle="216 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33777668"
+                          identifier="oid:33777668"
+                          linktitle="216 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Printed material</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
          </c>

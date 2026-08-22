@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="66">66</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-26T03:06:46-04:00</eventdatetime>
+            <eventdatetime>2026-08-22T03:01:01-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June 26, 2026 at 03:06</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 22, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3071,6 +3074,35 @@
                                 id="aspace_ref118_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/12/digital_objects/353089">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33777966"
+                             identifier="oid:33777966"
+                             linktitle="66 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33777990/full/!150,150/0/default.jpg"
+                             identifier="oid:33777966"
+                             linktitle="66 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33777966"
+                             identifier="oid:33777966"
+                             linktitle="66 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Title: "L'Ile De Cuba--Vue de Malanzas." Illustrator: Unknown. Publication: L'Illustration, Journal Universel, page 273.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1220927"
