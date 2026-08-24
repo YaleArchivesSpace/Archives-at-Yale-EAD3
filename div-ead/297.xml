@@ -46,7 +46,7 @@
                <p>Boxes: 283-292</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="188">188</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="12796">12,796</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="191">191</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="12887">12,887</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-22T18:01:34-04:00</eventdatetime>
+            <eventdatetime>2026-08-24T18:00:04-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 22, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 24, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -838,6 +838,35 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref40_c2" localtype="folder" parent="aspace_ref40_c1">1</container>
+                     <daoset altrender="/repositories/4/digital_objects/353259">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33781191"
+                             identifier="oid:33781191"
+                             linktitle="36 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33781193/full/!150,150/0/default.jpg"
+                             identifier="oid:33781191"
+                             linktitle="36 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33781191"
+                             identifier="oid:33781191"
+                             linktitle="36 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Photographs - China flowers</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/114471"
@@ -854,6 +883,35 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref41_c2" localtype="folder" parent="aspace_ref41_c1">2</container>
+                     <daoset altrender="/repositories/4/digital_objects/353258">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33781192"
+                             identifier="oid:33781192"
+                             linktitle="30 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33781196/full/!150,150/0/default.jpg"
+                             identifier="oid:33781192"
+                             linktitle="30 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33781192"
+                             identifier="oid:33781192"
+                             linktitle="30 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Photographs - The Chart of Old Peking</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/114472"
@@ -870,6 +928,35 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref42_c2" localtype="folder" parent="aspace_ref42_c1">3</container>
+                     <daoset altrender="/repositories/4/digital_objects/353257">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33781195"
+                             identifier="oid:33781195"
+                             linktitle="25 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33781201/full/!150,150/0/default.jpg"
+                             identifier="oid:33781195"
+                             linktitle="25 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33781195"
+                             identifier="oid:33781195"
+                             linktitle="25 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Photographs - Chinese Temples</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/114473"

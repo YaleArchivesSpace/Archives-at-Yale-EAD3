@@ -38,7 +38,7 @@
                <p>Boxes: 1-16, 16a-19</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="182">182</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="251">251</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-22T18:01:29-04:00</eventdatetime>
+            <eventdatetime>2026-08-24T18:00:43-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 22, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 24, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2454,6 +2454,27 @@ Correspondence from Jeffrey D. Jones dating from the 1980s was added to the coll
                         <container id="aspace_0778560ec3ed43c22074a4cf980080ca_c2"
                                    localtype="folder"
                                    parent="aspace_0778560ec3ed43c22074a4cf980080ca_c1">17</container>
+                        <daoset altrender="/repositories/4/digital_objects/353263">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33781430"
+                                linktitle="69 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33781430"
+                                identifier="oid:33781430"
+                                linktitle="69 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>F - I</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_392e618235dd9f7b828c3af1eced6844">
                         <head>Scope and Contents</head>
