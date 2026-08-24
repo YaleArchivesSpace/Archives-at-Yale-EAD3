@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-21T18:00:39-04:00</eventdatetime>
+            <eventdatetime>2026-08-24T18:00:35-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 21, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 24, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -91,31 +91,16 @@
             </corpname>
          </repository>
          <langmaterial>
-            <languageset>
-               <language langcode="eng">English</language>
-               <script scriptcode="Latn">Latin</script>
-            </languageset>
-            <languageset>
-               <language langcode="ita">Italian</language>
-               <script scriptcode="Latn">Latin</script>
-            </languageset>
+            <language langcode="eng">English</language>
+            <language langcode="ita">Italian</language>
             <languageset>
                <language langcode="amh">Amharic</language>
                <script scriptcode="Ethi">Ethiopic (Geʻez)</script>
             </languageset>
-            <languageset>
-               <language langcode="fre">French</language>
-               <script scriptcode="Latn">Latin</script>
-            </languageset>
-            <languageset>
-               <language langcode="ara">Arabic</language>
-               <script scriptcode="Arab">Arabic</script>
-            </languageset>
+            <language langcode="fre">French</language>
+            <language langcode="ara">Arabic</language>
             <language langcode="ota">Turkish, Ottoman (1500-1928)</language>
-            <languageset>
-               <language langcode="gre">Greek, Modern (1453-)</language>
-               <script scriptcode="Grek">Greek</script>
-            </languageset>
+            <language langcode="gre">Greek, Modern (1453-)</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>60</quantity>
