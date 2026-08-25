@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T19:08:50-04:00</eventdatetime>
+            <eventdatetime>2026-08-25T19:18:26-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 19:08</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 19:18</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -85,6 +85,9 @@
                <part>Robert B. Haas Family Arts Library Special Collections</part>
             </corpname>
          </repository>
+         <langmaterial>
+            <language langcode="zxx">No linguistic content; Not applicable</language>
+         </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>9.08</quantity>
             <unittype>Linear Feet</unittype>
@@ -132,6 +135,10 @@
          <head>Arrangement</head>
          <p>Arranged in four sections: negatives, prints, lantern slides, and accompanying materials in continuously numbered boxes. 1) Negatives are in individual envelopes, labeled and organized according to negative identification numbers assigned in the 1940s. 2) Prints are individually labeled and organized according to negative ID numbers. The number of copies that were shot in 1978-1979 is written on the front of each print envelope, in addition to the Negative ID number of the print/s enclosed. Please note that some envelopes contain multiple copies of the same print. These copies are not reflected in the stated total number of 519 prints in this collection. 3) Lantern slides are also labeled with corresponding negative ID numbers. Please note, however, that the lantern slides have been organized consecutively according to accession numbers assigned in 2007 when they were digitized.</p>
       </arrangement>
+      <custodhist id="aspace_22560bd60e7c4209c670fdc3d06976aa">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Beinecke Rare Book and Manuscript Library.</p>
+      </custodhist>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85006644"
                   source="lcsh">

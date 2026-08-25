@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2024-11-27T19:09:43-05:00</eventdatetime>
+            <eventdatetime>2026-08-25T19:11:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 27, 2024 at 19:09</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 19:11</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -85,6 +85,9 @@
                <part>Robert B. Haas Family Arts Library Special Collections</part>
             </corpname>
          </repository>
+         <langmaterial>
+            <language langcode="zxx">No linguistic content; Not applicable</language>
+         </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>9.5</quantity>
             <unittype>Linear Feet</unittype>
@@ -122,6 +125,10 @@
          <head>Arrangement</head>
          <p>The postcards are arranged as they were found in the Visual Resources Collection.</p>
       </arrangement>
+      <custodhist id="aspace_22560bd60e7c4209c670fdc3d06976aa">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Beinecke Rare Book and Manuscript Library.</p>
+      </custodhist>
       <controlaccess>
          <genreform identifier="http://vocab.getty.edu/aat/300026816" source="aat">
             <part localtype="genre_form">Postcards</part>

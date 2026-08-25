@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2024-11-27T19:12:04-05:00</eventdatetime>
+            <eventdatetime>2026-08-25T19:13:29-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 27, 2024 at 19:12</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 19:13</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -85,6 +85,9 @@
                <part>Robert B. Haas Family Arts Library Special Collections</part>
             </corpname>
          </repository>
+         <langmaterial>
+            <language langcode="zxx">No linguistic content; Not applicable</language>
+         </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>90.4</quantity>
             <unittype>Linear Feet</unittype>
@@ -122,6 +125,10 @@
          <head>Arrangement</head>
          <p>Arranged alphabetically by artist. Individual artist material is further subdivided by location of the work. The individual artist portion is preceded by a grouping arranged chronologically and then by location.</p>
       </arrangement>
+      <custodhist id="aspace_22560bd60e7c4209c670fdc3d06976aa">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Beinecke Rare Book and Manuscript Library.</p>
+      </custodhist>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85096739"
                   source="lcsh">

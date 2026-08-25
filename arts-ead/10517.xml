@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2024-11-27T19:15:13-05:00</eventdatetime>
+            <eventdatetime>2026-08-25T19:16:49-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 27, 2024 at 19:15</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 19:16</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -87,6 +87,9 @@
                <part>Robert B. Haas Family Arts Library Special Collections</part>
             </corpname>
          </repository>
+         <langmaterial>
+            <language langcode="zxx">No linguistic content; Not applicable</language>
+         </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>29.1</quantity>
             <unittype>Linear Feet</unittype>
@@ -124,6 +127,10 @@
          <head>Scope and Contents</head>
          <p>Collection consists of mounted black and white and color reproductions of Romanesque architecture. Content varies from original photographic prints to reproductions from magazines and other published sources. Some sections have accompanying clippings folders.</p>
       </scopecontent>
+      <custodhist id="aspace_22560bd60e7c4209c670fdc3d06976aa">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Beinecke Rare Book and Manuscript Library.</p>
+      </custodhist>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85006861"
                   source="lcsh">
