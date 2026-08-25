@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-05-22T03:03:09-04:00</eventdatetime>
+            <eventdatetime>2026-08-25T03:00:06-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday May 22, 2025 at 03:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1207,6 +1207,20 @@
                   <container id="aspace_ref90_c2" localtype="folder" parent="aspace_ref90_c1">89</container>
                </did>
             </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/3937217"
+            id="aspace_c06ffaa31bed3d626c15966e44dc7658"
+            level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <unitid>Accession 2025-A-0042</unitid>
+               <unitdate label="creation" unitdatetype="inclusive">1943-1999</unitdate>
+            </did>
+            <accessrestrict id="aspace_ab6b3cb64ca80184c7fa33598a7e586e"
+                            localtype="RestrictedSpecColl">
+               <head>Conditions Governing Access</head>
+               <p>Restricted until January 1, 2035</p>
+            </accessrestrict>
          </c>
       </dsc>
    </archdesc>
