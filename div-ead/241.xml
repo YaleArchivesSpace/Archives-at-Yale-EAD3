@@ -31,7 +31,7 @@
                        show="new">http://web.library.yale.edu/divinity/special-collections</ref>
                </addressline>
             </address>
-            <date>1987</date>
+            <date>1987-2026</date>
             <num>RG 34</num>
          </publicationstmt>
          <notestmt>
@@ -42,7 +42,7 @@
                <p>Boxes: 1-51, 54-63</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Box: OV-d</p>
+               <p>Boxes: OV-d, 64</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T18:22:21-04:00</eventdatetime>
+            <eventdatetime>2026-08-25T18:01:16-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 18:22</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -118,7 +118,7 @@
       </bioghist>
       <scopecontent id="aspace_edeb1a426140fba86aa7fcb9a9c37177">
          <head>Scope and Contents</head>
-         <p>Record Group 34 consists of primarily printed material. This guide lists the organizations and conferences alphabetically by name, with dates and place of origin also noted.</p>
+         <p>Record Group 34 consists of primarily printed material. This guide lists the organizations and conferences alphabetically by name, with dates and place of origin also noted. Some material previously cataloged with HR call numbers as "Historical records" are now included in this collection, including: HR914, HR942, HR949, HR951, HR973, HR983, HR985, HR1123, HR1470, HR1581, HR1586, HR1588, HR1589, HR1590, HR1621, HR1627, HR1628, HR1631</p>
          <p>The religious and benevolent societies and organizations represented in this collection generally fit into one or more of the following categories:</p>
          <list listtype="unordered">
             <item>Bible and tract societies</item>
@@ -2241,6 +2241,28 @@
                   <p>Handwritten constitution (3 pages)</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054892"
+               id="aspace_09db44585aab965fedc553706fc51e7c"
+               level="file">
+               <did>
+                  <unittitle>Boston New Church Union</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1864">1864</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_09db44585aab965fedc553706fc51e7c_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_09db44585aab965fedc553706fc51e7c_c2"
+                             localtype="folder"
+                             parent="aspace_09db44585aab965fedc553706fc51e7c_c1">1</container>
+               </did>
+               <scopecontent id="aspace_f215ed604f34f4ef96dbd9ac35e55b0f">
+                  <head>Scope and Contents</head>
+                  <p>By-laws.</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77129"
                id="ref184"
                level="file">
@@ -2925,6 +2947,28 @@
                   <p>Subject categories: Christian education/ministry</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054893"
+               id="aspace_80a31ab35bd66cfc274d2b20bbf695a4"
+               level="file">
+               <did>
+                  <unittitle>Chapel of the Shepherd's Flock</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1872">1872</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_80a31ab35bd66cfc274d2b20bbf695a4_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_80a31ab35bd66cfc274d2b20bbf695a4_c2"
+                             localtype="folder"
+                             parent="aspace_80a31ab35bd66cfc274d2b20bbf695a4_c1">2</container>
+               </did>
+               <scopecontent id="aspace_b69541b78a7dbe18306f1415c1580baa">
+                  <head>Scope and Contents</head>
+                  <p>Report of mission homes associated with chapel in New York.</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77161"
                id="ref247"
                level="file">
@@ -3348,6 +3392,28 @@
                   <p>Comments: re. Sister H. S. McPherson</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054894"
+               id="aspace_be551be91ee3e8ecd917ad412c1e9014"
+               level="file">
+               <did>
+                  <unittitle>Church Advertising Convention</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1916">1916</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_be551be91ee3e8ecd917ad412c1e9014_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_be551be91ee3e8ecd917ad412c1e9014_c2"
+                             localtype="folder"
+                             parent="aspace_be551be91ee3e8ecd917ad412c1e9014_c1">3</container>
+               </did>
+               <scopecontent id="aspace_9361961e30eacfd0472372cb6bdff7c8">
+                  <head>Scope and Contents</head>
+                  <p>Program for event held at The Publicity Club by the New Haven Chamber of Commerce</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77182"
                id="ref289"
                level="file">
@@ -3429,6 +3495,31 @@
                   <head>Scope and Contents</head>
                   <p>Place of Publication: New York</p>
                   <p>Subject Categories: Ecumenical movements</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054895"
+               id="aspace_b3b71efe0b764ca833ab3682c03a647a"
+               level="file">
+               <did>
+                  <unittitle>Church Library Association</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1881">1881</fromdate>
+                        <todate standarddate="1898">1898</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_b3b71efe0b764ca833ab3682c03a647a_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_b3b71efe0b764ca833ab3682c03a647a_c2"
+                             localtype="folder"
+                             parent="aspace_b3b71efe0b764ca833ab3682c03a647a_c1">4</container>
+               </did>
+               <scopecontent id="aspace_6215ec330d0195da7bbef498c4e4382d">
+                  <head>Scope and Contents</head>
+                  <p>Lists of books recommended for Sunday Schools and parish libraries</p>
                </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/77186"
@@ -4552,6 +4643,31 @@
                   <p>Subject Categories: United Kingdom; Related to Roman Catholicism</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054896"
+               id="aspace_25fcbb2d2f4540d897607deb75b16fa1"
+               level="file">
+               <did>
+                  <unittitle>Danforth Foundation</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1957">1957</fromdate>
+                        <todate standarddate="1964">1964</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_25fcbb2d2f4540d897607deb75b16fa1_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_25fcbb2d2f4540d897607deb75b16fa1_c2"
+                             localtype="folder"
+                             parent="aspace_25fcbb2d2f4540d897607deb75b16fa1_c1">5</container>
+               </did>
+               <scopecontent id="aspace_86e7e2248c5f0d58ab9a7d44501a3760">
+                  <head>Scope and Contents</head>
+                  <p>Related to Danforth Seminary Internship program and Danforth Campus Ministry</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77241"
                id="ref406"
                level="file">
@@ -4742,6 +4858,28 @@
                   <head>Scope and Contents</head>
                   <p>Place of Publication: London</p>
                   <p>Subject Categories: United Kingdom; Bible and tract societies</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054897"
+               id="aspace_e321f2f8ba2d21d4e6fd046d32c50d77"
+               level="file">
+               <did>
+                  <unittitle>Episcopal Female Charitable Society</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1818">1818</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_e321f2f8ba2d21d4e6fd046d32c50d77_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_e321f2f8ba2d21d4e6fd046d32c50d77_c2"
+                             localtype="folder"
+                             parent="aspace_e321f2f8ba2d21d4e6fd046d32c50d77_c1">6</container>
+               </did>
+               <scopecontent id="aspace_5b7dc6856367e16d0e452a7ea26fa5af">
+                  <head>Scope and Contents</head>
+                  <p>Report, charter, and constitution of Society in New Haven, with extracts from address of the Rev. Harry Croswell to the Society</p>
                </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/77251"
@@ -5072,6 +5210,28 @@
                   <p>Subject Categories: Ecumenical movements</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054898"
+               id="aspace_a8e3de4e6af3f24ed77f844afc6322e7"
+               level="file">
+               <did>
+                  <unittitle>Federation of Churches of Rhode Island</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1909">1909</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_a8e3de4e6af3f24ed77f844afc6322e7_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_a8e3de4e6af3f24ed77f844afc6322e7_c2"
+                             localtype="folder"
+                             parent="aspace_a8e3de4e6af3f24ed77f844afc6322e7_c1">7</container>
+               </did>
+               <scopecontent id="aspace_2b32e3775e04f376ec9bebd0d16b2979">
+                  <head>Scope and Contents</head>
+                  <p>Proceeding of first convention</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77267"
                id="ref458"
                level="file">
@@ -5177,6 +5337,28 @@
                   <head>Scope and Contents</head>
                   <p>Place of Publication: London</p>
                   <p>Subject Categories: United Kingdom; Relief and charitable societies</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054899"
+               id="aspace_196a27893ddc8a73e9183cf611861fa9"
+               level="file">
+               <did>
+                  <unittitle>Fourth Ward Reading and Coffee Room</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1861">1861</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_196a27893ddc8a73e9183cf611861fa9_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_196a27893ddc8a73e9183cf611861fa9_c2"
+                             localtype="folder"
+                             parent="aspace_196a27893ddc8a73e9183cf611861fa9_c1">8</container>
+               </did>
+               <scopecontent id="aspace_89f0f832f2006d656eaa6335a62b1232">
+                  <head>Scope and Contents</head>
+                  <p>Report of organization in New York City</p>
                </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/77273"
@@ -6172,6 +6354,28 @@
                   <p>Subject Categories: Ecumenical movements</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054900"
+               id="aspace_20a6ffbbb6174132c57d9e594319d512"
+               level="file">
+               <did>
+                  <unittitle>International Association for the Promotion of Christian Higher Education</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1993">1993</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_20a6ffbbb6174132c57d9e594319d512_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_20a6ffbbb6174132c57d9e594319d512_c2"
+                             localtype="folder"
+                             parent="aspace_20a6ffbbb6174132c57d9e594319d512_c1">9</container>
+               </did>
+               <scopecontent id="aspace_d5b9fd84bb82c2fe0e95c95ccd0e08d0">
+                  <head>Scope and Contents</head>
+                  <p>Newsletter of organization based in Grand Rapids, Michigan</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77314"
                id="ref551"
                level="file">
@@ -6509,6 +6713,31 @@
                   <head>Scope and Contents</head>
                   <p>Place of Publication: Chicago</p>
                   <p>Subject Categories: Christian education/ministry</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054901"
+               id="aspace_086a00d8c6c80415b61b429f67207d39"
+               level="file">
+               <did>
+                  <unittitle>International Sunday School Lesson Committee</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1920">1920</fromdate>
+                        <todate standarddate="1930">1930</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_086a00d8c6c80415b61b429f67207d39_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_086a00d8c6c80415b61b429f67207d39_c2"
+                             localtype="folder"
+                             parent="aspace_086a00d8c6c80415b61b429f67207d39_c1">10-11</container>
+               </did>
+               <scopecontent id="aspace_2f9266afed31a3e196e9a2861f5dfa80">
+                  <head>Scope and Contents</head>
+                  <p>Interdenominational Sunday School curriculum lessons</p>
                </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/77330"
@@ -8077,6 +8306,50 @@
                   <p>Subject Categories: Christian education/ministry</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054902"
+               id="aspace_dc7a2804851026b2f559b0dcde576581"
+               level="file">
+               <did>
+                  <unittitle>National Federation of Religious Liberals</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1910">1910</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_dc7a2804851026b2f559b0dcde576581_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_dc7a2804851026b2f559b0dcde576581_c2"
+                             localtype="folder"
+                             parent="aspace_dc7a2804851026b2f559b0dcde576581_c1">12</container>
+               </did>
+               <scopecontent id="aspace_f9dd1c83af596fc7007ae5348d150385">
+                  <head>Scope and Contents</head>
+                  <p>Program of meeting to commemorate Theodore Parker, held in Philadelphia</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054904"
+               id="aspace_f780b5c79b442457688aaa0bb5fed209"
+               level="file">
+               <did>
+                  <unittitle>National Interfaith Committee for Worker Justice</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1999">1999</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_f780b5c79b442457688aaa0bb5fed209_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_f780b5c79b442457688aaa0bb5fed209_c2"
+                             localtype="folder"
+                             parent="aspace_f780b5c79b442457688aaa0bb5fed209_c1">13</container>
+               </did>
+               <scopecontent id="aspace_145b3e3006bdab39abc40aa6f8415e4a">
+                  <head>Scope and Contents</head>
+                  <p>Program material for churches</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77399"
                id="ref719"
                level="file">
@@ -8850,6 +9123,31 @@
                   <p>Subject Categories: Christian education/ministry</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054905"
+               id="aspace_05608dceea1b319718c33788ecff6dd5"
+               level="file">
+               <did>
+                  <unittitle>New York Altar Guild</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1930">1930</fromdate>
+                        <todate standarddate="1931">1931</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_05608dceea1b319718c33788ecff6dd5_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_05608dceea1b319718c33788ecff6dd5_c2"
+                             localtype="folder"
+                             parent="aspace_05608dceea1b319718c33788ecff6dd5_c1">14</container>
+               </did>
+               <scopecontent id="aspace_0b8a0104b18a1e40cca72e99759f6890">
+                  <head>Scope and Contents</head>
+                  <p>Annual reports</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77433"
                id="ref787"
                level="file">
@@ -8941,6 +9239,28 @@
                   <head>Scope and Contents</head>
                   <p>Place of Publication: New York</p>
                   <p>Subject Categories: Women's societies</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054906"
+               id="aspace_ee68c9dd1a203c8176f80fb77cf409b3"
+               level="file">
+               <did>
+                  <unittitle>New York Circus</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1987">1987</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_ee68c9dd1a203c8176f80fb77cf409b3_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_ee68c9dd1a203c8176f80fb77cf409b3_c2"
+                             localtype="folder"
+                             parent="aspace_ee68c9dd1a203c8176f80fb77cf409b3_c1">15</container>
+               </did>
+               <scopecontent id="aspace_899c13dc4813a3b29cca520cd2a9a12d">
+                  <head>Scope and Contents</head>
+                  <p>Newsletter, publications catalogue of ecumenical center for social justice and international awareness in New York City</p>
                </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/77437"
@@ -11621,6 +11941,28 @@
                   <p>Subject Categories: Christian education/ministry</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4054907"
+               id="aspace_a5aa8ef5b38715967c680d31614ffe9f"
+               level="file">
+               <did>
+                  <unittitle>Student Christian Federation</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1949">1949</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_a5aa8ef5b38715967c680d31614ffe9f_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_a5aa8ef5b38715967c680d31614ffe9f_c2"
+                             localtype="folder"
+                             parent="aspace_a5aa8ef5b38715967c680d31614ffe9f_c1">16</container>
+               </did>
+               <scopecontent id="aspace_58671619960fa079364602a541f3b74b">
+                  <head>Scope and Contents</head>
+                  <p>Report, brochure of organization based in Fredonia, New York</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/4/archival_objects/77560"
                id="ref1039"
                level="file">
@@ -12861,6 +13203,31 @@
                   <p>Place of Publication: Pittsburgh</p>
                   <p>Subject Categories: Societal reform</p>
                   <p>Comments: re. proposed 19th amendment</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4054908"
+               id="aspace_da51687b474b45b60a4af8586e5e2e73"
+               level="file">
+               <did>
+                  <unittitle>Woman's Centenary Association of the Universalist Church</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1871">1871</fromdate>
+                        <todate standarddate="1873">1873</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485007 /locations/2"
+                             containerid="39002112327227"
+                             id="aspace_da51687b474b45b60a4af8586e5e2e73_c1"
+                             label="Mixed Materials"
+                             localtype="box">64</container>
+                  <container id="aspace_da51687b474b45b60a4af8586e5e2e73_c2"
+                             localtype="folder"
+                             parent="aspace_da51687b474b45b60a4af8586e5e2e73_c1">17</container>
+               </did>
+               <scopecontent id="aspace_21bd6ec7bc12d58708b4d4adf5aa22d1">
+                  <head>Scope and Contents</head>
+                  <p>Articles of incorporation</p>
                </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/77616"

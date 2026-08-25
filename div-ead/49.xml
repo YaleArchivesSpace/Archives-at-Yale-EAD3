@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-24T18:00:56-04:00</eventdatetime>
+            <eventdatetime>2026-08-25T18:00:13-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 24, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -96694,14 +96694,22 @@ Ts'en Su-hsing</p>
                               <todate standarddate="1958">1958</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/348006 /locations/9"
-                                   containerid="39002038309291"
+                        <container altrender="/repositories/4/top_containers/3134 /locations/9"
+                                   containerid="39002038309283"
                                    id="aspace_ref4499_c1"
                                    label="Mixed Materials"
-                                   localtype="box">400B</container>
+                                   localtype="box">400A</container>
                         <container id="aspace_ref4499_c2"
                                    localtype="folder"
-                                   parent="aspace_ref4499_c1">5787-5791</container>
+                                   parent="aspace_ref4499_c1">5787-5788</container>
+                        <container altrender="/repositories/4/top_containers/348006 /locations/9"
+                                   containerid="39002038309291"
+                                   id="aspace_ref4499_c3"
+                                   label="Mixed Materials"
+                                   localtype="box">400B</container>
+                        <container id="aspace_ref4499_c4"
+                                   localtype="folder"
+                                   parent="aspace_ref4499_c3">5789-5791</container>
                         <daoset altrender="/repositories/4/digital_objects/288027">
                            <dao actuate="onrequest"
                                 audience="external"
