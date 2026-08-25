@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/beinecke.bptrial">beinecke.bptrial</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Black Panther Trial records </titleproper>
+            <titleproper localtype="filing">Black Panther Trial Records</titleproper>
+            <author>By Elise Riley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline localtype="telephone">(203) 432-2977 </addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://beinecke.library.yale.edu/"
+                       linktitle="http://beinecke.library.yale.edu/"
+                       show="new">http://beinecke.library.yale.edu/</ref>
+               </addressline>
+            </address>
+            <date>August 2026</date>
+            <num>GEN MSS 2168</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote localtype="onsite">
+               <p>Boxes: 1-6</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency countrycode="US">
+         <agencycode>US-CtY-BR</agencycode>
+         <agencyname>Beinecke Rare Book and Manuscript Library</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>completed</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-08-24T23:07:45-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 24, 2026 at 23:07</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/11/resources/14106" level="collection">
+      <did>
+         <unittitle>Black Panther Trial records</unittitle>
+         <unitid>GEN MSS 2168</unitid>
+         <repository>
+            <corpname>
+               <part>Beinecke Rare Book and Manuscript Library</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>3.42</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">(6 boxes)</physdesc>
+         <unitdatestructured altrender="1968-1972, 1992"
+                             label="creation"
+                             unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1968">1968</fromdate>
+               <todate standarddate="1972">1972</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_8a1a6d755cb856343cae8273b1a33c22">Contains legal documents, correspondence, and other printed material related to Bobby Seale's defense in the New Haven Black Panther trial.</abstract>
+         <origination label="Creator">
+            <persname rules="dacs" source="local_beinecke">
+               <part localtype="agent_person">Rosen, David N., 1944-</part>
+            </persname>
+         </origination>
+      </did>
+      <accessrestrict id="aspace_c8ffdf0171e9db767ac01a69f8af73d8">
+         <head>Conditions Governing Access</head>
+         <p>This collection is open for research.</p>
+      </accessrestrict>
+      <acqinfo id="aspace_fdb5de08d932b1eee302424d5ece3e38">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of David Rosen, 2026.</p>
+      </acqinfo>
+      <arrangement id="aspace_9b71e0bf690ee6e275a20a114cf9763f">
+         <head>Arrangement</head>
+         <p>Materials in this collection maintain order found at time of acquisition.</p>
+      </arrangement>
+      <bioghist id="aspace_b1a4b1fafe41b84c62fccbf926b1eb26">
+         <head>Black Panther Party and the New Haven trial</head>
+         <p>The Black Panther Party for Self-Defense (BPP) was a Black revolutionary party founded in 1966 by Huey Newton and Bobby Seale in Oakland, California. The group was founded to protect members of African American communities from police brutality and was heavily inspired by the ideologies of Black nationalism, socialism, and armed self-defense.  It also became a target of J. Edgar Hoover, director of the FBI, an opponent of communist subversive groups. Newton and Seale started BPP in response to the continued violence Black communities faced opting away from the nonviolent movements and integrationalist goals of the Civil Rights Movement led by Martin Luther King Jr. BPP used direct action to aid Black communities through Survival Programs that fed children, registered communities to vote, and offered free healthcare.</p>
+         <p>In 1969, Alex Rackley, a member of the New Haven chapter of the Panthers, was abducted, tortured and killed by fellow members who suspected he was a police informant. Nine defendants, the "New Haven Nine," were indicted on charges related to the case, including Booby Seale, Ericka Huggins, Warren Kimbro, George Sams, Jr., and Lonnie McLucas. Sams declared that Bobby Seale, who had been speaking at Yale University during the time Rackley was held prisoner, had directly ordered the murder. As jury selection for the trials began in May 1970, thousands of Black Panther supporters arrived for a May Day rally in New Haven, where organizers were urging violent action. Fears of rioting led to the stationing of National Guard units around the city and the temporary closure of many local businesses. The six-month trial ended with a hung jury for Bobby Seale and Ericka Huggins after which charges were dropped. George Sams and Warren Kimbro were charged with Rackley's murder and Lonnie McLucas was charged with conspiracy to commit murder.</p>
+      </bioghist>
+      <prefercite id="aspace_9bfe4e9cbc039920a26810bba8a40b70">
+         <head>Preferred Citation</head>
+         <p>Black Panther Trial records. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>
+      </prefercite>
+      <relatedmaterial id="aspace_6cf4c7b7240dd5b00637557d967b41f7">
+         <head>Related Materials</head>
+         <p>Related materials: Black Panther Party collection (GEN MSS 2097); Catherine Roraback Collection of Ericka Huggins Papers (JWJ MSS 96); Thomas Strong photographs of New Haven May Day rally (MS 2030); May Day Rally and Yale collection (RU 86); and Robert Templeton drawings and sketches related to the trial of Bobby G. Seale and Ericka Huggins, New Haven, Connecticut (JWJ MSS 33).</p>
+      </relatedmaterial>
+      <scopecontent id="aspace_162aded4823c8d0f7011c35397091ccf">
+         <head>Scope and Contents</head>
+         <p>Materials in the Black Panther Trial records document the activities of David Rosen during the New Haven Black Panther trials. The majority of the records contain David Rosen's legal files related to Bobby Seale's trial. There is also material related to Ericka Huggins, Seale's co-defendant and the trials of other Black Panther members in different jurisdictions. The records include memoranda, motions, statements, police reports, exhibit documents, pressm and research generated for the trial.</p>
+      </scopecontent>
+      <userestrict id="aspace_077dd481d654a7cc4f3326c4547d1a28">
+         <head>Conditions Governing Use</head>
+         <p>The Black Panther Trial records is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
+      </userestrict>
+      <controlaccess>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh98001430"
+                  source="lcsh">
+            <part localtype="topical">African American political activists</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">African Americans</part>
+            <part localtype="geographic">Connecticut</part>
+            <part localtype="geographic">New Haven</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Black militant organizations</part>
+            <part localtype="geographic">Connecticut</part>
+            <part localtype="geographic">New Haven</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85075126"
+                  source="lcsh">
+            <part localtype="topical">Law</part>
+            <part localtype="genre_form">Cases</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Lawyers</part>
+            <part localtype="geographic">Connecticut</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Trials (Conspiracy)</part>
+            <part localtype="geographic">Connecticut</part>
+            <part localtype="geographic">New Haven</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Trials (Kidnapping)</part>
+            <part localtype="geographic">Connecticut</part>
+            <part localtype="geographic">New Haven</part>
+         </subject>
+         <occupation source="lcsh">
+            <part localtype="occupation">Lawyers</part>
+            <part localtype="geographic">Connecticut</part>
+         </occupation>
+         <occupation source="local">
+            <part localtype="occupation">Political activists</part>
+            <part localtype="geographic">United States</part>
+            <part localtype="temporal">20th Century</part>
+         </occupation>
+         <genreform source="local">
+            <part localtype="genre_form">Legal documents</part>
+            <part localtype="geographic">United States</part>
+            <part localtype="temporal">20th Century</part>
+         </genreform>
+         <geogname source="local">
+            <part localtype="geographic">New Haven (Conn.)</part>
+            <part localtype="topical">History</part>
+            <part localtype="temporal">20th Century</part>
+         </geogname>
+         <persname>
+            <part localtype="agent_person">Huggins, Ericka (1948)</part>
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/11/archival_objects/4052339"
+            id="aspace_4392bf8c22a58cb62d6f2fcbfb76c375"
+            level="file">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitdatestructured altrender="1969-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_4392bf8c22a58cb62d6f2fcbfb76c375_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_4392bf8c22a58cb62d6f2fcbfb76c375_c2"
+                          localtype="folder"
+                          parent="aspace_4392bf8c22a58cb62d6f2fcbfb76c375_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052340"
+            id="aspace_a1d559477f9ec98ec2d6eb0ea99a4340"
+            level="file">
+            <did>
+               <unittitle>Court charges and motions against Black Panther members</unittitle>
+               <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1970">1970</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_a1d559477f9ec98ec2d6eb0ea99a4340_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_a1d559477f9ec98ec2d6eb0ea99a4340_c2"
+                          localtype="folder"
+                          parent="aspace_a1d559477f9ec98ec2d6eb0ea99a4340_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052341"
+            id="aspace_a485bfc974ef4418517ed9edb95bbf26"
+            level="file">
+            <did>
+               <unittitle>Bail: general information</unittitle>
+               <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1970">1970</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_a485bfc974ef4418517ed9edb95bbf26_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_a485bfc974ef4418517ed9edb95bbf26_c2"
+                          localtype="folder"
+                          parent="aspace_a485bfc974ef4418517ed9edb95bbf26_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052342"
+            id="aspace_f1277441051832afc2ef555359ae70d7"
+            level="file">
+            <did>
+               <unittitle>Grand Jury: McLucas et al.</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_f1277441051832afc2ef555359ae70d7_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_f1277441051832afc2ef555359ae70d7_c2"
+                          localtype="folder"
+                          parent="aspace_f1277441051832afc2ef555359ae70d7_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052343"
+            id="aspace_3bf7916c85781ae107ccf584942c9f68"
+            level="file">
+            <did>
+               <unittitle>Motion to Dismiss - publicity, McLucas</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_3bf7916c85781ae107ccf584942c9f68_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_3bf7916c85781ae107ccf584942c9f68_c2"
+                          localtype="folder"
+                          parent="aspace_3bf7916c85781ae107ccf584942c9f68_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052344"
+            id="aspace_81c5170809506a87eba160f26d1278ae"
+            level="file">
+            <did>
+               <unittitle>Gag rule: McLucas et al.</unittitle>
+               <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1970">1970</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_81c5170809506a87eba160f26d1278ae_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_81c5170809506a87eba160f26d1278ae_c2"
+                          localtype="folder"
+                          parent="aspace_81c5170809506a87eba160f26d1278ae_c1">6</container>
+            </did>
+            <scopecontent id="aspace_baba7cafe9383f4f635bcca6954ac088">
+               <head>Scope and Contents</head>
+               <p>Contains the civil docket for McLucas et al. v. the State of Connecticut</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052345"
+            id="aspace_153677443f321b4b3eda7ab14ea5af63"
+            level="file">
+            <did>
+               <unittitle>Charging papers: State v. Seale</unittitle>
+               <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1970">1970</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_153677443f321b4b3eda7ab14ea5af63_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_153677443f321b4b3eda7ab14ea5af63_c2"
+                          localtype="folder"
+                          parent="aspace_153677443f321b4b3eda7ab14ea5af63_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052346"
+            id="aspace_06608b9ebeec94a881e5d2f9fe0773cb"
+            level="file">
+            <did>
+               <unittitle>Motion for discovery: State v. Seale</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_06608b9ebeec94a881e5d2f9fe0773cb_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_06608b9ebeec94a881e5d2f9fe0773cb_c2"
+                          localtype="folder"
+                          parent="aspace_06608b9ebeec94a881e5d2f9fe0773cb_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052347"
+            id="aspace_6496f3185f9f896e4b320a5b79a3ceea"
+            level="file">
+            <did>
+               <unittitle>List of exhibits: State v. Seale</unittitle>
+               <unitdatestructured altrender="1969-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_6496f3185f9f896e4b320a5b79a3ceea_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_6496f3185f9f896e4b320a5b79a3ceea_c2"
+                          localtype="folder"
+                          parent="aspace_6496f3185f9f896e4b320a5b79a3ceea_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052348"
+            id="aspace_91e3c4832b716a38f31bd58027f385d3"
+            level="file">
+            <did>
+               <unittitle>Catherine Roraback correspondence regarding Ericka Huggins</unittitle>
+               <unitdatestructured altrender="1969-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_91e3c4832b716a38f31bd58027f385d3_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_91e3c4832b716a38f31bd58027f385d3_c2"
+                          localtype="folder"
+                          parent="aspace_91e3c4832b716a38f31bd58027f385d3_c1">10</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052349"
+            id="aspace_c7878bce64af1c74748d60af3a29b98f"
+            level="file">
+            <did>
+               <unittitle>Court memoranda and motions: Seale, Huggins, McLucas</unittitle>
+               <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1970">1970</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_c7878bce64af1c74748d60af3a29b98f_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_c7878bce64af1c74748d60af3a29b98f_c2"
+                          localtype="folder"
+                          parent="aspace_c7878bce64af1c74748d60af3a29b98f_c1">11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052350"
+            id="aspace_536d446e36c76e20831be4fdf3cc72b3"
+            level="file">
+            <did>
+               <unittitle>Bobby Seale transcript of speech delivered at Battel Chapel</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1969">1969</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_536d446e36c76e20831be4fdf3cc72b3_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_536d446e36c76e20831be4fdf3cc72b3_c2"
+                          localtype="folder"
+                          parent="aspace_536d446e36c76e20831be4fdf3cc72b3_c1">12</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052351"
+            id="aspace_5ada941ea028186279794da9c3762476"
+            level="file">
+            <did>
+               <unittitle>Jail conditions: Peggy Hudgins</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484700"
+                          containerid="39002104529228"
+                          encodinganalog="archive legal"
+                          id="aspace_5ada941ea028186279794da9c3762476_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_5ada941ea028186279794da9c3762476_c2"
+                          localtype="folder"
+                          parent="aspace_5ada941ea028186279794da9c3762476_c1">13</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052352"
+            id="aspace_966f4a7dd30fd3143362ce9e668b16c7"
+            level="file">
+            <did>
+               <unittitle>Jail conditions: pleadings</unittitle>
+               <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1970">1970</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_966f4a7dd30fd3143362ce9e668b16c7_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_966f4a7dd30fd3143362ce9e668b16c7_c2"
+                          localtype="folder"
+                          parent="aspace_966f4a7dd30fd3143362ce9e668b16c7_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052353"
+            id="aspace_c772db96606cee5fa4440aaeadba3073"
+            level="file">
+            <did>
+               <unittitle>Press and interviews</unittitle>
+               <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1970">1970</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_c772db96606cee5fa4440aaeadba3073_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_c772db96606cee5fa4440aaeadba3073_c2"
+                          localtype="folder"
+                          parent="aspace_c772db96606cee5fa4440aaeadba3073_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052354"
+            id="aspace_5a093cb260c38b759236bfff8d3ab51f"
+            level="file">
+            <did>
+               <unittitle>Seale v. Mitchell, et al.</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_5a093cb260c38b759236bfff8d3ab51f_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_5a093cb260c38b759236bfff8d3ab51f_c2"
+                          localtype="folder"
+                          parent="aspace_5a093cb260c38b759236bfff8d3ab51f_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052355"
+            id="aspace_2c12f0176cf1b8af03fc6541f3e3846b"
+            level="file">
+            <did>
+               <unittitle>Motions: other cases</unittitle>
+               <unitdatestructured altrender="1969-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_2c12f0176cf1b8af03fc6541f3e3846b_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_2c12f0176cf1b8af03fc6541f3e3846b_c2"
+                          localtype="folder"
+                          parent="aspace_2c12f0176cf1b8af03fc6541f3e3846b_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052356"
+            id="aspace_d7e424a95092fdccd5dd22fc944905f8"
+            level="file">
+            <did>
+               <unittitle>Wiretapping: general information and research</unittitle>
+               <unitdatestructured altrender="1969-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_d7e424a95092fdccd5dd22fc944905f8_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_d7e424a95092fdccd5dd22fc944905f8_c2"
+                          localtype="folder"
+                          parent="aspace_d7e424a95092fdccd5dd22fc944905f8_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052357"
+            id="aspace_30e1a16e24483a8c122263beb15f76eb"
+            level="file">
+            <did>
+               <unittitle>Motion to Suppress: State v. Huggins</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_30e1a16e24483a8c122263beb15f76eb_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_30e1a16e24483a8c122263beb15f76eb_c2"
+                          localtype="folder"
+                          parent="aspace_30e1a16e24483a8c122263beb15f76eb_c1">6</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052358"
+            id="aspace_1e5ed7b39476a013e6dfd88ff312d07d"
+            level="file">
+            <did>
+               <unittitle>Stan Simon on Trial</unittitle>
+               <unitdatestructured altrender="1969-1972" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1972">1972</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_1e5ed7b39476a013e6dfd88ff312d07d_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_1e5ed7b39476a013e6dfd88ff312d07d_c2"
+                          localtype="folder"
+                          parent="aspace_1e5ed7b39476a013e6dfd88ff312d07d_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052359"
+            id="aspace_94c49cdd797b6f5775410c1549a3d536"
+            level="file">
+            <did>
+               <unittitle>David Hilliard speech transcriptions</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_94c49cdd797b6f5775410c1549a3d536_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_94c49cdd797b6f5775410c1549a3d536_c2"
+                          localtype="folder"
+                          parent="aspace_94c49cdd797b6f5775410c1549a3d536_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052360"
+            id="aspace_03c3442d244cf6bc98eef50f9582bcfc"
+            level="file">
+            <did>
+               <unittitle>Motions to Dismiss: Publicity Seale/Huggins</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_03c3442d244cf6bc98eef50f9582bcfc_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_03c3442d244cf6bc98eef50f9582bcfc_c2"
+                          localtype="folder"
+                          parent="aspace_03c3442d244cf6bc98eef50f9582bcfc_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052361"
+            id="aspace_92a7b6216e15c5255e18bb21b2424745"
+            level="file">
+            <did>
+               <unittitle>Motion to Sequester Jury</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_92a7b6216e15c5255e18bb21b2424745_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_92a7b6216e15c5255e18bb21b2424745_c2"
+                          localtype="folder"
+                          parent="aspace_92a7b6216e15c5255e18bb21b2424745_c1">10</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052362"
+            id="aspace_e53493d684ce7926e5d3d7bd47499f11"
+            level="file">
+            <did>
+               <unittitle>Post-trial motions, Seale</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484701"
+                          containerid="39002104529236"
+                          encodinganalog="archive legal"
+                          id="aspace_e53493d684ce7926e5d3d7bd47499f11_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_e53493d684ce7926e5d3d7bd47499f11_c2"
+                          localtype="folder"
+                          parent="aspace_e53493d684ce7926e5d3d7bd47499f11_c1">11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052363"
+            id="aspace_385988fff62dad36f5dc2d26f1eb134b"
+            level="file">
+            <did>
+               <unittitle>Requests to Charge</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_385988fff62dad36f5dc2d26f1eb134b_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_385988fff62dad36f5dc2d26f1eb134b_c2"
+                          localtype="folder"
+                          parent="aspace_385988fff62dad36f5dc2d26f1eb134b_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052364"
+            id="aspace_e5278045636d44094f11d3c3ecfd1e80"
+            level="file">
+            <did>
+               <unittitle>Motions to Elect and Quash</unittitle>
+               <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_e5278045636d44094f11d3c3ecfd1e80_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_e5278045636d44094f11d3c3ecfd1e80_c2"
+                          localtype="folder"
+                          parent="aspace_e5278045636d44094f11d3c3ecfd1e80_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052365"
+            id="aspace_cf0ba174d7d43d72a6d746c92ed750e4"
+            level="file">
+            <did>
+               <unittitle>Regarding George Sams Jr.</unittitle>
+               <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1970">1970</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_cf0ba174d7d43d72a6d746c92ed750e4_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_cf0ba174d7d43d72a6d746c92ed750e4_c2"
+                          localtype="folder"
+                          parent="aspace_cf0ba174d7d43d72a6d746c92ed750e4_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052366"
+            id="aspace_541a68e5dc8c050d1eb22aa3f4a4e39e"
+            level="file">
+            <did>
+               <unittitle>Witness: Habeas Corpus ad Testificandum</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_541a68e5dc8c050d1eb22aa3f4a4e39e_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_541a68e5dc8c050d1eb22aa3f4a4e39e_c2"
+                          localtype="folder"
+                          parent="aspace_541a68e5dc8c050d1eb22aa3f4a4e39e_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052367"
+            id="aspace_6c73478b273d8d4b3de7c88ff3b47daf"
+            level="file">
+            <did>
+               <unittitle>Witness: subpoenas - McLucas</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_6c73478b273d8d4b3de7c88ff3b47daf_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_6c73478b273d8d4b3de7c88ff3b47daf_c2"
+                          localtype="folder"
+                          parent="aspace_6c73478b273d8d4b3de7c88ff3b47daf_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052368"
+            id="aspace_acd87fa2d2e51e13bbd074d5a109c49f"
+            level="file">
+            <did>
+               <unittitle>Press releases</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_acd87fa2d2e51e13bbd074d5a109c49f_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_acd87fa2d2e51e13bbd074d5a109c49f_c2"
+                          localtype="folder"
+                          parent="aspace_acd87fa2d2e51e13bbd074d5a109c49f_c1">6</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052369"
+            id="aspace_e0032622d771429d6da103493a559934"
+            level="file">
+            <did>
+               <unittitle>"The Disintegration of a Dream: The Trial of Bobby Seale and Ericka Huggins" by Eric Morris</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1992">1992</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_e0032622d771429d6da103493a559934_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_e0032622d771429d6da103493a559934_c2"
+                          localtype="folder"
+                          parent="aspace_e0032622d771429d6da103493a559934_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052370"
+            id="aspace_5791adce1eccb6c1dea3f63ec3fd472b"
+            level="file">
+            <did>
+               <unittitle>Proceedings in the Alex Rackley Murder Case</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_5791adce1eccb6c1dea3f63ec3fd472b_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_5791adce1eccb6c1dea3f63ec3fd472b_c2"
+                          localtype="folder"
+                          parent="aspace_5791adce1eccb6c1dea3f63ec3fd472b_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052371"
+            id="aspace_73b2089e22624abc63d45ef0adbd824e"
+            level="file">
+            <did>
+               <unittitle>Witness statements</unittitle>
+               <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1970">1970</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_73b2089e22624abc63d45ef0adbd824e_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_73b2089e22624abc63d45ef0adbd824e_c2"
+                          localtype="folder"
+                          parent="aspace_73b2089e22624abc63d45ef0adbd824e_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052372"
+            id="aspace_2147f25272be7c06905d575173351366"
+            level="file">
+            <did>
+               <unittitle>Memoranda and motions for Bobby Seale and Ericka Huggins</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_2147f25272be7c06905d575173351366_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_2147f25272be7c06905d575173351366_c2"
+                          localtype="folder"
+                          parent="aspace_2147f25272be7c06905d575173351366_c1">10</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052373"
+            id="aspace_8521b086533aa7505c1b6e33fed11817"
+            level="file">
+            <did>
+               <unittitle>George Sams Jr.</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1969">1969</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_8521b086533aa7505c1b6e33fed11817_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_8521b086533aa7505c1b6e33fed11817_c2"
+                          localtype="folder"
+                          parent="aspace_8521b086533aa7505c1b6e33fed11817_c1">11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052374"
+            id="aspace_9a963e06f21cca1a1d60152421ce963c"
+            level="file">
+            <did>
+               <unittitle>Lonnie McLucas</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_9a963e06f21cca1a1d60152421ce963c_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_9a963e06f21cca1a1d60152421ce963c_c2"
+                          localtype="folder"
+                          parent="aspace_9a963e06f21cca1a1d60152421ce963c_c1">12</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052375"
+            id="aspace_c787e9ccceffbe60cca4a23aa0515ebc"
+            level="file">
+            <did>
+               <unittitle>United States v. Seale</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484702"
+                          containerid="39002104529244"
+                          encodinganalog="archive legal"
+                          id="aspace_c787e9ccceffbe60cca4a23aa0515ebc_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_c787e9ccceffbe60cca4a23aa0515ebc_c2"
+                          localtype="folder"
+                          parent="aspace_c787e9ccceffbe60cca4a23aa0515ebc_c1">13</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052376"
+            id="aspace_744ac543912f720ec83c584a1df8fc1d"
+            level="file">
+            <did>
+               <unittitle>Paul Bullock v. Charles Bates and William Bauer</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_744ac543912f720ec83c584a1df8fc1d_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_744ac543912f720ec83c584a1df8fc1d_c2"
+                          localtype="folder"
+                          parent="aspace_744ac543912f720ec83c584a1df8fc1d_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052377"
+            id="aspace_9097f521da2aa98d7be080b99e55e2d9"
+            level="file">
+            <did>
+               <unittitle>David Dellinger</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_9097f521da2aa98d7be080b99e55e2d9_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_9097f521da2aa98d7be080b99e55e2d9_c2"
+                          localtype="folder"
+                          parent="aspace_9097f521da2aa98d7be080b99e55e2d9_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052378"
+            id="aspace_37058ef3407b7cd76f4ad3d21ea26299"
+            level="file">
+            <did>
+               <unittitle>Angela Davis</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_37058ef3407b7cd76f4ad3d21ea26299_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_37058ef3407b7cd76f4ad3d21ea26299_c2"
+                          localtype="folder"
+                          parent="aspace_37058ef3407b7cd76f4ad3d21ea26299_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052379"
+            id="aspace_7242673709466aeded4bb090dd4c4387"
+            level="file">
+            <did>
+               <unittitle>David Hilliard</unittitle>
+               <unitdatestructured altrender="1968-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1968">1968</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_7242673709466aeded4bb090dd4c4387_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_7242673709466aeded4bb090dd4c4387_c2"
+                          localtype="folder"
+                          parent="aspace_7242673709466aeded4bb090dd4c4387_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052380"
+            id="aspace_588c5283a2343f51461db7eed58cbbdf"
+            level="file">
+            <did>
+               <unittitle>Jay Katz</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_588c5283a2343f51461db7eed58cbbdf_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_588c5283a2343f51461db7eed58cbbdf_c2"
+                          localtype="folder"
+                          parent="aspace_588c5283a2343f51461db7eed58cbbdf_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052381"
+            id="aspace_9253bf925d890329bdf62c38e295ad32"
+            level="file">
+            <did>
+               <unittitle>Legal documents regarding Black Panther trials</unittitle>
+               <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1970">1970</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_9253bf925d890329bdf62c38e295ad32_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_9253bf925d890329bdf62c38e295ad32_c2"
+                          localtype="folder"
+                          parent="aspace_9253bf925d890329bdf62c38e295ad32_c1">6</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052382"
+            id="aspace_730363f3a7ecfedd8a04107d2044eab2"
+            level="file">
+            <did>
+               <unittitle>Charges against Seale and witness statements</unittitle>
+               <unitdatestructured altrender="1969-1970" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1969">1969</fromdate>
+                     <todate standarddate="1970">1970</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_730363f3a7ecfedd8a04107d2044eab2_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_730363f3a7ecfedd8a04107d2044eab2_c2"
+                          localtype="folder"
+                          parent="aspace_730363f3a7ecfedd8a04107d2044eab2_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052383"
+            id="aspace_e0637a7f48d408478da3bc5bdfaf1a19"
+            level="file">
+            <did>
+               <unittitle>Defendant's exhibits</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_e0637a7f48d408478da3bc5bdfaf1a19_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_e0637a7f48d408478da3bc5bdfaf1a19_c2"
+                          localtype="folder"
+                          parent="aspace_e0637a7f48d408478da3bc5bdfaf1a19_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052384"
+            id="aspace_2b1dfc3bc6152acea4fe3e0b412b3ef6"
+            level="file">
+            <did>
+               <unittitle>Clippings</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_2b1dfc3bc6152acea4fe3e0b412b3ef6_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_2b1dfc3bc6152acea4fe3e0b412b3ef6_c2"
+                          localtype="folder"
+                          parent="aspace_2b1dfc3bc6152acea4fe3e0b412b3ef6_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052385"
+            id="aspace_53041985a3406520c67534c310bd58f3"
+            level="file">
+            <did>
+               <unittitle>Motions: State v. Seale</unittitle>
+               <unitdatestructured altrender="1970-1971" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1970">1970</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_53041985a3406520c67534c310bd58f3_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_53041985a3406520c67534c310bd58f3_c2"
+                          localtype="folder"
+                          parent="aspace_53041985a3406520c67534c310bd58f3_c1">10</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052386"
+            id="aspace_fbe10a2bcd2793d273494982e860438c"
+            level="file">
+            <did>
+               <unittitle>
+                  <title>
+                     <part>Yale Review of Law and Social Action</part>
+                  </title> vol. 1 no.2-3 Winter 1970</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1970">1970</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_fbe10a2bcd2793d273494982e860438c_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_fbe10a2bcd2793d273494982e860438c_c2"
+                          localtype="folder"
+                          parent="aspace_fbe10a2bcd2793d273494982e860438c_c1">11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052387"
+            id="aspace_c87157b017fcd50a1131919e40624a51"
+            level="file">
+            <did>
+               <unittitle>Motions: United States Court of Appeals for the 7th Circuit</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484703"
+                          containerid="39002104529251"
+                          encodinganalog="archive legal"
+                          id="aspace_c87157b017fcd50a1131919e40624a51_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_c87157b017fcd50a1131919e40624a51_c2"
+                          localtype="folder"
+                          parent="aspace_c87157b017fcd50a1131919e40624a51_c1">12</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052388"
+            id="aspace_5da5c76ee1e927557a8f5a23c9125aa8"
+            level="file">
+            <did>
+               <unittitle>Motions: State v. Seale and Huggins</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484704"
+                          containerid="39002104529269"
+                          encodinganalog="archive half legal"
+                          id="aspace_5da5c76ee1e927557a8f5a23c9125aa8_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_5da5c76ee1e927557a8f5a23c9125aa8_c2"
+                          localtype="folder"
+                          parent="aspace_5da5c76ee1e927557a8f5a23c9125aa8_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052389"
+            id="aspace_d26f9ef24b3ec278eec13858c646bd23"
+            level="file">
+            <did>
+               <unittitle>George Sams Jr. psychiatric reports</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1971">1971</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/484704"
+                          containerid="39002104529269"
+                          encodinganalog="archive half legal"
+                          id="aspace_d26f9ef24b3ec278eec13858c646bd23_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_d26f9ef24b3ec278eec13858c646bd23_c2"
+                          localtype="folder"
+                          parent="aspace_d26f9ef24b3ec278eec13858c646bd23_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052390"
+            id="aspace_2a27b37ec02b30d128683a906fce5951"
+            level="file">
+            <did>
+               <unittitle>State v. Butler and Taborsky v. State</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/484704"
+                          containerid="39002104529269"
+                          encodinganalog="archive half legal"
+                          id="aspace_2a27b37ec02b30d128683a906fce5951_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_2a27b37ec02b30d128683a906fce5951_c2"
+                          localtype="folder"
+                          parent="aspace_2a27b37ec02b30d128683a906fce5951_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4052391"
+            id="aspace_1a1332f154e9eb00e1176746224cf38d"
+            level="file">
+            <did>
+               <unittitle>Exhibits: State v. Huggins and Seale</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">circa 1970</unitdate>
+               <container altrender="/repositories/11/top_containers/484705"
+                          containerid="39002098928717"
+                          encodinganalog="flat box (14d 1h 18w)"
+                          id="aspace_1a1332f154e9eb00e1176746224cf38d_c1"
+                          label="Mixed Materials"
+                          localtype="box">6</container>
+               <container id="aspace_1a1332f154e9eb00e1176746224cf38d_c2"
+                          localtype="folder"
+                          parent="aspace_1a1332f154e9eb00e1176746224cf38d_c1">1</container>
+            </did>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

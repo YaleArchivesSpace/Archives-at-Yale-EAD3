@@ -67,10 +67,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-27T23:59:02-04:00</eventdatetime>
+            <eventdatetime>2026-08-24T23:07:38-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 27, 2026 at 23:59</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 24, 2026 at 23:07</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>July 2026</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Updated by Elise Riley to describe multiple March 2026 accessions.</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -212,6 +219,10 @@
                <head>Scope and Contents</head>
                <p>This accession contains articles by and about Bobby Seale, as well as protest leaflets created by the Committee to Defend the Panther 21, the New Haven Panthers, and the New York Committee to Defend the Panthers.</p>
             </scopecontent>
+            <processinfo id="aspace_b0d955ea0d2f0e136e885d8b73068028">
+               <head>Processing Information</head>
+               <p>These materials were separated from ACC #30697 titled, Collection of protest literature: monographs, serials, posters and other ephemera, and cataloged as BEIN 2016 +330. In 2025 these materials were processed into the Black Panther Party Collection.</p>
+            </processinfo>
             <c altrender="/repositories/11/archival_objects/3970609"
                id="aspace_affa19b7b0701377ca16006b9c6cac98"
                level="file">
@@ -798,6 +809,199 @@
                   <head>Scope and Contents</head>
                   <p>Produced by the Panther Defense Information Center Strike Committee, this acrostic describes the goals, mission, and principles of the Black Panther Party.</p>
                </scopecontent>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4046478"
+            id="aspace_c272059ee2e645d36db83212d4451faf"
+            level="series">
+            <did>
+               <unittitle>March 2026 acquisitions</unittitle>
+               <unitid>Series III</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>5.83</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(1 box) + 1 broadside</physdesc>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1967">1967</fromdate>
+                     <todate standarddate="1971">1971</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <acqinfo id="aspace_204bcce31c9107997e330c3ab1467d06">
+               <head>Immediate Source of Acquisition</head>
+               <p>Purchased from Nick Aretakis Americana on the the Walter Jennings Memorial Fund, 2026.</p>
+            </acqinfo>
+            <arrangement id="aspace_657843c04cd1e50659b04dbc79e63392">
+               <head>Arrangement</head>
+               <p>Materials in this series maintain order found at time of acquisition.</p>
+            </arrangement>
+            <scopecontent id="aspace_4f2ece347f9388fb3ec61bab093491da">
+               <head>Scope and Contents</head>
+               <p>This grouping contains posters created by and related to the Black Panther Party.</p>
+            </scopecontent>
+            <c altrender="/repositories/11/archival_objects/4046479"
+               id="aspace_68a09820092b20d063bba18a4054b930"
+               level="file">
+               <did>
+                  <unittitle>Happy Birthday, Huey P. Newton '96, screen printed poster</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1969">1969</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484298"
+                             containerid="39002104529210"
+                             encodinganalog="folder (32d 40w)"
+                             id="aspace_68a09820092b20d063bba18a4054b930_c1"
+                             label="Mixed Materials"
+                             localtype="box">(Broadside) 2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046480"
+               id="aspace_4e7220f77cc8cc6a8f29749b0ae4a133"
+               level="file">
+               <did>
+                  <unittitle>Am I Not a Man and a Brother?, photolithographic poster</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1967">1967</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_4e7220f77cc8cc6a8f29749b0ae4a133_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_4e7220f77cc8cc6a8f29749b0ae4a133_c2"
+                             localtype="folder"
+                             parent="aspace_4e7220f77cc8cc6a8f29749b0ae4a133_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046481"
+               id="aspace_f06ba94ec91ad83fac7f6694977972e4"
+               level="file">
+               <did>
+                  <unittitle>"You Can't Convert a Man… Because You Have Silenced Him" Freedom to All Political Prisoners, poster</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1971">1971</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_f06ba94ec91ad83fac7f6694977972e4_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_f06ba94ec91ad83fac7f6694977972e4_c2"
+                             localtype="folder"
+                             parent="aspace_f06ba94ec91ad83fac7f6694977972e4_c1">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046482"
+               id="aspace_010245c14aa2516af4dbcce695cef8b0"
+               level="file">
+               <did>
+                  <unittitle>Afro-American solidarity with the oppressed People of the world, poster</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1969">1969</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_010245c14aa2516af4dbcce695cef8b0_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_010245c14aa2516af4dbcce695cef8b0_c2"
+                             localtype="folder"
+                             parent="aspace_010245c14aa2516af4dbcce695cef8b0_c1">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046487"
+               id="aspace_dec007967d8052ae7712111a2fb57daf"
+               level="file">
+               <did>
+                  <unittitle>White Brothers and Sisters: The Revolution Wants You! Free the Panther 21, poster</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_dec007967d8052ae7712111a2fb57daf_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_dec007967d8052ae7712111a2fb57daf_c2"
+                             localtype="folder"
+                             parent="aspace_dec007967d8052ae7712111a2fb57daf_c1">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046484"
+               id="aspace_da11b6f9abe6d73dd3b0074d110984be"
+               level="file">
+               <did>
+                  <unittitle>Panthers are Fighting to Free the People! The People Must Fight to Free the Panther 21!, poster</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1970">1970</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_da11b6f9abe6d73dd3b0074d110984be_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_da11b6f9abe6d73dd3b0074d110984be_c2"
+                             localtype="folder"
+                             parent="aspace_da11b6f9abe6d73dd3b0074d110984be_c1">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046485"
+               id="aspace_3d9124b3b3eb2e7dc743ce92ee10f69b"
+               level="file">
+               <did>
+                  <unittitle>Free Bobby, New Haven, Connecticut, poster</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1970">1970</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_3d9124b3b3eb2e7dc743ce92ee10f69b_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_3d9124b3b3eb2e7dc743ce92ee10f69b_c2"
+                             localtype="folder"
+                             parent="aspace_3d9124b3b3eb2e7dc743ce92ee10f69b_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046486"
+               id="aspace_b6e1fbca85a9360b863ab5f21045c72b"
+               level="file">
+               <did>
+                  <unittitle>Here and Now for Bobby Seale, poster</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_b6e1fbca85a9360b863ab5f21045c72b_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_b6e1fbca85a9360b863ab5f21045c72b_c2"
+                             localtype="folder"
+                             parent="aspace_b6e1fbca85a9360b863ab5f21045c72b_c1">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4046483"
+               id="aspace_5dd89280853878590df79c14612df884"
+               level="file">
+               <did>
+                  <unittitle>Move On Over Or We'll Move On Over You, poster</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">circa 1966</unitdate>
+                  <container altrender="/repositories/11/top_containers/484299"
+                             containerid="39002098928709"
+                             encodinganalog="flat box (24d 1h 30w)"
+                             id="aspace_5dd89280853878590df79c14612df884_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_5dd89280853878590df79c14612df884_c2"
+                             localtype="folder"
+                             parent="aspace_5dd89280853878590df79c14612df884_c1">8</container>
+               </did>
             </c>
          </c>
       </dsc>
