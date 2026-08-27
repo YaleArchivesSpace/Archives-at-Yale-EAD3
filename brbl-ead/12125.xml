@@ -41,7 +41,7 @@
                <p>Boxes: 1-6</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="4">4</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="2">2</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-27T23:06:53-04:00</eventdatetime>
+            <eventdatetime>2026-08-26T23:55:06-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday April 27, 2026 at 23:06</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 26, 2026 at 23:55</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -356,35 +356,6 @@ Photographs compiled by Bernice Matsukane were taken in Niles Canyon, Long Beach
                        daotype="unknown"
                        href="https://collections.library.yale.edu/catalog/33551416"
                        identifier="oid:33551416"
-                       linktitle="2 images"
-                       linkrole="text-html"
-                       show="new"/>
-                  <descriptivenote>
-                     <p>Nitrate negatives</p>
-                  </descriptivenote>
-               </daoset>
-               <daoset altrender="/repositories/11/digital_objects/333372">
-                  <dao actuate="onrequest"
-                       audience="external"
-                       daotype="unknown"
-                       href="https://collections.library.yale.edu/manifests/33551704"
-                       identifier="oid:33551704"
-                       linktitle="2 images"
-                       linkrole="text-json"
-                       show="embed"/>
-                  <dao actuate="onrequest"
-                       audience="external"
-                       daotype="unknown"
-                       href="https://collections.library.yale.edu/iiif/2/33551757/full/!150,150/0/default.jpg"
-                       identifier="oid:33551704"
-                       linktitle="2 images"
-                       linkrole="image-thumbnail"
-                       show="embed"/>
-                  <dao actuate="onrequest"
-                       audience="external"
-                       daotype="unknown"
-                       href="https://collections.library.yale.edu/catalog/33551704"
-                       identifier="oid:33551704"
                        linktitle="2 images"
                        linkrole="text-html"
                        show="new"/>

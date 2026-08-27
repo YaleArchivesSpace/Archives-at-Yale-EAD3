@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-22T23:01:53-04:00</eventdatetime>
+            <eventdatetime>2026-08-26T23:51:17-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday July 22, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 26, 2026 at 23:51</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -5391,7 +5391,7 @@
                   id="aspace_951e6174d723d457be99806f6e96c022"
                   level="item">
                   <did>
-                     <unittitle>Audiocassette</unittitle>
+                     <unittitle>Pat speaking</unittitle>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
@@ -5405,6 +5405,9 @@
                                 id="aspace_951e6174d723d457be99806f6e96c022_c1"
                                 label="Mixed Materials"
                                 localtype="box">95</container>
+                     <container id="aspace_951e6174d723d457be99806f6e96c022_c2"
+                                localtype="item_barcode"
+                                parent="aspace_951e6174d723d457be99806f6e96c022_c1">39002140886640</container>
                   </did>
                   <accessrestrict id="aspace_be45097387150356a60e4fb916030a7b"
                                   localtype="RestrictedFragileSpecColl">
