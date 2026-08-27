@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-21T18:01:26-04:00</eventdatetime>
+            <eventdatetime>2026-08-27T18:00:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 21, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 27, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11856,11 +11856,33 @@
                                 localtype="box">49</container>
                      <container id="aspace_d16175df929b7c4b316aaadbad5422c3_c2"
                                 localtype="folder"
-                                parent="aspace_d16175df929b7c4b316aaadbad5422c3_c1">3-4</container>
+                                parent="aspace_d16175df929b7c4b316aaadbad5422c3_c1">3</container>
                   </did>
                   <scopecontent id="aspace_d9d94770a9cc2a381374e456fa4bd098">
                      <head>Scope and Contents</head>
                      <p>Reports.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4054919"
+                  id="aspace_bb5101388d44aa86b26c8507b16fa8cd"
+                  level="file">
+                  <did>
+                     <unittitle>Sallskapet Kristlig Betelskeppsmission </unittitle>
+                     <unitdatestructured altrender="circa 1956" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1956">circa 1956</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/422267 /locations/9"
+                                containerid="39002112326005"
+                                id="aspace_bb5101388d44aa86b26c8507b16fa8cd_c1"
+                                label="Mixed Materials"
+                                localtype="box">49</container>
+                     <container id="aspace_bb5101388d44aa86b26c8507b16fa8cd_c2"
+                                localtype="folder"
+                                parent="aspace_bb5101388d44aa86b26c8507b16fa8cd_c1">4</container>
+                  </did>
+                  <scopecontent id="aspace_c7a89c39a6d67d692eaa8c51c649f8d3">
+                     <head>Scope and Contents</head>
+                     <p>Informational brochure.</p>
                   </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/4003757"
@@ -27417,6 +27439,10 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                                    localtype="folder"
                                    parent="aspace_a2f8a07af866028b0e142dfb09b0cf58_c1">6</container>
                      </did>
+                     <scopecontent id="aspace_5d3bc45e569a4ced73e37f65faae0c7f">
+                        <head>Scope and Contents</head>
+                        <p>Includes address relating to Connecticut Home Missionary Society by William H. Moore.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4052203"
                      id="aspace_ab677b479e6ab8d9a2b14f0a09daa394"

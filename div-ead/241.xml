@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-25T18:01:16-04:00</eventdatetime>
+            <eventdatetime>2026-08-27T18:00:12-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 27, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11875,8 +11875,11 @@
                level="file">
                <did>
                   <unittitle>St. John's Guild</unittitle>
-                  <unitdatestructured altrender="1873" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1873">1873</datesingle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1873">1873</fromdate>
+                        <todate standarddate="1930">1930</todate>
+                     </daterange>
                   </unitdatestructured>
                   <unitdatestructured altrender="1893" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1893">1893</datesingle>
