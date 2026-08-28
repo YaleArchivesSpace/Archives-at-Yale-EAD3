@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-17T18:05:37-04:00</eventdatetime>
+            <eventdatetime>2026-08-28T18:01:22-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday June 17, 2026 at 18:05</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 28, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1101,6 +1101,21 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                <did>
                   <unittitle>Financial records</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4055329"
+                  id="aspace_051eb783f7d62c1abb76037664a866ae"
+                  level="file">
+                  <did>
+                     <unittitle>Trustees' reports, 1937-1941</unittitle>
+                     <container altrender="/repositories/4/top_containers/405018 /locations/2"
+                                containerid="39002138118683"
+                                id="aspace_051eb783f7d62c1abb76037664a866ae_c1"
+                                label="Mixed Materials"
+                                localtype="box">11</container>
+                     <container id="aspace_051eb783f7d62c1abb76037664a866ae_c2"
+                                localtype="folder"
+                                parent="aspace_051eb783f7d62c1abb76037664a866ae_c1">1</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/3794459"
                   id="aspace_a6c4460a9f732aa51159690924bd625c"
                   level="file">
@@ -1113,7 +1128,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">11</container>
                      <container id="aspace_a6c4460a9f732aa51159690924bd625c_c2"
                                 localtype="folder"
-                                parent="aspace_a6c4460a9f732aa51159690924bd625c_c1">1</container>
+                                parent="aspace_a6c4460a9f732aa51159690924bd625c_c1">1A</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624828"
@@ -2984,6 +2999,21 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                      <container id="aspace_d7adf1d874be0ba4842a0aa386fdb4de_c2"
                                 localtype="folder"
                                 parent="aspace_d7adf1d874be0ba4842a0aa386fdb4de_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055073"
+                  id="aspace_1ef6177028b36a0a37f3e7ec40173f13"
+                  level="file">
+                  <did>
+                     <unittitle>Bulletins, 1979 Jan 7-Dec 30</unittitle>
+                     <container altrender="/repositories/4/top_containers/396806"
+                                containerid="39002138114476"
+                                id="aspace_1ef6177028b36a0a37f3e7ec40173f13_c1"
+                                label="Mixed Materials"
+                                localtype="box">9</container>
+                     <container id="aspace_1ef6177028b36a0a37f3e7ec40173f13_c2"
+                                localtype="folder"
+                                parent="aspace_1ef6177028b36a0a37f3e7ec40173f13_c1">1</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3618007"
