@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-22T03:02:52-04:00</eventdatetime>
+            <eventdatetime>2026-08-28T03:00:58-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 22, 2026 at 03:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 28, 2026 at 03:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -234262,10 +234262,16 @@ Nuclear Energy, DOE</unittitle>
                   level="file">
                   <did>
                      <unittitle>Bison Management</unittitle>
+                     <unitid>2025-m-0012_004</unitid>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                        <quantity>2</quantity>
-                        <unittype>CD-Rs</unittype>
+                        <quantity>1</quantity>
+                        <unittype>CD-RW</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>633147882</quantity>
+                        <unittype>bytes</unittype>
+                     </physdescstructured>
+                     <physdesc localtype="container_summary">633.15 Megabytes.</physdesc>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                      <container altrender="/repositories/12/top_containers/412388 /locations/206"
                                 containerid="39002140885097"
@@ -253709,6 +253715,29 @@ Nuclear Energy, DOE</unittitle>
                         <head>Conditions Governing Access</head>
                         <p>Restricted fragile material. Reference copies of electronic files may be requested. Consult Access Services for further information.</p>
                      </accessrestrict>
+                     <c altrender="/repositories/12/archival_objects/4054914"
+                        id="aspace_374b0e85f52a6b838808ed83163422cb"
+                        level="item">
+                        <did>
+                           <unittitle>Clayoquot Symposium Ahousaht 1996</unittitle>
+                           <unitid>2025-m-0012_002</unitid>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>CD-R</unittype>
+                           </physdescstructured>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>117727876</quantity>
+                              <unittype>bytes</unittype>
+                           </physdescstructured>
+                           <physdesc localtype="container_summary">117.73 Megabytes.</physdesc>
+                           <container altrender="/repositories/12/top_containers/412388 /locations/206"
+                                      containerid="39002140885097"
+                                      encodinganalog="archive half legal"
+                                      id="aspace_374b0e85f52a6b838808ed83163422cb_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">1257</container>
+                        </did>
+                     </c>
                   </c>
                </c>
                <c altrender="/repositories/12/archival_objects/3963760"
@@ -254502,6 +254531,29 @@ Nuclear Energy, DOE</unittitle>
                      <head>Conditions Governing Access</head>
                      <p>Box 1257 (born-digital): Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
                   </accessrestrict>
+                  <c altrender="/repositories/12/archival_objects/4054917"
+                     id="aspace_63aed13d76e942683337a7139da95fd9"
+                     level="item">
+                     <did>
+                        <unittitle>2da.parte NRDC</unittitle>
+                        <unitid>2025-m-0012_007</unitid>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>CD-R</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>5502170</quantity>
+                           <unittype>bytes</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">5.5 Megabytes.</physdesc>
+                        <container altrender="/repositories/12/top_containers/412388 /locations/206"
+                                   containerid="39002140885097"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_63aed13d76e942683337a7139da95fd9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1257</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/12/archival_objects/3963801"
                   id="aspace_4c5dc180fa5eed18981e19e191608b22"
@@ -254528,6 +254580,29 @@ Nuclear Energy, DOE</unittitle>
                      <head>Conditions Governing Access</head>
                      <p>Box 1257 (born-digital): Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
                   </accessrestrict>
+                  <c altrender="/repositories/12/archival_objects/4054916"
+                     id="aspace_5a16453c03b0e87f50c4fcdae317f504"
+                     level="item">
+                     <did>
+                        <unittitle>Macaco Moving Mp3 NRDC</unittitle>
+                        <unitid>2025-m-0012_006</unitid>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>CD-R</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1624430</quantity>
+                           <unittype>bytes</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">1.62 Megabytes.</physdesc>
+                        <container altrender="/repositories/12/top_containers/412388 /locations/206"
+                                   containerid="39002140885097"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_5a16453c03b0e87f50c4fcdae317f504_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1257</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/12/archival_objects/3963802"
                   id="aspace_d7d826db846a3fced84b947034620195"
@@ -254553,6 +254628,29 @@ Nuclear Energy, DOE</unittitle>
                      <head>Conditions Governing Access</head>
                      <p>Box 1257 (born-digital): Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
                   </accessrestrict>
+                  <c altrender="/repositories/12/archival_objects/4054915"
+                     id="aspace_7eeeddf8c61f1ed100f74c82271a607a"
+                     level="item">
+                     <did>
+                        <unittitle>Informacion NRDC</unittitle>
+                        <unitid>2025-m-0012_005</unitid>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>CD-R</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>169914121</quantity>
+                           <unittype>bytes</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">169.91 Megabytes.</physdesc>
+                        <container altrender="/repositories/12/top_containers/412388 /locations/206"
+                                   containerid="39002140885097"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_7eeeddf8c61f1ed100f74c82271a607a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1257</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/12/archival_objects/3963803"
                   id="aspace_56ea2b386ec15e325fa078a1d71dc209"
@@ -254583,6 +254681,29 @@ Nuclear Energy, DOE</unittitle>
                      <head>Conditions Governing Access</head>
                      <p>Box 1257 (born-digital): Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
                   </accessrestrict>
+                  <c altrender="/repositories/12/archival_objects/4054918"
+                     id="aspace_879a1a37d7341e17d2a83d2ea7bfe5ed"
+                     level="item">
+                     <did>
+                        <unittitle>Keith Collins Manitoba Govt - Climate Change NRDC Presentation - Oct 26 '04</unittitle>
+                        <unitid>2025-m-0012_008</unitid>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>CD-R</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>28253184</quantity>
+                           <unittype>bytes</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">28.25 Megabytes.</physdesc>
+                        <container altrender="/repositories/12/top_containers/412388 /locations/206"
+                                   containerid="39002140885097"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_879a1a37d7341e17d2a83d2ea7bfe5ed_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1257</container>
+                     </did>
+                  </c>
                </c>
             </c>
             <c altrender="/repositories/12/archival_objects/3963805"
