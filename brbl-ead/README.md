@@ -1984,4 +1984,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.brigham.xml](14005.xml) | beinecke.brigham | WA MSS S-283 | Sarah Bishop Brigham papers | 
  [beinecke.dellenbaugh.xml](14007.xml) | beinecke.dellenbaugh | WA MSS S-2389  | Frederick Samuel Dellenbaugh journal and lantern slides from the Harriman Alaska Expedition | 
  [beinecke.bptrial.xml](14106.xml) | beinecke.bptrial | GEN MSS 2168 | Black Panther Trial records | 
+ [beinecke.aos.xml](14117.xml) | beinecke.aos | GEN MSS 2169 | American Oriental Society archive | 
 

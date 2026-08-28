@@ -64,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-08T23:03:28-04:00</eventdatetime>
+            <eventdatetime>2026-08-27T23:00:16-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday April  8, 2026 at 23:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 27, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -153,10 +153,16 @@
             level="file">
             <did>
                <unittitle>Computer media, flash drive</unittitle>
+               <unitid>2024-genm-0027_001</unitid>
                <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                   <quantity>1</quantity>
                   <unittype>Flash Drive</unittype>
                </physdescstructured>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>5840838243</quantity>
+                  <unittype>bytes</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">5.84 Megabytes.</physdesc>
                <unitdatestructured altrender="1950s-2020s" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1950">1950</fromdate>

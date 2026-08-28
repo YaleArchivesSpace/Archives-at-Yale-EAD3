@@ -39,7 +39,7 @@
                <p>Boxes: 1-21</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="32">32</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="17">17</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-27T23:06:43-04:00</eventdatetime>
+            <eventdatetime>2026-08-27T23:06:32-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday April 27, 2026 at 23:06</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 27, 2026 at 23:06</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1935,35 +1935,6 @@
                            <p>Photographs: L.C. photos of the "3 Bears"</p>
                         </descriptivenote>
                      </daoset>
-                     <daoset altrender="/repositories/11/digital_objects/333364">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33551510"
-                             identifier="oid:33551510"
-                             linktitle="8 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33551543/full/!150,150/0/default.jpg"
-                             identifier="oid:33551510"
-                             linktitle="8 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33551510"
-                             identifier="oid:33551510"
-                             linktitle="8 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Photographs: L.C. photos of the "3 Bears"</p>
-                        </descriptivenote>
-                     </daoset>
                   </did>
                   <separatedmaterial id="aspace_3480d1ebb8738f9cace2c84f5b0486f2">
                      <head>Separated Materials</head>
@@ -2007,35 +1978,6 @@
                              daotype="unknown"
                              href="https://collections.library.yale.edu/catalog/33551290"
                              identifier="oid:33551290"
-                             linktitle="7 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Photographs: Eddy?</p>
-                        </descriptivenote>
-                     </daoset>
-                     <daoset altrender="/repositories/11/digital_objects/333360">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33551516"
-                             identifier="oid:33551516"
-                             linktitle="7 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33551536/full/!150,150/0/default.jpg"
-                             identifier="oid:33551516"
-                             linktitle="7 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33551516"
-                             identifier="oid:33551516"
                              linktitle="7 images"
                              linkrole="text-html"
                              show="new"/>
