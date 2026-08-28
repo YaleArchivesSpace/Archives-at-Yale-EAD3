@@ -33,7 +33,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="32">32</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="35">35</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-26T20:00:19-04:00</eventdatetime>
+            <eventdatetime>2026-08-27T20:01:16-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 26, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 27, 2026 at 20:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -384,6 +384,67 @@
                <controlaccess>
                   <persname relator="ive" rules="rda" source="local_music">
                      <part localtype="agent_person">Beckett, Bill</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4051671"
+            id="aspace_be8de5280f964b19225e4f99cbe40652"
+            level="series">
+            <did>
+               <unittitle>Celli, Joseph</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4049019"
+               id="aspace_63a2096a946cb804293abff79ee2bb9d"
+               level="item">
+               <did>
+                  <unittitle>Celli, Joseph</unittitle>
+                  <unitid>NHM 33 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr">
+                        <part localtype="agent_person">Vees, Jack (1955-)</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">719 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 July 18" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2026-07-18">2026 July 18</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_696c682569389772739f1f384ee8fa9c">71 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/353441">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/k649p2zf15"
+                          identifier="aviary_177967"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/317/315/original/open-uri20260827-399148-f6nih4?1787859592"
+                          identifier="aviary_177967"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] NHM 33 a.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_96b8a3f56e7443f11fdb13d7fb16728c">
+                  <head>Interview location</head>
+                  <p>Torrington, CT</p>
+               </scopecontent>
+               <phystech id="aspace_3ddf2f06b8174567d5ac0408d0d78161">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive" rules="dacs" source="naf">
+                     <part localtype="agent_person">Celli, Joseph</part>
                   </persname>
                </controlaccess>
             </c>
@@ -1494,6 +1555,69 @@
                </controlaccess>
             </c>
          </c>
+         <c altrender="/repositories/7/archival_objects/4054912"
+            id="aspace_78ba56b082633f23b77f16b77be3b194"
+            level="series">
+            <did>
+               <unittitle>Morris, Joe</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4054913"
+               id="aspace_290335cbb5f32d8f357845292e4fc023"
+               level="item">
+               <did>
+                  <unittitle>Morris, Joe</unittitle>
+                  <unitid>NHM 34 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Celli, Joseph</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">271 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 August 12"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2026-08-12">2026 August 12</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_81d525e593297be4157a43161c6efaef">Approximate running time: 118 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/353439">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/2f7jq0vr55"
+                          identifier="aviary_177955"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/317/302/original/open-uri20260827-399148-94m4t9?1787858902"
+                          identifier="aviary_177955"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] NHM 34 a.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_eac1ca70b678b69e3c3f36f1b21bc9c1">
+                  <head>Interview location</head>
+                  <p>Bridgeport, CT</p>
+               </scopecontent>
+               <phystech id="aspace_157d1fea3bcb8c49c9e404c705216ebb">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Morris, Joe, 1955-</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
          <c altrender="/repositories/7/archival_objects/3956396"
             id="aspace_e93ff4000de84936b79037af5878db19"
             level="series">
@@ -2096,6 +2220,69 @@
                <controlaccess>
                   <persname relator="ive" rules="rda" source="local_music">
                      <part localtype="agent_person">Valauskas, Shellye </part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4054910"
+            id="aspace_ecce3b59d0504d25987114f82bac3c7e"
+            level="series">
+            <did>
+               <unittitle>Wolf, Tim</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4054911"
+               id="aspace_4c8ff18ac0679fe95dd9cd42b6a75ba1"
+               level="item">
+               <did>
+                  <unittitle>Wolf, Tim</unittitle>
+                  <unitid>NHM 35 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr">
+                        <part localtype="agent_person">Vees, Jack (1955-)</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">849 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 August 17"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2026-08-17">2026 August 17</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_ec32d98aa1835d956bf30cca77c243e9">Approximate running time: 84 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/353440">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/1n7xk86k52"
+                          identifier="aviary_177957"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/317/304/original/open-uri20260827-399148-rhp2bq?1787858951"
+                          identifier="aviary_177957"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] NHM 35 a.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_17d5dfc7a66fd02c89b490a175400370">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav file</p>
+               </phystech>
+               <scopecontent id="aspace_9fd0b121d72a791c49955c094785b073">
+                  <head>Interview location: </head>
+                  <p>Bloomfield, CT</p>
+               </scopecontent>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Wolf, Tim</part>
                   </persname>
                </controlaccess>
             </c>

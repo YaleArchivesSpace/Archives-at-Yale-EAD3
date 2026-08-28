@@ -40,7 +40,7 @@
                <p>Boxes: 39002038321791, 39002038324183</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1392">1,392</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="1393">1,393</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-26T20:00:24-04:00</eventdatetime>
+            <eventdatetime>2026-08-27T20:00:13-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 26, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 27, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -21135,6 +21135,62 @@
                   <head>Conditions Governing Access</head>
                   <p>This material is restricted. Access may be granted to a patron who has obtained direct permission from the interviewee or their estate.</p>
                </accessrestrict>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Dodge, Charles, 1942-</part>
+                  </persname>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/7/archival_objects/4054909"
+               id="aspace_cd1e9eea6d1c02af0fec4bfecea1d0c5"
+               level="file">
+               <did>
+                  <unittitle>Dodge, Charles</unittitle>
+                  <unitid>OHV 205 u</unitid>
+                  <origination label="Creator">
+                     <persname rules="dacs" source="naf">
+                        <part localtype="agent_person">Duffie, Bruce</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">31.9 megabytes</physdesc>
+                  <unitdatestructured altrender="1991 December 9"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="1991-12-09">1991 December 9</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_a62c23aa573fa35bb20c51e3fdbb40f7">Approximate running time: 28 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/353437">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/rj48p5xn9d"
+                          identifier="aviary_177946"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/317/293/original/open-uri20260827-399148-4c2bhi?1787858401"
+                          identifier="aviary_177946"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 205 u.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <phystech id="aspace_1201538b9ba3c8c8b4f28d5bbce8d79b">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_6547e9e2-7ccb-462a-920c-5e1f1e1be36b">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;6547e9e2-7ccb-462a-920c-5e1f1e1be36b</p>
+               </otherfindaid>
                <controlaccess>
                   <persname relator="ive">
                      <part localtype="agent_person">Dodge, Charles, 1942-</part>
