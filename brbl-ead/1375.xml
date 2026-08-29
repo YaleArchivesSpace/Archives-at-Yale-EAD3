@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-13T23:01:42-04:00</eventdatetime>
+            <eventdatetime>2026-08-28T23:02:05-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday April 13, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 28, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -931,27 +931,6 @@
                            <p>Group portrait of Asian American attendees of the Western Federation of Buddhist Sunday School Teachers League Conference in front of the Lodi Buddhist Church in Lodi, California</p>
                         </descriptivenote>
                      </daoset>
-                     <daoset altrender="/repositories/11/digital_objects/331118">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
-                             identifier="oid:33497950"
-                             linktitle="5 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33497950"
-                             identifier="oid:33497950"
-                             linktitle="5 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Group portrait of Asian American attendees of the Western Federation of Buddhist Sunday School Teachers League Conference in front of the Lodi Buddhist Church in Lodi, California</p>
-                        </descriptivenote>
-                     </daoset>
                   </did>
                   <scopecontent id="aspace_200f1022d4f04bf5d3f6b13a3d1d5e6e">
                      <head>Scope and Contents</head>
@@ -991,6 +970,27 @@
                                 id="aspace_ref93_c1"
                                 label="Mixed Materials"
                                 localtype="box">2</container>
+                     <daoset altrender="/repositories/11/digital_objects/331118">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33497950"
+                             linktitle="5 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33497950"
+                             identifier="oid:33497950"
+                             linktitle="5 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Studio portrait of an Asian American woman and Asian American man</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_b3043f58de33f4611c3b1a9a8847578c">
                      <head>Scope and Contents</head>
