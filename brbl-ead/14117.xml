@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-28T23:01:02-04:00</eventdatetime>
+            <eventdatetime>2026-08-31T23:00:47-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 28, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 31, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -226,6 +226,15 @@
          </corpname>
          <persname rules="aacr">
             <part localtype="agent_person">Bloomfield, Maurice, 1855-1928</part>
+         </persname>
+         <persname>
+            <part localtype="agent_person">Ogden, Charles J. (Charles Jones), 1880-</part>
+         </persname>
+         <persname>
+            <part localtype="agent_person">Clay, Albert T. (Albert Tobias), 1866-1925</part>
+         </persname>
+         <persname rules="aacr">
+            <part localtype="agent_person">Salisbury, Edward Elbridge, 1814-1901</part>
          </persname>
          <persname rules="aacr">
             <part localtype="agent_person">Archer, John Clark, 1881-1957</part>
