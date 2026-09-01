@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-07-28T18:00:34-04:00</eventdatetime>
+            <eventdatetime>2026-09-01T18:01:35-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 28, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4433,9 +4433,12 @@
                id="ref264"
                level="file">
                <did>
-                  <unittitle>Membership lists (by country, zip code, alphabetical by last name)</unittitle>
-                  <unitdatestructured altrender="2001" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="2001">2001</datesingle>
+                  <unittitle>Membership lists (by country, zip code, alphabetical by last name); membership demographics information</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1999">1999</fromdate>
+                        <todate standarddate="2001">2001</todate>
+                     </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/11512 /locations/9"
                              containerid="39002084396143"

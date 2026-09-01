@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-31T18:00:53-04:00</eventdatetime>
+            <eventdatetime>2026-09-01T18:01:45-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 31, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1818,6 +1818,21 @@
                                 id="aspace_ref128_c1"
                                 label="Mixed Materials"
                                 localtype="box">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/97180"
+                  id="ref457"
+                  level="file">
+                  <did>
+                     <unittitle>Whitneyville Church</unittitle>
+                     <unitdatestructured altrender="1877" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1877">1877</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/328252 /locations/9"
+                                containerid="39002053409778"
+                                id="aspace_ref457_c1"
+                                label="Mixed Materials"
+                                localtype="box">55</container>
                   </did>
                </c>
             </c>
@@ -5539,7 +5554,7 @@
                   id="ref352"
                   level="file">
                   <did>
-                     <unittitle>First Church</unittitle>
+                     <unittitle>First Church, Old Lyme, Connecticut</unittitle>
                      <unitdatestructured altrender="1884-1910" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1884">1884</fromdate>
@@ -5564,7 +5579,7 @@
                   id="ref354"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Old Saybrook, Connecticut</unittitle>
                      <unitdatestructured altrender="1885" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1885">1885</datesingle>
                      </unitdatestructured>
@@ -5586,7 +5601,7 @@
                   id="ref356"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Plymouth, Connecticut</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1939">1939</fromdate>
@@ -5615,7 +5630,7 @@
                   id="aspace_f982181f5e244a3805fd86c60ff344d7"
                   level="file">
                   <did>
-                     <unittitle>St. Matthew's Church, Episcopal</unittitle>
+                     <unittitle>St. Matthew's Church, Episcopal, Plymouth, Connecticut</unittitle>
                      <unitdatestructured altrender="1909, n.d." label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1909">1909, n.d.</datesingle>
                      </unitdatestructured>
@@ -5637,7 +5652,7 @@
                   id="ref358"
                   level="file">
                   <did>
-                     <unittitle>First Church of Christ</unittitle>
+                     <unittitle>First Church of Christ, Pomfret, Connecticut</unittitle>
                      <unitdatestructured altrender="1865" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1865">1865</datesingle>
                      </unitdatestructured>
@@ -5659,7 +5674,7 @@
                   id="ref360"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Preston, Connecticut</unittitle>
                      <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1900">1900</datesingle>
                      </unitdatestructured>
@@ -5674,7 +5689,7 @@
                   id="ref361"
                   level="file">
                   <did>
-                     <unittitle>Second Congregational Church</unittitle>
+                     <unittitle>Second Congregational Church, Preston, Connecticut</unittitle>
                      <unitdatestructured altrender="1889" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1889">1889</datesingle>
                      </unitdatestructured>
@@ -5696,7 +5711,7 @@
                   id="ref363"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Prospect, Connecticut</unittitle>
                      <unitdatestructured altrender="1898, 1908" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1898">1898</fromdate>
@@ -5721,7 +5736,7 @@
                   id="ref365"
                   level="file">
                   <did>
-                     <unittitle>First Church of Christ Congregational</unittitle>
+                     <unittitle>First Church of Christ Congregational, Redding, Connecticut</unittitle>
                      <unitdatestructured altrender="1882" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1882">1882</datesingle>
                      </unitdatestructured>
@@ -5743,7 +5758,7 @@
                   id="ref367"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Ridgefield, Connecticut</unittitle>
                      <unitdatestructured altrender="1882,1962, 1987, 1988"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -5770,7 +5785,7 @@
                   id="ref369"
                   level="file">
                   <did>
-                     <unittitle>Union Congregational Church of Christ</unittitle>
+                     <unittitle>Union Congregational Church of Christ, Rockville, Connecticut</unittitle>
                      <unitdatestructured altrender="1907" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1907">1907</datesingle>
                      </unitdatestructured>
@@ -5793,7 +5808,7 @@
                   id="aspace_2bbfe01822866dac08d5dcbd626b0940"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Salisbury, Connecticut</unittitle>
                   </did>
                   <c altrender="/repositories/4/archival_objects/97095"
                      id="ref372"
@@ -5861,7 +5876,7 @@
                   id="ref374"
                   level="file">
                   <did>
-                     <unittitle>St. John's Church</unittitle>
+                     <unittitle>St. John's Church, Salisbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1941" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1941">1941</datesingle>
                      </unitdatestructured>
@@ -5883,7 +5898,7 @@
                   id="ref376"
                   level="file">
                   <did>
-                     <unittitle>Deep River Baptist Church</unittitle>
+                     <unittitle>Deep River Baptist Church, Saybrook, Connecticut</unittitle>
                      <unitdatestructured altrender="1870" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1870">1870</datesingle>
                      </unitdatestructured>
@@ -5899,7 +5914,7 @@
                   id="ref377"
                   level="file">
                   <did>
-                     <unittitle>First Church of Christ</unittitle>
+                     <unittitle>First Church of Christ, Saybrook, Connecticut</unittitle>
                      <unitdatestructured altrender="1961" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1961">1961</datesingle>
                      </unitdatestructured>
@@ -5921,7 +5936,7 @@
                   id="ref379"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Seymour, Connecticut</unittitle>
                      <unitdatestructured altrender="1883-1899" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1883">1883</fromdate>
@@ -5939,7 +5954,7 @@
                   id="ref380"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Seymour, Connecticut</unittitle>
                      <unitdatestructured altrender="1900-1922" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1900">1900</fromdate>
@@ -5958,7 +5973,7 @@
                   id="ref381"
                   level="file">
                   <did>
-                     <unittitle>Methodist Episcopal Church</unittitle>
+                     <unittitle>Methodist Episcopal Church, Seymour, Connecticut</unittitle>
                      <unitdatestructured altrender="1892, 1895" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1892">1892</fromdate>
@@ -5977,7 +5992,7 @@
                   id="ref382"
                   level="file">
                   <did>
-                     <unittitle>Trinity Church</unittitle>
+                     <unittitle>Trinity Church, Seymour, Connecticut</unittitle>
                      <unitdatestructured altrender="1894-1895" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1894">1894</fromdate>
@@ -6003,7 +6018,7 @@
                   id="ref384"
                   level="file">
                   <did>
-                     <unittitle>Christ Church</unittitle>
+                     <unittitle>Christ Church, Sharon, Connecticut</unittitle>
                      <unitdatestructured altrender="1909" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1909">1909</datesingle>
                      </unitdatestructured>
@@ -6026,7 +6041,7 @@
                   id="ref386"
                   level="file">
                   <did>
-                     <unittitle>Church of the Good Shepherd</unittitle>
+                     <unittitle>Church of the Good Shepherd, Shelton, Connecticut</unittitle>
                      <unitdatestructured altrender="1870" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1870">1870</datesingle>
                      </unitdatestructured>
@@ -6048,7 +6063,7 @@
                   id="ref388"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, South Norwalk, Connecticut</unittitle>
                      <unitdatestructured altrender="1897" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1897">1897</datesingle>
                      </unitdatestructured>
@@ -6070,7 +6085,7 @@
                   id="ref390"
                   level="file">
                   <did>
-                     <unittitle>Wapping Congregational Church</unittitle>
+                     <unittitle>Wapping Congregational Church, South Windsor, Connecticut</unittitle>
                      <unitdatestructured altrender="1902" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1902">1902</datesingle>
                      </unitdatestructured>
@@ -6092,7 +6107,7 @@
                   id="ref392"
                   level="file">
                   <did>
-                     <unittitle>Baptist Church</unittitle>
+                     <unittitle>Baptist Church, Southington, Connecticut</unittitle>
                      <unitdatestructured altrender="1873" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1873">1873</datesingle>
                      </unitdatestructured>
@@ -6107,7 +6122,7 @@
                   id="ref393"
                   level="file">
                   <did>
-                     <unittitle>First Church</unittitle>
+                     <unittitle>First Church, Southington, Connecticut</unittitle>
                      <unitdatestructured altrender="1780-1828" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1780">1780</fromdate>
@@ -6125,7 +6140,7 @@
                   id="ref394"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Southington, Connecticut</unittitle>
                      <unitdatestructured altrender="1864" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1864">1864</datesingle>
                      </unitdatestructured>
@@ -6147,7 +6162,7 @@
                   id="ref396"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Stafford, Connecticut</unittitle>
                      <unitdatestructured altrender="1877" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1877">1877</datesingle>
                      </unitdatestructured>
@@ -6169,7 +6184,7 @@
                   id="ref398"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Stamford, Connecticut</unittitle>
                      <unitdatestructured altrender="1840-1935, 1985"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -6197,7 +6212,7 @@
                   id="ref400"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Stonington, Connecticut</unittitle>
                      <unitdatestructured altrender="1862, 1874" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1862">1862</fromdate>
@@ -6215,7 +6230,7 @@
                   id="ref401"
                   level="file">
                   <did>
-                     <unittitle>Second Congregational Church</unittitle>
+                     <unittitle>Second Congregational Church, Stonington, Connecticut</unittitle>
                      <unitdatestructured altrender="1835-1884" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1835">1835</fromdate>
@@ -6240,7 +6255,7 @@
                   id="ref403"
                   level="file">
                   <did>
-                     <unittitle>Christ Church</unittitle>
+                     <unittitle>Christ Church, Stratford, Connecticut</unittitle>
                      <unitdatestructured altrender="1864-1939" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1864">1864</fromdate>
@@ -6258,7 +6273,7 @@
                   id="ref404"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Stratford, Connecticut</unittitle>
                      <unitdatestructured altrender="1881-1903" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1881">1881</fromdate>
@@ -6276,7 +6291,7 @@
                   id="ref405"
                   level="file">
                   <did>
-                     <unittitle>First Ecclesiastical Society</unittitle>
+                     <unittitle>First Ecclesiastical Society, Stratford, Connecticut</unittitle>
                      <unitdatestructured altrender="1885" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1885">1885</datesingle>
                      </unitdatestructured>
@@ -6298,7 +6313,7 @@
                   id="ref407"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Suffield, Connecticut</unittitle>
                      <unitdatestructured altrender="1858, 1869" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1858">1858</fromdate>
@@ -6316,7 +6331,7 @@
                   id="ref408"
                   level="file">
                   <did>
-                     <unittitle>Second Baptist Church</unittitle>
+                     <unittitle>Second Baptist Church, Suffield, Connecticut</unittitle>
                      <unitdatestructured altrender="1905" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1905">1905</datesingle>
                      </unitdatestructured>
@@ -6338,7 +6353,7 @@
                   id="ref410"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Terryville, Connecticut</unittitle>
                      <unitdatestructured altrender="1925, 1938" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1925">1925</fromdate>
@@ -6372,7 +6387,7 @@
                   id="ref412"
                   level="file">
                   <did>
-                     <unittitle>Church of Christ</unittitle>
+                     <unittitle>Church of Christ, Thompson, Connecticut</unittitle>
                      <unitdatestructured altrender="1826" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1826">1826</datesingle>
                      </unitdatestructured>
@@ -6394,7 +6409,7 @@
                   id="ref414"
                   level="file">
                   <did>
-                     <unittitle>Center Congregational Church (also known as Third Congregational or First Church of Christ)</unittitle>
+                     <unittitle>Center Congregational Church (also known as Third Congregational or First Church of Christ), Torrington, Connecticut</unittitle>
                      <unitdatestructured altrender="1876-1900" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1876">1876</fromdate>
@@ -6412,7 +6427,7 @@
                   id="ref415"
                   level="file">
                   <did>
-                     <unittitle>Methodist Episcopal Church</unittitle>
+                     <unittitle>Methodist Episcopal Church, Torrington, Connecticut</unittitle>
                      <unitdatestructured altrender="1884" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1884">1884</datesingle>
                      </unitdatestructured>
@@ -6427,7 +6442,7 @@
                   id="ref416"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Torrington, Connecticut</unittitle>
                      <unitdatestructured altrender="1869" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1869">1869</datesingle>
                      </unitdatestructured>
@@ -6442,7 +6457,7 @@
                   id="ref417"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Torrington, Connecticut</unittitle>
                      <unitdatestructured altrender="1880" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1880">1880</datesingle>
                      </unitdatestructured>
@@ -6464,7 +6479,7 @@
                   id="aspace_8875ea8921572333d37a3775a3154197"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Trumbull, Connecticut</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1880">1880</datesingle>
                      </unitdatestructured>
@@ -6486,7 +6501,7 @@
                   id="aspace_681a4d0c78657a5251e8a270e0cfb415"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Vernon, Connecticut</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1903">1903</datesingle>
                      </unitdatestructured>
@@ -6511,7 +6526,7 @@
                   id="ref420"
                   level="file">
                   <did>
-                     <unittitle>Church at Vernon Center</unittitle>
+                     <unittitle>Church at Vernon Center, Vernon Center, Connecticut</unittitle>
                      <unitdatestructured altrender="1827" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1827">1827</datesingle>
                      </unitdatestructured>
@@ -6533,7 +6548,7 @@
                   id="ref422"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Wallingford, Connecticut</unittitle>
                      <unitdatestructured altrender="1759, 1878" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1759">1759</fromdate>
@@ -6551,7 +6566,7 @@
                   id="ref423"
                   level="file">
                   <did>
-                     <unittitle>St. Paul's Episcopal Church</unittitle>
+                     <unittitle>St. Paul's Episcopal Church, Wallingford, Connecticut</unittitle>
                      <unitdatestructured altrender="1894-1941" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1894">1894</fromdate>
@@ -6577,7 +6592,7 @@
                   id="ref425"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Washington, Connecticut</unittitle>
                      <unitdatestructured altrender="1880, 1895-1910, 1941"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -6604,7 +6619,7 @@
                   id="ref427"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Waterbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1875-1910, 1991, undated"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -6625,7 +6640,7 @@
                   id="ref428"
                   level="file">
                   <did>
-                     <unittitle>First Church</unittitle>
+                     <unittitle>First Church, Waterbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1903">1903</datesingle>
                      </unitdatestructured>
@@ -6640,7 +6655,7 @@
                   id="ref429"
                   level="file">
                   <did>
-                     <unittitle>St. John's Church</unittitle>
+                     <unittitle>St. John's Church, Waterbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1854-1907" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1854">1854</fromdate>
@@ -6658,7 +6673,7 @@
                   id="ref430"
                   level="file">
                   <did>
-                     <unittitle>Second Congregational Church</unittitle>
+                     <unittitle>Second Congregational Church, Waterbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1905, 1927" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1905">1905</fromdate>
@@ -6676,7 +6691,7 @@
                   id="ref431"
                   level="file">
                   <did>
-                     <unittitle>Third Church</unittitle>
+                     <unittitle>Third Church, Waterbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1893" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1893">1893</datesingle>
                      </unitdatestructured>
@@ -6699,7 +6714,7 @@
                   id="ref433"
                   level="file">
                   <did>
-                     <unittitle>Christ Church</unittitle>
+                     <unittitle>Christ Church, Watertown, Connecticut</unittitle>
                      <unitdatestructured altrender="1890, 1917" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1890">1890</fromdate>
@@ -6718,7 +6733,7 @@
                   id="ref434"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Watertown, Connecticut</unittitle>
                      <unitdatestructured altrender="1890" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1890">1890</datesingle>
                      </unitdatestructured>
@@ -6741,7 +6756,7 @@
                   id="ref436"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, West Hartford, Connecticut</unittitle>
                      <unitdatestructured altrender="1863" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1863">1863</datesingle>
                      </unitdatestructured>
@@ -6763,7 +6778,7 @@
                   id="ref438"
                   level="file">
                   <did>
-                     <unittitle>Christ Church</unittitle>
+                     <unittitle>Christ Church, West Haven, Connecticut</unittitle>
                      <unitdatestructured altrender="1839, 1872-1888, undated"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -6783,7 +6798,7 @@
                   id="aspace_0e583f45ce55daa9ded30a5531b2a63e"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, West Haven, Connecticut</unittitle>
                   </did>
                   <c altrender="/repositories/4/archival_objects/97163"
                      id="ref440"
@@ -6826,7 +6841,7 @@
                   id="ref441"
                   level="file">
                   <did>
-                     <unittitle>First Methodist Episcopal Church</unittitle>
+                     <unittitle>First Methodist Episcopal Church, West Haven, Connecticut</unittitle>
                      <unitdatestructured altrender="1916" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1916">1916</datesingle>
                      </unitdatestructured>
@@ -6841,7 +6856,7 @@
                   id="ref442"
                   level="file">
                   <did>
-                     <unittitle>St. Paul's Church</unittitle>
+                     <unittitle>St. Paul's Church, West Haven, Connecticut</unittitle>
                      <unitdatestructured altrender="1940" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1940">1940</datesingle>
                      </unitdatestructured>
@@ -6864,7 +6879,7 @@
                   id="ref444"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Westbrook, Connecticut</unittitle>
                      <unitdatestructured altrender="1876, 1894, 1976"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -6892,7 +6907,7 @@
                   id="ref446"
                   level="file">
                   <did>
-                     <unittitle>Norfield Congregational Church</unittitle>
+                     <unittitle>Norfield Congregational Church, Weston, Connecticut</unittitle>
                      <unitdatestructured altrender="1898" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1898">1898</datesingle>
                      </unitdatestructured>
@@ -6915,7 +6930,7 @@
                   id="ref448"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Westport, Connecticut</unittitle>
                      <unitdatestructured altrender="1883" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1883">1883</datesingle>
                      </unitdatestructured>
@@ -6930,7 +6945,7 @@
                   id="ref449"
                   level="file">
                   <did>
-                     <unittitle>Saugatuck Congregational Church</unittitle>
+                     <unittitle>Saugatuck Congregational Church, Westport, Connecticut</unittitle>
                      <unitdatestructured altrender="1907" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1907">1907</datesingle>
                      </unitdatestructured>
@@ -6952,7 +6967,7 @@
                   id="ref451"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Westville, Connecticut</unittitle>
                      <unitdatestructured altrender="1886" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1886">1886</datesingle>
                      </unitdatestructured>
@@ -6975,7 +6990,7 @@
                   id="ref453"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Wethersfield, Connecticut</unittitle>
                      <unitdatestructured altrender="1911-1935" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1911">1911</fromdate>
@@ -6993,7 +7008,7 @@
                   id="ref454"
                   level="file">
                   <did>
-                     <unittitle>First Church of Christ</unittitle>
+                     <unittitle>First Church of Christ, Wethersfield, Connecticut</unittitle>
                      <unitdatestructured altrender="1968-1969" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1968">1968</fromdate>
@@ -7011,7 +7026,7 @@
                   id="ref455"
                   level="file">
                   <did>
-                     <unittitle>Wethersfield Methodist Episcopal Church</unittitle>
+                     <unittitle>Wethersfield Methodist Episcopal Church, Wethersfield, Connecticut</unittitle>
                      <unitdatestructured altrender="1882" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1882">1882</datesingle>
                      </unitdatestructured>
@@ -7020,28 +7035,6 @@
                                 id="aspace_ref455_c1"
                                 label="Mixed Materials"
                                 localtype="box">35</container>
-                  </did>
-               </c>
-            </c>
-            <c altrender="/repositories/4/archival_objects/97179"
-               id="ref456"
-               level="subseries">
-               <did>
-                  <unittitle>Whitneyville</unittitle>
-               </did>
-               <c altrender="/repositories/4/archival_objects/97180"
-                  id="ref457"
-                  level="file">
-                  <did>
-                     <unittitle>Whitneyville Church</unittitle>
-                     <unitdatestructured altrender="1877" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1877">1877</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/328252 /locations/9"
-                                containerid="39002053409778"
-                                id="aspace_ref457_c1"
-                                label="Mixed Materials"
-                                localtype="box">55</container>
                   </did>
                </c>
             </c>
@@ -7055,7 +7048,7 @@
                   id="ref459"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Willington, Connecticut</unittitle>
                      <unitdatestructured altrender="1875" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1875">1875</datesingle>
                      </unitdatestructured>
@@ -7077,7 +7070,7 @@
                   id="ref461"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Windham, Connecticut</unittitle>
                      <unitdatestructured altrender="1900" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1900">1900</datesingle>
                      </unitdatestructured>
@@ -7099,7 +7092,7 @@
                   id="ref463"
                   level="file">
                   <did>
-                     <unittitle>First Church</unittitle>
+                     <unittitle>First Church, Windsor, Connecticut</unittitle>
                      <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1930">1930</datesingle>
                      </unitdatestructured>
@@ -7121,7 +7114,7 @@
                   id="ref465"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Winsted, Connecticut</unittitle>
                      <unitdatestructured altrender="1844, 1897" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1844">1844</fromdate>
@@ -7139,7 +7132,7 @@
                   id="ref466"
                   level="file">
                   <did>
-                     <unittitle>Second Congregational Church</unittitle>
+                     <unittitle>Second Congregational Church, Winsted, Connecticut</unittitle>
                      <unitdatestructured altrender="1883-1899" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1883">1883</fromdate>
@@ -7157,7 +7150,7 @@
                   id="ref467"
                   level="file">
                   <did>
-                     <unittitle>Second Congregational Church</unittitle>
+                     <unittitle>Second Congregational Church, Winsted, Connecticut</unittitle>
                      <unitdatestructured altrender="1900-1912" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1900">1900</fromdate>
@@ -7182,7 +7175,7 @@
                   id="ref469"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Wolcottville, Connecticut</unittitle>
                      <unitdatestructured altrender="1876" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1876">1876</datesingle>
                      </unitdatestructured>
@@ -7204,7 +7197,7 @@
                   id="ref471"
                   level="file">
                   <did>
-                     <unittitle>First Church of Christ Congregational</unittitle>
+                     <unittitle>First Church of Christ Congregational, Woodbridge, Connecticut</unittitle>
                      <unitdatestructured altrender="1915, 1916, 1963"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -7231,7 +7224,7 @@
                   id="ref473"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Woodbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1870, 1889" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1870">1870</fromdate>
@@ -7250,7 +7243,7 @@
                   id="ref474"
                   level="file">
                   <did>
-                     <unittitle>Methodist Church</unittitle>
+                     <unittitle>Methodist Church, Woodbury, Connecticut</unittitle>
                      <unitdatestructured altrender="1940" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1940">1940</datesingle>
                      </unitdatestructured>
@@ -7272,7 +7265,7 @@
                   id="ref476"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Woodstock, Connecticut</unittitle>
                      <unitdatestructured altrender="1940, undated" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1940">1940, undated</datesingle>
                      </unitdatestructured>
@@ -7297,13 +7290,13 @@
                id="ref478"
                level="subseries">
                <did>
-                  <unittitle>Augusta, Maine</unittitle>
+                  <unittitle>Augusta</unittitle>
                </did>
                <c altrender="/repositories/4/archival_objects/97202"
                   id="ref479"
                   level="file">
                   <did>
-                     <unittitle>South Parish Congregational Church</unittitle>
+                     <unittitle>South Parish Congregational Church, Augusta, Maine</unittitle>
                      <unitdatestructured altrender="1944" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1944">1944</datesingle>
                      </unitdatestructured>
@@ -7325,7 +7318,7 @@
                   id="ref481"
                   level="file">
                   <did>
-                     <unittitle>Central Congregational Church</unittitle>
+                     <unittitle>Central Congregational Church, Bangor, Maine</unittitle>
                      <unitdatestructured altrender="1857" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1857">1857</datesingle>
                      </unitdatestructured>
@@ -7340,7 +7333,7 @@
                   id="ref482"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Bangor, Maine</unittitle>
                      <unitdatestructured altrender="1856" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1856">1856</datesingle>
                      </unitdatestructured>
@@ -7355,7 +7348,7 @@
                   id="ref483"
                   level="file">
                   <did>
-                     <unittitle>Hammond Street Church</unittitle>
+                     <unittitle>Hammond Street Church, Bangor, Maine</unittitle>
                      <unitdatestructured altrender="1908, 1912" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1908">1908</fromdate>
@@ -7380,7 +7373,7 @@
                   id="ref485"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Bath, Maine</unittitle>
                      <unitdatestructured altrender="1836" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1836">1836</datesingle>
                      </unitdatestructured>
@@ -7395,7 +7388,7 @@
                   id="ref486"
                   level="file">
                   <did>
-                     <unittitle>Winter Street Church</unittitle>
+                     <unittitle>Winter Street Church, Bath, Maine</unittitle>
                      <unitdatestructured altrender="1863, 1895" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1863">1863</fromdate>
@@ -7421,7 +7414,7 @@
                   id="ref488"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Belfast, Maine</unittitle>
                      <unitdatestructured altrender="1831, 1843" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1831">1831</fromdate>
@@ -7446,7 +7439,7 @@
                   id="ref490"
                   level="file">
                   <did>
-                     <unittitle>Pavilion Church</unittitle>
+                     <unittitle>Pavilion Church, Biddeford, Maine</unittitle>
                      <unitdatestructured altrender="1884" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1884">1884</datesingle>
                      </unitdatestructured>
@@ -7468,7 +7461,7 @@
                   id="aspace_6c120327c1c260e4341ef8bc83501a33"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church of Sedgwick</unittitle>
+                     <unittitle>First Congregational Church of Sedgwick, Brooksville, Maine</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1849">1849</datesingle>
                      </unitdatestructured>
@@ -7493,7 +7486,7 @@
                   id="ref492"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Brunswick, Maine</unittitle>
                      <unitdatestructured altrender="1872, 1909" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1872">1872</fromdate>
@@ -7518,7 +7511,7 @@
                   id="ref494"
                   level="file">
                   <did>
-                     <unittitle>Church of Christ</unittitle>
+                     <unittitle>Church of Christ, Buxton, Maine</unittitle>
                      <unitdatestructured altrender="1868" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1868">1868</datesingle>
                      </unitdatestructured>
@@ -7541,7 +7534,7 @@
                   id="ref496"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Cape Elizabeth, Maine</unittitle>
                      <unitdatestructured altrender="1907, 1909" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1907">1907</fromdate>
@@ -7566,7 +7559,7 @@
                   id="aspace_848474001cdbafcf977d849072eec3cc"
                   level="file">
                   <did>
-                     <unittitle>First Baptist Church</unittitle>
+                     <unittitle>First Baptist Church, Cushing, Maine</unittitle>
                      <unitdatestructured altrender="circa 1793" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1793">circa 1793</datesingle>
                      </unitdatestructured>
@@ -7591,7 +7584,7 @@
                   id="ref498"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, East Brewer, Maine</unittitle>
                      <unitdatestructured altrender="1835" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1835">1835</datesingle>
                      </unitdatestructured>
@@ -7613,7 +7606,7 @@
                   id="aspace_9b3fb15ad730f0b5c8dd5f4e152a7bc7"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Ellsworth, Maine</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1886">1886</datesingle>
                      </unitdatestructured>
@@ -7638,7 +7631,7 @@
                   id="ref500"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Gardiner, Maine</unittitle>
                      <unitdatestructured altrender="1885" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1885">1885</datesingle>
                      </unitdatestructured>
@@ -7660,7 +7653,7 @@
                   id="ref502"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Gorham, Maine</unittitle>
                      <unitdatestructured altrender="1849, 1879, 1886"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -7687,7 +7680,7 @@
                   id="ref504"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Harpswell, Maine</unittitle>
                      <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1903">1903</datesingle>
                      </unitdatestructured>
@@ -7709,7 +7702,7 @@
                   id="ref506"
                   level="file">
                   <did>
-                     <unittitle>Baptist Church</unittitle>
+                     <unittitle>Baptist Church, Kennebunk, Maine</unittitle>
                      <unitdatestructured altrender="1833" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1833">1833</datesingle>
                      </unitdatestructured>
@@ -7731,7 +7724,7 @@
                   id="ref508"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Lebanon, Maine</unittitle>
                      <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1903">1903</datesingle>
                      </unitdatestructured>
@@ -7753,7 +7746,7 @@
                   id="ref510"
                   level="file">
                   <did>
-                     <unittitle>Pine Street Congregational Church</unittitle>
+                     <unittitle>Pine Street Congregational Church, Lewiston, Maine</unittitle>
                      <unitdatestructured altrender="1863-1879" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1863">1863</fromdate>
@@ -7778,7 +7771,7 @@
                   id="ref512"
                   level="file">
                   <did>
-                     <unittitle>Episcopal Church</unittitle>
+                     <unittitle>Episcopal Church, Portland, Maine</unittitle>
                      <unitdatestructured altrender="1863" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1863">1863</datesingle>
                      </unitdatestructured>
@@ -7793,7 +7786,7 @@
                   id="ref513"
                   level="file">
                   <did>
-                     <unittitle>High Street Congregational Church</unittitle>
+                     <unittitle>High Street Congregational Church, Portland, Maine</unittitle>
                      <unitdatestructured altrender="1855" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1855">1855</datesingle>
                      </unitdatestructured>
@@ -7808,7 +7801,7 @@
                   id="ref514"
                   level="file">
                   <did>
-                     <unittitle>St. Luke's Cathedral</unittitle>
+                     <unittitle>St. Luke's Cathedral, Portland, Maine</unittitle>
                      <unitdatestructured altrender="1881" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1881">1881</datesingle>
                      </unitdatestructured>
@@ -7823,7 +7816,7 @@
                   id="ref515"
                   level="file">
                   <did>
-                     <unittitle>State Street Church</unittitle>
+                     <unittitle>State Street Church, Portland, Maine</unittitle>
                      <unitdatestructured altrender="1856, 1904, 2002"
                                          label="creation"
                                          unitdatetype="inclusive">
@@ -7844,7 +7837,7 @@
                   id="ref516"
                   level="file">
                   <did>
-                     <unittitle>Third Congregational Church</unittitle>
+                     <unittitle>Third Congregational Church, Portland, Maine</unittitle>
                      <unitdatestructured altrender="1865" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1865">1865</datesingle>
                      </unitdatestructured>
@@ -7860,7 +7853,7 @@
                   id="ref517"
                   level="file">
                   <did>
-                     <unittitle>Williston Church</unittitle>
+                     <unittitle>Williston Church, Portland, Maine</unittitle>
                      <unitdatestructured altrender="1893" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1893">1893</datesingle>
                      </unitdatestructured>
@@ -7883,7 +7876,7 @@
                   id="ref519"
                   level="file">
                   <did>
-                     <unittitle>Congregational Church</unittitle>
+                     <unittitle>Congregational Church, Sacarappa, Maine</unittitle>
                      <unitdatestructured altrender="1879" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1879">1879</datesingle>
                      </unitdatestructured>
@@ -7905,7 +7898,7 @@
                   id="ref521"
                   level="file">
                   <did>
-                     <unittitle>First Church</unittitle>
+                     <unittitle>First Church, Saco, Maine</unittitle>
                      <unitdatestructured altrender="1862" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1862">1862</datesingle>
                      </unitdatestructured>
@@ -7927,7 +7920,7 @@
                   id="ref523"
                   level="file">
                   <did>
-                     <unittitle>Scarboro Church</unittitle>
+                     <unittitle>Scarboro Church, Scarboro, Maine</unittitle>
                      <unitdatestructured altrender="1879" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1879">1879</datesingle>
                      </unitdatestructured>
@@ -7949,7 +7942,7 @@
                   id="aspace_d6cf5887f4e912002e18b12053506935"
                   level="file">
                   <did>
-                     <unittitle>Evangelical Congregational Church of Standish</unittitle>
+                     <unittitle>Evangelical Congregational Church of Standish, Standish, Maine</unittitle>
                      <unitdatestructured altrender="1833-1955" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1833">1833</fromdate>
@@ -7974,7 +7967,7 @@
                   id="aspace_769a6d507e5b30d1fff3d6b2c2fa939c"
                   level="file">
                   <did>
-                     <unittitle>Standish Congregational Church, United Church of Christ</unittitle>
+                     <unittitle>Standish Congregational Church, United Church of Christ, Standish, Maine</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2014">2014</datesingle>
                      </unitdatestructured>
@@ -8007,7 +8000,7 @@
                   id="ref525"
                   level="file">
                   <did>
-                     <unittitle>Church of St. John the Baptist</unittitle>
+                     <unittitle>Church of St. John the Baptist, Thomaston, Maine</unittitle>
                      <unitdatestructured altrender="1934" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1934">1934</datesingle>
                      </unitdatestructured>
@@ -8030,7 +8023,7 @@
                   id="ref527"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Waldoboro, Maine</unittitle>
                      <unitdatestructured altrender="1858" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1858">1858</datesingle>
                      </unitdatestructured>
@@ -8052,7 +8045,7 @@
                   id="aspace_930a4a5c7951ac2eeaeef902edfd6ebe"
                   level="file">
                   <did>
-                     <unittitle>Old Walpole Meeting House</unittitle>
+                     <unittitle>Old Walpole Meeting House, Walpole, Maine</unittitle>
                      <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
                      <container altrender="/repositories/4/top_containers/395074 /locations/9"
                                 containerid="39002112324323"
@@ -8075,7 +8068,7 @@
                   id="ref529"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Waterford, Maine</unittitle>
                      <unitdatestructured altrender="1885" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1885">1885</datesingle>
                      </unitdatestructured>
@@ -8097,7 +8090,7 @@
                   id="aspace_2ef70f68ec970df6ddc3e2946634d94f"
                   level="file">
                   <did>
-                     <unittitle>First Baptist Church</unittitle>
+                     <unittitle>First Baptist Church, Waterville, Maine</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1976">1976</datesingle>
                      </unitdatestructured>
@@ -8122,7 +8115,7 @@
                   id="ref531"
                   level="file">
                   <did>
-                     <unittitle>Second Church Westbrook</unittitle>
+                     <unittitle>Second Church Westbrook, Westbrook, Maine</unittitle>
                      <unitdatestructured altrender="1879" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1879">1879</datesingle>
                      </unitdatestructured>
@@ -8144,7 +8137,7 @@
                   id="ref533"
                   level="file">
                   <did>
-                     <unittitle>First Congregational Church</unittitle>
+                     <unittitle>First Congregational Church, Wiscasset, Maine</unittitle>
                      <unitdatestructured altrender="1909" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1909">1909</datesingle>
                      </unitdatestructured>
@@ -10618,6 +10611,28 @@
                                 id="aspace_ref698_c1"
                                 label="Mixed Materials"
                                 localtype="box">54</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4055377"
+               id="aspace_4c381fb3fce04caa0e6b652476da500d"
+               level="subseries">
+               <did>
+                  <unittitle>Medfield</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4055378"
+                  id="aspace_481c40411ca3fb3ca62de3054b718ca9"
+                  level="file">
+                  <did>
+                     <unittitle>Baptist Church, Medfield, Massachusetts</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1863">1863</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/10218 /locations/9"
+                                containerid="39002038454725"
+                                id="aspace_481c40411ca3fb3ca62de3054b718ca9_c1"
+                                label="Mixed Materials"
+                                localtype="box">38</container>
                   </did>
                </c>
             </c>

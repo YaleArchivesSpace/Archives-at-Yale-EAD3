@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T18:30:23-04:00</eventdatetime>
+            <eventdatetime>2026-09-01T18:01:39-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 18:30</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3674,6 +3674,24 @@
                                       label="Mixed Materials"
                                       localtype="box">12</container>
                            <container id="aspace_ref233_c2" localtype="folder" parent="aspace_ref233_c1">79</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/4/archival_objects/4055374"
+                        id="aspace_79092b7b552ed0fe5768fbdb4e011330"
+                        level="file">
+                        <did>
+                           <unittitle>Makiki Christian Church</unittitle>
+                           <unitdatestructured label="creation" unitdatetype="inclusive">
+                              <datesingle standarddate="1955">1955</datesingle>
+                           </unitdatestructured>
+                           <container altrender="/repositories/4/top_containers/10640 /locations/9"
+                                      containerid="39002038457512"
+                                      id="aspace_79092b7b552ed0fe5768fbdb4e011330_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">12</container>
+                           <container id="aspace_79092b7b552ed0fe5768fbdb4e011330_c2"
+                                      localtype="folder"
+                                      parent="aspace_79092b7b552ed0fe5768fbdb4e011330_c1">79</container>
                         </did>
                      </c>
                   </c>

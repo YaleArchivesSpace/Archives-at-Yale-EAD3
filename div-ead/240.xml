@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-01-08T18:15:30-05:00</eventdatetime>
+            <eventdatetime>2026-09-01T18:01:56-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday January  8, 2025 at 18:15</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -214,6 +214,10 @@
                <did>
                   <unittitle>Andover Theological Seminary, MA</unittitle>
                </did>
+               <scopecontent id="aspace_30792a46c17c1f49eb61d053f6db0c6d">
+                  <head>Scope and Contents</head>
+                  <p>See also official institutional archives of Andover Theological Seminary in Record Group 275.</p>
+               </scopecontent>
                <c altrender="/repositories/4/archival_objects/76669"
                   id="ref17"
                   level="file">
@@ -386,6 +390,10 @@
                <did>
                   <unittitle>Andover Newton Theological School, MA</unittitle>
                </did>
+               <scopecontent id="aspace_327e4a9fbdece12daaf50a9edf5881e2">
+                  <head>Scope and Contents</head>
+                  <p>See also official institutional archives of Andover Newton Theological School in Record Group 277.</p>
+               </scopecontent>
                <c altrender="/repositories/4/archival_objects/76678"
                   id="ref26"
                   level="file">
@@ -642,6 +650,10 @@
                <did>
                   <unittitle>Berkeley Divinity School, CT</unittitle>
                </did>
+               <scopecontent id="aspace_caf0bbe2cbe93cd9e272b40fc0a4fb84">
+                  <head>Scope and Contents</head>
+                  <p>See also official institutional archives of Berkeley Divinity School in Record Group 216.</p>
+               </scopecontent>
                <c altrender="/repositories/4/archival_objects/76697"
                   id="ref45"
                   level="file">
@@ -1418,6 +1430,31 @@
                      <container altrender="/repositories/4/top_containers/8270 /locations/9"
                                 containerid="39002022292008"
                                 id="aspace_ref106_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4055375"
+               id="aspace_c83c86299a0e2b43f19a1b217d32f0d5"
+               level="subseries">
+               <did>
+                  <unittitle>Cranmer Seminary</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4055376"
+                  id="aspace_ad4ea7f282fc697da369cda2c6ab6f91"
+                  level="file">
+                  <did>
+                     <unittitle>Address, announcement, annual for seminary of the Anglican Orthodox Church</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1971">1971</fromdate>
+                           <todate standarddate="1978">1978</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/8270 /locations/9"
+                                containerid="39002022292008"
+                                id="aspace_ad4ea7f282fc697da369cda2c6ab6f91_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                   </did>
@@ -3412,6 +3449,10 @@
                <did>
                   <unittitle>Newton Theological Institution, MA</unittitle>
                </did>
+               <scopecontent id="aspace_57b010d92a0a01b1cff8068d218c5c67">
+                  <head>Scope and Contents</head>
+                  <p>See also official institutional records of Newton Theological Institution in Record Group 276.</p>
+               </scopecontent>
                <c altrender="/repositories/4/archival_objects/76911"
                   id="ref259"
                   level="file">

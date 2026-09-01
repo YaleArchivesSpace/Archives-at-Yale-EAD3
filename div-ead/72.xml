@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-04-24T18:00:52-04:00</eventdatetime>
+            <eventdatetime>2026-09-01T18:03:38-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday April 24, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -688,10 +688,10 @@
                level="file">
                <did>
                   <unittitle>Diaries/journals of Frank Knight Sanders</unittitle>
-                  <unitdatestructured altrender="1878-1904" label="creation" unitdatetype="inclusive">
+                  <unitdatestructured altrender="1878-1903" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1878">1878</fromdate>
-                        <todate standarddate="1904">1904</todate>
+                        <todate standarddate="1903">1903</todate>
                      </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/4117 /locations/9"
@@ -699,7 +699,47 @@
                              id="aspace_ref32_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
-                  <container id="aspace_ref32_c2" localtype="folder" parent="aspace_ref32_c1">27-29</container>
+                  <container id="aspace_ref32_c2" localtype="folder" parent="aspace_ref32_c1">27</container>
+               </did>
+               <scopecontent id="aspace_d82e379ecb7499ad13906bb6d7f29862">
+                  <head>Scope and Contents</head>
+                  <p>9 diaries.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4055379"
+               id="aspace_f0d8b918399132efb51b1b19f0733d05"
+               level="file">
+               <did>
+                  <unittitle>Diaries/journals of Frank Knight Sanders</unittitle>
+                  <unitdatestructured altrender="1883" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1883">1883</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4117 /locations/9"
+                             containerid="39002038425105"
+                             id="aspace_f0d8b918399132efb51b1b19f0733d05_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_f0d8b918399132efb51b1b19f0733d05_c2"
+                             localtype="folder"
+                             parent="aspace_f0d8b918399132efb51b1b19f0733d05_c1">28</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4055380"
+               id="aspace_4efc4956f76c93141a7e9b0ddfc1ec99"
+               level="file">
+               <did>
+                  <unittitle>Diaries/journals of Frank Knight Sanders</unittitle>
+                  <unitdatestructured altrender="1904" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1904">1904</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4117 /locations/9"
+                             containerid="39002038425105"
+                             id="aspace_4efc4956f76c93141a7e9b0ddfc1ec99_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_4efc4956f76c93141a7e9b0ddfc1ec99_c2"
+                             localtype="folder"
+                             parent="aspace_4efc4956f76c93141a7e9b0ddfc1ec99_c1">29</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/28753"
