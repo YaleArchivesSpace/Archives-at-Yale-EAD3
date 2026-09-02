@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-14T03:00:37-04:00</eventdatetime>
+            <eventdatetime>2026-09-02T03:00:19-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday May 14, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  2, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -91,14 +91,14 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>56.46</quantity>
+            <quantity>56.48</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">121 boxes</physdesc>
-         <unitdatestructured altrender="1803-2020" label="creation" unitdatetype="inclusive">
+         <physdesc localtype="container_summary">122 boxes</physdesc>
+         <unitdatestructured altrender="1803-2025" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1803">1803</fromdate>
-               <todate standarddate="2020">2020</todate>
+               <todate standarddate="2025">2025</todate>
             </daterange>
          </unitdatestructured>
          <abstract id="aspace_5652af0ccccd4bec7e73fefe81251e19">The records consist of correspondence, questionnaires, memoranda, log books, memorabilia, agendas, minutes, photograph albums, and finanical reports from class council and executive council meetings, and statistical charts and reports of Yale College classes. Materials concerning the Sheffield Scientic School Class of 1920 are also included.</abstract>
@@ -5067,6 +5067,36 @@
                   <head>Processing Information</head>
                   <p>This material was imaged or captured by Beinecke staff in 2024 for preservation and access. Additional information about actions taken may be available at the repository.</p>
                </processinfo>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4055352"
+            id="aspace_a76b48144653d1feff762a23efa58cab"
+            level="series">
+            <did>
+               <unittitle>Published Legacy of Members of the Class of 1954</unittitle>
+               <unitid>Accession 2027-A-0009</unitid>
+               <unitdatestructured altrender="2025" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="2025">2025</datesingle>
+               </unitdatestructured>
+            </did>
+            <c altrender="/repositories/12/archival_objects/4055353"
+               id="aspace_7acac0e8f92cc5efd3bde6545232f2cc"
+               level="file">
+               <did>
+                  <unittitle>Published Legacy of Members of the Class of 1954</unittitle>
+                  <unitdatestructured altrender="2025" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2025">2025</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485025 /locations/327"
+                             containerid="39002140841967"
+                             encodinganalog="envelope"
+                             id="aspace_7acac0e8f92cc5efd3bde6545232f2cc_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_7acac0e8f92cc5efd3bde6545232f2cc_c2"
+                             localtype="folder"
+                             parent="aspace_7acac0e8f92cc5efd3bde6545232f2cc_c1">1</container>
+               </did>
             </c>
          </c>
       </dsc>
