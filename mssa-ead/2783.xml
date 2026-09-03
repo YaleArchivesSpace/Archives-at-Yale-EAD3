@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-22T03:02:22-04:00</eventdatetime>
+            <eventdatetime>2026-09-03T03:00:29-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday May 22, 2026 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September  3, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3849,7 +3849,11 @@
                id="ref226"
                level="file">
                <did>
-                  <unittitle>Architectural Forum</unittitle>
+                  <unittitle>
+                     <title render="italic">
+                        <part>Architectural Forum</part>
+                     </title>
+                  </unittitle>
                   <unitdatestructured altrender="1947, undated" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1947">1947, undated</datesingle>
                   </unitdatestructured>
@@ -3866,61 +3870,167 @@
                id="ref227"
                level="file">
                <did>
-                  <unittitle>Aubert, Professor Marcel: Art 51-52, correspondence</unittitle>
-                  <unitdatestructured altrender="1941-1944" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1941">1941</fromdate>
-                        <todate standarddate="1944">1944</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/105212 /locations/9"
-                             containerid="39002042763251"
-                             encodinganalog="archive letter"
-                             id="aspace_ref227_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref227_c2" localtype="folder" parent="aspace_ref227_c1">2 - 3</container>
+                  <unittitle>Aubert, Professor Marcel</unittitle>
                </did>
+               <c altrender="/repositories/12/archival_objects/4055382"
+                  id="aspace_fd7b4dba8b4fed38cc58bcd4a3e5192d"
+                  level="file">
+                  <did>
+                     <unittitle>Art 51, Art 52</unittitle>
+                     <unitdatestructured altrender="1941-1942" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1941">1941</fromdate>
+                           <todate standarddate="1942">1942</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_fd7b4dba8b4fed38cc58bcd4a3e5192d_c1"
+                                label="mixed materials"
+                                localtype="box">1</container>
+                     <container id="aspace_fd7b4dba8b4fed38cc58bcd4a3e5192d_c2"
+                                localtype="folder"
+                                parent="aspace_fd7b4dba8b4fed38cc58bcd4a3e5192d_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055383"
+                  id="aspace_fc2bb0e0970d7ed5ad2690723b382cbe"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdatestructured altrender="1944" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1944">1944</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_fc2bb0e0970d7ed5ad2690723b382cbe_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_fc2bb0e0970d7ed5ad2690723b382cbe_c2"
+                                localtype="folder"
+                                parent="aspace_fc2bb0e0970d7ed5ad2690723b382cbe_c1">3</container>
+                  </did>
+               </c>
             </c>
-            <c altrender="/repositories/12/archival_objects/886770"
-               id="ref228"
+            <c altrender="/repositories/12/archival_objects/4055384"
+               id="aspace_f8f26cc4f063f51e6626a39d8bdfb125"
                level="file">
                <did>
-                  <unittitle>Aubert, Professor Marcel, and Focillon, Professor Henri: Applications for assistantships</unittitle>
-                  <unitdatestructured altrender="1931-1932" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1931">1931</fromdate>
-                        <todate standarddate="1932">1932</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/105212 /locations/9"
-                             containerid="39002042763251"
-                             encodinganalog="archive letter"
-                             id="aspace_ref228_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref228_c2" localtype="folder" parent="aspace_ref228_c1">4</container>
+                  <unittitle>Aubert, Professor Marcel, and Focillon, Professor Henri</unittitle>
                </did>
-            </c>
-            <c altrender="/repositories/12/archival_objects/886771"
-               id="ref229"
-               level="file">
-               <did>
-                  <unittitle>Aubert, Professor Marcel and Focillon, Professor Henri: Art 51-52, History of Art in the Middle Ages</unittitle>
-                  <unitdatestructured altrender="1932-1940" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1932">1932</fromdate>
-                        <todate standarddate="1940">1940</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/105212 /locations/9"
-                             containerid="39002042763251"
-                             encodinganalog="archive letter"
-                             id="aspace_ref229_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref229_c2" localtype="folder" parent="aspace_ref229_c1">5 - 8</container>
-               </did>
+               <c altrender="/repositories/12/archival_objects/886770"
+                  id="ref228"
+                  level="file">
+                  <did>
+                     <unittitle>Applications for assistantships</unittitle>
+                     <unitdatestructured altrender="1931-1932" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931">1931</fromdate>
+                           <todate standarddate="1932">1932</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_ref228_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_ref228_c2" localtype="folder" parent="aspace_ref228_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055388"
+                  id="aspace_e506fdfecc0d206e0879ea751582de6b"
+                  level="file">
+                  <did>
+                     <unittitle>Art 51, "History of Art of the Middle Ages"</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">Undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_e506fdfecc0d206e0879ea751582de6b_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_e506fdfecc0d206e0879ea751582de6b_c2"
+                                localtype="folder"
+                                parent="aspace_e506fdfecc0d206e0879ea751582de6b_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/886771"
+                  id="ref229"
+                  level="file">
+                  <did>
+                     <unittitle>Art 51, Art 52</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/4055385"
+                     id="aspace_a76425f341bce285d594adc655ccb5ce"
+                     level="file">
+                     <did>
+                        <unitdatestructured altrender="1935-1940, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1935">1935</fromdate>
+                              <todate standarddate="1940">1940</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                   containerid="39002042763251"
+                                   encodinganalog="archive letter"
+                                   id="aspace_a76425f341bce285d594adc655ccb5ce_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_a76425f341bce285d594adc655ccb5ce_c2"
+                                   localtype="folder"
+                                   parent="aspace_a76425f341bce285d594adc655ccb5ce_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4055386"
+                     id="aspace_f6f435c83c10bc1df6fcdfc01827e276"
+                     level="file">
+                     <did>
+                        <unittitle>Correspondence and information about</unittitle>
+                        <unitdatestructured altrender="1933-1934" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1933">1933</fromdate>
+                              <todate standarddate="1934">1934</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                   containerid="39002042763251"
+                                   encodinganalog="archive letter"
+                                   id="aspace_f6f435c83c10bc1df6fcdfc01827e276_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_f6f435c83c10bc1df6fcdfc01827e276_c2"
+                                   localtype="folder"
+                                   parent="aspace_f6f435c83c10bc1df6fcdfc01827e276_c1">7</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055387"
+                  id="aspace_6e40eb2192372891ccbed80f70e6a023"
+                  level="file">
+                  <did>
+                     <unittitle>General correspondence</unittitle>
+                     <unitdatestructured altrender="1932-1935" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1932">1932</fromdate>
+                           <todate standarddate="1935">1935</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_6e40eb2192372891ccbed80f70e6a023_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_6e40eb2192372891ccbed80f70e6a023_c2"
+                                localtype="folder"
+                                parent="aspace_6e40eb2192372891ccbed80f70e6a023_c1">8</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/886772"
                id="ref230"
@@ -3944,20 +4054,91 @@
                level="file">
                <did>
                   <unittitle>Dealers</unittitle>
-                  <unitdatestructured altrender="1936-1940" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1936">1936</fromdate>
-                        <todate standarddate="1940">1940</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/105212 /locations/9"
-                             containerid="39002042763251"
-                             encodinganalog="archive letter"
-                             id="aspace_ref231_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref231_c2" localtype="folder" parent="aspace_ref231_c1">10 - 13</container>
                </did>
+               <c altrender="/repositories/12/archival_objects/4055389"
+                  id="aspace_130996710f168f99e04f5bd3c2fed19e"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1936-1937" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1936">1936</fromdate>
+                           <todate standarddate="1937">1937</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_130996710f168f99e04f5bd3c2fed19e_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_130996710f168f99e04f5bd3c2fed19e_c2"
+                                localtype="folder"
+                                parent="aspace_130996710f168f99e04f5bd3c2fed19e_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055390"
+                  id="aspace_140319407db2a975f366b413a097f2de"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1937-1938" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1937">1937</fromdate>
+                           <todate standarddate="1938">1938</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_140319407db2a975f366b413a097f2de_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_140319407db2a975f366b413a097f2de_c2"
+                                localtype="folder"
+                                parent="aspace_140319407db2a975f366b413a097f2de_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055391"
+                  id="aspace_f5d8f66fd6cd0985271d7b4fe0d530a2"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1938-1939" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1938">1938</fromdate>
+                           <todate standarddate="1939">1939</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_f5d8f66fd6cd0985271d7b4fe0d530a2_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_f5d8f66fd6cd0985271d7b4fe0d530a2_c2"
+                                localtype="folder"
+                                parent="aspace_f5d8f66fd6cd0985271d7b4fe0d530a2_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055392"
+                  id="aspace_e656521b731d9afe625175b160d970a2"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1939-1940" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1939">1939</fromdate>
+                           <todate standarddate="1940">1940</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105212 /locations/9"
+                                containerid="39002042763251"
+                                encodinganalog="archive letter"
+                                id="aspace_e656521b731d9afe625175b160d970a2_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_e656521b731d9afe625175b160d970a2_c2"
+                                localtype="folder"
+                                parent="aspace_e656521b731d9afe625175b160d970a2_c1">13</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/886774"
                id="ref232"
