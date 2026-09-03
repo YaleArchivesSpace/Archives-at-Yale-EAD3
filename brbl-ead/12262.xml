@@ -41,7 +41,7 @@
                <p>Boxes: 97 (Oversize), 98-99 (Art), 140, 155, 160</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="23">23</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1562">1,562</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="24">24</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1562">1,562</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-26T23:51:17-04:00</eventdatetime>
+            <eventdatetime>2026-09-02T23:00:24-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 26, 2026 at 23:51</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  2, 2026 at 23:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -5396,9 +5396,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:13:17</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1982">1982</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_8fa1a9cbe38c733a6b98dd6d02bd36b0">Audio distortion, hiss, and hum are present.</materialspec>
                      <container altrender="/repositories/11/top_containers/383058 /locations/9"
                                 containerid="39002099197635"
                                 encodinganalog="archive half legal"
@@ -5408,6 +5413,25 @@
                      <container id="aspace_951e6174d723d457be99806f6e96c022_c2"
                                 localtype="item_barcode"
                                 parent="aspace_951e6174d723d457be99806f6e96c022_c1">39002140886640</container>
+                     <daoset altrender="/repositories/11/digital_objects/353624">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/rx93778662"
+                             identifier="aviary_178207"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/317/732/original/open-uri20260902-69367-jk4l0m?1788365292"
+                             identifier="aviary_178207"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] genmss197739002140886640.u.mp3</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_be45097387150356a60e4fb916030a7b"
                                   localtype="RestrictedFragileSpecColl">
