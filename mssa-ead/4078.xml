@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-01T03:22:52-04:00</eventdatetime>
+            <eventdatetime>2026-09-04T03:01:04-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday April  1, 2026 at 03:22</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September  4, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7242,17 +7242,18 @@ include a Manuscripts and Archives computer and file viewing software.</p>
                              label="Mixed Materials"
                              localtype="box">2</container>
                </did>
-               <accessrestrict id="aspace_ee4b79407aaec2d7bf2846b2cff7b2c2"
-                               localtype="RestrictedFragileSpecColl">
+               <accessrestrict id="aspace_ee4b79407aaec2d7bf2846b2cff7b2c2" localtype="BornDigital">
                   <head>Conditions Governing Access</head>
-                  <p>As a preservation measure, original materials may not be used. Digital access copies must be provided for use. Contact Manuscripts and Archives at <ref actuate="onrequest"
-                          href="mailto:beinecke.library@yale.edu?subject=Digital Copy Request: 2019-m-0031-0001"
-                          show="new">beinecke.library@yale.edu</ref> to request access.</p>
+                  <p>As a preservation measure, original materials may not be used. Digital access copies must be provided for use.</p>
                </accessrestrict>
                <scopecontent id="aspace_6bbac02c7617241322902e0c12bbf487">
                   <head>Scope and Contents</head>
                   <p>First photograph on CD is not related to the photograph album; remainder were scanned from the photograph album by the donor, Roger Bagnall.</p>
                </scopecontent>
+               <processinfo id="aspace_0341b06a9974331d9a2687d996782261">
+                  <head>Processing Information</head>
+                  <p>This material was imaged or captured by the Yale University Digital Accessioning Support Service (DASS) in 2026 for preservation and access. </p>
+               </processinfo>
             </c>
          </c>
       </dsc>

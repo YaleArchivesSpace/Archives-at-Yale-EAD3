@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-07-22T03:00:38-04:00</eventdatetime>
+            <eventdatetime>2026-09-04T03:01:08-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 22, 2025 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September  4, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -296,6 +296,14 @@
                                    label="Mixed Materials"
                                    localtype="box">1A</container>
                      </did>
+                     <processinfo id="aspace_f14c5e46d0b7bb2f08f1506cadefbdfa">
+                        <head>Processing Information</head>
+                        <p>This material was imaged or captured by the Yale University Digital Accessioning Support Service (DASS) in 2026 for preservation and access.</p>
+                     </processinfo>
+                     <accessrestrict id="aspace_4d0059a3307d3a910d99dbc0607c2b64" localtype="BornDigital">
+                        <head>Conditions Governing Access</head>
+                        <p>Original born digital files, as well as preservation masters, may not be accessed due to their fragility. Researchers must consult access copies.</p>
+                     </accessrestrict>
                   </c>
                </c>
                <c altrender="/repositories/12/archival_objects/2979706"
