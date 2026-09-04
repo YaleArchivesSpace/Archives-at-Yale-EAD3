@@ -1983,6 +1983,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.franzwright.xml](14004.xml) | beinecke.franzwright | YCAL MSS 1559 | Dzvinia Orlowsky collection of Franz Wright papers | 
  [beinecke.brigham.xml](14005.xml) | beinecke.brigham | WA MSS S-283 | Sarah Bishop Brigham papers | 
  [beinecke.dellenbaugh.xml](14007.xml) | beinecke.dellenbaugh | WA MSS S-2389  | Frederick Samuel Dellenbaugh journal and lantern slides from the Harriman Alaska Expedition | 
+ [beinecke.jeffreylewis.xml](14084.xml) | beinecke.jeffreylewis | YCAL MSS 1623 | Jeffrey Lewis Papers | 
  [beinecke.bptrial.xml](14106.xml) | beinecke.bptrial | GEN MSS 2168 | Black Panther Trial records | 
  [beinecke.aos.xml](14117.xml) | beinecke.aos | GEN MSS 2169 | American Oriental Society archive | 
 
