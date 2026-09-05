@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-03T03:00:29-04:00</eventdatetime>
+            <eventdatetime>2026-09-05T03:00:14-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September  3, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday September  5, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4182,25 +4182,94 @@
                   <container id="aspace_ref233_c2" localtype="folder" parent="aspace_ref233_c1">15</container>
                </did>
             </c>
-            <c altrender="/repositories/12/archival_objects/886776"
-               id="ref234"
+            <c altrender="/repositories/12/archival_objects/4055558"
+               id="aspace_974304ca6a2067386c119fd2cbfe9f49"
                level="file">
                <did>
-                  <unittitle>Library Committee</unittitle>
-                  <unitdatestructured altrender="1930-1937" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1930">1930</fromdate>
-                        <todate standarddate="1937">1937</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/105213 /locations/9"
-                             containerid="39002042763269"
-                             encodinganalog="archive letter"
-                             id="aspace_ref234_c1"
-                             label="Mixed Materials"
-                             localtype="box">2</container>
-                  <container id="aspace_ref234_c2" localtype="folder" parent="aspace_ref234_c1">16 - 19</container>
+                  <unittitle>Library committee</unittitle>
                </did>
+               <c altrender="/repositories/12/archival_objects/886776"
+                  id="ref234"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1930-1933" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1930">1930</fromdate>
+                           <todate standarddate="1933">1933</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_ref234_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_ref234_c2" localtype="folder" parent="aspace_ref234_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055559"
+                  id="aspace_dc5d29032a24b612e9eaa29bc026300b"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1933-1935" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1933">1933</fromdate>
+                           <todate standarddate="1935">1935</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_dc5d29032a24b612e9eaa29bc026300b_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_dc5d29032a24b612e9eaa29bc026300b_c2"
+                                localtype="folder"
+                                parent="aspace_dc5d29032a24b612e9eaa29bc026300b_c1">17</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055560"
+                  id="aspace_d6a16985c43f5997e88d571907b4761a"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1934-1936" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1934">1934</fromdate>
+                           <todate standarddate="1936">1936</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_d6a16985c43f5997e88d571907b4761a_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_d6a16985c43f5997e88d571907b4761a_c2"
+                                localtype="folder"
+                                parent="aspace_d6a16985c43f5997e88d571907b4761a_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055561"
+                  id="aspace_6220ee951d840627efb50a767299d4ab"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1936-1937" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1936">1936</fromdate>
+                           <todate standarddate="1937">1937</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_6220ee951d840627efb50a767299d4ab_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_6220ee951d840627efb50a767299d4ab_c2"
+                                localtype="folder"
+                                parent="aspace_6220ee951d840627efb50a767299d4ab_c1">19</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/886777"
                id="ref235"
@@ -4242,45 +4311,139 @@
                   <container id="aspace_ref236_c2" localtype="folder" parent="aspace_ref236_c1">21</container>
                </did>
             </c>
-            <c altrender="/repositories/12/archival_objects/886779"
-               id="ref237"
+            <c altrender="/repositories/12/archival_objects/4055562"
+               id="aspace_9caa5bc2012e9a560abbc62e78b42b76"
                level="file">
                <did>
                   <unittitle>Publicity</unittitle>
-                  <unitdatestructured altrender="1938-1943" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1938">1938</fromdate>
-                        <todate standarddate="1943">1943</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/105213 /locations/9"
-                             containerid="39002042763269"
-                             encodinganalog="archive letter"
-                             id="aspace_ref237_c1"
-                             label="Mixed Materials"
-                             localtype="box">2</container>
-                  <container id="aspace_ref237_c2" localtype="folder" parent="aspace_ref237_c1">22 - 23</container>
                </did>
+               <c altrender="/repositories/12/archival_objects/886779"
+                  id="ref237"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1928, undated" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1928">1928, undated</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_ref237_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_ref237_c2" localtype="folder" parent="aspace_ref237_c1">22</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055563"
+                  id="aspace_2a9358943313b8257970c0343bfd8af3"
+                  level="file">
+                  <did>
+                     <unittitle>Department of Architecture design cycle</unittitle>
+                     <unitdatestructured altrender="1939-1943" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1939">1939</fromdate>
+                           <todate standarddate="1943">1943</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_2a9358943313b8257970c0343bfd8af3_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_2a9358943313b8257970c0343bfd8af3_c2"
+                                localtype="folder"
+                                parent="aspace_2a9358943313b8257970c0343bfd8af3_c1">23</container>
+                  </did>
+               </c>
             </c>
-            <c altrender="/repositories/12/archival_objects/886780"
-               id="ref238"
+            <c altrender="/repositories/12/archival_objects/4055564"
+               id="aspace_ff661d7d326e8f046a92dc5c1833e9de"
                level="file">
                <did>
                   <unittitle>Seymour, President Charles</unittitle>
-                  <unitdatestructured altrender="1936-1943" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1936">1936</fromdate>
-                        <todate standarddate="1943">1943</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/105213 /locations/9"
-                             containerid="39002042763269"
-                             encodinganalog="archive letter"
-                             id="aspace_ref238_c1"
-                             label="Mixed Materials"
-                             localtype="box">2</container>
-                  <container id="aspace_ref238_c2" localtype="folder" parent="aspace_ref238_c1">24 - 27</container>
                </did>
+               <c altrender="/repositories/12/archival_objects/886780"
+                  id="ref238"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1936-1940" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1936">1936</fromdate>
+                           <todate standarddate="1940">1940</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_ref238_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_ref238_c2" localtype="folder" parent="aspace_ref238_c1">24</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055565"
+                  id="aspace_4625a9b0a411c1377fa217ce20240cb5"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1940-1941" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1941">1941</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_4625a9b0a411c1377fa217ce20240cb5_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_4625a9b0a411c1377fa217ce20240cb5_c2"
+                                localtype="folder"
+                                parent="aspace_4625a9b0a411c1377fa217ce20240cb5_c1">25</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055566"
+                  id="aspace_6b1982399af539ecb420eceef1c2de3b"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1941-1942" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1941">1941</fromdate>
+                           <todate standarddate="1942">1942</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_6b1982399af539ecb420eceef1c2de3b_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_6b1982399af539ecb420eceef1c2de3b_c2"
+                                localtype="folder"
+                                parent="aspace_6b1982399af539ecb420eceef1c2de3b_c1">26</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4055567"
+                  id="aspace_676acf52ef9371f845ad092db4651f65"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1942-1943" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1942">1942</fromdate>
+                           <todate standarddate="1943">1943</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/105213 /locations/9"
+                                containerid="39002042763269"
+                                encodinganalog="archive letter"
+                                id="aspace_676acf52ef9371f845ad092db4651f65_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_676acf52ef9371f845ad092db4651f65_c2"
+                                localtype="folder"
+                                parent="aspace_676acf52ef9371f845ad092db4651f65_c1">27</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/886781"
                id="ref239"
