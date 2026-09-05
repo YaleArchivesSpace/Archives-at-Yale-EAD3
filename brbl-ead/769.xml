@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:49:21-05:00</eventdatetime>
+            <eventdatetime>2026-09-04T23:01:09-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:49</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September  4, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1000,17 +1000,9 @@
                            <dao actuate="onrequest"
                                 audience="external"
                                 daotype="unknown"
-                                href="https://collections.library.yale.edu/manifests/33292689"
+                                href="https://collections.library.yale.edu/images/access-image-v2.png"
                                 identifier="oid:33292689"
                                 linktitle="2 images"
-                                linkrole="text-json"
-                                show="embed"/>
-                           <dao actuate="onrequest"
-                                audience="external"
-                                daotype="unknown"
-                                href="https://collections.library.yale.edu/iiif/2/33292690/full/!150,150/0/default.jpg"
-                                identifier="oid:33292689"
-                                linktitle="1r"
                                 linkrole="image-thumbnail"
                                 show="embed"/>
                            <dao actuate="onrequest"
@@ -1018,7 +1010,7 @@
                                 daotype="unknown"
                                 href="https://collections.library.yale.edu/catalog/33292689"
                                 identifier="oid:33292689"
-                                linktitle="1r"
+                                linktitle="2 images"
                                 linkrole="text-html"
                                 show="new"/>
                            <descriptivenote>
