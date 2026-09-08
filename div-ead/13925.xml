@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-02T18:00:20-04:00</eventdatetime>
+            <eventdatetime>2026-09-08T18:01:04-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  2, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  8, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -19897,25 +19897,88 @@
                   <did>
                      <unittitle>Canadian Baptist Foreign Mission Board</unittitle>
                   </did>
-                  <c altrender="/repositories/4/archival_objects/4023871"
-                     id="aspace_083a08d59f49ae9f94b18e43fe5f9b93"
+                  <c altrender="/repositories/4/archival_objects/4055901"
+                     id="aspace_a0f27e8906adfad1b1f903c97a4c3bac"
                      level="file">
                      <did>
-                        <unittitle>Annual reports</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <unittitle>Annual Reports</unittitle>
+                        <unitdatestructured altrender="1912-1919" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1912">1912</fromdate>
+                              <todate standarddate="1919">1919</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/466097 /locations/9"
+                                   containerid="39002112326328"
+                                   id="aspace_a0f27e8906adfad1b1f903c97a4c3bac_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">85</container>
+                        <container id="aspace_a0f27e8906adfad1b1f903c97a4c3bac_c2"
+                                   localtype="folder"
+                                   parent="aspace_a0f27e8906adfad1b1f903c97a4c3bac_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4055902"
+                     id="aspace_ef70cfba47c5df2946475390aaa4eb68"
+                     level="file">
+                     <did>
+                        <unittitle>Annual Reports</unittitle>
+                        <unitdatestructured altrender="1920-1927" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1920">1920</fromdate>
+                              <todate standarddate="1927">1927</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/466097 /locations/9"
+                                   containerid="39002112326328"
+                                   id="aspace_ef70cfba47c5df2946475390aaa4eb68_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">85</container>
+                        <container id="aspace_ef70cfba47c5df2946475390aaa4eb68_c2"
+                                   localtype="folder"
+                                   parent="aspace_ef70cfba47c5df2946475390aaa4eb68_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4055903"
+                     id="aspace_5fcbb7061350201025bd81e7942e95c6"
+                     level="file">
+                     <did>
+                        <unittitle>Annual Reports</unittitle>
+                        <unitdatestructured altrender="1928-1935" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1928">1928</fromdate>
+                              <todate standarddate="1935">1935</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/466097 /locations/9"
+                                   containerid="39002112326328"
+                                   id="aspace_5fcbb7061350201025bd81e7942e95c6_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">85</container>
+                        <container id="aspace_5fcbb7061350201025bd81e7942e95c6_c2"
+                                   localtype="folder"
+                                   parent="aspace_5fcbb7061350201025bd81e7942e95c6_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4055905"
+                     id="aspace_17f538ded546ce4efb507edfd514beea"
+                     level="file">
+                     <did>
+                        <unittitle>Annual Reports</unittitle>
+                        <unitdatestructured altrender="1936-1945" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1936">1936</fromdate>
                               <todate standarddate="1945">1945</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/466097 /locations/9"
                                    containerid="39002112326328"
-                                   id="aspace_083a08d59f49ae9f94b18e43fe5f9b93_c1"
+                                   id="aspace_17f538ded546ce4efb507edfd514beea_c1"
                                    label="Mixed Materials"
                                    localtype="box">85</container>
-                        <container id="aspace_083a08d59f49ae9f94b18e43fe5f9b93_c2"
+                        <container id="aspace_17f538ded546ce4efb507edfd514beea_c2"
                                    localtype="folder"
-                                   parent="aspace_083a08d59f49ae9f94b18e43fe5f9b93_c1">4-7</container>
+                                   parent="aspace_17f538ded546ce4efb507edfd514beea_c1">7</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4023873"

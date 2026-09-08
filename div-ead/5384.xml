@@ -40,7 +40,7 @@
                <p>Boxes: 1, OV1-2, OV2-33, 35-55, 60-65, 86-87, 92-97, 101-103, 105-115, 120, 122-134, 171, 179, 195-199, 207-218, 223-225, 250-251, 265-273, 278-285, 287-293, 298-304, 306-494</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: OV3-OV5, 56</p>
+               <p>Boxes: OV3, OVd3-OV5, 56, 66</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="27">27</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2668">2,668</num> digital files.</p>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:02:32-04:00</eventdatetime>
+            <eventdatetime>2026-09-08T18:00:42-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  8, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5981,6 +5981,42 @@ Further sermons are from Burhans' predecessors at Trinity Church in Newtown, Con
                                 localtype="folder"
                                 parent="aspace_c4e22000b157d2d61950cf9df0b6d004_c1">1</container>
                   </did>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4055895"
+               id="aspace_f40ad3246d5b85b33bfd7504ae71be6f"
+               level="subseries">
+               <did>
+                  <unittitle>Cheney, Monona</unittitle>
+               </did>
+               <scopecontent id="aspace_93211493735869d66a8c7364bff6f7ef">
+                  <head>Scope and Contents</head>
+                  <p>Monona Cheney (1890-1982) was a Methodist missionary and teacher in China, primarily in Tianjin and Beijing, from 1918 to 1932. She then stayed in the U.S. to care for her invalid mother until 1958 when she was appointed as a short term missionary to South Africa by the American Board of Commissioners for Foreign Missions.  Cheney taught at the high school of Inanda Seminary near Durban, South Africa from 1958 to 1961.</p>
+               </scopecontent>
+               <c altrender="/repositories/4/archival_objects/4055896"
+                  id="aspace_a815fcc7ab87ea1ecfff077e428d4b40"
+                  level="file">
+                  <did>
+                     <unittitle>Circular letters written by Cheney from Inanda Seminary in South Africa</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1958">1958</fromdate>
+                           <todate standarddate="1961">1961</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485082 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_a815fcc7ab87ea1ecfff077e428d4b40_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <container id="aspace_a815fcc7ab87ea1ecfff077e428d4b40_c2"
+                                localtype="folder"
+                                parent="aspace_a815fcc7ab87ea1ecfff077e428d4b40_c1">2</container>
+                  </did>
+                  <scopecontent id="aspace_4e07675377588b666d5a201fe4861599">
+                     <head>Scope and Contents</head>
+                     <p>These letters include perceptive observations about political, racial, and educational matters in South Africa during the late 1950s and early 1960s.  Also included is a letter to John Reuling of the ABCFM that summarizes her work. The letters were given to the Library by John Reuling.</p>
+                  </scopecontent>
                </c>
             </c>
             <c altrender="/repositories/4/archival_objects/2139644"
@@ -19061,6 +19097,47 @@ The Reverend Ebenezer Martin's began his ministerial career as the founding prea
                                 label="Mixed Materials"
                                 localtype="box">334</container>
                      <container id="aspace_ref979_c2" localtype="folder" parent="aspace_ref979_c1">3</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4055882"
+               id="aspace_b10c22e2cb29fe4b966ee712014c57d2"
+               level="subseries">
+               <did>
+                  <unittitle>Meyer, Hulda D.</unittitle>
+               </did>
+               <bioghist id="aspace_65c52752c85406ee52a4089e64b4bb84">
+                  <head>Biographical / Historical</head>
+                  <p>Hulda D. Meyer (1892-1985) and her husband the Rev. Armin Meyer were missionaries serving in India under the United Church of Christ for forty-two years. They were married in Raipur in 1923.  Meyer was the mother of Paul W. Meyer who taught New Testament at Yale Divinity School from 1954 to 1964.</p>
+               </bioghist>
+               <c altrender="/repositories/4/archival_objects/4055893"
+                  id="aspace_307e961f95ae2153a7440c15c6058978"
+                  level="file">
+                  <did>
+                     <unittitle>Typescript memoir (43 pages)</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1980">1980</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485082 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_307e961f95ae2153a7440c15c6058978_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <container id="aspace_307e961f95ae2153a7440c15c6058978_c2"
+                                localtype="folder"
+                                parent="aspace_307e961f95ae2153a7440c15c6058978_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055894"
+                  id="aspace_427f085a0a1a91238b2f61669787bd20"
+                  level="file">
+                  <did>
+                     <unittitle>8 public health posters in Urdu language illustrating preventative measures related to various illnesses such as malaria and trachoma.</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/485083 /locations/2"
+                                id="aspace_427f085a0a1a91238b2f61669787bd20_c1"
+                                label="Mixed Materials"
+                                localtype="box">OVd3</container>
                   </did>
                </c>
             </c>
