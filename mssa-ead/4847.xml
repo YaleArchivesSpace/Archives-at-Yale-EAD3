@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-04T03:01:56-04:00</eventdatetime>
+            <eventdatetime>2026-09-09T03:00:45-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September  4, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  9, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -94,14 +94,14 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>5</quantity>
+            <quantity>8.41</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">3 boxes</physdesc>
-         <unitdatestructured altrender="1986-1994" label="creation" unitdatetype="inclusive">
+         <physdesc localtype="container_summary">4 boxes</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1986">1986</fromdate>
-               <todate standarddate="1994">1994</todate>
+               <todate standarddate="2024">2024</todate>
             </daterange>
          </unitdatestructured>
          <abstract id="aspace_4f6838e0ec88a00602ca5ffd2dad0e36">The collection consists of posters, photographs of posters, and a photographic postcard portfolio entitled "Intifada: Occupied Territory taken by eight Italian Photographers," documenting the twenty-fifth anniversary of the Palestine National Liberation Movement, the first anniversary of the Palestine State Proclamation, the second anniversary of the Intifada, and other issues and events concerning Palestinian movements. An addition to the collection includes posters relating primarily to the Popular Front for the Liberation of Palestine (P.F.L.P.) and similar organizations.</abstract>
@@ -109,6 +109,7 @@
       <acqinfo id="aspace_2c0ebf2c583aefa723dd873986931d18">
          <head>Immediate Source of Acquisition</head>
          <p>The collection was transferred to Manuscripts and Archives from the Near East Collection, 1995, 2005.</p>
+         <p>Purchased from Brooklyn, Inc. on the Edwin J. Beinecke Book Fund, 2026.</p>
       </acqinfo>
       <accessrestrict id="aspace_4e3980d43342184187c75044f4a63657">
          <head>Conditions Governing Access</head>
@@ -130,6 +131,18 @@
          <subject identifier="http://id.loc.gov/authorities/subjects/sh89001332"
                   source="lcsh">
             <part localtype="topical">Intifada, 1987-1993</part>
+         </subject>
+         <geogname source="local_beinecke">
+            <part localtype="geographic">Palestine</part>
+            <part localtype="genre_form">Pictorial works</part>
+         </geogname>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85105523"
+                  source="lcsh">
+            <part localtype="topical">Posters</part>
+         </subject>
+         <subject source="lcsh">
+            <part localtype="topical">Protest movements</part>
+            <part localtype="geographic">United States</part>
          </subject>
          <corpname rules="aacr">
             <part localtype="agent_corporate_entity">Fatḥ (Organization)</part>
