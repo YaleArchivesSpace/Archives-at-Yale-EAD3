@@ -39,7 +39,7 @@
                <p>Notes regarding material provided by Soyeon Choi and Anita, Yale Center for British Art Conservation Department; Arabic and Ottoman Turkish translation provided by Robin Dougherty, Yale University Library; Amharic translation provided by Tef Adem, Yale University Library, Greek translation provided by Nikos Chrissidis, Southern Connecticut State University.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1-5, 12-14, 18-38, 40, 40-46</p>
+               <p>Boxes: 1-5, 12-14, 18-46</p>
                <p>Oversize_folders: 1-3</p>
             </controlnote>
          </notestmt>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-04T18:00:50-04:00</eventdatetime>
+            <eventdatetime>2026-09-09T18:00:36-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September  4, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  9, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -124,13 +124,12 @@
                <part localtype="agent_person">Balugani, Luigi Antonio Melchiorre, 1737-1771</part>
             </persname>
          </origination>
+         <origination label="Creator">
+            <persname identifier="nr2001028203" rules="rda" source="naf">
+               <part localtype="agent_person">Cumming-Bruce, Charles Lenox, 1790–1875</part>
+            </persname>
+         </origination>
       </did>
-      <scopecontent id="aspace_2a25f8136c2e5fe89e2da8e6992d5987">
-         <head>Scope and Contents</head>
-         <p>The archive comprises original manuscript material concerning the travels of James Bruce of Kinnaird in North Africa and Ethiopia, from 1762 to 1774. Bruce (1730-1794) was originally posted as British consul-general at Algiers, though his diplomatic service concluded in 1765. Over the next 10 years, Bruce  traveled in North Africa to document the antiquities, flora, and fauna of the region. Bruce then traveled to Ethiopia to document the source of the Nile. The bulk of material concerns Bruce's search for the source of the Nile and his records of Ethiopia's flora and fauna. Some  portions also cover Bruce's diplomatic work and his travel and documentation of architectural antiquities in North Africa and Ethiopia.</p>
-         <p>The archive includes approximately 1,500 items, including correspondence, manuscript writings or notes, records, manuscript maps, volumes of diaries or day books, and an assortment of passports and other official documents.</p>
-         <p>Approximately 900 drawings by Luigi Balugani and James Bruce, formerly in the archive, have been transferred to the Department of Prints and Drawings at the the Yale Center for British Art. About 300 of the transferred drawings include significant textual annotations by Balugani.</p>
-      </scopecontent>
       <userestrict id="aspace_7a5b44daca8368867d52fc89b7e35f47">
          <head>Conditions Governing Use</head>
          <p>Copyright Undetermined</p>
@@ -225,6 +224,9 @@
          </persname>
          <persname rules="aacr">
             <part localtype="agent_person">Balugani, Luigi Antonio Melchiorre, 1737-1771</part>
+         </persname>
+         <persname rules="aacr">
+            <part localtype="agent_person">Murray, Alexander, 1775-1813</part>
          </persname>
       </controlaccess>
       <dsc/>
