@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-03-02T18:00:23-05:00</eventdatetime>
+            <eventdatetime>2026-09-10T18:01:18-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March  2, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 10, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -92,7 +92,7 @@
             <quantity>0.42</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">(1 box)</physdesc>
+         <physdesc localtype="container_summary">1 document box</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1789">1789</fromdate>
@@ -103,16 +103,6 @@
          <origination label="Creator">
             <persname>
                <part localtype="agent_person">Britton, John, 1771-1857</part>
-            </persname>
-         </origination>
-         <origination label="Creator">
-            <persname rules="aacr">
-               <part localtype="agent_person">Cattermole, George, 1800-1868</part>
-            </persname>
-         </origination>
-         <origination label="Creator">
-            <persname>
-               <part localtype="agent_person">Hume, Joseph, 1777-1855</part>
             </persname>
          </origination>
          <origination label="Creator">
@@ -135,10 +125,9 @@
          <p>Copyright Undetermined</p>
          <p>The collection is the physical property of the Yale Center for British Art. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the Archives Department.</p>
       </userestrict>
-      <accessrestrict id="aspace_17d5b388ddc5e769315cb1316869297d"
-                      localtype="InProcessSpecColl">
+      <accessrestrict id="aspace_17d5b388ddc5e769315cb1316869297d" localtype="NoRequest">
          <head>Conditions Governing Access</head>
-         <p>This collection is unprocessed and may not be available for immediate access.</p>
+         <p>The materials are open for research use.</p>
       </accessrestrict>
       <prefercite id="aspace_9348cb91cb3999a319ff4430893fb6ae">
          <head>Preferred Citation</head>
@@ -148,6 +137,21 @@
          <head>Immediate Source of Acquisition</head>
          <p>Yale Center for British Art, Paul Mellon Collection</p>
       </acqinfo>
+      <arrangement id="aspace_2f06077191ce9380d69bf2e833c1d032">
+         <head>Arrangement</head>
+         <p>The collection is arranged into the following series: Series 1. Correspondence (1805-1852),  Series 2. Printed Material (1820-1855), Series 3. Publications (1815-1830), Series 4. Additional material (1789-1845).</p>
+      </arrangement>
+      <bioghist id="aspace_d4e04ad8a69e812aa0d49bf5cdf342c0">
+         <head>Biographical / Historical</head>
+         <p>John Britton was a prolific topographer, writer, and editor in the early nineteenth century.  Britton was born 1 July 1771 in Wiltshire, England, to Henry Britton and Anne Hillier.  John was one of ten children.  Britton became interested in topography in 1789 following a meeting with his future collaborator Edward Wedlake Brayley.  Together, they worked with the publisher Vernon and Hood to undertake a topographical survey of England and Wales.  Brayley and Britton traveled primarily on foot, and the extensive traveling gave Britton an interest in English antiquities.  It also lead to a new interest in architecture.  Antiquities and architecture became a part of John Britton's publishing career, dovetailing with his established interest in topography.  He authored a large number of books that combined all three, such as <title>
+               <part>The Beauties of England and Wales</part>
+            </title> authored with Brayley and published between 1801 and 1814, <title>
+               <part>Architectural Antiquities of Great Britain</part>
+            </title>  and <title>
+               <part>Cathedral Antiquities of England</part>
+            </title>.  He edited many more.</p>
+         <p>Informed by his interest in antiquities, Britton actively campaigned for government protection of monuments in the first half of the nineteenth century.  He was also an advisor to the Royal Literary Fund, part of the Art Union Committee, and received a civil-list pension from then Chancellor of the Exchequer Benjamin Disraeli.  Britton married Mary Rule (1772-1848) in 1803 and then Ellen Morgan in 1849.  No children came from either marriage.  John Britton died of bronchitis at his home in St Pancras London on January 1, 1857.</p>
+      </bioghist>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh86000620"
                   source="lcsh">
@@ -191,6 +195,126 @@
             <part localtype="agent_person">Wyse, Thomas, Sir, 1791-1862</part>
          </persname>
       </controlaccess>
-      <dsc/>
+      <dsc>
+         <c altrender="/repositories/3/archival_objects/4017533"
+            id="aspace_0131db3e1e9f1ad9563432dc60368b7b"
+            level="series">
+            <did>
+               <unittitle>Series I. Correspondence</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1805">1805</fromdate>
+                     <todate standarddate="1852">1852</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_3a71a52420dfb234e5de921b8358037b">
+               <head>Scope and Contents</head>
+               <p>The correspondence series charts Britton's work as an author and as an advocate for the creation of a support network for antiquities in the first half of the 19th century.  The latter is especially present in his correspondence with Member of Parliment Joseph Hume, a confidant and supporter of Britton's goals.</p>
+            </scopecontent>
+            <c altrender="/repositories/3/archival_objects/4017666"
+               id="aspace_e85f9b5d1f2c19e07515a4f0cd8bf844"
+               level="file">
+               <did>
+                  <unittitle>Joseph Hume MP letters to John</unittitle>
+                  <unitdatestructured label="other" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1850-12-31">1850 December 31</fromdate>
+                        <todate standarddate="1851-06-15">1851 June 15</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_e85f9b5d1f2c19e07515a4f0cd8bf844_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_e85f9b5d1f2c19e07515a4f0cd8bf844_c2"
+                             localtype="folder"
+                             parent="aspace_e85f9b5d1f2c19e07515a4f0cd8bf844_c1">14</container>
+               </did>
+               <scopecontent id="aspace_5913d92afae123de83a3331f4d96ed56">
+                  <head>Scope and Contents</head>
+                  <p>Hume to support John Britton's application for a pension from "the Queen's Annual grant" by writing to Lord John Russell.  1851-06-16: Hume to John Britton – still no response from Russell</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4017534"
+            id="aspace_07a4dd715f5157cf0bb2b8d0f2fa03f4"
+            level="series">
+            <did>
+               <unittitle>Series II. Printed material</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1820">1820</fromdate>
+                     <todate standarddate="1855">1855</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_4d0c41675900deffc7ed476a3944c9e2">
+               <head>Scope and Contents</head>
+               <p>The printed materials vary in scope and include iterations of Britton's autobiography, obituaries for Joseph Hume, testimonials, and proposals for bills and committees relevant to Britton's work.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4017535"
+            id="aspace_ef9fdebd35220fc10991f533c35e2787"
+            level="series">
+            <did>
+               <unittitle>Publications</unittitle>
+               <unitid>Series III</unitid>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1815">1815</fromdate>
+                     <todate standarddate="1830">1830</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <arrangement id="aspace_77cfffb038c12d9e831c24210dc6e834">
+               <head>Arrangement</head>
+               <p>Material is arranged alphabetically by name of publication, then chronologically.</p>
+            </arrangement>
+            <scopecontent id="aspace_af7aacd773aae25b93e20f39c553b8ab">
+               <head>Scope and Contents</head>
+               <p>Material in the publication series connects directly to the many works written by Britton over the years and includes notes about specific topics and extended research and publishing correspondence.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4017536"
+            id="aspace_a7077f93050a6740337bc38183e0724d"
+            level="series">
+            <did>
+               <unittitle>Series IV. Additional material</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1789">1789</fromdate>
+                     <todate standarddate="1845">1845</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <arrangement id="aspace_f18dfea0bfd94bbb4a15fe1bd728324c">
+               <head>Arrangement</head>
+               <p>Material is arranged alphabetically.</p>
+            </arrangement>
+            <c altrender="/repositories/3/archival_objects/4017704"
+               id="aspace_e5de92f1c1eb9d6b48da903a379ca1b0"
+               level="file">
+               <did>
+                  <unittitle>Report of motion in House of Commons by Joseph Hume MP to secure the preservation of National Monuments</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1840-12">1840 December</fromdate>
+                        <todate standarddate="1841-06-04">1841 June 4</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_e5de92f1c1eb9d6b48da903a379ca1b0_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_e5de92f1c1eb9d6b48da903a379ca1b0_c2"
+                             localtype="folder"
+                             parent="aspace_e5de92f1c1eb9d6b48da903a379ca1b0_c1">49</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
    </archdesc>
 </ead>
