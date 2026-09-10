@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-09T03:00:45-04:00</eventdatetime>
+            <eventdatetime>2026-09-10T03:00:42-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  9, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 10, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -97,7 +97,7 @@
             <quantity>8.41</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">4 boxes</physdesc>
+         <physdesc localtype="container_summary">(4 boxes)</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1986">1986</fromdate>
@@ -106,19 +106,15 @@
          </unitdatestructured>
          <abstract id="aspace_4f6838e0ec88a00602ca5ffd2dad0e36">The collection consists of posters, photographs of posters, and a photographic postcard portfolio entitled "Intifada: Occupied Territory taken by eight Italian Photographers," documenting the twenty-fifth anniversary of the Palestine National Liberation Movement, the first anniversary of the Palestine State Proclamation, the second anniversary of the Intifada, and other issues and events concerning Palestinian movements. An addition to the collection includes posters relating primarily to the Popular Front for the Liberation of Palestine (P.F.L.P.) and similar organizations.</abstract>
       </did>
-      <acqinfo id="aspace_2c0ebf2c583aefa723dd873986931d18">
-         <head>Immediate Source of Acquisition</head>
-         <p>The collection was transferred to Manuscripts and Archives from the Near East Collection, 1995, 2005.</p>
-         <p>Purchased from Brooklyn, Inc. on the Edwin J. Beinecke Book Fund, 2026.</p>
-      </acqinfo>
       <accessrestrict id="aspace_4e3980d43342184187c75044f4a63657">
          <head>Conditions Governing Access</head>
          <p>The materials are open for research.</p>
       </accessrestrict>
-      <userestrict id="aspace_ee39cb65c02dd065880e70b8716e6732">
-         <head>Conditions Governing Use</head>
-         <p>Copyright status for collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
-      </userestrict>
+      <acqinfo id="aspace_2c0ebf2c583aefa723dd873986931d18">
+         <head>Immediate Source of Acquisition</head>
+         <p>The collection was transferred to Manuscripts and Archives from the Near East Collection, 1995, 2005.</p>
+         <p>Purchased from Booklyn, Inc. on the Edwin J. Beinecke Book Fund, 2026.</p>
+      </acqinfo>
       <prefercite id="aspace_0b2f122e9d20dd38885bbe5efeb50ac8">
          <head>Preferred Citation</head>
          <p>Palestinian Liberation Movement Collection (MS 1701). Manuscripts and Archives, Yale University Library.</p>
@@ -127,6 +123,10 @@
          <head>Scope and Contents</head>
          <p>The collection consists of posters, photographs of posters, and a photographic postcard portfolio entitled "Intifada: Occupied Territory taken by eight Italian Photographers," documenting the twenty-fifth anniversary of the Palestine National Liberation Movement, the first anniversary of the Palestine State Proclamation, the second anniversary of the Intifada, and other issues and events concerning Palestinian movements. An addition to the collection includes posters relating primarily to the Popular Front for the Liberation of Palestine (P.F.L.P.) and similar organizations.</p>
       </scopecontent>
+      <userestrict id="aspace_ee39cb65c02dd065880e70b8716e6732">
+         <head>Conditions Governing Use</head>
+         <p>Copyright status for collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
+      </userestrict>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh89001332"
                   source="lcsh">
