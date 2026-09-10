@@ -40,7 +40,7 @@
                <p>Boxes: 1, OV1-2, OV2-33, 35-55, 60-65, 86-87, 92-97, 101-103, 105-115, 120, 122-134, 171, 179, 195-199, 207-218, 223-225, 250-251, 265-273, 278-285, 287-293, 298-304, 306-494</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: OV3, OVd3-OV5, 56, 66</p>
+               <p>Boxes: OV3, OVd3-OV5, 56, 66-67</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="27">27</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2668">2,668</num> digital files.</p>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-09T18:00:35-04:00</eventdatetime>
+            <eventdatetime>2026-09-10T18:00:35-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  9, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 10, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -100,11 +100,16 @@
             </descriptivenote>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>138</quantity>
+            <quantity>140</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">332 boxes</physdesc>
-         <unitdate label="creation" unitdatetype="inclusive">Various dates according to material</unitdate>
+         <physdesc localtype="container_summary">349 boxes</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1692">1692</fromdate>
+               <todate standarddate="2020">2020</todate>
+            </daterange>
+         </unitdatestructured>
          <abstract id="aspace_6008f1dccd3ca45c1a83cb99c7e7a4d4">The Miscellaneous Personal Papers record group is an open collection consisting of the correspondence, diaries, writings and/or other papers and memorabilia of various individuals. This collection contains papers of individuals who were Yale faculty members, alumni/ae, clergy, ecumenical workers, or missionaries in areas other than China.</abstract>
       </did>
       <acqinfo id="ref3">
@@ -9204,6 +9209,99 @@ This note and a typed transcript of the journal have been provided by its donor,
                   </did>
                </c>
             </c>
+            <c altrender="/repositories/4/archival_objects/4055909"
+               id="aspace_5675594708a91cb6050ad7d4a839369e"
+               level="subseries">
+               <did>
+                  <unittitle>Dessen, Lydie</unittitle>
+               </did>
+               <bioghist id="aspace_13d7308d706f5a49f8402f7f64f25484">
+                  <head>Biographical / Historical</head>
+                  <p>Dessen was a missionary in Barotseland (Western Zambia) from 1936 to 1947, serving with Paris Evangelical Missionary Society (Société des missions évangéliques de Paris).</p>
+               </bioghist>
+               <c altrender="/repositories/4/archival_objects/4055910"
+                  id="aspace_b858acc98fc32670ce62c054525d0ac6"
+                  level="file">
+                  <did>
+                     <unittitle>Photographs from mission in Barotseland</unittitle>
+                     <unitdatestructured altrender="circa 1936-1947"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1936">1936</fromdate>
+                           <todate standarddate="1947">1947</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485082 /locations/2"
+                                containerid="39002112327243"
+                                id="aspace_b858acc98fc32670ce62c054525d0ac6_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <container id="aspace_b858acc98fc32670ce62c054525d0ac6_c2"
+                                localtype="folder"
+                                parent="aspace_b858acc98fc32670ce62c054525d0ac6_c1">4-5</container>
+                  </did>
+                  <scopecontent id="aspace_d7d96d95407c582f707d8715bf2bb19d">
+                     <head>Scope and Contents</head>
+                     <p>120 photos, many with legible captions. Included are King Yaka III, the village hospital, children farming, bible class, a forest baptism, dispensing flour, constructing a church, building a school, river construction for catching fish, making bricks, a number of photos showing missionary Etienne Berger (1908-1978) and his family, missionary cemetery, fishing at Lealui, girl guide camp, local named evangelical, mission station at Lealui, pagan tomb, indoor musicians at a local tribunal in Kutla, named missionaries posing at the annual conference at Jefoula on July 26 1936, a marriage at Ngambo, 5 stages of traversing rapids, children learning archery, Lydie Dessen learning to pound maize, teaching children to make mats, numerous photos of the royal barge delivering King, named royal daughter, royal weddings, a 1936 visit to Table Mountain, correspondence from Etienne Berger and his wife, photos of Lydie.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055911"
+                  id="aspace_70cc35c69796c0146b8134e87f942367"
+                  level="file">
+                  <did>
+                     <unittitle>Postcards, including of Princesses Royales and two with messages to Dessen</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/485082 /locations/2"
+                                containerid="39002112327243"
+                                id="aspace_70cc35c69796c0146b8134e87f942367_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <container id="aspace_70cc35c69796c0146b8134e87f942367_c2"
+                                localtype="folder"
+                                parent="aspace_70cc35c69796c0146b8134e87f942367_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055912"
+                  id="aspace_edb3f1fb21b31bad6296709008a290b5"
+                  level="file">
+                  <did>
+                     <unittitle>Three letters: two confirming Dessen's employment, one to Dessen in local dialect from Queen Mulena Mukwae</unittitle>
+                     <unitdatestructured altrender="1945, 1967, 1971"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1945">1945</fromdate>
+                           <todate standarddate="1971">1971</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485082 /locations/2"
+                                containerid="39002112327243"
+                                id="aspace_edb3f1fb21b31bad6296709008a290b5_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <container id="aspace_edb3f1fb21b31bad6296709008a290b5_c2"
+                                localtype="folder"
+                                parent="aspace_edb3f1fb21b31bad6296709008a290b5_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055913"
+                  id="aspace_928c7fb363ee59c9a9dc83e434cf3af6"
+                  level="file">
+                  <did>
+                     <unittitle>Autobiographical writing by Dessen (7 pages, photocopy)</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/485082 /locations/2"
+                                containerid="39002112327243"
+                                id="aspace_928c7fb363ee59c9a9dc83e434cf3af6_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <container id="aspace_928c7fb363ee59c9a9dc83e434cf3af6_c2"
+                                localtype="folder"
+                                parent="aspace_928c7fb363ee59c9a9dc83e434cf3af6_c1">8</container>
+                  </did>
+               </c>
+            </c>
             <c altrender="/repositories/4/archival_objects/2139670"
                id="ref1699"
                level="subseries">
@@ -13594,6 +13692,245 @@ Other materials, including a small set of photographs from Rome following WWII, 
                   </scopecontent>
                </c>
             </c>
+            <c altrender="/repositories/4/archival_objects/4055993"
+               id="aspace_3aefcea52ceaa088e4454234915964c1"
+               level="subseries">
+               <did>
+                  <unittitle>Griffin, Harry D. and Barbara</unittitle>
+               </did>
+               <bioghist id="aspace_99de1a299e19ab55f310bb90495e42ea">
+                  <head>Biographical / Historical</head>
+                  <p>The Griffins were Southern Baptist missionaries serving in Japan from 1965 to 1968.  Harry was the pastor of the English-speaking Kanto Plains Baptist Church near Yokota Air Base west of central Tokyo. After resigning from the church due to disagreements, the Griffins returned to Oklahoma and served Baptist churches there.</p>
+               </bioghist>
+               <c altrender="/repositories/4/archival_objects/4055994"
+                  id="aspace_165f8c0ecc0ee6f0ff76d18859cea355"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence with parents of Barbara Griffin, Roy and Ima Terry</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_165f8c0ecc0ee6f0ff76d18859cea355_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_165f8c0ecc0ee6f0ff76d18859cea355_c2"
+                                localtype="folder"
+                                parent="aspace_165f8c0ecc0ee6f0ff76d18859cea355_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055995"
+                  id="aspace_00e165b36ae39d9f0f370b75fe917349"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence with friends and former parishioners at Kanto Plains Baptist Church</unittitle>
+                     <unitdatestructured altrender="1965-1968, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_00e165b36ae39d9f0f370b75fe917349_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_00e165b36ae39d9f0f370b75fe917349_c2"
+                                localtype="folder"
+                                parent="aspace_00e165b36ae39d9f0f370b75fe917349_c1">2-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055996"
+                  id="aspace_27d36833a0a395f65273180f9bef073d"
+                  level="file">
+                  <did>
+                     <unittitle>Greeting cards from friends and former parishioners</unittitle>
+                     <unitdatestructured altrender="circa 1965-1968"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_27d36833a0a395f65273180f9bef073d_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_27d36833a0a395f65273180f9bef073d_c2"
+                                localtype="folder"
+                                parent="aspace_27d36833a0a395f65273180f9bef073d_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055997"
+                  id="aspace_f35043128816ba26e8b61b25c5b3c9b5"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence with Foreign Mission Board of the Southern Baptist Convention / Japan Mission</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1964">1964</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_f35043128816ba26e8b61b25c5b3c9b5_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_f35043128816ba26e8b61b25c5b3c9b5_c2"
+                                localtype="folder"
+                                parent="aspace_f35043128816ba26e8b61b25c5b3c9b5_c1">10-11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055998"
+                  id="aspace_b2c6bcfda3897c60f8fd152f156f0b77"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence related to mission and church work of Harry Griffin</unittitle>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_b2c6bcfda3897c60f8fd152f156f0b77_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_b2c6bcfda3897c60f8fd152f156f0b77_c2"
+                                localtype="folder"
+                                parent="aspace_b2c6bcfda3897c60f8fd152f156f0b77_c1">12-14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4055999"
+                  id="aspace_b2ed253ec39d51a1662e12610cc2d548"
+                  level="file">
+                  <did>
+                     <unittitle>Prayer support letters from Baptist churches in U.S.</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1967">1967</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_b2ed253ec39d51a1662e12610cc2d548_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_b2ed253ec39d51a1662e12610cc2d548_c2"
+                                localtype="folder"
+                                parent="aspace_b2ed253ec39d51a1662e12610cc2d548_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4056001"
+                  id="aspace_f017853c7f6bf6bd229aa8078821b72d"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence and receipts related to book and Bible purchases</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1967">1967</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_f017853c7f6bf6bd229aa8078821b72d_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_f017853c7f6bf6bd229aa8078821b72d_c2"
+                                localtype="folder"
+                                parent="aspace_f017853c7f6bf6bd229aa8078821b72d_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4056003"
+                  id="aspace_cf95786e54b9c503c379cbf5809d4a4a"
+                  level="file">
+                  <did>
+                     <unittitle>Notes for sermons or talks</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_cf95786e54b9c503c379cbf5809d4a4a_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_cf95786e54b9c503c379cbf5809d4a4a_c2"
+                                localtype="folder"
+                                parent="aspace_cf95786e54b9c503c379cbf5809d4a4a_c1">17</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4056004"
+                  id="aspace_8f2e7702053bdfa3297e50651a09f5ff"
+                  level="file">
+                  <did>
+                     <unittitle>Memorabilia, including flyer for revival at Kanto Plains Baptist Church</unittitle>
+                     <unitdatestructured altrender="1967-1968, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1967">1967</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_8f2e7702053bdfa3297e50651a09f5ff_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_8f2e7702053bdfa3297e50651a09f5ff_c2"
+                                localtype="folder"
+                                parent="aspace_8f2e7702053bdfa3297e50651a09f5ff_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4056005"
+                  id="aspace_d74a2aa4fc365f0528e47051e5838c49"
+                  level="file">
+                  <did>
+                     <unittitle>Memorabilia related to Griffin children and family health</unittitle>
+                     <unitdatestructured altrender="1967-1968, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1967">1967</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_d74a2aa4fc365f0528e47051e5838c49_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_d74a2aa4fc365f0528e47051e5838c49_c2"
+                                localtype="folder"
+                                parent="aspace_d74a2aa4fc365f0528e47051e5838c49_c1">19</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4056006"
+                  id="aspace_8f1353aa6b175a2cd521d6be4dea041b"
+                  level="file">
+                  <did>
+                     <unittitle>Financial records</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485141 /locations/2"
+                                containerid="39002112327235"
+                                id="aspace_8f1353aa6b175a2cd521d6be4dea041b_c1"
+                                label="Mixed Materials"
+                                localtype="box">67</container>
+                     <container id="aspace_8f1353aa6b175a2cd521d6be4dea041b_c2"
+                                localtype="folder"
+                                parent="aspace_8f1353aa6b175a2cd521d6be4dea041b_c1">20</container>
+                  </did>
+               </c>
+            </c>
             <c altrender="/repositories/4/archival_objects/2139704"
                id="ref663"
                level="subseries">
@@ -16452,6 +16789,12 @@ Other materials, including a small set of photographs from Rome following WWII, 
                   level="file">
                   <did>
                      <unittitle>Travel brochures re. Egypt, description of collection</unittitle>
+                     <container altrender="/repositories/4/top_containers/230820 /locations/9"
+                                containerid="39002054419859"
+                                id="aspace_ref842_c1"
+                                label="Mixed Materials"
+                                localtype="box">452</container>
+                     <container id="aspace_ref842_c2" localtype="folder" parent="aspace_ref842_c1">30</container>
                   </did>
                </c>
             </c>
@@ -24105,6 +24448,37 @@ The Reverend Ebenezer Martin's began his ministerial career as the founding prea
                   <scopecontent id="aspace_a3505066910dd9af2c62da0db39a4cf9">
                      <head>Scope and Contents</head>
                      <p>The Greek New Testament was given to Poling by his senior minister Romeyn Danforth in 1936. Enclosed are a photograph of Poling in Army uniform, a note from Danforth to Poling written on the back of a diary entry from 1917, and a note from Poling's widow Elizabeth (Poling) Cunningham conveying the volume to Charles Belknap, who donated it to YDS.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4055907"
+               id="aspace_9d6d62585bbd0a9341f1c6269b746369"
+               level="subseries">
+               <did>
+                  <unittitle>Porter, Dorris E.</unittitle>
+               </did>
+               <bioghist id="aspace_314c83ecfaabdd0e43bd47325bde1e90">
+                  <head>Biographical / Historical</head>
+                  <p>Porter was a missionary of the Church Missionary Society who served as Directress of a choral group at Fourah Bay College in Sierra Leone.</p>
+               </bioghist>
+               <c altrender="/repositories/4/archival_objects/4055908"
+                  id="aspace_305877fed9ea725009d6ce8c3a05c9f1"
+                  level="file">
+                  <did>
+                     <unittitle>Photos of choral concert and student groups at Fourah Bay College in Sierra Leone</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/485082 /locations/2"
+                                containerid="39002112327243"
+                                id="aspace_305877fed9ea725009d6ce8c3a05c9f1_c1"
+                                label="Mixed Materials"
+                                localtype="box">66</container>
+                     <container id="aspace_305877fed9ea725009d6ce8c3a05c9f1_c2"
+                                localtype="folder"
+                                parent="aspace_305877fed9ea725009d6ce8c3a05c9f1_c1">3</container>
+                  </did>
+                  <scopecontent id="aspace_e4c8dd0fd477defdaa7a007f9ff2b2c6">
+                     <head>Scope and Contents</head>
+                     <p>Photos show a group of students during a concert directed by Dorris Porter as well as group portraits, some with names of individuals identified.</p>
                   </scopecontent>
                </c>
             </c>
