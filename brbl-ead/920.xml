@@ -42,7 +42,7 @@
                <p>Boxes: 51-62, 65-67, 68-	69 (Oversize)	, 70-83, 84 (Oversize), 86, 87 (Oversize), 89, 90 (Oversize), 91, 92 (Oversize), 93, 94 (Oversize), 95, 97, 114-119</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="66">66</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="87">87</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="67">67</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="87">87</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-20T23:01:14-04:00</eventdatetime>
+            <eventdatetime>2026-09-09T23:00:50-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 20, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  9, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -14739,6 +14739,25 @@
                      <container id="aspace_1856434245e81225325d8429aa503a91_c2"
                                 localtype="item_barcode"
                                 parent="aspace_1856434245e81225325d8429aa503a91_c1">39002093672450</container>
+                     <daoset altrender="/repositories/11/digital_objects/353670">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/1g0ht2j73b"
+                             identifier="aviary_178307"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_178307"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Punk Mag Show at CBGBs raw footage undated</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_76b84860464745497f205140dac97290">
                      <head>Scope and Contents</head>

@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-03T23:02:05-05:00</eventdatetime>
+            <eventdatetime>2026-09-09T23:01:00-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday February  3, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  9, 2026 at 23:01</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -1031,12 +1031,10 @@
                   <unitdatestructured altrender="[1881?]" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1881">[1881?]</datesingle>
                   </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/60564 /locations/4051"
-                             containerid="39002091345505"
+                  <container altrender="/repositories/11/top_containers/60568"
                              id="aspace_ref43_c1"
                              label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref43_c2" localtype="folder" parent="aspace_ref43_c1">8</container>
+                             localtype="box">bsd, folder 26</container>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/464630"
@@ -1502,32 +1500,6 @@
                              label="Mixed Materials"
                              localtype="box">4</container>
                   <container id="aspace_ref79_c2" localtype="folder" parent="aspace_ref79_c1">34</container>
-               </did>
-            </c>
-         </c>
-         <c altrender="/repositories/11/archival_objects/464658"
-            id="ref81"
-            level="series">
-            <did>
-               <unittitle>Oversize</unittitle>
-               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                  <quantity>1.3</quantity>
-                  <unittype>Linear Feet</unittype>
-               </physdescstructured>
-               <physdesc localtype="container_summary">1 box</physdesc>
-            </did>
-            <c altrender="/repositories/11/archival_objects/464659"
-               id="ref83"
-               level="file">
-               <did>
-                  <unittitle>Plan of ground leased by the South Fork of the Quesnelle Mining Company</unittitle>
-                  <unitdatestructured altrender="[1881?]" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1881">[1881?]</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/60568"
-                             id="aspace_ref83_c1"
-                             label="Mixed Materials"
-                             localtype="box">bsd, folder 26</container>
                </did>
             </c>
          </c>
