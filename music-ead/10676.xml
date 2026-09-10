@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-10-20T20:08:29-04:00</eventdatetime>
+            <eventdatetime>2026-09-09T20:00:35-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 20, 2025 at 20:08</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  9, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -24752,6 +24752,7 @@
                                 id="aspace_G4002_c1"
                                 label="Mixed Materials"
                                 localtype="box">32</container>
+                     <container id="aspace_G4002_c2" localtype="folder" parent="aspace_G4002_c1">1</container>
                   </did>
                </c>
                <c altrender="/repositories/6/archival_objects/2615966"
@@ -24775,7 +24776,7 @@
                                 id="aspace_G4003_c1"
                                 label="Mixed Materials"
                                 localtype="box">32</container>
-                     <container id="aspace_G4003_c2" localtype="folder" parent="aspace_G4003_c1">1</container>
+                     <container id="aspace_G4003_c2" localtype="folder" parent="aspace_G4003_c1">2</container>
                   </did>
                   <odd id="aspace_f95ac2b669f7423c98caee8968a93898">
                      <head>General</head>
@@ -24793,7 +24794,7 @@
                                 id="aspace_G4004_c1"
                                 label="Mixed Materials"
                                 localtype="box">32</container>
-                     <container id="aspace_G4004_c2" localtype="folder" parent="aspace_G4004_c1">2-3</container>
+                     <container id="aspace_G4004_c2" localtype="folder" parent="aspace_G4004_c1">3</container>
                   </did>
                   <odd id="aspace_23a9c94bab13e6d58cc99d7cb9912bec">
                      <head>General</head>
