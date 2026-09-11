@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="21">21</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="16">16</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="103">103</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-09-17T03:03:38-04:00</eventdatetime>
+            <eventdatetime>2026-09-11T03:07:02-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 17, 2025 at 03:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 03:07</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1474,6 +1474,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref77_c2" localtype="folder" parent="aspace_ref77_c1">58</container>
+                     <daoset altrender="/repositories/12/digital_objects/353721">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33790391"
+                             linktitle="28 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33790391"
+                             identifier="oid:33790391"
+                             linktitle="28 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Paul Mellon residence, Antigua, British West Indies. Exterior, interior and old stone foundation prints</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1192918"
@@ -1491,6 +1512,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref78_c2" localtype="folder" parent="aspace_ref78_c1">59</container>
+                     <daoset altrender="/repositories/12/digital_objects/353720">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33790400"
+                             linktitle="16 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33790400"
+                             identifier="oid:33790400"
+                             linktitle="16 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Paul Mellon residence, 125 East 70th Street New York, New York. Contact sheets, rendering, prints</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1192919"
@@ -1511,6 +1553,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref79_c2" localtype="folder" parent="aspace_ref79_c1">60</container>
+                     <daoset altrender="/repositories/12/digital_objects/353719">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33790416"
+                             linktitle="14 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33790416"
+                             identifier="oid:33790416"
+                             linktitle="14 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Paul Mellon residence, Osterville, Massachusetts. Contact sheets</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1192920"
@@ -1531,6 +1594,27 @@
                                 label="Mixed Materials"
                                 localtype="box">3</container>
                      <container id="aspace_ref80_c2" localtype="folder" parent="aspace_ref80_c1">61</container>
+                     <daoset altrender="/repositories/12/digital_objects/353723">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33790456"
+                             linktitle="24 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33790456"
+                             identifier="oid:33790456"
+                             linktitle="24 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Paul Mellon residence, Osterville, Massachusetts. Interior prints MCC-1, 2, 3, 4, 5, 6</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1192921"

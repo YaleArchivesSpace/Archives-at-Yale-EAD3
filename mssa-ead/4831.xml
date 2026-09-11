@@ -38,7 +38,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="39">39</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="71">71</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="40">40</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="121">121</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T03:20:43-05:00</eventdatetime>
+            <eventdatetime>2026-09-11T03:07:42-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 03:20</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 03:07</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -38968,6 +38968,27 @@
                      <container id="aspace_ref2660_c2"
                                 localtype="folder"
                                 parent="aspace_ref2660_c1">15</container>
+                     <daoset altrender="/repositories/12/digital_objects/353725">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33791120"
+                             linktitle="50 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33791120"
+                             identifier="oid:33791120"
+                             linktitle="50 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Bingham, Alfred M.: Sybil's Bones, a Chronicle of the Three Hiram Binghams, and assorted correspondence</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1991398"

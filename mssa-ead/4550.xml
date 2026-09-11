@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="179">179</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="275">275</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-30T03:21:40-04:00</eventdatetime>
+            <eventdatetime>2026-09-11T03:07:06-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 30, 2026 at 03:21</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 03:07</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -12973,6 +12973,27 @@ See also: <ref actuate="onrequest" show="replace" target="ref4172">box 164, fold
                                 label="Mixed Materials"
                                 localtype="box">19</container>
                      <container id="aspace_ref782_c2" localtype="folder" parent="aspace_ref782_c1">465</container>
+                     <daoset altrender="/repositories/12/digital_objects/353722">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33790332"
+                             linktitle="32 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33790332"
+                             identifier="oid:33790332"
+                             linktitle="32 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Glazer, Nathan(*)</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <odd id="aspace_d3d05429b2f94d847848f60e80fb02f9">
                      <head>General note</head>
@@ -32255,6 +32276,27 @@ See also: <ref actuate="onrequest" show="replace" target="ref4172">box 164, fold
                      <container id="aspace_ref1895_c2"
                                 localtype="folder"
                                 parent="aspace_ref1895_c1">1196</container>
+                     <daoset altrender="/repositories/12/digital_objects/353724">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33790373"
+                             linktitle="64 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33790373"
+                             identifier="oid:33790373"
+                             linktitle="64 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Souvarine, Boris(*)</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1685913"

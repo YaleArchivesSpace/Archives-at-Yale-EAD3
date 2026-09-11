@@ -37,7 +37,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="67">67</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="68">68</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="30">30</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -60,10 +60,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-01T03:03:01-04:00</eventdatetime>
+            <eventdatetime>2026-09-11T03:02:47-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 03:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -802,6 +802,35 @@
                      <container id="aspace_6a8355e62e3c185b712e67f187612aed_c2"
                                 localtype="folder"
                                 parent="aspace_6a8355e62e3c185b712e67f187612aed_c1">5</container>
+                     <daoset altrender="/repositories/12/digital_objects/353698">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33786155"
+                             identifier="oid:33786155"
+                             linktitle="30 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33786179/full/!150,150/0/default.jpg"
+                             identifier="oid:33786155"
+                             linktitle="30 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33786155"
+                             identifier="oid:33786155"
+                             linktitle="30 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Population Control in Puerto Rico - Notes and Handouts</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/3430129"
