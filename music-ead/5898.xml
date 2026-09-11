@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-25T20:00:13-04:00</eventdatetime>
+            <eventdatetime>2026-09-10T20:01:10-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 10, 2026 at 20:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -136101,6 +136101,9 @@
                                 id="aspace_s13b413.d0e81625_c1"
                                 label="Mixed Materials"
                                 localtype="box">413</container>
+                     <container id="aspace_s13b413.d0e81625_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b413.d0e81625_c1">39002132460420</container>
                   </did>
                   <scopecontent id="aspace_0bf7df6d8b4fb4ec71f27d638b03dda5">
                      <head>Scope and Contents</head>
@@ -136125,6 +136128,9 @@
                                 id="aspace_s13b413.d0e81638_c1"
                                 label="Mixed Materials"
                                 localtype="box">413</container>
+                     <container id="aspace_s13b413.d0e81638_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b413.d0e81638_c1">39002132460438</container>
                   </did>
                   <scopecontent id="aspace_d4663586e28e84124b3e9bc024ba1095">
                      <head>Scope and Contents</head>
@@ -136149,6 +136155,9 @@
                                 id="aspace_s13b413.d0e81651_c1"
                                 label="Mixed Materials"
                                 localtype="box">413</container>
+                     <container id="aspace_s13b413.d0e81651_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b413.d0e81651_c1">39002132460446</container>
                   </did>
                   <scopecontent id="aspace_0e32a0bafa6988b087522c968c418e97">
                      <head>Scope and Contents</head>
@@ -136173,6 +136182,9 @@
                                 id="aspace_s13b413.d0e81664_c1"
                                 label="Mixed Materials"
                                 localtype="box">413</container>
+                     <container id="aspace_s13b413.d0e81664_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b413.d0e81664_c1">39002132460453</container>
                   </did>
                   <scopecontent id="aspace_e1281d5c85ce5bf8269bc56ee59bf288">
                      <head>Scope and Contents</head>
@@ -139177,8 +139189,8 @@
                                 label="Mixed Materials"
                                 localtype="box">422</container>
                      <container id="aspace_s13b422.d0e83643_c2"
-                                localtype="folder"
-                                parent="aspace_s13b422.d0e83643_c1">1</container>
+                                localtype="item_barcode"
+                                parent="aspace_s13b422.d0e83643_c1">39002132460230</container>
                   </did>
                </c>
                <c altrender="/repositories/6/archival_objects/2425834"
