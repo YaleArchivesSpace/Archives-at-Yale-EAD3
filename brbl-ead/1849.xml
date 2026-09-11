@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-27T23:00:22-04:00</eventdatetime>
+            <eventdatetime>2026-09-10T23:07:04-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 27, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 10, 2026 at 23:07</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -10104,7 +10104,15 @@
                                    id="aspace_ref623_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref623_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref623_c1">39002140886749</container>
                      </did>
+                     <accessrestrict id="aspace_a3c3cc2d375b8628fbdfbc4428d6022e"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758566"
                      id="ref625"
@@ -10206,7 +10214,15 @@
                                    id="aspace_ref635_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref635_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref635_c1">39002140886756</container>
                      </did>
+                     <accessrestrict id="aspace_e627e15b7bce443704f5473f97909f20"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758572"
                      id="ref637"
@@ -10223,7 +10239,15 @@
                                    id="aspace_ref637_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref637_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref637_c1">39002140886731</container>
                      </did>
+                     <accessrestrict id="aspace_338e8fde57b9922f386ec45358134778"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758573"
                      id="ref639"
@@ -10240,7 +10264,15 @@
                                    id="aspace_ref639_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref639_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref639_c1">39002140886723</container>
                      </did>
+                     <accessrestrict id="aspace_985655292853811f83629216200252a1"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758574"
                      id="ref641"
@@ -10248,8 +10280,8 @@
                      <did>
                         <unittitle>[Unlabeled]</unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                           <quantity>2</quantity>
-                           <unittype>Audiocassettes</unittype>
+                           <quantity>1</quantity>
+                           <unittype>Audiocassette</unittype>
                         </physdescstructured>
                         <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                         <container altrender="/repositories/11/top_containers/87647 /locations/9"
@@ -10257,7 +10289,15 @@
                                    id="aspace_ref641_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref641_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref641_c1">39002140886707</container>
                      </did>
+                     <accessrestrict id="aspace_006cbd73791c56806b1effcbff5b290d"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758575"
                      id="ref643"
@@ -10278,13 +10318,21 @@
                                    id="aspace_ref643_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref643_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref643_c1">39002140886699</container>
                      </did>
+                     <accessrestrict id="aspace_de78c273bcc10f7f68c1b732ffae268c"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758576"
                      id="ref645"
                      level="file">
                      <did>
-                        <unittitle>[Unlabeled]</unittitle>
+                        <unittitle>1; 2</unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
@@ -10295,7 +10343,15 @@
                                    id="aspace_ref645_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref645_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref645_c1">39002140886681</container>
                      </did>
+                     <accessrestrict id="aspace_206d6930a2cf71e4b529f27eedd349bc"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758577"
                      id="ref647"
@@ -10318,7 +10374,15 @@
                                    id="aspace_ref647_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref647_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref647_c1">39002140886673</container>
                      </did>
+                     <accessrestrict id="aspace_9f1284a6bb856de7b37fa20b45222a0e"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758578"
                      id="ref649"
@@ -10341,7 +10405,15 @@
                                    id="aspace_ref649_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref649_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref649_c1">39002140886665</container>
                      </did>
+                     <accessrestrict id="aspace_552d09afb2953761b08217be010d4609"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758579"
                      id="ref651"
@@ -10367,7 +10439,15 @@
                                    id="aspace_ref651_c1"
                                    label="Mixed Materials"
                                    localtype="box">66</container>
+                        <container id="aspace_ref651_c2"
+                                   localtype="item_barcode"
+                                   parent="aspace_ref651_c1">39002140886657</container>
                      </did>
+                     <accessrestrict id="aspace_377fa29e9ee4294ad12c0238c074deda"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/758580"
                      id="ref653"
