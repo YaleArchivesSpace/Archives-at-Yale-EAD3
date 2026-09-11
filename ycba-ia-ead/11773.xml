@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-10T18:01:18-04:00</eventdatetime>
+            <eventdatetime>2026-09-11T18:01:08-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 10, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -125,7 +125,7 @@
          <p>Copyright Undetermined</p>
          <p>The collection is the physical property of the Yale Center for British Art. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the Archives Department.</p>
       </userestrict>
-      <accessrestrict id="aspace_17d5b388ddc5e769315cb1316869297d" localtype="NoRequest">
+      <accessrestrict id="aspace_17d5b388ddc5e769315cb1316869297d">
          <head>Conditions Governing Access</head>
          <p>The materials are open for research use.</p>
       </accessrestrict>
@@ -212,12 +212,319 @@
                <head>Scope and Contents</head>
                <p>The correspondence series charts Britton's work as an author and as an advocate for the creation of a support network for antiquities in the first half of the 19th century.  The latter is especially present in his correspondence with Member of Parliment Joseph Hume, a confidant and supporter of Britton's goals.</p>
             </scopecontent>
+            <c altrender="/repositories/3/archival_objects/4017654"
+               id="aspace_83080a6b572bfd5003357e8b104e9568"
+               level="file">
+               <did>
+                  <unittitle>John Britton correspondence wtih Benjamin Strutt and D. Harris</unittitle>
+                  <unitdatestructured label="other" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1805-11-11">1805 November 11</fromdate>
+                        <todate standarddate="1812-06-02">1812 June 2</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_83080a6b572bfd5003357e8b104e9568_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_83080a6b572bfd5003357e8b104e9568_c2"
+                             localtype="folder"
+                             parent="aspace_83080a6b572bfd5003357e8b104e9568_c1">1</container>
+               </did>
+               <scopecontent id="aspace_b5123f88a4f482c0230216532a657a5d">
+                  <head>Scope and Contents</head>
+                  <p>Letters from Benjamin Strutt, antiquary, concerning St. Botolph's, Colchester; Colcester Castle etc.; 2 letters (undated) concerning the same from D. Harris.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017655"
+               id="aspace_a5794988c7faadb56ca412b57659ebeb"
+               level="file">
+               <did>
+                  <unittitle>John Britton correspondence with R.S. Mackenzie, E.W. Brayley, F. Smythies, George Cumberland, and John Goodford</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1808">1808</fromdate>
+                        <todate standarddate="1845">1845</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_a5794988c7faadb56ca412b57659ebeb_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_a5794988c7faadb56ca412b57659ebeb_c2"
+                             localtype="folder"
+                             parent="aspace_a5794988c7faadb56ca412b57659ebeb_c1">2</container>
+               </did>
+               <scopecontent id="aspace_e25ce8707f65bdd6534c8dd99d3880ce">
+                  <head>Scope and Contents</head>
+                  <p>Letters (1845-05-01) to John Britton from R.S. Mackenzie, concerning Junius and barre (also 1845-02-04).  Note and receipt (undated) to John Britton from E.W. Brayley  Note (1834-07-10) from John Britton from s. Smythies.  George Cumberland to John Britton (1825-02-18) concerning plates, labels, bindings etc.  John Goodford of Yeovil to John Britton (1808-12-26) concerning Montacute House for 'Architectural Antiquities.'</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017656"
+               id="aspace_08908412aeeb5b0218799abe578c2dff"
+               level="file">
+               <did>
+                  <unittitle>Robert Roberts, Edward Roberts, George Cooke, M. Miller, Edward Goodhall, William Freeman, and H.Law letters to John Britton</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1820-04-04">1820 April 4</fromdate>
+                        <todate standarddate="1827-02">1827 February</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_08908412aeeb5b0218799abe578c2dff_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_08908412aeeb5b0218799abe578c2dff_c2"
+                             localtype="folder"
+                             parent="aspace_08908412aeeb5b0218799abe578c2dff_c1">3</container>
+               </did>
+               <scopecontent id="aspace_deac3009818f6a40a510a68a58497e4c">
+                  <head>Scope and Contents</head>
+                  <p>Robert Roberts to John Britton: 3 letters (1827-02, 1826, 1826-11-09) concerning financial arrangements concerning engravings.  Edward Roberts to John Britton (undated) 2 letters from George Cooke to John Britton (1825-11-24 and 1825-10-20).  M. Miller to John Britton (1825-11-08).  Edward Goodhall to John Britton (undated).  William Freeman to John Britton (1820-04-24).  H. Law to John Britton (1825-01-17).</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017657"
+               id="aspace_eff4257a62be42f145eb8732f7a88411"
+               level="file">
+               <did>
+                  <unittitle>Thomas Cubitt and J.C. Still letters to John Britton</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1822-08-25">1822 August 25</fromdate>
+                        <todate standarddate="1844-06-03">1844 June 3</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_eff4257a62be42f145eb8732f7a88411_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_eff4257a62be42f145eb8732f7a88411_c2"
+                             localtype="folder"
+                             parent="aspace_eff4257a62be42f145eb8732f7a88411_c1">4</container>
+               </did>
+               <scopecontent id="aspace_1862c8dee3479f5a973082999763928e">
+                  <head>Scope and Contents</head>
+                  <p>Letter to John Britton to Thomas Cubitt, builder.  1822-08-25 and 1822-11-25; letters from John Britton to J.C. Still, landsteward.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017675"
+               id="aspace_143384a38859db92d7d1aabed63d11b5"
+               level="file">
+               <did>
+                  <unittitle>John Britton correspondence with George Cattermole and H.W. Ball</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1823-03-15">1823 March 15</fromdate>
+                        <todate standarddate="1843-09-30">1843 September 30</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_143384a38859db92d7d1aabed63d11b5_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_143384a38859db92d7d1aabed63d11b5_c2"
+                             localtype="folder"
+                             parent="aspace_143384a38859db92d7d1aabed63d11b5_c1">5</container>
+               </did>
+               <scopecontent id="aspace_a69b13346fe1c472b16e5072ffaf2e31">
+                  <head>Scope and Contents</head>
+                  <p>Accounts (1823-03-15 to 27) between John Britton and George Cattermole concerning Wells Cathedral, 1843-09-30 letter from John Britton to H.W. Ball concerning Wells Cathedral.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017658"
+               id="aspace_e9971164a9f156f96a190bda563f9cc9"
+               level="file">
+               <did>
+                  <unittitle>George Cattermole letters to John Britton and to unidentified</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1923-11-04">1923 November 4</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_e9971164a9f156f96a190bda563f9cc9_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_e9971164a9f156f96a190bda563f9cc9_c2"
+                             localtype="folder"
+                             parent="aspace_e9971164a9f156f96a190bda563f9cc9_c1">6</container>
+               </did>
+               <scopecontent id="aspace_7b81d12ce89c5ceff62ef2a0ba5a3c8f">
+                  <head>Scope and Contents</head>
+                  <p>Two letters from George Cattermole (1823-11-04) and draft reply "after your last insulting letter…I must certainly decline any further personal intercourse, with a man who has done so much ton injure John Britton," (sent 'by Mr. Porden's Pupil); quarrel over non-payment of 6/7 pounds by John Britton to George Cattermole for plate of Covent Garden, which had to be altered to satisfy its architect, Robert Smirke.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017659"
+               id="aspace_f7ea7d6dc47b0da15dd8793756ea7a8e"
+               level="file">
+               <did>
+                  <unittitle>Benjamin Hobhouse letter to Joseph Snow</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1831-03-01">1831 March 1</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_f7ea7d6dc47b0da15dd8793756ea7a8e_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_f7ea7d6dc47b0da15dd8793756ea7a8e_c2"
+                             localtype="folder"
+                             parent="aspace_f7ea7d6dc47b0da15dd8793756ea7a8e_c1">7</container>
+               </did>
+               <scopecontent id="aspace_93ca83ccbb9c33b086daa1faac4331e4">
+                  <head>Scope and Contents</head>
+                  <p>Benjamin Hobhouse of Berkeley Square to Joseph Snow concerning the Literary Fund.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017660"
+               id="aspace_ac6476de22fc83f58255654908b62e51"
+               level="file">
+               <did>
+                  <unittitle>Joseph Hume MP letters to John Britton</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1839-02-03">1839 February 3</fromdate>
+                        <todate standarddate="1839-10-10">1839 October 10</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_ac6476de22fc83f58255654908b62e51_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ac6476de22fc83f58255654908b62e51_c2"
+                             localtype="folder"
+                             parent="aspace_ac6476de22fc83f58255654908b62e51_c1">8</container>
+               </did>
+               <scopecontent id="aspace_b7e5253f781e6b11a981d2f3ac385c14">
+                  <head>Scope and Contents</head>
+                  <p>Letters (1839-02-03, 1839-03-28, 1839-10-05, 1839-05-24) from Joseph Hume MP to John Britton who had supplied Hume with books and a report on British Antiquities (for comparison with a report recently produced in France) and correspondence with Lord Lansdown; prior to Hume's approach to Lord Melbourne in 1840 concerning the preservation of British Antiquities.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017661"
+               id="aspace_fc3290d47eb70ffd9a5fd673d69cda13"
+               level="file">
+               <did>
+                  <unittitle>John Britton correspondence with Salvandy</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1839-02-28">1839 February 28</fromdate>
+                        <todate standarddate="1839-10">1839 October</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_fc3290d47eb70ffd9a5fd673d69cda13_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_fc3290d47eb70ffd9a5fd673d69cda13_c2"
+                             localtype="folder"
+                             parent="aspace_fc3290d47eb70ffd9a5fd673d69cda13_c1">9</container>
+               </did>
+               <scopecontent id="aspace_aa02013994d10e5911550f4440a63a3a">
+                  <head>Scope and Contents</head>
+                  <p>John Britton invited (1839-02-28) by Salvandy to become Corresponding Member of the Committee on Arts and Monuments set up by the French Ministry of Public Instruction.  John Britton replies (1839-10) accepting invitation, despite "having passed my 68th year, (having) employed my head and eyes in literary labours, and the arts, for more than 40"; and even though "I am desirous of relaxing a little from the exertions of reading and writing."</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017662"
+               id="aspace_d07e86ce7cd7697d57c0bb710eb58bc4"
+               level="file">
+               <did>
+                  <unittitle>Joseph Hume MP letter to John Britton</unittitle>
+                  <unitdatestructured label="other" unitdatetype="inclusive">
+                     <datesingle standarddate="1843-01-11">1843 January 11</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_d07e86ce7cd7697d57c0bb710eb58bc4_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_d07e86ce7cd7697d57c0bb710eb58bc4_c2"
+                             localtype="folder"
+                             parent="aspace_d07e86ce7cd7697d57c0bb710eb58bc4_c1">10</container>
+               </did>
+               <scopecontent id="aspace_25224f610e2f8436b82f5c179f596400">
+                  <head>Scope and Contents</head>
+                  <p>Hume congratulates John Britton on receipt of medal from King of Prussia and indicates that he will re-submit his proposals concerning British Antiquities (and John Britton's reports), this time to Sir Robert Peel.  Also sends John Britton some information about Department of Woods and Forests, on the history of which John Britton is working.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017663"
+               id="aspace_d109c372c427c206f558b484c325e4d0"
+               level="file">
+               <did>
+                  <unittitle>Joseph Hume MP letter [to John Britton?]</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1845-01-12">1845 January 12</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_d109c372c427c206f558b484c325e4d0_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_d109c372c427c206f558b484c325e4d0_c2"
+                             localtype="folder"
+                             parent="aspace_d109c372c427c206f558b484c325e4d0_c1">11</container>
+               </did>
+               <scopecontent id="aspace_d52bdf1d8d4d83ea3a12484a8c165910">
+                  <head>Scope and Contents</head>
+                  <p>Joseph Hume sends a contribution to the Britton Testimonial.  "I had, long ago, expressed my sense of your claims to public attention by proposing that you should be employed by the Govt. to go round the Kingdom, and place on record your opinion of all the Monuments and Buildings which your labours had not comprehended, with the view of measures being taken to preserve those that should be considered valuable.  You are aware that I brought this subject before Parliament, and names you as the man who, of all persons I knew, could and would do justice to…such a commission; and I shall always regret that the Govt. did not adopt my suggestions."</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017664"
+               id="aspace_ff91f0635a4cde5568c41f952fdf059c"
+               level="file">
+               <did>
+                  <unittitle>John Britton letter to Thomas Wyse MP</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1845-03-03">1845 March 3</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_ff91f0635a4cde5568c41f952fdf059c_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ff91f0635a4cde5568c41f952fdf059c_c2"
+                             localtype="folder"
+                             parent="aspace_ff91f0635a4cde5568c41f952fdf059c_c1">12</container>
+               </did>
+               <scopecontent id="aspace_655907afa8e8c1e2a17a532febfc6868">
+                  <head>Scope and Contents</head>
+                  <p>John Britton to Thomas Wyse MP concerning latter's scheme for a "Museum of National Antiquities and Historical Library."  John Britton offers his own library of topographical and historical books, mss, etc. (e.g., collections of Stukekley, Carter and William Aleander, ex-keeper of the BM Print Room) as nucleus of new national collection</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017665"
+               id="aspace_18fee243c96afeb6b7c7eca48cf64c89"
+               level="file">
+               <did>
+                  <unittitle>Joseph Hume MP letter to John Britton with returned proofs</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1850-02-02">1850 February 2</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_18fee243c96afeb6b7c7eca48cf64c89_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_18fee243c96afeb6b7c7eca48cf64c89_c2"
+                             localtype="folder"
+                             parent="aspace_18fee243c96afeb6b7c7eca48cf64c89_c1">13</container>
+               </did>
+               <scopecontent id="aspace_1a101f05420213a6dda492b7d27790a3">
+                  <head>Scope and Contents</head>
+                  <p>Hume returns proofs (1850-02-05) of John Britton's autobiography and recalls the lost opportunity of 1840 – his scheme for a survey and preservation of British Antiquities; enclosure of printed copy of a speech on Parliamentary Reform.</p>
+               </scopecontent>
+            </c>
             <c altrender="/repositories/3/archival_objects/4017666"
                id="aspace_e85f9b5d1f2c19e07515a4f0cd8bf844"
                level="file">
                <did>
-                  <unittitle>Joseph Hume MP letters to John</unittitle>
-                  <unitdatestructured label="other" unitdatetype="inclusive">
+                  <unittitle>Joseph Hume MP letters to John Britton?</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1850-12-31">1850 December 31</fromdate>
                         <todate standarddate="1851-06-15">1851 June 15</todate>
@@ -237,6 +544,50 @@
                   <p>Hume to support John Britton's application for a pension from "the Queen's Annual grant" by writing to Lord John Russell.  1851-06-16: Hume to John Britton – still no response from Russell</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/3/archival_objects/4017668"
+               id="aspace_be0e2e956fa58f1cb3111e79ee2268bf"
+               level="file">
+               <did>
+                  <unittitle>John Britton letter draft to Joseph Hume MP</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1851-01-04">1851 January 4</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_be0e2e956fa58f1cb3111e79ee2268bf_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_be0e2e956fa58f1cb3111e79ee2268bf_c2"
+                             localtype="folder"
+                             parent="aspace_be0e2e956fa58f1cb3111e79ee2268bf_c1">15</container>
+               </did>
+               <scopecontent id="aspace_e0e8b71664811af8855e4508f0d15c26">
+                  <head>Scope and Contents</head>
+                  <p>Draft of letter by John Britton to Hume begging him to use his influence to obtain a civil list pension.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017667"
+               id="aspace_cb524d34e484b6a4251adbe765b0416c"
+               level="file">
+               <did>
+                  <unittitle>Rev. Mr. Scarth letter to Rev. Mr. Kilvert</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1852-10-10">1852 October 10</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_cb524d34e484b6a4251adbe765b0416c_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_cb524d34e484b6a4251adbe765b0416c_c2"
+                             localtype="folder"
+                             parent="aspace_cb524d34e484b6a4251adbe765b0416c_c1">16</container>
+               </did>
+               <scopecontent id="aspace_4f2e264eba50827cd620a834fb3cdf79">
+                  <head>Scope and Contents</head>
+                  <p>Concerns Somsert Architectural Society.</p>
+               </scopecontent>
+            </c>
          </c>
          <c altrender="/repositories/3/archival_objects/4017534"
             id="aspace_07a4dd715f5157cf0bb2b8d0f2fa03f4"
@@ -254,6 +605,172 @@
                <head>Scope and Contents</head>
                <p>The printed materials vary in scope and include iterations of Britton's autobiography, obituaries for Joseph Hume, testimonials, and proposals for bills and committees relevant to Britton's work.</p>
             </scopecontent>
+            <c altrender="/repositories/3/archival_objects/4017669"
+               id="aspace_5878f3d39100a68567693f9e822ff28f"
+               level="file">
+               <did>
+                  <unittitle>Memoir of John Britton, Esq. from <title>
+                        <part>The European Magazine and London Review</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1820-03">1820 March</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_5878f3d39100a68567693f9e822ff28f_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_5878f3d39100a68567693f9e822ff28f_c2"
+                             localtype="folder"
+                             parent="aspace_5878f3d39100a68567693f9e822ff28f_c1">17</container>
+               </did>
+               <scopecontent id="aspace_d0360e8a478cd5029a981bdb33a9c853">
+                  <head>Scope and Contents</head>
+                  <p>Memoir and portrait of John Britton; printed extracts from <title>
+                        <part>European Magazine and London Review</part>
+                     </title>
+                  </p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017670"
+               id="aspace_26e4d5e3f57bbbfbd64a321c7dbe71e5"
+               level="file">
+               <did>
+                  <unittitle>Autobiography of John Britton (presentation copy)</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1825">1825</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_26e4d5e3f57bbbfbd64a321c7dbe71e5_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_26e4d5e3f57bbbfbd64a321c7dbe71e5_c2"
+                             localtype="folder"
+                             parent="aspace_26e4d5e3f57bbbfbd64a321c7dbe71e5_c1">18</container>
+               </did>
+               <scopecontent id="aspace_c2f9272bc33328689ea9d1f36882db28">
+                  <head>Scope and Contents</head>
+                  <p>Presentation copy of John Britton's "Brief Memoir" reprinted from the 'Beauties of Wiltshire' (1825) with letter from John Britton to the Earl of Essex.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017671"
+               id="aspace_fa6566cb62c65d12d04e821ace0be1de"
+               level="file">
+               <did>
+                  <unittitle>Bill for the Establishment of Schools...proposal by Joseph Hume MP</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1843-05-31">1843 May 31</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_fa6566cb62c65d12d04e821ace0be1de_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_fa6566cb62c65d12d04e821ace0be1de_c2"
+                             localtype="folder"
+                             parent="aspace_fa6566cb62c65d12d04e821ace0be1de_c1">19</container>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017672"
+               id="aspace_26c4e874495e6476b12a706fdc9342bf"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Suggestions of the National Collection of Studies of our national architecture</part>
+                     </title> by E.B. Lamb</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1844-08-04">1844 August 4</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_26c4e874495e6476b12a706fdc9342bf_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_26c4e874495e6476b12a706fdc9342bf_c2"
+                             localtype="folder"
+                             parent="aspace_26c4e874495e6476b12a706fdc9342bf_c1">20</container>
+               </did>
+               <scopecontent id="aspace_51ed7ff9c68826b20fa9285d13656539">
+                  <head>Scope and Contents</head>
+                  <p>Pamphlet by E.B. Lamb: "Suggestions for a National Collection of Studies of our National Architecture" for "Gothic Architecture has not had its due share of accommodation in the National Museum."  This suggestion (1842-07-11) for a collection of Gothic remains at the British Museum was rejected by the Trustees (1842-11-18).  Therefore now addressed to the house; Gothic fragments and measured drawings more useful than Greek, yet British Museum is still making space for packing cases of marble fragments.  Yet "in our practice of Grecian Architecture we have not got a single step beyond the examples provided by Stuart and his contemporaries, notwithstanding so much – or rather so many things have since been discovered."</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017673"
+               id="aspace_ec147254ebb6551cfc4f6b084bce1392"
+               level="file">
+               <did>
+                  <unittitle>Testimonial to John Britton, Esq.</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1845">1845</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_ec147254ebb6551cfc4f6b084bce1392_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ec147254ebb6551cfc4f6b084bce1392_c2"
+                             localtype="folder"
+                             parent="aspace_ec147254ebb6551cfc4f6b084bce1392_c1">21</container>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017706"
+               id="aspace_bb30aeabaac94c490bbd5f99a1f3e3ce"
+               level="file">
+               <did>
+                  <unittitle>Printed appeal on behalf of author James Carter with additional notes</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1846-01-03">1846 January 3</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_bb30aeabaac94c490bbd5f99a1f3e3ce_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_bb30aeabaac94c490bbd5f99a1f3e3ce_c2"
+                             localtype="folder"
+                             parent="aspace_bb30aeabaac94c490bbd5f99a1f3e3ce_c1">22</container>
+               </did>
+               <scopecontent id="aspace_c2190b5a1fd9659eb4c0ae8ec243316d">
+                  <head>Scope and Contents</head>
+                  <p>Printed appeal by John Britton on behalf of a distressed author, James Carter.  Quotation on the subject of patronage.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017705"
+               id="aspace_7f184cd27f2addbc186cdf8493f8c802"
+               level="file">
+               <did>
+                  <unittitle>Joseph Hume newspaper obituaries and portraits</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1855-02">1855 February</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_7f184cd27f2addbc186cdf8493f8c802_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_7f184cd27f2addbc186cdf8493f8c802_c2"
+                             localtype="folder"
+                             parent="aspace_7f184cd27f2addbc186cdf8493f8c802_c1">23</container>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017564"
+               id="aspace_4b9325bc6c7bbce40d0aeb5d5bf598d6"
+               level="file">
+               <did>
+                  <unittitle>Engraved portraits of John Farquhar, Robert Roberts, Sir Benjamin Hobhouse Bt.</unittitle>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_4b9325bc6c7bbce40d0aeb5d5bf598d6_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_4b9325bc6c7bbce40d0aeb5d5bf598d6_c2"
+                             localtype="folder"
+                             parent="aspace_4b9325bc6c7bbce40d0aeb5d5bf598d6_c1">24</container>
+               </did>
+            </c>
          </c>
          <c altrender="/repositories/3/archival_objects/4017535"
             id="aspace_ef9fdebd35220fc10991f533c35e2787"
@@ -276,6 +793,65 @@
                <head>Scope and Contents</head>
                <p>Material in the publication series connects directly to the many works written by Britton over the years and includes notes about specific topics and extended research and publishing correspondence.</p>
             </scopecontent>
+            <c altrender="/repositories/3/archival_objects/4017676"
+               id="aspace_17e97b3b96623e2a2fb891c4b8088140"
+               level="file">
+               <did>
+                  <unittitle>Fonthill Abbey</unittitle>
+                  <unitdatestructured altrender="1823 September-November, undated"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1823-09-03">1823 September 3</fromdate>
+                        <todate standarddate="1823-11-27">1823 November 27</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_17e97b3b96623e2a2fb891c4b8088140_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_17e97b3b96623e2a2fb891c4b8088140_c2"
+                             localtype="folder"
+                             parent="aspace_17e97b3b96623e2a2fb891c4b8088140_c1">25</container>
+               </did>
+               <scopecontent id="aspace_0d380125985d118e933b07c7adbe8470">
+                  <head>Scope and Contents</head>
+                  <p>Advertisement to be placed in Literary Gazette 1823-09-08 concerning subscriptions to 'Fronthill Abbey.'  1823-11-27: G.W. Collen of College of Arms thanks John Britton for presentation copy of 'Fronthill' O. Rees to John Britton concerning Fronthill (undated); note on scandalous trial of Earl of Castlehaven 1631, one time owner of the Fronthill estate.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017682"
+               id="aspace_ee5494e2e3661f6e6fed459765e77353"
+               level="file">
+               <did>
+                  <unittitle>Peterborough Cathedral</unittitle>
+               </did>
+               <scopecontent id="aspace_84ec6ddd014d6aba8a682becfa316db8">
+                  <head>Scope and Contents</head>
+                  <p>Documents related to John Britton's volume on "Peterborough" in the 'Cathedrals' series, mostly concerned with architectural details; the production of plates; and presentation copies.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017563"
+               id="aspace_1635e31c8b1d6ea4988be8a3d6dc0be8"
+               level="file">
+               <did>
+                  <unittitle>St. George's Chapel, Windsor notes</unittitle>
+                  <unitdatestructured altrender="undated" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1770">1770</fromdate>
+                        <todate standarddate="1860">1860</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_1635e31c8b1d6ea4988be8a3d6dc0be8_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_1635e31c8b1d6ea4988be8a3d6dc0be8_c2"
+                             localtype="folder"
+                             parent="aspace_1635e31c8b1d6ea4988be8a3d6dc0be8_c1">45</container>
+               </did>
+            </c>
          </c>
          <c altrender="/repositories/3/archival_objects/4017536"
             id="aspace_a7077f93050a6740337bc38183e0724d"
@@ -312,6 +888,29 @@
                   <container id="aspace_e5de92f1c1eb9d6b48da903a379ca1b0_c2"
                              localtype="folder"
                              parent="aspace_e5de92f1c1eb9d6b48da903a379ca1b0_c1">49</container>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/4017561"
+               id="aspace_47aa280f7db7596bb22b61ac851b0184"
+               level="file">
+               <did>
+                  <unittitle>Tickets and ephemera</unittitle>
+                  <unitdatestructured altrender="1789-1805, undated"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1789">1789</fromdate>
+                        <todate standarddate="1805">1805</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/465467"
+                             encodinganalog="archive legal"
+                             id="aspace_47aa280f7db7596bb22b61ac851b0184_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_47aa280f7db7596bb22b61ac851b0184_c2"
+                             localtype="folder"
+                             parent="aspace_47aa280f7db7596bb22b61ac851b0184_c1">50</container>
                </did>
             </c>
          </c>
