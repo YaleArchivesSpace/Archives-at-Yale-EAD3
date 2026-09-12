@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-02T23:03:21-04:00</eventdatetime>
+            <eventdatetime>2026-09-11T23:03:06-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  2, 2026 at 23:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -545,6 +545,10 @@
                      level="item">
                      <did>
                         <unittitle>Index to correspondence, Excel file</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Optical Disc (DVD)</unittype>
+                        </physdescstructured>
                         <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                         <container altrender="/repositories/11/top_containers/484784 /locations/9"
                                    containerid="39002137142064"

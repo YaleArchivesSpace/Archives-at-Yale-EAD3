@@ -45,7 +45,7 @@
                <p>Boxes: 29, 34</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="13">13</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="212">212</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="303">303</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-18T23:56:39-04:00</eventdatetime>
+            <eventdatetime>2026-09-11T23:03:20-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 23:56</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3749,6 +3749,27 @@
                              id="aspace_ref138_c1"
                              label="Mixed Materials"
                              localtype="box">23</container>
+                  <daoset altrender="/repositories/11/digital_objects/353831">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33796847"
+                          linktitle="91 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33796847"
+                          identifier="oid:33796847"
+                          linktitle="91 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Photograph album</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/201666"
