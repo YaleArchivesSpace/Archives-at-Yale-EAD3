@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-01-08T18:05:03-05:00</eventdatetime>
+            <eventdatetime>2026-09-14T18:01:15-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday January  8, 2025 at 18:05</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 14, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -204,7 +204,7 @@
                id="ref12"
                level="file">
                <did>
-                  <unittitle>Corres. of Mason and Lousie Young in China: to family</unittitle>
+                  <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
                   <unitdatestructured altrender="1916-1937" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1916">1916</fromdate>
@@ -219,11 +219,126 @@
                   <container id="aspace_ref12_c2" localtype="folder" parent="aspace_ref12_c1">4-12</container>
                </did>
             </c>
+            <c altrender="/repositories/4/archival_objects/4056085"
+               id="aspace_8eb7ee90278c99146ad458e4b02bc4a3"
+               level="file">
+               <did>
+                  <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
+                  <unitdatestructured altrender="1916 February - October"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1916-02">1916 February</fromdate>
+                        <todate standarddate="1916-10">1916 October</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4579 /locations/9"
+                             containerid="39002038423993"
+                             id="aspace_8eb7ee90278c99146ad458e4b02bc4a3_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_8eb7ee90278c99146ad458e4b02bc4a3_c2"
+                             localtype="folder"
+                             parent="aspace_8eb7ee90278c99146ad458e4b02bc4a3_c1">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4056086"
+               id="aspace_c03cea9b46ecfa65f70f7b90ad764c0d"
+               level="file">
+               <did>
+                  <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
+                  <unitdatestructured altrender="1916 November - 1918"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1916-11">1916 November</fromdate>
+                        <todate standarddate="1918">1918</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4579 /locations/9"
+                             containerid="39002038423993"
+                             id="aspace_c03cea9b46ecfa65f70f7b90ad764c0d_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_c03cea9b46ecfa65f70f7b90ad764c0d_c2"
+                             localtype="folder"
+                             parent="aspace_c03cea9b46ecfa65f70f7b90ad764c0d_c1">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4056087"
+               id="aspace_eb086f946b31627ad5109d38676234ff"
+               level="file">
+               <did>
+                  <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
+                  <unitdatestructured altrender="1919 - 1922 April"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1919">1919</fromdate>
+                        <todate standarddate="1922-04">1922 April</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4579 /locations/9"
+                             containerid="39002038423993"
+                             id="aspace_eb086f946b31627ad5109d38676234ff_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_eb086f946b31627ad5109d38676234ff_c2"
+                             localtype="folder"
+                             parent="aspace_eb086f946b31627ad5109d38676234ff_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4056091"
+               id="aspace_3083749d3edc2237b16d9be906472655"
+               level="file">
+               <did>
+                  <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
+                  <unitdatestructured altrender="1922 July - 1925 November"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1922-07">1922 July</fromdate>
+                        <todate standarddate="1925-11">1925 November</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4579 /locations/9"
+                             containerid="39002038423993"
+                             id="aspace_3083749d3edc2237b16d9be906472655_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_3083749d3edc2237b16d9be906472655_c2"
+                             localtype="folder"
+                             parent="aspace_3083749d3edc2237b16d9be906472655_c1">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4056088"
+               id="aspace_3a51e6a587ca6521c642c7cc3efe0cab"
+               level="file">
+               <did>
+                  <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
+                  <unitdatestructured altrender="1926 January - 1928 May"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1926-01">1926 January</fromdate>
+                        <todate standarddate="1928-05">1928 May</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4579 /locations/9"
+                             containerid="39002038423993"
+                             id="aspace_3a51e6a587ca6521c642c7cc3efe0cab_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_3a51e6a587ca6521c642c7cc3efe0cab_c2"
+                             localtype="folder"
+                             parent="aspace_3a51e6a587ca6521c642c7cc3efe0cab_c1">8</container>
+               </did>
+            </c>
             <c altrender="/repositories/4/archival_objects/34109"
                id="ref13"
                level="file">
                <did>
-                  <unittitle>Corres. of Mason and Lousie Young in China: to family</unittitle>
+                  <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
                   <unitdatestructured altrender="1938-1947, n.d."
                                       label="creation"
                                       unitdatetype="inclusive">
