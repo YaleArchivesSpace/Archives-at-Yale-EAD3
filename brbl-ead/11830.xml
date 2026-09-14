@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-31T23:00:59-04:00</eventdatetime>
+            <eventdatetime>2026-09-13T23:04:04-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday August 31, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday September 13, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -13578,7 +13578,12 @@
                            <quantity>1</quantity>
                            <unittype>Microcassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:59:40</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="other" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_0175d498106db41ca7287aca9a8858a8">Audio hiss, distortion, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
                                    encodinganalog="Paige 15"
@@ -14052,7 +14057,12 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:47:27</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="other" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_0a925cc49996279172350786b0771ad9">Audio hiss, distortion, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
                                    encodinganalog="Paige 15"
@@ -14204,6 +14214,10 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:34:09</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="other" unitdatetype="inclusive">undated</unitdate>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
@@ -14241,6 +14255,11 @@
                                      localtype="RestrictedFragileSpecColl">
                         <head>Conditions Governing Access</head>
                         <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                     <accessrestrict id="aspace_a3e2d8a4abc9f2855ee36f2d2beac0ff"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Audio hiss, distortion, and hum.</p>
                      </accessrestrict>
                   </c>
                   <c altrender="/repositories/11/archival_objects/3261755"
@@ -14593,7 +14612,12 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:47:11</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="other" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_a902b6424f5c20d60d8651a8632aa541">Audio hiss, distortion, and hum. Loud 60 Hz hum on the tape.</materialspec>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
                                    encodinganalog="Paige 15"
@@ -14674,7 +14698,12 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:30:29</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_9b68dd2b5d7f7da9469cbe43ac5c9558">Audio hiss, distortion, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
                                    encodinganalog="Paige 15"
