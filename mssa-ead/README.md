@@ -2,7 +2,7 @@
 
 EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
- [arts.aob.0028.xml](329.xml) | arts.aob.0028 | AOB 28 | Graphic Design Student Projects Collection | 
+ [mssa.ru.1212.xml](329.xml) | mssa.ru.1212 | RU 1212 | Graphic Design Student Projects Collection | 
  [arts.aob.0034.xml](333.xml) | arts.aob.0034 | AOB 34 | Yale Residential Colleges Student Printing Collection | 
  [arts.art.0015.xml](366.xml) | arts.art.0015 | ART 15 | Yale School of Architecture exhibition publications | 
  [arts.dra.0014.xml](430.xml) | arts.dra.0014 | DRA 14 | Pamela Jordan Yale School of Drama Scrapbook Collection | 
