@@ -1985,5 +1985,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.dellenbaugh.xml](14007.xml) | beinecke.dellenbaugh | WA MSS S-2389  | Frederick Samuel Dellenbaugh journal and lantern slides from the Harriman Alaska Expedition | 
  [beinecke.jeffreylewis.xml](14084.xml) | beinecke.jeffreylewis | YCAL MSS 1623 | Jeffrey Lewis Papers | 
  [beinecke.bptrial.xml](14106.xml) | beinecke.bptrial | GEN MSS 2168 | Black Panther Trial records | 
+ [beinecke.williambird.xml](14115.xml) | beinecke.williambird | YCAL MSS 1562 | William Bird papers | 
  [beinecke.aos.xml](14117.xml) | beinecke.aos | GEN MSS 2169 | American Oriental Society archive | 
 

@@ -74,10 +74,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-10T23:06:52-04:00</eventdatetime>
+            <eventdatetime>2026-09-14T23:02:15-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 10, 2026 at 23:06</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 14, 2026 at 23:02</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>September 2026</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Updated by Janet Lopes to add description for Moi Meme.production recordings. </eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -100,7 +107,7 @@
             <quantity>109.0</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">175 boxes + 1 broadside + AV phantom/digital box</physdesc>
+         <physdesc localtype="container_summary">(175 containers) + 1 broadside</physdesc>
          <unitdatestructured altrender="1920-2020" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1920">1920</fromdate>
@@ -125,6 +132,7 @@
       <acqinfo id="aspace_0ea60ed1d39614ce2eebd18617f18817">
          <head>Immediate Source of Acquisition</head>
          <p>Purchased from Lee Breuer and Maude Mitchell on the Edwin J Beinecke Book Fund and the Adele Gutman Nathan Theatrical Collection Fund, 2020.</p>
+         <p>Purchased from Joseph Lorwin on the Edwin J. Beinecke Book Fund, 2022.</p>
       </acqinfo>
       <arrangement id="aspace_e8d0104026f55eb3d3759f8b9f88d2cf">
          <head>Arrangement</head>

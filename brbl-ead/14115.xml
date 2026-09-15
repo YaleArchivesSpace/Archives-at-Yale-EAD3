@@ -1,0 +1,2390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/beinecke.williambird">beinecke.williambird</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the William Bird Papers </titleproper>
+            <titleproper localtype="filing">Bird (William) Papers</titleproper>
+            <author>by Elise Riley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline localtype="telephone">(203) 432-2977 </addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://beinecke.library.yale.edu/"
+                       linktitle="http://beinecke.library.yale.edu/"
+                       show="new">http://beinecke.library.yale.edu/</ref>
+               </addressline>
+            </address>
+            <date>September 2026</date>
+            <num>YCAL MSS 1562</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote localtype="offsite">
+               <p>Boxes: 1-8</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency countrycode="US">
+         <agencycode>US-CtY-BR</agencycode>
+         <agencyname>Beinecke Rare Book and Manuscript Library</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>completed</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-09-14T23:01:25-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 14, 2026 at 23:01</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/11/resources/14115" level="collection">
+      <did>
+         <unittitle>William Bird papers</unittitle>
+         <unitid>YCAL MSS 1562</unitid>
+         <repository>
+            <corpname>
+               <part>Beinecke Rare Book and Manuscript Library</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+            <language langcode="fre">French</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>4.92</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">(8 boxes)</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1749">1749</fromdate>
+               <todate standarddate="2013">2013</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_104dc43ae417b5fd50695365252b03be">Correspondence, writings, photographs, personal papers, legal papers, printed material, and other papers by or relating to William Bird.</abstract>
+         <origination label="Creator">
+            <persname relator="aut" rules="aacr">
+               <part localtype="agent_person">Bird, William, 1888-1963</part>
+            </persname>
+         </origination>
+      </did>
+      <accessrestrict id="aspace_cbca69452d3f3f38e4e3805a8d122104">
+         <head>Conditions Governing Access</head>
+         <p>This collection is open for research.</p>
+      </accessrestrict>
+      <acqinfo id="aspace_3275ec53284bc2735639d276b36ad725">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased from Second Story Books on the Ezra Pound Archives Fund, 2026.</p>
+      </acqinfo>
+      <arrangement id="aspace_cdc8455a111267b814a25734094f1060">
+         <head>Arrangement</head>
+         <p>Organized into three series: I. Correspondence, 1794, 1910-1964; II. Personal papers, 1880-2013; III. Professional papers, 1927-1997.</p>
+      </arrangement>
+      <bioghist id="aspace_769008eea708d7e95e597437ef06a395">
+         <head>William Bird (1889-1963)</head>
+         <p>William Augustus Bird was born in Buffalo, New York, on January 2, 1889. He graduated from Trinity College, Hartford in 1912 and became a journalist in New York City, where he married Sarah (Sally) Costello. In 1920, he and longtime friend David Lawrence founded the Consolidated Press Service, and Bird moved with his family to Paris to take charge of the office there. They were to remain in France for 20 years.</p>
+         <p>Shortly after arriving in Paris, Bird became interested in the "hobby" of hand printing, bought a full set of Caslon type, and began printing brief works, including his own A Practical Guide to French Wines (1922). He moved the press into offices at 29, quai d'Anjou and announced the formation of Three Mountains Press; the colophon stylized both his initials and the three mountains of Paris and carried a verse from Psalm 121, "Levavi oculos meos in montes."</p>
+         <p>In April 1922, Bird met fellow journalist Ernest Hemingway as they were traveling to the Conferenza Internazionale Economica de Genova; he suggested that Bird contact a friend of his, American poet Ezra Pound. Pound immediately began to argue that Bird should "print the MODERNS." Bird agreed, appointing Pound editor of Three Mountains.</p>
+         <p>Between April 1923 and the end of 1925, Three Mountains Press published nine works. They included Indiscretions, Antheil and the Treatise on Harmony, and A Draft of XVI Cantos by Ezra Pound; The Great American Novel by William Carlos Williams; in our time by Ernest Hemingway; and Distinguished Air by Robert McAlmon. In addition, Bird provided free office space to Ford Madox Ford for the founding of transatlantic review.</p>
+         <p>Bird lost interest in the press, however. In 1928 he sold his handpress and typecases to Nancy Cunard and supervised its transportation to her home at Réanville, where it became the press for her Hours Press. In the following year, he sold his remaining stock of unsold books to "an American named Schwartz" for $150.00.</p>
+         <p>Bird continued his successful career as a journalist. He covered Admiral Byrd's flight over the North Pole from Spitzbergen in 1926, and in 1928 became president of the Anglo-American Press Association. The Consolidated Press Service was dissolved in 1933, and Bird joined the New York Sun as chief foreign correspondent. Bird and his family fled to Spain after the fall of France in 1940; in July of that year he wrote a series of articles for the Sun warning Americans war with Hitler was imminent.</p>
+         <p>After World War II the Birds moved to Tangier, where he was appointed an American representative to the Legislative Assembly of the Tangier International Zone in 1948. He was the editor of the English-language Tangier Gazette until 1960, when the Moroccan government, which had assumed authority over Tangier in 1956-57, closed the newspaper. Bird returned to France, where he died in Paris in August, 1963. He was survived by his daughter, Ann France Bird Wilson.</p>
+         <p>- Ducharme, Diane, 2003. "Guide to the William Bird Ezra Pound Papers." William Bird Ezra Pound papers. Yale Collection of American Literaure, Beinecke Rare Book and Manuscript Library, Yale University.</p>
+      </bioghist>
+      <prefercite id="aspace_a94625d5264de12f985f14f50fc579a8">
+         <head>Preferred Citation</head>
+         <p>William Bird papers. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library, Yale University.</p>
+      </prefercite>
+      <processinfo id="aspace_2f4f4249ac23c324020461bbc71474b4">
+         <head>Processing Information</head>
+         <p>Collections are processed to a variety of levels, depending on the work necessary to make them usable, their perceived research value, the availability of staff, competing priorities, and whether or not further accruals are expected. The library attempts to provide a basic level of preservation and access for all collections, and does more extensive processing of higher priority collections as time and resources permit.</p>
+         <p>These materials have been arranged and described according to national and local standards. For more information, please refer to the Yale Archival Processing Manual.</p>
+      </processinfo>
+      <relatedmaterial id="aspace_b2d9609a09ab9edcfbc02384aa79682f">
+         <head>Related Materials</head>
+         <p>Related material: William Bird Ezra Pound papers (YCAL MSS 178)</p>
+      </relatedmaterial>
+      <scopecontent id="aspace_14fcae5146984c5615824c818c81c48e">
+         <head>Scope and Contents</head>
+         <p>The William Bird papers consists of correspondence, writings, photographs, and other material related to Bird's personal and professional life. Bird worked as a journalist in France and Morocco from the 1920s to the 1960s and the collection holds drafts of radio broadcasts and correspondence with editors at <title>
+               <part>New York Sun</part>
+            </title> and <title>
+               <part>The New York Times</part>
+            </title>. Also included are the letters Bird sent to his wife Sarah primarily during World War II and photographs of their family life and travels in Europe.</p>
+      </scopecontent>
+      <userestrict id="aspace_ae8e153d57080dc65d786c3cba59ff00">
+         <head>Conditions Governing Use</head>
+         <p>The William Bird papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
+      </userestrict>
+      <controlaccess>
+         <genreform identifier="http://vocab.getty.edu/aat/300026877" source="aat">
+            <part localtype="genre_form">Correspondence </part>
+         </genreform>
+         <subject source="local">
+            <part localtype="topical">Editors, American</part>
+            <part localtype="temporal">20th Century</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85070736"
+                  source="lcsh">
+            <part localtype="topical">Journalism</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Journalists, American</part>
+            <part localtype="temporal">20th Century</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Journalists</part>
+            <part localtype="geographic">United States</part>
+            <part localtype="genre_form">Archives</part>
+         </subject>
+         <geogname identifier="http://id.loc.gov/authorities/names/n79058874"
+                   source="lcsh">
+            <part localtype="geographic">Paris (France)</part>
+         </geogname>
+         <genreform source="local">
+            <part localtype="genre_form">Photographic prints</part>
+            <part localtype="temporal">20th Century</part>
+         </genreform>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85112929"
+                  source="lcsh">
+            <part localtype="topical">Reporters and reporting</part>
+         </subject>
+         <genreform source="local">
+            <part localtype="genre_form">Scrapbooks</part>
+            <part localtype="geographic">United States</part>
+            <part localtype="temporal">20th Century</part>
+         </genreform>
+         <geogname identifier="http://id.loc.gov/authorities/names/n80015571"
+                   source="lcsh">
+            <part localtype="geographic">Tangier (Morocco)</part>
+         </geogname>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85148431"
+                  source="lcsh">
+            <part localtype="topical">World War, 1939-1945</part>
+            <part localtype="topical">Journalists</part>
+         </subject>
+         <persname rules="aacr">
+            <part localtype="agent_person">Bird, William, 1888-1963</part>
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/11/archival_objects/4053509"
+            id="aspace_1906bd17592a11e380dae4e9131c8eda"
+            level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.67</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(2 boxes)</physdesc>
+               <unitdatestructured altrender="1794, 1910-1964"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1794">1794</fromdate>
+                     <todate standarddate="1964">1964</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <arrangement id="aspace_599ee14746c8d07117704a89f8727271">
+               <head>Arrangement</head>
+               <p>Materials in this series are arranged by correspondent.</p>
+            </arrangement>
+            <scopecontent id="aspace_1e8bb3537f3085207d1026e6157bb793">
+               <head>Scope and Contents</head>
+               <p>This series contains correspondence to and from members of the Bird family. The bulk of the correspondence was generated by William Bird and captures his personal life with his wife, Sarah (referred to as Sally), his brother Cyrus (referred to as Rem), and his daughter Ann France,  (referred to as Francie) and professional life as a reporter and editor in France and Morocco.</p>
+               <p>Also included in this series is a small amount of correspondence for Sarah Bird and Ann France Wilson.</p>
+            </scopecontent>
+            <c altrender="/repositories/11/archival_objects/4053510"
+               id="aspace_021353d792d038651718a11f89ba0157"
+               level="subseries">
+               <did>
+                  <unittitle>William Bird correspondence</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1916">1916</fromdate>
+                        <todate standarddate="1963">1963</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4053511"
+                  id="aspace_8f7d5e065812a8d6454a92895127f651"
+                  level="file">
+                  <did>
+                     <unittitle>Incoming</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1916">1916</fromdate>
+                           <todate standarddate="1963">1963</todate>
+                        </daterange>
+                     </unitdatestructured>
+                  </did>
+                  <c altrender="/repositories/11/archival_objects/4053512"
+                     id="aspace_cf172481c7e192c7b7edb2c188f32c19"
+                     level="file">
+                     <did>
+                        <unittitle>Antheil, George</unittitle>
+                        <unitdatestructured altrender="1927" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1927">1927</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_cf172481c7e192c7b7edb2c188f32c19_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_cf172481c7e192c7b7edb2c188f32c19_c2"
+                                   localtype="folder"
+                                   parent="aspace_cf172481c7e192c7b7edb2c188f32c19_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053513"
+                     id="aspace_efad854a435773562ddb203efa88fe96"
+                     level="file">
+                     <did>
+                        <unittitle>Beatty, Harold</unittitle>
+                        <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1930">1930</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_efad854a435773562ddb203efa88fe96_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_efad854a435773562ddb203efa88fe96_c2"
+                                   localtype="folder"
+                                   parent="aspace_efad854a435773562ddb203efa88fe96_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053514"
+                     id="aspace_ffbaa3f74fba42169906281f287b958b"
+                     level="file">
+                     <did>
+                        <unittitle>Bird (Wilson), Ann France</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">circa 1950s</unitdate>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_ffbaa3f74fba42169906281f287b958b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_ffbaa3f74fba42169906281f287b958b_c2"
+                                   localtype="folder"
+                                   parent="aspace_ffbaa3f74fba42169906281f287b958b_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053515"
+                     id="aspace_feafd5268831e4bc7718f5cdece933e1"
+                     level="file">
+                     <did>
+                        <unittitle>Bird, Cyrus Remington</unittitle>
+                        <unitdatestructured altrender="1950-1963" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1950">1950</fromdate>
+                              <todate standarddate="1963">1963</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_feafd5268831e4bc7718f5cdece933e1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_feafd5268831e4bc7718f5cdece933e1_c2"
+                                   localtype="folder"
+                                   parent="aspace_feafd5268831e4bc7718f5cdece933e1_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053516"
+                     id="aspace_b39bd1209bf2c2831a61bf0d648753af"
+                     level="file">
+                     <did>
+                        <unittitle>Bird, Helen M.</unittitle>
+                        <unitdatestructured altrender="1959" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1959">1959</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_b39bd1209bf2c2831a61bf0d648753af_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_b39bd1209bf2c2831a61bf0d648753af_c2"
+                                   localtype="folder"
+                                   parent="aspace_b39bd1209bf2c2831a61bf0d648753af_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053517"
+                     id="aspace_3e202ffbb0182c9b3d87e9dfe812bf0e"
+                     level="file">
+                     <did>
+                        <unittitle>Bird, Helen R.</unittitle>
+                        <unitdatestructured altrender="1936" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1936">1936</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_3e202ffbb0182c9b3d87e9dfe812bf0e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_3e202ffbb0182c9b3d87e9dfe812bf0e_c2"
+                                   localtype="folder"
+                                   parent="aspace_3e202ffbb0182c9b3d87e9dfe812bf0e_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053518"
+                     id="aspace_329a5222b8aa1ded82e9b63e875e4a6b"
+                     level="file">
+                     <did>
+                        <unittitle>Bird, Seth</unittitle>
+                        <unitdatestructured altrender="1937" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1937">1937</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_329a5222b8aa1ded82e9b63e875e4a6b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_329a5222b8aa1ded82e9b63e875e4a6b_c2"
+                                   localtype="folder"
+                                   parent="aspace_329a5222b8aa1ded82e9b63e875e4a6b_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053519"
+                     id="aspace_531115403b2f2451116e48ff8f21dfa3"
+                     level="file">
+                     <did>
+                        <unittitle>Dewart, Thomas W.</unittitle>
+                        <unitdatestructured altrender="1944-1945" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1944">1944</fromdate>
+                              <todate standarddate="1945">1945</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_531115403b2f2451116e48ff8f21dfa3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_531115403b2f2451116e48ff8f21dfa3_c2"
+                                   localtype="folder"
+                                   parent="aspace_531115403b2f2451116e48ff8f21dfa3_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053520"
+                     id="aspace_1965824db2ef089b6918b192d39bbc4e"
+                     level="file">
+                     <did>
+                        <unittitle>Duvernois, Henri</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">circa 1940s</unitdate>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_1965824db2ef089b6918b192d39bbc4e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_1965824db2ef089b6918b192d39bbc4e_c2"
+                                   localtype="folder"
+                                   parent="aspace_1965824db2ef089b6918b192d39bbc4e_c1">9</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053521"
+                     id="aspace_701ca1ba3e8d5fe1ab17a213a4c05e8f"
+                     level="file">
+                     <did>
+                        <unittitle>Friendly, Edwin</unittitle>
+                        <unitdatestructured altrender="1945" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1945">1945</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_701ca1ba3e8d5fe1ab17a213a4c05e8f_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_701ca1ba3e8d5fe1ab17a213a4c05e8f_c2"
+                                   localtype="folder"
+                                   parent="aspace_701ca1ba3e8d5fe1ab17a213a4c05e8f_c1">10</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053522"
+                     id="aspace_db70743f4e36f9e8ee409f99e79d725f"
+                     level="file">
+                     <did>
+                        <unittitle>Georger, Robert</unittitle>
+                        <unitdatestructured altrender="1962" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1962">1962</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_db70743f4e36f9e8ee409f99e79d725f_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_db70743f4e36f9e8ee409f99e79d725f_c2"
+                                   localtype="folder"
+                                   parent="aspace_db70743f4e36f9e8ee409f99e79d725f_c1">11</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053523"
+                     id="aspace_48c95b4c3593cd41b8774be162073888"
+                     level="file">
+                     <did>
+                        <unittitle>Joyce, James</unittitle>
+                        <unitdatestructured altrender="1929" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1929">1929</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_48c95b4c3593cd41b8774be162073888_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_48c95b4c3593cd41b8774be162073888_c2"
+                                   localtype="folder"
+                                   parent="aspace_48c95b4c3593cd41b8774be162073888_c1">12</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053524"
+                     id="aspace_c8af3566b6a439532f704fb61525692b"
+                     level="file">
+                     <did>
+                        <unittitle>Manny, W. Roy</unittitle>
+                        <unitdatestructured altrender="1953" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1953">1953</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_c8af3566b6a439532f704fb61525692b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_c8af3566b6a439532f704fb61525692b_c2"
+                                   localtype="folder"
+                                   parent="aspace_c8af3566b6a439532f704fb61525692b_c1">13</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053525"
+                     id="aspace_b95b07e503900c98507d0638410450b5"
+                     level="file">
+                     <did>
+                        <unittitle>Morton, Charles</unittitle>
+                        <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1949">1949</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_b95b07e503900c98507d0638410450b5_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_b95b07e503900c98507d0638410450b5_c2"
+                                   localtype="folder"
+                                   parent="aspace_b95b07e503900c98507d0638410450b5_c1">14</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053526"
+                     id="aspace_f2fc661284cf9a3ea69c23a7574e5c95"
+                     level="file">
+                     <did>
+                        <unittitle>Nolan, Peggy</unittitle>
+                        <unitdatestructured altrender="1962" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1962">1962</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_f2fc661284cf9a3ea69c23a7574e5c95_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_f2fc661284cf9a3ea69c23a7574e5c95_c2"
+                                   localtype="folder"
+                                   parent="aspace_f2fc661284cf9a3ea69c23a7574e5c95_c1">15</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053527"
+                     id="aspace_a64e9f65c08f8b3fb33856f0e8df974d"
+                     level="file">
+                     <did>
+                        <unittitle>Northwestern Library News</unittitle>
+                        <unitdatestructured altrender="1962" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1962">1962</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_a64e9f65c08f8b3fb33856f0e8df974d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_a64e9f65c08f8b3fb33856f0e8df974d_c2"
+                                   localtype="folder"
+                                   parent="aspace_a64e9f65c08f8b3fb33856f0e8df974d_c1">16</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053528"
+                     id="aspace_47a6af6e37096487b3a45a0736452d69"
+                     level="file">
+                     <did>
+                        <unittitle>Poli, Bernard</unittitle>
+                        <unitdatestructured altrender="1962" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1962">1962</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_47a6af6e37096487b3a45a0736452d69_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_47a6af6e37096487b3a45a0736452d69_c2"
+                                   localtype="folder"
+                                   parent="aspace_47a6af6e37096487b3a45a0736452d69_c1">17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053529"
+                     id="aspace_22a8782d1951a3962e8e72c9ba2dfe1e"
+                     level="file">
+                     <did>
+                        <unittitle>Powel, C.R.</unittitle>
+                        <unitdatestructured altrender="1946" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1946">1946</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_22a8782d1951a3962e8e72c9ba2dfe1e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_22a8782d1951a3962e8e72c9ba2dfe1e_c2"
+                                   localtype="folder"
+                                   parent="aspace_22a8782d1951a3962e8e72c9ba2dfe1e_c1">18</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053530"
+                     id="aspace_8e28f2aa70d6dcab605f8bbccfabd930"
+                     level="file">
+                     <did>
+                        <unittitle>Richardson, Hadley</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_8e28f2aa70d6dcab605f8bbccfabd930_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_8e28f2aa70d6dcab605f8bbccfabd930_c2"
+                                   localtype="folder"
+                                   parent="aspace_8e28f2aa70d6dcab605f8bbccfabd930_c1">19</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053531"
+                     id="aspace_e6f048f4ed8014090433e6bc538cc535"
+                     level="file">
+                     <did>
+                        <unittitle>Robinson, Donald</unittitle>
+                        <unitdatestructured altrender="1950" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1950">1950</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_e6f048f4ed8014090433e6bc538cc535_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_e6f048f4ed8014090433e6bc538cc535_c2"
+                                   localtype="folder"
+                                   parent="aspace_e6f048f4ed8014090433e6bc538cc535_c1">20</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053532"
+                     id="aspace_ec9a3ecc48fcd02851d4d2732540061b"
+                     level="file">
+                     <did>
+                        <unittitle>White House invitations</unittitle>
+                        <unitdatestructured altrender="1916-1919" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1916">1916</fromdate>
+                              <todate standarddate="1919">1919</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_ec9a3ecc48fcd02851d4d2732540061b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_ec9a3ecc48fcd02851d4d2732540061b_c2"
+                                   localtype="folder"
+                                   parent="aspace_ec9a3ecc48fcd02851d4d2732540061b_c1">21</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053533"
+                     id="aspace_c41d1b769c34a81d6e97a36c666bece7"
+                     level="file">
+                     <did>
+                        <unittitle>Werkers, Lorna</unittitle>
+                        <unitdatestructured altrender="1926-1931" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1926">1926</fromdate>
+                              <todate standarddate="1931">1931</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_c41d1b769c34a81d6e97a36c666bece7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_c41d1b769c34a81d6e97a36c666bece7_c2"
+                                   localtype="folder"
+                                   parent="aspace_c41d1b769c34a81d6e97a36c666bece7_c1">22</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053534"
+                     id="aspace_e3a14be29c037f744f1944b3bf0a229e"
+                     level="file">
+                     <did>
+                        <unittitle>Wessels, Harry</unittitle>
+                        <unitdatestructured altrender="1962" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1962">1962</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_e3a14be29c037f744f1944b3bf0a229e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_e3a14be29c037f744f1944b3bf0a229e_c2"
+                                   localtype="folder"
+                                   parent="aspace_e3a14be29c037f744f1944b3bf0a229e_c1">23</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053535"
+                     id="aspace_e100b32e4e7ec89ee7c37a43b638f993"
+                     level="file">
+                     <did>
+                        <unittitle>Willard, Grace</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_e100b32e4e7ec89ee7c37a43b638f993_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_e100b32e4e7ec89ee7c37a43b638f993_c2"
+                                   localtype="folder"
+                                   parent="aspace_e100b32e4e7ec89ee7c37a43b638f993_c1">24</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053536"
+                     id="aspace_e43fe909915a1e7399c1ff093df67593"
+                     level="file">
+                     <did>
+                        <unittitle>Wilson, Thomas W.</unittitle>
+                        <unitdatestructured altrender="1950" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1950">1950</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_e43fe909915a1e7399c1ff093df67593_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_e43fe909915a1e7399c1ff093df67593_c2"
+                                   localtype="folder"
+                                   parent="aspace_e43fe909915a1e7399c1ff093df67593_c1">25</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053537"
+                     id="aspace_0adbad6379e0788d395493a34f4f9388"
+                     level="file">
+                     <did>
+                        <unittitle>Correspondence regarding <title>
+                              <part>A Practical Guide to French Wines</part>
+                           </title>
+                        </unittitle>
+                        <unitdatestructured altrender="1943-1949" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1943">1943</fromdate>
+                              <todate standarddate="1949">1949</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_0adbad6379e0788d395493a34f4f9388_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_0adbad6379e0788d395493a34f4f9388_c2"
+                                   localtype="folder"
+                                   parent="aspace_0adbad6379e0788d395493a34f4f9388_c1">26</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053538"
+                     id="aspace_5defd378d4485d966ddd5015ee683c75"
+                     level="file">
+                     <did>
+                        <unittitle>Telegrams/letters referring to Billy's death</unittitle>
+                        <unitdatestructured altrender="1926" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1926">1926</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_5defd378d4485d966ddd5015ee683c75_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_5defd378d4485d966ddd5015ee683c75_c2"
+                                   localtype="folder"
+                                   parent="aspace_5defd378d4485d966ddd5015ee683c75_c1">27</container>
+                     </did>
+                     <c altrender="/repositories/11/archival_objects/4053539"
+                        id="aspace_df22ecb4f263507c96c06260357373eb"
+                        level="item">
+                        <did>
+                           <unittitle>Hemingway, Ernest (copy)</unittitle>
+                           <unitdate label="creation" unitdatetype="inclusive">circa 1926</unitdate>
+                           <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                      containerid="39002104529277"
+                                      encodinganalog="archive legal"
+                                      id="aspace_df22ecb4f263507c96c06260357373eb_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">1</container>
+                           <container id="aspace_df22ecb4f263507c96c06260357373eb_c2"
+                                      localtype="folder"
+                                      parent="aspace_df22ecb4f263507c96c06260357373eb_c1">28</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/11/archival_objects/4053540"
+                        id="aspace_80559f2778e66293b9193eb6a5595ac5"
+                        level="item">
+                        <did>
+                           <unittitle>Pound, Dorothy and Ezra</unittitle>
+                           <unitdate label="creation" unitdatetype="inclusive">circa 1926</unitdate>
+                           <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                      containerid="39002104529277"
+                                      encodinganalog="archive legal"
+                                      id="aspace_80559f2778e66293b9193eb6a5595ac5_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">1</container>
+                           <container id="aspace_80559f2778e66293b9193eb6a5595ac5_c2"
+                                      localtype="folder"
+                                      parent="aspace_80559f2778e66293b9193eb6a5595ac5_c1">29</container>
+                        </did>
+                     </c>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053541"
+                     id="aspace_fca1678ed6f35cd9ed59bee2c0552a35"
+                     level="file">
+                     <did>
+                        <unittitle>Unsorted correspondence</unittitle>
+                        <unitdatestructured altrender="1942-1962" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1942">1942</fromdate>
+                              <todate standarddate="1962">1962</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_fca1678ed6f35cd9ed59bee2c0552a35_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_fca1678ed6f35cd9ed59bee2c0552a35_c2"
+                                   localtype="folder"
+                                   parent="aspace_fca1678ed6f35cd9ed59bee2c0552a35_c1">30</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053542"
+                     id="aspace_288f6ce25e2e6fb5d2c6c69da7cb5377"
+                     level="file">
+                     <did>
+                        <unittitle>Letterheads</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">circa 1940s</unitdate>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_288f6ce25e2e6fb5d2c6c69da7cb5377_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_288f6ce25e2e6fb5d2c6c69da7cb5377_c2"
+                                   localtype="folder"
+                                   parent="aspace_288f6ce25e2e6fb5d2c6c69da7cb5377_c1">31</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053543"
+                  id="aspace_827a3284cf4c5ae127771f9b5dee9eb6"
+                  level="file">
+                  <did>
+                     <unittitle>Outgoing</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1925">1925</fromdate>
+                           <todate standarddate="1950">1950</todate>
+                        </daterange>
+                     </unitdatestructured>
+                  </did>
+                  <c altrender="/repositories/11/archival_objects/4053544"
+                     id="aspace_e9a4f4cef292ff79e8158811f5176df4"
+                     level="file">
+                     <did>
+                        <unittitle>Bird, Sarah</unittitle>
+                        <unitdatestructured altrender="1925-1945" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1925">1925</fromdate>
+                              <todate standarddate="1945">1945</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484766 /locations/9"
+                                   containerid="39002104529277"
+                                   encodinganalog="archive legal"
+                                   id="aspace_e9a4f4cef292ff79e8158811f5176df4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_e9a4f4cef292ff79e8158811f5176df4_c2"
+                                   localtype="folder"
+                                   parent="aspace_e9a4f4cef292ff79e8158811f5176df4_c1">32-33</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053545"
+                     id="aspace_4f7d597db378835cfe7d6dcc34bcbe73"
+                     level="file">
+                     <did>
+                        <unittitle>Cracco, F.</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1949">1949</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_4f7d597db378835cfe7d6dcc34bcbe73_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_4f7d597db378835cfe7d6dcc34bcbe73_c2"
+                                   localtype="folder"
+                                   parent="aspace_4f7d597db378835cfe7d6dcc34bcbe73_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053546"
+                     id="aspace_0b37cc24ffee9613935346c5c6ce44bb"
+                     level="file">
+                     <did>
+                        <unittitle>Flavin, Martin</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1944">1944</fromdate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_0b37cc24ffee9613935346c5c6ce44bb_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_0b37cc24ffee9613935346c5c6ce44bb_c2"
+                                   localtype="folder"
+                                   parent="aspace_0b37cc24ffee9613935346c5c6ce44bb_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053547"
+                     id="aspace_afe826f483fbfbf65832693146f8887b"
+                     level="file">
+                     <did>
+                        <unittitle>Commandant Schiffer</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1940">1940</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_afe826f483fbfbf65832693146f8887b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_afe826f483fbfbf65832693146f8887b_c2"
+                                   localtype="folder"
+                                   parent="aspace_afe826f483fbfbf65832693146f8887b_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053548"
+                     id="aspace_49d782e31cad05aec4613729d32921b4"
+                     level="file">
+                     <did>
+                        <unittitle>Speed, Keats</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1950">1950</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_49d782e31cad05aec4613729d32921b4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_49d782e31cad05aec4613729d32921b4_c2"
+                                   localtype="folder"
+                                   parent="aspace_49d782e31cad05aec4613729d32921b4_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053549"
+                     id="aspace_fc4a7b7a2d1221e5b4f41d48b9472a1b"
+                     level="file">
+                     <did>
+                        <unittitle>Thackery, Theodore (Ted)</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1947">1947</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_fc4a7b7a2d1221e5b4f41d48b9472a1b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_fc4a7b7a2d1221e5b4f41d48b9472a1b_c2"
+                                   localtype="folder"
+                                   parent="aspace_fc4a7b7a2d1221e5b4f41d48b9472a1b_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053550"
+                     id="aspace_d5ff1b050a1704deacaf4155d6cad9c4"
+                     level="file">
+                     <did>
+                        <unittitle>Wilson, Thomas W.</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1950">1950</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_d5ff1b050a1704deacaf4155d6cad9c4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_d5ff1b050a1704deacaf4155d6cad9c4_c2"
+                                   localtype="folder"
+                                   parent="aspace_d5ff1b050a1704deacaf4155d6cad9c4_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053551"
+                     id="aspace_a2c836ac4d648643b6a0a90848d3b5d4"
+                     level="file">
+                     <did>
+                        <unittitle>Worth, Cedric</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1943">1943</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_a2c836ac4d648643b6a0a90848d3b5d4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_a2c836ac4d648643b6a0a90848d3b5d4_c2"
+                                   localtype="folder"
+                                   parent="aspace_a2c836ac4d648643b6a0a90848d3b5d4_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4053552"
+                     id="aspace_5be41923ca0c9beb87ef84a4f3a20ff1"
+                     level="file">
+                     <did>
+                        <unittitle>Letter drafts</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1942">1942</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                   containerid="39002104529285"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_5be41923ca0c9beb87ef84a4f3a20ff1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_5be41923ca0c9beb87ef84a4f3a20ff1_c2"
+                                   localtype="folder"
+                                   parent="aspace_5be41923ca0c9beb87ef84a4f3a20ff1_c1">8</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053553"
+                  id="aspace_849589ff16d97b465e4775ac30b8f780"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>New York Sun</part>
+                        </title> correspondence</unittitle>
+                     <unitdatestructured altrender="1929-1938" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1929">1929</fromdate>
+                           <todate standarddate="1938">1938</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                containerid="39002104529285"
+                                encodinganalog="archive half legal"
+                                id="aspace_849589ff16d97b465e4775ac30b8f780_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_849589ff16d97b465e4775ac30b8f780_c2"
+                                localtype="folder"
+                                parent="aspace_849589ff16d97b465e4775ac30b8f780_c1">9</container>
+                  </did>
+                  <scopecontent id="aspace_578338ce102ffff803eb7239642b1fb9">
+                     <head>Scope and Contents</head>
+                     <p>Includes both incoming and outgoing correspondence between William Bird and editors and journalists at <title>
+                           <part>New York Sun</part>
+                        </title> when Bird worked as a foreign correspondent.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053554"
+                  id="aspace_f8caf63e4355afc66357cf8042bef6d2"
+                  level="file">
+                  <did>
+                     <unittitle>Envelopes</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                containerid="39002104529285"
+                                encodinganalog="archive half legal"
+                                id="aspace_f8caf63e4355afc66357cf8042bef6d2_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_f8caf63e4355afc66357cf8042bef6d2_c2"
+                                localtype="folder"
+                                parent="aspace_f8caf63e4355afc66357cf8042bef6d2_c1">10</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053555"
+               id="aspace_54c4ba36cb3f87f73da7e07281a6098f"
+               level="subseries">
+               <did>
+                  <unittitle>Sarah Bird correspondence</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1912">1912</fromdate>
+                        <todate standarddate="1944">1944</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                             containerid="39002104529285"
+                             encodinganalog="archive half legal"
+                             id="aspace_54c4ba36cb3f87f73da7e07281a6098f_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_54c4ba36cb3f87f73da7e07281a6098f_c2"
+                             localtype="folder"
+                             parent="aspace_54c4ba36cb3f87f73da7e07281a6098f_c1">11</container>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4053556"
+                  id="aspace_a3713fa893a88cebffae7d6e889900ad"
+                  level="file">
+                  <did>
+                     <unittitle>Costello, Patience</unittitle>
+                     <unitdatestructured altrender="1912-1931" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1912">1912</fromdate>
+                           <todate standarddate="1931">1931</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                containerid="39002104529285"
+                                encodinganalog="archive half legal"
+                                id="aspace_a3713fa893a88cebffae7d6e889900ad_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_a3713fa893a88cebffae7d6e889900ad_c2"
+                                localtype="folder"
+                                parent="aspace_a3713fa893a88cebffae7d6e889900ad_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053557"
+                  id="aspace_1b783c0d35f81e41f390ab2ca1c631ef"
+                  level="file">
+                  <did>
+                     <unittitle>Unsorted correspondence</unittitle>
+                     <unitdatestructured altrender="1929-1944" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1929">1929</fromdate>
+                           <todate standarddate="1944">1944</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                                containerid="39002104529285"
+                                encodinganalog="archive half legal"
+                                id="aspace_1b783c0d35f81e41f390ab2ca1c631ef_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_1b783c0d35f81e41f390ab2ca1c631ef_c2"
+                                localtype="folder"
+                                parent="aspace_1b783c0d35f81e41f390ab2ca1c631ef_c1">13</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053558"
+               id="aspace_3f45bf16027dbf6de13cace9058b85c2"
+               level="file">
+               <did>
+                  <unittitle>Ann France Bird Wilson correspondence</unittitle>
+                  <unitdatestructured altrender="1927-1964" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1927">1927</fromdate>
+                        <todate standarddate="1964">1964</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                             containerid="39002104529285"
+                             encodinganalog="archive half legal"
+                             id="aspace_3f45bf16027dbf6de13cace9058b85c2_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_3f45bf16027dbf6de13cace9058b85c2_c2"
+                             localtype="folder"
+                             parent="aspace_3f45bf16027dbf6de13cace9058b85c2_c1">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053559"
+               id="aspace_d061c286a1e886b869173e92b8cbfa23"
+               level="file">
+               <did>
+                  <unittitle>John Bird to Seth Bird letter</unittitle>
+                  <unitdatestructured altrender="1794" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1794">1794</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                             containerid="39002104529285"
+                             encodinganalog="archive half legal"
+                             id="aspace_d061c286a1e886b869173e92b8cbfa23_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_d061c286a1e886b869173e92b8cbfa23_c2"
+                             localtype="folder"
+                             parent="aspace_d061c286a1e886b869173e92b8cbfa23_c1">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053560"
+               id="aspace_a6d24da595abd951223da045471df1df"
+               level="file">
+               <did>
+                  <unittitle>Third party correspondence</unittitle>
+                  <unitdatestructured altrender="1910-1926" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1910">1910</fromdate>
+                        <todate standarddate="1926">1926</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484767 /locations/9"
+                             containerid="39002104529285"
+                             encodinganalog="archive half legal"
+                             id="aspace_a6d24da595abd951223da045471df1df_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_a6d24da595abd951223da045471df1df_c2"
+                             localtype="folder"
+                             parent="aspace_a6d24da595abd951223da045471df1df_c1">16</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4053561"
+            id="aspace_ec7b21c92dabb9e1bb53a2b063582017"
+            level="series">
+            <did>
+               <unittitle>Personal papers</unittitle>
+               <unitid>Series II</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>3.58</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(4 boxes)</physdesc>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1880">1880</fromdate>
+                     <todate standarddate="2013">2013</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <arrangement id="aspace_741a7e65e8a7357d444521c788a51029">
+               <head>Arrangement</head>
+               <p>Materials in this series are arranged into four subseries: Writings, Financial records, Personal records, and Photographs.</p>
+            </arrangement>
+            <scopecontent id="aspace_f060ae1871fcfc57a590b59421054de2">
+               <head>Scope and Contents</head>
+               <p>This series contains materials related to William Bird's personal life and includes his personal writing projects and financial records for his time living abroad in France and Morocco, along with ephemeral items such as clippings and photographs.</p>
+            </scopecontent>
+            <c altrender="/repositories/11/archival_objects/4053562"
+               id="aspace_551e601b00c309584c35c480595b5715"
+               level="subseries">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1937">1937</fromdate>
+                        <todate standarddate="1955">1955</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4053563"
+                  id="aspace_154a6b04e5c5aa3d5c73b9b662384c5e"
+                  level="file">
+                  <did>
+                     <unittitle>"Illusion"</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_154a6b04e5c5aa3d5c73b9b662384c5e_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_154a6b04e5c5aa3d5c73b9b662384c5e_c2"
+                                localtype="folder"
+                                parent="aspace_154a6b04e5c5aa3d5c73b9b662384c5e_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053564"
+                  id="aspace_37d631046e380ae4f37235502c93281b"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>A New Dictionary of Philosophy</part>
+                        </title>
+                     </unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_37d631046e380ae4f37235502c93281b_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_37d631046e380ae4f37235502c93281b_c2"
+                                localtype="folder"
+                                parent="aspace_37d631046e380ae4f37235502c93281b_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053565"
+                  id="aspace_a584bcc45e36ad8c383ff1e7ef328477"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>A Practical Guide to French Wines</part>
+                        </title>
+                     </unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">circa 1940s</unitdate>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_a584bcc45e36ad8c383ff1e7ef328477_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_a584bcc45e36ad8c383ff1e7ef328477_c2"
+                                localtype="folder"
+                                parent="aspace_a584bcc45e36ad8c383ff1e7ef328477_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053566"
+                  id="aspace_d4fedd7fdff7450332c053312dc2af58"
+                  level="file">
+                  <did>
+                     <unittitle>"Spitsbergen"</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_d4fedd7fdff7450332c053312dc2af58_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_d4fedd7fdff7450332c053312dc2af58_c2"
+                                localtype="folder"
+                                parent="aspace_d4fedd7fdff7450332c053312dc2af58_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053567"
+                  id="aspace_3ab16116fa6c1d0ec59a7e735822f209"
+                  level="file">
+                  <did>
+                     <unittitle>Various writings</unittitle>
+                     <unitdatestructured altrender="1937-1955" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1937">1937</fromdate>
+                           <todate standarddate="1955">1955</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_3ab16116fa6c1d0ec59a7e735822f209_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_3ab16116fa6c1d0ec59a7e735822f209_c2"
+                                localtype="folder"
+                                parent="aspace_3ab16116fa6c1d0ec59a7e735822f209_c1">5</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053568"
+               id="aspace_2dc7ab6c408ea1e0c97bd33c3894885a"
+               level="subseries">
+               <did>
+                  <unittitle>Financial records</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1923">1923</fromdate>
+                        <todate standarddate="1961">1961</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4053569"
+                  id="aspace_f9af189c9d9fbc8fb8b9035f3f651ffc"
+                  level="file">
+                  <did>
+                     <unittitle>Insurance and taxes: The Mill, Moulin de Houx</unittitle>
+                     <unitdatestructured altrender="1923-1946" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1923">1923</fromdate>
+                           <todate standarddate="1946">1946</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_f9af189c9d9fbc8fb8b9035f3f651ffc_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_f9af189c9d9fbc8fb8b9035f3f651ffc_c2"
+                                localtype="folder"
+                                parent="aspace_f9af189c9d9fbc8fb8b9035f3f651ffc_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053570"
+                  id="aspace_3f9165119fcba178678cf304f808ab30"
+                  level="file">
+                  <did>
+                     <unittitle>Taxis-Citroen stock certificated</unittitle>
+                     <unitdatestructured altrender="1928" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1928">1928</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484769 /locations/9"
+                                containerid="39002098928725"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_3f9165119fcba178678cf304f808ab30_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_3f9165119fcba178678cf304f808ab30_c2"
+                                localtype="folder"
+                                parent="aspace_3f9165119fcba178678cf304f808ab30_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053571"
+                  id="aspace_f9fa82d6dfb1b5f57c662fb9897a71d9"
+                  level="file">
+                  <did>
+                     <unittitle>Banque de Paris</unittitle>
+                     <unitdatestructured altrender="1941-1948" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1941">1941</fromdate>
+                           <todate standarddate="1948">1948</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_f9fa82d6dfb1b5f57c662fb9897a71d9_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_f9fa82d6dfb1b5f57c662fb9897a71d9_c2"
+                                localtype="folder"
+                                parent="aspace_f9fa82d6dfb1b5f57c662fb9897a71d9_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053572"
+                  id="aspace_88cd58ca23b46eba265443f2cb6da32f"
+                  level="file">
+                  <did>
+                     <unittitle>Sarah Bird: Wabash Railway Company stock certificate</unittitle>
+                     <unitdatestructured altrender="1942" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1942">1942</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_88cd58ca23b46eba265443f2cb6da32f_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_88cd58ca23b46eba265443f2cb6da32f_c2"
+                                localtype="folder"
+                                parent="aspace_88cd58ca23b46eba265443f2cb6da32f_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053573"
+                  id="aspace_331e1a4ed400c98d0ffe72e6d46f7c66"
+                  level="file">
+                  <did>
+                     <unittitle>Bills and contact lists</unittitle>
+                     <unitdatestructured altrender="1942-1948" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1942">1942</fromdate>
+                           <todate standarddate="1948">1948</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_331e1a4ed400c98d0ffe72e6d46f7c66_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_331e1a4ed400c98d0ffe72e6d46f7c66_c2"
+                                localtype="folder"
+                                parent="aspace_331e1a4ed400c98d0ffe72e6d46f7c66_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053574"
+                  id="aspace_9b6675a97f0b6c603987c0e54a895574"
+                  level="file">
+                  <did>
+                     <unittitle>United States tax records</unittitle>
+                     <unitdatestructured altrender="1943" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1943">1943</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_9b6675a97f0b6c603987c0e54a895574_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_9b6675a97f0b6c603987c0e54a895574_c2"
+                                localtype="folder"
+                                parent="aspace_9b6675a97f0b6c603987c0e54a895574_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053575"
+                  id="aspace_b3ba1444341053b9f4898fcb7e9da98e"
+                  level="file">
+                  <did>
+                     <unittitle>Apartment</unittitle>
+                     <unitdatestructured altrender="1944-1946" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1944">1944</fromdate>
+                           <todate standarddate="1946">1946</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_b3ba1444341053b9f4898fcb7e9da98e_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_b3ba1444341053b9f4898fcb7e9da98e_c2"
+                                localtype="folder"
+                                parent="aspace_b3ba1444341053b9f4898fcb7e9da98e_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053576"
+                  id="aspace_0afb1c5689cd97f6f023da4622dfb471"
+                  level="file">
+                  <did>
+                     <unittitle>Insurance</unittitle>
+                     <unitdatestructured altrender="1946-1949" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1946">1946</fromdate>
+                           <todate standarddate="1949">1949</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_0afb1c5689cd97f6f023da4622dfb471_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_0afb1c5689cd97f6f023da4622dfb471_c2"
+                                localtype="folder"
+                                parent="aspace_0afb1c5689cd97f6f023da4622dfb471_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053577"
+                  id="aspace_a5a8c361afd278bcb6c77f609f4fda41"
+                  level="file">
+                  <did>
+                     <unittitle>Apartment: taxes, rent</unittitle>
+                     <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1949">1949</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_a5a8c361afd278bcb6c77f609f4fda41_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_a5a8c361afd278bcb6c77f609f4fda41_c2"
+                                localtype="folder"
+                                parent="aspace_a5a8c361afd278bcb6c77f609f4fda41_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053578"
+                  id="aspace_83e8526303e66520e8f2145c31581644"
+                  level="file">
+                  <did>
+                     <unittitle>The Mill: taxes</unittitle>
+                     <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1949">1949</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_83e8526303e66520e8f2145c31581644_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_83e8526303e66520e8f2145c31581644_c2"
+                                localtype="folder"
+                                parent="aspace_83e8526303e66520e8f2145c31581644_c1">14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053579"
+                  id="aspace_555cb7754e4e82b5a238ef8ec39d677e"
+                  level="file">
+                  <did>
+                     <unittitle>Moses Pariente Bankers</unittitle>
+                     <unitdatestructured altrender="1949-1956" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1949">1949</fromdate>
+                           <todate standarddate="1956">1956</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_555cb7754e4e82b5a238ef8ec39d677e_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_555cb7754e4e82b5a238ef8ec39d677e_c2"
+                                localtype="folder"
+                                parent="aspace_555cb7754e4e82b5a238ef8ec39d677e_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053580"
+                  id="aspace_e21fd24e25ca4856a73991369a25e459"
+                  level="file">
+                  <did>
+                     <unittitle>Life insurance</unittitle>
+                     <unitdatestructured altrender="1950" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1950">1950</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_e21fd24e25ca4856a73991369a25e459_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_e21fd24e25ca4856a73991369a25e459_c2"
+                                localtype="folder"
+                                parent="aspace_e21fd24e25ca4856a73991369a25e459_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053581"
+                  id="aspace_e5f3786effd438b4df370089c067cd9f"
+                  level="file">
+                  <did>
+                     <unittitle>Police d'Assurance [insurance policy]</unittitle>
+                     <unitdatestructured altrender="1961" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1961">1961</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_e5f3786effd438b4df370089c067cd9f_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_e5f3786effd438b4df370089c067cd9f_c2"
+                                localtype="folder"
+                                parent="aspace_e5f3786effd438b4df370089c067cd9f_c1">17</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053582"
+               id="aspace_69c6a439eeb5656951e72a857096625b"
+               level="subseries">
+               <did>
+                  <unittitle>Personal records</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1884">1884</fromdate>
+                        <todate standarddate="2013">2013</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4053583"
+                  id="aspace_eae002f8cce0f8276d1350215b0cc281"
+                  level="file">
+                  <did>
+                     <unittitle>Wine orders and lists</unittitle>
+                     <unitdatestructured altrender="1884, 1933-1934"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1884">1884</fromdate>
+                           <todate standarddate="1934">1934</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_eae002f8cce0f8276d1350215b0cc281_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_eae002f8cce0f8276d1350215b0cc281_c2"
+                                localtype="folder"
+                                parent="aspace_eae002f8cce0f8276d1350215b0cc281_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053584"
+                  id="aspace_5976f9dbb741d86a92f02ae50e8d656d"
+                  level="file">
+                  <did>
+                     <unittitle>Map of Chartres</unittitle>
+                     <unitdatestructured altrender="1903" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1903">1903</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_5976f9dbb741d86a92f02ae50e8d656d_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_5976f9dbb741d86a92f02ae50e8d656d_c2"
+                                localtype="folder"
+                                parent="aspace_5976f9dbb741d86a92f02ae50e8d656d_c1">19</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053585"
+                  id="aspace_172ed6f1ae74dc4816633ebd5084c644"
+                  level="file">
+                  <did>
+                     <unittitle>Scrapbook</unittitle>
+                     <unitdatestructured altrender="1905-1912" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1905">1905</fromdate>
+                           <todate standarddate="1912">1912</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484770 /locations/9"
+                                containerid="39002098928733"
+                                encodinganalog="flat box (11d 3h 15w)"
+                                id="aspace_172ed6f1ae74dc4816633ebd5084c644_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053587"
+                  id="aspace_c5cad4ef70a282fd1dc50aaccce9f8c9"
+                  level="file">
+                  <did>
+                     <unittitle>"The Trinity Ivy"</unittitle>
+                     <unitdatestructured altrender="1912" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1912">1912</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_c5cad4ef70a282fd1dc50aaccce9f8c9_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_c5cad4ef70a282fd1dc50aaccce9f8c9_c2"
+                                localtype="folder"
+                                parent="aspace_c5cad4ef70a282fd1dc50aaccce9f8c9_c1">20</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053588"
+                  id="aspace_7b7fa1dbb65823a1a6bdde8585cde142"
+                  level="file">
+                  <did>
+                     <unittitle>Clippings</unittitle>
+                     <unitdatestructured altrender="1907-1983" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1907">1907</fromdate>
+                           <todate standarddate="1983">1983</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_7b7fa1dbb65823a1a6bdde8585cde142_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_7b7fa1dbb65823a1a6bdde8585cde142_c2"
+                                localtype="folder"
+                                parent="aspace_7b7fa1dbb65823a1a6bdde8585cde142_c1">21</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053589"
+                  id="aspace_3c6af040b055219b9a25239d1bc13eab"
+                  level="file">
+                  <did>
+                     <unittitle>Ephemera</unittitle>
+                     <unitdatestructured altrender="1925-1943" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1925">1925</fromdate>
+                           <todate standarddate="1943">1943</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484768 /locations/9"
+                                containerid="39002104529293"
+                                encodinganalog="archive legal"
+                                id="aspace_3c6af040b055219b9a25239d1bc13eab_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_3c6af040b055219b9a25239d1bc13eab_c2"
+                                localtype="folder"
+                                parent="aspace_3c6af040b055219b9a25239d1bc13eab_c1">22</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053590"
+                  id="aspace_92adfecd78679605bbd83071c3621e44"
+                  level="file">
+                  <did>
+                     <unittitle>Casino Municipal de la Baule theatre program</unittitle>
+                     <unitdatestructured altrender="1928" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1928">1928</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_92adfecd78679605bbd83071c3621e44_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_92adfecd78679605bbd83071c3621e44_c2"
+                                localtype="folder"
+                                parent="aspace_92adfecd78679605bbd83071c3621e44_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053591"
+                  id="aspace_d9c69d9bb5f4cacb147eec899760ca7c"
+                  level="file">
+                  <did>
+                     <unittitle>Passports, identifications, and visas</unittitle>
+                     <unitdatestructured altrender="1929-1959" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1929">1929</fromdate>
+                           <todate standarddate="1959">1959</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_d9c69d9bb5f4cacb147eec899760ca7c_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_d9c69d9bb5f4cacb147eec899760ca7c_c2"
+                                localtype="folder"
+                                parent="aspace_d9c69d9bb5f4cacb147eec899760ca7c_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053592"
+                  id="aspace_23f4d3d97857752bc2836a5814f00dc5"
+                  level="file">
+                  <did>
+                     <unittitle>Trinity College diploma</unittitle>
+                     <unitdatestructured altrender="1940" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1940">1940</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484769 /locations/9"
+                                containerid="39002098928725"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_23f4d3d97857752bc2836a5814f00dc5_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_23f4d3d97857752bc2836a5814f00dc5_c2"
+                                localtype="folder"
+                                parent="aspace_23f4d3d97857752bc2836a5814f00dc5_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053593"
+                  id="aspace_7050c1bca7d95a8878eda036afb05293"
+                  level="file">
+                  <did>
+                     <unittitle>William Bird Tangier, Morocco Library catalog</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">circa 1940s</unitdate>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_7050c1bca7d95a8878eda036afb05293_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_7050c1bca7d95a8878eda036afb05293_c2"
+                                localtype="folder"
+                                parent="aspace_7050c1bca7d95a8878eda036afb05293_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053594"
+                  id="aspace_2280ec2bf5516aeb648ae59c7e669c73"
+                  level="file">
+                  <did>
+                     <unittitle>American Kennel Club registration certificate</unittitle>
+                     <unitdatestructured altrender="1941" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1941">1941</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_2280ec2bf5516aeb648ae59c7e669c73_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_2280ec2bf5516aeb648ae59c7e669c73_c2"
+                                localtype="folder"
+                                parent="aspace_2280ec2bf5516aeb648ae59c7e669c73_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053595"
+                  id="aspace_cd2bb572b3dd4ee93286a00dd648f007"
+                  level="file">
+                  <did>
+                     <unittitle>Moulin de Houx visitors' log</unittitle>
+                     <unitdatestructured altrender="1949-1951" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1949">1949</fromdate>
+                           <todate standarddate="1951">1951</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_cd2bb572b3dd4ee93286a00dd648f007_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_cd2bb572b3dd4ee93286a00dd648f007_c2"
+                                localtype="folder"
+                                parent="aspace_cd2bb572b3dd4ee93286a00dd648f007_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053596"
+                  id="aspace_3c0d618428bf8106a43c4c4b08722e24"
+                  level="file">
+                  <did>
+                     <unittitle>Research on William Bird's papers</unittitle>
+                     <unitdatestructured altrender="2013" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2013">2013</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_3c0d618428bf8106a43c4c4b08722e24_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_3c0d618428bf8106a43c4c4b08722e24_c2"
+                                localtype="folder"
+                                parent="aspace_3c0d618428bf8106a43c4c4b08722e24_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053597"
+                  id="aspace_1c0560cd81b8d510d154f252f106fbdc"
+                  level="file">
+                  <did>
+                     <unittitle>Bird family history</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_1c0560cd81b8d510d154f252f106fbdc_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_1c0560cd81b8d510d154f252f106fbdc_c2"
+                                localtype="folder"
+                                parent="aspace_1c0560cd81b8d510d154f252f106fbdc_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053598"
+                  id="aspace_61f04620a0792fa17ce1ae807e149608"
+                  level="file">
+                  <did>
+                     <unittitle>Inventory of collection</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_61f04620a0792fa17ce1ae807e149608_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_61f04620a0792fa17ce1ae807e149608_c2"
+                                localtype="folder"
+                                parent="aspace_61f04620a0792fa17ce1ae807e149608_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053599"
+                  id="aspace_20dbdb917a0263436d0edc147213da53"
+                  level="file">
+                  <did>
+                     <unittitle>Thackeray excerpts</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_20dbdb917a0263436d0edc147213da53_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_20dbdb917a0263436d0edc147213da53_c2"
+                                localtype="folder"
+                                parent="aspace_20dbdb917a0263436d0edc147213da53_c1">9</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053600"
+               id="aspace_513540a24e8aa505fd20778a5ddd8076"
+               level="subseries">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1880">1880</fromdate>
+                        <todate standarddate="1959">1959</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4053601"
+                  id="aspace_fbe71f61f47f61d79570e84bdd7a6eb6"
+                  level="file">
+                  <did>
+                     <unittitle>Photographs</unittitle>
+                     <unitdatestructured altrender="1880-1959" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1880">1880</fromdate>
+                           <todate standarddate="1959">1959</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_fbe71f61f47f61d79570e84bdd7a6eb6_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_fbe71f61f47f61d79570e84bdd7a6eb6_c2"
+                                localtype="folder"
+                                parent="aspace_fbe71f61f47f61d79570e84bdd7a6eb6_c1">10-14</container>
+                  </did>
+                  <scopecontent id="aspace_48671d1ead7e1b311158639ff2f9720d">
+                     <head>Scope and Contents</head>
+                     <p>Contains photographs of the Bird family including early prints of William, photos of the Bird family in Paris with William and Sarah's late son Billy, travels in Europe, scenes from World War II, and life in Tangier.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053602"
+                  id="aspace_71d935f1f42d078392774656f54888cb"
+                  level="file">
+                  <did>
+                     <unittitle>25th Convention U.S. Brewers Association Committee of Entertainment print</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484769 /locations/9"
+                                containerid="39002098928725"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_71d935f1f42d078392774656f54888cb_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_71d935f1f42d078392774656f54888cb_c2"
+                                localtype="folder"
+                                parent="aspace_71d935f1f42d078392774656f54888cb_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4053603"
+                  id="aspace_93c205baa0ad3649394b26cf15a888b1"
+                  level="file">
+                  <did>
+                     <unittitle>Photographic prints</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/484771 /locations/9"
+                                containerid="39002104529301"
+                                encodinganalog="archive legal"
+                                id="aspace_93c205baa0ad3649394b26cf15a888b1_c1"
+                                label="Mixed Materials"
+                                localtype="box">5</container>
+                     <container id="aspace_93c205baa0ad3649394b26cf15a888b1_c2"
+                                localtype="folder"
+                                parent="aspace_93c205baa0ad3649394b26cf15a888b1_c1">15</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4053604"
+            id="aspace_441bfd8ea7bc72e0946f89d376b0d5cb"
+            level="series">
+            <did>
+               <unittitle>Professional papers</unittitle>
+               <unitid>Series III</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.63</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(2 boxes)</physdesc>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1927">1927</fromdate>
+                     <todate standarddate="1997">1997</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <arrangement id="aspace_b9eb9aa33b62057694a6d6fc9184a690">
+               <head>Arrangement</head>
+               <p>Materials in this series are arranged chronologically.</p>
+            </arrangement>
+            <scopecontent id="aspace_3a23b89454eb7f5e861253d48ac8c2ef">
+               <head>Scope and Contents</head>
+               <p>This series contains materials related to William Bird's professional life as a journalist and editor. Included in the materials are the scripts for Bird's NBC radio broadcast during World War II and drafts for his reporting work in Tangier after the war. Also included in this series is articles and speeches created by Bird's son-in-law, Thomas Wilson.</p>
+            </scopecontent>
+            <c altrender="/repositories/11/archival_objects/4053605"
+               id="aspace_f08286974a74a03468823962fad451c7"
+               level="file">
+               <did>
+                  <unittitle>Association of the Anglo-American Press of Paris</unittitle>
+                  <unitdatestructured altrender="1927" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1927">1927</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_f08286974a74a03468823962fad451c7_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_f08286974a74a03468823962fad451c7_c2"
+                             localtype="folder"
+                             parent="aspace_f08286974a74a03468823962fad451c7_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053606"
+               id="aspace_42ab04157e2becbc96bfa101c39fb6a6"
+               level="file">
+               <did>
+                  <unittitle>William Bird reporting 1940-1944</unittitle>
+                  <unitdatestructured altrender="1933-1946" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1933">1933</fromdate>
+                        <todate standarddate="1946">1946</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_42ab04157e2becbc96bfa101c39fb6a6_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_42ab04157e2becbc96bfa101c39fb6a6_c2"
+                             localtype="folder"
+                             parent="aspace_42ab04157e2becbc96bfa101c39fb6a6_c1">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053607"
+               id="aspace_70ef81a213255704ef5f0300d4083b8c"
+               level="file">
+               <did>
+                  <unittitle>William Bullitt visit to Paris</unittitle>
+                  <unitdatestructured altrender="1934-1935" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1934">1934</fromdate>
+                        <todate standarddate="1935">1935</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_70ef81a213255704ef5f0300d4083b8c_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_70ef81a213255704ef5f0300d4083b8c_c2"
+                             localtype="folder"
+                             parent="aspace_70ef81a213255704ef5f0300d4083b8c_c1">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053608"
+               id="aspace_65b5a95c0b88b4ae7343131531b700aa"
+               level="file">
+               <did>
+                  <unittitle>National Broadcast Company [NBC] radio scripts</unittitle>
+                  <unitdatestructured altrender="1938-1940" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1938">1938</fromdate>
+                        <todate standarddate="1940">1940</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_65b5a95c0b88b4ae7343131531b700aa_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_65b5a95c0b88b4ae7343131531b700aa_c2"
+                             localtype="folder"
+                             parent="aspace_65b5a95c0b88b4ae7343131531b700aa_c1">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053609"
+               id="aspace_3e241d969dc3a45533a19a82964cb02e"
+               level="file">
+               <did>
+                  <unittitle>Resume</unittitle>
+                  <unitdatestructured altrender="1939" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1939">1939</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_3e241d969dc3a45533a19a82964cb02e_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_3e241d969dc3a45533a19a82964cb02e_c2"
+                             localtype="folder"
+                             parent="aspace_3e241d969dc3a45533a19a82964cb02e_c1">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053610"
+               id="aspace_8992efe51fc85ca6b57ed9097855a347"
+               level="file">
+               <did>
+                  <unittitle>Travel authorizations and vouchers</unittitle>
+                  <unitdatestructured altrender="1939-1945" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1939">1939</fromdate>
+                        <todate standarddate="1945">1945</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_8992efe51fc85ca6b57ed9097855a347_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_8992efe51fc85ca6b57ed9097855a347_c2"
+                             localtype="folder"
+                             parent="aspace_8992efe51fc85ca6b57ed9097855a347_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053611"
+               id="aspace_c514f53400d4d77b1836b2d04f0cef7c"
+               level="file">
+               <did>
+                  <unittitle>Office of War Information</unittitle>
+                  <unitdatestructured altrender="1943-1945" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1943">1943</fromdate>
+                        <todate standarddate="1945">1945</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_c514f53400d4d77b1836b2d04f0cef7c_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_c514f53400d4d77b1836b2d04f0cef7c_c2"
+                             localtype="folder"
+                             parent="aspace_c514f53400d4d77b1836b2d04f0cef7c_c1">7</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053612"
+               id="aspace_04f1d0e81dff8077c6910cfb6e132529"
+               level="file">
+               <did>
+                  <unittitle>Comite Francais de la Liberation Nationale memorandum</unittitle>
+                  <unitdatestructured altrender="1944" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1944">1944</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_04f1d0e81dff8077c6910cfb6e132529_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_04f1d0e81dff8077c6910cfb6e132529_c2"
+                             localtype="folder"
+                             parent="aspace_04f1d0e81dff8077c6910cfb6e132529_c1">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053613"
+               id="aspace_01b62ae4d1206e7291b3e043955e0042"
+               level="file">
+               <did>
+                  <unittitle>Psychological Warfare Branch [PWB] records</unittitle>
+                  <unitdatestructured altrender="1944" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1944">1944</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_01b62ae4d1206e7291b3e043955e0042_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_01b62ae4d1206e7291b3e043955e0042_c2"
+                             localtype="folder"
+                             parent="aspace_01b62ae4d1206e7291b3e043955e0042_c1">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053614"
+               id="aspace_182ff01596b3c7aff6b79fc56ba10807"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>New York Times</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="1948-1949" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1948">1948</fromdate>
+                        <todate standarddate="1949">1949</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_182ff01596b3c7aff6b79fc56ba10807_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_182ff01596b3c7aff6b79fc56ba10807_c2"
+                             localtype="folder"
+                             parent="aspace_182ff01596b3c7aff6b79fc56ba10807_c1">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053615"
+               id="aspace_5b2f8a6c9c2d5d1271111c52a94008be"
+               level="file">
+               <did>
+                  <unittitle>Tangier legation of the US</unittitle>
+                  <unitdatestructured altrender="1948-1950" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1948">1948</fromdate>
+                        <todate standarddate="1950">1950</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_5b2f8a6c9c2d5d1271111c52a94008be_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_5b2f8a6c9c2d5d1271111c52a94008be_c2"
+                             localtype="folder"
+                             parent="aspace_5b2f8a6c9c2d5d1271111c52a94008be_c1">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053616"
+               id="aspace_a1403571e6c5985cae329112dfa4541e"
+               level="file">
+               <did>
+                  <unittitle>Tangier reporting</unittitle>
+                  <unitdatestructured altrender="1949-1961" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1949">1949</fromdate>
+                        <todate standarddate="1961">1961</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_a1403571e6c5985cae329112dfa4541e_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_a1403571e6c5985cae329112dfa4541e_c2"
+                             localtype="folder"
+                             parent="aspace_a1403571e6c5985cae329112dfa4541e_c1">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053617"
+               id="aspace_6ab9e5e9596787003f823f9e086c73af"
+               level="file">
+               <did>
+                  <unittitle>The Moghreb Press S.A. contract</unittitle>
+                  <unitdatestructured altrender="1956" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1956">1956</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_6ab9e5e9596787003f823f9e086c73af_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_6ab9e5e9596787003f823f9e086c73af_c2"
+                             localtype="folder"
+                             parent="aspace_6ab9e5e9596787003f823f9e086c73af_c1">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053618"
+               id="aspace_9985964a79bdaded45ab2c5c8645716f"
+               level="file">
+               <did>
+                  <unittitle>Three Mountain Press announcement for "Sixteen Cantos" by Ezra Pound</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/484769 /locations/9"
+                             containerid="39002098928725"
+                             encodinganalog="flat box (14d 1h 18w)"
+                             id="aspace_9985964a79bdaded45ab2c5c8645716f_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_9985964a79bdaded45ab2c5c8645716f_c2"
+                             localtype="folder"
+                             parent="aspace_9985964a79bdaded45ab2c5c8645716f_c1">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4053619"
+               id="aspace_14b6b4f799e59fda1bf9968f348e0a8b"
+               level="file">
+               <did>
+                  <unittitle>Thomas W. Wilson articles, speeches, etc.</unittitle>
+                  <unitdatestructured altrender="1970-1997" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1970">1970</fromdate>
+                        <todate standarddate="1997">1997</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484772 /locations/9"
+                             containerid="39002104529319"
+                             encodinganalog="archive legal"
+                             id="aspace_14b6b4f799e59fda1bf9968f348e0a8b_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_14b6b4f799e59fda1bf9968f348e0a8b_c2"
+                             localtype="folder"
+                             parent="aspace_14b6b4f799e59fda1bf9968f348e0a8b_c1">14-16</container>
+                  <container altrender="/repositories/11/top_containers/484773 /locations/9"
+                             containerid="39002104529327"
+                             encodinganalog="archive half legal"
+                             id="aspace_14b6b4f799e59fda1bf9968f348e0a8b_c3"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+                  <container id="aspace_14b6b4f799e59fda1bf9968f348e0a8b_c4"
+                             localtype="folder"
+                             parent="aspace_14b6b4f799e59fda1bf9968f348e0a8b_c3">1-2</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

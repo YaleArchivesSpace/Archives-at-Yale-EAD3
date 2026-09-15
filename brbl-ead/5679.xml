@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-02T23:03:15-04:00</eventdatetime>
+            <eventdatetime>2026-09-14T23:01:37-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September  2, 2026 at 23:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 14, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1209,6 +1209,31 @@ media in the collection document interviews, readings, and other events with whi
                   <head>Scope and Contents</head>
                   <p>Includes reviews, flyers, advertisements, publicity, letters, and articles related to Gioseffi's book, "Women on War: International Writings".</p>
                </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4052826"
+               id="aspace_cb9cd6b09630826f7cba4ba86bbeff9e"
+               level="file">
+               <did>
+                  <unittitle>Printed material</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>0.21</quantity>
+                     <unittype>Linear Feet</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">1 box</physdesc>
+                  <unitdatestructured altrender="1979" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1979">1979</datesingle>
+                  </unitdatestructured>
+                  <unitdatestructured altrender="1994" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1994">1994</datesingle>
+                  </unitdatestructured>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/484744 /locations/9"
+                             containerid="39002104917886"
+                             encodinganalog="archive half legal"
+                             id="aspace_cb9cd6b09630826f7cba4ba86bbeff9e_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+               </did>
             </c>
          </c>
          <c altrender="/repositories/11/archival_objects/2288659"
