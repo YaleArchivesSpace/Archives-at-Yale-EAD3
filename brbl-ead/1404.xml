@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-11-10T23:17:04-05:00</eventdatetime>
+            <eventdatetime>2026-09-16T00:28:45-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 10, 2025 at 23:17</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 00:28</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4595,6 +4595,19 @@
                   </did>
                </c>
             </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/3578611"
+            id="aspace_4def7e08146e2cf1ff2f4ff91af9e070"
+            level="series">
+            <did>
+               <unittitle>March 2018 Acquisition</unittitle>
+               <unitid>Series VI</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>1</quantity>
+                  <unittype>Folder</unittype>
+               </physdescstructured>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+            </did>
          </c>
       </dsc>
    </archdesc>

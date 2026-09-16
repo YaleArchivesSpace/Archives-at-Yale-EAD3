@@ -65,10 +65,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T00:07:42-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T00:28:36-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 00:07</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 00:28</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -2674,6 +2674,97 @@
                                    label="Mixed Materials"
                                    localtype="box">57</container>
                      </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/3399376"
+                     id="aspace_46285f1ba1947a9c597b73ca0873768a"
+                     level="file">
+                     <did>
+                        <unittitle>
+                           <title localtype="simple" render="italic">
+                              <part>Ancient Ruins</part>
+                           </title> and <title localtype="simple" render="italic">
+                              <part>Pueblos, Villages, Forts, and Trails</part>
+                           </title> guidebooks</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>15</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1984-2017" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1984">1984</fromdate>
+                              <todate standarddate="2017">2017</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/382186 /locations/9"
+                                   containerid="39002137214913"
+                                   encodinganalog="archive letter"
+                                   id="aspace_46285f1ba1947a9c597b73ca0873768a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">58</container>
+                        <container altrender="/repositories/11/top_containers/382187 /locations/9"
+                                   containerid="39002137214921"
+                                   encodinganalog="archive half letter"
+                                   id="aspace_46285f1ba1947a9c597b73ca0873768a_c2"
+                                   label="Mixed Materials"
+                                   localtype="box">59</container>
+                     </did>
+                     <scopecontent id="aspace_c4bd2ac5b3e92628e81750f1d1ce81ca">
+                        <head>Scope and Contents</head>
+                        <p>Includes correspondence, contracts, permissions, royalty statements, and computer media.</p>
+                     </scopecontent>
+                     <accessrestrict id="aspace_501183ee13c27c9cb25744d2ae48ea5f">
+                        <head>Conditions Governing Access</head>
+                        <p>Box 59 (electronic media): Restricted fragile. Access copies of digital files may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                     <c altrender="/repositories/11/archival_objects/3399381"
+                        id="aspace_593859d89ed3c73fad9af59eb2ab5142"
+                        level="file">
+                        <did>
+                           <unittitle>Eric P #1</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>Microcassette</unittype>
+                           </physdescstructured>
+                           <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                           <container altrender="/repositories/11/top_containers/382188 /locations/9"
+                                      containerid="39002137214939"
+                                      encodinganalog="card box (4d 6h 8w)"
+                                      id="aspace_593859d89ed3c73fad9af59eb2ab5142_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">60</container>
+                           <container id="aspace_593859d89ed3c73fad9af59eb2ab5142_c2"
+                                      localtype="item_barcode"
+                                      parent="aspace_593859d89ed3c73fad9af59eb2ab5142_c1">39002140967721</container>
+                        </did>
+                        <accessrestrict id="aspace_f8765a49f65be098c33d68969865f29a"
+                                        localtype="RestrictedFragileSpecColl">
+                           <head>Conditions Governing Access</head>
+                           <p>Audiovisual material. Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                        </accessrestrict>
+                     </c>
+                     <c altrender="/repositories/11/archival_objects/3496872"
+                        id="aspace_567920f1c4ca592f5bd06f33f7a9b9c9"
+                        level="item">
+                        <did>
+                           <unittitle>Hopi - interview trans-cryption</unittitle>
+                           <unitid>2021-wa-0030-0001</unitid>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>3.5_floppy_disk</unittype>
+                           </physdescstructured>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>737280</quantity>
+                              <unittype>bytes</unittype>
+                           </physdescstructured>
+                           <physdesc localtype="container_summary">737.28 Kilobytes. This reflects the size of the carrier media, but may not accurately reflect the extent of digital files available for research.</physdesc>
+                           <container altrender="/repositories/11/top_containers/382187 /locations/9"
+                                      containerid="39002137214921"
+                                      encodinganalog="archive half letter"
+                                      id="aspace_567920f1c4ca592f5bd06f33f7a9b9c9_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">59</container>
+                        </did>
+                     </c>
                   </c>
                   <c altrender="/repositories/11/archival_objects/3399955"
                      id="aspace_bf65b1940360cc7eef036ae68cfb48bf"

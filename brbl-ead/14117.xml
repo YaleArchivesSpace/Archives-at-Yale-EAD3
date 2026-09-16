@@ -40,7 +40,7 @@
                <p>Boxes: 1-50, 57, 61, 63, 68, 71-72, 90-97, 102-214</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 51-56, 58-60, 62, 64-67, 69-70, 73-89, 98-100</p>
+               <p>Boxes: 51-56, 58-60, 62, 64-67, 69-70, 73-89, 98-101</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-11T23:03:06-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T00:29:02-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 23:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 00:29</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4535,6 +4535,25 @@
                                   localtype="InProcessSpecColl">
                      <head>Conditions Governing Access</head>
                      <p>Boxes 51-60, 62, 64-67, 69-70, 73-89, 98-101: In-process material pending conservation treatment and housing. For further information, consult Access Services.</p>
+                  </accessrestrict>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056320"
+                  id="aspace_bb25b06f00989c8b8300caa058488682"
+                  level="file">
+                  <did>
+                     <unittitle>Poster for the 1st Bombay Historical Conference by G. P. Fernandes</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1931">1931</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/485006"
+                                id="aspace_bb25b06f00989c8b8300caa058488682_c1"
+                                label="Mixed Materials"
+                                localtype="box">101</container>
+                  </did>
+                  <accessrestrict id="aspace_a5252145f5f5364b44809c8592fd77e0"
+                                  localtype="InProcessSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Box 101: In-process material pending housing.  For further information, consult Access Services.</p>
                   </accessrestrict>
                </c>
                <c altrender="/repositories/11/archival_objects/4053776"

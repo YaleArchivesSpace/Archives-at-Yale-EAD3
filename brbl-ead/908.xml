@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-20T23:00:19-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T00:28:56-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday July 20, 2026 at 23:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 00:28</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -374,9 +374,9 @@
                   <unittype>Linear Feet</unittype>
                </physdescstructured>
                <physdesc localtype="container_summary">9 boxes</physdesc>
-               <unitdatestructured altrender="1900s-1960s" label="creation" unitdatetype="inclusive">
+               <unitdatestructured altrender="1899-1960s" label="creation" unitdatetype="inclusive">
                   <daterange>
-                     <fromdate standarddate="1900">1900</fromdate>
+                     <fromdate standarddate="1899">1899</fromdate>
                      <todate standarddate="1969">1969</todate>
                   </daterange>
                </unitdatestructured>
@@ -840,40 +840,590 @@ Bedfordshire</p>
                level="file">
                <did>
                   <unittitle>Diaries and notebooks</unittitle>
-                  <unitdatestructured altrender="1900s-1960s" label="creation" unitdatetype="inclusive">
+                  <unitdatestructured altrender="1899-1961" label="creation" unitdatetype="inclusive">
                      <daterange>
-                        <fromdate standarddate="1900">1900</fromdate>
-                        <todate standarddate="1969">1969</todate>
+                        <fromdate standarddate="1899">1899</fromdate>
+                        <todate standarddate="1961">1961</todate>
                      </daterange>
                   </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/26914 /locations/9"
-                             containerid="39002099387400"
-                             id="aspace_ref25_c1"
-                             label="Mixed Materials"
-                             localtype="box">6</container>
                </did>
                <scopecontent id="aspace_3e084f690a197caaf95797489a29e387">
                   <head>Scope and Contents</head>
                   <p>Includes travel diaries, daybooks, and gardening notebooks. Also contains at least one datebook kept by Lady Sackville.</p>
                </scopecontent>
+               <c altrender="/repositories/11/archival_objects/4056153"
+                  id="aspace_d2661a547073c40984d125d573d3ed0d"
+                  level="file">
+                  <did>
+                     <unittitle>Notebook listing castles and stately homes</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_d2661a547073c40984d125d573d3ed0d_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_d2661a547073c40984d125d573d3ed0d_c2"
+                                localtype="folder"
+                                parent="aspace_d2661a547073c40984d125d573d3ed0d_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056154"
+                  id="aspace_4e4148b3c22bb10541fbaf918c65fd23"
+                  level="file">
+                  <did>
+                     <unittitle>Notebook listing gift acknowledgments</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_4e4148b3c22bb10541fbaf918c65fd23_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_4e4148b3c22bb10541fbaf918c65fd23_c2"
+                                localtype="folder"
+                                parent="aspace_4e4148b3c22bb10541fbaf918c65fd23_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056155"
+                  id="aspace_31767b4e58417819d4892e8046f3aba2"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured altrender="1899-1913" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1899">1899</fromdate>
+                           <todate standarddate="1913">1913</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_31767b4e58417819d4892e8046f3aba2_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_31767b4e58417819d4892e8046f3aba2_c2"
+                                localtype="folder"
+                                parent="aspace_31767b4e58417819d4892e8046f3aba2_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056157"
+                  id="aspace_89aa0178b9fea757a8e55f8e563e9de8"
+                  level="file">
+                  <did>
+                     <unittitle>Notebook of "religious instruction"</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1908">1908</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_89aa0178b9fea757a8e55f8e563e9de8_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_89aa0178b9fea757a8e55f8e563e9de8_c2"
+                                localtype="folder"
+                                parent="aspace_89aa0178b9fea757a8e55f8e563e9de8_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056119"
+                  id="aspace_31b1d80e67b7d4613591c7d140d4cdcd"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1909">1909</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_31b1d80e67b7d4613591c7d140d4cdcd_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_31b1d80e67b7d4613591c7d140d4cdcd_c2"
+                                localtype="folder"
+                                parent="aspace_31b1d80e67b7d4613591c7d140d4cdcd_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056158"
+                  id="aspace_fd4274bbaeb60299d019d0862ff7f35b"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1930">1930</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_fd4274bbaeb60299d019d0862ff7f35b_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_fd4274bbaeb60299d019d0862ff7f35b_c2"
+                                localtype="folder"
+                                parent="aspace_fd4274bbaeb60299d019d0862ff7f35b_c1">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056159"
+                  id="aspace_4fc1ae70a9c2748483dedc115b231578"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1933">1933</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_4fc1ae70a9c2748483dedc115b231578_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_4fc1ae70a9c2748483dedc115b231578_c2"
+                                localtype="folder"
+                                parent="aspace_4fc1ae70a9c2748483dedc115b231578_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056303"
+                  id="aspace_afa4b21e41ea52bdf7ba5b514ec0bf4c"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1934">1934</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_afa4b21e41ea52bdf7ba5b514ec0bf4c_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_afa4b21e41ea52bdf7ba5b514ec0bf4c_c2"
+                                localtype="folder"
+                                parent="aspace_afa4b21e41ea52bdf7ba5b514ec0bf4c_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056304"
+                  id="aspace_33862a39a3085c60d2c49adf47b7e2c9"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1935">1935</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_33862a39a3085c60d2c49adf47b7e2c9_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_33862a39a3085c60d2c49adf47b7e2c9_c2"
+                                localtype="folder"
+                                parent="aspace_33862a39a3085c60d2c49adf47b7e2c9_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056305"
+                  id="aspace_36beb75871bc97966efcef580a98e976"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1936">1936</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_36beb75871bc97966efcef580a98e976_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_36beb75871bc97966efcef580a98e976_c2"
+                                localtype="folder"
+                                parent="aspace_36beb75871bc97966efcef580a98e976_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056306"
+                  id="aspace_42b54c98183c4988b8b1da78cf6945a6"
+                  level="file">
+                  <did>
+                     <unittitle>Gardener's diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1938">1938</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_42b54c98183c4988b8b1da78cf6945a6_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_42b54c98183c4988b8b1da78cf6945a6_c2"
+                                localtype="folder"
+                                parent="aspace_42b54c98183c4988b8b1da78cf6945a6_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056307"
+                  id="aspace_445947b35df3c77015ef66280593cde4"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured altrender="1940-1944" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1940">1940</fromdate>
+                           <todate standarddate="1944">1944</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_445947b35df3c77015ef66280593cde4_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_445947b35df3c77015ef66280593cde4_c2"
+                                localtype="folder"
+                                parent="aspace_445947b35df3c77015ef66280593cde4_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056308"
+                  id="aspace_0635686ad516a47de28464898f9ccc15"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1947">1947</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_0635686ad516a47de28464898f9ccc15_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_0635686ad516a47de28464898f9ccc15_c2"
+                                localtype="folder"
+                                parent="aspace_0635686ad516a47de28464898f9ccc15_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056319"
+                  id="aspace_758b95d89322307658bd4a0a52466ad5"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1948">1948</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_758b95d89322307658bd4a0a52466ad5_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_758b95d89322307658bd4a0a52466ad5_c2"
+                                localtype="folder"
+                                parent="aspace_758b95d89322307658bd4a0a52466ad5_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056122"
+                  id="aspace_a23c73ba35f642f14030bab592aa1a68"
+                  level="file">
+                  <did>
+                     <unittitle>Travel diary (France, North Africa)</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1948">1948</datesingle>
+                     </unitdatestructured>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1950">1950</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_a23c73ba35f642f14030bab592aa1a68_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_a23c73ba35f642f14030bab592aa1a68_c2"
+                                localtype="folder"
+                                parent="aspace_a23c73ba35f642f14030bab592aa1a68_c1">14</container>
+                  </did>
+                  <scopecontent id="aspace_bc5bebfd17371a11add6a35585a8a9d6">
+                     <head>Scope and Contents</head>
+                     <p>Travel diary for a 1948 trip to France and North Africa (Paris, Marseille, Algiers, Tunis, Marrakesh) and a 1950 trip to Paris.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056117"
+                  id="aspace_78c54f8b2346a403aa32faf2d49662ee"
+                  level="file">
+                  <did>
+                     <unittitle>Gardening letters</unittitle>
+                     <unitdatestructured altrender="1948-1952" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1948">1948</fromdate>
+                           <todate standarddate="1952">1952</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_78c54f8b2346a403aa32faf2d49662ee_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_78c54f8b2346a403aa32faf2d49662ee_c2"
+                                localtype="folder"
+                                parent="aspace_78c54f8b2346a403aa32faf2d49662ee_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056309"
+                  id="aspace_60f4579b61e8c1d89399e7407da74bec"
+                  level="file">
+                  <did>
+                     <unittitle>Travel diary (Spain)</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1949">1949</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_60f4579b61e8c1d89399e7407da74bec_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_60f4579b61e8c1d89399e7407da74bec_c2"
+                                localtype="folder"
+                                parent="aspace_60f4579b61e8c1d89399e7407da74bec_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056310"
+                  id="aspace_042b616e091c11e342a35c6fefe7e4be"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary and gardener's diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1949">1949</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_042b616e091c11e342a35c6fefe7e4be_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_042b616e091c11e342a35c6fefe7e4be_c2"
+                                localtype="folder"
+                                parent="aspace_042b616e091c11e342a35c6fefe7e4be_c1">17</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056311"
+                  id="aspace_29b23e2e05efd2234874e531e95f4554"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1950">1950</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_29b23e2e05efd2234874e531e95f4554_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_29b23e2e05efd2234874e531e95f4554_c2"
+                                localtype="folder"
+                                parent="aspace_29b23e2e05efd2234874e531e95f4554_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056312"
+                  id="aspace_3a0198ad50936a21a76a866e9cb4ce4d"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1953">1953</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_3a0198ad50936a21a76a866e9cb4ce4d_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_3a0198ad50936a21a76a866e9cb4ce4d_c2"
+                                localtype="folder"
+                                parent="aspace_3a0198ad50936a21a76a866e9cb4ce4d_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056313"
+                  id="aspace_119b86aa458551181f19076aedbe20fe"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1954">1954</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_119b86aa458551181f19076aedbe20fe_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_119b86aa458551181f19076aedbe20fe_c2"
+                                localtype="folder"
+                                parent="aspace_119b86aa458551181f19076aedbe20fe_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056314"
+                  id="aspace_aa18ccf41e145554cf4f4cbdc0623edb"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1955">1955</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_aa18ccf41e145554cf4f4cbdc0623edb_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_aa18ccf41e145554cf4f4cbdc0623edb_c2"
+                                localtype="folder"
+                                parent="aspace_aa18ccf41e145554cf4f4cbdc0623edb_c1">19</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056315"
+                  id="aspace_ce1ef1149c92d44c946a9f02bb2fd962"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1957">1957</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_ce1ef1149c92d44c946a9f02bb2fd962_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_ce1ef1149c92d44c946a9f02bb2fd962_c2"
+                                localtype="folder"
+                                parent="aspace_ce1ef1149c92d44c946a9f02bb2fd962_c1">19</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056316"
+                  id="aspace_e97b15399197567b33c37d157fc1df62"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1959">1959</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_e97b15399197567b33c37d157fc1df62_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_e97b15399197567b33c37d157fc1df62_c2"
+                                localtype="folder"
+                                parent="aspace_e97b15399197567b33c37d157fc1df62_c1">19</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056317"
+                  id="aspace_1864fbe85b92526381a10e432921841a"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured altrender="January-June 1960"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1960-01">1960 January</fromdate>
+                           <todate standarddate="1960-06">1960 June</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_1864fbe85b92526381a10e432921841a_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_1864fbe85b92526381a10e432921841a_c2"
+                                localtype="folder"
+                                parent="aspace_1864fbe85b92526381a10e432921841a_c1">20</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056318"
+                  id="aspace_1f3ad137917c4cf1322261b349911ff6"
+                  level="file">
+                  <did>
+                     <unittitle>Gardener's diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1961">1961</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26914 /locations/9"
+                                containerid="39002099387400"
+                                id="aspace_1f3ad137917c4cf1322261b349911ff6_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_1f3ad137917c4cf1322261b349911ff6_c2"
+                                localtype="folder"
+                                parent="aspace_1f3ad137917c4cf1322261b349911ff6_c1">21</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/11/archival_objects/297694"
                id="ref27"
                level="file">
                <did>
                   <unittitle>Diaries and notebooks</unittitle>
-                  <unitdatestructured altrender="1931-1955" label="creation" unitdatetype="inclusive">
+                  <unitdatestructured altrender="1931-1956" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1931">1931</fromdate>
-                        <todate standarddate="1955">1955</todate>
+                        <todate standarddate="1956">1956</todate>
                      </daterange>
                   </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/26915 /locations/9"
-                             containerid="39002099387418"
-                             id="aspace_ref27_c1"
-                             label="Mixed Materials"
-                             localtype="box">7</container>
                </did>
+               <c altrender="/repositories/11/archival_objects/4056107"
+                  id="aspace_aba702622e96690e36b0d8a91862de40"
+                  level="file">
+                  <did>
+                     <unittitle>Diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1931">1931</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26915 /locations/9"
+                                containerid="39002099387418"
+                                id="aspace_aba702622e96690e36b0d8a91862de40_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_aba702622e96690e36b0d8a91862de40_c2"
+                                localtype="folder"
+                                parent="aspace_aba702622e96690e36b0d8a91862de40_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056108"
+                  id="aspace_8a8d36f1750e7729a226a0c53c38c922"
+                  level="file">
+                  <did>
+                     <unittitle>Small diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1934">1934</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26915 /locations/9"
+                                containerid="39002099387418"
+                                id="aspace_8a8d36f1750e7729a226a0c53c38c922_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_8a8d36f1750e7729a226a0c53c38c922_c2"
+                                localtype="folder"
+                                parent="aspace_8a8d36f1750e7729a226a0c53c38c922_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056109"
+                  id="aspace_fff08e6962c6948955b95bed4d0a53d0"
+                  level="file">
+                  <did>
+                     <unittitle>Garden diary</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1940">1940</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26915 /locations/9"
+                                containerid="39002099387418"
+                                id="aspace_fff08e6962c6948955b95bed4d0a53d0_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_fff08e6962c6948955b95bed4d0a53d0_c2"
+                                localtype="folder"
+                                parent="aspace_fff08e6962c6948955b95bed4d0a53d0_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056112"
+                  id="aspace_0737e8cbc1c9bf4782c114f0f7877c1b"
+                  level="file">
+                  <did>
+                     <unittitle>Notebook</unittitle>
+                     <unitdatestructured altrender="1955-1956" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1955">1955</fromdate>
+                           <todate standarddate="1956">1956</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26915 /locations/9"
+                                containerid="39002099387418"
+                                id="aspace_0737e8cbc1c9bf4782c114f0f7877c1b_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_0737e8cbc1c9bf4782c114f0f7877c1b_c2"
+                                localtype="folder"
+                                parent="aspace_0737e8cbc1c9bf4782c114f0f7877c1b_c1">4</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/11/archival_objects/297695"
                id="ref28"
