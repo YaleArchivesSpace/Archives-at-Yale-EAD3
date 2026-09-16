@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/ead.arts.alsc.0007">ead.arts.alsc.0007</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1214">mssa.ru.1214</recordid>
       <filedesc>
          <titlestmt>
             <titleproper>Guide to the Graphic Design Program Collection of Faculty Problem Books </titleproper>
@@ -32,13 +32,8 @@
                </addressline>
             </address>
             <date>January 2026</date>
-            <num>ALSC MS 0007</num>
+            <num>RU 1214</num>
          </publicationstmt>
-         <notestmt>
-            <controlnote localtype="offsite">
-               <p>Boxes: 1-5</p>
-            </controlnote>
-         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -53,23 +48,30 @@
          <abbr>dacs</abbr>
          <citation>Describing Archives: A Content Standard</citation>
       </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
       <localcontrol localtype="findaidstatus">
          <term>completed</term>
       </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-05T03:00:09-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T03:00:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August  5, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/13950" level="collection">
       <did>
          <unittitle>Graphic Design Program collection of faculty problem books</unittitle>
-         <unitid>ALSC MS 0007</unitid>
+         <unitid>RU 1214</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -121,7 +123,7 @@
       </acqinfo>
       <prefercite id="aspace_4ea8e9580d95df20c3798960f1b04fed">
          <head>Preferred Citation</head>
-         <p>Graphic Design Program collection of faculty problem books, Robert B. Haas Family Arts Library, Yale University.</p>
+         <p>Graphic Design Program collection of faculty problem books (RU 1214). Manuscripts and Archives. Yale Univerity Library</p>
       </prefercite>
       <relatedmaterial id="aspace_4b9023ecb4169b18b7758c6fb37c9bd0">
          <head>Related Materials</head>
@@ -136,6 +138,10 @@
          <p>The Department of Design was established at Yale University in 1950, with Josef Albers as chairman. Alvin Eisenman was hired as the first Lecturer in Graphic Arts and became the first director in graphic arts (later called graphic design) in 1951. Initially an undergraduate program, graphic design soon became a graduate program focused on professional practice rather than fine arts. The early curriculum focused on typography, photography, printmaking, and the production and design of printed materials. Although the term had been in use for decades, Yale was the first university to establish a degree program in graphic design. Eisenman led the department until 1990, and continued to teach in the program through the 1990s. Sheila Levrant de Bretteville was appointed professor and director of graduate studies in graphic design in 1990. She was succeeded in 2022 by Nontsikelelo Mutiti.</p>
          <p>Alvin Lustig, a Visiting Lecturer in the department from 1951-1953, taught that "The solution to any design problem lies within an analysis of the problem." "Problem books" were a collection of exercises and situations designed to teach students to solve these problems with design.</p>
       </bioghist>
+      <custodhist id="aspace_8db3802d4b6482ee1e33b8a9043ec0b5">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives.</p>
+      </custodhist>
       <controlaccess>
          <subject source="local">
             <part localtype="topical">Graphic design</part>

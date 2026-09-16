@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-09-09T03:30:10-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T03:00:18-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  9, 2025 at 03:30</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -163,38 +163,11 @@
                   </daterange>
                </unitdatestructured>
             </did>
-            <c altrender="/repositories/12/archival_objects/785616"
-               id="ref10"
-               level="file">
-               <did>
-                  <unittitle>1931 Sept - 1932 Sep, exterior views</unittitle>
-                  <container altrender="/repositories/12/top_containers/91155 /locations/9"
-                             containerid="39002051945922"
-                             encodinganalog="archive legal"
-                             id="aspace_ref10_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref10_c2" localtype="folder" parent="aspace_ref10_c1">1 - 13</container>
-               </did>
-            </c>
             <c altrender="/repositories/12/archival_objects/785617"
                id="ref11"
                level="file">
                <did>
                   <unittitle>Addition</unittitle>
-                  <unitdatestructured altrender="1956-1957" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1956">1956</fromdate>
-                        <todate standarddate="1957">1957</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/91155 /locations/9"
-                             containerid="39002051945922"
-                             encodinganalog="archive legal"
-                             id="aspace_ref11_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref11_c2" localtype="folder" parent="aspace_ref11_c1">14 - 20</container>
                </did>
             </c>
          </c>

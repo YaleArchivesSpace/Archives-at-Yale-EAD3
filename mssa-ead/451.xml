@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0007">arts.dra.0007</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1213">mssa.ru.1213</recordid>
       <otherrecordid localtype="BIB">8081548</otherrecordid>
       <filedesc>
          <titlestmt>
@@ -33,15 +33,12 @@
                        show="new">http://www.library.yale.edu/mssa/</ref>
                </addressline>
             </address>
-            <date> December2007 </date>
-            <num>DRA 7</num>
+            <date> December 2007 </date>
+            <num>RU 1213</num>
          </publicationstmt>
          <notestmt>
             <controlnote>
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">8081548</num>.</p>
-            </controlnote>
-            <controlnote localtype="offsite">
-               <p>Box: 1</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,17 +68,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-21T03:02:08-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T03:00:20-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/451" level="collection">
       <did>
          <unittitle>Yale School of Drama Student Costume and Scenic Design Collection</unittitle>
-         <unitid>DRA 7</unitid>
+         <unitid>RU 1213</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -122,7 +119,7 @@
       </userestrict>
       <prefercite id="aspace_264161c555c1ba216f53c270f7d3114d">
          <head>Preferred Citation</head>
-         <p>Yale School of Drama Student Costume and Scenic Design Collection. Robert B. Haas Family Arts Library, Yale University.</p>
+         <p>Yale School of Drama Student Costume and Scenic Design Collection (RU 1213). Manuscripts and Archives. Yale University Library.</p>
       </prefercite>
       <scopecontent id="aspace_6254a5c7c8c5014513b296469a9eda62">
          <head>Scope and Contents</head>
@@ -132,6 +129,10 @@
          <head>Arrangement</head>
          <p>Alphabetical by Production Title</p>
       </arrangement>
+      <custodhist id="aspace_7c0a147c6c7e7bbe833c08bab933d237">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives.</p>
+      </custodhist>
       <controlaccess>
          <subject source="local">
             <part localtype="topical">Costume design</part>

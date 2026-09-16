@@ -16,7 +16,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.dra.0035.xml](445.xml) | arts.dra.0035 | DRA 35 | Yale Summer Cabaret Scripts and Ephemera Collection | 
  [arts.dra.0036.xml](446.xml) | arts.dra.0036 | DRA 36 | Yale Dramatic Association Scripts Collection | 
  [arts.dra.0037.xml](447.xml) | arts.dra.0037 | DRA 37 | Yale Repertory Theatre and Yale School of Drama Ephemera Collection | 
- [arts.dra.0007.xml](451.xml) | arts.dra.0007 | DRA 7 | Yale School of Drama Student Costume and Scenic Design Collection | 
+ [mssa.ru.1213.xml](451.xml) | mssa.ru.1213 | RU 1213 | Yale School of Drama Student Costume and Scenic Design Collection | 
  [mssa.ru.1154.xml](876.xml) | mssa.ru.1154 | RU 1154 | Early Yale documents collection | 
  [mssa.ru.0003.xml](1896.xml) | mssa.ru.0003 | RU 3 | Yale Bowl Materials Collected By Charles A. Ferry | 
  [mssa.ru.0010.xml](1897.xml) | mssa.ru.0010 | RU 10 | Helen Hadley Hall, Yale University, construction records maintained by the treasurer | 
@@ -2965,5 +2965,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ru.1203.xml](13855.xml) | mssa.ru.1203 | RU 1203 | Isaac Mills (1767-1843), records | 
  [mssa.ru.1204.xml](13863.xml) | mssa.ru.1204 | RU 1204 | Theater, Dance and Performance Studies, Yale University, records | 
  [mssa.ms.555xxx.xml](13943.xml) | mssa.ms.555xxx | MS/RU.555xxx | Demo Resource - December 2025 | 
- [ead.arts.alsc.0007.xml](13950.xml) | ead.arts.alsc.0007 | ALSC MS 0007 | Graphic Design Program collection of faculty problem books | 
+ [mssa.ru.1214.xml](13950.xml) | mssa.ru.1214 | RU 1214 | Graphic Design Program collection of faculty problem books | 
 
