@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-25T18:00:13-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T18:00:40-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -55729,25 +55729,88 @@ Ts'en Su-hsing</p>
                   <did>
                      <unittitle>Academic</unittitle>
                   </did>
-                  <c altrender="/repositories/4/archival_objects/4004385"
-                     id="aspace_92622900ef30722e6aa05bc38d1629f3"
+                  <c altrender="/repositories/4/archival_objects/4056372"
+                     id="aspace_7db73961b40d72bfa92c8790db68b055"
                      level="file">
                      <did>
                         <unittitle>Catalogs, bulletins</unittitle>
-                        <unitdatestructured altrender="1899-1929" label="creation" unitdatetype="inclusive">
+                        <unitdatestructured altrender="1899-1908" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1899">1899</fromdate>
+                              <todate standarddate="1908">1908</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/2909 /locations/9"
+                                   containerid="39002038307105"
+                                   id="aspace_7db73961b40d72bfa92c8790db68b055_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">181</container>
+                        <container id="aspace_7db73961b40d72bfa92c8790db68b055_c2"
+                                   localtype="folder"
+                                   parent="aspace_7db73961b40d72bfa92c8790db68b055_c1">3246</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4056373"
+                     id="aspace_c1559aa32e8869575ff82d353cb7b5ee"
+                     level="file">
+                     <did>
+                        <unittitle>Catalogs, bulletins</unittitle>
+                        <unitdatestructured altrender="1909-1919" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1909">1909</fromdate>
+                              <todate standarddate="1919">1919</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/2909 /locations/9"
+                                   containerid="39002038307105"
+                                   id="aspace_c1559aa32e8869575ff82d353cb7b5ee_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">181</container>
+                        <container id="aspace_c1559aa32e8869575ff82d353cb7b5ee_c2"
+                                   localtype="folder"
+                                   parent="aspace_c1559aa32e8869575ff82d353cb7b5ee_c1">3247</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4056374"
+                     id="aspace_768a2cbc6334c5dd34ed56a2c089793d"
+                     level="file">
+                     <did>
+                        <unittitle>Catalogs, bulletins</unittitle>
+                        <unitdatestructured altrender="1919-1924" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1919">1919</fromdate>
+                              <todate standarddate="1924">1924</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/2909 /locations/9"
+                                   containerid="39002038307105"
+                                   id="aspace_768a2cbc6334c5dd34ed56a2c089793d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">181</container>
+                        <container id="aspace_768a2cbc6334c5dd34ed56a2c089793d_c2"
+                                   localtype="folder"
+                                   parent="aspace_768a2cbc6334c5dd34ed56a2c089793d_c1">3248</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4056375"
+                     id="aspace_91c0a21b7f0e84c82479823720fa9d36"
+                     level="file">
+                     <did>
+                        <unittitle>Catalogs, bulletins</unittitle>
+                        <unitdatestructured altrender="1924-1929" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1924">1924</fromdate>
                               <todate standarddate="1929">1929</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/2909 /locations/9"
                                    containerid="39002038307105"
-                                   id="aspace_92622900ef30722e6aa05bc38d1629f3_c1"
+                                   id="aspace_91c0a21b7f0e84c82479823720fa9d36_c1"
                                    label="Mixed Materials"
                                    localtype="box">181</container>
-                        <container id="aspace_92622900ef30722e6aa05bc38d1629f3_c2"
+                        <container id="aspace_91c0a21b7f0e84c82479823720fa9d36_c2"
                                    localtype="folder"
-                                   parent="aspace_92622900ef30722e6aa05bc38d1629f3_c1">3246-3249</container>
+                                   parent="aspace_91c0a21b7f0e84c82479823720fa9d36_c1">3249</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/15605"

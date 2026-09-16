@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-15T18:00:58-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T18:01:20-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 15, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -431,20 +431,41 @@
                level="file">
                <did>
                   <unittitle>Correspondence of Mason and Lousie Young in China: to family</unittitle>
-                  <unitdatestructured altrender="1938-1947, n.d."
+                  <unitdatestructured altrender="1933-1935" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1933">1933</fromdate>
+                        <todate standarddate="1935">1935</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/4580 /locations/9"
+                             containerid="39002038424009"
+                             id="aspace_ref13_c1"
+                             label="Mixed Materials"
+                             localtype="box">2</container>
+                  <container id="aspace_ref13_c2" localtype="folder" parent="aspace_ref13_c1">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4056380"
+               id="aspace_b2153cc8157629d2cc47d1c3a1c36a02"
+               level="file">
+               <did>
+                  <unittitle> Correspondence of Mason and Lousie Young in China: to family</unittitle>
+                  <unitdatestructured altrender="1936-1937 March"
                                       label="creation"
                                       unitdatetype="inclusive">
                      <daterange>
-                        <fromdate standarddate="1938">1938</fromdate>
-                        <todate standarddate="1947">1947</todate>
+                        <fromdate standarddate="1936">1936</fromdate>
+                        <todate standarddate="1937-03">1937 March</todate>
                      </daterange>
                   </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/4579 /locations/9"
-                             containerid="39002038423993"
-                             id="aspace_ref13_c1"
+                  <container altrender="/repositories/4/top_containers/4580 /locations/9"
+                             containerid="39002038424009"
+                             id="aspace_b2153cc8157629d2cc47d1c3a1c36a02_c1"
                              label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref13_c2" localtype="folder" parent="aspace_ref13_c1">13-18</container>
+                             localtype="box">2</container>
+                  <container id="aspace_b2153cc8157629d2cc47d1c3a1c36a02_c2"
+                             localtype="folder"
+                             parent="aspace_b2153cc8157629d2cc47d1c3a1c36a02_c1">14</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/34110"
