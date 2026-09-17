@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-11T18:25:43-04:00</eventdatetime>
+            <eventdatetime>2026-09-17T18:02:09-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 18:25</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 17, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -569,6 +569,38 @@
                      <scopecontent id="aspace_a0b6e656447177c83ac3e66d6f7ef21a">
                         <head>Scope and Contents</head>
                         <p>Anniversary publication celebrating a decade of service.</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4056734"
+                  id="aspace_acf207232998a5c62bfd20b3f082af8b"
+                  level="subseries">
+                  <did>
+                     <unittitle>Zimbabwe</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4056735"
+                     id="aspace_4fa3738b9dc69cf0eff4875595961638"
+                     level="file">
+                     <did>
+                        <unittitle>Epworth Theological College</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1970">1970</fromdate>
+                              <todate standarddate="1973">1973</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/484717 /locations/2"
+                                   containerid="39002112327185"
+                                   id="aspace_4fa3738b9dc69cf0eff4875595961638_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_4fa3738b9dc69cf0eff4875595961638_c2"
+                                   localtype="folder"
+                                   parent="aspace_4fa3738b9dc69cf0eff4875595961638_c1">16</container>
+                     </did>
+                     <scopecontent id="aspace_fa66a7df32554ab83509644d3446d997">
+                        <head>Scope and Contents</head>
+                        <p>Newsletters from various faculty members and individuals associated with institution located in Salibury, Rhodesia [Harare, Zimbabwe], including Norman E. Thomas.</p>
                      </scopecontent>
                   </c>
                </c>
