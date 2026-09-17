@@ -78,10 +78,31 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-16T00:28:45-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T23:00:23-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 00:28</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 23:00</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2010-02-10</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Transformed with yale.addEadidUrl.xsl. Adds @url with handle for finding aid. Overwrites @url if already present.</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2007-08-13</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>beinecke.johnson.xml converted for compliance with Yale EAD Best Practice Guidelines with brbl-migrate-01.xsl (mr2007-08-13).</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2007-03-08</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>PUBLIC "-//Yale University::Beinecke Rare Book and Manuscript Library//TEXT (US::CtYBR::::[OWEN JOHNSON PAPERS ])//EN" "johnson.xml" converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -211,6 +232,10 @@
                <part>I Never Grew Up</part>
             </title>.</p>
       </scopecontent>
+      <arrangement id="aspace_cf2ace9887989c83d03ff79d9bcf2389">
+         <head>Arrangement</head>
+         <p>Organized into eight series: I. Writings, 1889-1943. II. Personal Papers, 1890-1950. III. 2011 Acquisition, 1930-1967. IV. July 2016 Acquisition, undated. V. December 2016 Acquisition, 1901-2016. VI. March 2018 Acquisition, undated. VII. July 2018 Acquisition, 1945. VIII. July 2019 Acquisition, 1883-2018.</p>
+      </arrangement>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85009808"
                   source="lcsh">
@@ -311,12 +336,29 @@
                <head>Scope and Contents</head>
                <p>This series contains correspondence, writings, and other papers by or relating to Owen Johnson and his writing.</p>
             </scopecontent>
+            <arrangement id="aspace_a2b4973dd541c43df9907d66fbc87a93">
+               <head>Arrangement</head>
+               <p>Arranged into four subseries: Books, Drama, Edited Works, and Shorter Works. Two folders of general notes filed at the end of series.</p>
+            </arrangement>
             <c altrender="/repositories/11/archival_objects/523357"
                id="ref13"
                level="subseries">
                <did>
                   <unittitle>Books</unittitle>
                </did>
+               <scopecontent id="aspace_cdfa23ebbef9d5715319b848ad3684c3">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains drafts of stories later published as chapters in 
+Johnson's novels, including <title>
+                        <part>The Eternal Boy</part>
+                     </title> and <title>
+                        <part>The Wild Bird</part>
+                     </title>.</p>
+               </scopecontent>
+               <arrangement id="aspace_66c8fe99a67b685f2a4e08cf18854983">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title or file title.</p>
+               </arrangement>
                <c altrender="/repositories/11/archival_objects/523358"
                   id="ref14"
                   level="file">
@@ -1091,6 +1133,21 @@
                <did>
                   <unittitle>Drama</unittitle>
                </did>
+               <scopecontent id="aspace_ca66adb9254f9c9410f622aa63ef750e">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains drafts, notes, and papers relating to Johnson's writings and their film adaptations, including <title>
+                        <part>The American Heiress</part>
+                     </title>, <title>
+                        <part>Blue Blood</part>
+                     </title>, and <title>
+                        <part>Marriage á la Mode</part>
+                     </title>, among others.</p>
+               </scopecontent>
+               <arrangement id="aspace_b79a195dbf3c6bfbd41f30af1e9ea697">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title. Materials within each title are placed in the following order: notes, drafts, galleys, printed versions, translations, and papers.</p>
+                  <p>Untitled manuscripts are filed at the end of the sequence.</p>
+               </arrangement>
                <c altrender="/repositories/11/archival_objects/523413"
                   id="ref77"
                   level="file">
@@ -1830,6 +1887,20 @@
                <did>
                   <unittitle>Edited Works</unittitle>
                </did>
+               <scopecontent id="aspace_fea69e299f591529b7e53df748d14eda">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains print magazines Johnson edited, including <title>
+                        <part>The Chimney-Seat</part>
+                     </title>, <title>
+                        <part>The Lawrenceville Literary Magazine</part>
+                     </title>, and <title>
+                        <part>The Yale Literary Magazine</part>
+                     </title>.</p>
+               </scopecontent>
+               <arrangement id="aspace_0a9c0250067761b5e61d778b812c6d44">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title. Materials within each title are placed in the following order: notes, drafts, galleys, printed versions, translations, and papers.</p>
+               </arrangement>
                <c altrender="/repositories/11/archival_objects/523470"
                   id="ref139"
                   level="file">
@@ -2062,6 +2133,15 @@
                <did>
                   <unittitle>Shorter Works</unittitle>
                </did>
+               <scopecontent id="aspace_4b079803779ac313358257a5a676a8f0">
+                  <head>Scope and Contents</head>
+                  <p>This subseries primarily contains drafts and papers related to thirty-three short stories, including "The Boy Who Was Napoleon" and "The Collector," among others.</p>
+               </scopecontent>
+               <arrangement id="aspace_f7f9d482ea5140be10fff58de0009c2a">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title. Materials within each title are placed in the following order: notes, drafts, galleys, printed versions, translations, and papers.</p>
+                  <p>Untitled manuscripts are filed at the end of the sequence.</p>
+               </arrangement>
                <c altrender="/repositories/11/archival_objects/523486"
                   id="ref155"
                   level="file">
@@ -3464,6 +3544,10 @@
                <head>Scope and Contents</head>
                <p>This series contains contracts, correspondence, financial records, legal papers, photographs, and other papers relating to Owen Johnson.</p>
             </scopecontent>
+            <arrangement id="aspace_5a03350df68094cc582fabe28c6f51fa">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by type of material or subject.</p>
+            </arrangement>
             <c altrender="/repositories/11/archival_objects/523604"
                id="ref307"
                level="file">
@@ -4394,12 +4478,26 @@
                      <part>Children of Divorce</part>
                   </title>, personal papers, and photographs.</p>
             </scopecontent>
+            <arrangement id="aspace_6d50eca18c4705d06d6189c018e947ab">
+               <head>Arrangement</head>
+               <p>Arranged into two subseries: Writings and Personal Papers.</p>
+            </arrangement>
             <c altrender="/repositories/11/archival_objects/523663"
                id="ref382"
                level="subseries">
                <did>
                   <unittitle>Writings</unittitle>
                </did>
+               <scopecontent id="aspace_270c1c9a0387360e85ad1b71976e3ffb">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains drafts, typescripts, and notes relating to shorter works by Johnson and the film, <title>
+                        <part>Children of Divorce</part>
+                     </title>.</p>
+               </scopecontent>
+               <arrangement id="aspace_4b34bbf9b5d16286fde10d198f208f40">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title or file title.</p>
+               </arrangement>
                <c altrender="/repositories/11/archival_objects/523664"
                   id="ref384"
                   level="file">
@@ -4497,6 +4595,14 @@
                <did>
                   <unittitle>Personal Papers</unittitle>
                </did>
+               <scopecontent id="aspace_7c97e46a64ea3bbc2d7de0b4166ad4ae">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains a contract between Johnson and Loew's Incorporated, an editorial by "Uncle Dudley," a literary review, and photographs of Johnson.</p>
+               </scopecontent>
+               <arrangement id="aspace_24d6f6b54745ff76b5cee4182f282963">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title or file title.</p>
+               </arrangement>
                <c altrender="/repositories/11/archival_objects/523671"
                   id="ref394"
                   level="file">
@@ -4596,6 +4702,408 @@
                </c>
             </c>
          </c>
+         <c altrender="/repositories/11/archival_objects/3578609"
+            id="aspace_87a9eab4cf2302805f5c69efb9df687e"
+            level="series">
+            <did>
+               <unittitle>July 2016 Acquisition</unittitle>
+               <unitid>Series IV</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>1</quantity>
+                  <unittype>Folder</unittype>
+               </physdescstructured>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+            </did>
+            <scopecontent id="aspace_8245b56909eb23aa02a4887acbba2ad9">
+               <head>Scope and Contents</head>
+               <p>This series contains one copy of the typescript for <title>
+                     <part>Young Man With A Dollar</part>
+                  </title>.</p>
+            </scopecontent>
+            <arrangement id="aspace_ae6851d542dbdef081a9ec21f2dcb059">
+               <head>Arrangement</head>
+               <p>Materials maintain order found at time of acquisition.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/3578614"
+               id="aspace_a40e931f7477394601ce51b5ad83c78b"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Young Man With A Dollar</part>
+                     </title> typescript</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                             containerid="39002137196953"
+                             encodinganalog="Paige 15"
+                             id="aspace_a40e931f7477394601ce51b5ad83c78b_c1"
+                             label="Mixed Materials"
+                             localtype="box">25</container>
+                  <container id="aspace_a40e931f7477394601ce51b5ad83c78b_c2"
+                             localtype="folder"
+                             parent="aspace_a40e931f7477394601ce51b5ad83c78b_c1">386</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/3578610"
+            id="aspace_a6f2b041a360b1415fc36fa41710a186"
+            level="series">
+            <did>
+               <unittitle>December 2016 Acquisition</unittitle>
+               <unitid>Series V</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>17</quantity>
+                  <unittype>Folders</unittype>
+               </physdescstructured>
+               <unitdatestructured altrender="1901–2016" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1901">1901</fromdate>
+                     <todate standarddate="2016">2016</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_0d6c375684cc3bb30f2c2fd0eca3949f">
+               <head>Scope and Contents</head>
+               <p>This series contains drafts, correspondence, articles, newspaper clippings, photographs, and other papers relating to Owen Johnson.</p>
+            </scopecontent>
+            <arrangement id="aspace_478cca4126a839af452d480b4ff4c832">
+               <head>Arrangement</head>
+               <p>Arranged in three subseries: Writings, Personal Papers, and Print Material.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/3578615"
+               id="aspace_19e8838b2fe2658c1d0a621136f5bd4f"
+               level="subseries">
+               <did>
+                  <unittitle>Writings</unittitle>
+               </did>
+               <scopecontent id="aspace_4611bfb3bc9dd66d66a8f9c310d7c341">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains drafts of <title>
+                        <part>Sacrifice</part>
+                     </title> and <title>
+                        <part>Fisherman's Honeymoon</part>
+                     </title> and print outs of <title>
+                        <part>The Enemy Sex</part>
+                     </title>, <title>
+                        <part>The Happy Years</part>
+                     </title>, and <title>
+                        <part>Virtuous Wives</part>
+                     </title>.</p>
+               </scopecontent>
+               <arrangement id="aspace_54ac121c2194f41c375ec139b7b80f93">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title or file title.</p>
+               </arrangement>
+               <c altrender="/repositories/11/archival_objects/3578623"
+                  id="aspace_d29659b5061693fa6d1f22a7fef24888"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Enemy Sex</part>
+                        </title> print out</unittitle>
+                     <unitdatestructured altrender="2016" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2016">2016</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_d29659b5061693fa6d1f22a7fef24888_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_d29659b5061693fa6d1f22a7fef24888_c2"
+                                localtype="folder"
+                                parent="aspace_d29659b5061693fa6d1f22a7fef24888_c1">387</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578624"
+                  id="aspace_d0f73d6039241773543e13ce76f1d8cb"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Fisherman's Honeymoon</part>
+                        </title>/Gertrude and Owen Johnson</unittitle>
+                     <unitdatestructured altrender="1938, 1949" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1938">1938</fromdate>
+                           <todate standarddate="1949">1949</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_d0f73d6039241773543e13ce76f1d8cb_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_d0f73d6039241773543e13ce76f1d8cb_c2"
+                                localtype="folder"
+                                parent="aspace_d0f73d6039241773543e13ce76f1d8cb_c1">388</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578625"
+                  id="aspace_7ab10429eb8df6bbf88fe160ccd849e0"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>The Happy Days</part>
+                        </title> 1950 movie</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_7ab10429eb8df6bbf88fe160ccd849e0_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_7ab10429eb8df6bbf88fe160ccd849e0_c2"
+                                localtype="folder"
+                                parent="aspace_7ab10429eb8df6bbf88fe160ccd849e0_c1">389</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578626"
+                  id="aspace_1f59a8de7df264d04a3bc68710e709d0"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Sacrifice</part>
+                        </title> draft</unittitle>
+                     <unitdatestructured altrender="1928" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1928">1928</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_1f59a8de7df264d04a3bc68710e709d0_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_1f59a8de7df264d04a3bc68710e709d0_c2"
+                                localtype="folder"
+                                parent="aspace_1f59a8de7df264d04a3bc68710e709d0_c1">390-392</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578627"
+                  id="aspace_279479bad14286cec6631a6751060532"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Virtuous Wives</part>
+                        </title> print out</unittitle>
+                     <unitdatestructured altrender="2016" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2016">2016</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_279479bad14286cec6631a6751060532_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_279479bad14286cec6631a6751060532_c2"
+                                localtype="folder"
+                                parent="aspace_279479bad14286cec6631a6751060532_c1">393</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3578616"
+               id="aspace_d3c6b4a5d4e1dc807a19c761d89124a6"
+               level="subseries">
+               <did>
+                  <unittitle>Personal Papers</unittitle>
+               </did>
+               <scopecontent id="aspace_e00223b13272b187608df09fa2568202">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains copyright correspondence, a recordkeeping notebook, and a photograph of Owen and Mary Johnson on their wedding day.</p>
+               </scopecontent>
+               <arrangement id="aspace_a216554b8d6a0486d70fb2b2583ababa">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by file title.</p>
+               </arrangement>
+               <c altrender="/repositories/11/archival_objects/3578628"
+                  id="aspace_0109720f0f0c287251c9b86fe34a1c71"
+                  level="file">
+                  <did>
+                     <unittitle>Copyright correspondence</unittitle>
+                     <unitdatestructured altrender="1966–2015" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1966">1966</fromdate>
+                           <todate standarddate="2015">2015</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_0109720f0f0c287251c9b86fe34a1c71_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_0109720f0f0c287251c9b86fe34a1c71_c2"
+                                localtype="folder"
+                                parent="aspace_0109720f0f0c287251c9b86fe34a1c71_c1">394</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578629"
+                  id="aspace_26f4e6c79d54d5f30f8b70a4ba250d3b"
+                  level="file">
+                  <did>
+                     <unittitle>Owen and Mary Johnson on wedding day</unittitle>
+                     <unitdatestructured altrender="1901" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1901">1901</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_26f4e6c79d54d5f30f8b70a4ba250d3b_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_26f4e6c79d54d5f30f8b70a4ba250d3b_c2"
+                                localtype="folder"
+                                parent="aspace_26f4e6c79d54d5f30f8b70a4ba250d3b_c1">395</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578630"
+                  id="aspace_6e2bf2cff084be729fb7ea3778c7161b"
+                  level="file">
+                  <did>
+                     <unittitle>Recordkeeping notebook</unittitle>
+                     <unitdatestructured altrender="1937–1939" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1937">1937</fromdate>
+                           <todate standarddate="1939">1939</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_6e2bf2cff084be729fb7ea3778c7161b_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_6e2bf2cff084be729fb7ea3778c7161b_c2"
+                                localtype="folder"
+                                parent="aspace_6e2bf2cff084be729fb7ea3778c7161b_c1">396</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3578617"
+               id="aspace_ca42fd44623013fc21419f6e7f8c360b"
+               level="subseries">
+               <did>
+                  <unittitle>Printed Material</unittitle>
+               </did>
+               <scopecontent id="aspace_8f350f3671de18a580aec9790ee654c5">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains one annotated copy of Johnson's <title>
+                        <part>Sacrifice</part>
+                     </title>, articles, and newspaper clippings.</p>
+               </scopecontent>
+               <arrangement id="aspace_3e5c29be4cfb08b8074eafb59f010299">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title or file title.</p>
+               </arrangement>
+               <c altrender="/repositories/11/archival_objects/3578632"
+                  id="aspace_ee5ffeb512d6a0ff0a8e9e26312c979a"
+                  level="file">
+                  <did>
+                     <unittitle>Newspaper clippings</unittitle>
+                     <unitdatestructured altrender="1931" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931">1931</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394539 /locations/9"
+                                containerid="39002137196995"
+                                encodinganalog="flat box (16d 1h 20w)"
+                                id="aspace_ee5ffeb512d6a0ff0a8e9e26312c979a_c1"
+                                label="Mixed Materials"
+                                localtype="box">29</container>
+                     <container id="aspace_ee5ffeb512d6a0ff0a8e9e26312c979a_c2"
+                                localtype="folder"
+                                parent="aspace_ee5ffeb512d6a0ff0a8e9e26312c979a_c1">417-418</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578633"
+                  id="aspace_068c68dc07562bfdde82354388a73671"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>New York Times</part>
+                        </title> clipping</unittitle>
+                     <unitdatestructured altrender="2005" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2005">2005</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394539 /locations/9"
+                                containerid="39002137196995"
+                                encodinganalog="flat box (16d 1h 20w)"
+                                id="aspace_068c68dc07562bfdde82354388a73671_c1"
+                                label="Mixed Materials"
+                                localtype="box">29</container>
+                     <container id="aspace_068c68dc07562bfdde82354388a73671_c2"
+                                localtype="folder"
+                                parent="aspace_068c68dc07562bfdde82354388a73671_c1">419</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578634"
+                  id="aspace_6b1e6a2950e2562ae5be7ea1c886dd6f"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>The Prodigious Hickey</part>
+                        </title> [article photocopy]</unittitle>
+                     <unitdatestructured altrender="1987 January 25"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1987-01-25">1987 January 25</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_6b1e6a2950e2562ae5be7ea1c886dd6f_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_6b1e6a2950e2562ae5be7ea1c886dd6f_c2"
+                                localtype="folder"
+                                parent="aspace_6b1e6a2950e2562ae5be7ea1c886dd6f_c1">397</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578635"
+                  id="aspace_447e8e4e69398026cbff731459e0f488"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Sacrifice</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1929" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1929">1929</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394538 /locations/9"
+                                containerid="39002137196953"
+                                encodinganalog="Paige 15"
+                                id="aspace_447e8e4e69398026cbff731459e0f488_c1"
+                                label="Mixed Materials"
+                                localtype="box">25</container>
+                     <container id="aspace_447e8e4e69398026cbff731459e0f488_c2"
+                                localtype="folder"
+                                parent="aspace_447e8e4e69398026cbff731459e0f488_c1">398</container>
+                  </did>
+               </c>
+            </c>
+         </c>
          <c altrender="/repositories/11/archival_objects/3578611"
             id="aspace_4def7e08146e2cf1ff2f4ff91af9e070"
             level="series">
@@ -4608,6 +5116,467 @@
                </physdescstructured>
                <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
             </did>
+            <scopecontent id="aspace_2f875c79cf7f652ea4c8db063a0e1405">
+               <head>Scope and Contents</head>
+               <p>This series contains one VHS cassette of <title>
+                     <part>The Return of Hickey</part>
+                  </title>.</p>
+            </scopecontent>
+            <arrangement id="aspace_c5389dab10da09466c65ff035e2ac216">
+               <head>Arrangement</head>
+               <p>Materials maintain order found at time of acquisition.</p>
+               <p>Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/3578618"
+               id="aspace_43777377e070cd3257ed5cde3ca3c965"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>The Return of Hickey</part>
+                     </title> VHS cassette</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/11/top_containers/394540 /locations/9"
+                             containerid="39002137196961"
+                             encodinganalog="archive half legal"
+                             id="aspace_43777377e070cd3257ed5cde3ca3c965_c1"
+                             label="Mixed Materials"
+                             localtype="box">26</container>
+                  <container id="aspace_43777377e070cd3257ed5cde3ca3c965_c2"
+                             localtype="folder"
+                             parent="aspace_43777377e070cd3257ed5cde3ca3c965_c1">399</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/3578612"
+            id="aspace_5c974fd027fe8612521aaaee4162e6f7"
+            level="series">
+            <did>
+               <unittitle>July 2018 Acquisition</unittitle>
+               <unitid>Series VII</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>1</quantity>
+                  <unittype>Folder</unittype>
+               </physdescstructured>
+               <unitdatestructured altrender="1945" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1945">1945</fromdate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_f19750de47b5ba62ac71a56ea7937e24">
+               <head>Scope and Contents</head>
+               <p>This series contains typescripts for "Plain People" and "A War Is A War".</p>
+            </scopecontent>
+            <arrangement id="aspace_af059ff0c5f0d36f62bb8ad979c087dd">
+               <head>Arrangement</head>
+               <p>Materials maintain order found at time of acquisition.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/3578619"
+               id="aspace_473a3d54b0ec2a25e759fe7ede14d113"
+               level="file">
+               <did>
+                  <unittitle>"Plain People"/ "A War Is A War"</unittitle>
+                  <unitdatestructured altrender="1945" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1945">1945</fromdate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                             containerid="39002137196979"
+                             encodinganalog="archive legal"
+                             id="aspace_473a3d54b0ec2a25e759fe7ede14d113_c1"
+                             label="Mixed Materials"
+                             localtype="box">27</container>
+                  <container id="aspace_473a3d54b0ec2a25e759fe7ede14d113_c2"
+                             localtype="folder"
+                             parent="aspace_473a3d54b0ec2a25e759fe7ede14d113_c1">400</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/11/archival_objects/3578613"
+            id="aspace_4fc584521c88b5fc3ab7a657e00c12b6"
+            level="series">
+            <did>
+               <unittitle>June 2019 Acquisition</unittitle>
+               <unitid>Series VIII</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>16</quantity>
+                  <unittype>Folders</unittype>
+               </physdescstructured>
+               <unitdatestructured altrender="1883-2018, undated"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1883">1883</fromdate>
+                     <todate standarddate="2018">2018</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <scopecontent id="aspace_1693eaed1e2eb464e706a9402589cbe7">
+               <head>Scope and Contents</head>
+               <p>This series contains drafts of Johnson's political campaign materials and books, a notebook accompanied by typed transcriptions, correspondence, photographs, and other personal papers and printed material.</p>
+            </scopecontent>
+            <arrangement id="aspace_b0a3a75226079cdfdcbabd47e3395a1f">
+               <head>Arrangement</head>
+               <p>Arranged into three subseries: Writings, Personal Papers, and Printed Material.</p>
+            </arrangement>
+            <c altrender="/repositories/11/archival_objects/3578620"
+               id="aspace_fad79d93db15a3e26aa420504ac9da2b"
+               level="subseries">
+               <did>
+                  <unittitle>Writings</unittitle>
+               </did>
+               <scopecontent id="aspace_c4c82a19751702c1f90b8521f536b75d">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains drafts of Johnson's political campaign materials, his books <title>
+                        <part>Sacrifice</part>
+                     </title> and <title>
+                        <part>Noblesse Oblige</part>
+                     </title>, and a notebook accompanied by typed transcriptions completed by Johnson's granddaughter, Catherine Burton Deely.</p>
+               </scopecontent>
+               <arrangement id="aspace_f7e59e3b563988dbbcac0826c8400c1f">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title or file title.</p>
+               </arrangement>
+               <c altrender="/repositories/11/archival_objects/3578636"
+                  id="aspace_af8a780c130035f0004a144b84d4bd91"
+                  level="file">
+                  <did>
+                     <unittitle>Campaign materials</unittitle>
+                     <unitdatestructured altrender="1938" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1938">1938</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_af8a780c130035f0004a144b84d4bd91_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_af8a780c130035f0004a144b84d4bd91_c2"
+                                localtype="folder"
+                                parent="aspace_af8a780c130035f0004a144b84d4bd91_c1">401</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578637"
+                  id="aspace_8d9271fd2d197618ec3feeae61e9bca7"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Noblesse Oblige</part>
+                        </title> draft</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_8d9271fd2d197618ec3feeae61e9bca7_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_8d9271fd2d197618ec3feeae61e9bca7_c2"
+                                localtype="folder"
+                                parent="aspace_8d9271fd2d197618ec3feeae61e9bca7_c1">402-403</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578638"
+                  id="aspace_f77000bf60c173549a86212a79ac2a7c"
+                  level="file">
+                  <did>
+                     <unittitle>Notebook</unittitle>
+                     <unitdatestructured altrender="1925–1965" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1925">1925</fromdate>
+                           <todate standarddate="1965">1965</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_f77000bf60c173549a86212a79ac2a7c_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_f77000bf60c173549a86212a79ac2a7c_c2"
+                                localtype="folder"
+                                parent="aspace_f77000bf60c173549a86212a79ac2a7c_c1">404</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578639"
+                  id="aspace_ea751130a36b1aa7c1ea5309d9d50c95"
+                  level="file">
+                  <did>
+                     <unittitle>Notebook transcriptions, typed</unittitle>
+                     <unitdatestructured altrender="2019" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2019">2019</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_ea751130a36b1aa7c1ea5309d9d50c95_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_ea751130a36b1aa7c1ea5309d9d50c95_c2"
+                                localtype="folder"
+                                parent="aspace_ea751130a36b1aa7c1ea5309d9d50c95_c1">405</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578640"
+                  id="aspace_22ac1c85a8bd16ee252e96e3ae3a6a33"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Prodigious Hickey</part>
+                        </title> screening [American Playhouse Presentation pamphlet]</unittitle>
+                     <unitdatestructured altrender="1987 January 21"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1987-01-21">1987 January 21</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_22ac1c85a8bd16ee252e96e3ae3a6a33_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_22ac1c85a8bd16ee252e96e3ae3a6a33_c2"
+                                localtype="folder"
+                                parent="aspace_22ac1c85a8bd16ee252e96e3ae3a6a33_c1">406</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578641"
+                  id="aspace_a1ee4bea1882fa42436ad415098b3637"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Sacrifice</part>
+                        </title> partial draft</unittitle>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_a1ee4bea1882fa42436ad415098b3637_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_a1ee4bea1882fa42436ad415098b3637_c2"
+                                localtype="folder"
+                                parent="aspace_a1ee4bea1882fa42436ad415098b3637_c1">407-408</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3578621"
+               id="aspace_bb7dd0c25615339410b7c9a23f601d26"
+               level="subseries">
+               <did>
+                  <unittitle>Personal Papers</unittitle>
+               </did>
+               <scopecontent id="aspace_ebe6ded4645f923f41345f798f7682c1">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains photographs, correspondence with Johnson's youngest daughter, Patricia Johnson, Johnson family obituaries, and other personal papers.</p>
+               </scopecontent>
+               <arrangement id="aspace_b4f20080c3c7b13b8781c6c6f809597f">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by file title.</p>
+               </arrangement>
+               <c altrender="/repositories/11/archival_objects/3578642"
+                  id="aspace_cfae221f83d1c9c730471a516f431fce"
+                  level="file">
+                  <did>
+                     <unittitle>Cobina Wright photograph [photograph of]</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_cfae221f83d1c9c730471a516f431fce_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_cfae221f83d1c9c730471a516f431fce_c2"
+                                localtype="folder"
+                                parent="aspace_cfae221f83d1c9c730471a516f431fce_c1">409</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578643"
+                  id="aspace_d6c7259480b460358da6476758bea156"
+                  level="file">
+                  <did>
+                     <unittitle>Johnson obituaries</unittitle>
+                     <unitdatestructured altrender="1952, 1970" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1952">1952</fromdate>
+                           <todate standarddate="1970">1970</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_d6c7259480b460358da6476758bea156_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_d6c7259480b460358da6476758bea156_c2"
+                                localtype="folder"
+                                parent="aspace_d6c7259480b460358da6476758bea156_c1">410</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578644"
+                  id="aspace_3dfdfad2c330daca5c8142900547b60c"
+                  level="file">
+                  <did>
+                     <unittitle>Johnson, Patricia correspondence</unittitle>
+                     <unitdatestructured altrender="1938" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1938">1938</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_3dfdfad2c330daca5c8142900547b60c_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_3dfdfad2c330daca5c8142900547b60c_c2"
+                                localtype="folder"
+                                parent="aspace_3dfdfad2c330daca5c8142900547b60c_c1">411</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578645"
+                  id="aspace_96d8e74f3de29ca77c029ae1d5800791"
+                  level="file">
+                  <did>
+                     <unittitle>Photographs</unittitle>
+                     <unitdatestructured altrender="1883-1937, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1883">1883</fromdate>
+                           <todate standarddate="1937">1937</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_96d8e74f3de29ca77c029ae1d5800791_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_96d8e74f3de29ca77c029ae1d5800791_c2"
+                                localtype="folder"
+                                parent="aspace_96d8e74f3de29ca77c029ae1d5800791_c1">412</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578646"
+                  id="aspace_10f262c99baa32b183e857f4a046ae5e"
+                  level="file">
+                  <did>
+                     <unittitle>Johnson wedding announcement</unittitle>
+                     <unitdatestructured altrender="1917" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1917">1917</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_10f262c99baa32b183e857f4a046ae5e_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_10f262c99baa32b183e857f4a046ae5e_c2"
+                                localtype="folder"
+                                parent="aspace_10f262c99baa32b183e857f4a046ae5e_c1">413</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578647"
+                  id="aspace_2e65bafee9dfbf23afcf1403ba344397"
+                  level="file">
+                  <did>
+                     <unittitle>Reproduction application</unittitle>
+                     <unitdatestructured altrender="1987" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1987">1987</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394541 /locations/9"
+                                containerid="39002137196979"
+                                encodinganalog="archive legal"
+                                id="aspace_2e65bafee9dfbf23afcf1403ba344397_c1"
+                                label="Mixed Materials"
+                                localtype="box">27</container>
+                     <container id="aspace_2e65bafee9dfbf23afcf1403ba344397_c2"
+                                localtype="folder"
+                                parent="aspace_2e65bafee9dfbf23afcf1403ba344397_c1">414</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3578622"
+               id="aspace_527d2d528ae2b9e6ec02b97a7b84f83b"
+               level="subseries">
+               <did>
+                  <unittitle>Printed Material</unittitle>
+               </did>
+               <scopecontent id="aspace_dca7d4d58eb7eeb387fe27377c77a844">
+                  <head>Scope and Contents</head>
+                  <p>This subseries contains one copy of Cobina Wright's <title>
+                        <part>I Never Grew Up</part>
+                     </title> and several copies of Johnson's "The Wild Bird" serial story published in the <title>
+                        <part>Chicago Tribune</part>
+                     </title>.</p>
+               </scopecontent>
+               <arrangement id="aspace_25a3d3b85039cbf21c6ea19dd8552885">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by file title.</p>
+               </arrangement>
+               <c altrender="/repositories/11/archival_objects/3578648"
+                  id="aspace_06c9a0d11c1545da4bb797763e2f82c4"
+                  level="file">
+                  <did>
+                     <unittitle>"The Wild Bird" - <title>
+                           <part>Chicago Tribune</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1934" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1934">1934</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394542 /locations/9"
+                                containerid="39002137196987"
+                                encodinganalog="archive half legal"
+                                id="aspace_06c9a0d11c1545da4bb797763e2f82c4_c1"
+                                label="Mixed Materials"
+                                localtype="box">28</container>
+                     <container id="aspace_06c9a0d11c1545da4bb797763e2f82c4_c2"
+                                localtype="folder"
+                                parent="aspace_06c9a0d11c1545da4bb797763e2f82c4_c1">415</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/3578649"
+                  id="aspace_1f7a10d5a144a708b786d2813c6450b4"
+                  level="file">
+                  <did>
+                     <unittitle>Wright, Cobina. <title>
+                           <part>I Never Grew Up</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1952" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1952">1952</fromdate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/394542 /locations/9"
+                                containerid="39002137196987"
+                                encodinganalog="archive half legal"
+                                id="aspace_1f7a10d5a144a708b786d2813c6450b4_c1"
+                                label="Mixed Materials"
+                                localtype="box">28</container>
+                     <container id="aspace_1f7a10d5a144a708b786d2813c6450b4_c2"
+                                localtype="folder"
+                                parent="aspace_1f7a10d5a144a708b786d2813c6450b4_c1">416</container>
+                  </did>
+               </c>
+            </c>
          </c>
       </dsc>
    </archdesc>

@@ -44,7 +44,7 @@
                <p>Boxes: 1-4, 4a-8, 8a-9, 9a-11, 11a-13, 13a-14, 14a-24a, 24c-26, 26a-27, 27a-29, 29a-31, 31a-32, 32a-55, 55a-86, 86a, 86b-97, 99-111, 111a-228, 228a-229, 229a-268, 278-370, 371(oversize), 372-374, 377-447, 447a (oversize), 448-567, 569-574, 574a-612, 614-638, 643, 699-701</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="91">91</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2423">2,423</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="92">92</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2428">2,428</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -77,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-20T23:04:39-04:00</eventdatetime>
+            <eventdatetime>2026-09-16T23:03:39-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 20, 2026 at 23:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -31548,6 +31548,35 @@ alphabetical subject index.
                               <container id="aspace_1dc618a757bbe46e0452455f65a45596_c2"
                                          localtype="folder"
                                          parent="aspace_1dc618a757bbe46e0452455f65a45596_c1">1787c</container>
+                              <daoset altrender="/repositories/11/digital_objects/355289">
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/manifests/33798056"
+                                      identifier="oid:33798056"
+                                      linktitle="5 images"
+                                      linkrole="text-json"
+                                      show="embed"/>
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/iiif/2/33798057/full/!150,150/0/default.jpg"
+                                      identifier="oid:33798056"
+                                      linktitle="5 images"
+                                      linkrole="image-thumbnail"
+                                      show="embed"/>
+                                 <dao actuate="onrequest"
+                                      audience="external"
+                                      daotype="unknown"
+                                      href="https://collections.library.yale.edu/catalog/33798056"
+                                      identifier="oid:33798056"
+                                      linktitle="5 images"
+                                      linkrole="text-html"
+                                      show="new"/>
+                                 <descriptivenote>
+                                    <p>"Licenza del Re di Francia al suo Tesoriere Generale...nel Regno di Napoli, e Sig. Tommaso Spinelli di poter estrarre [mille Sacca] di Grano da detto Regno" Parchment. Notary: Michael Iohannis Janini. Luca (Lucca)</p>
+                                 </descriptivenote>
+                              </daoset>
                            </did>
                         </c>
                      </c>
