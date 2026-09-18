@@ -2966,4 +2966,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ru.1204.xml](13863.xml) | mssa.ru.1204 | RU 1204 | Theater, Dance and Performance Studies, Yale University, records | 
  [mssa.ms.555xxx.xml](13943.xml) | mssa.ms.555xxx | MS/RU.555xxx | Demo Resource - December 2025 | 
  [mssa.ru.1214.xml](13950.xml) | mssa.ru.1214 | RU 1214 | Graphic Design Program collection of faculty problem books | 
+ [mssa.ru.1210.xml](14088.xml) | mssa.ru.1210 | RU 1210 | Yale Symphony Orchestra, records | 
 

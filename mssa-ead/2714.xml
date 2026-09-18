@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T03:30:04-05:00</eventdatetime>
+            <eventdatetime>2026-09-18T03:01:33-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 03:30</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 18, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -476,6 +476,28 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref24_c2" localtype="folder" parent="aspace_ref24_c1">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/842178"
+               id="ref25"
+               level="file">
+               <did>
+                  <unittitle>Confession of Isaac Preston (Class of 1812)</unittitle>
+                  <unitdatestructured altrender="1810 October 28"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1755">1755</fromdate>
+                        <todate standarddate="1765">1765</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/99963 /locations/9"
+                             containerid="39002051975507"
+                             encodinganalog="archive half letter"
+                             id="aspace_ref25_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_ref25_c2" localtype="folder" parent="aspace_ref25_c1">8</container>
                   <daoset altrender="/repositories/12/digital_objects/183232">
                      <dao actuate="onrequest"
                           audience="external"
@@ -502,31 +524,9 @@
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
-                        <p>Confession of Caleb Woodhull (Class of 1812)</p>
+                        <p>Confession of Isaac Preston (Class of 1812)</p>
                      </descriptivenote>
                   </daoset>
-               </did>
-            </c>
-            <c altrender="/repositories/12/archival_objects/842178"
-               id="ref25"
-               level="file">
-               <did>
-                  <unittitle>Confession of Isaac Preston (Class of 1812)</unittitle>
-                  <unitdatestructured altrender="1810 October 28"
-                                      label="creation"
-                                      unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1755">1755</fromdate>
-                        <todate standarddate="1765">1765</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/99963 /locations/9"
-                             containerid="39002051975507"
-                             encodinganalog="archive half letter"
-                             id="aspace_ref25_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_ref25_c2" localtype="folder" parent="aspace_ref25_c1">8</container>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/842179"
