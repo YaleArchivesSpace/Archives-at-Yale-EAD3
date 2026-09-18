@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-16T00:28:56-04:00</eventdatetime>
+            <eventdatetime>2026-09-17T23:01:18-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 00:28</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 17, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -264,16 +264,169 @@
                         <todate standarddate="1961">1961</todate>
                      </daterange>
                   </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/26909 /locations/9"
-                             containerid="39002099387350"
-                             id="aspace_ref13_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
                </did>
                <scopecontent id="aspace_28a5c0efdd403e5fb22bfbb01f6a40ae">
                   <head>Scope and Contents</head>
                   <p>Includes incoming correspondence from Rosamund Grosvenor, Vita's mother Lady Sackville, Miss Macmillan, Hilda Matheson, and others. Outgoing correspondence includes letters from Vita to Lady Sackville and others, as well as copies of letters to Rosamund Grosvenor. Also includes correspondence documenting the sale of furniture.</p>
                </scopecontent>
+               <c altrender="/repositories/11/archival_objects/4056724"
+                  id="aspace_ea09e9007b5436912b70db5e32527392"
+                  level="file">
+                  <did>
+                     <unittitle>Rosamund Grosvenor</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1909">1909</fromdate>
+                           <todate standarddate="1913">1913</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26909 /locations/9"
+                                containerid="39002099387350"
+                                id="aspace_ea09e9007b5436912b70db5e32527392_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_ea09e9007b5436912b70db5e32527392_c2"
+                                localtype="folder"
+                                parent="aspace_ea09e9007b5436912b70db5e32527392_c1">1-7</container>
+                  </did>
+                  <scopecontent id="aspace_59ea5bf916599d102727967f8cd7ee39">
+                     <head>Scope and Contents</head>
+                     <p>Includes incoming and outgoing correspondence with Rosamund Grosvenor.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056726"
+                  id="aspace_18d53a5a83f1bd1525e612744ae79339"
+                  level="file">
+                  <did>
+                     <unittitle>Lady Sackville</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1910">1910</datesingle>
+                     </unitdatestructured>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1922">1922</datesingle>
+                     </unitdatestructured>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931">1931</fromdate>
+                           <todate standarddate="1932">1932</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26909 /locations/9"
+                                containerid="39002099387350"
+                                id="aspace_18d53a5a83f1bd1525e612744ae79339_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_18d53a5a83f1bd1525e612744ae79339_c2"
+                                localtype="folder"
+                                parent="aspace_18d53a5a83f1bd1525e612744ae79339_c1">8-10</container>
+                  </did>
+                  <scopecontent id="aspace_94603db84f925d2f20e59938d3bf2920">
+                     <head>Scope and Contents</head>
+                     <p>Includes incoming and outgoing correspondence with Vita's mother, Lady Sackville.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056728"
+                  id="aspace_0d669307240c0a720286a0f886d93c75"
+                  level="file">
+                  <did>
+                     <unittitle>Anna Macmillan</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1938">1938</fromdate>
+                           <todate standarddate="1945">1945</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26909 /locations/9"
+                                containerid="39002099387350"
+                                id="aspace_0d669307240c0a720286a0f886d93c75_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_0d669307240c0a720286a0f886d93c75_c2"
+                                localtype="folder"
+                                parent="aspace_0d669307240c0a720286a0f886d93c75_c1">11-12</container>
+                  </did>
+                  <scopecontent id="aspace_8deb9501ce48a0796c4f7ca61b1cd7f2">
+                     <head>Scope and Contents</head>
+                     <p>Includes incoming correspondence from Anna Macmillan.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056730"
+                  id="aspace_0bfed9a7381db3be4dfdcc54034471dd"
+                  level="file">
+                  <did>
+                     <unittitle>Madeline Masson, letters and biography of Vita</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1948">1948</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26909 /locations/9"
+                                containerid="39002099387350"
+                                id="aspace_0bfed9a7381db3be4dfdcc54034471dd_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_0bfed9a7381db3be4dfdcc54034471dd_c2"
+                                localtype="folder"
+                                parent="aspace_0bfed9a7381db3be4dfdcc54034471dd_c1">13</container>
+                  </did>
+                  <scopecontent id="aspace_3f56254d00357ff9ed542b27ebc5938b">
+                     <head>Scope and Contents</head>
+                     <p>Includes incoming correspondence from Masson dated 1948 and an undated typescript biography of Vita titled "English Interlude" authored by Masson.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056732"
+                  id="aspace_96bf3ef2e90eb327652f320bb1ad5179"
+                  level="file">
+                  <did>
+                     <unittitle>Hilda Matheson</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1928">1928</fromdate>
+                           <todate standarddate="1929">1929</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26909 /locations/9"
+                                containerid="39002099387350"
+                                id="aspace_96bf3ef2e90eb327652f320bb1ad5179_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_96bf3ef2e90eb327652f320bb1ad5179_c2"
+                                localtype="folder"
+                                parent="aspace_96bf3ef2e90eb327652f320bb1ad5179_c1">14-23</container>
+                  </did>
+                  <scopecontent id="aspace_0c26358e94b3928d9594377fa048b97e">
+                     <head>Scope and Contents</head>
+                     <p>Includes incoming and outgoing correspondence with Hilda Matheson.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4056733"
+                  id="aspace_b6e757c8f98be9c9bd721a58cfd3d9ec"
+                  level="file">
+                  <did>
+                     <unittitle>Miscellaneous</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1909">1909</fromdate>
+                           <todate standarddate="1961">1961</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/26909 /locations/9"
+                                containerid="39002099387350"
+                                id="aspace_b6e757c8f98be9c9bd721a58cfd3d9ec_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_b6e757c8f98be9c9bd721a58cfd3d9ec_c2"
+                                localtype="folder"
+                                parent="aspace_b6e757c8f98be9c9bd721a58cfd3d9ec_c1">24-28</container>
+                  </did>
+                  <scopecontent id="aspace_8d9a2f0eb8cb0058bd075409f586b0fc">
+                     <head>Scope and Contents</head>
+                     <p>Includes incoming and outgoing correspondence with Vita, Lady Sackville, "Pace" and others. Includes letters to Vita about the sale of furniture and silver.</p>
+                  </scopecontent>
+               </c>
             </c>
             <c altrender="/repositories/11/archival_objects/297688"
                id="ref15"
@@ -4646,24 +4799,89 @@ Bedfordshire</p>
                <head>Immediate Source of Acquisition</head>
                <p>Purchased from Joan Winterkorn on the James Marshall and Marie-Louise Osborn Collection Fund, 2018.</p>
             </acqinfo>
-            <c altrender="/repositories/11/archival_objects/2902633"
-               id="aspace_ec0a6a8387765204307aead293cb5082"
+            <c altrender="/repositories/11/archival_objects/4056669"
+               id="aspace_24bb8cfe13f11ad87270989a56bfa3e9"
                level="file">
                <did>
-                  <unittitle>Diaries and notebooks</unittitle>
+                  <unittitle>Gardening diary</unittitle>
                   <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1916">1916</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/343647 /locations/9"
+                             containerid="39002104811345"
+                             encodinganalog="archive half legal"
+                             id="aspace_24bb8cfe13f11ad87270989a56bfa3e9_c1"
+                             label="Mixed Materials"
+                             localtype="box">20</container>
+                  <container id="aspace_24bb8cfe13f11ad87270989a56bfa3e9_c2"
+                             localtype="folder"
+                             parent="aspace_24bb8cfe13f11ad87270989a56bfa3e9_c1">1</container>
+               </did>
+               <scopecontent id="aspace_52bc4bf98409ecdd8d872b21bc91cc50">
+                  <head>Scope and Contents</head>
+                  <p>Diary includes gardening notes for Long Barn and Sissinghurst. Contains handwritten lists of plants, garden and building diagrams, and doodles.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4056670"
+               id="aspace_045127f2625ed2d5d973d5c4b7628e7b"
+               level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1933">1933</datesingle>
+                  </unitdatestructured>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1934">1934</datesingle>
+                  </unitdatestructured>
+                  <unitdatestructured altrender="1935-1939" label="creation" unitdatetype="inclusive">
                      <daterange>
-                        <fromdate standarddate="1916">1916</fromdate>
+                        <fromdate standarddate="1935">1935</fromdate>
+                        <todate standarddate="1939">1939</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/343647 /locations/9"
+                             containerid="39002104811345"
+                             encodinganalog="archive half legal"
+                             id="aspace_045127f2625ed2d5d973d5c4b7628e7b_c1"
+                             label="Mixed Materials"
+                             localtype="box">20</container>
+                  <container id="aspace_045127f2625ed2d5d973d5c4b7628e7b_c2"
+                             localtype="folder"
+                             parent="aspace_045127f2625ed2d5d973d5c4b7628e7b_c1">2</container>
+               </did>
+               <scopecontent id="aspace_bfee46fdbad407998331a0802d1d9b33">
+                  <head>Scope and Contents</head>
+                  <p>A domestic diary (1935-1939) with details of her husband, two sons, friends and visiters as well as house keeping and travels to Greece and Italy. Glued onto the first page are two photographs of dogs, one labeled "September 1933. Rebecca's puppies: Anna, Adrian, Audrey, Andrew" and the other labeled, "Martin. 1934".</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4056671"
+               id="aspace_e5299822f64aae58e02dffe31051e80b"
+               level="file">
+               <did>
+                  <unittitle>Gardening diary and schedule of work</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1940">1940</datesingle>
+                  </unitdatestructured>
+                  <unitdatestructured altrender="1951-1961" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1951">1951</fromdate>
                         <todate standarddate="1961">1961</todate>
                      </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/11/top_containers/343647 /locations/9"
                              containerid="39002104811345"
                              encodinganalog="archive half legal"
-                             id="aspace_ec0a6a8387765204307aead293cb5082_c1"
+                             id="aspace_e5299822f64aae58e02dffe31051e80b_c1"
                              label="Mixed Materials"
                              localtype="box">20</container>
+                  <container id="aspace_e5299822f64aae58e02dffe31051e80b_c2"
+                             localtype="folder"
+                             parent="aspace_e5299822f64aae58e02dffe31051e80b_c1">3</container>
                </did>
+               <scopecontent id="aspace_e8224d0da323ef46e08950ea34e4223e">
+                  <head>Scope and Contents</head>
+                  <p>Includes a gardening diary (1951-1961) and a schedule of work for Long Barn, Long Barn cottages, and Brook Farm cottages dated 1940.</p>
+               </scopecontent>
             </c>
          </c>
       </dsc>
