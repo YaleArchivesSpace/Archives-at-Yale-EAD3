@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-18T03:01:41-04:00</eventdatetime>
+            <eventdatetime>2026-09-19T03:00:16-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 18, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday September 19, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -15784,6 +15784,239 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref935_c2" localtype="folder" parent="aspace_ref935_c1">1-9</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4040306"
+            id="aspace_b1615bdeb1f0c4d799176aa4e4fdaff1"
+            level="series">
+            <did>
+               <unittitle>Chaplain's Office Records</unittitle>
+               <unitid>Accession 2026-A-0040</unitid>
+               <unitdatestructured altrender="2020-2025" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="2020">2020</fromdate>
+                     <todate standarddate="2025">2025</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <accessrestrict id="aspace_823dee02d33817d4eef8cf1f1a3a4c33"
+                            localtype="RestrictedCurApprSpecColl">
+               <head>Conditions Governing Access</head>
+               <p>Restricted until January 1, 2061</p>
+            </accessrestrict>
+            <c altrender="/repositories/12/archival_objects/4040311"
+               id="aspace_47d4cbae2cff3e6f1e1fbc59e58e30be"
+               level="file">
+               <did>
+                  <unittitle>Interfaith vigil</unittitle>
+                  <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                     <quantity>1.88</quantity>
+                     <unittype>Gigabytes</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File (.mp4)</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>39</quantity>
+                     <unittype>kilobytes</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>Computer Files</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">One .txt file and one .vtt file.</physdesc>
+                  <unitdatestructured altrender="June 12, 2020" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2020-06-12">June 12, 2020</datesingle>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4040323"
+               id="aspace_226a11eb50487796c4077f2def703ff7"
+               level="file">
+               <did>
+                  <unittitle>Powerpoints</unittitle>
+                  <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                     <quantity>2.54</quantity>
+                     <unittype>Megabytes</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>Computer Files (.ppt)</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2024" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024">2024</datesingle>
+                  </unitdatestructured>
+               </did>
+               <scopecontent id="aspace_69dae8552977b76fc11f1e701f7f6d63">
+                  <head>Scope and Contents</head>
+                  <p>Powerpoint on grief and powerpoint on interfaith dialogue.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4040327"
+               id="aspace_8eb8b7a60230de8a073b2190e42ea904"
+               level="file">
+               <did>
+                  <unittitle>Prayers</unittitle>
+               </did>
+               <scopecontent id="aspace_6c213c06a1df842a549dc5f0d30a6a44">
+                  <head>Scope and Contents</head>
+                  <p>Transcripts of prayers delivered at Yale University events.</p>
+               </scopecontent>
+               <c altrender="/repositories/12/archival_objects/4040328"
+                  id="aspace_83746fd71930a9caef49eea9ca0a82bb"
+                  level="file">
+                  <did>
+                     <unittitle>2023-2024</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>354</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>18</quantity>
+                        <unittype>Computer Files (.doc)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2023-2024" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2023">2023</fromdate>
+                           <todate standarddate="2024">2024</todate>
+                        </daterange>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4040330"
+                  id="aspace_4199626dc1bd47bc3ee892235e818978"
+                  level="file">
+                  <did>
+                     <unittitle>2024-2025</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>299</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>15</quantity>
+                        <unittype>Computer Files (.doc)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2024-2025" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2024">2024</fromdate>
+                           <todate standarddate="2025">2025</todate>
+                        </daterange>
+                     </unitdatestructured>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4040331"
+               id="aspace_0c3c5f48d1ffac4028282ac0e3a3a20a"
+               level="file">
+               <did>
+                  <unittitle>Sermons</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/4040332"
+                  id="aspace_719abd6c94f095673e55c48290f7864e"
+                  level="file">
+                  <did>
+                     <unittitle>2023-2024</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>31.3</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2023-2024" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2023">2023</fromdate>
+                           <todate standarddate="2024">2024</todate>
+                        </daterange>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4040333"
+                  id="aspace_e212b91d9bf36a48165e4a8e6d948a6a"
+                  level="file">
+                  <did>
+                     <unittitle>2024-2025</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>52.2</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>2</quantity>
+                        <unittype>Computer Files (.doc)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2024-2025" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2024">2024</fromdate>
+                           <todate standarddate="2025">2025</todate>
+                        </daterange>
+                     </unitdatestructured>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4040334"
+               id="aspace_516082aa6835d2f195d4962694d2cddc"
+               level="file">
+               <did>
+                  <unittitle>Staff retreats</unittitle>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>49</quantity>
+                     <unittype>kilobytes</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>Computer Files (.doc)</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2023-2024" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2023">2023</fromdate>
+                        <todate standarddate="2024">2024</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4040335"
+               id="aspace_0a7edc25d4edfac48467de8bb27d364c"
+               level="file">
+               <did>
+                  <unittitle>Yale holy days</unittitle>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>74.9</quantity>
+                     <unittype>kilobytes</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>3</quantity>
+                     <unittype>Computer Files (.doc)</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2023-2024" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2023">2023</fromdate>
+                        <todate standarddate="2024">2024</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4040336"
+               id="aspace_12c29f73bd65f8377f512a413858278c"
+               level="file">
+               <did>
+                  <unittitle>Yale religious ministries</unittitle>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>36.2</quantity>
+                     <unittype>kilobytes</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                     <quantity>2</quantity>
+                     <unittype>computer files (xlsx)</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2024-2025" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2024">2024</fromdate>
+                        <todate standarddate="2025">2025</todate>
+                     </daterange>
+                  </unitdatestructured>
                </did>
             </c>
          </c>
