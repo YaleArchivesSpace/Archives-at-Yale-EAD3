@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T18:19:22-04:00</eventdatetime>
+            <eventdatetime>2026-09-21T18:01:07-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 18:19</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 21, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1542,6 +1542,21 @@
                   <container altrender="/repositories/4/top_containers/309801 /locations/9"
                              containerid="39002098999759"
                              id="aspace_f610910ce62bfff962e3202d796d8958_c1"
+                             label="Mixed Materials"
+                             localtype="box">29</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4056842"
+               id="aspace_a07ca0bca4631ceb93b379cbce87ac59"
+               level="file">
+               <did>
+                  <unittitle>Program for dinner at Newton Theological Institution recognizing 50 years of service by Hovey</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1899">1899</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/309801 /locations/9"
+                             containerid="39002098999759"
+                             id="aspace_a07ca0bca4631ceb93b379cbce87ac59_c1"
                              label="Mixed Materials"
                              localtype="box">29</container>
                </did>

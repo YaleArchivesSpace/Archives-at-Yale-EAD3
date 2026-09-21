@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-26T18:01:07-04:00</eventdatetime>
+            <eventdatetime>2026-09-21T18:00:59-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June 26, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 21, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2992,8 +2992,10 @@
                      id="ref152"
                      level="file">
                      <did>
-                        <unittitle>Correspondence</unittitle>
-                        <unitdatestructured altrender="1958-1966" label="creation" unitdatetype="inclusive">
+                        <unittitle>Correspondence, presidential address</unittitle>
+                        <unitdatestructured altrender="1958-1966, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1958">1958</fromdate>
                               <todate standarddate="1966">1966</todate>
@@ -8807,8 +8809,11 @@
                   level="file">
                   <did>
                      <unittitle>Correspondence</unittitle>
-                     <unitdatestructured altrender="1985" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1985">1985</datesingle>
+                     <unitdatestructured altrender="1981, 1985" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1981">1981</fromdate>
+                           <todate standarddate="1985">1985</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/232243 /locations/9"
                                 containerid="39002035365122"
