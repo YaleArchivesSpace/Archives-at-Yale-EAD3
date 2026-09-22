@@ -45,7 +45,7 @@
                <p>Boxes: 14-15 Broadside, 28, 31 Broadside, 35 Broadside, 42 Broadside-77 Broadside, 232-240 Broadside, 246 Broadside</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="55">55</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2878">2,878</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="57">57</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2878">2,878</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-09T23:52:31-05:00</eventdatetime>
+            <eventdatetime>2026-09-21T23:00:44-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday February  9, 2026 at 23:52</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 21, 2026 at 23:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -3810,6 +3810,25 @@
                      <container id="aspace_ref271_c2"
                                 localtype="item_barcode"
                                 parent="aspace_ref271_c1">39002102316743</container>
+                     <daoset altrender="/repositories/11/digital_objects/355397">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/pr7mp4xv03"
+                             identifier="aviary_178655"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_178655"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Meet the Author Kosinski in Israel Moriah Hotel NTSC 1988 January 31</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/268654"
@@ -4077,6 +4096,25 @@
                      <container id="aspace_ref282_c2"
                                 localtype="item_barcode"
                                 parent="aspace_ref282_c1">39002102316800</container>
+                     <daoset altrender="/repositories/11/digital_objects/355398">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/bk16m35826"
+                             identifier="aviary_178656"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_178656"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Stodola Club undated</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/268665"

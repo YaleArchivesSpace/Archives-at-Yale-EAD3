@@ -45,7 +45,7 @@
                <p>Boxes: 42 (Oversize), bsd, folder 742-bsd, folder 746</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="32">32</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="55">55</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="35">35</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="55">55</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-29T23:01:38-04:00</eventdatetime>
+            <eventdatetime>2026-09-21T23:02:07-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 29, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 21, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -14698,6 +14698,25 @@
                      <container id="aspace_4a099b07fb43cc0455d351f857a3d66b_c2"
                                 localtype="item_barcode"
                                 parent="aspace_4a099b07fb43cc0455d351f857a3d66b_c1">39002140959751</container>
+                     <daoset altrender="/repositories/11/digital_objects/355447">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/n58cf9mn2n"
+                             identifier="aviary_178703"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/715/original/open-uri20260921-891565-uuyd98_1790019501.jpg?1790019502"
+                             identifier="aviary_178703"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] genmss043939002140959751.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_cb39d5317f2b5f42e9bc5e75c138a6c9"
                                   localtype="RestrictedFragileSpecColl">
@@ -14799,6 +14818,25 @@
                      <container id="aspace_c2c1ed6bd9b3976d1d9aa6a3085fa41a_c2"
                                 localtype="item_barcode"
                                 parent="aspace_c2c1ed6bd9b3976d1d9aa6a3085fa41a_c1">39002140959744</container>
+                     <daoset altrender="/repositories/11/digital_objects/355453">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/f18sb4038c"
+                             identifier="aviary_178708"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/724/original/open-uri20260921-891565-8bv9oj_1790019845.jpg?1790019846"
+                             identifier="aviary_178708"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] genmss043939002140959744.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_62d7afb27eaa934886d3b82ca2496e52"
                                   localtype="RestrictedFragileSpecColl">
@@ -14832,6 +14870,25 @@
                      <container id="aspace_e95e184cc66e7d9154eff213fa0b0301_c2"
                                 localtype="item_barcode"
                                 parent="aspace_e95e184cc66e7d9154eff213fa0b0301_c1">39002140959736</container>
+                     <daoset altrender="/repositories/11/digital_objects/355442">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/2z12n51k1x"
+                             identifier="aviary_178698"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/706/original/open-uri20260921-891565-8cn6fs_1790019144.jpg?1790019145"
+                             identifier="aviary_178698"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] genmss043939002140959736.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_62f93234797eaef0e0463f1c3b746751"
                                   localtype="RestrictedFragileSpecColl">
