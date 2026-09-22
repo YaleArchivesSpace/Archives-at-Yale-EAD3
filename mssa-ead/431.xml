@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0015">arts.dra.0015</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1217">mssa.ru.1217</recordid>
       <otherrecordid localtype="BIB">8273956</otherrecordid>
       <filedesc>
          <titlestmt>
@@ -33,15 +33,12 @@
                        show="new">http://www.library.yale.edu/mssa/</ref>
                </addressline>
             </address>
-            <date>April2009</date>
-            <num>DRA 15</num>
+            <date>April 2009</date>
+            <num>RU 1217</num>
          </publicationstmt>
          <notestmt>
             <controlnote>
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">8273956</num>.</p>
-            </controlnote>
-            <controlnote localtype="offsite">
-               <p>Box: 1</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,17 +68,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-21T03:02:11-04:00</eventdatetime>
+            <eventdatetime>2026-09-22T03:00:47-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 22, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/431" level="collection">
       <did>
          <unittitle>Dwight/Edgewood Project collection</unittitle>
-         <unitid>DRA 15</unitid>
+         <unitid>RU 1217</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -122,7 +119,7 @@
       </userestrict>
       <prefercite id="aspace_2ffa4cc7e4c1de2ce4af4880ac02931d">
          <head>Preferred Citation</head>
-         <p>Dwight/Edgewood Project Collection, Robert B. Haas Family Arts Library, Yale University.</p>
+         <p>Dwight/Edgewood Project Collection (RU 1217). Manuscripts and Archives. Yale University Library.</p>
       </prefercite>
       <scopecontent id="aspace_fed29bf24572f2c0cfc87e6b333b33d5">
          <head>Scope and Contents</head>
@@ -132,6 +129,10 @@
          <head>Arrangement</head>
          <p>Arranged chronologically.</p>
       </arrangement>
+      <custodhist id="aspace_d929cc58be7e26fc2142789fdc18d759">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives.</p>
+      </custodhist>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh93005169"
                   source="lcsh">
