@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0035">arts.dra.0035</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1220">mssa.ru.1220</recordid>
       <otherrecordid localtype="BIB">9867522</otherrecordid>
       <filedesc>
          <titlestmt>
@@ -34,14 +34,11 @@
                </addressline>
             </address>
             <date>2011</date>
-            <num>DRA 35</num>
+            <num>RU 1220</num>
          </publicationstmt>
          <notestmt>
             <controlnote>
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9867522</num>.</p>
-            </controlnote>
-            <controlnote localtype="offsite">
-               <p>Boxes: 1-10</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,17 +68,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-21T03:02:24-04:00</eventdatetime>
+            <eventdatetime>2026-09-23T03:01:08-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 23, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/445" level="collection">
       <did>
          <unittitle>Yale Summer Cabaret Scripts and Ephemera Collection</unittitle>
-         <unitid>DRA 35</unitid>
+         <unitid>RU 1220</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -122,7 +119,7 @@
       </userestrict>
       <prefercite id="aspace_8a8e757c9b409d7e23fa1dcd70d587b4">
          <head>Preferred Citation</head>
-         <p>Yale Summer Cabaret Scripts and Ephemera Collection, Robert B. Haas Family Arts Library, Yale University.</p>
+         <p>Yale Summer Cabaret Scripts and Ephemera Collection (RU 1220). Manuscript and Archives. Yale University Library</p>
       </prefercite>
       <scopecontent id="aspace_707df7257797d5c65f9481d09820c831">
          <head>Scope and Contents</head>
@@ -137,6 +134,10 @@
          <head>Arrangement</head>
          <p>Organized into two series and one addition: I. Scripts. II. Ephemera. 2014 Addition.</p>
       </arrangement>
+      <custodhist id="aspace_e7d647d5a18502d1eb62afe301f4c98a">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives.</p>
+      </custodhist>
       <controlaccess>
          <genreform identifier="http://vocab.getty.edu/aat/300026487" source="aat">
             <part localtype="genre_form">Scripts (documents)</part>

@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0036">arts.dra.0036</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1219">mssa.ru.1219</recordid>
       <otherrecordid localtype="BIB">9867340</otherrecordid>
       <filedesc>
          <titlestmt>
@@ -34,14 +34,11 @@
                </addressline>
             </address>
             <date>2011</date>
-            <num>DRA 36</num>
+            <num>RU 1219</num>
          </publicationstmt>
          <notestmt>
             <controlnote>
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9867340</num>.</p>
-            </controlnote>
-            <controlnote localtype="offsite">
-               <p>Box: 1</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,17 +68,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-21T03:02:27-04:00</eventdatetime>
+            <eventdatetime>2026-09-23T03:01:07-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 23, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/446" level="collection">
       <did>
          <unittitle>Yale Dramatic Association Scripts Collection</unittitle>
-         <unitid>DRA 36</unitid>
+         <unitid>RU 1219</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -122,7 +119,7 @@
       </userestrict>
       <prefercite id="aspace_c7e3b7ff38ec7c56f8e5f19cd12b43b7">
          <head>Preferred Citation</head>
-         <p>Yale Dramatic Association Scripts Collection, Robert B. Haas Family Arts Library, Yale University.</p>
+         <p>Yale Dramatic Association Scripts Collection (RU 1219).  Manuscripts and Archives.  Yale University Library.</p>
       </prefercite>
       <scopecontent id="aspace_764fae0b7e450ae36ca642bcd7c3ae78">
          <head>Scope and Contents</head>
@@ -132,6 +129,10 @@
          <head>Arrangement</head>
          <p>Organized into one series: I. Scripts.</p>
       </arrangement>
+      <custodhist id="aspace_21b75248d78191f180f14e2f335dd1b6">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives.</p>
+      </custodhist>
       <controlaccess>
          <genreform identifier="http://vocab.getty.edu/aat/300026487" source="aat">
             <part localtype="genre_form">Scripts (documents)</part>

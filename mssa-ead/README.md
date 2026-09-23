@@ -4,7 +4,7 @@ EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
  [mssa.ru.1212.xml](329.xml) | mssa.ru.1212 | RU 1212 | Graphic Design Student Projects Collection | 
  [arts.aob.0034.xml](333.xml) | arts.aob.0034 | AOB 34 | Yale Residential Colleges Student Printing Collection | 
- [arts.art.0015.xml](366.xml) | arts.art.0015 | ART 15 | Yale School of Architecture exhibition publications | 
+ [mssa.ru.1221.xml](366.xml) | mssa.ru.1221 | RU 1221 | Yale School of Architecture exhibition publications | 
  [arts.dra.0014.xml](430.xml) | arts.dra.0014 | DRA 14 | Pamela Jordan Yale School of Drama Scrapbook Collection | 
  [mssa.ru.1217.xml](431.xml) | mssa.ru.1217 | RU 1217 | Dwight/Edgewood Project collection | 
  [arts.dra.0017.xml](433.xml) | arts.dra.0017 | DRA 17 | Yale School of Drama Production Script Collection | 
@@ -13,8 +13,8 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ru.1216.xml](440.xml) | mssa.ru.1216 | RU 1216 | Drama 50 Script Collection | 
  [arts.dra.0030.xml](442.xml) | arts.dra.0030 | DRA 30 | Yale Repertory Theatre Scripts Collection | 
  [mssa.ru.1215.xml](444.xml) | mssa.ru.1215 | RU 1215 | Yale Cabaret Scripts and Ephemera Collection | 
- [arts.dra.0035.xml](445.xml) | arts.dra.0035 | DRA 35 | Yale Summer Cabaret Scripts and Ephemera Collection | 
- [arts.dra.0036.xml](446.xml) | arts.dra.0036 | DRA 36 | Yale Dramatic Association Scripts Collection | 
+ [mssa.ru.1220.xml](445.xml) | mssa.ru.1220 | RU 1220 | Yale Summer Cabaret Scripts and Ephemera Collection | 
+ [mssa.ru.1219.xml](446.xml) | mssa.ru.1219 | RU 1219 | Yale Dramatic Association Scripts Collection | 
  [arts.dra.0037.xml](447.xml) | arts.dra.0037 | DRA 37 | Yale Repertory Theatre and Yale School of Drama Ephemera Collection | 
  [mssa.ru.1213.xml](451.xml) | mssa.ru.1213 | RU 1213 | Yale School of Drama Student Costume and Scenic Design Collection | 
  [mssa.ru.1154.xml](876.xml) | mssa.ru.1154 | RU 1154 | Early Yale documents collection | 
