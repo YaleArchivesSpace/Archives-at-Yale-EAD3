@@ -33,7 +33,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="35">35</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="36">36</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-14T20:01:36-04:00</eventdatetime>
+            <eventdatetime>2026-09-22T20:00:45-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 14, 2026 at 20:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 22, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -815,6 +815,67 @@
                <controlaccess>
                   <persname relator="ive" source="local_beinecke">
                      <part localtype="agent_person">Fischer, Billy</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4056090"
+            id="aspace_6e4f45fa39768ffceca5f3d594fd12a5"
+            level="series">
+            <did>
+               <unittitle>Flynn, Ed</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4056092"
+               id="aspace_650d52fe3642d9e945c1da56cdc76a69"
+               level="item">
+               <did>
+                  <unittitle>Flynn, Ed</unittitle>
+                  <unitid>NHM 36 a</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">691 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 September 7"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2026-09-07">2026 September 7</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_400ed8a0508f4dc6641cf9de59a1acb3">Approximate running time: 68 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/355484">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/p843r0s335"
+                          identifier="aviary_178742"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/773/original/open-uri20260922-891565-e34mou?1790087156"
+                          identifier="aviary_178742"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] NHM 36 a.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_1ba26072e43bed4a6f29969e4a5c5ecd">
+                  <head>Interview location</head>
+                  <p>New Haven, CT</p>
+               </scopecontent>
+               <phystech id="aspace_479681a0fee87eac8492e7517c33484e">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive" rules="rda" source="local_music">
+                     <part localtype="agent_person">Flynn, Ed, 1964-</part>
+                  </persname>
+                  <persname relator="ivr">
+                     <part localtype="agent_person">Vees, Jack (1955-)</part>
                   </persname>
                </controlaccess>
             </c>

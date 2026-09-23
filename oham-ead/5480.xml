@@ -40,7 +40,7 @@
                <p>Boxes: 39002038321791, 39002038324183</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1393">1,393</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="1394">1,394</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-14T20:00:26-04:00</eventdatetime>
+            <eventdatetime>2026-09-22T20:00:50-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 14, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 22, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -24751,6 +24751,69 @@
                <controlaccess>
                   <persname relator="ive">
                      <part localtype="agent_person">Friar, Sean (1985-)</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4056084"
+            id="aspace_01f94ca717ff1571b551c779047fdcdd"
+            level="series">
+            <did>
+               <unittitle>Frisell, Bill</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4056089"
+               id="aspace_665e9e7d1cb7ce375cc808151f11fbb2"
+               level="item">
+               <did>
+                  <unittitle>Frisell, Bill</unittitle>
+                  <unitid>OHV 620 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Celli, Joseph</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">215 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 August 12"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2026-08-12">2026 August 12</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f4b2cff760c671e843cbedc1b2ad0862">Approximate running time: 94 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/355485">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/fb4wh2gh56"
+                          identifier="aviary_178743"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/774/original/open-uri20260922-891565-6h66jq?1790087334"
+                          identifier="aviary_178743"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 620 a.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_596d77243bde5bee2f5a2c00db0ec4ae">
+                  <head>Scope and Contents</head>
+                  <p>Interview conducted remotely.</p>
+               </scopecontent>
+               <phystech id="aspace_45bc7abf418504083fa4c209e4ea99f0">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Frisell, Bill, 1951-</part>
                   </persname>
                </controlaccess>
             </c>
