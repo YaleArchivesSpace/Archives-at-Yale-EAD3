@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-12T22:00:49-04:00</eventdatetime>
+            <eventdatetime>2026-09-23T22:00:57-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday June 12, 2026 at 22:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 23, 2026 at 22:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7265,6 +7265,31 @@ Series III. Conferences, symposiums, and events 1983–2002. The series includes
                   <p>Includes clippings and photographs with images of Polly Murray; the Murray family; Lyme disease events and presentations, including people with Lyme disease bites and symptoms; medical personnel and spaces; and the property around the Murray family home in Lyme, Connecticut. Materials were removed from original album for preservation.</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/10/archival_objects/4057305"
+               id="aspace_0cd047814cfcbe07bb6446784af50813"
+               level="file">
+               <did>
+                  <unittitle>Additional photographs</unittitle>
+                  <unitdatestructured altrender="1988-1996, undated"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1988">1988</fromdate>
+                        <todate standarddate="1996">1996</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/10/top_containers/419899 /locations/9"
+                             containerid="39002102307106"
+                             encodinganalog="flat box (11d 2h 13w)"
+                             id="aspace_0cd047814cfcbe07bb6446784af50813_c1"
+                             label="Mixed Materials"
+                             localtype="box">36</container>
+               </did>
+               <acqinfo id="aspace_25063acce53d8afb41837f416f17d69a">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Wendy Murray, 2026.</p>
+               </acqinfo>
+            </c>
             <c altrender="/repositories/10/archival_objects/3973401"
                id="aspace_a1e2f4598f3ca7f744ba7f308c3f86f6"
                level="file">
@@ -7304,6 +7329,28 @@ Series III. Conferences, symposiums, and events 1983–2002. The series includes
                   <head>Scope and Contents</head>
                   <p>Images include presentations about Lyme disease and photographs of Polly Murray. Also includes a list of "credits for 35 mm transparencies."</p>
                </scopecontent>
+            </c>
+            <c altrender="/repositories/10/archival_objects/4057307"
+               id="aspace_27a2494a19fc87e62f08a0e0f85f348c"
+               level="item">
+               <did>
+                  <unittitle>Painting by Polly Murray</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <materialspec id="aspace_4ec1b3c8a2d6e163e00315c4281a8862">Acrylic painting adhered to faom core.</materialspec>
+                  <container altrender="/repositories/10/top_containers/419892 /locations/9"
+                             containerid="39002079637873"
+                             encodinganalog="archive half letter"
+                             id="aspace_27a2494a19fc87e62f08a0e0f85f348c_c1"
+                             label="Mixed Materials"
+                             localtype="box">28</container>
+                  <container id="aspace_27a2494a19fc87e62f08a0e0f85f348c_c2"
+                             localtype="folder"
+                             parent="aspace_27a2494a19fc87e62f08a0e0f85f348c_c1">3</container>
+               </did>
+               <acqinfo id="aspace_c97e03b30e87a6a2d8421710e24b81d6">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Wendy Murray, 2026.</p>
+               </acqinfo>
             </c>
          </c>
          <c altrender="/repositories/10/archival_objects/3972732"
