@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-24T03:01:32-04:00</eventdatetime>
+            <eventdatetime>2026-09-24T03:01:33-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday June 24, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 24, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -983,11 +983,10 @@
                   id="ref54"
                   level="file">
                   <did>
-                     <unittitle>Magnetic observations -- notebooks</unittitle>
-                     <unitdatestructured altrender="1839-1859" label="creation" unitdatetype="inclusive">
+                     <unittitle>Magnetic observation notebooks</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1839">1839</fromdate>
-                           <todate standarddate="1859">1859</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/12/top_containers/131782 /locations/9"
@@ -996,7 +995,7 @@
                                 id="aspace_ref54_c1"
                                 label="Mixed Materials"
                                 localtype="box">10</container>
-                     <container id="aspace_ref54_c2" localtype="folder" parent="aspace_ref54_c1">111-114</container>
+                     <container id="aspace_ref54_c2" localtype="folder" parent="aspace_ref54_c1">111</container>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1186202"
