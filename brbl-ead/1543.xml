@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-21T23:00:56-04:00</eventdatetime>
+            <eventdatetime>2026-09-23T23:01:01-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 21, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 23, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -17218,7 +17218,12 @@ The papers also include correspondence with organizations and individuals, almos
                   id="ref1100"
                   level="file">
                   <did>
-                     <unittitle>8mm unidentified film (2 reels) [8mm color Kodachrome]</unittitle>
+                     <unittitle>Unidentified film</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Film Reel (8mm)</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                      <container altrender="/repositories/11/top_containers/71876 /locations/9"
                                 containerid="39002091646167"
                                 id="aspace_ref1100_c1"
@@ -17226,7 +17231,10 @@ The papers also include correspondence with organizations and individuals, almos
                                 localtype="box">161</container>
                      <container id="aspace_ref1100_c2"
                                 localtype="folder"
-                                parent="aspace_ref1100_c1">1800-1801</container>
+                                parent="aspace_ref1100_c1"> 1800</container>
+                     <container id="aspace_ref1100_c3"
+                                localtype="item_barcode"
+                                parent="aspace_ref1100_c2">39002140886863</container>
                   </did>
                   <accessrestrict id="aspace_e56d2380d010538c97562e2fcec8c892"
                                   localtype="RestrictedFragileSpecColl">
