@@ -39,7 +39,7 @@
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">4226371</num>.</p>
             </controlnote>
             <controlnote localtype="offsite">
-               <p>Boxes: 24A, 24B-25A, 25B-32A, 32B-40, 40a-43, 43A-45, 49B-50A, 50B-67, 70</p>
+               <p>Boxes: 1-5A, 5B-13A, 13B-16A, 16B-20, 20A-21A, 23-24A, 24B-25A, 25B-32A, 32B-40, 40a-43, 43A-45, 49B-50A, 50B-67, 70, 13C.1, 21A.1-21A.2</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="284">284</num> digital files.</p>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-11T20:00:43-04:00</eventdatetime>
+            <eventdatetime>2026-09-24T20:00:31-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday May 11, 2026 at 20:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 24, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -143,11 +143,11 @@
       </arrangement>
       <scopecontent id="aspace_sc">
          <head>Scope and Contents</head>
-         <p>The Charles Ives Papers include music, literary writings, correspondence, diaries, scrapbooks, photographs, writings about Ives, Ives's collection of music by others, and various miscellaneous materials. The music manuscripts, which constitute Series I of the Ives Papers, are described in John Kirkpatrick's <emph render="italic">A Temporary Mimeographed Catalogue of the Music Manuscripts of Charles Ives</emph> (1960) and James B. Sinclair's <ref actuate="onrequest"
+         <p>The Charles Ives Papers include music, literary writings, correspondence, diaries, scrapbooks, photographs, writings about Ives, Ives's collection of music by others, and various miscellaneous materials. The music manuscripts, which constitute Series I of the Ives Papers, are further described in John Kirkpatrick's <emph render="italic">A Temporary Mimeographed Catalogue of the Music Manuscripts of Charles Ives</emph> (1960) and James B. Sinclair's <ref actuate="onrequest"
                  href="http://elischolar.library.yale.edu/ivescatalogue"
                  show="new">
                <emph render="italic">A Descriptive Catalogue of the Music of Charles Ives</emph>
-            </ref> (New Haven: Yale University Press, 1999). Series II through X are described in the present register.</p>
+            </ref> (New Haven: Yale University Press, 1999).</p>
       </scopecontent>
       <bioghist id="aspace_bh1">
          <head>Biographical / Historical</head>
@@ -623,8 +623,644 @@
             </did>
             <odd id="aspace_30b7b35a25c36b0854c0d91193af5aa1">
                <head>General</head>
-               <p>The music manuscripts of Charles Ives are described in John Kirkpatrick's <ref href="http://search.library.yale.edu/catalog/3605673">A Temporary Mimeographed Catalogue of the Music Manuscripts of Charles Ives</ref> (1960) and <ref href="https://search.library.yale.edu/catalog/4448100">James B. Sinclair's A Descriptive Catalogue of the Music of Charles Ives</ref> (New Haven: Yale University Press, 1999).</p>
+               <p>The music manuscripts of Charles Ives are further described in John Kirkpatrick's <ref href="http://search.library.yale.edu/catalog/3605673">A Temporary Mimeographed Catalogue of the Music Manuscripts of Charles Ives</ref> (1960) and <ref href="https://search.library.yale.edu/catalog/4448100">James B. Sinclair's A Descriptive Catalogue of the Music of Charles Ives</ref> (New Haven: Yale University Press, 1999).</p>
             </odd>
+            <arrangement id="aspace_a149249878061e68349e586adc317b94">
+               <head>Arrangement</head>
+               <p>Arranged by John Kirkpatrick's catalogue numbers.</p>
+            </arrangement>
+            <c altrender="/repositories/6/archival_objects/4057425"
+               id="aspace_75a4bf5f2a2b79bf8508e6a3d5001d16"
+               level="file">
+               <did>
+                  <unittitle>1. Works for Orchestra, A. Symphonies</unittitle>
+               </did>
+               <c altrender="/repositories/6/archival_objects/4057373"
+                  id="aspace_f97767a1e5a2fa41ec649407549d4f1e"
+                  level="file">
+                  <did>
+                     <unittitle>1A1. 1st Symphony</unittitle>
+                  </did>
+                  <c altrender="/repositories/6/archival_objects/4057420"
+                     id="aspace_4872ac6df2761012aa37e0e2550c0b14"
+                     level="file">
+                     <did>
+                        <unittitle>1A1i. 1st movement</unittitle>
+                        <container altrender="/repositories/6/top_containers/485200 /locations/9"
+                                   containerid="39002118596478"
+                                   id="aspace_4872ac6df2761012aa37e0e2550c0b14_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_4872ac6df2761012aa37e0e2550c0b14_c2"
+                                   localtype="folder"
+                                   parent="aspace_4872ac6df2761012aa37e0e2550c0b14_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4057421"
+                     id="aspace_569e2c43c1753be77a451de141a867f7"
+                     level="file">
+                     <did>
+                        <unittitle>1A1ii. 2nd Movement</unittitle>
+                        <container altrender="/repositories/6/top_containers/485200 /locations/9"
+                                   containerid="39002118596478"
+                                   id="aspace_569e2c43c1753be77a451de141a867f7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_569e2c43c1753be77a451de141a867f7_c2"
+                                   localtype="folder"
+                                   parent="aspace_569e2c43c1753be77a451de141a867f7_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4057422"
+                     id="aspace_109631978a7fcffe216602f23bbeec1c"
+                     level="file">
+                     <did>
+                        <unittitle>1A1iii. 3rd Movement</unittitle>
+                        <container altrender="/repositories/6/top_containers/485200 /locations/9"
+                                   containerid="39002118596478"
+                                   id="aspace_109631978a7fcffe216602f23bbeec1c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_109631978a7fcffe216602f23bbeec1c_c2"
+                                   localtype="folder"
+                                   parent="aspace_109631978a7fcffe216602f23bbeec1c_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4057423"
+                     id="aspace_8412c4dffa60695636c00a30b9aafbae"
+                     level="file">
+                     <did>
+                        <unittitle>1A1iv. 4th Movement</unittitle>
+                        <container altrender="/repositories/6/top_containers/485200 /locations/9"
+                                   containerid="39002118596478"
+                                   id="aspace_8412c4dffa60695636c00a30b9aafbae_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_8412c4dffa60695636c00a30b9aafbae_c2"
+                                   localtype="folder"
+                                   parent="aspace_8412c4dffa60695636c00a30b9aafbae_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/6/archival_objects/4057424"
+                     id="aspace_6e051b7d2260a49b4e4fc0aacce8c9d0"
+                     level="file">
+                     <did>
+                        <unittitle>1A1. Complete manuscript</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1897">1897</fromdate>
+                              <todate standarddate="1898">1898</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/6/top_containers/485200 /locations/9"
+                                   containerid="39002118596478"
+                                   id="aspace_6e051b7d2260a49b4e4fc0aacce8c9d0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_6e051b7d2260a49b4e4fc0aacce8c9d0_c2"
+                                   localtype="folder"
+                                   parent="aspace_6e051b7d2260a49b4e4fc0aacce8c9d0_c1">4a</container>
+                     </did>
+                     <scopecontent id="aspace_35dc30ecf9a061084c0f1a8322d73a57">
+                        <head>Scope and Contents</head>
+                        <p>Manuscript copy, signed, of Yale thesis.</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057374"
+                  id="aspace_a5c694b84ac412ec1a87b9d88929047b"
+                  level="file">
+                  <did>
+                     <unittitle>1A2</unittitle>
+                     <container altrender="/repositories/6/top_containers/485201 /locations/9"
+                                containerid="39002117596255"
+                                id="aspace_a5c694b84ac412ec1a87b9d88929047b_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057375"
+                  id="aspace_6afe0240eccd14603816f267ceda195b"
+                  level="file">
+                  <did>
+                     <unittitle>1A3</unittitle>
+                     <container altrender="/repositories/6/top_containers/485201 /locations/9"
+                                containerid="39002117596255"
+                                id="aspace_6afe0240eccd14603816f267ceda195b_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057376"
+                  id="aspace_7e8e40f5a72c381c4be0d9cf83e68026"
+                  level="file">
+                  <did>
+                     <unittitle>1A4</unittitle>
+                     <container altrender="/repositories/6/top_containers/485202 /locations/9"
+                                containerid="39002117596248"
+                                id="aspace_7e8e40f5a72c381c4be0d9cf83e68026_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057377"
+                  id="aspace_d10d4760e18d0fc1b4ee908aa51a0abd"
+                  level="file">
+                  <did>
+                     <unittitle>1A5</unittitle>
+                     <container altrender="/repositories/6/top_containers/485203 /locations/9"
+                                containerid="39002117596263"
+                                id="aspace_d10d4760e18d0fc1b4ee908aa51a0abd_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057378"
+                  id="aspace_7622962633dfc62ea3339654a9afd9ce"
+                  level="file">
+                  <did>
+                     <unittitle>1A6</unittitle>
+                     <container altrender="/repositories/6/top_containers/485203 /locations/9"
+                                containerid="39002117596263"
+                                id="aspace_7622962633dfc62ea3339654a9afd9ce_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057379"
+                  id="aspace_9c3308e558058d7aea8d64fd6cefa5f9"
+                  level="file">
+                  <did>
+                     <unittitle>1A7</unittitle>
+                     <container altrender="/repositories/6/top_containers/485204 /locations/9"
+                                containerid="39002117596107"
+                                id="aspace_9c3308e558058d7aea8d64fd6cefa5f9_c1"
+                                label="Mixed Materials"
+                                localtype="box">5A</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057380"
+                  id="aspace_e6d6120ef2c7ad2cbacacbfae5e664b3"
+                  level="file">
+                  <did>
+                     <unittitle>1A7 (parts)</unittitle>
+                     <container altrender="/repositories/6/top_containers/485205 /locations/9"
+                                containerid="39002117596271"
+                                id="aspace_e6d6120ef2c7ad2cbacacbfae5e664b3_c1"
+                                label="Mixed Materials"
+                                localtype="box">5B</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057381"
+                  id="aspace_0c332030fc95a328d6a92657bc10c86d"
+                  level="file">
+                  <did>
+                     <unittitle>1A8</unittitle>
+                     <container altrender="/repositories/6/top_containers/485206 /locations/9"
+                                containerid="39002137430816"
+                                id="aspace_0c332030fc95a328d6a92657bc10c86d_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057382"
+                  id="aspace_59d81dab548f5a7a38f90c5d5f756ae8"
+                  level="file">
+                  <did>
+                     <unittitle>1A9</unittitle>
+                     <container altrender="/repositories/6/top_containers/485206 /locations/9"
+                                containerid="39002137430816"
+                                id="aspace_59d81dab548f5a7a38f90c5d5f756ae8_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057426"
+               id="aspace_5fe6eed505ba65ada83ff743648fbaba"
+               level="file">
+               <did>
+                  <unittitle>1. Works for Orchestra, B. Sets</unittitle>
+               </did>
+               <c altrender="/repositories/6/archival_objects/4057383"
+                  id="aspace_c119f26efbccbe13924b19a08605c27e"
+                  level="file">
+                  <did>
+                     <unittitle>1B</unittitle>
+                     <container altrender="/repositories/6/top_containers/485206 /locations/9"
+                                containerid="39002137430816"
+                                id="aspace_c119f26efbccbe13924b19a08605c27e_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057427"
+               id="aspace_4c3ae558920700c8a1131a13b8a32da2"
+               level="file">
+               <did>
+                  <unittitle>1. Works for Orchestra, C. Overtures</unittitle>
+               </did>
+               <c altrender="/repositories/6/archival_objects/4057384"
+                  id="aspace_b6d69b1042bd320d1e574f1444d80b93"
+                  level="file">
+                  <did>
+                     <unittitle>1C1-1C29</unittitle>
+                     <container altrender="/repositories/6/top_containers/485207 /locations/9"
+                                containerid="39002117596180"
+                                id="aspace_b6d69b1042bd320d1e574f1444d80b93_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/4057385"
+                  id="aspace_27e32a3661f51c1b26350b9dae94d84a"
+                  level="file">
+                  <did>
+                     <unittitle>1C30-1C40</unittitle>
+                     <container altrender="/repositories/6/top_containers/485208 /locations/9"
+                                containerid="39002133913781"
+                                id="aspace_27e32a3661f51c1b26350b9dae94d84a_c1"
+                                label="Mixed Materials"
+                                localtype="box">8</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057386"
+               id="aspace_bda236e9406940aa65f5192146b72fa5"
+               level="file">
+               <did>
+                  <unittitle>1. Works for Orchestra, D. Marches</unittitle>
+                  <container altrender="/repositories/6/top_containers/485208 /locations/9"
+                             containerid="39002133913781"
+                             id="aspace_bda236e9406940aa65f5192146b72fa5_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057387"
+               id="aspace_ca43b5c68823637291a81330943800d3"
+               level="file">
+               <did>
+                  <unittitle>2A1</unittitle>
+                  <container altrender="/repositories/6/top_containers/485208 /locations/9"
+                             containerid="39002133913781"
+                             id="aspace_ca43b5c68823637291a81330943800d3_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057388"
+               id="aspace_3c2e9cd3a858f1aad14cdaff2ea5131b"
+               level="file">
+               <did>
+                  <unittitle>2A3</unittitle>
+                  <container altrender="/repositories/6/top_containers/485209 /locations/9"
+                             containerid="39002117596198"
+                             id="aspace_3c2e9cd3a858f1aad14cdaff2ea5131b_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057389"
+               id="aspace_ff8b47bd2b4e7c9e08eaa3b38df8f827"
+               level="file">
+               <did>
+                  <unittitle>2B</unittitle>
+                  <container altrender="/repositories/6/top_containers/485209 /locations/9"
+                             containerid="39002117596198"
+                             id="aspace_ff8b47bd2b4e7c9e08eaa3b38df8f827_c1"
+                             label="Mixed Materials"
+                             localtype="box">9</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057390"
+               id="aspace_4e116502808733d1a0d51c8ef24c2a2b"
+               level="file">
+               <did>
+                  <unittitle>2C1-2</unittitle>
+                  <container altrender="/repositories/6/top_containers/485210 /locations/9"
+                             containerid="39002117596123"
+                             id="aspace_4e116502808733d1a0d51c8ef24c2a2b_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057391"
+               id="aspace_701c84a6638057de59aac512eb60b740"
+               level="file">
+               <did>
+                  <unittitle>2C3</unittitle>
+                  <container altrender="/repositories/6/top_containers/485210 /locations/9"
+                             containerid="39002117596123"
+                             id="aspace_701c84a6638057de59aac512eb60b740_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057392"
+               id="aspace_92c6d4493552e9dd39f427f22bcacd8d"
+               level="file">
+               <did>
+                  <unittitle>2C4</unittitle>
+                  <container altrender="/repositories/6/top_containers/485210 /locations/9"
+                             containerid="39002117596123"
+                             id="aspace_92c6d4493552e9dd39f427f22bcacd8d_c1"
+                             label="Mixed Materials"
+                             localtype="box">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057393"
+               id="aspace_b9060e3e87b118ffe04d74c525c000a2"
+               level="file">
+               <did>
+                  <unittitle>2C5</unittitle>
+                  <container altrender="/repositories/6/top_containers/485211 /locations/9"
+                             containerid="39002117596131"
+                             id="aspace_b9060e3e87b118ffe04d74c525c000a2_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057394"
+               id="aspace_24314dbd630a69dee4f1759b89791247"
+               level="file">
+               <did>
+                  <unittitle>2C6</unittitle>
+                  <container altrender="/repositories/6/top_containers/485211 /locations/9"
+                             containerid="39002117596131"
+                             id="aspace_24314dbd630a69dee4f1759b89791247_c1"
+                             label="Mixed Materials"
+                             localtype="box">11</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057395"
+               id="aspace_c24590cd5cc1c688d0c41836486be7c3"
+               level="file">
+               <did>
+                  <unittitle>3A1</unittitle>
+                  <container altrender="/repositories/6/top_containers/485212 /locations/9"
+                             containerid="39002118596445"
+                             id="aspace_c24590cd5cc1c688d0c41836486be7c3_c1"
+                             label="Mixed Materials"
+                             localtype="box">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057396"
+               id="aspace_7637028e4efc316afd8250ac3c4b235c"
+               level="file">
+               <did>
+                  <unittitle>3A2</unittitle>
+                  <container altrender="/repositories/6/top_containers/485213 /locations/9"
+                             containerid="39002118596403"
+                             id="aspace_7637028e4efc316afd8250ac3c4b235c_c1"
+                             label="Mixed Materials"
+                             localtype="box">13C.1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057397"
+               id="aspace_3684a28efc0a90a607c68f8602e277cb"
+               level="file">
+               <did>
+                  <unittitle>3A2 (mss)</unittitle>
+                  <container altrender="/repositories/6/top_containers/485214 /locations/9"
+                             containerid="39002118596452"
+                             id="aspace_3684a28efc0a90a607c68f8602e277cb_c1"
+                             label="Mixed Materials"
+                             localtype="box">13A</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057398"
+               id="aspace_d3ef4e0e73c13b15b0ca379c3edeb8de"
+               level="file">
+               <did>
+                  <unittitle>3A2 (proof sheets)</unittitle>
+                  <container altrender="/repositories/6/top_containers/485215 /locations/9"
+                             containerid="39002117596222"
+                             id="aspace_d3ef4e0e73c13b15b0ca379c3edeb8de_c1"
+                             label="Mixed Materials"
+                             localtype="box">13B</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057399"
+               id="aspace_01df3250708d7c3b43d4af56d7b9968d"
+               level="file">
+               <did>
+                  <unittitle>3B1-3B21</unittitle>
+                  <container altrender="/repositories/6/top_containers/485216 /locations/9"
+                             containerid="39002117596156"
+                             id="aspace_01df3250708d7c3b43d4af56d7b9968d_c1"
+                             label="Mixed Materials"
+                             localtype="box">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057400"
+               id="aspace_1db23306e440cff739a43fc8e53beab7"
+               level="file">
+               <did>
+                  <unittitle>3C</unittitle>
+                  <container altrender="/repositories/6/top_containers/485217 /locations/9"
+                             containerid="39002117596115"
+                             id="aspace_1db23306e440cff739a43fc8e53beab7_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057401"
+               id="aspace_6da44472ef048fe7b975e4777676d92e"
+               level="file">
+               <did>
+                  <unittitle>3D</unittitle>
+                  <container altrender="/repositories/6/top_containers/485217 /locations/9"
+                             containerid="39002117596115"
+                             id="aspace_6da44472ef048fe7b975e4777676d92e_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057402"
+               id="aspace_264864f12ab831e15fb6258eb4cd3a12"
+               level="file">
+               <did>
+                  <unittitle>4A</unittitle>
+                  <container altrender="/repositories/6/top_containers/485217 /locations/9"
+                             containerid="39002117596115"
+                             id="aspace_264864f12ab831e15fb6258eb4cd3a12_c1"
+                             label="Mixed Materials"
+                             localtype="box">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057403"
+               id="aspace_3256545adc9bc4fb110d3e01680f2f6c"
+               level="file">
+               <did>
+                  <unittitle>5A1</unittitle>
+                  <container altrender="/repositories/6/top_containers/485218 /locations/9"
+                             containerid="39002117596099"
+                             id="aspace_3256545adc9bc4fb110d3e01680f2f6c_c1"
+                             label="Mixed Materials"
+                             localtype="box">16A</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057404"
+               id="aspace_1c384de7eef6dc2e22fa761a2875051b"
+               level="file">
+               <did>
+                  <unittitle>5A1</unittitle>
+                  <container altrender="/repositories/6/top_containers/485219 /locations/9"
+                             containerid="39002117596172"
+                             id="aspace_1c384de7eef6dc2e22fa761a2875051b_c1"
+                             label="Mixed Materials"
+                             localtype="box">16B</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057405"
+               id="aspace_8edd916b104306e0ee95d41695240653"
+               level="file">
+               <did>
+                  <unittitle>5B</unittitle>
+                  <container altrender="/repositories/6/top_containers/485220 /locations/9"
+                             containerid="39002117596230"
+                             id="aspace_8edd916b104306e0ee95d41695240653_c1"
+                             label="Mixed Materials"
+                             localtype="box">17</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057418"
+               id="aspace_37153a410703667d14d3c47879d11f4d"
+               level="file">
+               <did>
+                  <unittitle>5B (oversize)</unittitle>
+                  <container altrender="/repositories/6/top_containers/485228 /locations/9"
+                             containerid="39002118596361"
+                             id="aspace_37153a410703667d14d3c47879d11f4d_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057406"
+               id="aspace_5d4a62130ce66950b875b08c9ddca1aa"
+               level="file">
+               <did>
+                  <unittitle>5C</unittitle>
+                  <container altrender="/repositories/6/top_containers/485220 /locations/9"
+                             containerid="39002117596230"
+                             id="aspace_5d4a62130ce66950b875b08c9ddca1aa_c1"
+                             label="Mixed Materials"
+                             localtype="box">17</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057407"
+               id="aspace_13d53a8aa6ccec5f00aa32780b8cbaf8"
+               level="file">
+               <did>
+                  <unittitle>5D</unittitle>
+                  <container altrender="/repositories/6/top_containers/485221 /locations/9"
+                             containerid="39002137430808"
+                             id="aspace_13d53a8aa6ccec5f00aa32780b8cbaf8_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057408"
+               id="aspace_c66a42e71427f4d93d4101d21be1aee5"
+               level="file">
+               <did>
+                  <unittitle>6A</unittitle>
+                  <container altrender="/repositories/6/top_containers/485221 /locations/9"
+                             containerid="39002137430808"
+                             id="aspace_c66a42e71427f4d93d4101d21be1aee5_c1"
+                             label="Mixed Materials"
+                             localtype="box">18</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057409"
+               id="aspace_7100dfec50e44b7eec1f637762826c88"
+               level="file">
+               <did>
+                  <unittitle>6A printed copies 114 Songs, A-B, Copland's</unittitle>
+                  <container altrender="/repositories/6/top_containers/485222 /locations/9"
+                             containerid="39002118596387"
+                             id="aspace_7100dfec50e44b7eec1f637762826c88_c1"
+                             label="Mixed Materials"
+                             localtype="box">21A.1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057410"
+               id="aspace_e9d8789b4d3aac732d30ec486ea2d1c0"
+               level="file">
+               <did>
+                  <unittitle>6A printed copies 114 Songs, C, F, G, H</unittitle>
+                  <container altrender="/repositories/6/top_containers/485223 /locations/9"
+                             containerid="39002118596379"
+                             id="aspace_e9d8789b4d3aac732d30ec486ea2d1c0_c1"
+                             label="Mixed Materials"
+                             localtype="box">21A.2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057414"
+               id="aspace_e8c2fc5957bc2f588dcc9ada95bac091"
+               level="file">
+               <did>
+                  <unittitle>114 songs, copies D &amp; E</unittitle>
+                  <container altrender="/repositories/6/top_containers/485227 /locations/9"
+                             containerid="39002118596395"
+                             id="aspace_e8c2fc5957bc2f588dcc9ada95bac091_c1"
+                             label="Mixed Materials"
+                             localtype="box">20A</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057411"
+               id="aspace_6ad825726a19d8f14a8042c2726bb79e"
+               level="file">
+               <did>
+                  <unittitle>6B10-6B39a</unittitle>
+                  <container altrender="/repositories/6/top_containers/485224 /locations/9"
+                             containerid="39002117596206"
+                             id="aspace_6ad825726a19d8f14a8042c2726bb79e_c1"
+                             label="Mixed Materials"
+                             localtype="box">19</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057412"
+               id="aspace_cd01e5070e71e98632affe70d5c5d912"
+               level="file">
+               <did>
+                  <unittitle>6B40-6B79</unittitle>
+                  <container altrender="/repositories/6/top_containers/485225 /locations/9"
+                             containerid="39002117596149"
+                             id="aspace_cd01e5070e71e98632affe70d5c5d912_c1"
+                             label="Mixed Materials"
+                             localtype="box">20</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057419"
+               id="aspace_ea0aadef59d2bb35a2b625a8b4e66e8f"
+               level="file">
+               <did>
+                  <unittitle>6B79 (oversize)</unittitle>
+                  <container altrender="/repositories/6/top_containers/485228 /locations/9"
+                             containerid="39002118596361"
+                             id="aspace_ea0aadef59d2bb35a2b625a8b4e66e8f_c1"
+                             label="Mixed Materials"
+                             localtype="box">23</container>
+               </did>
+            </c>
+            <c altrender="/repositories/6/archival_objects/4057413"
+               id="aspace_68eee192c839cf7371141a3f4603c34b"
+               level="file">
+               <did>
+                  <unittitle>7A-E, George Ives's copybook</unittitle>
+                  <container altrender="/repositories/6/top_containers/485226 /locations/9"
+                             containerid="39002038374212"
+                             id="aspace_68eee192c839cf7371141a3f4603c34b_c1"
+                             label="Mixed Materials"
+                             localtype="box">21A</container>
+                  <container id="aspace_68eee192c839cf7371141a3f4603c34b_c2"
+                             localtype="folder"
+                             parent="aspace_68eee192c839cf7371141a3f4603c34b_c1">1-4</container>
+               </did>
+            </c>
          </c>
          <c altrender="/repositories/6/archival_objects/2584686"
             id="aspace_G100"
