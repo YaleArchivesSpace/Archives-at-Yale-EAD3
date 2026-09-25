@@ -61,13 +61,16 @@
             <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
          </descriptivenote>
       </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>in_progress</term>
+      </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-25T18:00:25-04:00</eventdatetime>
+            <eventdatetime>2026-09-25T18:00:48-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday June 25, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 25, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -88,8 +91,8 @@
             <unittype>Linear Foot</unittype>
             <physfacet>VHS, paper, CD-ROMS</physfacet>
          </physdescstructured>
-         <physdesc localtype="container_summary">1 Paige box</physdesc>
-         <unitdatestructured altrender="1966-2004" label="creation" unitdatetype="inclusive">
+         <physdesc localtype="container_summary">1 records box</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1966">1966</fromdate>
                <todate standarddate="2004">2004</todate>
@@ -103,12 +106,21 @@
       </did>
       <scopecontent id="aspace_cf51cb4513f2c807797236b24c7a95b7">
          <head>Scope and Contents</head>
-         <p>This collection contains material related to the history of the Yale Center for British Art that has been collected by the Archives department.  It contains publications and recordings that chronicle the construction, inital reception, and legacy of the YCBA and of Louis I. Kahn.</p>
+         <p>This collection contains material related to the history of the Yale Center for British Art that has been collected by the Archives department.  It contains publications and recordings that chronicle the construction, inital reception, and legacy of the YCBA, and Louis I. Kahn.</p>
       </scopecontent>
       <bioghist id="aspace_861a9f7cae0fb794d4e41cdafd329c15">
          <head>Biographical / Historical</head>
          <p>The Yale Center for British Art was designed by the American architect Louis I. Kahn (1901-1974) and completed after his death.  The museum was Kahn's final work and is located across the street from his first commission, the Yale University Art Gallery (opened in 1953).  The museum has a sleek, modern aesthetic, and it is the first museum in the United States with incorporated retail space.  Notable elements of the design include the juxtaposition of materials similar in color and texture, such as the glass and steel on the façade, the strong geometry of the interior, and the many windows that bathe objects in diffused natural light.  In 2005, the Yale Center for British Art was awarded the Twenty-Five Year Award by the American Institute of Architects.</p>
       </bioghist>
+      <prefercite id="aspace_fe0c18ae41c1923f65768d587cde0325">
+         <head>Preferred Citation</head>
+         <p>A 003 Yale Center for British Art building history collection. Yale Center for British Art Archives.</p>
+      </prefercite>
+      <accessrestrict id="aspace_4ce8ba00719cd09226b741d2a463072b"
+                      localtype="RestrictedSpecColl">
+         <head>Conditions Governing Access</head>
+         <p>The collection is open for research unless othewise noted.  Box 1135 contains student work that is restricted until 2057.</p>
+      </accessrestrict>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85006834"
                   source="lcsh">
@@ -130,6 +142,581 @@
             <part localtype="agent_corporate_entity">Yale Center for British Art</part>
          </corpname>
       </controlaccess>
-      <dsc/>
+      <dsc>
+         <c altrender="/repositories/3/archival_objects/3636431"
+            id="aspace_94c4bb7cb37f8b3413a3f7b0d5b10c30"
+            level="series">
+            <did>
+               <unittitle>Series I. Publications</unittitle>
+            </did>
+            <accessrestrict id="aspace_b704b8443578e18746bd7a4a13707776"
+                            localtype="RestrictedSpecColl">
+               <head>Conditions Governing Access</head>
+               <p>Box 1135 contains student work that is restricted until 2057.</p>
+            </accessrestrict>
+            <arrangement id="aspace_f376e66ba385d286f2f557d59a77a259">
+               <head>Arrangement</head>
+               <p>Material is arranged alphabetically by title.  The newspaper clippings have retainined their original chronological arrangement.</p>
+            </arrangement>
+            <scopecontent id="aspace_eb7c80782d1df654f983f9bf043077a5">
+               <head>Scope and Contents</head>
+               <p>The publication series contains journals, newspaper articles, and other secondary works that relate to the the planning, inital reception, and legacy of the Yale Center for British Art and of Louis I. Kahn.</p>
+            </scopecontent>
+            <c altrender="/repositories/3/archival_objects/3636432"
+               id="aspace_57908990ebb994009f68b85a6e442959"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>AIA Journal</part>
+                     </title> featuring Yale Center for British Art</unittitle>
+                  <unitdatestructured altrender="1974-05" label="other" unitdatetype="inclusive">
+                     <datesingle standarddate="1974-04">1974 May</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                             encodinganalog="Paige 15"
+                             id="aspace_57908990ebb994009f68b85a6e442959_c1"
+                             label="Mixed Materials"
+                             localtype="box">1135</container>
+                  <container id="aspace_57908990ebb994009f68b85a6e442959_c2"
+                             localtype="folder"
+                             parent="aspace_57908990ebb994009f68b85a6e442959_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/3636433"
+               id="aspace_cf5ddf2aee2314ea85cc2c7d08f7a145"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>The Art Museum in the late 20th century America: Two Interpretations - Louis Kahn: British Art Center at Yale, I.M. Pei: West wing addition to the MFA Boston</part>
+                     </title> by Laura Silverman</unittitle>
+                  <unitdatestructured altrender="1982-12-09" label="other" unitdatetype="inclusive">
+                     <datesingle standarddate="1982-12-09">1982 December 9</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                             encodinganalog="Paige 15"
+                             id="aspace_cf5ddf2aee2314ea85cc2c7d08f7a145_c1"
+                             label="Mixed Materials"
+                             localtype="box">1135</container>
+                  <container id="aspace_cf5ddf2aee2314ea85cc2c7d08f7a145_c2"
+                             localtype="folder"
+                             parent="aspace_cf5ddf2aee2314ea85cc2c7d08f7a145_c1">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/3636435"
+               id="aspace_d8af70065178364b905ae784ec56098d"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>Engaging Kahn: a legacy for the future</part>
+                     </title> symposium program</unittitle>
+                  <unitdate label="other" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                             encodinganalog="Paige 15"
+                             id="aspace_d8af70065178364b905ae784ec56098d_c1"
+                             label="Mixed Materials"
+                             localtype="box">1135</container>
+                  <container id="aspace_d8af70065178364b905ae784ec56098d_c2"
+                             localtype="folder"
+                             parent="aspace_d8af70065178364b905ae784ec56098d_c1">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/2158136"
+               id="aspace_0b37dedd7da180e9b7781aaa173d5285"
+               level="file">
+               <did>
+                  <unittitle>Newspaper and article clippings on the BAC opening</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1966">1966</fromdate>
+                        <todate standarddate="1997">1997</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                             encodinganalog="Paige 15"
+                             id="aspace_0b37dedd7da180e9b7781aaa173d5285_c1"
+                             label="Mixed Materials"
+                             localtype="box">1135</container>
+               </did>
+               <c altrender="/repositories/3/archival_objects/3636441"
+                  id="aspace_10f09889d54c47a5d6c7b5cc8b8c428d"
+                  level="file">
+                  <did>
+                     <unittitle>"Mellon Gives Yale $35 Million in British Art," <title>
+                           <part>The New York Times</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1966-12-09" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1966-12-09">1966 December 9</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_10f09889d54c47a5d6c7b5cc8b8c428d_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_10f09889d54c47a5d6c7b5cc8b8c428d_c2"
+                                localtype="folder"
+                                parent="aspace_10f09889d54c47a5d6c7b5cc8b8c428d_c1">5-6</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636442"
+                  id="aspace_8998dca541164efa4de80566d1fba644"
+                  level="file">
+                  <did>
+                     <unittitle>"Gift Enhances Yale's Long Eminence in Art," <title>
+                           <part>New Haven Register</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1966-12-09" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1966-12-09">1966 December 9</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_8998dca541164efa4de80566d1fba644_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_8998dca541164efa4de80566d1fba644_c2"
+                                localtype="folder"
+                                parent="aspace_8998dca541164efa4de80566d1fba644_c1">7-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636443"
+                  id="aspace_ee4e226d61325bd5191ed8c523c6abeb"
+                  level="file">
+                  <did>
+                     <unittitle>"Yale Given Huge Art Collection," <title>
+                           <part>New Haven Journal Courier</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1966-12-09" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1966-12-09">1966 December 9</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_ee4e226d61325bd5191ed8c523c6abeb_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_ee4e226d61325bd5191ed8c523c6abeb_c2"
+                                localtype="folder"
+                                parent="aspace_ee4e226d61325bd5191ed8c523c6abeb_c1">9</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636444"
+                  id="aspace_d408f17bf24f5aae24020768c20fcc8d"
+                  level="file">
+                  <did>
+                     <unittitle>"These Art Treasures are Coming to Yale," <title>
+                           <part>New Haven Register</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1966-12-11" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1966-12-11">1966 December 11</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_d408f17bf24f5aae24020768c20fcc8d_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_d408f17bf24f5aae24020768c20fcc8d_c2"
+                                localtype="folder"
+                                parent="aspace_d408f17bf24f5aae24020768c20fcc8d_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636445"
+                  id="aspace_3e1468e9f42e034dada4ab93642ac550"
+                  level="file">
+                  <did>
+                     <unittitle>"Gallery Property Was Bought in a Hurry," <title>
+                           <part>Yale Daily News</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1966-12-14" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1966-12-14">1966 December 14</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_3e1468e9f42e034dada4ab93642ac550_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_3e1468e9f42e034dada4ab93642ac550_c2"
+                                localtype="folder"
+                                parent="aspace_3e1468e9f42e034dada4ab93642ac550_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636446"
+                  id="aspace_372fc9d4a26b6c5bb472351593ee6a64"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Art in America</part>
+                        </title> highlight</unittitle>
+                     <unitdatestructured altrender="1976-11/12" label="other" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1976-11">1976 November</fromdate>
+                           <todate standarddate="1976-12">1976 December</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_372fc9d4a26b6c5bb472351593ee6a64_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_372fc9d4a26b6c5bb472351593ee6a64_c2"
+                                localtype="folder"
+                                parent="aspace_372fc9d4a26b6c5bb472351593ee6a64_c1">12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636447"
+                  id="aspace_e169d476b719056ce3313f8c59a35e8c"
+                  level="file">
+                  <did>
+                     <unittitle>"Creating a Museum is a Labor of Love," <title>
+                           <part>New Haven Register</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-03-06" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-03-06">1977 March 6</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_e169d476b719056ce3313f8c59a35e8c_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_e169d476b719056ce3313f8c59a35e8c_c2"
+                                localtype="folder"
+                                parent="aspace_e169d476b719056ce3313f8c59a35e8c_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636448"
+                  id="aspace_cb1474805c1a61794acc91e8cae86fa8"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Yale Alumni Journal</part>
+                        </title> final proofs</unittitle>
+                     <unitdatestructured altrender="1977-04" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-04">1977 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_cb1474805c1a61794acc91e8cae86fa8_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_cb1474805c1a61794acc91e8cae86fa8_c2"
+                                localtype="folder"
+                                parent="aspace_cb1474805c1a61794acc91e8cae86fa8_c1">14</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636449"
+                  id="aspace_ef361818f751f9bbae44ff6c1ffb5384"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title>
+                           <part>Yale Daily News</part>
+                        </title> special edition</unittitle>
+                     <unitdatestructured altrender="1977-04-19" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-04-19">1977 April 19</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_ef361818f751f9bbae44ff6c1ffb5384_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_ef361818f751f9bbae44ff6c1ffb5384_c2"
+                                localtype="folder"
+                                parent="aspace_ef361818f751f9bbae44ff6c1ffb5384_c1">15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636450"
+                  id="aspace_954cc8a3d07f3b6bebb691a5f107991a"
+                  level="file">
+                  <did>
+                     <unittitle>Museum opening poster</unittitle>
+                     <unitdatestructured altrender="1977-04-19" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-04-19">1977 April 19</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_954cc8a3d07f3b6bebb691a5f107991a_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_954cc8a3d07f3b6bebb691a5f107991a_c2"
+                                localtype="folder"
+                                parent="aspace_954cc8a3d07f3b6bebb691a5f107991a_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636451"
+                  id="aspace_8cc53367cb4b84a06f2c6f2352564750"
+                  level="file">
+                  <did>
+                     <unittitle>"Yale Opens its Door to Britain," <title>
+                           <part>The Times Saturday Review</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-04-23" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-04-23">1977 April 23</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_8cc53367cb4b84a06f2c6f2352564750_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_8cc53367cb4b84a06f2c6f2352564750_c2"
+                                localtype="folder"
+                                parent="aspace_8cc53367cb4b84a06f2c6f2352564750_c1">17</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636452"
+                  id="aspace_6cbbe3f82c36fb8a718a4eac75063f09"
+                  level="file">
+                  <did>
+                     <unittitle>"Yale's 1,700 Mellon Pictures," publication unknown</unittitle>
+                     <unitdatestructured altrender="1977-04" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-04">1977 April</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_6cbbe3f82c36fb8a718a4eac75063f09_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_6cbbe3f82c36fb8a718a4eac75063f09_c2"
+                                localtype="folder"
+                                parent="aspace_6cbbe3f82c36fb8a718a4eac75063f09_c1">18</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636453"
+                  id="aspace_de48cb9d844b84d778d6b46fe8d7b714"
+                  level="file">
+                  <did>
+                     <unittitle>"It was all so Grand at the 'Opening'," <title>
+                           <part>New Haven Register</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-04-24" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-04-24">1977 April 24</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_de48cb9d844b84d778d6b46fe8d7b714_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_de48cb9d844b84d778d6b46fe8d7b714_c2"
+                                localtype="folder"
+                                parent="aspace_de48cb9d844b84d778d6b46fe8d7b714_c1">19</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636454"
+                  id="aspace_063c7e2a83d200ffc4a9d05abc1b88c4"
+                  level="file">
+                  <did>
+                     <unittitle>"Yale's Sumptuous Strongbox for British Art," <title>
+                           <part>Christian Science Monitor</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-[04?]" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977">1977</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_063c7e2a83d200ffc4a9d05abc1b88c4_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_063c7e2a83d200ffc4a9d05abc1b88c4_c2"
+                                localtype="folder"
+                                parent="aspace_063c7e2a83d200ffc4a9d05abc1b88c4_c1">20</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636455"
+                  id="aspace_8e900a295b992f8882cefbf9199d0f37"
+                  level="file">
+                  <did>
+                     <unittitle>Editorial - "The Yale Center for British Art," <title>
+                           <part>The Burlington Magazine</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-05" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-05">1977 May</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_8e900a295b992f8882cefbf9199d0f37_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_8e900a295b992f8882cefbf9199d0f37_c2"
+                                localtype="folder"
+                                parent="aspace_8e900a295b992f8882cefbf9199d0f37_c1">21</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636456"
+                  id="aspace_d9aae2a3cb22d7229b9c930eda50846b"
+                  level="file">
+                  <did>
+                     <unittitle>"Kahn's Last Work Opens at Yale," <title>
+                           <part>Progressive Architecture</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-05" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-05">1977 May</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_d9aae2a3cb22d7229b9c930eda50846b_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_d9aae2a3cb22d7229b9c930eda50846b_c2"
+                                localtype="folder"
+                                parent="aspace_d9aae2a3cb22d7229b9c930eda50846b_c1">22</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636457"
+                  id="aspace_d48332c1bfdfdd2866d5515332bba564"
+                  level="file">
+                  <did>
+                     <unittitle>"Yale Center for British Art...A Chunk of Britain on U.S. Soil," <title>
+                           <part>The Bristol Press</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-05-13" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-05-13">1977 May 13</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_d48332c1bfdfdd2866d5515332bba564_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_d48332c1bfdfdd2866d5515332bba564_c2"
+                                localtype="folder"
+                                parent="aspace_d48332c1bfdfdd2866d5515332bba564_c1">23</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636458"
+                  id="aspace_8f370232336c60f85be629d90d8d9c26"
+                  level="file">
+                  <did>
+                     <unittitle>"The Yale Center for British Art," <title>
+                           <part>Times Literary Supplement</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-05-20" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-05-20">1977 May 20</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_8f370232336c60f85be629d90d8d9c26_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_8f370232336c60f85be629d90d8d9c26_c2"
+                                localtype="folder"
+                                parent="aspace_8f370232336c60f85be629d90d8d9c26_c1">24</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636459"
+                  id="aspace_0a68404d5aae181a1834c8469d8f5b64"
+                  level="file">
+                  <did>
+                     <unittitle>"Culture Haven," <title>
+                           <part>Building Design</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-06-10" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-06-10">1977 June 10</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_0a68404d5aae181a1834c8469d8f5b64_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_0a68404d5aae181a1834c8469d8f5b64_c2"
+                                localtype="folder"
+                                parent="aspace_0a68404d5aae181a1834c8469d8f5b64_c1">25</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636460"
+                  id="aspace_ed82a9285f7dd2de696449cc64b6c6ce"
+                  level="file">
+                  <did>
+                     <unittitle>"The Nation's Grand New Showcase," <title>
+                           <part>Time</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="197-05-08" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="197-05-08">197 May 8</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_ed82a9285f7dd2de696449cc64b6c6ce_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_ed82a9285f7dd2de696449cc64b6c6ce_c2"
+                                localtype="folder"
+                                parent="aspace_ed82a9285f7dd2de696449cc64b6c6ce_c1">26</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/3/archival_objects/3636461"
+                  id="aspace_c6f6f5e8b5d96892aa6b1dac3375931c"
+                  level="file">
+                  <did>
+                     <unittitle>"For Paul Mellon's Git to Yale, A Grand Opening...," <title>
+                           <part>New Haven Register</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1977-04-24" label="other" unitdatetype="inclusive">
+                        <datesingle standarddate="1977-04-24">1977 April 24</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                                encodinganalog="Paige 15"
+                                id="aspace_c6f6f5e8b5d96892aa6b1dac3375931c_c1"
+                                label="Mixed Materials"
+                                localtype="box">1135</container>
+                     <container id="aspace_c6f6f5e8b5d96892aa6b1dac3375931c_c2"
+                                localtype="folder"
+                                parent="aspace_c6f6f5e8b5d96892aa6b1dac3375931c_c1">27</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/3/archival_objects/3636436"
+               id="aspace_cbb3b6c98a1709ec143fc4a75f11c4c5"
+               level="file">
+               <did>
+                  <unittitle>
+                     <title>
+                        <part>New Yorker film catalog</part>
+                     </title> featuring <title>
+                        <part>My Architect</part>
+                     </title> on cover</unittitle>
+                  <unitdatestructured altrender="2004" label="other" unitdatetype="inclusive">
+                     <datesingle standarddate="2004">2004</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/3/top_containers/232461 /locations/3300"
+                             encodinganalog="Paige 15"
+                             id="aspace_cbb3b6c98a1709ec143fc4a75f11c4c5_c1"
+                             label="Mixed Materials"
+                             localtype="box">1135</container>
+                  <container id="aspace_cbb3b6c98a1709ec143fc4a75f11c4c5_c2"
+                             localtype="folder"
+                             parent="aspace_cbb3b6c98a1709ec143fc4a75f11c4c5_c1">4</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/3/archival_objects/3636462"
+            id="aspace_8c39b5b0b99a4309bbb422058bb4c533"
+            level="series">
+            <did>
+               <unittitle>Series II. Recordings</unittitle>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/3903360"
+            id="aspace_c09ff4c31f4b8e7d9030f152d80e73ab"
+            level="series">
+            <did>
+               <unittitle>Series III. Exhibition material</unittitle>
+            </did>
+         </c>
+      </dsc>
    </archdesc>
 </ead>
