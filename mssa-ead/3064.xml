@@ -74,10 +74,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-24T03:01:33-04:00</eventdatetime>
+            <eventdatetime>2026-09-25T03:03:13-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 24, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 25, 2026 at 03:03</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>June 2012 </eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Finding aid revision description not supplied.</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -996,6 +1003,69 @@
                                 label="Mixed Materials"
                                 localtype="box">10</container>
                      <container id="aspace_ref54_c2" localtype="folder" parent="aspace_ref54_c1">111</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4057312"
+                  id="aspace_5a07db171d3362217d563cce16ec7513"
+                  level="file">
+                  <did>
+                     <unittitle>Magnetic observation notebooks</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1840">1840</fromdate>
+                           <todate standarddate="1841">1841</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/131782 /locations/9"
+                                containerid="39002038207693"
+                                encodinganalog="archive legal"
+                                id="aspace_5a07db171d3362217d563cce16ec7513_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_5a07db171d3362217d563cce16ec7513_c2"
+                                localtype="folder"
+                                parent="aspace_5a07db171d3362217d563cce16ec7513_c1">112</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4057313"
+                  id="aspace_b2fb8615bda9176d2c500e67c5ef5c10"
+                  level="file">
+                  <did>
+                     <unittitle>Magnetic observation notebooks</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1841">1841</fromdate>
+                           <todate standarddate="1842">1842</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/131782 /locations/9"
+                                containerid="39002038207693"
+                                encodinganalog="archive legal"
+                                id="aspace_b2fb8615bda9176d2c500e67c5ef5c10_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_b2fb8615bda9176d2c500e67c5ef5c10_c2"
+                                localtype="folder"
+                                parent="aspace_b2fb8615bda9176d2c500e67c5ef5c10_c1">113</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4057314"
+                  id="aspace_ee87d77583369d407b64ba4ae32fdfd3"
+                  level="file">
+                  <did>
+                     <unittitle>Magnetic observation notebooks</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1859">1859</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/131782 /locations/9"
+                                containerid="39002038207693"
+                                encodinganalog="archive legal"
+                                id="aspace_ee87d77583369d407b64ba4ae32fdfd3_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_ee87d77583369d407b64ba4ae32fdfd3_c2"
+                                localtype="folder"
+                                parent="aspace_ee87d77583369d407b64ba4ae32fdfd3_c1">114</container>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1186202"
