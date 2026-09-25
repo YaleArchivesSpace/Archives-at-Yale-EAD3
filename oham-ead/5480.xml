@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-22T20:00:50-04:00</eventdatetime>
+            <eventdatetime>2026-09-24T20:00:31-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 22, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 24, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -29284,48 +29284,6 @@
                </controlaccess>
             </c>
          </c>
-         <c altrender="/repositories/7/archival_objects/4040691"
-            id="aspace_d799cd7b6adf11948bf8277283ad3b7f"
-            level="series">
-            <did>
-               <unittitle>Henry, Corey</unittitle>
-            </did>
-            <c altrender="/repositories/7/archival_objects/4040692"
-               id="aspace_8ca5b5c1763c13e8df57b00452d1b7fa"
-               level="item">
-               <did>
-                  <unittitle>Henry, Corey</unittitle>
-                  <unitid>OHV 614 a</unitid>
-                  <origination label="Creator">
-                     <persname relator="ivr" rules="dacs" source="local_music">
-                        <part localtype="agent_person">Dromgoole, Ambre</part>
-                     </persname>
-                  </origination>
-                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                     <quantity>1</quantity>
-                     <unittype>Computer File</unittype>
-                  </physdescstructured>
-                  <physdesc localtype="container_summary">9.0 gigabytes</physdesc>
-                  <unitdatestructured altrender="2026 April 28" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="2026-04-08">2026 April 28</datesingle>
-                  </unitdatestructured>
-                  <physdesc id="aspace_f72dad9062a2b43a5c95f5e1ec054479">Approximate running time: 78 mins</physdesc>
-               </did>
-               <scopecontent id="aspace_465767e9319f360382ac0de67152073e">
-                  <head>Scope and Contents</head>
-                  <p>New Haven, CT</p>
-               </scopecontent>
-               <phystech id="aspace_d937e15dd40686e3591a6e45a1ff41a3">
-                  <head>Physical Characteristics and Technical Requirements</head>
-                  <p>.mp4 file</p>
-               </phystech>
-               <controlaccess>
-                  <persname relator="ive">
-                     <part localtype="agent_person">Henry, Corey (Organist)</part>
-                  </persname>
-               </controlaccess>
-            </c>
-         </c>
          <c altrender="/repositories/7/archival_objects/3183728"
             id="aspace_d57fa01c76b846df94fce0f5973ab051"
             level="series">
@@ -31829,6 +31787,48 @@
                <controlaccess>
                   <persname relator="ive">
                      <part localtype="agent_person">Helps, Robert, 1928-2001</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4040691"
+            id="aspace_d799cd7b6adf11948bf8277283ad3b7f"
+            level="series">
+            <did>
+               <unittitle>Henry, Corey</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4040692"
+               id="aspace_8ca5b5c1763c13e8df57b00452d1b7fa"
+               level="item">
+               <did>
+                  <unittitle>Henry, Corey</unittitle>
+                  <unitid>OHV 614 a</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="local_music">
+                        <part localtype="agent_person">Dromgoole, Ambre</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">9.0 gigabytes</physdesc>
+                  <unitdatestructured altrender="2026 April 28" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2026-04-08">2026 April 28</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_f72dad9062a2b43a5c95f5e1ec054479">Approximate running time: 78 mins</physdesc>
+               </did>
+               <scopecontent id="aspace_465767e9319f360382ac0de67152073e">
+                  <head>Scope and Contents</head>
+                  <p>New Haven, CT</p>
+               </scopecontent>
+               <phystech id="aspace_d937e15dd40686e3591a6e45a1ff41a3">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp4 file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Henry, Corey (Organist)</part>
                   </persname>
                </controlaccess>
             </c>
