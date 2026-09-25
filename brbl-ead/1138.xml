@@ -41,6 +41,9 @@
             <controlnote localtype="onsite">
                <p>Box: 1</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="23">23</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="498">498</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -72,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T23:55:40-04:00</eventdatetime>
+            <eventdatetime>2026-09-24T23:02:41-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 23:55</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 24, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -216,6 +219,35 @@
                                 id="aspace_ref11_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355610">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802027"
+                             identifier="oid:33802027"
+                             linktitle="42 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802028/full/!150,150/0/default.jpg"
+                             identifier="oid:33802027"
+                             linktitle="42 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802027"
+                             identifier="oid:33802027"
+                             linktitle="42 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"A Briefe Collection of all generall Penall Statutes now in force..."</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_dd61e90b2fc69ff88be7ff0fab7c9b84">
                      <head>Scope and Contents</head>
@@ -240,6 +272,35 @@
                                 id="aspace_ref14_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355596">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802072"
+                             identifier="oid:33802072"
+                             linktitle="4 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802073/full/!150,150/0/default.jpg"
+                             identifier="oid:33802072"
+                             linktitle="4 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802072"
+                             identifier="oid:33802072"
+                             linktitle="4 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Speech delivered at the opening of Parliament, 1627/8 Mar 17]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_e5d43e55e5dae5b8024f158e557d9e96">
                      <head>Scope and Contents</head>
@@ -264,6 +325,35 @@
                                 id="aspace_ref17_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355591">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802070"
+                             identifier="oid:33802070"
+                             linktitle="1 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802071/full/!150,150/0/default.jpg"
+                             identifier="oid:33802070"
+                             linktitle="1 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802070"
+                             identifier="oid:33802070"
+                             linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Speech in Parliament, 1627/8 March 22]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_50bdf46754f078a9332ea4e58d50e3f7">
                      <head>Scope and Contents</head>
@@ -288,6 +378,35 @@
                                 id="aspace_ref20_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355593">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802077"
+                             identifier="oid:33802077"
+                             linktitle="1 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802078/full/!150,150/0/default.jpg"
+                             identifier="oid:33802077"
+                             linktitle="1 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802077"
+                             identifier="oid:33802077"
+                             linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Speech in Parliament, 1627/8 March 22]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_25819ae83f2eb4edfa285aa6a69b7f72">
                      <head>Scope and Contents</head>
@@ -312,6 +431,35 @@
                                 id="aspace_ref23_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355598">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802079"
+                             identifier="oid:33802079"
+                             linktitle="2 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802080/full/!150,150/0/default.jpg"
+                             identifier="oid:33802079"
+                             linktitle="2 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802079"
+                             identifier="oid:33802079"
+                             linktitle="2 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Propositions sent to the House of Commons by the King concerning supply, 1628 Mar 26]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_4480f6fc02a056f27130d49b5fbe52e7">
                      <head>Scope and Contents</head>
@@ -336,6 +484,35 @@
                                 id="aspace_ref26_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355600">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802082"
+                             identifier="oid:33802082"
+                             linktitle="4 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802083/full/!150,150/0/default.jpg"
+                             identifier="oid:33802082"
+                             linktitle="4 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802082"
+                             identifier="oid:33802082"
+                             linktitle="4 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Speech in Parliament, 1628/9 Jan 26]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_76482ba49ddec13647c950e5303aa3e9">
                      <head>Scope and Contents</head>
@@ -360,6 +537,35 @@
                                 id="aspace_ref29_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355597">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802087"
+                             identifier="oid:33802087"
+                             linktitle="4 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802088/full/!150,150/0/default.jpg"
+                             identifier="oid:33802087"
+                             linktitle="4 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802087"
+                             identifier="oid:33802087"
+                             linktitle="4 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Declaration to the Lords, 1626 Mar 8 or 9]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_7fbc8bbebacdeacd397d60f70b14e59b">
                      <head>Scope and Contents</head>
@@ -384,6 +590,35 @@
                                 id="aspace_ref32_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355606">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802092"
+                             identifier="oid:33802092"
+                             linktitle="16 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802093/full/!150,150/0/default.jpg"
+                             identifier="oid:33802092"
+                             linktitle="16 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802092"
+                             identifier="oid:33802092"
+                             linktitle="16 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Speech in Parliament, 1628 June 3]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_c01d6c37ae8d82e5a83e59251a99bc87">
                      <head>Scope and Contents</head>
@@ -408,6 +643,35 @@
                                 id="aspace_ref35_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355608">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802109"
+                             identifier="oid:33802109"
+                             linktitle="18 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802110/full/!150,150/0/default.jpg"
+                             identifier="oid:33802109"
+                             linktitle="18 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802109"
+                             identifier="oid:33802109"
+                             linktitle="18 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Remonstrance of the Commons to the King against the duke of Buckingham, 1628 June]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_0f53ac1d64af3946da7c84a9ae0f2e6c">
                      <head>Scope and Contents</head>
@@ -432,6 +696,35 @@
                                 id="aspace_ref38_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355603">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802541"
+                             identifier="oid:33802541"
+                             linktitle="6 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802542/full/!150,150/0/default.jpg"
+                             identifier="oid:33802541"
+                             linktitle="6 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802541"
+                             identifier="oid:33802541"
+                             linktitle="6 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Petition to James I against the Duke of Buckingham, 1624]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_42e626b93166736d97034f095b617633">
                      <head>Scope and Contents</head>
@@ -456,6 +749,35 @@
                                 id="aspace_ref41_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355607">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802128"
+                             identifier="oid:33802128"
+                             linktitle="28 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802129/full/!150,150/0/default.jpg"
+                             identifier="oid:33802128"
+                             linktitle="28 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802128"
+                             identifier="oid:33802128"
+                             linktitle="28 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Debate on foreign affairs, Spain, and the Palatine, and religion. 1621 Nov]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_73e049d79212901037f54f69f2d43764">
                      <head>Scope and Contents</head>
@@ -480,6 +802,35 @@
                                 id="aspace_ref44_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355604">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802157"
+                             identifier="oid:33802157"
+                             linktitle="7 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802158/full/!150,150/0/default.jpg"
+                             identifier="oid:33802157"
+                             linktitle="7 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802157"
+                             identifier="oid:33802157"
+                             linktitle="7 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"A Catalogue of the Nobility of England according to their creations"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_aff2e6656a58e3b74312bb009adf913f">
                      <head>Scope and Contents</head>
@@ -504,6 +855,35 @@
                                 id="aspace_ref47_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355592">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802165"
+                             identifier="oid:33802165"
+                             linktitle="1 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802166/full/!150,150/0/default.jpg"
+                             identifier="oid:33802165"
+                             linktitle="1 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802165"
+                             identifier="oid:33802165"
+                             linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Receipt for payment of annuity, 1640 June 5]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_a48ebb3e5d1516a8e4b8cfb8cacde75d">
                      <head>Scope and Contents</head>
@@ -528,6 +908,35 @@
                                 id="aspace_ref50_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355594">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802167"
+                             identifier="oid:33802167"
+                             linktitle="1 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802168/full/!150,150/0/default.jpg"
+                             identifier="oid:33802167"
+                             linktitle="1 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802167"
+                             identifier="oid:33802167"
+                             linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Oath of the Clerk of Parliament]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_a956c198072b37558e49ae8592cdd0c2">
                      <head>Scope and Contents</head>
@@ -552,6 +961,35 @@
                                 id="aspace_ref53_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355599">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802171"
+                             identifier="oid:33802171"
+                             linktitle="3 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802172/full/!150,150/0/default.jpg"
+                             identifier="oid:33802171"
+                             linktitle="3 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802171"
+                             identifier="oid:33802171"
+                             linktitle="3 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Memorandum on trade, 17th century]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_5ce7964509e6196e248b92d5165e22bc">
                      <head>Scope and Contents</head>
@@ -576,6 +1014,35 @@
                                 id="aspace_ref56_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355595">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802169"
+                             identifier="oid:33802169"
+                             linktitle="1 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802170/full/!150,150/0/default.jpg"
+                             identifier="oid:33802169"
+                             linktitle="1 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802169"
+                             identifier="oid:33802169"
+                             linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Homages of the Spiritual and Temporal Peers at the Coronation of the King, 17th century]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_51e293ed813e9067aea25a160637a5a7">
                      <head>Scope and Contents</head>
@@ -600,6 +1067,35 @@
                                 id="aspace_ref59_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355601">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802175"
+                             identifier="oid:33802175"
+                             linktitle="5 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802176/full/!150,150/0/default.jpg"
+                             identifier="oid:33802175"
+                             linktitle="5 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802175"
+                             identifier="oid:33802175"
+                             linktitle="5 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Certaine ge[ner]all rules collected concerning Money and Bullion out of the late consultacon at Cort by Sr Robert Cotton Kt and Barronett and delivered to his Maty at the Bords, 1626"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_85d749cbf4fedf4c0df0edb68d80424d">
                      <head>Scope and Contents</head>
@@ -636,6 +1132,35 @@
                                 id="aspace_ref63_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355612">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802181"
+                             identifier="oid:33802181"
+                             linktitle="125 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802182/full/!150,150/0/default.jpg"
+                             identifier="oid:33802181"
+                             linktitle="125 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802181"
+                             identifier="oid:33802181"
+                             linktitle="125 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>120 p.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_75c154d1d664f8fb188dfbf908341f9d">
                      <head>Scope and Contents</head>
@@ -660,6 +1185,35 @@
                                 id="aspace_ref66_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355609">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802307"
+                             identifier="oid:33802307"
+                             linktitle="17 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802308/full/!150,150/0/default.jpg"
+                             identifier="oid:33802307"
+                             linktitle="17 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802307"
+                             identifier="oid:33802307"
+                             linktitle="17 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Questions of the King on points of constitutional law and replies of the judges, c.1628]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_94570329bb11447af35912aa8ec55f7b">
                      <head>Scope and Contents</head>
@@ -684,6 +1238,35 @@
                                 id="aspace_ref69_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355602">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802325"
+                             identifier="oid:33802325"
+                             linktitle="6 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802326/full/!150,150/0/default.jpg"
+                             identifier="oid:33802325"
+                             linktitle="6 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802325"
+                             identifier="oid:33802325"
+                             linktitle="6 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Reasons humbly offered to the Duke of Albemarle, against his going Governour of Jamaica" [c.1687]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_9acff561dfb1f376ddcb4670af0e958b">
                      <head>Scope and Contents</head>
@@ -708,6 +1291,35 @@
                                 id="aspace_ref72_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355605">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802332"
+                             identifier="oid:33802332"
+                             linktitle="10 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802333/full/!150,150/0/default.jpg"
+                             identifier="oid:33802332"
+                             linktitle="10 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802332"
+                             identifier="oid:33802332"
+                             linktitle="10 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Fees payable to the Clerk of Parliament by the Lords, 17th century]</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_700d1cbc0368a2f3f9926ae078b420be">
                      <head>Scope and Contents</head>
@@ -732,6 +1344,35 @@
                                 id="aspace_ref75_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355611">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802343"
+                             identifier="oid:33802343"
+                             linktitle="68 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802344/full/!150,150/0/default.jpg"
+                             identifier="oid:33802343"
+                             linktitle="68 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802343"
+                             identifier="oid:33802343"
+                             linktitle="68 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"A Declaration of the Lords and Comons in Answer to the Scotch Papers"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_cd671b1f3d90922ababd3bd5fd19e3cc">
                      <head>Scope and Contents</head>
@@ -756,6 +1397,35 @@
                                 id="aspace_ref78_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/355613">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33802412"
+                             identifier="oid:33802412"
+                             linktitle="128 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33802413/full/!150,150/0/default.jpg"
+                             identifier="oid:33802412"
+                             linktitle="128 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33802412"
+                             identifier="oid:33802412"
+                             linktitle="128 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"Modus tenendi Parliamentum apud Anglos"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_e68809497562495552935217104da777">
                      <head>Scope and Contents</head>
