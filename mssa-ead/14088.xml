@@ -58,10 +58,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-19T03:00:25-04:00</eventdatetime>
+            <eventdatetime>2026-09-26T03:00:51-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday September 19, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday September 26, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -175,6 +175,12 @@
             <did>
                <unittitle>Digital posters and photographs</unittitle>
                <unitid>Accession 2027-A-0004</unitid>
+               <unitdatestructured altrender="1965-2025" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1965">1965</fromdate>
+                     <todate standarddate="2025">2025</todate>
+                  </daterange>
+               </unitdatestructured>
             </did>
             <otherfindaid id="aspace_0b7f55a8-aaca-4888-8a84-5afa99e4a327">
                <head>TypeCollection</head>

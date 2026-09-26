@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-13T03:00:33-04:00</eventdatetime>
+            <eventdatetime>2026-09-26T03:02:30-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday August 13, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday September 26, 2026 at 03:02</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -7849,21 +7849,19 @@
                            <dao actuate="onrequest"
                                 audience="external"
                                 daotype="unknown"
-                                href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                                href="https://yalemssa.aviaryplatform.com/r/4t6f18vj51"
                                 identifier="aviary_176805"
-                                linktitle="[Aviary] ms1895s2019-m-0033b008a.mst.wav"
-                                linkrole="image-thumbnail"
+                                linkrole="video-streaming"
                                 show="new"/>
                            <dao actuate="onrequest"
                                 audience="external"
                                 daotype="unknown"
-                                href="https://yalemssa.aviaryplatform.com/r/4t6f18vj51"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
                                 identifier="aviary_176805"
-                                linktitle="[Aviary] ms1895s2019-m-0033b008a.mst.wav"
-                                linkrole="video-streaming"
-                                show="new"/>
+                                linkrole="image-thumbnail"
+                                show="embed"/>
                            <descriptivenote>
-                              <p>[Aviary] ms1895s2019-m-0033b008a.mst.wav</p>
+                              <p>[Aviary] ms1895s2019-m-0033b008a.u.mp3</p>
                            </descriptivenote>
                         </daoset>
                      </did>

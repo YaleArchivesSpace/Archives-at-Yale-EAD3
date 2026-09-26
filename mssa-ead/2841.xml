@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="710">710</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="711">711</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-31T03:01:30-04:00</eventdatetime>
+            <eventdatetime>2026-09-26T03:01:02-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July 31, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday September 26, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -6266,6 +6266,25 @@
                              id="aspace_ref411_c1"
                              label="Mixed Materials"
                              localtype="box">192</container>
+                  <daoset altrender="/repositories/12/digital_objects/355729">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemssa.aviaryplatform.com/r/th8bg2kp3f"
+                          identifier="aviary_179712"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                          identifier="aviary_179712"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] ru0880s2001-a-171b192.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_db5624dc0a25fa60c1fa26cb2a14c871"
                                localtype="RestrictedFragileSpecColl">
