@@ -44,7 +44,7 @@
                <p>Boxes: 1 (Art), 2-7 (Art), 8-12 (Oversize), 13 (Art), 46 (Oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="13">13</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="670">670</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="15">15</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="674">674</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -77,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-19T23:01:37-04:00</eventdatetime>
+            <eventdatetime>2026-09-25T23:04:58-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 25, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3704,6 +3704,27 @@
                              id="aspace_ref4_c1"
                              label="Mixed Materials"
                              localtype="box">1 (Art)</container>
+                  <daoset altrender="/repositories/11/digital_objects/355758">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33802586"
+                          linktitle="2 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33802586"
+                          identifier="oid:33802586"
+                          linktitle="2 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Untitled, by Louise Glück, oil on canvas</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/2190464"
@@ -4065,6 +4086,27 @@
                              id="aspace_ref16_c1"
                              label="Mixed Materials"
                              localtype="box">13 (Art)</container>
+                  <daoset altrender="/repositories/11/digital_objects/355757">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33802589"
+                          linktitle="2 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33802589"
+                          identifier="oid:33802589"
+                          linktitle="2 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Untitled, by Louise Glück, oil on canvas</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
          </c>

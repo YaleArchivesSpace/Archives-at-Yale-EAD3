@@ -42,7 +42,7 @@
                <p>Boxes: 1-83</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="20">20</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="44">44</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="23">23</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="44">44</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-21T23:01:18-04:00</eventdatetime>
+            <eventdatetime>2026-09-25T23:03:00-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 21, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 25, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -13703,6 +13703,25 @@
                         <container id="aspace_ae7340e0f8c9411cc39ae8056e119075_c3"
                                    localtype="item_barcode"
                                    parent="aspace_ae7340e0f8c9411cc39ae8056e119075_c2">39002140882730</container>
+                        <daoset altrender="/repositories/11/digital_objects/355657">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://beineckelibrary.aviaryplatform.com/r/td9n29rj1f"
+                                identifier="aviary_179578"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/319/685/original/open-uri20260925-2319520-uyjh2c?1790346801"
+                                identifier="aviary_179578"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <descriptivenote>
+                              <p>[Aviary] ycalmss108339002140882730.u.mp3</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <accessrestrict id="aspace_ba5a55f331617da7f8826f375e28b549"
                                      localtype="RestrictedFragileSpecColl">
@@ -13900,6 +13919,25 @@
                         <container id="aspace_6eeda3e146351876f577f024ffaa7298_c3"
                                    localtype="item_barcode"
                                    parent="aspace_6eeda3e146351876f577f024ffaa7298_c2">39002140882797</container>
+                        <daoset altrender="/repositories/11/digital_objects/355659">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://beineckelibrary.aviaryplatform.com/r/vm42r3rb8r"
+                                identifier="aviary_179580"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/319/687/original/open-uri20260925-2319520-hrpmtl?1790346874"
+                                identifier="aviary_179580"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <descriptivenote>
+                              <p>[Aviary] ycalmss108339002140882797a.u.mp3</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <accessrestrict id="aspace_2182e4510d1d5ec34d1270760489e651"
                                      localtype="RestrictedFragileSpecColl">
@@ -14435,6 +14473,25 @@
                         <container id="aspace_a7515c1e4fdfbbc90d4d1e6775297fc0_c3"
                                    localtype="item_barcode"
                                    parent="aspace_a7515c1e4fdfbbc90d4d1e6775297fc0_c2">39002140882680</container>
+                        <daoset altrender="/repositories/11/digital_objects/355655">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://beineckelibrary.aviaryplatform.com/r/5x25b0142m"
+                                identifier="aviary_179575"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/319/681/original/open-uri20260925-2319520-et0fq8?1790346727"
+                                identifier="aviary_179575"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <descriptivenote>
+                              <p>[Aviary] ycalmss108339002140882680.u.mp3</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/3261767"
