@@ -39,7 +39,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1, OV1-2, OV2, OVd2-3, OV3, OVd3-4, OV4-5, OV5, OVd5, OVd5-6, OV6-7, OV7-8, OV8-9, OV9-11, OVd11-12, 12a-20, 20A, 22-42, 48-60, 62-70, 73-74, 74A-75, 80-111, 113-122, 130-131, 134-135, 137-170, 172-176, 185, 185a-213, 218, 221-228, 236, 243-250, 257-268, 273, 281, 299-309, 312-330, 333-407</p>
+               <p>Boxes: 1, OV1-2, OV2, OVd2-3, OV3, OVd3-4, OV4-5, OV5, OVd5, OVd5-6, OV6-7, OV7-8, OV8-9, OV9-11, OVd11-12, 12a-20, 20A, 22-42, 48-60, 62-70, 73-74, 74A-75, 80-111, 113-122, 130-131, 134-135, 137-170, 172-176, 185, 185a-213, 218, 221-228, 236, 243-250, 257-268, 273, 281, 299-309, 312-330, 333-408</p>
                <p>Item: OVd5</p>
             </controlnote>
             <controlnote localtype="offsite">
@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-25T18:01:22-04:00</eventdatetime>
+            <eventdatetime>2026-09-28T18:01:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 25, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 28, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11278,13 +11278,13 @@
                   id="aspace_103c1c5b12c8cc443331d72fa657ea78"
                   level="subseries">
                   <did>
-                     <unittitle>Correspondence</unittitle>
+                     <unittitle>Letters of Falck to family and friends in the U.S.</unittitle>
                   </did>
                   <c altrender="/repositories/4/archival_objects/4057219"
                      id="aspace_57243f051bea8735c57699a89738900b"
                      level="file">
                      <did>
-                        <unittitle>Letters from Elizabeth to family and friends written from Lancaster General Hospital, PA and enroute to China</unittitle>
+                        <unittitle>Written from Lancaster General Hospital, PA and enroute to China</unittitle>
                         <unitdatestructured altrender="1919, 1921" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1919">1919</fromdate>
@@ -11305,11 +11305,14 @@
                      id="aspace_62ac46a3ec7767469a7f765b0ac157cf"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from Soochow</unittitle>
-                        <unitdatestructured altrender="1921 October - December"
+                        <unittitle>Written from Soochow [Suzhou]</unittitle>
+                        <unitdatestructured altrender="1921 October - 1922 June 13"
                                             label="creation"
                                             unitdatetype="inclusive">
-                           <datesingle standarddate="1921">NaN</datesingle>
+                           <daterange>
+                              <fromdate standarddate="1921">1921</fromdate>
+                              <todate standarddate="1922">1922</todate>
+                           </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/485181 /locations/2"
                                    containerid="39002112327284"
@@ -11318,34 +11321,14 @@
                                    localtype="box">405</container>
                         <container id="aspace_62ac46a3ec7767469a7f765b0ac157cf_c2"
                                    localtype="folder"
-                                   parent="aspace_62ac46a3ec7767469a7f765b0ac157cf_c1">2</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/4057221"
-                     id="aspace_2619b7d3790b8d0ae61f294c064a6b38"
-                     level="file">
-                     <did>
-                        <unittitle>Letters to family and friends written from Soochow</unittitle>
-                        <unitdatestructured altrender="1922 January - June 13"
-                                            label="creation"
-                                            unitdatetype="inclusive">
-                           <datesingle standarddate="1922">NaN</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/485181 /locations/2"
-                                   containerid="39002112327284"
-                                   id="aspace_2619b7d3790b8d0ae61f294c064a6b38_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">405</container>
-                        <container id="aspace_2619b7d3790b8d0ae61f294c064a6b38_c2"
-                                   localtype="folder"
-                                   parent="aspace_2619b7d3790b8d0ae61f294c064a6b38_c1">3</container>
+                                   parent="aspace_62ac46a3ec7767469a7f765b0ac157cf_c1">2-3</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4057224"
                      id="aspace_14d73e3714d4fd1c29897aefac5221fa"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends from St. Luke's Hospital, Shanghai and Kuling summer resort</unittitle>
+                        <unittitle>Written from St. Luke's Hospital, Shanghai and Kuling summer resort</unittitle>
                         <unitdatestructured altrender="1922 June 29 - December"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -11365,7 +11348,7 @@
                      id="aspace_38d79f6f2d3f94fe0a0bf5d97ae0dbc8"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from Shanghai</unittitle>
+                        <unittitle>Written from Shanghai</unittitle>
                         <unitdatestructured altrender="1923 January - June"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -11385,7 +11368,7 @@
                      id="aspace_c78c689040ce2e93b7c511c6ed0e316a"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from on vacation in Peking [Beijing]</unittitle>
+                        <unittitle>Written from on vacation in Peking [Beijing]</unittitle>
                         <unitdatestructured altrender="1923 July - August"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -11405,11 +11388,14 @@
                      id="aspace_f6e50ccee87c6cce186e5f278925deec"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from Shanghai</unittitle>
-                        <unitdatestructured altrender="1923 October - December"
+                        <unittitle>Written from Shanghai</unittitle>
+                        <unitdatestructured altrender="1923 September - 1925 June"
                                             label="creation"
                                             unitdatetype="inclusive">
-                           <datesingle standarddate="1923">NaN</datesingle>
+                           <daterange>
+                              <fromdate standarddate="1923">1923</fromdate>
+                              <todate standarddate="1925">1925</todate>
+                           </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/485181 /locations/2"
                                    containerid="39002112327284"
@@ -11418,37 +11404,14 @@
                                    localtype="box">405</container>
                         <container id="aspace_f6e50ccee87c6cce186e5f278925deec_c2"
                                    localtype="folder"
-                                   parent="aspace_f6e50ccee87c6cce186e5f278925deec_c1">7</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/4057228"
-                     id="aspace_fa94a331ba6ebede5a86397cd2ca6a49"
-                     level="file">
-                     <did>
-                        <unittitle>Letters to family and friends written from Shanghai</unittitle>
-                        <unitdatestructured altrender="1924-1925 June"
-                                            label="creation"
-                                            unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1924">1924</fromdate>
-                              <todate standarddate="1925-06">1925 June</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/485181 /locations/2"
-                                   containerid="39002112327284"
-                                   id="aspace_fa94a331ba6ebede5a86397cd2ca6a49_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">405</container>
-                        <container id="aspace_fa94a331ba6ebede5a86397cd2ca6a49_c2"
-                                   localtype="folder"
-                                   parent="aspace_fa94a331ba6ebede5a86397cd2ca6a49_c1">8</container>
+                                   parent="aspace_f6e50ccee87c6cce186e5f278925deec_c1">7-8</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4057229"
                      id="aspace_5982605e48206b279b6b4348eb535f06"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends returning to China after furlough and from Shanghai</unittitle>
+                        <unittitle>Written while returning to China after furlough and from Shanghai</unittitle>
                         <unitdatestructured altrender="1926 March - June"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -11468,7 +11431,7 @@
                      id="aspace_f11171e6f35bdfbb5ad051ffe1f922fc"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from Shanghai</unittitle>
+                        <unittitle>Written from Shanghai</unittitle>
                         <unitdatestructured altrender="1927 February - July"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -11488,7 +11451,7 @@
                      id="aspace_b6a8e7eae4ba0924a50556e2e6f8cfd1"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from on vacation in Korea and from Shanghai</unittitle>
+                        <unittitle>Written from on vacation in Korea and from Shanghai</unittitle>
                         <unitdatestructured altrender="1927 August - December"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -11508,7 +11471,7 @@
                      id="aspace_8da5b20fba31505dff2b2b3badcb8dd8"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written primarily from Shanghai</unittitle>
+                        <unittitle>Written primarily from Shanghai</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1928">1928</datesingle>
                         </unitdatestructured>
@@ -11526,7 +11489,7 @@
                      id="aspace_5bf0d28c0d1d5e5762d8c76e23fa8fa8"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from Shanghai</unittitle>
+                        <unittitle>Written from Shanghai</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1929">1929</fromdate>
@@ -11547,7 +11510,7 @@
                      id="aspace_5860fbbc3d328b78d8f420d18403da01"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from Shanghai and enroute to/from furlough in the U.S.</unittitle>
+                        <unittitle>Written from Shanghai and enroute to/from furlough in the U.S.</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1931">1931</datesingle>
                         </unitdatestructured>
@@ -11565,7 +11528,7 @@
                      id="aspace_72c0f8475d29733c7af294468b4c9839"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written from Shanghai and from on vacation in Tsingtau [Qingdao]</unittitle>
+                        <unittitle>Written from Shanghai and from on vacation in Tsingtau [Qingdao]</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1932">1932</datesingle>
                         </unitdatestructured>
@@ -11601,11 +11564,11 @@
                      id="aspace_b97df2b798c27ae4878ffbc8d590ab0b"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends written primarily from Shanghai</unittitle>
+                        <unittitle>Written primarily from Shanghai</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1934">1934</fromdate>
-                              <todate standarddate="1937">1937</todate>
+                              <todate standarddate="1940">1940</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/485187 /locations/2"
@@ -11615,53 +11578,14 @@
                                    localtype="box">406</container>
                         <container id="aspace_b97df2b798c27ae4878ffbc8d590ab0b_c2"
                                    localtype="folder"
-                                   parent="aspace_b97df2b798c27ae4878ffbc8d590ab0b_c1">5</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/4057252"
-                     id="aspace_a188deae851b09b8f2301229e251c08a"
-                     level="file">
-                     <did>
-                        <unittitle>Letters to family and friends written primarily from Shanghai</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1938">1938</fromdate>
-                              <todate standarddate="1939">1939</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/485187 /locations/2"
-                                   containerid="39002112327292"
-                                   id="aspace_a188deae851b09b8f2301229e251c08a_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">406</container>
-                        <container id="aspace_a188deae851b09b8f2301229e251c08a_c2"
-                                   localtype="folder"
-                                   parent="aspace_a188deae851b09b8f2301229e251c08a_c1">6</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/4057253"
-                     id="aspace_ced7ebf57bea76f4a36cffcaa3221836"
-                     level="file">
-                     <did>
-                        <unittitle>Letters written to family and friends written from Shanghai</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1940">1940</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/485187 /locations/2"
-                                   containerid="39002112327292"
-                                   id="aspace_ced7ebf57bea76f4a36cffcaa3221836_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">406</container>
-                        <container id="aspace_ced7ebf57bea76f4a36cffcaa3221836_c2"
-                                   localtype="folder"
-                                   parent="aspace_ced7ebf57bea76f4a36cffcaa3221836_c1">7</container>
+                                   parent="aspace_b97df2b798c27ae4878ffbc8d590ab0b_c1">5-7</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4057256"
                      id="aspace_119fd1d498cefeac9b1c1bf05dbacb20"
                      level="file">
                      <did>
-                        <unittitle>Letters written to family and friends from Shanghai, enroute and from refuge in Chengtu [Chengdu], return to Hong Kong</unittitle>
+                        <unittitle>Written to family and friends from Shanghai, enroute via Rangoon [Yangon] and from refuge in Chengtu [Chengdu], return to Hong Kong</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1941">1941</datesingle>
                         </unitdatestructured>
@@ -11679,7 +11603,7 @@
                      id="aspace_a505f68ab6a3d78729a633f6aa991a53"
                      level="file">
                      <did>
-                        <unittitle>Letters to family and friends including from Gripsholm on return to U.S., return to China, from Japan</unittitle>
+                        <unittitle>Including from Gripsholm on return to U.S., return to China, and from Japan</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1942">1942</fromdate>
@@ -11728,73 +11652,342 @@
                                    parent="aspace_b21795a2eeaac2697b968a54cbe28ee3_c1">1-2</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4057468"
+                     id="aspace_25872e26f4d1345c74619a0aa823e65a"
+                     level="file">
+                     <did>
+                        <unittitle>Letters to family and friends: fragments</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/485188 /locations/2"
+                                   containerid="39002112327300"
+                                   id="aspace_25872e26f4d1345c74619a0aa823e65a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">407</container>
+                        <container id="aspace_25872e26f4d1345c74619a0aa823e65a_c2"
+                                   localtype="folder"
+                                   parent="aspace_25872e26f4d1345c74619a0aa823e65a_c1">3-4</container>
+                     </did>
+                  </c>
                </c>
-               <c altrender="/repositories/4/archival_objects/115011"
-                  id="ref626"
-                  level="file">
+               <c altrender="/repositories/4/archival_objects/4057470"
+                  id="aspace_79803a072398dbf62a81ecc9f51489a9"
+                  level="subseries">
                   <did>
-                     <unittitle>Photographs re. various Chinese hospitals and patients</unittitle>
-                     <unitdatestructured altrender="1920-1938" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1920">1920</fromdate>
-                           <todate standarddate="1938">1938</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/11803 /locations/2"
-                                containerid="39002131150535"
-                                id="aspace_ref626_c1"
-                                label="Mixed Materials"
-                                localtype="box">65</container>
-                     <container id="aspace_ref626_c2" localtype="folder" parent="aspace_ref626_c1">4</container>
-                     <daoset altrender="/repositories/4/digital_objects/348651">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/manifests/33648518"
-                             identifier="oid:33648518"
-                             linktitle="39 images"
-                             linkrole="text-json"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/iiif/2/33648548/full/!150,150/0/default.jpg"
-                             identifier="oid:33648518"
-                             linktitle="39 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/33648518"
-                             identifier="oid:33648518"
-                             linktitle="39 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Photographs re. various Chinese hospitals and patients</p>
-                        </descriptivenote>
-                     </daoset>
+                     <unittitle>Other correspondence</unittitle>
                   </did>
+                  <c altrender="/repositories/4/archival_objects/4057472"
+                     id="aspace_681e4e97959a9358a2e1b233e11092c3"
+                     level="file">
+                     <did>
+                        <unittitle>Letters to Elizabeth Falck</unittitle>
+                        <unitdatestructured altrender="1914 - 1945, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1914">1914</fromdate>
+                              <todate standarddate="1945">1945</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485188 /locations/2"
+                                   containerid="39002112327300"
+                                   id="aspace_681e4e97959a9358a2e1b233e11092c3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">407</container>
+                        <container id="aspace_681e4e97959a9358a2e1b233e11092c3_c2"
+                                   localtype="folder"
+                                   parent="aspace_681e4e97959a9358a2e1b233e11092c3_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057473"
+                     id="aspace_357add3736f0bd61955172e833a7d85d"
+                     level="file">
+                     <did>
+                        <unittitle>Letters to Elizabeth's parents from Episcopal mission</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1921">1921</fromdate>
+                              <todate standarddate="1943">1943</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485188 /locations/2"
+                                   containerid="39002112327300"
+                                   id="aspace_357add3736f0bd61955172e833a7d85d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">407</container>
+                        <container id="aspace_357add3736f0bd61955172e833a7d85d_c2"
+                                   localtype="folder"
+                                   parent="aspace_357add3736f0bd61955172e833a7d85d_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057475"
+                     id="aspace_cee48622c8b1d9ca50c72ee3e46a41ad"
+                     level="file">
+                     <did>
+                        <unittitle>Correspondence of sisters Anna Mary and Catherine</unittitle>
+                        <unitdatestructured altrender="1939 - 1944, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1939">1939</fromdate>
+                              <todate standarddate="1944">1944</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485188 /locations/2"
+                                   containerid="39002112327300"
+                                   id="aspace_cee48622c8b1d9ca50c72ee3e46a41ad_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">407</container>
+                        <container id="aspace_cee48622c8b1d9ca50c72ee3e46a41ad_c2"
+                                   localtype="folder"
+                                   parent="aspace_cee48622c8b1d9ca50c72ee3e46a41ad_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057477"
+                     id="aspace_654d9111fae59e3d24a49ccfbb222c5a"
+                     level="file">
+                     <did>
+                        <unittitle>Postcards, primarily sent from Elizabeth to family and friends while enroute to or from China</unittitle>
+                        <container altrender="/repositories/4/top_containers/485188 /locations/2"
+                                   containerid="39002112327300"
+                                   id="aspace_654d9111fae59e3d24a49ccfbb222c5a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">407</container>
+                        <container id="aspace_654d9111fae59e3d24a49ccfbb222c5a_c2"
+                                   localtype="folder"
+                                   parent="aspace_654d9111fae59e3d24a49ccfbb222c5a_c1">8-9</container>
+                     </did>
+                  </c>
                </c>
-               <c altrender="/repositories/4/archival_objects/115012"
-                  id="ref627"
-                  level="file">
+               <c altrender="/repositories/4/archival_objects/4057992"
+                  id="aspace_09337e8bdfcf03f49d3ff0b1eea658d3"
+                  level="subseries">
                   <did>
-                     <unittitle>Printed Material: Chinese language hymnal</unittitle>
-                     <unitdatestructured altrender="1932-1941" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1932">1932</fromdate>
-                           <todate standarddate="1941">1941</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/11803 /locations/2"
-                                containerid="39002131150535"
-                                id="aspace_ref627_c1"
-                                label="Mixed Materials"
-                                localtype="box">65</container>
-                     <container id="aspace_ref627_c2" localtype="folder" parent="aspace_ref627_c1">5</container>
+                     <unittitle>Writings and notes</unittitle>
                   </did>
+                  <c altrender="/repositories/4/archival_objects/4057993"
+                     id="aspace_7581b1ecfa517f48873ba11f5ff9f8ee"
+                     level="file">
+                     <did>
+                        <unittitle>Miscellaneous sketches and poems, some by Falck</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/485188 /locations/2"
+                                   containerid="39002112327300"
+                                   id="aspace_7581b1ecfa517f48873ba11f5ff9f8ee_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">407</container>
+                        <container id="aspace_7581b1ecfa517f48873ba11f5ff9f8ee_c2"
+                                   localtype="folder"
+                                   parent="aspace_7581b1ecfa517f48873ba11f5ff9f8ee_c1">10-11</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057994"
+                     id="aspace_01dacf6396b0d3978fcd0421dfd91a92"
+                     level="file">
+                     <did>
+                        <unittitle>Written description and other material related to internment at Chapei Assembly Center and return home after release</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1942">1942</fromdate>
+                              <todate standarddate="1943">1943</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485188 /locations/2"
+                                   containerid="39002112327300"
+                                   id="aspace_01dacf6396b0d3978fcd0421dfd91a92_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">407</container>
+                        <container id="aspace_01dacf6396b0d3978fcd0421dfd91a92_c2"
+                                   localtype="folder"
+                                   parent="aspace_01dacf6396b0d3978fcd0421dfd91a92_c1">12</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4057485"
+                  id="aspace_61b5ab0e0c19603780e89e6ef4bf8c3a"
+                  level="subseries">
+                  <did>
+                     <unittitle>Memorabilia and collected material</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4057995"
+                     id="aspace_34ed9f39f87e627c819c6fc3d4c5cb49"
+                     level="file">
+                     <did>
+                        <unittitle>Biographical and health memorabilia</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1912">1912</fromdate>
+                              <todate standarddate="1942">1942</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485246 /locations/2"
+                                   containerid="39002112327318"
+                                   id="aspace_34ed9f39f87e627c819c6fc3d4c5cb49_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">408</container>
+                        <container id="aspace_34ed9f39f87e627c819c6fc3d4c5cb49_c2"
+                                   localtype="folder"
+                                   parent="aspace_34ed9f39f87e627c819c6fc3d4c5cb49_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057488"
+                     id="aspace_55fb4150c4d0091290dd95f7d7d982f8"
+                     level="file">
+                     <did>
+                        <unittitle>Issues of "China Bulletin" from National Council of the Protestant Episcopal Church</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1924">1924</fromdate>
+                              <todate standarddate="1942">1942</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485246 /locations/2"
+                                   containerid="39002112327318"
+                                   id="aspace_55fb4150c4d0091290dd95f7d7d982f8_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">408</container>
+                        <container id="aspace_55fb4150c4d0091290dd95f7d7d982f8_c2"
+                                   localtype="folder"
+                                   parent="aspace_55fb4150c4d0091290dd95f7d7d982f8_c1">2-4</container>
+                     </did>
+                     <scopecontent id="aspace_749d3a6e54019ff55448aaac49a1db60">
+                        <head>Scope and Contents</head>
+                        <p>Sixty-eight issues of the bulletin provide information about Episcopal missionary activities in China and the impact of political events.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057996"
+                     id="aspace_d38c9b816b73e56243b3df111ca0cf43"
+                     level="file">
+                     <did>
+                        <unittitle>Other Episcopal Church publications and service programs</unittitle>
+                        <unitdatestructured altrender="1922 -1941,undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1922">1922</fromdate>
+                              <todate standarddate="1941">1941</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485246 /locations/2"
+                                   containerid="39002112327318"
+                                   id="aspace_d38c9b816b73e56243b3df111ca0cf43_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">408</container>
+                        <container id="aspace_d38c9b816b73e56243b3df111ca0cf43_c2"
+                                   localtype="folder"
+                                   parent="aspace_d38c9b816b73e56243b3df111ca0cf43_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057997"
+                     id="aspace_c40a45b1cf1c5e51acf0af08d0af6e4c"
+                     level="file">
+                     <did>
+                        <unittitle>Regarding shipment of goods and ship voyages</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1922">1922</fromdate>
+                              <todate standarddate="1941">1941</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485246 /locations/2"
+                                   containerid="39002112327318"
+                                   id="aspace_c40a45b1cf1c5e51acf0af08d0af6e4c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">408</container>
+                        <container id="aspace_c40a45b1cf1c5e51acf0af08d0af6e4c_c2"
+                                   localtype="folder"
+                                   parent="aspace_c40a45b1cf1c5e51acf0af08d0af6e4c_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4057998"
+                     id="aspace_485fc278925ddf2b2d6cbb333bd48e41"
+                     level="file">
+                     <did>
+                        <unittitle>Clippings and memorabilia related to Shanghai during Sino-Japanese War</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">1937, undated</unitdate>
+                        <container altrender="/repositories/4/top_containers/485246 /locations/2"
+                                   containerid="39002112327318"
+                                   id="aspace_485fc278925ddf2b2d6cbb333bd48e41_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">408</container>
+                        <container id="aspace_485fc278925ddf2b2d6cbb333bd48e41_c2"
+                                   localtype="folder"
+                                   parent="aspace_485fc278925ddf2b2d6cbb333bd48e41_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/115012"
+                     id="ref627"
+                     level="file">
+                     <did>
+                        <unittitle>Printed Material: Chinese language hymnal</unittitle>
+                        <unitdatestructured altrender="1932-1941" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932">1932</fromdate>
+                              <todate standarddate="1941">1941</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11803 /locations/2"
+                                   containerid="39002131150535"
+                                   id="aspace_ref627_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">65</container>
+                        <container id="aspace_ref627_c2" localtype="folder" parent="aspace_ref627_c1">5</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4057486"
+                  id="aspace_4e5be9880ae980a9c33c9b6b9bde1c69"
+                  level="subseries">
+                  <did>
+                     <unittitle>Photographs</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/115011"
+                     id="ref626"
+                     level="file">
+                     <did>
+                        <unittitle>Photographs re. various Chinese hospitals and patients</unittitle>
+                        <unitdatestructured altrender="1920-1938" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1920">1920</fromdate>
+                              <todate standarddate="1938">1938</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/11803 /locations/2"
+                                   containerid="39002131150535"
+                                   id="aspace_ref626_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">65</container>
+                        <container id="aspace_ref626_c2" localtype="folder" parent="aspace_ref626_c1">4</container>
+                        <daoset altrender="/repositories/4/digital_objects/348651">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33648518"
+                                identifier="oid:33648518"
+                                linktitle="39 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33648548/full/!150,150/0/default.jpg"
+                                identifier="oid:33648518"
+                                linktitle="39 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33648518"
+                                identifier="oid:33648518"
+                                linktitle="39 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Photographs re. various Chinese hospitals and patients</p>
+                           </descriptivenote>
+                        </daoset>
+                     </did>
+                  </c>
                </c>
             </c>
             <c altrender="/repositories/4/archival_objects/115013"
