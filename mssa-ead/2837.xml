@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-28T05:26:55-04:00</eventdatetime>
+            <eventdatetime>2026-09-28T05:51:55-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 28, 2026 at 05:26</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 28, 2026 at 05:51</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -18671,26 +18671,6 @@
                   </daoset>
                </did>
             </c>
-            <c altrender="/repositories/12/archival_objects/958431"
-               id="ref1175"
-               level="item">
-               <did>
-                  <unittitle>3107: Yale Class Day with Hilary Clinton's Speech</unittitle>
-                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                     <quantity>1</quantity>
-                     <unittype>Videocassette (BetacamSP L)</unittype>
-                  </physdescstructured>
-                  <unitdatestructured altrender="2001 May 20" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="2001-05-20">2001 May 20</datesingle>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/110810 /locations/9"
-                             containerid="39002057036023"
-                             encodinganalog="video Beta"
-                             id="aspace_ref1175_c1"
-                             label="Mixed Materials"
-                             localtype="box">954</container>
-               </did>
-            </c>
             <c altrender="/repositories/12/archival_objects/958428"
                id="ref1169"
                level="item">
@@ -18768,6 +18748,26 @@
                         <p>[Aviary] ru0840s2009-a-156b590.u.mov</p>
                      </descriptivenote>
                   </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/958431"
+               id="ref1175"
+               level="item">
+               <did>
+                  <unittitle>3107: Yale Class Day with Hilary Clinton's Speech</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Videocassette (BetacamSP L)</unittype>
+                  </physdescstructured>
+                  <unitdatestructured altrender="2001 May 20" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2001-05-20">2001 May 20</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/110810 /locations/9"
+                             containerid="39002057036023"
+                             encodinganalog="video Beta"
+                             id="aspace_ref1175_c1"
+                             label="Mixed Materials"
+                             localtype="box">954</container>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/958432"
