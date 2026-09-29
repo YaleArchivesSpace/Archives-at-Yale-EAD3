@@ -62,10 +62,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-01T22:00:05-04:00</eventdatetime>
+            <eventdatetime>2026-09-28T22:01:06-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June  1, 2026 at 22:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 28, 2026 at 22:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -152,12 +152,20 @@
                   source="lcsh">
             <part localtype="topical">Electrotherapeutics</part>
          </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85082929"
+                  source="lcsh">
+            <part localtype="topical">Medical ethics</part>
+         </subject>
          <occupation source="local">
             <part localtype="occupation">Neurophysiologists</part>
          </occupation>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85091159"
                   source="lcsh">
             <part localtype="topical">Neurophysiology</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh89004340"
+                  source="lcsh">
+            <part localtype="topical">Philosophy of mind</part>
          </subject>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85101682"
                   source="lcsh">
