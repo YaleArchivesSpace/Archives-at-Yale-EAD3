@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-22T20:00:46-04:00</eventdatetime>
+            <eventdatetime>2026-09-28T20:01:02-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 22, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 28, 2026 at 20:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -16877,6 +16877,12 @@
                   level="file">
                   <did>
                      <unittitle>General Correspondence</unittitle>
+                     <container altrender="/repositories/6/top_containers/300460 /locations/9"
+                                containerid="39002119358746"
+                                id="aspace_G1753_c1"
+                                label="Mixed Materials"
+                                localtype="box">22</container>
+                     <container id="aspace_G1753_c2" localtype="folder" parent="aspace_G1753_c1">173</container>
                   </did>
                   <c altrender="/repositories/6/archival_objects/2547580"
                      id="aspace_G1754"
