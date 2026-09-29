@@ -65,10 +65,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T18:18:58-04:00</eventdatetime>
+            <eventdatetime>2026-09-29T18:00:42-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 18:18</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 29, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -165,16 +165,64 @@
                <did>
                   <unittitle>Arranged by text</unittitle>
                </did>
-               <c altrender="/repositories/4/archival_objects/2688369"
-                  id="aspace_bfc500fcd82c3fd7629df2c38932ac8d"
+               <c altrender="/repositories/4/archival_objects/4058100"
+                  id="aspace_8edc3046a9a09050e6187c155ef3447e"
                   level="file">
                   <did>
-                     <unittitle>Genesis 13:7-9 through Revelation 19:6</unittitle>
+                     <unittitle>Genesis to 2 Chronicles</unittitle>
                      <container altrender="/repositories/4/top_containers/309171 /locations/9"
                                 containerid="39002099037146"
-                                id="aspace_bfc500fcd82c3fd7629df2c38932ac8d_c1"
+                                id="aspace_8edc3046a9a09050e6187c155ef3447e_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <container id="aspace_8edc3046a9a09050e6187c155ef3447e_c2"
+                                localtype="folder"
+                                parent="aspace_8edc3046a9a09050e6187c155ef3447e_c1">1-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058101"
+                  id="aspace_3f334ec7ade8747e564cc417ef767bb7"
+                  level="file">
+                  <did>
+                     <unittitle>Job and Psalms to Amos, Jonah, Haggai, Malachi</unittitle>
+                     <container altrender="/repositories/4/top_containers/309171 /locations/9"
+                                containerid="39002099037146"
+                                id="aspace_3f334ec7ade8747e564cc417ef767bb7_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_3f334ec7ade8747e564cc417ef767bb7_c2"
+                                localtype="folder"
+                                parent="aspace_3f334ec7ade8747e564cc417ef767bb7_c1">5-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058102"
+                  id="aspace_e7a5e4863ef1083fa321b76ee531bb51"
+                  level="file">
+                  <did>
+                     <unittitle>Matthew and Mark to 1 and 2 Corinthians, Ephesians</unittitle>
+                     <container altrender="/repositories/4/top_containers/309171 /locations/9"
+                                containerid="39002099037146"
+                                id="aspace_e7a5e4863ef1083fa321b76ee531bb51_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_e7a5e4863ef1083fa321b76ee531bb51_c2"
+                                localtype="folder"
+                                parent="aspace_e7a5e4863ef1083fa321b76ee531bb51_c1">9-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058103"
+                  id="aspace_636862072c8e044ed09ea01acac6a8bd"
+                  level="file">
+                  <did>
+                     <unittitle>Philippians, Colossians, 2 Thessalonians, 2 Timothy, Hebrews to James, 2 Peter, 1 John, Jude, Revelation</unittitle>
+                     <container altrender="/repositories/4/top_containers/309171 /locations/9"
+                                containerid="39002099037146"
+                                id="aspace_636862072c8e044ed09ea01acac6a8bd_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_636862072c8e044ed09ea01acac6a8bd_c2"
+                                localtype="folder"
+                                parent="aspace_636862072c8e044ed09ea01acac6a8bd_c1">13-14</container>
                   </did>
                </c>
             </c>
@@ -184,40 +232,94 @@
                <did>
                   <unittitle>Arranged by date</unittitle>
                </did>
-               <c altrender="/repositories/4/archival_objects/2688370"
-                  id="aspace_8cd57a1f622152882667570bd9c86ef7"
+               <c altrender="/repositories/4/archival_objects/4058104"
+                  id="aspace_7eafd8d5ceb54a70cbfb4f6f4fab9f7c"
                   level="file">
                   <did>
-                     <unittitle>1813 September - 1815 September</unittitle>
-                     <unitdatestructured altrender="1813–1815" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1813">1813</fromdate>
-                           <todate standarddate="1815">1815</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>1813 July - 1814 October</unittitle>
                      <container altrender="/repositories/4/top_containers/309171 /locations/9"
                                 containerid="39002099037146"
-                                id="aspace_8cd57a1f622152882667570bd9c86ef7_c1"
+                                id="aspace_7eafd8d5ceb54a70cbfb4f6f4fab9f7c_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <container id="aspace_7eafd8d5ceb54a70cbfb4f6f4fab9f7c_c2"
+                                localtype="folder"
+                                parent="aspace_7eafd8d5ceb54a70cbfb4f6f4fab9f7c_c1">15-18</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/2688371"
-                  id="aspace_a86199e2b213665916dfe1db735246df"
+               <c altrender="/repositories/4/archival_objects/4058105"
+                  id="aspace_0df661580d8b757c8de4a0c018fffdd6"
                   level="file">
                   <did>
-                     <unittitle>1815 October - 1816 September</unittitle>
-                     <unitdatestructured altrender="1815–1816" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1815">1815</fromdate>
-                           <todate standarddate="1816">1816</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>1814 November - 1815 August</unittitle>
+                     <container altrender="/repositories/4/top_containers/309171 /locations/9"
+                                containerid="39002099037146"
+                                id="aspace_0df661580d8b757c8de4a0c018fffdd6_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_0df661580d8b757c8de4a0c018fffdd6_c2"
+                                localtype="folder"
+                                parent="aspace_0df661580d8b757c8de4a0c018fffdd6_c1">19-22</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058107"
+                  id="aspace_915d43d5f2f24f451b78f1735301da09"
+                  level="file">
+                  <did>
+                     <unittitle>1815 September</unittitle>
+                     <container altrender="/repositories/4/top_containers/309171 /locations/9"
+                                containerid="39002099037146"
+                                id="aspace_915d43d5f2f24f451b78f1735301da09_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_915d43d5f2f24f451b78f1735301da09_c2"
+                                localtype="folder"
+                                parent="aspace_915d43d5f2f24f451b78f1735301da09_c1">23</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058108"
+                  id="aspace_1257bbb6d6c3602f787e755433fbd099"
+                  level="file">
+                  <did>
+                     <unittitle>1815 October - 1815 December</unittitle>
                      <container altrender="/repositories/4/top_containers/309172 /locations/9"
                                 containerid="39002099037153"
-                                id="aspace_a86199e2b213665916dfe1db735246df_c1"
+                                id="aspace_1257bbb6d6c3602f787e755433fbd099_c1"
                                 label="Mixed Materials"
                                 localtype="box">2</container>
+                     <container id="aspace_1257bbb6d6c3602f787e755433fbd099_c2"
+                                localtype="folder"
+                                parent="aspace_1257bbb6d6c3602f787e755433fbd099_c1">1-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058109"
+                  id="aspace_d5031580fd698718e36886f0767d1464"
+                  level="file">
+                  <did>
+                     <unittitle>1816 January - March</unittitle>
+                     <container altrender="/repositories/4/top_containers/309172 /locations/9"
+                                containerid="39002099037153"
+                                id="aspace_d5031580fd698718e36886f0767d1464_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_d5031580fd698718e36886f0767d1464_c2"
+                                localtype="folder"
+                                parent="aspace_d5031580fd698718e36886f0767d1464_c1">5-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058110"
+                  id="aspace_64ffe7120160c033eeee1656dc37490d"
+                  level="file">
+                  <did>
+                     <unittitle>1816 April - September</unittitle>
+                     <container altrender="/repositories/4/top_containers/309172 /locations/9"
+                                containerid="39002099037153"
+                                id="aspace_64ffe7120160c033eeee1656dc37490d_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_64ffe7120160c033eeee1656dc37490d_c2"
+                                localtype="folder"
+                                parent="aspace_64ffe7120160c033eeee1656dc37490d_c1">9-11</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2688372"
