@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-19T03:08:39-04:00</eventdatetime>
+            <eventdatetime>2026-09-29T03:01:28-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 19, 2026 at 03:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 29, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -166,6 +166,12 @@
                      <quantity>1</quantity>
                      <unittype>Film Reel (16mm)</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>00:19:13</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <materialspec id="aspace_81fd867d568aea6dd5cf8dd548f68590">B+W Reversal; B+W Print; Silent; Acetate Base; Double Perforation; B-Wind; Camphor Odor; Shrunken; Edgewave; Twisty; Existing Splices; Rough Splices; Opening Splices; Perforation Damage; Tramlines; 16 FPS; 1930, 1931, 1932, and 1933 Kodak date codes; Scotch tape splices remade; debris in camera gate</materialspec>
                   <container altrender="/repositories/12/top_containers/91729 /locations/9"
                              containerid="39002063443072"
                              encodinganalog="film can (12d 1h 12w)"

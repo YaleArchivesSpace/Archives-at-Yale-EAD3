@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-26T03:01:31-04:00</eventdatetime>
+            <eventdatetime>2026-09-29T03:01:30-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday September 26, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 29, 2026 at 03:01</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -49352,12 +49352,17 @@ Debris in film gate. Black and white reversal.</materialspec>
                      <quantity>1</quantity>
                      <unittype>Film Reel (16mm)</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>00:27:59</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1981" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1981">1981</fromdate>
                         <todate standarddate="1981">1981</todate>
                      </daterange>
                   </unitdatestructured>
+                  <materialspec id="aspace_e295b28cac4d90f9ad35a1beaf3da594">Color Reversal; Composite Optical Soundtrack; Variable Area Soundtrack; Acetate Base; Single Perforation; A-Wind; 24 FPS; Existing Splices; Tramlines; Audio Hiss; Copy; 1981 Kodak date code; blue-purple color cast; color balance varies; debris in camera gate; soft focus in sections.</materialspec>
                   <container altrender="/repositories/12/top_containers/125987 /locations/9"
                              containerid="39002063417951"
                              encodinganalog="film can (12d 1h 12w)"
