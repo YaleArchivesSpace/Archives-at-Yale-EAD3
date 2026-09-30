@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="35">35</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="36">36</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-29T03:01:30-04:00</eventdatetime>
+            <eventdatetime>2026-09-30T03:00:39-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 29, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 03:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -49369,6 +49369,27 @@ Debris in film gate. Black and white reversal.</materialspec>
                              id="aspace_ref3457_c1"
                              label="Mixed Materials"
                              localtype="box">41</container>
+                  <daoset altrender="/repositories/12/digital_objects/357297">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                          identifier="aviary_180591"
+                          linktitle="[Aviary] Season highlights 1981"
+                          linkrole="image-thumbnail"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemssa.aviaryplatform.com/r/rr1pg1m24w"
+                          identifier="aviary_180591"
+                          linktitle="[Aviary] Season highlights 1981"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>[Aviary] Season highlights 1981</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_cdf2f98b9765c696c5317f64c49c824c"
                                localtype="RestrictedFragileSpecColl">
