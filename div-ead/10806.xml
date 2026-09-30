@@ -65,10 +65,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-29T18:00:42-04:00</eventdatetime>
+            <eventdatetime>2026-09-30T18:00:28-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 29, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -322,22 +322,49 @@
                                 parent="aspace_64ffe7120160c033eeee1656dc37490d_c1">9-11</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/2688372"
-                  id="aspace_169c508f905af29aaf98765b25728a3e"
+               <c altrender="/repositories/4/archival_objects/4058225"
+                  id="aspace_ec01a38eab49ca5fb5c684a057d34071"
                   level="file">
                   <did>
-                     <unittitle>1816 November - 1818 May</unittitle>
-                     <unitdatestructured altrender="1816–1818" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1816">1816</fromdate>
-                           <todate standarddate="1818">1818</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>1816 November - 1817 July</unittitle>
                      <container altrender="/repositories/4/top_containers/309173 /locations/9"
                                 containerid="39002099037161"
-                                id="aspace_169c508f905af29aaf98765b25728a3e_c1"
+                                id="aspace_ec01a38eab49ca5fb5c684a057d34071_c1"
                                 label="Mixed Materials"
                                 localtype="box">3</container>
+                     <container id="aspace_ec01a38eab49ca5fb5c684a057d34071_c2"
+                                localtype="folder"
+                                parent="aspace_ec01a38eab49ca5fb5c684a057d34071_c1">1-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058226"
+                  id="aspace_38df4d5626ad201d5cd8b3c22c0d305b"
+                  level="file">
+                  <did>
+                     <unittitle>1817 September - 1818 January</unittitle>
+                     <container altrender="/repositories/4/top_containers/309173 /locations/9"
+                                containerid="39002099037161"
+                                id="aspace_38df4d5626ad201d5cd8b3c22c0d305b_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_38df4d5626ad201d5cd8b3c22c0d305b_c2"
+                                localtype="folder"
+                                parent="aspace_38df4d5626ad201d5cd8b3c22c0d305b_c1">5-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4058227"
+                  id="aspace_3bccef42e20cfe1bdb96d76dd989bdd3"
+                  level="file">
+                  <did>
+                     <unittitle>1818 February - May</unittitle>
+                     <container altrender="/repositories/4/top_containers/309173 /locations/9"
+                                containerid="39002099037161"
+                                id="aspace_3bccef42e20cfe1bdb96d76dd989bdd3_c1"
+                                label="Mixed Materials"
+                                localtype="box">3</container>
+                     <container id="aspace_3bccef42e20cfe1bdb96d76dd989bdd3_c2"
+                                localtype="folder"
+                                parent="aspace_3bccef42e20cfe1bdb96d76dd989bdd3_c1">9-12</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2688373"

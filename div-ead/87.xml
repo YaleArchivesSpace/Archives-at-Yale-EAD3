@@ -39,7 +39,7 @@
                <p>This encoded findingaid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-15</p>
+               <p>Boxes: 1-15, 444</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="27">27</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1761">1,761</num> digital files.</p>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-25T18:02:29-04:00</eventdatetime>
+            <eventdatetime>2026-09-30T18:00:24-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 25, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3890,13 +3890,12 @@
                   id="ref250"
                   level="file">
                   <did>
-                     <unittitle>Slides: Misc.</unittitle>
-                     <container altrender="/repositories/4/top_containers/4380 /locations/9"
-                                containerid="39002035360677"
+                     <unittitle>35mm slides with additional film strip of images depicting Lu Ho School</unittitle>
+                     <container altrender="/repositories/4/top_containers/347948 /locations/9"
+                                containerid="39002109700980"
                                 id="aspace_ref250_c1"
                                 label="Mixed Materials"
-                                localtype="box">12</container>
-                     <container id="aspace_ref250_c2" localtype="folder" parent="aspace_ref250_c1">261</container>
+                                localtype="box">444</container>
                      <daoset altrender="/repositories/4/digital_objects/294648">
                         <dao actuate="onrequest"
                              audience="external"
@@ -3927,6 +3926,10 @@
                         </descriptivenote>
                      </daoset>
                   </did>
+                  <scopecontent id="aspace_5fe2517d947e14f49a2bd2563b58ab2c">
+                     <head>Scope and Contents</head>
+                     <p>The contents of this folder were formerly housed in Box 12, Folder 261.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/32160"
                   id="ref251"
