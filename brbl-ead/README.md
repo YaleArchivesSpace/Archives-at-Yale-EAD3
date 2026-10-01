@@ -1987,4 +1987,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.bptrial.xml](14106.xml) | beinecke.bptrial | GEN MSS 2168 | Black Panther Trial records | 
  [beinecke.williambird.xml](14115.xml) | beinecke.williambird | YCAL MSS 1562 | William Bird papers | 
  [beinecke.aos.xml](14117.xml) | beinecke.aos | GEN MSS 2169 | American Oriental Society archive | 
+ [beinecke.koheri.xml](14125.xml) | beinecke.koheri | GEN MSS 2167 | Hesung Chun Koh family papers and East Rock Institute records | 
 
