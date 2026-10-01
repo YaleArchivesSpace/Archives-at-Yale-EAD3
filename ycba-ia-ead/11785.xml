@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-30T18:00:23-04:00</eventdatetime>
+            <eventdatetime>2026-10-01T18:01:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -93,10 +93,7 @@
             <unittype>Linear Feet</unittype>
          </physdescstructured>
          <physdesc localtype="container_summary">(1 document box)</physdesc>
-         <unitdatestructured altrender="circa 1840-1851"
-                             certainty="approximate"
-                             label="creation"
-                             unitdatetype="inclusive">
+         <unitdatestructured certainty="approximate" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1840">1840</fromdate>
                <todate standarddate="1865">1865</todate>
