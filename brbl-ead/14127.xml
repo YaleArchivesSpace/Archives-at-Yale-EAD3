@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/beinecke.kibbutz">beinecke.kibbutz</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to Kibbutz and Ephemeral Haggadot from Israel and the Yishuv Collection </titleproper>
+            <titleproper localtype="filing">Kibbutz and Ephemeral Haggadot from Israel and the Yishuv Collection</titleproper>
+            <author>by Tali Winkler</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline localtype="telephone">(203) 432-2977 </addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://beinecke.library.yale.edu/"
+                       linktitle="http://beinecke.library.yale.edu/"
+                       show="new">http://beinecke.library.yale.edu/</ref>
+               </addressline>
+            </address>
+            <date>September 2026</date>
+            <num>YCAL GEN MSS 2171</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote localtype="onsite">
+               <p>Boxes: 1-5</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency countrycode="US">
+         <agencycode>US-CtY-BR</agencycode>
+         <agencyname>Beinecke Rare Book and Manuscript Library</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+         <descriptivenote>
+            <p>Finding aid written in English and Hebrew.</p>
+         </descriptivenote>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>in_progress</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-10-01T23:04:37-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 23:04</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/11/resources/14127" level="collection">
+      <did>
+         <unittitle>Kibbutz and Ephemeral Haggadot from Israel and the Yishuv Collection</unittitle>
+         <unitid>YCAL GEN MSS 2171</unitid>
+         <repository>
+            <corpname>
+               <part>Beinecke Rare Book and Manuscript Library</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <languageset>
+               <language langcode="heb">Hebrew</language>
+               <script scriptcode="Hebr">Hebrew</script>
+            </languageset>
+            <languageset>
+               <language langcode="yid">Yiddish</language>
+               <script scriptcode="Hebr">Hebrew</script>
+            </languageset>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>1.92</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">(5 containers)</physdesc>
+         <unitdatestructured altrender="1937-1979" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1937">1937</fromdate>
+               <todate standarddate="1979">1979</todate>
+            </daterange>
+         </unitdatestructured>
+      </did>
+      <accessrestrict id="aspace_8c3112beddc84509fe42895c31ceaaa0">
+         <head>Conditions Governing Access</head>
+         <p>This collection is open for research.</p>
+      </accessrestrict>
+      <bioghist id="aspace_cde1835996f25af55d2efc2a0ffd7685">
+         <head>Biographical / Historical</head>
+         <p>This collection primarily contains haggadot (singular: haggadah) from the Yishuv and the State of Israel. A haggadah is the text that is recited at the Passover seder. The traditional text was largely standardized by the Middle Ages, and it was frequently reproduced in both manuscript and print throughout the centuries.</p>
+         <p>In the 20th century, various Jewish groups decided to change the text for their own religious or political purposes. This phenomenon was especially prevalent on kibbutzim (singular: kibbutz), collective communities in the Yishuv and in the State of Israel. The leaders of the kibbutzim recognized the power of the Passover seder and the redemption narrative in the effort to create their own national narrative, as well as the power of a collective communal performance of a ritual. The text of the haggadah thus became a vehicle for creativity and identity-formation.</p>
+         <p>Hundreds of kibbutz haggadot were created, with over 500 editions between 1930 and 1960, and they were each slightly different. The themes of spring, agriculture, and working the land were prominently featured, drawing on both biblical verses as well as medieval and contemporary Hebrew poetry. Another prominent theme was the exile in and subsequent exodus from Egypt. While this theme is central in the traditional text, these haggadot removed the rabbinic texts that traditionally told the story and replaced them with excerpts from the biblical book of Exodus, highlighting Moses's role in the redemption and often removing God from any part of the story. These kibbutz haggadot then located their current historical moment in the arc of Jewish history, often describing contemporary historical events in Biblical Hebrew and relaying their own experience moving from slavery or persecution to freedom. They incorporated modern Hebrew literature and poetry from writers such as Hayyim Nahman Bialik (1873-1934), Saul Tchernichowsky (1875-1943), Hannah Senesh (1921-1944), Nathan Alterman (1910-1970), and others. Descriptions of or references to World War II, the Holocaust, the establishment of the State of Israel, and subsequent wars are all common, and capture the specific historical moment the authors were experiencing.</p>
+         <p>The texts are often, though not always, beautifully illustrated, in a variety of styles. Earlier haggadot were created using mimeography or offset lithography, while later they were professionally printed and illustrated.</p>
+         <p>Kibbutzim were mostly socialist and secular in nature, with an emphasis on the value of labor, agriculture, and the return of the Jews to the land of Israel. Their communities functioned as participatory democracies. Within the kibbutz movement, there were differing political affiliations, social characters, and religious outlooks, and these contributed to an ever-changing landscape of federations of different groups of kibbutzim. Kibbutzim and their residents contributed significantly to pre-State and Israeli society, economy, culture, politics, and security.</p>
+         <p>The Yishuv refers to the Jewish population living in Palestine before the State of Israel was established in 1948. This includes the Jewish population under both Ottoman control before World War I and under Mandatory British control after World War I until 1948.</p>
+      </bioghist>
+      <scopecontent id="aspace_3a8de8fb9ac5645b5d5a71689d504e7a">
+         <head>Scope and Contents</head>
+         <p>The Kibbutz and Ephemeral Haggadot from Israel and the Yishuv Collection [1937-1979] contains haggadot (singular: haggadah), the text that is recited at the Passover seder, from the Yishuv and the State of Israel. Most are from kibbutzim from the Yishuv and from Israel, though some are from other organizations such as larger kibbutz movements, newspapers, the military, etc. They span the years 1937-1979, with 2/3 of them from the 1940s and 1950s. All are in Hebrew except one which is in Yiddish. Most of them are illustrated. The collection also includes one songbook that contains songs for Passover and was intended to supplement the accompanying haggadah from that year. These ephemeral haggadot were intended to be used for one year alone, as the kibbutzim would issue new ones each year.</p>
+      </scopecontent>
+      <arrangement id="aspace_eb90112500ea3f940513e6ac3ffc1ca9">
+         <head>Arrangement</head>
+         <p>The folders are arranged alphabetically according to the Hebrew alphabet by name of kibbutz or publishing institution. The name of the kibbutz or publishing institution is indicated in both the vernacular Hebrew script and the transliterated form.</p>
+      </arrangement>
+      <acqinfo id="aspace_e3f059044f9a6cbddab50a8652ccc865">
+         <head>Immediate Source of Acquisition</head>
+         <p>Acquired from the librarian for Jewish Studies.</p>
+      </acqinfo>
+      <prefercite id="aspace_eafa640813f227875fcc3ced65112ef4">
+         <head>Preferred Citation</head>
+         <p>Kibbutz and Ephemeral Haggadot from Israel and the Yishuv Collection. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>
+      </prefercite>
+      <userestrict id="aspace_91db716cd7d799f1c9f1b6e10370a892">
+         <head>Conditions Governing Use</head>
+         <p>Copyright status for collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
+      </userestrict>
+      <processinfo id="aspace_2a647f0b7826064adb8ffda6a6df7c99">
+         <head>Processing Information</head>
+         <p>Collections are processed to a variety of levels, depending on the work necessary to make them usable, their perceived research value, the availability of staff, competing priorities, and whether or not further accruals are expected.  The library attempts to provide a basic level of preservation and access for all collections, and does more extensive processing of higher priority collections as time and resources permit. These materials have been arranged and described according to national and local standards.  For more information, please refer to the Yale Archival Processing Manual.</p>
+      </processinfo>
+      <controlaccess>
+         <subject source="lcsh">
+            <part localtype="topical">Kibbutz haggadot</part>
+         </subject>
+         <subject source="lcsh">
+            <part localtype="topical">Haggadot</part>
+            <part localtype="genre_form">Adaptations</part>
+         </subject>
+         <subject source="lcsh">
+            <part localtype="topical">Passover</part>
+            <part localtype="function">Prayers and devotions</part>
+         </subject>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/11/archival_objects/4056079"
+            id="aspace_dad49a6e9c9351f6a09eae35900311a7"
+            level="file">
+            <did>
+               <unittitle>אורים, קבוצת = Urim, Ḳevutsat</unittitle>
+               <unitdatestructured altrender="1959" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1959">1959</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_dad49a6e9c9351f6a09eae35900311a7_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_dad49a6e9c9351f6a09eae35900311a7_c2"
+                          localtype="folder"
+                          parent="aspace_dad49a6e9c9351f6a09eae35900311a7_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056080"
+            id="aspace_4fbffec995b3ff55193f643878ce0137"
+            level="file">
+            <did>
+               <unittitle>אושה = Usha</unittitle>
+               <unitdatestructured altrender="1942" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1942">1942</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_4fbffec995b3ff55193f643878ce0137_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_4fbffec995b3ff55193f643878ce0137_c2"
+                          localtype="folder"
+                          parent="aspace_4fbffec995b3ff55193f643878ce0137_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056057"
+            id="aspace_a706287a2b735fbddb2b934fffcf9169"
+            level="file">
+            <did>
+               <unittitle>איחוד הקבוצות והקבוצים = Iḥud ha-ḳevutsot ṿeha-ḳibutsim</unittitle>
+               <unitdatestructured altrender="1953, before 1962, undated"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1953">1953</fromdate>
+                     <todate standarddate="1962">1962</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_a706287a2b735fbddb2b934fffcf9169_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_a706287a2b735fbddb2b934fffcf9169_c2"
+                          localtype="folder"
+                          parent="aspace_a706287a2b735fbddb2b934fffcf9169_c1">3-4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056038"
+            id="aspace_0813798bc5f3ee7fbcf49b4e47c01d35"
+            level="file">
+            <did>
+               <unittitle>איילת השחר = Ayelet ha-Shaḥar</unittitle>
+               <unitdatestructured altrender="1952" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1952">1952</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_0813798bc5f3ee7fbcf49b4e47c01d35_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_0813798bc5f3ee7fbcf49b4e47c01d35_c2"
+                          localtype="folder"
+                          parent="aspace_0813798bc5f3ee7fbcf49b4e47c01d35_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056034"
+            id="aspace_40870a0fa11f75c98d592f4453e7f734"
+            level="file">
+            <did>
+               <unittitle>אלונים = Alonim</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_40870a0fa11f75c98d592f4453e7f734_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_40870a0fa11f75c98d592f4453e7f734_c2"
+                          localtype="folder"
+                          parent="aspace_40870a0fa11f75c98d592f4453e7f734_c1">6</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056035"
+            id="aspace_71f6821393864abd74d3312ff4ba98bb"
+            level="file">
+            <did>
+               <unittitle>אלונים? = Alonim?</unittitle>
+               <unitdatestructured altrender="before 1960" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1960">1960</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_71f6821393864abd74d3312ff4ba98bb_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_71f6821393864abd74d3312ff4ba98bb_c2"
+                          localtype="folder"
+                          parent="aspace_71f6821393864abd74d3312ff4ba98bb_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056033"
+            id="aspace_a451fb2d47b1fa3b0400c539328f8acf"
+            level="file">
+            <did>
+               <unittitle>אפיקים = Afiḳim</unittitle>
+               <unitdatestructured altrender="1946" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1946">1946</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_a451fb2d47b1fa3b0400c539328f8acf_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_a451fb2d47b1fa3b0400c539328f8acf_c2"
+                          localtype="folder"
+                          parent="aspace_a451fb2d47b1fa3b0400c539328f8acf_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056037"
+            id="aspace_75ee882001a4a76b0c0ca0ecd9ab7120"
+            level="file">
+            <did>
+               <unittitle>אשדות יעקב = Ashdot Yaʻaḳov</unittitle>
+               <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1949">1949</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_75ee882001a4a76b0c0ca0ecd9ab7120_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_75ee882001a4a76b0c0ca0ecd9ab7120_c2"
+                          localtype="folder"
+                          parent="aspace_75ee882001a4a76b0c0ca0ecd9ab7120_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056040"
+            id="aspace_8bda60990d5200e5f64cef09595a94fb"
+            level="file">
+            <did>
+               <unittitle>בית הספר גיבורי ישראל = Bet ha-Sefer Gibore Yiśraʼel</unittitle>
+               <unitdatestructured altrender="1959, circa 1968"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1959">1959</fromdate>
+                     <todate standarddate="1968">1968</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_8bda60990d5200e5f64cef09595a94fb_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_8bda60990d5200e5f64cef09595a94fb_c2"
+                          localtype="folder"
+                          parent="aspace_8bda60990d5200e5f64cef09595a94fb_c1">10</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056039"
+            id="aspace_21b7ec705f07c3f59b28e058e60539a0"
+            level="file">
+            <did>
+               <unittitle>בית השיטה = Bet-ha-Shiṭah</unittitle>
+               <unitdatestructured altrender="1940, 1945, 1947"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1940">1940</fromdate>
+                     <todate standarddate="1947">1947</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_21b7ec705f07c3f59b28e058e60539a0_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_21b7ec705f07c3f59b28e058e60539a0_c2"
+                          localtype="folder"
+                          parent="aspace_21b7ec705f07c3f59b28e058e60539a0_c1">11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056049"
+            id="aspace_97c0295a1f78ebb6d8ea5070953cef6c"
+            level="file">
+            <did>
+               <unittitle>גבעות זייד = Gevaʻot Zeid</unittitle>
+               <unitdatestructured altrender="1950" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1950">1950</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_97c0295a1f78ebb6d8ea5070953cef6c_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_97c0295a1f78ebb6d8ea5070953cef6c_c2"
+                          localtype="folder"
+                          parent="aspace_97c0295a1f78ebb6d8ea5070953cef6c_c1">12</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056052"
+            id="aspace_ff26bd1999d06157303d68d11b729b6a"
+            level="file">
+            <did>
+               <unittitle>גבעת ברנר = Givʻat Brener</unittitle>
+               <unitdatestructured altrender="1937, 1941, 1942"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1937">1937</fromdate>
+                     <todate standarddate="1942">1942</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485142"
+                          containerid="39002140940942"
+                          encodinganalog="archive legal"
+                          id="aspace_ff26bd1999d06157303d68d11b729b6a_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_ff26bd1999d06157303d68d11b729b6a_c2"
+                          localtype="folder"
+                          parent="aspace_ff26bd1999d06157303d68d11b729b6a_c1">13</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056053"
+            id="aspace_a3410b7d9c19aad09616af1ea189194e"
+            level="file">
+            <did>
+               <unittitle>גברעם = Gvarʻam</unittitle>
+               <unitdatestructured altrender="1947, 1949, 1951, 1952, 1953, 1954"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1947">1947</fromdate>
+                     <todate standarddate="1954">1954</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_a3410b7d9c19aad09616af1ea189194e_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_a3410b7d9c19aad09616af1ea189194e_c2"
+                          localtype="folder"
+                          parent="aspace_a3410b7d9c19aad09616af1ea189194e_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056050"
+            id="aspace_965feccfa256a0e3cdc3e4898b488047"
+            level="file">
+            <did>
+               <unittitle>גבת = Gevat</unittitle>
+               <unitdatestructured altrender="1961" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1961">1961</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_965feccfa256a0e3cdc3e4898b488047_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_965feccfa256a0e3cdc3e4898b488047_c2"
+                          localtype="folder"
+                          parent="aspace_965feccfa256a0e3cdc3e4898b488047_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056051"
+            id="aspace_5c343a71cc253248c2c45f7659ae4a2a"
+            level="file">
+            <did>
+               <unittitle>גניגר = Ginegar</unittitle>
+               <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1949">1949</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_5c343a71cc253248c2c45f7659ae4a2a_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_5c343a71cc253248c2c45f7659ae4a2a_c2"
+                          localtype="folder"
+                          parent="aspace_5c343a71cc253248c2c45f7659ae4a2a_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056047"
+            id="aspace_03aa948ec17d9f07830ef0b2f7b9991c"
+            level="file">
+            <did>
+               <unittitle>גשר = Gesher</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_03aa948ec17d9f07830ef0b2f7b9991c_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_03aa948ec17d9f07830ef0b2f7b9991c_c2"
+                          localtype="folder"
+                          parent="aspace_03aa948ec17d9f07830ef0b2f7b9991c_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056048"
+            id="aspace_86396e874c60f3bd3ecfd420a7cfe8b6"
+            level="file">
+            <did>
+               <unittitle>גשר הזיו = Gesher ha-Ziṿ</unittitle>
+               <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1949">1949</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_86396e874c60f3bd3ecfd420a7cfe8b6_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_86396e874c60f3bd3ecfd420a7cfe8b6_c2"
+                          localtype="folder"
+                          parent="aspace_86396e874c60f3bd3ecfd420a7cfe8b6_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056042"
+            id="aspace_b7d3d6bfa14d9a9104f10571bef26c2b"
+            level="file">
+            <did>
+               <unittitle>דגניה א = Deganyah Alef</unittitle>
+               <unitdatestructured altrender="1970" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1970">1970</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_b7d3d6bfa14d9a9104f10571bef26c2b_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_b7d3d6bfa14d9a9104f10571bef26c2b_c2"
+                          localtype="folder"
+                          parent="aspace_b7d3d6bfa14d9a9104f10571bef26c2b_c1">6</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056043"
+            id="aspace_186b22ddd9e6ffa2053464f5df35a08e"
+            level="file">
+            <did>
+               <unittitle>דגניה ב = Deganyah Bet</unittitle>
+               <unitdatestructured altrender="1950, 1956" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1950">1950</fromdate>
+                     <todate standarddate="1956">1956</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_186b22ddd9e6ffa2053464f5df35a08e_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_186b22ddd9e6ffa2053464f5df35a08e_c2"
+                          localtype="folder"
+                          parent="aspace_186b22ddd9e6ffa2053464f5df35a08e_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056068"
+            id="aspace_32f76d1cf39aafe70802efd136fedbc2"
+            level="file">
+            <did>
+               <unittitle>הגנה = Haganah (Organization)</unittitle>
+               <unitdatestructured altrender="1948" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1948">1948</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_32f76d1cf39aafe70802efd136fedbc2_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_32f76d1cf39aafe70802efd136fedbc2_c2"
+                          localtype="folder"
+                          parent="aspace_32f76d1cf39aafe70802efd136fedbc2_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056055"
+            id="aspace_63c31612f8105165491c5677adf97380"
+            level="file">
+            <did>
+               <unittitle>הסתדרות הכללית של העובדים בארץ ישראל = Histadrut ha-kelalit shel ha-ʻovdim be-Erets-Yiśraʼel</unittitle>
+               <unitdatestructured altrender="1943, 1945, after 1948"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1943">1943</fromdate>
+                     <todate standarddate="1948">1948</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_63c31612f8105165491c5677adf97380_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_63c31612f8105165491c5677adf97380_c2"
+                          localtype="folder"
+                          parent="aspace_63c31612f8105165491c5677adf97380_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056056"
+            id="aspace_5464b9fb7fa66a74b87d18443fa17b78"
+            level="file">
+            <did>
+               <unittitle>חולדה, קבוצת = Ḥuldah, Ḳevutsat</unittitle>
+               <unitdatestructured altrender="1959, circa 1973"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1959">1959</fromdate>
+                     <todate standarddate="1973">1973</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_5464b9fb7fa66a74b87d18443fa17b78_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_5464b9fb7fa66a74b87d18443fa17b78_c2"
+                          localtype="folder"
+                          parent="aspace_5464b9fb7fa66a74b87d18443fa17b78_c1">10</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056054"
+            id="aspace_ff3a2d4c5c5770e32d195298b1a80f3b"
+            level="file">
+            <did>
+               <unittitle>חפצי-בה = Ḥeftsi Bah</unittitle>
+               <unitdatestructured altrender="1949, 1951" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1949">1949</fromdate>
+                     <todate standarddate="1951">1951</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_ff3a2d4c5c5770e32d195298b1a80f3b_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_ff3a2d4c5c5770e32d195298b1a80f3b_c2"
+                          localtype="folder"
+                          parent="aspace_ff3a2d4c5c5770e32d195298b1a80f3b_c1">11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056081"
+            id="aspace_a87e7a4b6546f8caef8d08deaf9d97f2"
+            level="file">
+            <did>
+               <unittitle>יגור = Yagur</unittitle>
+               <unitdatestructured altrender="1945, 1951" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1945">1945</fromdate>
+                     <todate standarddate="1951">1951</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485143"
+                          containerid="39002140940959"
+                          encodinganalog="archive legal"
+                          id="aspace_a87e7a4b6546f8caef8d08deaf9d97f2_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+               <container id="aspace_a87e7a4b6546f8caef8d08deaf9d97f2_c2"
+                          localtype="folder"
+                          parent="aspace_a87e7a4b6546f8caef8d08deaf9d97f2_c1">12</container>
+            </did>
+            <scopecontent id="aspace_53e56d6b4dfb93873261500bf260f9dc">
+               <head>Scope and Contents</head>
+               <p>Also includes two haggadot that are "Nusakh Yagur" rather than strictly from the kibbutz itself.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056082"
+            id="aspace_f05441e2d55dde83f2f92971f695ba32"
+            level="file">
+            <did>
+               <unittitle>ידיעות אחרונות = Yediʻot aḥaronot (newspaper)</unittitle>
+               <unitdatestructured altrender="after 1951, circa 1966"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1951">1951</fromdate>
+                     <todate standarddate="1966">1966</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_f05441e2d55dde83f2f92971f695ba32_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_f05441e2d55dde83f2f92971f695ba32_c2"
+                          localtype="folder"
+                          parent="aspace_f05441e2d55dde83f2f92971f695ba32_c1">1</container>
+            </did>
+            <scopecontent id="aspace_51b6f7ba7e1d7cea510e399ef453460d">
+               <head>Scope and Contents</head>
+               <p>Dates for the "after 1951" edition based on the founding date of the partnering winery.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056083"
+            id="aspace_b15b45291dade3419e6e18c3c6310f45"
+            level="file">
+            <did>
+               <unittitle>יפעת = Yifʻat</unittitle>
+               <unitdatestructured altrender="1956, 1958, 1960"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1956">1956</fromdate>
+                     <todate standarddate="1960">1960</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_b15b45291dade3419e6e18c3c6310f45_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_b15b45291dade3419e6e18c3c6310f45_c2"
+                          localtype="folder"
+                          parent="aspace_b15b45291dade3419e6e18c3c6310f45_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056064"
+            id="aspace_8cd2c3a602aa5b2530d0700253511251"
+            level="file">
+            <did>
+               <unittitle>כנרת, קבוצת = Kineret, Ḳevutsat</unittitle>
+               <unitdatestructured altrender="1946, after 1948"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1946">1946</fromdate>
+                     <todate standarddate="1949">1949</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_8cd2c3a602aa5b2530d0700253511251_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_8cd2c3a602aa5b2530d0700253511251_c2"
+                          localtype="folder"
+                          parent="aspace_8cd2c3a602aa5b2530d0700253511251_c1">3</container>
+            </did>
+            <scopecontent id="aspace_d4734f25cb3fd29076d1018bfcfbfb0c">
+               <head>Scope and Contents</head>
+               <p>Cover of 1946 haggadah has been detached and put into mylar sleeve.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056059"
+            id="aspace_37ac7d060dcc00d3733bea9a85fbcfd2"
+            level="file">
+            <did>
+               <unittitle>כפר גלעדי = Kefar Gilʻadi</unittitle>
+               <unitdatestructured altrender="1950" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1950">1950</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_37ac7d060dcc00d3733bea9a85fbcfd2_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_37ac7d060dcc00d3733bea9a85fbcfd2_c2"
+                          localtype="folder"
+                          parent="aspace_37ac7d060dcc00d3733bea9a85fbcfd2_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056060"
+            id="aspace_71967b114c1cb477a78bf95e1796fcd6"
+            level="file">
+            <did>
+               <unittitle>כפר גלעדי תל חי = Kefar Gilʻadi Tel Ḥai</unittitle>
+               <unitdatestructured altrender="1946" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1946">1946</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_71967b114c1cb477a78bf95e1796fcd6_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_71967b114c1cb477a78bf95e1796fcd6_c2"
+                          localtype="folder"
+                          parent="aspace_71967b114c1cb477a78bf95e1796fcd6_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056061"
+            id="aspace_676538f5259d15e17b7ad1af13ad2ac2"
+            level="file">
+            <did>
+               <unittitle>כפר הנוער מאיר שפיה = Kefar ha-Noʻar Meʼir Shefeyah</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_676538f5259d15e17b7ad1af13ad2ac2_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_676538f5259d15e17b7ad1af13ad2ac2_c2"
+                          localtype="folder"
+                          parent="aspace_676538f5259d15e17b7ad1af13ad2ac2_c1">6</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056067"
+            id="aspace_9b820b00f5ac4e95a0caf8647acb7516"
+            level="file">
+            <did>
+               <unittitle>מעיין ברוך = Maʻyan Barukh</unittitle>
+               <unitdatestructured altrender="1949" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1949">1949</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_9b820b00f5ac4e95a0caf8647acb7516_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_9b820b00f5ac4e95a0caf8647acb7516_c2"
+                          localtype="folder"
+                          parent="aspace_9b820b00f5ac4e95a0caf8647acb7516_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056065"
+            id="aspace_384833f3ee13252281b2731b797ce162"
+            level="file">
+            <did>
+               <unittitle>מעלה החמישה = Maʻaleh ha-Ḥamishah</unittitle>
+               <unitdatestructured altrender="1946" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1946">1946</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_384833f3ee13252281b2731b797ce162_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_384833f3ee13252281b2731b797ce162_c2"
+                          localtype="folder"
+                          parent="aspace_384833f3ee13252281b2731b797ce162_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056066"
+            id="aspace_b100f0519989c303d8300fd9f1fd4a3f"
+            level="file">
+            <did>
+               <unittitle>מעריב = Maʻariv (newspaper)</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_b100f0519989c303d8300fd9f1fd4a3f_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_b100f0519989c303d8300fd9f1fd4a3f_c2"
+                          localtype="folder"
+                          parent="aspace_b100f0519989c303d8300fd9f1fd4a3f_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056069"
+            id="aspace_499681173b78e345d3d7f7885cb516d1"
+            level="file">
+            <did>
+               <unittitle>נען = Naʻan</unittitle>
+               <unitdatestructured altrender="1937–1951" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1937">1937</fromdate>
+                     <todate standarddate="1951">1951</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_499681173b78e345d3d7f7885cb516d1_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_499681173b78e345d3d7f7885cb516d1_c2"
+                          localtype="folder"
+                          parent="aspace_499681173b78e345d3d7f7885cb516d1_c1">10-11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056075"
+            id="aspace_05e9f5ecc69542c5f31cd5afa285bf21"
+            level="file">
+            <did>
+               <unittitle>ספרי = Sifre (publisher)</unittitle>
+               <unitdatestructured altrender="1950, 1951" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1950">1950</fromdate>
+                     <todate standarddate="1951">1951</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_05e9f5ecc69542c5f31cd5afa285bf21_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_05e9f5ecc69542c5f31cd5afa285bf21_c2"
+                          localtype="folder"
+                          parent="aspace_05e9f5ecc69542c5f31cd5afa285bf21_c1">12</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056044"
+            id="aspace_b106124b93dee46bb232df89c1cef357"
+            level="file">
+            <did>
+               <unittitle>עין-גב = ʻEn-Gev</unittitle>
+               <unitdatestructured altrender="1955" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1955">1955</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485144"
+                          containerid="39002140940967"
+                          encodinganalog="archive legal"
+                          id="aspace_b106124b93dee46bb232df89c1cef357_c1"
+                          label="Mixed Materials"
+                          localtype="box">3</container>
+               <container id="aspace_b106124b93dee46bb232df89c1cef357_c2"
+                          localtype="folder"
+                          parent="aspace_b106124b93dee46bb232df89c1cef357_c1">13</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056045"
+            id="aspace_46c781968839cc36f8f04d2a9864f045"
+            level="file">
+            <did>
+               <unittitle>עין חרוד = ʻEn Ḥarod</unittitle>
+               <unitdatestructured altrender="1950, 1954, 1959"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1950">1950</fromdate>
+                     <todate standarddate="1959">1959</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_46c781968839cc36f8f04d2a9864f045_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_46c781968839cc36f8f04d2a9864f045_c2"
+                          localtype="folder"
+                          parent="aspace_46c781968839cc36f8f04d2a9864f045_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056036"
+            id="aspace_1c57157569cf12395676af5675fb75eb"
+            level="file">
+            <did>
+               <unittitle>עמיר = ʻAmir</unittitle>
+               <unitdatestructured altrender="1976" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1976">1976</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_1c57157569cf12395676af5675fb75eb_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_1c57157569cf12395676af5675fb75eb_c2"
+                          localtype="folder"
+                          parent="aspace_1c57157569cf12395676af5675fb75eb_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056070"
+            id="aspace_3a6cb5ea0fa1a5b2f29d33e326b8b82b"
+            level="file">
+            <did>
+               <unittitle>צבא הגנה לישראל - רבנות הצבאית הראשית = Tseva haganah le-Yiśraʼel - Rabanut ha-tsevaʼit ha-rashit (Military Rabbinate)</unittitle>
+               <unitdatestructured altrender="1968, 1968, 1970"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1965">1965</fromdate>
+                     <todate standarddate="1970">1970</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_3a6cb5ea0fa1a5b2f29d33e326b8b82b_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_3a6cb5ea0fa1a5b2f29d33e326b8b82b_c2"
+                          localtype="folder"
+                          parent="aspace_3a6cb5ea0fa1a5b2f29d33e326b8b82b_c1">3</container>
+            </did>
+            <scopecontent id="aspace_f8d5a5b1726107f8204e4f130733b14d">
+               <head>Scope and Contents</head>
+               <p>One of the 1968 haggadot is an abridged version of the text for deployed soldiers. The 1970 edition is just a republished version of the 1968 edition, with an updated date.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056058"
+            id="aspace_0a80a90865bd28f750b6774a53e91d9f"
+            level="file">
+            <did>
+               <unittitle>קדמה-סדום = Ḳedmah-Sedom</unittitle>
+               <unitdatestructured altrender="1945" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1945">1945</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_0a80a90865bd28f750b6774a53e91d9f_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_0a80a90865bd28f750b6774a53e91d9f_c2"
+                          localtype="folder"
+                          parent="aspace_0a80a90865bd28f750b6774a53e91d9f_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056062"
+            id="aspace_f1411e7557824b0ae908c409b1a9e04f"
+            level="file">
+            <did>
+               <unittitle>קיבוץ הארצי השומר הצעיר = Ḳibuts ha-artsi ha-shomer ha-tsaʻir</unittitle>
+               <unitdatestructured altrender="1943-1958, undated"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1943">1943</fromdate>
+                     <todate standarddate="1958">1958</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_f1411e7557824b0ae908c409b1a9e04f_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_f1411e7557824b0ae908c409b1a9e04f_c2"
+                          localtype="folder"
+                          parent="aspace_f1411e7557824b0ae908c409b1a9e04f_c1">5-8</container>
+            </did>
+            <scopecontent id="aspace_2df5d55e798867825e9a277f1f523ffd">
+               <head>Scope and Contents</head>
+               <p>Haggadah dated 1944 had two printed pages of additional songs tipped in. They are in the same folder.---The circa 1944-1949 haggadah is missing the cover, but there is an inscription from 1962 identifying it as being produced by Ḳibuts ha-artsi ha-shomer ha-tsaʻir before 1949.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056063"
+            id="aspace_bf6ba8e12d99f4404cd1dc5fc9ee7c1b"
+            level="file">
+            <did>
+               <unittitle>קיבוץ המאוחד = Ḳibuts ha-meʼuḥad</unittitle>
+               <unitdatestructured altrender="before 1949, 1961, 1970, 1973, 1979"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1949">1949</fromdate>
+                     <todate standarddate="1979">1979</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_bf6ba8e12d99f4404cd1dc5fc9ee7c1b_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_bf6ba8e12d99f4404cd1dc5fc9ee7c1b_c2"
+                          localtype="folder"
+                          parent="aspace_bf6ba8e12d99f4404cd1dc5fc9ee7c1b_c1">9-10</container>
+            </did>
+            <scopecontent id="aspace_166ffa8c778fe2626d93ec13fdf12e4a">
+               <head>Scope and Contents</head>
+               <p>Includes a songbook (shiron) for Passover, though not technically a haggadah.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056073"
+            id="aspace_043b9572033a2ea0d62a8ccde7801d69"
+            level="file">
+            <did>
+               <unittitle>רמות השבים = Ramot ha-Shavim</unittitle>
+               <unitdatestructured altrender="1951" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1951">1951</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_043b9572033a2ea0d62a8ccde7801d69_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_043b9572033a2ea0d62a8ccde7801d69_c2"
+                          localtype="folder"
+                          parent="aspace_043b9572033a2ea0d62a8ccde7801d69_c1">11</container>
+            </did>
+            <scopecontent id="aspace_31146b612cdebd635967871645bd061c">
+               <head>Scope and Contents</head>
+               <p>Has a loose page from a different unidentified source.</p>
+            </scopecontent>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056071"
+            id="aspace_4ff0c36be79be459fd13dbd4716283d3"
+            level="file">
+            <did>
+               <unittitle>רמת הכובש = Ramat ha-Kovesh</unittitle>
+               <unitdatestructured altrender="1957, 1967, after 1967"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1957">1957</fromdate>
+                     <todate standarddate="1967">1967</todate>
+                  </daterange>
+               </unitdatestructured>
+               <langmaterial>
+                  <language/>
+                  <descriptivenote>
+                     <p>The haggadah from after 1967 is in Yiddish.</p>
+                  </descriptivenote>
+               </langmaterial>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_4ff0c36be79be459fd13dbd4716283d3_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_4ff0c36be79be459fd13dbd4716283d3_c2"
+                          localtype="folder"
+                          parent="aspace_4ff0c36be79be459fd13dbd4716283d3_c1">12</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056072"
+            id="aspace_d30d3805a545be97a98946e45f3f5e9f"
+            level="file">
+            <did>
+               <unittitle>רמת יוחנן = Ramat Yoḥanan</unittitle>
+               <unitdatestructured altrender="1943" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1943">1943</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485145"
+                          containerid="39002140940975"
+                          encodinganalog="archive legal"
+                          id="aspace_d30d3805a545be97a98946e45f3f5e9f_c1"
+                          label="Mixed Materials"
+                          localtype="box">4</container>
+               <container id="aspace_d30d3805a545be97a98946e45f3f5e9f_c2"
+                          localtype="folder"
+                          parent="aspace_d30d3805a545be97a98946e45f3f5e9f_c1">13</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056074"
+            id="aspace_79115b4cf2bac491412815fd0b3d408c"
+            level="file">
+            <did>
+               <unittitle>שדות-ים = Śedot-Yam</unittitle>
+               <unitdatestructured altrender="circa 1948" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1948">1948</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485199"
+                          containerid="39002140940983"
+                          encodinganalog="archive half legal"
+                          id="aspace_79115b4cf2bac491412815fd0b3d408c_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_79115b4cf2bac491412815fd0b3d408c_c2"
+                          localtype="folder"
+                          parent="aspace_79115b4cf2bac491412815fd0b3d408c_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056076"
+            id="aspace_b7bc90f38833e43f13f84b8851bafc74"
+            level="file">
+            <did>
+               <unittitle>שפיים = Shefayim</unittitle>
+               <unitdatestructured altrender="1959" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1959">1959</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485199"
+                          containerid="39002140940983"
+                          encodinganalog="archive half legal"
+                          id="aspace_b7bc90f38833e43f13f84b8851bafc74_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_b7bc90f38833e43f13f84b8851bafc74_c2"
+                          localtype="folder"
+                          parent="aspace_b7bc90f38833e43f13f84b8851bafc74_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056077"
+            id="aspace_7ed69c43c47c729e8fd9d2e4907136e5"
+            level="file">
+            <did>
+               <unittitle>תל-יוסף = Tel-Yosef</unittitle>
+               <unitdatestructured altrender="1944, circa 1950"
+                                   label="creation"
+                                   unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1944">1944</fromdate>
+                     <todate standarddate="1950">1950</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485199"
+                          containerid="39002140940983"
+                          encodinganalog="archive half legal"
+                          id="aspace_7ed69c43c47c729e8fd9d2e4907136e5_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_7ed69c43c47c729e8fd9d2e4907136e5_c2"
+                          localtype="folder"
+                          parent="aspace_7ed69c43c47c729e8fd9d2e4907136e5_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056078"
+            id="aspace_67d1566c32473b0d493daab04064e7a1"
+            level="file">
+            <did>
+               <unittitle>תנועת הנוער הלומד בישראל - מחנות העולים = Tenuʻat ha-noʻar ha-lomed be-Yiśraʼel - Maḥanot ha-ʻolim</unittitle>
+               <unitdatestructured altrender="1946" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1946">1946</fromdate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/11/top_containers/485199"
+                          containerid="39002140940983"
+                          encodinganalog="archive half legal"
+                          id="aspace_67d1566c32473b0d493daab04064e7a1_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_67d1566c32473b0d493daab04064e7a1_c2"
+                          localtype="folder"
+                          parent="aspace_67d1566c32473b0d493daab04064e7a1_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056041"
+            id="aspace_dcb123c919b1183fe5586545d8b5a1ff"
+            level="file">
+            <did>
+               <unittitle>Children's Haggadah</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/485199"
+                          containerid="39002140940983"
+                          encodinganalog="archive half legal"
+                          id="aspace_dcb123c919b1183fe5586545d8b5a1ff_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_dcb123c919b1183fe5586545d8b5a1ff_c2"
+                          localtype="folder"
+                          parent="aspace_dcb123c919b1183fe5586545d8b5a1ff_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/11/archival_objects/4056046"
+            id="aspace_6ea0379df6e35ee381e0a2ed9bbe466d"
+            level="file">
+            <did>
+               <unittitle>Fragments</unittitle>
+               <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               <container altrender="/repositories/11/top_containers/485199"
+                          containerid="39002140940983"
+                          encodinganalog="archive half legal"
+                          id="aspace_6ea0379df6e35ee381e0a2ed9bbe466d_c1"
+                          label="Mixed Materials"
+                          localtype="box">5</container>
+               <container id="aspace_6ea0379df6e35ee381e0a2ed9bbe466d_c2"
+                          localtype="folder"
+                          parent="aspace_6ea0379df6e35ee381e0a2ed9bbe466d_c1">6</container>
+            </did>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

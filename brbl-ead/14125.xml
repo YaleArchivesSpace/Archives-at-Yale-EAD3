@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-30T23:25:29-04:00</eventdatetime>
+            <eventdatetime>2026-10-01T23:01:40-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 23:25</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -423,10 +423,13 @@
                         <quantity>1</quantity>
                         <unittype>Flash Drive</unittype>
                      </physdescstructured>
-                     <unitdatestructured altrender="2024" label="creation" unitdatetype="inclusive">
+                     <unitdatestructured altrender="2024 August" label="creation" unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="2024">2024</fromdate>
+                           <fromdate standarddate="2024-08-08">2024 August 8</fromdate>
                         </daterange>
+                     </unitdatestructured>
+                     <unitdatestructured altrender="2024 December" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2024-12-14">2024 December</datesingle>
                      </unitdatestructured>
                      <container altrender="/repositories/11/top_containers/485042 /locations/7165"
                                 containerid="39002140993867"
@@ -3139,6 +3142,26 @@
                         <head>Scope and Contents</head>
                         <p>Materials for modules 20, 22, and 28 not included.</p>
                      </scopecontent>
+                     <c altrender="/repositories/11/archival_objects/4059350"
+                        id="aspace_8eaaf0e8b4c4c86fee041bdd6847373b"
+                        level="file">
+                        <did>
+                           <unittitle>Computer files</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>1</quantity>
+                              <unittype>5.25_floppy_disk</unittype>
+                           </physdescstructured>
+                           <unitdatestructured altrender="Circa 1986" label="creation" unitdatetype="inclusive">
+                              <datesingle standarddate="1986">Circa 1986</datesingle>
+                           </unitdatestructured>
+                           <container altrender="/repositories/11/top_containers/485041 /locations/7165"
+                                      containerid="39002140993859"
+                                      encodinganalog="archive letter"
+                                      id="aspace_8eaaf0e8b4c4c86fee041bdd6847373b_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">30</container>
+                        </did>
+                     </c>
                   </c>
                   <c altrender="/repositories/11/archival_objects/4055732"
                      id="aspace_99d6752da63780263dd7f2f8a674a8c4"
@@ -4918,6 +4941,26 @@
                      <head>Scope and Contents</head>
                      <p>First and Summerfield United Methodist Church and New Haven Korean United Methodist Church</p>
                   </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4059348"
+                  id="aspace_334f82e95ce7792c09fb24b4361faa9c"
+                  level="file">
+                  <did>
+                     <unittitle>Korean Culture Teachers' Conference</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Optical Disc (DVD)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2015">2015</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/485041 /locations/7165"
+                                containerid="39002140993859"
+                                encodinganalog="archive letter"
+                                id="aspace_334f82e95ce7792c09fb24b4361faa9c_c1"
+                                label="Mixed Materials"
+                                localtype="box">30</container>
+                  </did>
                </c>
                <c altrender="/repositories/11/archival_objects/4055672"
                   id="aspace_a52697a24aafa1a3e66e23a074aee7fa"

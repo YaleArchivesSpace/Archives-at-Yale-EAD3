@@ -42,7 +42,7 @@
                <p>Boxes: 1-16, 20-22, 24-26, 29-30</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: Art, 17-19, 23, 27, Bsd, folder 350-Bsd, folder 353, 28 / Folder 418-421, 28 / Folder 422-28 / Folder 423-424</p>
+               <p>Boxes: Art, 17-19, 23, 27, 31, Bsd, folder 350-Bsd, folder 353, 28 / Folder 418-421, 28 / Folder 422-28 / Folder 423-424</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="18">18</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="213">213</num> digital files.</p>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:27:44-05:00</eventdatetime>
+            <eventdatetime>2026-10-01T23:01:31-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:27</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5934,6 +5934,93 @@
                            <container id="aspace_ref397_c2" localtype="folder" parent="aspace_ref397_c1">308</container>
                         </did>
                      </c>
+                  </c>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4059344"
+               id="aspace_3092de9976e36617c0514ad17a4a7201"
+               level="subseries">
+               <did>
+                  <unittitle>FILM</unittitle>
+               </did>
+               <c altrender="/repositories/11/archival_objects/3870161"
+                  id="aspace_4245697a28d8788cdbc0597c64968273"
+                  level="file">
+                  <did>
+                     <unittitle>Home movie in Bermuda Islands</unittitle>
+                     <unitdatestructured altrender="[1927]" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1927">[1927]</datesingle>
+                     </unitdatestructured>
+                  </did>
+                  <c altrender="/repositories/11/archival_objects/3870160"
+                     id="aspace_c0272cae447fdd817e752ead99c69897"
+                     level="file">
+                     <did>
+                        <unittitle>Home movie in Bermuda Islands (nitrate film reel)</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                           <quantity>1</quantity>
+                           <unittype>Reel</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="[1927]" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1927">[1927]</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/485298"
+                                   id="aspace_c0272cae447fdd817e752ead99c69897_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">31</container>
+                     </did>
+                     <accessrestrict id="aspace_859f40a033638a660c7b1d1c6a53ca76"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                     <scopecontent id="aspace_db2f4186dfb7f5fcffad39bd2a4f0feb">
+                        <head>Scope and Contents</head>
+                        <p>Running time: 6 minutes, 57 seconds.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/531192"
+                     id="ref355"
+                     level="file">
+                     <did>
+                        <unittitle>Home movie in Bermuda Islands (VHS and optical disk copies)</unittitle>
+                        <container altrender="/repositories/11/top_containers/67056 /locations/4051"
+                                   containerid="39002099421563"
+                                   id="aspace_ref355_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">18</container>
+                        <container id="aspace_ref355_c2" localtype="folder" parent="aspace_ref355_c1">285</container>
+                     </did>
+                     <scopecontent id="aspace_0e1788552a5faaf85dc64dd473c0bb33">
+                        <head>Scope and Contents</head>
+                        <p>Running time: 6 minutes, 57 seconds.</p>
+                     </scopecontent>
+                     <scopecontent id="aspace_5e15e7fabc76c2f58edd0294c3143387">
+                        <head>Scope and Contents</head>
+                        <p>Reference copy available.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/531334"
+                     id="ref511"
+                     level="file">
+                     <did>
+                        <unittitle>Home movie in Bermuda Islands (negative film copy)</unittitle>
+                        <container altrender="/repositories/11/top_containers/67072 /locations/9"
+                                   containerid="39002099421639"
+                                   id="aspace_ref511_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">26</container>
+                        <container id="aspace_ref511_c2" localtype="folder" parent="aspace_ref511_c1">415</container>
+                     </did>
+                     <accessrestrict id="aspace_95a0af1b8ab8822ba380ebc6ddd015c1"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Box 26 (audiovisual material): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                     <scopecontent id="aspace_2402f3eb943209927bbf41001b956188">
+                        <head>Scope and Contents</head>
+                        <p>1 16mm duplicate black and white negative, film reel</p>
+                     </scopecontent>
                   </c>
                </c>
             </c>

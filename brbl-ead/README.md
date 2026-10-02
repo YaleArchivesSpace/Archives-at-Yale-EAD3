@@ -1988,4 +1988,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.williambird.xml](14115.xml) | beinecke.williambird | YCAL MSS 1562 | William Bird papers | 
  [beinecke.aos.xml](14117.xml) | beinecke.aos | GEN MSS 2169 | American Oriental Society archive | 
  [beinecke.koheri.xml](14125.xml) | beinecke.koheri | GEN MSS 2167 | Hesung Chun Koh family papers and East Rock Institute records | 
+ [beinecke.kibbutz.xml](14127.xml) | beinecke.kibbutz | YCAL GEN MSS 2171 | Kibbutz and Ephemeral Haggadot from Israel and the Yishuv Collection | 
 
