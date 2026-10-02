@@ -60,10 +60,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-25T19:05:33-04:00</eventdatetime>
+            <eventdatetime>2026-10-02T19:00:57-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 19:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 19:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -100,11 +100,6 @@
          <physdesc id="aspace_136f8c278904c7af1f1e6827ab73e7c4"
                    label="Condition Description">Two bookplates printed on very fragile, thin, paper.</physdesc>
          <abstract id="aspace_b1697729667a32e1760ac9e61faae845">Collection of occult and astrology-themed ex libris, most by Slovakian artist, Karl Hugo Frech</abstract>
-         <origination label="Source">
-            <corpname relator="sll" rules="rda" source="local_arts">
-               <part localtype="agent_corporate_entity">Lux Mentis, Booksellers</part>
-            </corpname>
-         </origination>
          <origination label="Creator">
             <persname relator="bpd">
                <part localtype="agent_person">Frech, Karl Hugo, 1883-1945</part>
@@ -160,6 +155,10 @@
          <head>Custodial History</head>
          <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Beinecke Rare Book and Manuscript Library.</p>
       </custodhist>
+      <acqinfo id="aspace_1765676448a15d2cdc2af021c088d870">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased from Lux Mentis Booksellers, 2022.</p>
+      </acqinfo>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85093821"
                   source="lcsh">

@@ -40,6 +40,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-23, 24-25 (oversize), 26-27, 28 (oversize), 29-35</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: 36 (oversize)</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -61,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-25T19:00:25-04:00</eventdatetime>
+            <eventdatetime>2026-10-02T19:00:54-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 25, 2026 at 19:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 19:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -84,10 +87,10 @@
             </languageset>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>26.32</quantity>
+            <quantity>26.2</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">35 boxes + 1 broadside</physdesc>
+         <physdesc localtype="container_summary">(36 boxes)</physdesc>
          <unitdatestructured altrender="circa 1880s-1991"
                              label="creation"
                              unitdatetype="inclusive">
@@ -665,6 +668,30 @@
                      <container id="aspace_d07cf9f4619f7de78d083a576abb2c6e_c2"
                                 localtype="folder"
                                 parent="aspace_d07cf9f4619f7de78d083a576abb2c6e_c1">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/5/archival_objects/4059420"
+                  id="aspace_f9641bc30dfb420265b75320faff423c"
+                  level="file">
+                  <did>
+                     <unittitle>"Orchard St" pastel sketch</unittitle>
+                     <unitdatestructured altrender="circa 1930s-circa 1970s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1930">1930</fromdate>
+                           <todate standarddate="1979">1979</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/5/top_containers/485302"
+                                containerid="39002075207655"
+                                encodinganalog="custom box [flat, 30&#34; wide]"
+                                id="aspace_f9641bc30dfb420265b75320faff423c_c1"
+                                label="Mixed Materials"
+                                localtype="box">36 (oversize)</container>
+                     <container id="aspace_f9641bc30dfb420265b75320faff423c_c2"
+                                localtype="folder"
+                                parent="aspace_f9641bc30dfb420265b75320faff423c_c1">1</container>
                   </did>
                </c>
                <c altrender="/repositories/5/archival_objects/3893853"
@@ -1742,6 +1769,30 @@
                                 parent="aspace_d200385d18a407bfe0c1cd955c19cf86_c1">2</container>
                   </did>
                </c>
+               <c altrender="/repositories/5/archival_objects/4059355"
+                  id="aspace_719836d0392df251007f4161e72f301b"
+                  level="file">
+                  <did>
+                     <unittitle>Sketch of streetscape</unittitle>
+                     <unitdatestructured altrender="circa 1930s-circa 1960s"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1930">1930</fromdate>
+                           <todate standarddate="1969">1969</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/5/top_containers/485302"
+                                containerid="39002075207655"
+                                encodinganalog="custom box [flat, 30&#34; wide]"
+                                id="aspace_719836d0392df251007f4161e72f301b_c1"
+                                label="Mixed Materials"
+                                localtype="box">36 (oversize)</container>
+                     <container id="aspace_719836d0392df251007f4161e72f301b_c2"
+                                localtype="folder"
+                                parent="aspace_719836d0392df251007f4161e72f301b_c1">2</container>
+                  </did>
+               </c>
                <c altrender="/repositories/5/archival_objects/3893894"
                   id="aspace_83afd5bd87b312961e420037f6163911"
                   level="file">
@@ -1771,7 +1822,7 @@
                   level="file">
                   <did>
                      <unittitle>"1969" portfolio of sketches, photographs, and paintings</unittitle>
-                     <unitdatestructured altrender="circa 1930-circa1969"
+                     <unitdatestructured altrender="circa 1930-circa 1969"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <daterange>
