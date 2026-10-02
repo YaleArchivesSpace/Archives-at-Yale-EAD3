@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-11T20:00:09-05:00</eventdatetime>
+            <eventdatetime>2026-10-01T20:00:45-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday February 11, 2026 at 20:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -48832,11 +48832,19 @@
                      <container id="aspace_b271ba50f9139cb79b00162e75b8a1e3_c2"
                                 localtype="reel"
                                 parent="aspace_b271ba50f9139cb79b00162e75b8a1e3_c1">1</container>
+                     <container id="aspace_b271ba50f9139cb79b00162e75b8a1e3_c3"
+                                localtype="item_barcode"
+                                parent="aspace_b271ba50f9139cb79b00162e75b8a1e3_c2">39002132460503</container>
                   </did>
                   <scopecontent id="aspace_7790297ee4102c27abca36e6a45a0af6">
                      <head>Scope and Contents</head>
                      <p>"Can You Give It All to Me"; "Don't Come Crying to Me". Business card for Mickymar Productions inside box.</p>
                   </scopecontent>
+                  <accessrestrict id="aspace_ed8588ab443bda4f2320247c3b911dc1"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Restricted fragile audiovisual recording. Reference copy may be available. Please consult Access Services for more information.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/6/archival_objects/2204117"
                   id="aspace_0ac7d232e28010c7d1ab614e05f4071a"
