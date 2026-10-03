@@ -45,7 +45,7 @@
                <p>Boxes: Art, 17-19, 23, 27, 31, Bsd, folder 350-Bsd, folder 353, 28 / Folder 418-421, 28 / Folder 422-28 / Folder 423-424</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="18">18</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="213">213</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="19">19</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="213">213</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-01T23:01:31-04:00</eventdatetime>
+            <eventdatetime>2026-10-02T23:00:58-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5990,6 +5990,25 @@
                                    label="Mixed Materials"
                                    localtype="box">18</container>
                         <container id="aspace_ref355_c2" localtype="folder" parent="aspace_ref355_c1">285</container>
+                        <daoset altrender="/repositories/11/digital_objects/358646">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://beineckelibrary.aviaryplatform.com/r/x639z92t7v"
+                                identifier="aviary_180667"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                                identifier="aviary_180667"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <descriptivenote>
+                              <p>[Aviary] Home movie in Bermuda Islands VHS and optical disk copies</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <scopecontent id="aspace_0e1788552a5faaf85dc64dd473c0bb33">
                         <head>Scope and Contents</head>

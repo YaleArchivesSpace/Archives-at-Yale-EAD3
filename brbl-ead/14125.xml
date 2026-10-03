@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-01T23:01:40-04:00</eventdatetime>
+            <eventdatetime>2026-10-02T23:01:08-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -204,6 +204,14 @@
          <subject identifier="sh85008408" source="lcsh">
             <part localtype="topical">Arts, Korean</part>
          </subject>
+         <geogname identifier="sh85073008" source="lcsh">
+            <part localtype="geographic">Korea</part>
+         </geogname>
+         <geogname identifier="sh2008115747" source="lcsh">
+            <part localtype="geographic">Korea (South)</part>
+            <part localtype="topical">Relations</part>
+            <part localtype="geographic">United States</part>
+         </geogname>
          <persname>
             <part localtype="agent_person">Koh, Hesung Chun</part>
          </persname>

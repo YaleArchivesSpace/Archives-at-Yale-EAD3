@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-30T23:01:38-04:00</eventdatetime>
+            <eventdatetime>2026-10-02T23:01:28-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 30, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -141,7 +141,7 @@
          <head>Processing Information</head>
          <p>The Yehuda Amichai Papers contain material formerly classed as Uncat MSS 70. Preliminary identification and sorting of Hebrew language materials in the collection was done by Chana Amichai in 2003 under the supervision of Nicole Bouché. Processing of the collection was completed in 2007 with assistance from Yale University Library staff and student assistants, including Daniel Hoffman, Brian McDonald, Heddy Ben-Atar, and Daniel Lovins.</p>
          <p>Due to limitations with the technology (Edix) used by the library for describing manuscript collections, Hebrew names and titles have been romanized (transliterated). Special characters in the romanized Hebrew, including the ayin and aleph, have been ommitted temporarily pending changes to the software used by the library to deliver manuscript finding aids.</p>
-         <p>The following folder numbers are unused: Box 3, folder 112; box 4, folder 151; box 5, folders 221 and 222; box 73, folders 1963-1976; and box 74, folder 1982.</p>
+         <p>The following folder numbers are unused: Box 3, folder 112; box 4, folder 151; box 5, folders 221 and 222; box 18, folder 778; Box 34, folder 1196, box 73, folders 1963-1976; and box 74, folder 1982.</p>
       </processinfo>
       <bioghist id="aspace_26e179f2cf7b9f9d46b6062795c6c44f">
          <head>YEHUDA AMICHAI (1924-2000)</head>
@@ -14858,10 +14858,8 @@
                      id="ref835"
                      level="file">
                      <did>
-                        <unittitle>Draft, holograph, photocopy</unittitle>
-                        <unitdatestructured altrender="1964 Jul 17" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1964-07-17">1964 Jul 17</datesingle>
-                        </unitdatestructured>
+                        <unittitle>Draft, typescript carbon</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                         <container altrender="/repositories/11/top_containers/20856 /locations/9"
                                    containerid="39002099311830"
                                    id="aspace_ref835_c1"
@@ -21707,21 +21705,6 @@
                      <container id="aspace_ref1273_c2"
                                 localtype="folder"
                                 parent="aspace_ref1273_c1">1195</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/240276"
-                  id="ref1274"
-                  level="file">
-                  <did>
-                     <unittitle>[Empty folder]</unittitle>
-                     <container altrender="/repositories/11/top_containers/20872 /locations/9"
-                                containerid="39002099311996"
-                                id="aspace_ref1274_c1"
-                                label="Mixed Materials"
-                                localtype="box">34</container>
-                     <container id="aspace_ref1274_c2"
-                                localtype="folder"
-                                parent="aspace_ref1274_c1">1196</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/240277"

@@ -45,7 +45,7 @@
                <p>Boxes: 34-53</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="44">44</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2532">2,532</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="45">45</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2638">2,638</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:24:19-05:00</eventdatetime>
+            <eventdatetime>2026-10-02T23:03:13-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:24</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -8385,6 +8385,35 @@
                              href="https://collections.library.yale.edu/catalog/2003374"
                              identifier="oid:2003374"
                              linktitle="recto"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>The Nun's Story (film)</p>
+                        </descriptivenote>
+                     </daoset>
+                     <daoset altrender="/repositories/11/digital_objects/358764">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33821092"
+                             identifier="oid:33821092"
+                             linktitle="106 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33821093/full/!150,150/0/default.jpg"
+                             identifier="oid:33821092"
+                             linktitle="106 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33821092"
+                             identifier="oid:33821092"
+                             linktitle="106 images"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>
