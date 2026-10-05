@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-17T18:02:09-04:00</eventdatetime>
+            <eventdatetime>2026-10-05T18:00:47-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 17, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October  5, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3080,32 +3080,81 @@ scholarships for Asian women in medical training. The Board voted to dissolve in
                         <p>Report of residential educational institution with emphasis on rural reconstruction, located in Kengeri.</p>
                      </scopecontent>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/3972900"
-                     id="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5"
-                     level="file">
+                  <c altrender="/repositories/4/archival_objects/4059598"
+                     id="aspace_f948658fb0c6d3219ed0850cc1c7d3c3"
+                     level="subseries">
                      <did>
                         <unittitle>Isabella Thoburn College</unittitle>
-                        <unitdatestructured altrender="1919-1958, undated"
-                                            label="creation"
-                                            unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1919">1919</fromdate>
-                              <todate standarddate="1958">1958</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/419903 /locations/9"
-                                   containerid="39002112325064"
-                                   id="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">24</container>
-                        <container id="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5_c2"
-                                   localtype="folder"
-                                   parent="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5_c1">9-12</container>
                      </did>
-                     <scopecontent id="aspace_5723b2e1ad5ddec3e8be1f59ebf2a274">
-                        <head>Scope and Contents</head>
-                        <p>Publications, calendars, prospectus, issues of the Chand Bagh Chronicle, for school located in Lucknow.</p>
-                     </scopecontent>
+                     <c altrender="/repositories/4/archival_objects/3972900"
+                        id="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5"
+                        level="file">
+                        <did>
+                           <unittitle>Cal Bagh Review; Chand Bagh Chronicle</unittitle>
+                           <unitdatestructured altrender="1920-1949" label="creation" unitdatetype="inclusive">
+                              <daterange>
+                                 <fromdate standarddate="1920">1920</fromdate>
+                                 <todate standarddate="1949">1949</todate>
+                              </daterange>
+                           </unitdatestructured>
+                           <container altrender="/repositories/4/top_containers/419903 /locations/9"
+                                      containerid="39002112325064"
+                                      id="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">24</container>
+                           <container id="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5_c2"
+                                      localtype="folder"
+                                      parent="aspace_4a2d8dbd672bd8b3aa5fe2bb9fe902a5_c1">9</container>
+                        </did>
+                        <scopecontent id="aspace_5723b2e1ad5ddec3e8be1f59ebf2a274">
+                           <head>Scope and Contents</head>
+                           <p>Publications, calendars, prospectus, issues of the Chand Bagh Chronicle, for school located in Lucknow.</p>
+                        </scopecontent>
+                     </c>
+                     <c altrender="/repositories/4/archival_objects/4059604"
+                        id="aspace_8d94307bfe7ca665c75e1ebb6eecdb14"
+                        level="file">
+                        <did>
+                           <unittitle>Our Godly Heritage: The Cal Bagh Jubilee Book; Chand Bagh Chronicle</unittitle>
+                           <unitdatestructured altrender="1920-1958" label="creation" unitdatetype="inclusive">
+                              <daterange>
+                                 <fromdate standarddate="1920">1920</fromdate>
+                                 <todate standarddate="1958">1958</todate>
+                              </daterange>
+                           </unitdatestructured>
+                           <container altrender="/repositories/4/top_containers/419903 /locations/9"
+                                      containerid="39002112325064"
+                                      id="aspace_8d94307bfe7ca665c75e1ebb6eecdb14_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">24</container>
+                           <container id="aspace_8d94307bfe7ca665c75e1ebb6eecdb14_c2"
+                                      localtype="folder"
+                                      parent="aspace_8d94307bfe7ca665c75e1ebb6eecdb14_c1">10</container>
+                        </did>
+                     </c>
+                     <c altrender="/repositories/4/archival_objects/4059605"
+                        id="aspace_65cd21ac6b819eb1049f08b996ef005e"
+                        level="file">
+                        <did>
+                           <unittitle>Various publications and circulars</unittitle>
+                           <unitdatestructured altrender="1919-1958, undated"
+                                               label="creation"
+                                               unitdatetype="inclusive">
+                              <daterange>
+                                 <fromdate standarddate="1919">1919</fromdate>
+                                 <todate standarddate="1958">1958</todate>
+                              </daterange>
+                           </unitdatestructured>
+                           <container altrender="/repositories/4/top_containers/419903 /locations/9"
+                                      containerid="39002112325064"
+                                      id="aspace_65cd21ac6b819eb1049f08b996ef005e_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">24</container>
+                           <container id="aspace_65cd21ac6b819eb1049f08b996ef005e_c2"
+                                      localtype="folder"
+                                      parent="aspace_65cd21ac6b819eb1049f08b996ef005e_c1">11-12</container>
+                        </did>
+                     </c>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3972928"
                      id="aspace_daeca0fd9df631ccc1ccc76bdacc6b30"
