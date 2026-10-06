@@ -29,7 +29,7 @@
                        show="new">https://britishart.yale.edu/archives</ref>
                </addressline>
             </address>
-            <num>S 014</num>
+            <num>S 14</num>
          </publicationstmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -58,17 +58,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-08-20T18:00:41-04:00</eventdatetime>
+            <eventdatetime>2026-10-06T18:01:32-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 20, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/3/resources/5514" level="collection">
       <did>
-         <unittitle>Jules David Prown Interview by Alessandra Latour recording</unittitle>
-         <unitid>S 014</unitid>
+         <unittitle>Jules David Prown Interview recording</unittitle>
+         <unitid>S 14</unitid>
          <repository>
             <corpname>
                <part>Yale Center for British Art, Archives</part>
@@ -92,8 +92,8 @@
             <unittype>Gigabytes</unittype>
             <physfacet>MP3 and wav files</physfacet>
          </physdescstructured>
-         <unitdatestructured altrender="June 23, 1982" label="creation" unitdatetype="inclusive">
-            <datesingle standarddate="1982-06-23">June 23, 1982</datesingle>
+         <unitdatestructured altrender="1982 June 23" label="creation" unitdatetype="inclusive">
+            <datesingle standarddate="1982-06-23">1982 June 23</datesingle>
          </unitdatestructured>
          <origination label="Creator">
             <persname>
@@ -115,6 +115,10 @@
          <head>Conditions Governing Access</head>
          <p>This collection is unprocessed and may not be available for immediate access.</p>
       </accessrestrict>
+      <prefercite id="aspace_ba87161412c626615396e9425ee28d80">
+         <head>Preferred Citation</head>
+         <p>Jules David Prown Interview recording. Yale Center for British Art, Archives.</p>
+      </prefercite>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85008001"
                   source="lcsh">
