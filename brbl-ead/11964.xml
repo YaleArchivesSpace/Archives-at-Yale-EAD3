@@ -40,6 +40,9 @@
             <controlnote localtype="onsite">
                <p>Boxes: 31 (Oversize), 264 (Oversize)</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -68,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-29T23:01:51-04:00</eventdatetime>
+            <eventdatetime>2026-10-05T23:01:53-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday August 29, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October  5, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -42238,6 +42241,27 @@ others. Includes audiocassettes and videocassettes.</p>
                   <container id="aspace_8f726319c2c1ebf4c37268877241b5a3_c2"
                              localtype="item_barcode"
                              parent="aspace_8f726319c2c1ebf4c37268877241b5a3_c1">39002140959694</container>
+                  <daoset altrender="/repositories/11/digital_objects/359274">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails//original/open-uri20261005-42189-f7ol0q_1791252903.jpg?1791252906"
+                          identifier="aviary_180724"
+                          linktitle="[Aviary] ycalmss160039002140959694.mst.mov"
+                          linkrole="image-thumbnail"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://beineckelibrary.aviaryplatform.com/r/7p8tb10x9x"
+                          identifier="aviary_180724"
+                          linktitle="[Aviary] ycalmss160039002140959694.mst.mov"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>[Aviary] ycalmss160039002140959694.mst.mov</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_23e82eb97cfcf53658d5186fa0e93e91">
                   <head>Conditions Governing Access</head>

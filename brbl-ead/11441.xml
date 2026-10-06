@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-02T23:01:51-04:00</eventdatetime>
+            <eventdatetime>2026-10-05T23:00:50-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October  5, 2026 at 23:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -14827,7 +14827,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:36:06</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">November 8</unitdate>
+                     <materialspec id="aspace_2dd01baecaa5e268e7bd015d2d8cea9f">Distortion and static are present. Audio, at times, sounds hollow or unclear. There are dropouts in the audio.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -14853,7 +14858,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:58:43</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">November 15</unitdate>
+                     <materialspec id="aspace_a393ef746580778a9f29f626c2cf265e">Dropouts in the audio. There is a hum in the audio. Distortion is present. Static can be heard. Audio, at times, sounds hollow or unclear.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -14879,7 +14889,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:33</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">December 6</unitdate>
+                     <materialspec id="aspace_dc00dc2a0d379dc05402b8497afd7c99">High background noise is present. Audio, at times, sounds hollow or unclear. A static and hum can be heard. There are dropouts in the audio.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -14931,7 +14946,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:23:34</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_fd854758d1caa53cd98102c05733b4c7">Distortion is present. Static and dropouts are present. Audio, at times, sounds hollow or unclear.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -14957,7 +14977,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:27:51</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_5c5d1f5e893771ba3154d6fa2a6756f4">Static is present. Distortion is present. This is a buzz in the audio. Interference is present. Speed fluctuations are present. Audio, at times, sounds hollow or unclear.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -14983,7 +15008,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:17</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_33425975400f86ea2eba99fca2886d4a">Distortion and dropouts in the audio are present. Audio, at times, sounds hollow or unclear. Static is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -15085,9 +15115,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:35:20</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2007 July 7" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2007-07-07">2007 July 7</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_87a01153eb1b3da55116e9719529dd6e">There is a buzz in the audio. Static and distortion are present. Audio, at times, sounds hollow or unclear.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -15141,9 +15176,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:35:10</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2008 June 25" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2008-06-25">2008 June 25</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_955c8ddd0ed8d53827322c3450a53812">Distortion and static are present. Audio, at times, sounds hollow or unclear. There is a buzz in the audio. Interference is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/378068 /locations/9"
                                 containerid="39002093779297"
                                 encodinganalog="audiocassettes box"
@@ -19518,9 +19558,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:57:52</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 April 13" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-04-13">2009 April 13</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_b7c424a702c3639fe0ffab911bafceec">Distortion and static are present. Audio, at times, sounds hollow or unclear. High background noise is present. There is a buzz in the audio.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19543,12 +19588,17 @@
                   <did>
                      <unittitle>2</unittitle>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                        <quantity>1</quantity>
+                        <quantity>01:34:54</quantity>
                         <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiocassette</unittype>
                      </physdescstructured>
                      <unitdatestructured altrender="2009 May 7" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-05-07">2009 May 7</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_81ff0c0f748ddd0f98dfff0c7e3a3892">Distortion and static are present. Audio, at times, sounds hollow or unclear. There are dropouts in the audio. There is a buzz in the audio. Interference is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19630,9 +19680,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:34</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 May 12" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-05-12">2009 May 12</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_b2b3c4b4d3b102e0d140a333d2b17665">Distortion and static are present. Audio, at times, sounds hollow or unclear. There are dropouts and a buzz in the audio.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19658,9 +19713,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:48</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 May 12" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-05-12">2009 May 12</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_e2f35a4953c6682317888e0ebb317582">Distortion and dropouts are in the audio. Audio, at times, sounds hollow or unclear. There is a buzz in the audio. Static is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19742,9 +19802,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:55</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 May 19" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-05-19">2009 May 19</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_3fc6439b548fe93ac18f29d6d0c14c19">Buzz and static are present. Distortion can be heard. Audio, at times, sounds hollow or unclear. Dropouts in the audio are present.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19770,9 +19835,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:41</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 May 20" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-05-20">2009 May 20</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_2d20bd024d087e7b7c66818ed4f6544d">Distortion and static are present. Audio, at times, sounds hollow or unclear. There is a buzz in the audio. A hum and interference can be heard.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19798,9 +19868,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:35:03</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 May 20" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-05-20">2009 May 20</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_bf3323a722954764b6ca70378940b91f">There is static in the audio. Distortion can be heard. Audio, at times, sounds hollow or unclear. A buzz is in the audio. Dropouts are present.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19882,11 +19957,16 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:34:44</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 November 7"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <datesingle standarddate="2009-11-07">2009 November 7</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_936e11628520b88ac9c5e84c90db0847">There is a buzz in the audio. Static and distortion can be heard. Audio, at times, sounds hollow or unclear. Interference can be heard.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
@@ -19990,7 +20070,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:46:33</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">December 13</unitdate>
+                     <materialspec id="aspace_1d1e43adab1af24a726c0c0b9918c988">Dropouts and distortion can be heard. Audio, at times, sounds hollow or unclear. Static is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/378360 /locations/9"
                                 containerid="39002093779396"
                                 encodinganalog="audiocassettes box"
