@@ -40,7 +40,7 @@
                <p>Boxes: 1, OV1-2, OV2-33, 35-55, 60-65, 86-87, 92-97, 101-103, 105-115, 120, 122-134, 171, 179, 195-199, 207-218, 223-225, 250-251, 265-273, 278-285, 287-293, 298-304, 306-494</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: OV3, OVd3-OV5, 56, 66-67</p>
+               <p>Boxes: OV3, OVd3-OV5, 56, 66-68</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="27">27</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2668">2,668</num> digital files.</p>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-22T18:00:51-04:00</eventdatetime>
+            <eventdatetime>2026-10-06T18:01:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 22, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -30074,6 +30074,24 @@ The Shelton family wrote extensively on their experiences in Tibet: Albert Shelt
                      <container id="aspace_ref1432_c2"
                                 localtype="folder"
                                 parent="aspace_ref1432_c1">25</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059661"
+                  id="aspace_1eb6538dca27e7d75ae1d5d7be71f591"
+                  level="file">
+                  <did>
+                     <unittitle>Thesis submitted for M.A. degree from Yale University: "The Contribution of Ruth Rouse to the World's Student Christian Federation"</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1937">1937</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485304 /locations/2"
+                                containerid="39002112327326"
+                                id="aspace_1eb6538dca27e7d75ae1d5d7be71f591_c1"
+                                label="Mixed Materials"
+                                localtype="box">68</container>
+                     <container id="aspace_1eb6538dca27e7d75ae1d5d7be71f591_c2"
+                                localtype="folder"
+                                parent="aspace_1eb6538dca27e7d75ae1d5d7be71f591_c1">1-4</container>
                   </did>
                </c>
             </c>

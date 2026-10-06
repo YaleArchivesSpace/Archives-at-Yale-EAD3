@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-02T18:00:54-04:00</eventdatetime>
+            <eventdatetime>2026-10-06T18:00:57-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -16157,7 +16157,8 @@
                </did>
                <bioghist id="aspace_c331b9a0912682c8a121345fe1c19317">
                   <head>Biographical / Historical</head>
-                  <p>ACM Shanghai, Chengdu (Chengtu) (L.1921-L.1936)</p>
+                  <p>ACM Shanghai, Chengdu (Chengtu) (L.1921-1941)
+Groff was a nurse who served primarily at St. Luke's Hospital in Shanghai along with her close friend and colleague Elizabeth Falck.</p>
                </bioghist>
                <c altrender="/repositories/4/archival_objects/115189"
                   id="ref814"
@@ -16233,6 +16234,88 @@
                                 label="Mixed Materials"
                                 localtype="box">91</container>
                      <container id="aspace_ref817_c2" localtype="folder" parent="aspace_ref817_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059657"
+                  id="aspace_815edc9fa051a328724e50d8a217e1b8"
+                  level="file">
+                  <did>
+                     <unittitle>Letters from Groff to mother, aunt, and sisters of her colleague Elizabeth Falck</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921">1921</fromdate>
+                           <todate standarddate="1941">1941</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11832 /locations/2"
+                                containerid="39002034900309"
+                                id="aspace_815edc9fa051a328724e50d8a217e1b8_c1"
+                                label="Mixed Materials"
+                                localtype="box">91</container>
+                     <container id="aspace_815edc9fa051a328724e50d8a217e1b8_c2"
+                                localtype="folder"
+                                parent="aspace_815edc9fa051a328724e50d8a217e1b8_c1">13a</container>
+                  </did>
+                  <scopecontent id="aspace_4fd5f67505b61ec56b3f6e032a78a397">
+                     <head>Scope and Contents</head>
+                     <p>Anne Groff and Elizabeth Falck were close friends who came from the same home town and served together in China.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059658"
+                  id="aspace_1cd74db2a90fd2ea69c437e1e634df20"
+                  level="file">
+                  <did>
+                     <unittitle>Letters to Helen Amos, mutual friend of Anne Groff and Elizabeth Falck</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1921">1921</fromdate>
+                           <todate standarddate="1927">1927</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11832 /locations/2"
+                                containerid="39002034900309"
+                                id="aspace_1cd74db2a90fd2ea69c437e1e634df20_c1"
+                                label="Mixed Materials"
+                                localtype="box">91</container>
+                     <container id="aspace_1cd74db2a90fd2ea69c437e1e634df20_c2"
+                                localtype="folder"
+                                parent="aspace_1cd74db2a90fd2ea69c437e1e634df20_c1">13b</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059659"
+                  id="aspace_6c5556fcd88bc94fd43b68693ef62d5f"
+                  level="file">
+                  <did>
+                     <unittitle>Notes regarding Soochow [Suzhou] dialect of Chinese</unittitle>
+                     <unitdatestructured altrender="circa 1921" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1921">circa 1921</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11832 /locations/2"
+                                containerid="39002034900309"
+                                id="aspace_6c5556fcd88bc94fd43b68693ef62d5f_c1"
+                                label="Mixed Materials"
+                                localtype="box">91</container>
+                     <container id="aspace_6c5556fcd88bc94fd43b68693ef62d5f_c2"
+                                localtype="folder"
+                                parent="aspace_6c5556fcd88bc94fd43b68693ef62d5f_c1">13c</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059660"
+                  id="aspace_ce7ea8dfc83dd0ee05b426f4a0332d62"
+                  level="file">
+                  <did>
+                     <unittitle>Notification of registration as nurse with Pennsylvania State Board of Examiners</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1920">1920</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11832 /locations/2"
+                                containerid="39002034900309"
+                                id="aspace_ce7ea8dfc83dd0ee05b426f4a0332d62_c1"
+                                label="Mixed Materials"
+                                localtype="box">91</container>
+                     <container id="aspace_ce7ea8dfc83dd0ee05b426f4a0332d62_c2"
+                                localtype="folder"
+                                parent="aspace_ce7ea8dfc83dd0ee05b426f4a0332d62_c1">13c</container>
                   </did>
                </c>
             </c>
