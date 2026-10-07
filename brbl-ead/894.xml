@@ -45,7 +45,7 @@
                <p>Boxes: 71-74, 77-78, 81, 81a-82, 84, 86, 89-90, 98, 128-130, 135, 157-167, 175, 178a, 187, 193-195</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1697">1,697</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="27860">27,860</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="1698">1,698</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="27863">27,863</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-01T23:04:16-04:00</eventdatetime>
+            <eventdatetime>2026-10-06T23:01:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 23:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -90984,6 +90984,35 @@
                         <container id="aspace_ref2545_c2"
                                    localtype="folder"
                                    parent="aspace_ref2545_c1">1811</container>
+                        <daoset altrender="/repositories/11/digital_objects/359279">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33824160"
+                                identifier="oid:33824160"
+                                linktitle="3 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33824161/full/!150,150/0/default.jpg"
+                                identifier="oid:33824160"
+                                linktitle="3 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33824160"
+                                identifier="oid:33824160"
+                                linktitle="3 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Privy Council act on patent</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/293855"

@@ -42,7 +42,7 @@
                <p>Boxes: 1-19</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1509">1,509</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="13">13</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1714">1,714</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-16T23:04:35-04:00</eventdatetime>
+            <eventdatetime>2026-10-06T23:02:51-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 16, 2026 at 23:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -252,6 +252,35 @@
                                 id="aspace_ref13_c1"
                                 label="Mixed Materials"
                                 localtype="box">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/359285">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33823381"
+                             identifier="oid:33823381"
+                             linktitle="205 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33823382/full/!150,150/0/default.jpg"
+                             identifier="oid:33823381"
+                             linktitle="205 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33823381"
+                             identifier="oid:33823381"
+                             linktitle="205 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Sketchbook</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_dc819f9a18ba8dcbe292072ec2a1aec7">
                      <head>Scope and Contents</head>
