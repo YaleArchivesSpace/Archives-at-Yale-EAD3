@@ -65,10 +65,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-05T18:00:45-04:00</eventdatetime>
+            <eventdatetime>2026-10-07T18:01:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October  5, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October  7, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -551,72 +551,270 @@
                   id="aspace_02d472dd248617c72e8ac1398dc1f314"
                   level="file">
                   <did>
-                     <unittitle>1824 May - 1826 July</unittitle>
-                     <unitdatestructured altrender="1824–1826" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1824">1824</fromdate>
-                           <todate standarddate="1826">1826</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>1824 May - September</unittitle>
                      <container altrender="/repositories/4/top_containers/309177 /locations/9"
                                 containerid="39002099037203"
                                 id="aspace_02d472dd248617c72e8ac1398dc1f314_c1"
                                 label="Mixed Materials"
                                 localtype="box">7</container>
+                     <container id="aspace_02d472dd248617c72e8ac1398dc1f314_c2"
+                                localtype="folder"
+                                parent="aspace_02d472dd248617c72e8ac1398dc1f314_c1">1-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059736"
+                  id="aspace_46ffd8f4ec82da2b8efcb85884b4868b"
+                  level="file">
+                  <did>
+                     <unittitle>1824 October - 1825 January</unittitle>
+                     <container altrender="/repositories/4/top_containers/309177 /locations/9"
+                                containerid="39002099037203"
+                                id="aspace_46ffd8f4ec82da2b8efcb85884b4868b_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_46ffd8f4ec82da2b8efcb85884b4868b_c2"
+                                localtype="folder"
+                                parent="aspace_46ffd8f4ec82da2b8efcb85884b4868b_c1">5-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059737"
+                  id="aspace_616418117ea58a540aeddaa009c17b33"
+                  level="file">
+                  <did>
+                     <unittitle>1825 February - 1826 January</unittitle>
+                     <container altrender="/repositories/4/top_containers/309177 /locations/9"
+                                containerid="39002099037203"
+                                id="aspace_616418117ea58a540aeddaa009c17b33_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_616418117ea58a540aeddaa009c17b33_c2"
+                                localtype="folder"
+                                parent="aspace_616418117ea58a540aeddaa009c17b33_c1">9-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059738"
+                  id="aspace_802141eda7a85503b466f5349933d5ae"
+                  level="file">
+                  <did>
+                     <unittitle>1826 February - July</unittitle>
+                     <container altrender="/repositories/4/top_containers/309177 /locations/9"
+                                containerid="39002099037203"
+                                id="aspace_802141eda7a85503b466f5349933d5ae_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_802141eda7a85503b466f5349933d5ae_c2"
+                                localtype="folder"
+                                parent="aspace_802141eda7a85503b466f5349933d5ae_c1">13-16</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2688377"
                   id="aspace_3e07d24540f95e3b1802c87177689c66"
                   level="file">
                   <did>
-                     <unittitle>1826 August - 1830 December</unittitle>
-                     <unitdatestructured altrender="1826–1830" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1826">1826</fromdate>
-                           <todate standarddate="1830">1830</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>1826 August - 1827 May</unittitle>
                      <container altrender="/repositories/4/top_containers/309178 /locations/9"
                                 containerid="39002099037211"
                                 id="aspace_3e07d24540f95e3b1802c87177689c66_c1"
                                 label="Mixed Materials"
                                 localtype="box">8</container>
+                     <container id="aspace_3e07d24540f95e3b1802c87177689c66_c2"
+                                localtype="folder"
+                                parent="aspace_3e07d24540f95e3b1802c87177689c66_c1">1-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059787"
+                  id="aspace_ba5b3127113e1b20284a905b1a3d82e3"
+                  level="file">
+                  <did>
+                     <unittitle>1827 June - 1829 January</unittitle>
+                     <container altrender="/repositories/4/top_containers/309178 /locations/9"
+                                containerid="39002099037211"
+                                id="aspace_ba5b3127113e1b20284a905b1a3d82e3_c1"
+                                label="Mixed Materials"
+                                localtype="box">8</container>
+                     <container id="aspace_ba5b3127113e1b20284a905b1a3d82e3_c2"
+                                localtype="folder"
+                                parent="aspace_ba5b3127113e1b20284a905b1a3d82e3_c1">5-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059788"
+                  id="aspace_37ec0e7d63071dc42c5d3b78565ab332"
+                  level="file">
+                  <did>
+                     <unittitle>1829 February - 1830 March</unittitle>
+                     <container altrender="/repositories/4/top_containers/309178 /locations/9"
+                                containerid="39002099037211"
+                                id="aspace_37ec0e7d63071dc42c5d3b78565ab332_c1"
+                                label="Mixed Materials"
+                                localtype="box">8</container>
+                     <container id="aspace_37ec0e7d63071dc42c5d3b78565ab332_c2"
+                                localtype="folder"
+                                parent="aspace_37ec0e7d63071dc42c5d3b78565ab332_c1">9-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059789"
+                  id="aspace_8c4c982c5f5f46447d55e029228ddc73"
+                  level="file">
+                  <did>
+                     <unittitle>1830 April - December</unittitle>
+                     <container altrender="/repositories/4/top_containers/309178 /locations/9"
+                                containerid="39002099037211"
+                                id="aspace_8c4c982c5f5f46447d55e029228ddc73_c1"
+                                label="Mixed Materials"
+                                localtype="box">8</container>
+                     <container id="aspace_8c4c982c5f5f46447d55e029228ddc73_c2"
+                                localtype="folder"
+                                parent="aspace_8c4c982c5f5f46447d55e029228ddc73_c1">13-16</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2688378"
                   id="aspace_46b1fa33a798454f970d48bc83c11e73"
                   level="file">
                   <did>
-                     <unittitle>1831 January - 1835 July</unittitle>
-                     <unitdatestructured altrender="1831–1835" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1831">1831</fromdate>
-                           <todate standarddate="1835">1835</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>1831 January - 1832 February</unittitle>
                      <container altrender="/repositories/4/top_containers/309179 /locations/9"
                                 containerid="39002099037229"
                                 id="aspace_46b1fa33a798454f970d48bc83c11e73_c1"
                                 label="Mixed Materials"
                                 localtype="box">9</container>
+                     <container id="aspace_46b1fa33a798454f970d48bc83c11e73_c2"
+                                localtype="folder"
+                                parent="aspace_46b1fa33a798454f970d48bc83c11e73_c1">1-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059790"
+                  id="aspace_a85d399563b3b36d46b232fcc1c623df"
+                  level="file">
+                  <did>
+                     <unittitle>1832 April - 1833 May</unittitle>
+                     <container altrender="/repositories/4/top_containers/309179 /locations/9"
+                                containerid="39002099037229"
+                                id="aspace_a85d399563b3b36d46b232fcc1c623df_c1"
+                                label="Mixed Materials"
+                                localtype="box">9</container>
+                     <container id="aspace_a85d399563b3b36d46b232fcc1c623df_c2"
+                                localtype="folder"
+                                parent="aspace_a85d399563b3b36d46b232fcc1c623df_c1">5-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059791"
+                  id="aspace_dede4d130ca860bd4d0b68fd674d67c1"
+                  level="file">
+                  <did>
+                     <unittitle>1833 June - 1834 February 9</unittitle>
+                     <container altrender="/repositories/4/top_containers/309179 /locations/9"
+                                containerid="39002099037229"
+                                id="aspace_dede4d130ca860bd4d0b68fd674d67c1_c1"
+                                label="Mixed Materials"
+                                localtype="box">9</container>
+                     <container id="aspace_dede4d130ca860bd4d0b68fd674d67c1_c2"
+                                localtype="folder"
+                                parent="aspace_dede4d130ca860bd4d0b68fd674d67c1_c1">9-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059792"
+                  id="aspace_0fad3e141f1c2168b47f28f163042ade"
+                  level="file">
+                  <did>
+                     <unittitle>1834 February 23 - 1835 July</unittitle>
+                     <container altrender="/repositories/4/top_containers/309179 /locations/9"
+                                containerid="39002099037229"
+                                id="aspace_0fad3e141f1c2168b47f28f163042ade_c1"
+                                label="Mixed Materials"
+                                localtype="box">9</container>
+                     <container id="aspace_0fad3e141f1c2168b47f28f163042ade_c2"
+                                localtype="folder"
+                                parent="aspace_0fad3e141f1c2168b47f28f163042ade_c1">13-16</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2688379"
                   id="aspace_160306b7362f2dd5b400151515a462b2"
                   level="file">
                   <did>
-                     <unittitle>1836 April - 1839 December</unittitle>
-                     <unitdatestructured altrender="1836–1839" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1836">1836</fromdate>
-                           <todate standarddate="1839">1839</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>1836 April - 1836 October</unittitle>
                      <container altrender="/repositories/4/top_containers/309180 /locations/9"
                                 containerid="39002099037237"
                                 id="aspace_160306b7362f2dd5b400151515a462b2_c1"
                                 label="Mixed Materials"
                                 localtype="box">10</container>
+                     <container id="aspace_160306b7362f2dd5b400151515a462b2_c2"
+                                localtype="folder"
+                                parent="aspace_160306b7362f2dd5b400151515a462b2_c1">1-4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059793"
+                  id="aspace_23a3015f4cb960c9f000709f2e04e7ce"
+                  level="file">
+                  <did>
+                     <unittitle>1836 November - 1837 March</unittitle>
+                     <container altrender="/repositories/4/top_containers/309180 /locations/9"
+                                containerid="39002099037237"
+                                id="aspace_23a3015f4cb960c9f000709f2e04e7ce_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_23a3015f4cb960c9f000709f2e04e7ce_c2"
+                                localtype="folder"
+                                parent="aspace_23a3015f4cb960c9f000709f2e04e7ce_c1">5-8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059794"
+                  id="aspace_b0864c99852a908125c31fc9dd35c7c3"
+                  level="file">
+                  <did>
+                     <unittitle>1837 April - 1838 February</unittitle>
+                     <container altrender="/repositories/4/top_containers/309180 /locations/9"
+                                containerid="39002099037237"
+                                id="aspace_b0864c99852a908125c31fc9dd35c7c3_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_b0864c99852a908125c31fc9dd35c7c3_c2"
+                                localtype="folder"
+                                parent="aspace_b0864c99852a908125c31fc9dd35c7c3_c1">9-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059795"
+                  id="aspace_717fd9a7fd1dcadb8e98428108e5268a"
+                  level="file">
+                  <did>
+                     <unittitle>1838 March - July</unittitle>
+                     <container altrender="/repositories/4/top_containers/309180 /locations/9"
+                                containerid="39002099037237"
+                                id="aspace_717fd9a7fd1dcadb8e98428108e5268a_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_717fd9a7fd1dcadb8e98428108e5268a_c2"
+                                localtype="folder"
+                                parent="aspace_717fd9a7fd1dcadb8e98428108e5268a_c1">13-16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059796"
+                  id="aspace_2eafa9dae79ef9633f781f902753d104"
+                  level="file">
+                  <did>
+                     <unittitle>1838 August - 1839 March</unittitle>
+                     <container altrender="/repositories/4/top_containers/309180 /locations/9"
+                                containerid="39002099037237"
+                                id="aspace_2eafa9dae79ef9633f781f902753d104_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_2eafa9dae79ef9633f781f902753d104_c2"
+                                localtype="folder"
+                                parent="aspace_2eafa9dae79ef9633f781f902753d104_c1">17-20</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059797"
+                  id="aspace_da5302176e005bc47df031e0b54f90ef"
+                  level="file">
+                  <did>
+                     <unittitle>1839 April - December</unittitle>
+                     <container altrender="/repositories/4/top_containers/309180 /locations/9"
+                                containerid="39002099037237"
+                                id="aspace_da5302176e005bc47df031e0b54f90ef_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                     <container id="aspace_da5302176e005bc47df031e0b54f90ef_c2"
+                                localtype="folder"
+                                parent="aspace_da5302176e005bc47df031e0b54f90ef_c1">21-24</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2688380"

@@ -41,7 +41,7 @@
                <p>Boxes: 9-13</p>
             </controlnote>
             <controlnote localtype="offsite">
-               <p>Boxes: 1-6, 8</p>
+               <p>Boxes: 1-4, 6, 8</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-03T18:00:29-04:00</eventdatetime>
+            <eventdatetime>2026-10-07T18:00:35-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September  3, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October  7, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -194,12 +194,6 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                         <todate standarddate="1871">1871</todate>
                      </daterange>
                   </unitdatestructured>
-                  <container altrender="/repositories/4/top_containers/485030 /locations/2"
-                             containerid="39002144680700"
-                             id="aspace_ref9_c1"
-                             label="Mixed Materials"
-                             localtype="box">13</container>
-                  <container id="aspace_ref9_c2" localtype="folder" parent="aspace_ref9_c1">1</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2140992"
@@ -1105,7 +1099,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_051eb783f7d62c1abb76037664a866ae"
                   level="file">
                   <did>
-                     <unittitle>Trustees' reports, 1937-1941</unittitle>
+                     <unittitle>Trustees' reports</unittitle>
+                     <unitdatestructured altrender="1937-1941" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1937">1937</fromdate>
+                           <todate standarddate="1941">1941</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_051eb783f7d62c1abb76037664a866ae_c1"
@@ -1120,7 +1120,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_a6c4460a9f732aa51159690924bd625c"
                   level="file">
                   <did>
-                     <unittitle>Trustees minutes, 1970-1978</unittitle>
+                     <unittitle>Trustees minutes</unittitle>
+                     <unitdatestructured altrender="1970-1978" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1970">1970</fromdate>
+                           <todate standarddate="1978">1978</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_a6c4460a9f732aa51159690924bd625c_c1"
@@ -1484,7 +1490,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_18ca3e86d263323b327551ea5fed7208"
                   level="file">
                   <did>
-                     <unittitle>Minutes, 2008-2011</unittitle>
+                     <unittitle>Minutes</unittitle>
+                     <unitdatestructured altrender="2008-2011" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2008">2008</fromdate>
+                           <todate standarddate="2011">2011</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_18ca3e86d263323b327551ea5fed7208_c1"
@@ -1499,7 +1511,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_1d71b3c270e2967c37a0aab0368eb446"
                   level="file">
                   <did>
-                     <unittitle>Minutes, 2012-2013</unittitle>
+                     <unittitle>Minutes</unittitle>
+                     <unitdatestructured altrender="2012-2013" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2012">2012</fromdate>
+                           <todate standarddate="2013">2013</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_1d71b3c270e2967c37a0aab0368eb446_c1"
@@ -1549,7 +1567,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_e052e929b62e09d098da37a3d1958787"
                   level="file">
                   <did>
-                     <unittitle>Minutes, 2013-2016</unittitle>
+                     <unittitle>Minutes</unittitle>
+                     <unitdatestructured altrender="2013-2016" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2013">2013</fromdate>
+                           <todate standarddate="2016">2016</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_e052e929b62e09d098da37a3d1958787_c1"
@@ -1564,7 +1588,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_acd8ed460ba50293042b51a51b21efc8"
                   level="file">
                   <did>
-                     <unittitle>Minutes, 2017-2018</unittitle>
+                     <unittitle>Minutes</unittitle>
+                     <unitdatestructured altrender="2017-2018" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2017">2017</fromdate>
+                           <todate standarddate="2018">2018</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_acd8ed460ba50293042b51a51b21efc8_c1"
@@ -1579,7 +1609,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_2afef3e85e77cf434502b55bf644f437"
                   level="file">
                   <did>
-                     <unittitle>Minutes, 2019-2020</unittitle>
+                     <unittitle>Minutes</unittitle>
+                     <unitdatestructured altrender="2019-2020" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2019">2019</fromdate>
+                           <todate standarddate="2020">2020</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_2afef3e85e77cf434502b55bf644f437_c1"
@@ -1595,7 +1631,10 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                id="aspace_03b62a8ca577f3cde47459f7a3c897e5"
                level="file">
                <did>
-                  <unittitle>Youth Council Conference, 1939</unittitle>
+                  <unittitle>Youth Council Conference</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1939">1939</datesingle>
+                  </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/405018 /locations/2"
                              containerid="39002138118683"
                              id="aspace_03b62a8ca577f3cde47459f7a3c897e5_c1"
@@ -2041,7 +2080,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_9efc4561091bd09c50851dda0a3663a3"
                   level="file">
                   <did>
-                     <unittitle>Jail Study, 1965-1967</unittitle>
+                     <unittitle>Jail Study</unittitle>
+                     <unitdatestructured altrender="1965-1967" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1967">1967</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_9efc4561091bd09c50851dda0a3663a3_c1"
@@ -2126,7 +2171,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_719c939f253719794d6b77d7b9100ac0"
                   level="file">
                   <did>
-                     <unittitle>179 Cold Spring Street Group Home, 1981-1983</unittitle>
+                     <unittitle>179 Cold Spring Street Group Home</unittitle>
+                     <unitdatestructured altrender="1981-1983" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1981">1981</fromdate>
+                           <todate standarddate="1983">1983</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_719c939f253719794d6b77d7b9100ac0_c1"
@@ -2148,7 +2199,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_de612f977212663b6fdf4db256492e4c"
                   level="file">
                   <did>
-                     <unittitle>Reports, Minutes, Budgets, 1948-1967</unittitle>
+                     <unittitle>Reports, Minutes, Budgets</unittitle>
+                     <unitdatestructured altrender="1948-1967" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1948">1948</fromdate>
+                           <todate standarddate="1967">1967</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_de612f977212663b6fdf4db256492e4c_c1"
@@ -2163,7 +2220,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_6bb4125f2291611c5e3ebed3e243be30"
                   level="file">
                   <did>
-                     <unittitle>Save the Children, 1960-1971</unittitle>
+                     <unittitle>Save the Children</unittitle>
+                     <unitdatestructured altrender="1960-1971" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1960">1960</fromdate>
+                           <todate standarddate="1971">1971</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_6bb4125f2291611c5e3ebed3e243be30_c1"
@@ -2178,7 +2241,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_38c1039cd66f5ef2abb57f035fc118c2"
                   level="file">
                   <did>
-                     <unittitle>Save the Children, 1965-1968</unittitle>
+                     <unittitle>Save the Children</unittitle>
+                     <unitdatestructured altrender="1965-1968" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="1968">1968</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_38c1039cd66f5ef2abb57f035fc118c2_c1"
@@ -2193,7 +2262,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_49d4d579a1fe1f881ee04634f9df9067"
                   level="file">
                   <did>
-                     <unittitle>Annual Reports and Membership Lists, 1972-1980</unittitle>
+                     <unittitle>Annual Reports and Membership Lists</unittitle>
+                     <unitdatestructured altrender="1972-1980" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1972">1972</fromdate>
+                           <todate standarddate="1980">1980</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_49d4d579a1fe1f881ee04634f9df9067_c1"
@@ -2208,7 +2283,10 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_39501b0a99423ce247262ec5f6ca342f"
                   level="file">
                   <did>
-                     <unittitle>History, 1979</unittitle>
+                     <unittitle>History</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1979">1979</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_39501b0a99423ce247262ec5f6ca342f_c1"
@@ -2230,7 +2308,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_1949a268b01c0fa11ffa3d57ffc83bfb"
                   level="file">
                   <did>
-                     <unittitle>ECCO - General, 1997-2002</unittitle>
+                     <unittitle>ECCO - General</unittitle>
+                     <unitdatestructured altrender="1997-2002" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1997">1997</fromdate>
+                           <todate standarddate="2002">2002</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_1949a268b01c0fa11ffa3d57ffc83bfb_c1"
@@ -2245,7 +2329,10 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_7aa7c833364db2d89d890bdf71686079"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah: Hope IV Proposal, 2002</unittitle>
+                     <unittitle>Nehemiah: Hope IV Proposal</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2002">2002</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_7aa7c833364db2d89d890bdf71686079_c1"
@@ -2275,7 +2362,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_dab54b5b371276664b2c9611d5937b3a"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah: Overview and Narrative, 2002-2003</unittitle>
+                     <unittitle>Nehemiah: Overview and Narrative</unittitle>
+                     <unitdatestructured altrender="2002-2003" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2002">2002</fromdate>
+                           <todate standarddate="2003">2003</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_dab54b5b371276664b2c9611d5937b3a_c1"
@@ -2290,7 +2383,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_9902e1646ce1d9d87d2f48b919a12e20"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah: Funding, 2002-2004</unittitle>
+                     <unittitle>Nehemiah: Funding</unittitle>
+                     <unitdatestructured altrender="2002-2004" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2002">2002</fromdate>
+                           <todate standarddate="2004">2004</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_9902e1646ce1d9d87d2f48b919a12e20_c1"
@@ -2305,7 +2404,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_641ee3f4ea87637684c82d81f26c91e9"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah: Marketing, 2002-2004</unittitle>
+                     <unittitle>Nehemiah: Marketing</unittitle>
+                     <unitdatestructured altrender="2002-2004" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2002">2002</fromdate>
+                           <todate standarddate="2004">2004</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_641ee3f4ea87637684c82d81f26c91e9_c1"
@@ -2320,7 +2425,10 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_80766fedd3cd5687f08708f569c0efbb"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah: Agreements with City of New Haven, 2003</unittitle>
+                     <unittitle>Nehemiah: Agreements with City of New Haven</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2003">2003</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_80766fedd3cd5687f08708f569c0efbb_c1"
@@ -2335,7 +2443,10 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_b0d3d8010125d9dd0e0c5ed9e152d5e7"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah Development Corporation: Documents, 2003</unittitle>
+                     <unittitle>Nehemiah Development Corporation: Documents</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2003">2003</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_b0d3d8010125d9dd0e0c5ed9e152d5e7_c1"
@@ -2350,7 +2461,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_35dba88a814ff2749d179af3350af66e"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah Homes Funding Corporation: Board Meeting Minutes, 2003-2004</unittitle>
+                     <unittitle>Nehemiah Homes Funding Corporation: Board Meeting Minutes</unittitle>
+                     <unitdatestructured altrender="2003-2004" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2003">2003</fromdate>
+                           <todate standarddate="2004">2004</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_35dba88a814ff2749d179af3350af66e_c1"
@@ -2365,7 +2482,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_704fc2c59c6972d985a5492cd4cbc39b"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah Development Corporation: Board Meeting Minutes, 2003-2005</unittitle>
+                     <unittitle>Nehemiah Development Corporation: Board Meeting Minutes</unittitle>
+                     <unitdatestructured altrender="2003-2005" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2003">2003</fromdate>
+                           <todate standarddate="2005">2005</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_704fc2c59c6972d985a5492cd4cbc39b_c1"
@@ -2380,7 +2503,10 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_671a4e1a1f29c49d54ddd6af838ef1bb"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah: Promissory Note, 2004</unittitle>
+                     <unittitle>Nehemiah: Promissory Note</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2004">2004</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_671a4e1a1f29c49d54ddd6af838ef1bb_c1"
@@ -2395,7 +2521,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_4e8cd26aad55c8564b4ab0c766716e30"
                   level="file">
                   <did>
-                     <unittitle>Nehemiah: Legal Issues, 2004-2006</unittitle>
+                     <unittitle>Nehemiah: Legal Issues</unittitle>
+                     <unitdatestructured altrender="2004-2006" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2004">2004</fromdate>
+                           <todate standarddate="2006">2006</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/405018 /locations/2"
                                 containerid="39002138118683"
                                 id="aspace_4e8cd26aad55c8564b4ab0c766716e30_c1"
@@ -4179,7 +4311,12 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   level="file">
                   <did>
                      <unittitle>Bulletins</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">2010 Jan-Jun</unitdate>
+                     <unitdatestructured altrender="2010 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2010-01">2010 January</fromdate>
+                           <todate standarddate="2010-06">2010 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_44927c5578e983139f93f3e73ed9198f_c1"
@@ -4194,7 +4331,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_336782102dd458b35d68e75633cac4b9"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2010 Jul-Dec</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2010 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2010-07">2010 July</fromdate>
+                           <todate standarddate="2010-12">2010 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_336782102dd458b35d68e75633cac4b9_c1"
@@ -4209,7 +4352,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_299c58c9222b337849ece82ad583c56f"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2011 Jan-Jun</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2011 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2011-01">2011 January</fromdate>
+                           <todate standarddate="2011-06">2011 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_299c58c9222b337849ece82ad583c56f_c1"
@@ -4224,7 +4373,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_de0097ee4e0ed1bd20fc1fea570e4b91"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2011 Jul-Dec</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2011 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2011-07">2011 July</fromdate>
+                           <todate standarddate="2011-12">2011 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_de0097ee4e0ed1bd20fc1fea570e4b91_c1"
@@ -4239,7 +4394,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_5a26dd8d258c041fdf4895a65ee28d8b"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2012 Jan-Jun</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2012 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2012-01">2012 January</fromdate>
+                           <todate standarddate="2012-06">2012 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_5a26dd8d258c041fdf4895a65ee28d8b_c1"
@@ -4254,7 +4415,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_6d9ddf03f2374e8230036558ea551d14"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2012 Jul-Dec</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2012 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2012-07">2012 July</fromdate>
+                           <todate standarddate="2012-12">2012 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_6d9ddf03f2374e8230036558ea551d14_c1"
@@ -4269,7 +4436,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_8424f5a3d8eabcd2f441d5d3b354c114"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2013 Jan-Jun</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2013 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2013-01">2013 January</fromdate>
+                           <todate standarddate="2013-06">2013 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_8424f5a3d8eabcd2f441d5d3b354c114_c1"
@@ -4284,7 +4457,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_7df0895ffeb717f204f7f8ab46c9a895"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2013 Jul-Dec (incl. 175th Anniversary Service, Nov. 3)</unittitle>
+                     <unittitle>Bulletins (incl. 175th Anniversary Service, Nov. 3)</unittitle>
+                     <unitdatestructured altrender="2013 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2013-07">2013 July</fromdate>
+                           <todate standarddate="2013-12">2013 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_7df0895ffeb717f204f7f8ab46c9a895_c1"
@@ -4303,7 +4482,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_a12d9718d8d7da4361db308dd04adbfc"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2014 Jan-Jun</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2014 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2014-01">2014 January</fromdate>
+                           <todate standarddate="2014-06">2014 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_a12d9718d8d7da4361db308dd04adbfc_c1"
@@ -4318,7 +4503,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_1e7b959a6cc7f0ad7bd800adb272a9fd"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2014 Jul-Dec</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2014 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2014-07">2014 July</fromdate>
+                           <todate standarddate="2014-12">2014 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_1e7b959a6cc7f0ad7bd800adb272a9fd_c1"
@@ -4333,7 +4524,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_d5333bb9b1f74e640ed64fdf58f784e1"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2015 Jan-Jun</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2015 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2015-01">2015 January</fromdate>
+                           <todate standarddate="2015-06">2015 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_d5333bb9b1f74e640ed64fdf58f784e1_c1"
@@ -4348,7 +4545,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_24f15976f24dce8c73a8e0f949f0260e"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2015 Jul-Dec</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2015 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2015-07">2015 July</fromdate>
+                           <todate standarddate="2015-12">2015 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_24f15976f24dce8c73a8e0f949f0260e_c1"
@@ -4363,7 +4566,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_ff4ae36e3692cbea6599b71ccccab18a"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2016 Jan-Jun (incl. 2016 Confirmation class faith statements)</unittitle>
+                     <unittitle>Bulletins (incl. 2016 Confirmation class faith statements)</unittitle>
+                     <unitdatestructured altrender="2016 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2016-01">2016 January</fromdate>
+                           <todate standarddate="2016-06">2016 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <materialspec id="aspace_592246426e67239c706821f756292620">Includes 2016 Confirmation Class faith statements.</materialspec>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
@@ -4379,7 +4588,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_1c6bc0e444c6e7c641d7c88d93c3bea6"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2016 Jul-Dec</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2016 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2016-07">2016 July</fromdate>
+                           <todate standarddate="2016-12">2016 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_1c6bc0e444c6e7c641d7c88d93c3bea6_c1"
@@ -4394,7 +4609,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_1f099e74909a19031c7f6380556bff0d"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2017 Jan-Jun (incl. Godspeed service for Rev. Shelly Stackhouse, May 7)</unittitle>
+                     <unittitle>Bulletins (incl. Godspeed service for Rev. Shelly Stackhouse, May 7)</unittitle>
+                     <unitdatestructured altrender="2017 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2017-01">2017 January</fromdate>
+                           <todate standarddate="2017-06">2017 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_1f099e74909a19031c7f6380556bff0d_c1"
@@ -4413,7 +4634,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_e3f95974bda8ecb8ccfbd9e1a634a56b"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2017 Jul-Dec (incl. Rev. Susan J. Murtha as Transitional Minister, beginning Oct 15)</unittitle>
+                     <unittitle>Bulletins (incl. Rev. Susan J. Murtha as Transitional Minister, beginning Oct 15)</unittitle>
+                     <unitdatestructured altrender="2017 Jul-Dec" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2017-07">2017 July</fromdate>
+                           <todate standarddate="2017-12">2017 December</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_e3f95974bda8ecb8ccfbd9e1a634a56b_c1"
@@ -4432,7 +4659,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_b7a31ae28f62ca6821e9aff9494377c5"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2018 Jan-Jun</unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2018 Jan-Jun" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2018-01">2018 January</fromdate>
+                           <todate standarddate="2018-06">2018 June</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_b7a31ae28f62ca6821e9aff9494377c5_c1"
@@ -4447,7 +4680,13 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_e1ba5e7bfdc3216f1616cdbefe1c2af9"
                   level="file">
                   <did>
-                     <unittitle>Bulletins, 2018 Jul-Sep </unittitle>
+                     <unittitle>Bulletins</unittitle>
+                     <unitdatestructured altrender="2018 Jul-Sep " label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2018-07">2018 July</fromdate>
+                           <todate standarddate="2018-09">2018 September</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_e1ba5e7bfdc3216f1616cdbefe1c2af9_c1"
@@ -4462,7 +4701,10 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                   id="aspace_20ec25b4354c7e173043131064425872"
                   level="file">
                   <did>
-                     <unittitle>Bulletin, 2019 Apr 28 (Final Service of Thanksgiving and Celebration)</unittitle>
+                     <unittitle>Bulletin (Final Service of Thanksgiving and Celebration)</unittitle>
+                     <unitdatestructured altrender="2019 Apr 28" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2019-04-28">2019 Apr 28</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/396806"
                                 containerid="39002138114476"
                                 id="aspace_20ec25b4354c7e173043131064425872_c1"
@@ -4495,11 +4737,11 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                            <todate standarddate="1986">1986</todate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/231060 /locations/9"
-                                containerid="39002129361375"
+                     <container altrender="/repositories/4/top_containers/401479"
+                                containerid="39002138114484"
                                 id="aspace_ref57_c1"
                                 label="Mixed Materials"
-                                localtype="box">5</container>
+                                localtype="box">10</container>
                      <container id="aspace_ref57_c2" localtype="folder" parent="aspace_ref57_c1">1</container>
                   </did>
                </c>
@@ -4514,11 +4756,11 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                            <todate standarddate="1988">1988</todate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/231060 /locations/9"
-                                containerid="39002129361375"
+                     <container altrender="/repositories/4/top_containers/401479"
+                                containerid="39002138114484"
                                 id="aspace_ref58_c1"
                                 label="Mixed Materials"
-                                localtype="box">5</container>
+                                localtype="box">10</container>
                      <container id="aspace_ref58_c2" localtype="folder" parent="aspace_ref58_c1">2</container>
                   </did>
                </c>
@@ -4533,11 +4775,11 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                            <todate standarddate="1990">1990</todate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/231060 /locations/9"
-                                containerid="39002129361375"
+                     <container altrender="/repositories/4/top_containers/401479"
+                                containerid="39002138114484"
                                 id="aspace_ref59_c1"
                                 label="Mixed Materials"
-                                localtype="box">5</container>
+                                localtype="box">10</container>
                      <container id="aspace_ref59_c2" localtype="folder" parent="aspace_ref59_c1">3</container>
                   </did>
                </c>
@@ -4552,11 +4794,11 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                            <todate standarddate="1992">1992</todate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/231060 /locations/9"
-                                containerid="39002129361375"
+                     <container altrender="/repositories/4/top_containers/401479"
+                                containerid="39002138114484"
                                 id="aspace_ref60_c1"
                                 label="Mixed Materials"
-                                localtype="box">5</container>
+                                localtype="box">10</container>
                      <container id="aspace_ref60_c2" localtype="folder" parent="aspace_ref60_c1">4</container>
                   </did>
                </c>
@@ -4571,11 +4813,11 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                            <todate standarddate="1998">1998</todate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/231060 /locations/9"
-                                containerid="39002129361375"
+                     <container altrender="/repositories/4/top_containers/401479"
+                                containerid="39002138114484"
                                 id="aspace_ref61_c1"
                                 label="Mixed Materials"
-                                localtype="box">5</container>
+                                localtype="box">10</container>
                      <container id="aspace_ref61_c2" localtype="folder" parent="aspace_ref61_c1">5</container>
                   </did>
                </c>
@@ -4587,11 +4829,11 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                      <unitdatestructured altrender="1999" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1999">1999</datesingle>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/231060 /locations/9"
-                                containerid="39002129361375"
+                     <container altrender="/repositories/4/top_containers/401479"
+                                containerid="39002138114484"
                                 id="aspace_ref62_c1"
                                 label="Mixed Materials"
-                                localtype="box">5</container>
+                                localtype="box">10</container>
                      <container id="aspace_ref62_c2" localtype="folder" parent="aspace_ref62_c1">6</container>
                   </did>
                </c>
@@ -4603,11 +4845,11 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                      <unitdatestructured altrender="2000" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2000">2000</datesingle>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/231060 /locations/9"
-                                containerid="39002129361375"
+                     <container altrender="/repositories/4/top_containers/401479"
+                                containerid="39002138114484"
                                 id="aspace_ref63_c1"
                                 label="Mixed Materials"
-                                localtype="box">5</container>
+                                localtype="box">10</container>
                      <container id="aspace_ref63_c2" localtype="folder" parent="aspace_ref63_c1">7</container>
                   </did>
                </c>
@@ -4629,7 +4871,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_62906c7d5db433093e435c0443a656ee_c2"
                                 localtype="folder"
-                                parent="aspace_62906c7d5db433093e435c0443a656ee_c1">1</container>
+                                parent="aspace_62906c7d5db433093e435c0443a656ee_c1">8</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624835"
@@ -4645,7 +4887,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_923aa2dc6a96b2b9fb67b1a0e40dc02e_c2"
                                 localtype="folder"
-                                parent="aspace_923aa2dc6a96b2b9fb67b1a0e40dc02e_c1">2</container>
+                                parent="aspace_923aa2dc6a96b2b9fb67b1a0e40dc02e_c1">9</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624836"
@@ -4661,7 +4903,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_a25ead76cb6f6daf70bf2419e04a697f_c2"
                                 localtype="folder"
-                                parent="aspace_a25ead76cb6f6daf70bf2419e04a697f_c1">3</container>
+                                parent="aspace_a25ead76cb6f6daf70bf2419e04a697f_c1">10</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624837"
@@ -4677,7 +4919,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_c0d6ffc9ed4125a5bca1d93078e53974_c2"
                                 localtype="folder"
-                                parent="aspace_c0d6ffc9ed4125a5bca1d93078e53974_c1">4</container>
+                                parent="aspace_c0d6ffc9ed4125a5bca1d93078e53974_c1">11</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624838"
@@ -4693,7 +4935,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_e4aa4dbc6d7b4b0839974c6a691fb4de_c2"
                                 localtype="folder"
-                                parent="aspace_e4aa4dbc6d7b4b0839974c6a691fb4de_c1">5</container>
+                                parent="aspace_e4aa4dbc6d7b4b0839974c6a691fb4de_c1">12</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624839"
@@ -4709,7 +4951,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_98121ba055c0d8029f5fa9166a441836_c2"
                                 localtype="folder"
-                                parent="aspace_98121ba055c0d8029f5fa9166a441836_c1">6</container>
+                                parent="aspace_98121ba055c0d8029f5fa9166a441836_c1">13</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624840"
@@ -4725,7 +4967,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_149a3e1ebcc56976e344fbeb40708f01_c2"
                                 localtype="folder"
-                                parent="aspace_149a3e1ebcc56976e344fbeb40708f01_c1">7</container>
+                                parent="aspace_149a3e1ebcc56976e344fbeb40708f01_c1">14</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624841"
@@ -4741,7 +4983,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_c80b6c361a5f93570be8a9d8dbdf7fa1_c2"
                                 localtype="folder"
-                                parent="aspace_c80b6c361a5f93570be8a9d8dbdf7fa1_c1">8</container>
+                                parent="aspace_c80b6c361a5f93570be8a9d8dbdf7fa1_c1">15</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624842"
@@ -4757,7 +4999,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_58897e632d83895af228bf93739b859e_c2"
                                 localtype="folder"
-                                parent="aspace_58897e632d83895af228bf93739b859e_c1">9</container>
+                                parent="aspace_58897e632d83895af228bf93739b859e_c1">16</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624843"
@@ -4773,7 +5015,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_2f60607951a751897fcd7c96e835088d_c2"
                                 localtype="folder"
-                                parent="aspace_2f60607951a751897fcd7c96e835088d_c1">10</container>
+                                parent="aspace_2f60607951a751897fcd7c96e835088d_c1">17</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624844"
@@ -4789,7 +5031,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_b4d72e6102debc654e7213812c7c42af_c2"
                                 localtype="folder"
-                                parent="aspace_b4d72e6102debc654e7213812c7c42af_c1">11</container>
+                                parent="aspace_b4d72e6102debc654e7213812c7c42af_c1">18</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624845"
@@ -4805,7 +5047,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_099a8bd225a37b6a6ab667fd13c3732e_c2"
                                 localtype="folder"
-                                parent="aspace_099a8bd225a37b6a6ab667fd13c3732e_c1">12</container>
+                                parent="aspace_099a8bd225a37b6a6ab667fd13c3732e_c1">19</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3624846"
@@ -4821,7 +5063,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_7eeefc56d7b48072bd646a1e766b7e03_c2"
                                 localtype="folder"
-                                parent="aspace_7eeefc56d7b48072bd646a1e766b7e03_c1">13</container>
+                                parent="aspace_7eeefc56d7b48072bd646a1e766b7e03_c1">20</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3681615"
@@ -4836,7 +5078,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_00fc6b453badab90dde39df884d69528_c2"
                                 localtype="folder"
-                                parent="aspace_00fc6b453badab90dde39df884d69528_c1">14</container>
+                                parent="aspace_00fc6b453badab90dde39df884d69528_c1">21</container>
                   </did>
                </c>
             </c>
@@ -4864,7 +5106,7 @@ Rev. Susan Murtha 2017 Oct 15-2019 Apr 28 (transitional minister through closing
                                 localtype="box">10</container>
                      <container id="aspace_0377cd6d772be28984f1a236ea304f5e_c2"
                                 localtype="folder"
-                                parent="aspace_0377cd6d772be28984f1a236ea304f5e_c1">15</container>
+                                parent="aspace_0377cd6d772be28984f1a236ea304f5e_c1">22</container>
                   </did>
                </c>
             </c>
