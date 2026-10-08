@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-29T18:02:25-04:00</eventdatetime>
+            <eventdatetime>2026-10-08T18:00:55-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 29, 2026 at 18:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  8, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -9116,10 +9116,10 @@
                   level="file">
                   <did>
                      <unittitle>General</unittitle>
-                     <unitdatestructured altrender="1934-1970" label="creation" unitdatetype="inclusive">
+                     <unitdatestructured altrender="1934-1936" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1934">1934</fromdate>
-                           <todate standarddate="1970">1970</todate>
+                           <todate standarddate="1936">1936</todate>
                         </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/12507 /locations/9"
@@ -9127,7 +9127,28 @@
                                 id="aspace_ref458_c1"
                                 label="Mixed Materials"
                                 localtype="box">55</container>
-                     <container id="aspace_ref458_c2" localtype="folder" parent="aspace_ref458_c1">775-776</container>
+                     <container id="aspace_ref458_c2" localtype="folder" parent="aspace_ref458_c1">775</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4059809"
+                  id="aspace_2e138d85e1dc6570b2d23c96ca3f2f05"
+                  level="file">
+                  <did>
+                     <unittitle>General</unittitle>
+                     <unitdatestructured altrender="1939-1970" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1939">1939</fromdate>
+                           <todate standarddate="1970">1970</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/12507 /locations/9"
+                                containerid="39002038303997"
+                                id="aspace_2e138d85e1dc6570b2d23c96ca3f2f05_c1"
+                                label="Mixed Materials"
+                                localtype="box">55</container>
+                     <container id="aspace_2e138d85e1dc6570b2d23c96ca3f2f05_c2"
+                                localtype="folder"
+                                parent="aspace_2e138d85e1dc6570b2d23c96ca3f2f05_c1">776</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/121987"
