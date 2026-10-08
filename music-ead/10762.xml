@@ -79,10 +79,73 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-17T20:01:00-04:00</eventdatetime>
+            <eventdatetime>2026-10-07T20:00:09-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 17, 2026 at 20:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October  7, 2026 at 20:00</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2007-08-24</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>music.mss.0055.xml converted for compliance with Yale EAD Best Practice Guidelines with music-migrate-02.xsl (yn2007-08-24).</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2007-03-21</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>music.mss.0055.xml converted from EAD 1.0 to 2002 with v1to02.xsl (yn2007-03-20).</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2010-01-26</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Transformed with yale.addEadidUrl.xsl. Adds @url with handle for finding aid. Overwrites @url if already present.</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2010-02-14</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Corrected typographical errors. Corrected box number for Grammy Awards.</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2014-07-10</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Corrected typographical error.</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2014-08-27</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Grammy Awards reboxed and revised.</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2015-10-13</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Framed disc, 1970 Best Classical Performance/Instrumental Soloist - Kreisleriana is now in Box 187.</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2016-06-23</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Toscanini baton reboxed. (Also corrected the key of the Brahms concereto mentioned there.</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>2017-03-28</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Clarified that the contents of Series VII.C have been transferred to Misc. Ms. 372, Miscellaneous Letters and Dcouments File.</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -90231,6 +90294,10 @@
                                 label="Mixed Materials"
                                 localtype="box">144a</container>
                   </did>
+                  <odd id="aspace_0ac78e858c86bb39a2404093e980c370">
+                     <head>General</head>
+                     <p>When this collection was rehoused in 2021, the bronze figure mentioned for this item could not be found. It is not in box 144a.</p>
+                  </odd>
                </c>
                <c altrender="/repositories/6/archival_objects/2665537"
                   id="aspace_d1e91317"
@@ -90250,6 +90317,10 @@
                                 label="Mixed Materials"
                                 localtype="box">161a</container>
                   </did>
+                  <odd id="aspace_3fc7c7d447d4ef55ceb3cb7f2ed8057a">
+                     <head>General</head>
+                     <p>In 2021 when this item was rehoused, the frammed gold disc could not be located. It it not in box 161a.</p>
+                  </odd>
                </c>
             </c>
             <c altrender="/repositories/6/archival_objects/2662318"
@@ -98542,7 +98613,7 @@ pages. "First compostion VH" written in another hand.</physdesc>
             </did>
             <scopecontent id="aspace_c944dca2a397720f332ec23325902880">
                <head>Scope and Contents</head>
-               <p>Unreleased test pressings of recitals performed by Vladimir Horotwitz at Carnegie Hall, predominantly in the 1030s and 1940s.</p>
+               <p>Unreleased test pressings of recitals  performed by Vladimir Horotwitz, likely at Carnegie Hall, predominantly in the 1930s and 1940s.</p>
             </scopecontent>
             <odd id="aspace_8c48672bf2907ab5d353029080b7dda9">
                <head>General</head>
@@ -99301,6 +99372,18 @@ pages. "First compostion VH" written in another hand.</physdesc>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   </did>
                </c>
+               <c altrender="/repositories/6/archival_objects/3595534"
+                  id="aspace_cf7b7d5610acb4df9c225403dedb8a35"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata No. 12 in F, K. 332, 1st Mvt., Allegro (Mozart)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
                <c altrender="/repositories/6/archival_objects/3595535"
                   id="aspace_527ce55a9777ec491d6a7c2c1ab7cd07"
                   level="item">
@@ -99385,6 +99468,282 @@ pages. "First compostion VH" written in another hand.</physdesc>
                   level="item">
                   <did>
                      <unittitle>Pictures at an Exhibition: The Hut of Baba Yaga (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596057"
+                  id="aspace_69ad54f6af8188b84e2b8aabb7bc5cb8"
+                  level="item">
+                  <did>
+                     <unittitle>Ballade No. 1 in G minor, Pt. 1 (Chopin)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596058"
+                  id="aspace_91bd24e3a6946245df85f62379ad7121"
+                  level="item">
+                  <did>
+                     <unittitle>Ballade No. 1 in G minor, Pt. 1 (Chopin)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596059"
+                  id="aspace_3150c230109e93d7b4f882d7130845bd"
+                  level="item">
+                  <did>
+                     <unittitle>Hungarian Rhapsody No. 6, concl. (Liszt)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596060"
+                  id="aspace_4569c7b04a68a6884e69ae417bb81458"
+                  level="item">
+                  <did>
+                     <unittitle>Hungarian Rhapsody No. 6, concl. (Liszt)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596061"
+                  id="aspace_67f7f9e1961944093cb88de7b9ad629d"
+                  level="item">
+                  <did>
+                     <unittitle>Hungarian Rhapsody No. 6, Pt. 1. (Liszt)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596062"
+                  id="aspace_c525e2b79563ac3fbefdf1259b590e96"
+                  level="item">
+                  <did>
+                     <unittitle>Hungarian Rhapsody No. 6, Pt. 1. (Liszt)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596063"
+                  id="aspace_a2aa4b27d44321d3615d047dcefb31c2"
+                  level="item">
+                  <did>
+                     <unittitle>Serenade for the Doll (Debussy); Presto in B-flat minor (Poulenc)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596064"
+                  id="aspace_059ab19ec957b44ae1773f118bde6555"
+                  level="item">
+                  <did>
+                     <unittitle>Serenade for the Doll (Debussy); Presto in B-flat minor (Poulenc)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596065"
+                  id="aspace_aaf298d127b7c543e847e1d1a03cc3f9"
+                  level="item">
+                  <did>
+                     <unittitle>Serenade for the Doll (Debussy); Presto in B-flat minor (Poulenc)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596066"
+                  id="aspace_6f900a14e38e2c20f0de0c7cabb3dd41"
+                  level="item">
+                  <did>
+                     <unittitle>Serenade for the Doll (Debussy); Presto in B-flat minor (Poulenc)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596067"
+                  id="aspace_2ff1ccd0855548059933f66b21d92207"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition: The Great Gate at Kiev (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596068"
+                  id="aspace_6f6a3b688b7695409a019c8a101b9a0b"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition: The Great Gate at Kiev (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596069"
+                  id="aspace_2df051cc59c7dbb00c4e1d5f422e7ebf"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 6 (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596070"
+                  id="aspace_a76afacb9b2ada06205178dd652f9aa1"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 5: a) Market Place at Limoges b) Catacombs (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596071"
+                  id="aspace_9c5d86b5337d4de49e244690918d4694"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 5 (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596072"
+                  id="aspace_9909c5cf0d4ba3cf791533c8f62ca29a"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 4 (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596073"
+                  id="aspace_a01ddc5712d8a8a7d88389859d014dda"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition: a) Promenade b) Ballet of Unhatched Chicks c) "Samuel" Goldenberg and "Schmuÿle" (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596074"
+                  id="aspace_5876940e7446f1bd7ac037d3500b8b5c"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 4 (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596075"
+                  id="aspace_d8d4b75b0a1fc88eaf659e58b45e49bb"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 3 (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596076"
+                  id="aspace_f3503a9a47cc6712f6ba7044ef4369aa"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Side 3 (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596077"
+                  id="aspace_b5bab62500bd4e0a3388e668e8b031d9"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 3 (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596078"
+                  id="aspace_c2aa806dd2c5795f87a8ba39ea2c45b4"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition a) Promenade b) Tulieries c) Cattle</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3596079"
+                  id="aspace_eaa7c91e7e0d394bb099382ba8cebdd0"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition, Pt. 3 (Mussorgsky)</unittitle>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                         <quantity>1</quantity>
                         <unittype>Phonograph Record</unittype>
@@ -99644,6 +100003,241 @@ pages. "First compostion VH" written in another hand.</physdesc>
                   level="item">
                   <did>
                      <unittitle>Sonata No. 3, Op. 46, 1st Mvt., Pt. 1 (Kabalevsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/6/archival_objects/3601579"
+               id="aspace_22695a5c5b38c3134dbd7a5628d58cfe"
+               level="file">
+               <did>
+                  <unittitle>Box #12</unittitle>
+               </did>
+               <c altrender="/repositories/6/archival_objects/3612127"
+                  id="aspace_8d194d4c88909ba0e2b31b013613d9d4"
+                  level="item">
+                  <did>
+                     <unittitle>Träumerei (Schumann)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612128"
+                  id="aspace_f93d30eaa70cbad3412254082fbb512a"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata No. 3, Op. 46, 1st mvt. concl, 2nd mvt., Pt. 1 (Kabalevsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612129"
+                  id="aspace_3ce7624255602ab06c597cc23aa96a63"
+                  level="item">
+                  <did>
+                     <unittitle>Impromptu (Chopin)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612130"
+                  id="aspace_f1f57c8a02e411e98f97e63d04048312"
+                  level="item">
+                  <did>
+                     <unittitle>Träumerei (Schumann)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612131"
+                  id="aspace_6987e1eeb4b246861bd183abc3b17856"
+                  level="item">
+                  <did>
+                     <unittitle>Träumerei (Schumann)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612132"
+                  id="aspace_d9dbb6bb90b4696eaf4af139f3731bbd"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata No. 3; 2nd mvt., concl.; 3rd mvt., Pt. 1 (Kabalevsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612133"
+                  id="aspace_531754236d5464ed9c6a2663cfff6395"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata No. 3, Op. 46, 2nd mvt., concl.; 3r mvt., Pt. 1 (Kabalevsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612134"
+                  id="aspace_31a375e03f1f566306a30ea7c0fd96b7"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata No. 3, Op. 46, 3rd. mvt., concl. (Kabalevsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612135"
+                  id="aspace_c12e1ee0c1d41be7d9b6428b94ce70d8"
+                  level="item">
+                  <did>
+                     <unittitle>Snata No. 3, Op. 46, 3rd mvt., concl. (Kabalevsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612136"
+                  id="aspace_87745ee810d5eeab62c5db7cfd6df21e"
+                  level="item">
+                  <did>
+                     <unittitle>Impromptu in G-flat, Pt. 1 (Schubert)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612137"
+                  id="aspace_e345775cf4943a91c02af3dd593ad3e6"
+                  level="item">
+                  <did>
+                     <unittitle>Impromptu in G-flat, Pt. 1 (Schubert)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612138"
+                  id="aspace_1453887d5bb1c760b84d1901feb7f081"
+                  level="item">
+                  <did>
+                     <unittitle>Impromptu in G-flat, Pt. 1 (Schubert)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612139"
+                  id="aspace_746a05635d4950dca86173ad75f7bcec"
+                  level="item">
+                  <did>
+                     <unittitle>Impromptu in G-flat, Pt. 1 (Schubert)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612140"
+                  id="aspace_300157e701fb35e23eff22a0a4941f63"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata in C-sharp minor, Op. 27, No. 2, 1st. Mvt., Pt. 1 (Beethoven)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612141"
+                  id="aspace_8adc22c26f2da18b387d60cac7abc2e8"
+                  level="item">
+                  <did>
+                     <unittitle>Moonlight Sonata, 1st. Mvt., Pt (Beethoven)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612142"
+                  id="aspace_41e622015eb529379db96d8c6e148e8b"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata in C-sharp minor, Op. 27, No. 2, 1st. mvt., concl.; 2nd mvt. (Beethoven)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612143"
+                  id="aspace_24a1a6c8010678cb570f2c702cdf5891"
+                  level="item">
+                  <did>
+                     <unittitle>Moonlight Sonata, 1st. mvt., cloncl.; 2nd mvt.</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612144"
+                  id="aspace_a6a087838f10d0da55a1008356894732"
+                  level="item">
+                  <did>
+                     <unittitle>Carmen Fantasy (Bizet/Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3612145"
+                  id="aspace_89b6fe4ea29bbbc5018cfe57a8f042d8"
+                  level="item">
+                  <did>
+                     <unittitle>Mazurka, Op. 7, No. 3 (Chopin)</unittitle>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                         <quantity>1</quantity>
                         <unittype>Phonograph Record</unittype>
@@ -100511,6 +101105,10 @@ pages. "First compostion VH" written in another hand.</physdesc>
                      </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   </did>
+                  <odd id="aspace_ed45843155995765ce05a44d35a261b4">
+                     <head>General</head>
+                     <p>From label: "Not fit to use. Over-cut grooves cut into others."</p>
+                  </odd>
                </c>
                <c altrender="/repositories/6/archival_objects/3661287"
                   id="aspace_1ddbd8da87c5e8d3aafc5203436d1cea"
@@ -100549,12 +101147,537 @@ pages. "First compostion VH" written in another hand.</physdesc>
                   </did>
                </c>
             </c>
+            <c altrender="/repositories/6/archival_objects/3722505"
+               id="aspace_2780244557be9cc9f8b154ce1288e817"
+               level="file">
+               <did>
+                  <unittitle>Box #16</unittitle>
+               </did>
+               <c altrender="/repositories/6/archival_objects/3722593"
+                  id="aspace_167e4c108d712057342c07d48dc80fe1"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 2nd mvt. pt. 2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722594"
+                  id="aspace_35e35277bd1b8e3f83b3dca708004e8d"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 2nd mvt. pt. 2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722595"
+                  id="aspace_f988f89fddd907e2749f9214883ebf6d"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 2nd mvt. pt. 2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722596"
+                  id="aspace_b1954fd9b16b661729918edbdd252d56"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata No. 3 in D Minor, Op. 108, 4th mvt., Presto Agitato (concl.)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722597"
+                  id="aspace_dedbb51ce36b73feff77b9f0cdb46ce5"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 2nd mvt. pt. 2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722598"
+                  id="aspace_a9bed8beb33d1ee9ffa13051cf13d84a"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 2nd mvt. pt. 2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722599"
+                  id="aspace_171b933bb8d8f96229b66d1723bd3c7f"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B Minor, 2nd mvt. pt. 2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722600"
+                  id="aspace_d7b33c79552a40f6a88723ab04ab8b2d"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 3rd mvt. pt. 1 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722601"
+                  id="aspace_fbbeb42a9c359d60573ad6396666d0e0"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 3rd mvt. pt. 1 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722602"
+                  id="aspace_5e6e60b2aaeff97ac5d147dec456c28d"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 3rd mvt. pt. 2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722701"
+                  id="aspace_9d4efcd632c9f36e795e7c2c613727fe"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, finale</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722702"
+                  id="aspace_2296fbc616d8f66cd509177cf1ae03a7"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 3rd mvt. pt. 2 finale</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722703"
+                  id="aspace_7057d6a6e602ac3bddeacbb4f5fababa"
+                  level="item">
+                  <did>
+                     <unittitle>Concerto No. 1 in B minor, 3rd mvt. pt. 2 finale</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722704"
+                  id="aspace_e3f153da3814df34c0bea4dd92c66396"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.1 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722705"
+                  id="aspace_c5f45b8c7559877f196e000e744e809b"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.1 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722706"
+                  id="aspace_11c4e34c70bca49a00246615ad7098b7"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.1 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722707"
+                  id="aspace_9547eb14f6bcc8b748e0c5fc240116f8"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.1 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722708"
+                  id="aspace_610e9df0a4ad31445fe6221488e66647"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722709"
+                  id="aspace_a3eae38c0cbf7d18b6b291ef16925bf7"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722710"
+                  id="aspace_1b80b20bce41a8a3233d20e8caa8328e"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722711"
+                  id="aspace_5bcb5854a4b632087a56b1e2a0a13de5"
+                  level="item">
+                  <did>
+                     <unittitle>Doumka in C minor, Op. 59, No.2 (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722712"
+                  id="aspace_c5858461ae4d62c4d66ffa990a3cb7ee"
+                  level="item">
+                  <did>
+                     <unittitle>Danse Macabre, No. 2 (Saint-Saëns, arr. Liszt, Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722713"
+                  id="aspace_689731805180cb6fa22cf822fd5df556"
+                  level="item">
+                  <did>
+                     <unittitle>Danse Macabre, No. 2 (Saint-Saëns, arr. Liszt, Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722714"
+                  id="aspace_c869a20d7b1859bc544c48d450cc4ad2"
+                  level="item">
+                  <did>
+                     <unittitle>Danse Macabre, No. 2 (Saint-Saëns, arr. Liszt, Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+            </c>
             <c altrender="/repositories/6/archival_objects/3722715"
                id="aspace_893a1866d3f17e1fbc0811cf92cbac69"
                level="file">
                <did>
                   <unittitle>Box #17</unittitle>
                </did>
+               <c altrender="/repositories/6/archival_objects/3722716"
+                  id="aspace_9442b368791f3bd02112c035ff21ae95"
+                  level="item">
+                  <did>
+                     <unittitle>Danse Macabre, No. 1 (Saint-Saëns, arr. Liszt, Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722721"
+                  id="aspace_095dff66ce4c9618032711a4407f58b9"
+                  level="item">
+                  <did>
+                     <unittitle>Dans Macabre, Pt. 1 (Saint-Saëns, arr. Liszt, Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722722"
+                  id="aspace_0eab5d49367493b2c505079e75ed10b8"
+                  level="item">
+                  <did>
+                     <unittitle>Dans Macabre, Pt. 1 (Saint-Saëns, arr. Liszt, Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722723"
+                  id="aspace_2ba7b1bf54b0cb0f72bc09e91ec00cb5"
+                  level="item">
+                  <did>
+                     <unittitle>Dans Macabre, Pt. 1 (Saint-Saëns, arr. Liszt, Horowitz)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722730"
+                  id="aspace_f0bfc3b0b81cce165c21cf6f26e8751c"
+                  level="item">
+                  <did>
+                     <unittitle>Waltz (Brahms), Etude in F Major (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722731"
+                  id="aspace_9fe01b86bcc7e2e0943651540fe74eab"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata No. 7, Op. 83 (Prokofiev)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1951 March 5" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1951-03-05">1951 March 5</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722732"
+                  id="aspace_ebde7ebea857339ddeb01f1fd97884a8"
+                  level="item">
+                  <did>
+                     <unittitle>Pictures at an Exhibition (Mussorgsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1951 April 23" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1951-04-23">1951 April 23</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722733"
+                  id="aspace_02083ed0149273bb1b223fd1b579e1d7"
+                  level="item">
+                  <did>
+                     <unittitle>Intermezzo in B-flat, Op. 117, No. 2 (Brahms), Polonaise, Fantasy (Chopin)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1951 April 23" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1951-04-23">1951 April 23</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722734"
+                  id="aspace_6d27cd0ae4b8b8dc9dc9871f2e41f7a9"
+                  level="item">
+                  <did>
+                     <unittitle>Ballades No. 3 and 4, Etude No. 3 (Chopin)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722735"
+                  id="aspace_feff0c1adf8789d5d0e0a1c1b90c763d"
+                  level="item">
+                  <did>
+                     <unittitle>Impromptu No. 1, Nocturne No. 15, Scherzo No. 1 (Chopin)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722736"
+                  id="aspace_8457d95708fdb4ef171a53b70c685d44"
+                  level="item">
+                  <did>
+                     <unittitle>Emperor Concerto (Beethoven)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722737"
+                  id="aspace_775fd2abeeb97df1ec6558932b9cbdb2"
+                  level="item">
+                  <did>
+                     <unittitle>Etincelles (Moszkowski), Stars and Stripes (Sousa)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722738"
+                  id="aspace_87a37b79c364bfd23162b2858719b23f"
+                  level="item">
+                  <did>
+                     <unittitle>Pastourelle, Toccata (Poulenc)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1932 November 11"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1932-11-11">1932 November 11</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722739"
+                  id="aspace_1cfae48ab694f045e8e2bb66be241faf"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata in E-flat minor, Pt. 2 (Haydn)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1932 November 11"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1932-11-11">1932 November 11</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722740"
+                  id="aspace_390888af5b0a83c05a1881f2bb7550dc"
+                  level="item">
+                  <did>
+                     <unittitle>Flight of the Bumblebee (Rimsky-Korsakov), Russian Dance (Tchaikovsky)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1932 November 11"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1932-11-11">1932 November 11</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722741"
+                  id="aspace_68db0b030a5217c782ec17551dd6d40f"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata in B minor, Pt. 3 (Lizst)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1932 December 11"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1932-12-11">1932 December 11</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
+               <c altrender="/repositories/6/archival_objects/3722742"
+                  id="aspace_da77aaa86aa2447e159061691a3da544"
+                  level="item">
+                  <did>
+                     <unittitle>Sonata in B minor, Pt. 4 (Lizst)</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Phonograph Record</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1932 December 11"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1932-12-11">1932 December 11</datesingle>
+                     </unitdatestructured>
+                  </did>
+               </c>
             </c>
          </c>
       </dsc>
