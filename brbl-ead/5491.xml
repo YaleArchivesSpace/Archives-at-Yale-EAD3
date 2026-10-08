@@ -38,7 +38,7 @@
                <p>Boxes: 1-5, 6-7 (Oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="17">17</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="73">73</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="18">18</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="79">79</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-07T00:02:17-05:00</eventdatetime>
+            <eventdatetime>2026-10-07T23:04:48-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday December  7, 2025 at 00:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October  7, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1169,6 +1169,35 @@
                   <container id="aspace_5064dc3f54fa3e42174492f21017a258_c2"
                              localtype="folder"
                              parent="aspace_5064dc3f54fa3e42174492f21017a258_c1">25</container>
+                  <daoset altrender="/repositories/11/digital_objects/359299">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33824253"
+                          identifier="oid:33824253"
+                          linktitle="6 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33824254/full/!150,150/0/default.jpg"
+                          identifier="oid:33824253"
+                          linktitle="1r"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33824253"
+                          identifier="oid:33824253"
+                          linktitle="1r"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Deed between Samuel Amy Severne, Catherine Julia Stuart, Maria Elizabeth Stuart, Catherine Juliana Stuart, Charles Ford, and George Edward Anson</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_0ef63a0cba40f5e2743972df95362a4d">
                   <head>Scope and Contents</head>

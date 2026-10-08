@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-05T23:00:50-04:00</eventdatetime>
+            <eventdatetime>2026-10-07T23:00:55-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October  5, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October  7, 2026 at 23:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -20241,7 +20241,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:36</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_41018f944dd7a7a1f48093940d307cd4">Audio distortion, hiss, and hum.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20267,9 +20272,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:38</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2008 May 12" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2008-05-12">2008 May 12</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_5ba766e0dc0f33c18fa0fab082fe62ed">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20295,11 +20305,16 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:46</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2008 October 6"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <datesingle standarddate="2008-10-06">2008 October 6</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_50b8290a834d41eaec67d421e0efbefe">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20325,11 +20340,16 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:52</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2008 October 7"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <datesingle standarddate="2008-10-07">2008 October 7</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_3ad8027948b9e834f98d85546c652321">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20355,11 +20375,16 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:41</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2008 October 13"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <datesingle standarddate="2008-10-13">2008 October 13</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_71557065084aedfa2d433c4bb4e36ac3">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20385,11 +20410,16 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:46:09</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2008 October 28"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <datesingle standarddate="2008-10-28">2008 October 28</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_9194414bfa621efb671ddb3226d745f8">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20415,11 +20445,16 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:41</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 February 23"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <datesingle standarddate="2009-02-23">2009 February 23</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_c8b7fe07d130e06e6828f05326ed937d">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20445,9 +20480,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:36</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 March 16" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-03-16">2009 March 16</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_72b33d1c42141ed376019e41781a5480">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20473,9 +20513,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:33</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 March 18" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-03-18">2009 March 18</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_3c532cd4b94639e4375ca05834653287">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20501,9 +20546,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:48</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 March 18" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-03-18">2009 March 18</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_014735ce313f3289e57b9a6d0f1ddfc5">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20529,9 +20579,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:49</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 March 19" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-03-19">2009 March 19</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_8cabbe8630f46c48c3efae1820c132fd">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20557,9 +20612,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:42</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 March 24" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-03-24">2009 March 24</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_00667c29c9c589e5dd809236e8bfcc77">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20585,9 +20645,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:36</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 April 15" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-04-15">2009 April 15</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_dddd1be407653b925b21f8b651d80de4">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20613,9 +20678,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:33</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 April 15" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-04-15">2009 April 15</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_bcc53bab75f881a82b0095a65d43a6b5">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20641,9 +20711,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:49</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 April 15" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-04-15">2009 April 15</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_58362d0ce015d2722e44b8d0e167bab2">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20669,9 +20744,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:46</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 April 19" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-04-19">2009 April 19</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_4412ff6e0a574dcd65ae7fd9c8e6008a">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20697,9 +20777,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:40</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 June 3" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-06-03">2009 June 3</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_a5a75796921fe8faff1facba98cb152d">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20725,9 +20810,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:31</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2009 June 17" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2009-06-17">2009 June 17</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_6f326f77ce11484764345dfad4e7f560">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20753,7 +20843,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:45</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_f75a7b73d29c3a035ebd07dcc55672a0">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20779,7 +20874,12 @@
                         <quantity>1</quantity>
                         <unittype>Duration (HH:MM:SS.mmm)</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:48:19</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_59eda30022957285cf19c54d32d275de">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20805,9 +20905,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:40</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2006 March 8" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2006-03-08">2006 March 8</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_2e202a6107b4da83565a11b747206b0a">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20833,9 +20938,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:50</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2006 March 18" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2006-03-18">2006 March 18</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_6cf3a29f7df9c4488eb85d4c74622723">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"
@@ -20861,9 +20971,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:42</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="2006 June 2" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="2006-06-02">2006 June 2</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_9c773003346eb7773b9266f2f65f8611">Audio hiss, hum, and distortion.</materialspec>
                      <container altrender="/repositories/11/top_containers/378364 /locations/9"
                                 containerid="39002093779404"
                                 encodinganalog="audiocassettes box"

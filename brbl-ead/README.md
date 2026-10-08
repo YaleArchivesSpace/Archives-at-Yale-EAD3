@@ -1985,6 +1985,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [beinecke.dellenbaugh.xml](14007.xml) | beinecke.dellenbaugh | WA MSS S-2389  | Frederick Samuel Dellenbaugh journal and lantern slides from the Harriman Alaska Expedition | 
  [beinecke.jeffreylewis.xml](14084.xml) | beinecke.jeffreylewis | YCAL MSS 1623 | Jeffrey Lewis Papers | 
  [beinecke.bptrial.xml](14106.xml) | beinecke.bptrial | GEN MSS 2168 | Black Panther Trial records | 
+ [beinecke.grayg.xml](14108.xml) | beinecke.grayg | GEN MSS 2170 | Gordon Gray III papers | 
  [beinecke.williambird.xml](14115.xml) | beinecke.williambird | YCAL MSS 1562 | William Bird papers | 
  [beinecke.aos.xml](14117.xml) | beinecke.aos | GEN MSS 2169 | American Oriental Society archive | 
  [beinecke.koheri.xml](14125.xml) | beinecke.koheri | GEN MSS 2167 | Hesung Chun Koh family papers and East Rock Institute records | 

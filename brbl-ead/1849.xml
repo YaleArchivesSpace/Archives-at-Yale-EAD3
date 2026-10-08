@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-27T23:02:06-04:00</eventdatetime>
+            <eventdatetime>2026-10-07T23:03:03-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday September 27, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October  7, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -46232,8 +46232,12 @@
                         <quantity>1</quantity>
                         <unittype>Audiotape Reel</unittype>
                      </physdescstructured>
-                     <physdesc localtype="container_summary">reel to reel tapes</physdesc>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:24:34</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_6d6d721d9430bb5ab11cc89048d19c9b">Speed fluctuations and hum are present. The last hour of the tape is 3 3/4 ips. Dropouts and static are present. Clicks and pops can be heard. High frequency background noise is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/87720 /locations/9"
                                 containerid="39002104936605"
                                 id="aspace_ref3429_c1"
@@ -46258,10 +46262,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiotape Reel</unittype>
                      </physdescstructured>
-                     <physdesc localtype="container_summary">reel to reel tapes</physdesc>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:22:43</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="1972" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1972">1972</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_14edd027773b8e7cfa2901ee9c41ef6c">Dropouts and static are present. Distortion can be heard. Speed fluctuations are present.</materialspec>
                      <container altrender="/repositories/11/top_containers/87720 /locations/9"
                                 containerid="39002104936605"
                                 id="aspace_ref3431_c1"
@@ -46286,10 +46294,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiotape Reel</unittype>
                      </physdescstructured>
-                     <physdesc localtype="container_summary">reel to reel tapes</physdesc>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>02:41:21</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="1971" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1971">1971</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_abc51a719721936e5be262cf8f09d534">There is a warble in the audio. Speed fluctuations are present. Distortion and dropouts in the audio can be heard. Static is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/87720 /locations/9"
                                 containerid="39002104936605"
                                 id="aspace_ref3433_c1"
@@ -46314,10 +46326,14 @@
                         <quantity>1</quantity>
                         <unittype>Audiotape Reel</unittype>
                      </physdescstructured>
-                     <physdesc localtype="container_summary">reel to reel tapes</physdesc>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:20:22</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="1971" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1971">1971</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_89fdfdc135d19fa9180de553f932bec6">Dropouts in the audio are present. Static and distortion can be heard. Speed fluctuations are present. High frequency background noise can be heard. Interference is present.</materialspec>
                      <container altrender="/repositories/11/top_containers/87720 /locations/9"
                                 containerid="39002104936605"
                                 id="aspace_ref3435_c1"
@@ -46342,12 +46358,16 @@
                         <quantity>1</quantity>
                         <unittype>Audiotape Reel</unittype>
                      </physdescstructured>
-                     <physdesc localtype="container_summary">reel to reel tapes</physdesc>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:02:32</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="1961 August 24"
                                          label="creation"
                                          unitdatetype="inclusive">
                         <datesingle standarddate="1961-08-24">1961 August 24</datesingle>
                      </unitdatestructured>
+                     <materialspec id="aspace_b059d9bc26338589bb7f3211f3154bbb">Speed fluctuations and hiss are present. Distortion and static are present. There are dropouts in the audio.</materialspec>
                      <container altrender="/repositories/11/top_containers/87720 /locations/9"
                                 containerid="39002104936605"
                                 id="aspace_ref3437_c1"
