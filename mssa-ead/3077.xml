@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-09T04:26:56-04:00</eventdatetime>
+            <eventdatetime>2026-10-09T04:51:58-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  9, 2026 at 04:26</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  9, 2026 at 04:51</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1313,13 +1313,6 @@
                      <container id="aspace_ref73_c2" localtype="folder" parent="aspace_ref73_c1">1a</container>
                   </did>
                </c>
-               <c altrender="/repositories/12/archival_objects/1187502"
-                  id="ref87"
-                  level="file">
-                  <did>
-                     <unittitle>Miscellaneous notes &amp; notebooks</unittitle>
-                  </did>
-               </c>
                <c altrender="/repositories/12/archival_objects/1187489"
                   id="ref74"
                   level="file">
@@ -1451,6 +1444,23 @@
                                 localtype="box">6</container>
                      <container id="aspace_ref82_c2" localtype="folder" parent="aspace_ref82_c1">2</container>
                   </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/1187498"
+                  id="ref83"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title localtype="simple" render="italic">
+                           <part>The Curse of Wit</part>
+                        </title> by A. S. Griboyedov, 1795-1829 [trans. A. A. Polovtsoff]</unittitle>
+                     <container altrender="/repositories/12/top_containers/132184 /locations/9"
+                                containerid="39002038214707"
+                                encodinganalog="legacy black"
+                                id="aspace_ref83_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_ref83_c2" localtype="folder" parent="aspace_ref83_c1">2</container>
+                  </did>
                   <c altrender="/repositories/12/archival_objects/1187499"
                      id="ref84"
                      level="file">
@@ -1494,21 +1504,11 @@
                      </did>
                   </c>
                </c>
-               <c altrender="/repositories/12/archival_objects/1187498"
-                  id="ref83"
+               <c altrender="/repositories/12/archival_objects/1187502"
+                  id="ref87"
                   level="file">
                   <did>
-                     <unittitle>
-                        <title localtype="simple" render="italic">
-                           <part>The Curse of Wit</part>
-                        </title> by A. S. Griboyedov, 1795-1829 [trans. A. A. Polovtsoff]</unittitle>
-                     <container altrender="/repositories/12/top_containers/132184 /locations/9"
-                                containerid="39002038214707"
-                                encodinganalog="legacy black"
-                                id="aspace_ref83_c1"
-                                label="Mixed Materials"
-                                localtype="box">6</container>
-                     <container id="aspace_ref83_c2" localtype="folder" parent="aspace_ref83_c1">2</container>
+                     <unittitle>Miscellaneous notes &amp; notebooks</unittitle>
                   </did>
                   <c altrender="/repositories/12/archival_objects/1187503"
                      id="ref88"
@@ -1522,20 +1522,6 @@
                                    label="Mixed Materials"
                                    localtype="box">6</container>
                         <container id="aspace_ref88_c2" localtype="folder" parent="aspace_ref88_c1">4</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/12/archival_objects/1187507"
-                     id="ref92"
-                     level="file">
-                     <did>
-                        <unittitle>Notebooks ["No. 2 and No. 3"]</unittitle>
-                        <container altrender="/repositories/12/top_containers/132184 /locations/9"
-                                   containerid="39002038214707"
-                                   encodinganalog="legacy black"
-                                   id="aspace_ref92_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">6</container>
-                        <container id="aspace_ref92_c2" localtype="folder" parent="aspace_ref92_c1">4</container>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/1187504"
@@ -1578,6 +1564,20 @@
                                    label="Mixed Materials"
                                    localtype="box">6</container>
                         <container id="aspace_ref91_c2" localtype="folder" parent="aspace_ref91_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/1187507"
+                     id="ref92"
+                     level="file">
+                     <did>
+                        <unittitle>Notebooks ["No. 2 and No. 3"]</unittitle>
+                        <container altrender="/repositories/12/top_containers/132184 /locations/9"
+                                   containerid="39002038214707"
+                                   encodinganalog="legacy black"
+                                   id="aspace_ref92_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">6</container>
+                        <container id="aspace_ref92_c2" localtype="folder" parent="aspace_ref92_c1">4</container>
                      </did>
                   </c>
                </c>
