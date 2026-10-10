@@ -65,10 +65,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-14T20:01:57-04:00</eventdatetime>
+            <eventdatetime>2026-10-09T20:01:02-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 14, 2026 at 20:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  9, 2026 at 20:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -59459,6 +59459,10 @@
                   level="item">
                   <did>
                      <unittitle>Interview Royan</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiotape Reel</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="1967" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1967">1967</fromdate>
@@ -59474,6 +59478,9 @@
                      <container id="aspace_6aa7580e706a25421c6b5505b32ee42d_c2"
                                 localtype="folder"
                                 parent="aspace_6aa7580e706a25421c6b5505b32ee42d_c1">1</container>
+                     <container id="aspace_6aa7580e706a25421c6b5505b32ee42d_c3"
+                                localtype="item_barcode"
+                                parent="aspace_6aa7580e706a25421c6b5505b32ee42d_c2">39002132460511</container>
                   </did>
                </c>
                <c altrender="/repositories/6/archival_objects/2154457"
