@@ -2964,6 +2964,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ru.1202.xml](13854.xml) | mssa.ru.1202 | RU 1202 | Edward Augustus Anketell, class of 1864, records documenting student life | 
  [mssa.ru.1203.xml](13855.xml) | mssa.ru.1203 | RU 1203 | Isaac Mills (1767-1843), records | 
  [mssa.ru.1204.xml](13863.xml) | mssa.ru.1204 | RU 1204 | Theater, Dance and Performance Studies, Yale University, records | 
+ [13871.xml](13871.xml) |  | RU 1205 | Jane Coffin Childs Memorial Fund for Medical Research, records | 
  [mssa.ms.555xxx.xml](13943.xml) | mssa.ms.555xxx | MS/RU.555xxx | Demo Resource - December 2025 | 
  [mssa.ru.1214.xml](13950.xml) | mssa.ru.1214 | RU 1214 | Graphic Design Program collection of faculty problem books | 
  [mssa.ru.1210.xml](14088.xml) | mssa.ru.1210 | RU 1210 | Yale Symphony Orchestra, records | 
