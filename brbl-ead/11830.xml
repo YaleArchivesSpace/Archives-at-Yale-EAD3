@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-02T23:01:16-04:00</eventdatetime>
+            <eventdatetime>2026-10-12T23:02:32-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  2, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 12, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -14883,7 +14883,12 @@
                            <quantity>1</quantity>
                            <unittype>Videotape (V-30H)</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:32:30</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="other" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_939c8f950913f64f498c3495d18e7c1f">Aligned playback level to program, the source has no Bars; Aligned Audio Level to Program; Unstable Control Track; Head Switching Visible; Channel1 Mono; Abrupt start and end as recorded on tape. Some Levels may be adjusted beyond broadcast standards to obtain a more usable picture, as was recorded on tape. Tape checked to physical end, no additional content. Levels vary greatly throughout tape. Low RF causing poor signal regeneration.</materialspec>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
                                    encodinganalog="Paige 15"
@@ -14913,7 +14918,12 @@
                            <unittype>Videotape (V-30H)</unittype>
                         </physdescstructured>
                         <physdesc localtype="container_summary">Heliscan videotape : v-31</physdesc>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:23:40</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="other" unitdatetype="inclusive">1971-05-19</unitdate>
+                        <materialspec id="aspace_ff4d84c3a0733165a1de06c6cba801dc">Aligned playback level to program, the source has no Bars; Aligned Audio Level to Program; Unstable Control Track; Flagging Visible in Picture; Channel1 Mono; Abrupt start and end as recorded on tape. Some Levels may be adjusted beyond broadcast standards to obtain a more usable picture, as was recorded on tape. Tape checked to physical end, no additional content. Levels vary greatly throughout tape. Low RF causing poor signal regeneration. Has music with bad video that goes black at end.</materialspec>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
                                    encodinganalog="Paige 15"
@@ -15119,7 +15129,12 @@
                            <quantity>1</quantity>
                            <unittype>Videocassette (U-matic)</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:28:30</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="other" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_5fd7b707b5fa0fdad127b294a4113158">Aligned playback level to program, Bars do not match program levels; Aligned Audio Level to Program; Channel1 Mono; Channel2 Mono; Source bars and tones do not match program. When aligning to bars and tones. luminance and black levels are high. Adjusting to tones causes low audio levels. Source has intermittent breakup at the top of the image. Video levels vary throughout.</materialspec>
                         <container altrender="/repositories/11/top_containers/372229 /locations/9"
                                    containerid="39002140830838"
                                    encodinganalog="Paige 15"
