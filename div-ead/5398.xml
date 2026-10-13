@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:26:42-04:00</eventdatetime>
+            <eventdatetime>2026-10-13T18:01:18-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:26</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 13, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2511,61 +2511,55 @@
                      <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1990">ca.1990</datesingle>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/232057 /locations/9"
-                                containerid="39002097424411"
-                                id="aspace_ref149_c1"
-                                label="Mixed Materials"
-                                localtype="box">17</container>
-                     <container id="aspace_ref149_c2" localtype="folder" parent="aspace_ref149_c1">9</container>
                   </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/2150284"
-                  id="ref150"
-                  level="file">
-                  <did>
-                     <unittitle>Contents of Impact Study by IMF for HMG: A/10/01/03</unittitle>
-                     <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1990">ca.1990</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/232057 /locations/9"
-                                containerid="39002097424411"
-                                id="aspace_ref150_c1"
-                                label="Mixed Materials"
-                                localtype="box">17</container>
-                     <container id="aspace_ref150_c2" localtype="folder" parent="aspace_ref150_c1">10</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/2150285"
-                  id="ref151"
-                  level="file">
-                  <did>
-                     <unittitle>General Documents: A/10/01/03</unittitle>
-                     <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1990">ca.1990</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/232057 /locations/9"
-                                containerid="39002097424411"
-                                id="aspace_ref151_c1"
-                                label="Mixed Materials"
-                                localtype="box">17</container>
-                     <container id="aspace_ref151_c2" localtype="folder" parent="aspace_ref151_c1">11</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/2150286"
-                  id="ref152"
-                  level="file">
-                  <did>
-                     <unittitle>General Agreement and Letter of Exchange 5th Dec. 1985-1990: A/10/01/03</unittitle>
-                     <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1990">ca.1990</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/232057 /locations/9"
-                                containerid="39002097424411"
-                                id="aspace_ref152_c1"
-                                label="Mixed Materials"
-                                localtype="box">17</container>
-                     <container id="aspace_ref152_c2" localtype="folder" parent="aspace_ref152_c1">12</container>
-                  </did>
+                  <c altrender="/repositories/4/archival_objects/2150284"
+                     id="ref150"
+                     level="file">
+                     <did>
+                        <unittitle>Contents of Impact Study by IMF for HMG: A/10/01/03</unittitle>
+                        <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1990">ca.1990</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/232057 /locations/9"
+                                   containerid="39002097424411"
+                                   id="aspace_ref150_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">17</container>
+                        <container id="aspace_ref150_c2" localtype="folder" parent="aspace_ref150_c1">10</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/2150285"
+                     id="ref151"
+                     level="file">
+                     <did>
+                        <unittitle>General Documents: A/10/01/03</unittitle>
+                        <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1990">ca.1990</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/232057 /locations/9"
+                                   containerid="39002097424411"
+                                   id="aspace_ref151_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">17</container>
+                        <container id="aspace_ref151_c2" localtype="folder" parent="aspace_ref151_c1">11</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/2150286"
+                     id="ref152"
+                     level="file">
+                     <did>
+                        <unittitle>General Agreement and Letter of Exchange 5th Dec. 1985-1990: A/10/01/03</unittitle>
+                        <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1990">ca.1990</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/232057 /locations/9"
+                                   containerid="39002097424411"
+                                   id="aspace_ref152_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">17</container>
+                        <container id="aspace_ref152_c2" localtype="folder" parent="aspace_ref152_c1">12</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/2150287"
                   id="ref153"
@@ -2607,29 +2601,23 @@
                      <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1990">ca.1990</datesingle>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/232058 /locations/9"
-                                containerid="39002097424429"
-                                id="aspace_ref155_c1"
-                                label="Mixed Materials"
-                                localtype="box">18</container>
-                     <container id="aspace_ref155_c2" localtype="folder" parent="aspace_ref155_c1">6</container>
                   </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/2150290"
-                  id="ref156"
-                  level="file">
-                  <did>
-                     <unittitle>Tuberculosis Program (TBP): A/10/01/03</unittitle>
-                     <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1990">ca.1990</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/232058 /locations/9"
-                                containerid="39002097424429"
-                                id="aspace_ref156_c1"
-                                label="Mixed Materials"
-                                localtype="box">18</container>
-                     <container id="aspace_ref156_c2" localtype="folder" parent="aspace_ref156_c1">7</container>
-                  </did>
+                  <c altrender="/repositories/4/archival_objects/2150290"
+                     id="ref156"
+                     level="file">
+                     <did>
+                        <unittitle>Tuberculosis Program (TBP): A/10/01/03</unittitle>
+                        <unitdatestructured altrender="ca.1990" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1990">ca.1990</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/232058 /locations/9"
+                                   containerid="39002097424429"
+                                   id="aspace_ref156_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">18</container>
+                        <container id="aspace_ref156_c2" localtype="folder" parent="aspace_ref156_c1">6</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/2150291"
                   id="ref157"
