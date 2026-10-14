@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-30T18:00:24-04:00</eventdatetime>
+            <eventdatetime>2026-10-14T18:02:01-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 14, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3890,7 +3890,7 @@
                   id="ref250"
                   level="file">
                   <did>
-                     <unittitle>35mm slides with additional film strip of images depicting Lu Ho School</unittitle>
+                     <unittitle>35mm slides</unittitle>
                      <container altrender="/repositories/4/top_containers/347948 /locations/9"
                                 containerid="39002109700980"
                                 id="aspace_ref250_c1"
@@ -3930,6 +3930,27 @@
                      <head>Scope and Contents</head>
                      <p>The contents of this folder were formerly housed in Box 12, Folder 261.</p>
                   </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4060063"
+                  id="aspace_1afa7988724b906cf5f0487eed09e2af"
+                  level="file">
+                  <did>
+                     <unittitle>Film strip of images depicting Lu Ho School</unittitle>
+                     <unitdatestructured altrender="circa 1930s" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1930">1930</fromdate>
+                           <todate standarddate="1940">1940</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/4380 /locations/9"
+                                containerid="39002035360677"
+                                id="aspace_1afa7988724b906cf5f0487eed09e2af_c1"
+                                label="Mixed Materials"
+                                localtype="box">12</container>
+                     <container id="aspace_1afa7988724b906cf5f0487eed09e2af_c2"
+                                localtype="folder"
+                                parent="aspace_1afa7988724b906cf5f0487eed09e2af_c1">261</container>
+                  </did>
                </c>
                <c altrender="/repositories/4/archival_objects/32160"
                   id="ref251"

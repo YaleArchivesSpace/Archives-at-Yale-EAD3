@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-11-05T18:00:54-05:00</eventdatetime>
+            <eventdatetime>2026-10-14T18:01:20-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  5, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 14, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4172,6 +4172,62 @@ Series VIII, Grant, contains documentation of grant projects.</p>
                      <head>Conditions Governing Access</head>
                      <p>Restricted until 2035 February 19</p>
                   </accessrestrict>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4060027"
+               id="aspace_5f17f77377e0d2fd2caa21b2c5f3f572"
+               level="subseries">
+               <did>
+                  <unittitle>Board Meeting</unittitle>
+                  <unitdatestructured altrender="June 2025" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2025-06">June 2025</datesingle>
+                  </unitdatestructured>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4060028"
+                  id="aspace_cd024bae00d790764559b7565d9676c9"
+                  level="file">
+                  <did>
+                     <unittitle>Minutes and docket</unittitle>
+                     <unitdatestructured altrender="2025 June 17-18"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2025-06-17">2025 June 17</fromdate>
+                           <todate standarddate="2025-06-18">2025 June 18</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/405833 /locations/9"
+                                containerid="39002112324109"
+                                id="aspace_cd024bae00d790764559b7565d9676c9_c1"
+                                label="Mixed Materials"
+                                localtype="box">49</container>
+                     <container id="aspace_cd024bae00d790764559b7565d9676c9_c2"
+                                localtype="folder"
+                                parent="aspace_cd024bae00d790764559b7565d9676c9_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4060029"
+                  id="aspace_36bd721f428238d7f898383cc3bc1654"
+                  level="file">
+                  <did>
+                     <unittitle>Executive Session</unittitle>
+                     <unitdatestructured altrender="2025 June 17-18"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2025-06-17">2025 June 17</fromdate>
+                           <todate standarddate="2025-06-18">2025 June 18</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/405847 /locations/9"
+                                containerid="39002112324497"
+                                id="aspace_36bd721f428238d7f898383cc3bc1654_c1"
+                                label="Mixed Materials"
+                                localtype="box">50</container>
+                     <container id="aspace_36bd721f428238d7f898383cc3bc1654_c2"
+                                localtype="folder"
+                                parent="aspace_36bd721f428238d7f898383cc3bc1654_c1">15</container>
+                  </did>
                </c>
             </c>
          </c>

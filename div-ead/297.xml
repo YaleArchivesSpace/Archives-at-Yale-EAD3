@@ -46,7 +46,7 @@
                <p>Boxes: 283-292</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="188">188</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="11628">11,628</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="189">189</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="11646">11,646</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-13T18:00:47-04:00</eventdatetime>
+            <eventdatetime>2026-10-14T18:00:56-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 13, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 14, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -12159,6 +12159,35 @@
                                 label="Mixed Materials"
                                 localtype="box">65</container>
                      <container id="aspace_ref630_c2" localtype="folder" parent="aspace_ref630_c1">1</container>
+                     <daoset altrender="/repositories/4/digital_objects/359601">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33592850"
+                             identifier="oid:33592850"
+                             linktitle="18 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33826655/full/!150,150/0/default.jpg"
+                             identifier="oid:33592850"
+                             linktitle="18 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33592850"
+                             identifier="oid:33592850"
+                             linktitle="18 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Correspondence: Circular letter</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/115015"

@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-27T18:00:37-04:00</eventdatetime>
+            <eventdatetime>2026-10-14T18:01:26-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday April 27, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 14, 2026 at 18:01</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -4517,6 +4517,21 @@
                      <container altrender="/repositories/4/top_containers/7819 /locations/9"
                                 containerid="39002035362798"
                                 id="aspace_ref355_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4060031"
+                  id="aspace_d755f96f6ee46b6962abee1061309ba4"
+                  level="file">
+                  <did>
+                     <unittitle>Sociology of Religion - lectures given at YDS (handwritten notes by John Piper, with associated syllabus, Fall term 1960)</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1960">1960</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7819 /locations/9"
+                                containerid="39002035362798"
+                                id="aspace_d755f96f6ee46b6962abee1061309ba4_c1"
                                 label="Mixed Materials"
                                 localtype="box">10</container>
                   </did>
@@ -9596,6 +9611,33 @@
                   <p>See Record Group No. 173.</p>
                </scopecontent>
             </c>
+            <c altrender="/repositories/4/archival_objects/4060032"
+               id="aspace_00bcd324b4dc456046a003ff88b61e07"
+               level="subseries">
+               <did>
+                  <unittitle>Miller, William Lee</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4060033"
+                  id="aspace_f5b3a51acb698d775dfdc332b6ebb0c0"
+                  level="file">
+                  <did>
+                     <unittitle>Social Ethics - lectures given at YDS (handwritten notes by John Piper, with associated documents, including 4 issues of <title>
+                           <part>Signs of the City</part>
+                        </title> (1962-1963), Fall term 1958)</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1958">1958</fromdate>
+                           <todate standarddate="1963">1963</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/7819 /locations/9"
+                                containerid="39002035362798"
+                                id="aspace_f5b3a51acb698d775dfdc332b6ebb0c0_c1"
+                                label="Mixed Materials"
+                                localtype="box">10</container>
+                  </did>
+               </c>
+            </c>
             <c altrender="/repositories/4/archival_objects/73736"
                id="ref740"
                level="subseries">
@@ -12593,6 +12635,27 @@
                                    parent="aspace_b9f1bf822e77e32237e7683f5483d6f8_c1">5</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4060030"
+                     id="aspace_1dd016912419a28164001a8f37b65ab7"
+                     level="file">
+                     <did>
+                        <unittitle>Christian Ethics - lectures given at YDS (handwritten notes by John Piper, with associated syllabus and papers, Fall term 1959)</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1959">1959</fromdate>
+                              <todate standarddate="1960">1960</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/7836 /locations/9"
+                                   containerid="39002035362921"
+                                   id="aspace_1dd016912419a28164001a8f37b65ab7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">27</container>
+                        <container id="aspace_1dd016912419a28164001a8f37b65ab7_c2"
+                                   localtype="folder"
+                                   parent="aspace_1dd016912419a28164001a8f37b65ab7_c1">6</container>
+                     </did>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/73913"
                      id="ref918"
                      level="file">
@@ -12606,7 +12669,7 @@
                                    id="aspace_ref918_c1"
                                    label="Mixed Materials"
                                    localtype="box">27</container>
-                        <container id="aspace_ref918_c2" localtype="folder" parent="aspace_ref918_c1">6</container>
+                        <container id="aspace_ref918_c2" localtype="folder" parent="aspace_ref918_c1">7</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3207713"
@@ -12627,7 +12690,7 @@
                                    localtype="box">27</container>
                         <container id="aspace_bd2e6a7deed5a58ab10849f09aea5425_c2"
                                    localtype="folder"
-                                   parent="aspace_bd2e6a7deed5a58ab10849f09aea5425_c1">7</container>
+                                   parent="aspace_bd2e6a7deed5a58ab10849f09aea5425_c1">8</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/73920"
@@ -12643,7 +12706,7 @@
                                    id="aspace_ref925_c1"
                                    label="Mixed Materials"
                                    localtype="box">27</container>
-                        <container id="aspace_ref925_c2" localtype="folder" parent="aspace_ref925_c1">8</container>
+                        <container id="aspace_ref925_c2" localtype="folder" parent="aspace_ref925_c1">9</container>
                      </did>
                   </c>
                </c>
