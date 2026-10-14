@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:24:40-05:00</eventdatetime>
+            <eventdatetime>2026-10-13T23:01:04-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:24</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 13, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -10837,10 +10837,6 @@
                      <title localtype="simple" render="italic">
                         <part>Zen in Ryoko-in</part>
                      </title>.</unittitle>
-                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                     <quantity>2</quantity>
-                     <unittype>Film Reels (16mm)</unittype>
-                  </physdescstructured>
                   <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   <container altrender="/repositories/11/top_containers/73976 /locations/9"
                              containerid="39002098972095"
@@ -10848,6 +10844,31 @@
                              label="Mixed Materials"
                              localtype="box">117</container>
                </did>
+               <c altrender="/repositories/11/archival_objects/4060014"
+                  id="aspace_e5352c9b4e002a49f8e64d45fecb958e"
+                  level="file">
+                  <did>
+                     <unittitle>New print No. 25</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Film Reel</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/11/top_containers/73976 /locations/9"
+                                containerid="39002098972095"
+                                id="aspace_e5352c9b4e002a49f8e64d45fecb958e_c1"
+                                label="Mixed Materials"
+                                localtype="box">117</container>
+                     <container id="aspace_e5352c9b4e002a49f8e64d45fecb958e_c2"
+                                localtype="item_barcode"
+                                parent="aspace_e5352c9b4e002a49f8e64d45fecb958e_c1">39002140886939</container>
+                  </did>
+                  <accessrestrict id="aspace_3e34e225ce21ddd15d1c1531857cc625"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                  </accessrestrict>
+               </c>
             </c>
          </c>
          <c altrender="/repositories/11/archival_objects/611321"
