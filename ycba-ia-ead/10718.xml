@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-05T18:01:35-04:00</eventdatetime>
+            <eventdatetime>2026-10-15T18:01:06-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October  5, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 15, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -91,9 +91,7 @@
             <unittype>Linear Foot</unittype>
          </physdescstructured>
          <physdesc localtype="container_summary">1 box</physdesc>
-         <unitdatestructured altrender="January 1, 1964 - December 31, 1969"
-                             label="creation"
-                             unitdatetype="inclusive">
+         <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1964-01-01">1964 January 1</fromdate>
                <todate standarddate="1969-12-31">1969 December 31</todate>
@@ -140,40 +138,36 @@
          </persname>
       </controlaccess>
       <dsc>
+         <c altrender="/repositories/3/archival_objects/2158837"
+            id="aspace_68d977134c8f35977d3d687ed35d3e65"
+            level="file">
+            <did>
+               <unittitle>Scrapbook containing articles, press releases, and correspondence about the founding of the YCBA</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1964-01-01">1964 January 1</fromdate>
+                     <todate standarddate="1969-12-31">1969 December 31</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/232521 /locations/4489"
+                          encodinganalog="flat box (16d 3h 20w)"
+                          id="aspace_68d977134c8f35977d3d687ed35d3e65_c1"
+                          label="Mixed Materials"
+                          localtype="box">1028</container>
+            </did>
+         </c>
          <c altrender="/repositories/3/archival_objects/2158456"
             id="aspace_d2057247392a665ba19aa85492997237"
             level="file">
             <did>
                <unittitle>Jack Brown scrapbook</unittitle>
-               <unitdatestructured altrender="Jan 1, 1964 - Dec 31, 1969"
-                                   label="creation"
-                                   unitdatetype="inclusive">
+               <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
-                     <fromdate standarddate="1964">1964</fromdate>
-                     <todate standarddate="1969">1969</todate>
+                     <fromdate standarddate="1964-01-01">1964 January 1</fromdate>
+                     <todate standarddate="1969-12-31">1969 December 31</todate>
                   </daterange>
                </unitdatestructured>
             </did>
-            <c altrender="/repositories/3/archival_objects/2158837"
-               id="aspace_68d977134c8f35977d3d687ed35d3e65"
-               level="file">
-               <did>
-                  <unittitle>Scrapbook containing articles, press releases, and correspondence about the founding of the YCBA, 1964-1969</unittitle>
-                  <unitdatestructured altrender="Jan 1, 1964 - Dec 31, 1969"
-                                      label="creation"
-                                      unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1964">1964</fromdate>
-                        <todate standarddate="1969">1969</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/3/top_containers/232521 /locations/4489"
-                             encodinganalog="flat box (16d 3h 20w)"
-                             id="aspace_68d977134c8f35977d3d687ed35d3e65_c1"
-                             label="Mixed Materials"
-                             localtype="box">1028</container>
-               </did>
-            </c>
          </c>
       </dsc>
    </archdesc>

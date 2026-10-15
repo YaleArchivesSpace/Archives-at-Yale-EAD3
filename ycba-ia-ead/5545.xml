@@ -64,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-11T18:00:06-04:00</eventdatetime>
+            <eventdatetime>2026-10-15T18:00:34-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 11, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 15, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2830,7 +2830,10 @@ Rights-holders for other material in this collection are unknown. Transmission o
                   <did>
                      <unittitle>Paul Mellon Portraits</unittitle>
                      <unitdatestructured label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1977">1977</datesingle>
+                        <daterange>
+                           <fromdate standarddate="1977">1977</fromdate>
+                           <todate standarddate="1989">1989</todate>
+                        </daterange>
                      </unitdatestructured>
                      <container altrender="/repositories/3/top_containers/236881 /locations/3332"
                                 encodinganalog="archive letter"
