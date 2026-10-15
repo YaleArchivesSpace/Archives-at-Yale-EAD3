@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-03T03:01:43-04:00</eventdatetime>
+            <eventdatetime>2026-10-15T03:00:37-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday April  3, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 15, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -424,10 +424,9 @@
                   </daterange>
                </unitdatestructured>
             </did>
-            <accessrestrict id="aspace_e43ae60ca87f79ed600734089ff3afe6"
-                            localtype="RestrictedCurApprSpecColl">
+            <accessrestrict id="aspace_a7eaf2bffddc66a27557afc3d3ce09b9">
                <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2025</p>
+               <p>Open for research</p>
             </accessrestrict>
             <c altrender="/repositories/12/archival_objects/790477"
                id="ref26"

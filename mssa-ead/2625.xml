@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T05:24:27-04:00</eventdatetime>
+            <eventdatetime>2026-10-15T03:00:33-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 05:24</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 15, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1434,6 +1434,11 @@
                                 label="Mixed Materials"
                                 localtype="box">54</container>
                   </did>
+                  <accessrestrict id="aspace_4873270cd7c85c98a372b1431a9a623e"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/12/archival_objects/816110"
                   id="ref140"
@@ -1503,6 +1508,11 @@
                                 label="Mixed Materials"
                                 localtype="box">57</container>
                   </did>
+                  <accessrestrict id="aspace_d213dc726c88ae49831dc006fdb264b2"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/12/archival_objects/816113"
                   id="ref146"
