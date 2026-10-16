@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-14T18:01:12-04:00</eventdatetime>
+            <eventdatetime>2026-10-16T18:01:28-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 14, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 16, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -216,6 +216,11 @@
                                 localtype="folder"
                                 parent="aspace_35d5758192032a220acaa62f8f60b881_c1">3</container>
                   </did>
+                  <controlaccess>
+                     <corpname rules="local">
+                        <part localtype="agent_corporate_entity">The Pursuit of Happiness: A View of Life in Georgian England (Yale Center for British Art, April 19, 1977-September 18, 1977)</part>
+                     </corpname>
+                  </controlaccess>
                </c>
             </c>
             <c altrender="/repositories/3/archival_objects/3850813"

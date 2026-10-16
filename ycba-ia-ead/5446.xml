@@ -33,7 +33,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="onsite">
-               <p>Box: 806</p>
+               <p>Box: 1</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-06T18:02:37-04:00</eventdatetime>
+            <eventdatetime>2026-10-16T18:01:48-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 16, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -88,7 +88,9 @@
             <physfacet>Paper</physfacet>
          </physdescstructured>
          <physdesc localtype="container_summary">1 box</physdesc>
-         <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+         <unitdatestructured altrender="circa 1997" label="creation" unitdatetype="inclusive">
+            <datesingle standarddate="1997">circa 1997</datesingle>
+         </unitdatestructured>
          <origination label="Creator">
             <persname rules="dacs" source="local">
                <part localtype="agent_person">Owens, Kevin</part>
