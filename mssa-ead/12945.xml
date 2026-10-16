@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-15T03:00:39-04:00</eventdatetime>
+            <eventdatetime>2026-10-16T03:01:52-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 15, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 16, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -946,7 +946,12 @@
                            <quantity>1</quantity>
                            <unittype>Videocassette (MiniDV)</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>02:01:45</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="creation" unitdatetype="inclusive">2011 December 9</unitdate>
+                        <materialspec id="aspace_4955605231ecff073b7768d643aa57f3">Successful Native DV Ingest; Channel1 Stereo Left; Channel2 Stereo Right; Source ends abruptly. Source is 16x9. Source had no problem playing or loading in several machines</materialspec>
                         <container altrender="/repositories/12/top_containers/400598 /locations/9"
                                    containerid="39002141032384"
                                    encodinganalog="DVCAM"

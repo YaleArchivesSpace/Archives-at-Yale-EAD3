@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1379">1,379</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="1380">1,380</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-24T03:00:32-04:00</eventdatetime>
+            <eventdatetime>2026-10-16T03:01:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday September 24, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 16, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -41015,6 +41015,27 @@ European tour; national guardsmen massacre 150 students in Zaire; more blacks ap
                              id="aspace_ref942_c1"
                              label="Mixed Materials"
                              localtype="box">1019</container>
+                  <daoset altrender="/repositories/12/digital_objects/359610">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                          identifier="aviary_181011"
+                          linktitle="[Aviary] Tape F557: David Albright nuclear physicist Undated"
+                          linkrole="image-thumbnail"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemssa.aviaryplatform.com/r/4m91836831"
+                          identifier="aviary_181011"
+                          linktitle="[Aviary] Tape F557: David Albright nuclear physicist Undated"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>[Aviary] Tape F557: David Albright nuclear physicist Undated</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <accessrestrict id="aspace_225dcabfba1f22eab8134e1dc3865cdb"
                                localtype="RestrictedFragileSpecColl">
