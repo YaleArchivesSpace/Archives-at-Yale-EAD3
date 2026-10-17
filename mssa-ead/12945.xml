@@ -39,6 +39,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -67,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-16T03:01:52-04:00</eventdatetime>
+            <eventdatetime>2026-10-17T03:00:36-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 16, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday October 17, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -958,6 +961,27 @@
                                    id="aspace_b1c7d8fbd036e46ceb860503e071b5ea_c1"
                                    label="Mixed Materials"
                                    localtype="box">19</container>
+                        <daoset altrender="/repositories/12/digital_objects/359623">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/321/736/original/open-uri20261016-758793-otrbzy_1792160687.jpg?1792160687"
+                                identifier="aviary_181062"
+                                linktitle="[Aviary] ru1183s2023-a-0019b019.u.mp4"
+                                linkrole="image-thumbnail"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://yalemssa.aviaryplatform.com/r/1z41r6q16r"
+                                identifier="aviary_181062"
+                                linktitle="[Aviary] ru1183s2023-a-0019b019.u.mp4"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>[Aviary] ru1183s2023-a-0019b019.u.mp4</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <accessrestrict id="aspace_0c77c170b474ee55837f4c7d6a1bd999"
                                      localtype="RestrictedFragileSpecColl">
