@@ -45,7 +45,7 @@
                <p>Boxes: 42 (Oversize), 92 (Record album storage), 100 (Oversize), 118 (Record album storage), 146 (Oversize), 167</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="270">270</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="514">514</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="271">271</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="514">514</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-01T23:00:49-04:00</eventdatetime>
+            <eventdatetime>2026-10-17T01:44:46-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October  1, 2026 at 23:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday October 17, 2026 at 01:44</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -37676,10 +37676,15 @@
                      id="aspace_0aaeeadbde09f8f821503017fa2073c6"
                      level="file">
                      <did>
-                        <unittitle>He-She </unittitle>
+                        <unittitle>He-She</unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                            <quantity>1</quantity>
                            <unittype>Film Reel</unittype>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">16 mm coat mag (sound files only)</physdesc>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:08:31</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
                         </physdescstructured>
                         <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                         <container altrender="/repositories/11/top_containers/327986 /locations/9"
@@ -37691,6 +37696,27 @@
                         <container id="aspace_0aaeeadbde09f8f821503017fa2073c6_c2"
                                    localtype="item_barcode"
                                    parent="aspace_0aaeeadbde09f8f821503017fa2073c6_c1">39002140886889</container>
+                        <daoset altrender="/repositories/11/digital_objects/359612">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                                identifier="aviary_181061"
+                                linktitle="[Aviary] ycalmss082839002140886889.u.mp3"
+                                linkrole="image-thumbnail"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://beineckelibrary.aviaryplatform.com/r/n29p26sd6s"
+                                identifier="aviary_181061"
+                                linktitle="[Aviary] ycalmss082839002140886889.u.mp3"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>[Aviary] ycalmss082839002140886889.u.mp3</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <accessrestrict id="aspace_480f4745097a63bb1e5b38e40201dfd1">
                         <head>Conditions Governing Access</head>
