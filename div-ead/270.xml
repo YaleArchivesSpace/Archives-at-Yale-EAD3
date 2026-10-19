@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-01T18:01:39-04:00</eventdatetime>
+            <eventdatetime>2026-10-19T18:05:15-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1885,9 +1885,14 @@
                      id="ref127"
                      level="file">
                      <did>
-                        <unittitle>Berkeley: First Congregational Church</unittitle>
-                        <unitdatestructured altrender="1948" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1948">1948</datesingle>
+                        <unittitle>Berkeley: First Congregational Church;  Los Angeles: First Congregational Church; San Diego: Chinese Community Church</unittitle>
+                        <unitdatestructured altrender="1901, 1947-1964, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1901">1901</fromdate>
+                              <todate standarddate="1964">1964</todate>
+                           </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/10627 /locations/9"
                                    containerid="39002038457447"
@@ -1909,43 +1914,6 @@
                                    label="Mixed Materials"
                                    localtype="box">67</container>
                         <container id="aspace_ref128_c2" localtype="folder" parent="aspace_ref128_c1">21</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/102416"
-                     id="ref129"
-                     level="file">
-                     <did>
-                        <unittitle>Los Angeles: First Congregational Church</unittitle>
-                        <unitdatestructured altrender="1901, 1959, 1964, undated"
-                                            label="creation"
-                                            unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1901">1901</fromdate>
-                              <todate standarddate="1964">1964</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/10627 /locations/9"
-                                   containerid="39002038457447"
-                                   id="aspace_ref129_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">6</container>
-                        <container id="aspace_ref129_c2" localtype="folder" parent="aspace_ref129_c1">46</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/102417"
-                     id="ref130"
-                     level="file">
-                     <did>
-                        <unittitle>San Diego: Chinese Community Church</unittitle>
-                        <unitdatestructured altrender="1947" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1947">1947</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/10627 /locations/9"
-                                   containerid="39002038457447"
-                                   id="aspace_ref130_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">6</container>
-                        <container id="aspace_ref130_c2" localtype="folder" parent="aspace_ref130_c1">46</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/102418"

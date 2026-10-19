@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-16T18:02:12-04:00</eventdatetime>
+            <eventdatetime>2026-10-19T18:00:54-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday June 16, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3878,7 +3878,14 @@
                   level="file">
                   <did>
                      <unittitle>Korea</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">1903-1909, 1915-1929,1945, 1952-1953, n.d.</unitdate>
+                     <unitdatestructured altrender="1903-1909, 1915-1929, 1945, 1952-1953, n.d."
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1903">1903</fromdate>
+                           <todate standarddate="1953">1953</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/6166 /locations/9"
                                 containerid="39002038300266"
                                 id="aspace_ref195_c1"

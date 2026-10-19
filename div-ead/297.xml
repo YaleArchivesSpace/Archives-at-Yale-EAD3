@@ -39,7 +39,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1, OV1-2, OV2, OVd2-3, OV3, OVd3-4, OV4-5, OV5, OVd5, OVd5-6, OV6-7, OV7-8, OV8-9, OV9-11, OVd11-12, 12a-42, 48-60, 62-70, 73-74, 74A-75, 80-111, 113-122, 130-131, 134-135, 137-170, 172-176, 185, 185a-207, 207A-213, 218, 221-228, 236, 243-250, 257-268, 273, 281, 299-309, 312-330, 333-408</p>
+               <p>Boxes: 1, OV1-2, OV2, OVd2-3, OV3, OVd3-4, OV4-5, OV5, OVd5, OVd5-6, OV6-7, OV7-8, OV8-9, OV9-11, OVd11-12, 12a-42, 48-60, 62-70, 73-74, 74A-75, 80-111, 113-122, 130-131, 134-135, 137-159, 161-170, 172-176, 185, 185a-207, 207A-213, 218, 221-228, 236, 243-250, 257-268, 273, 281, 299-309, 312-330, 333-408</p>
                <p>Item: OVd5</p>
             </controlnote>
             <controlnote localtype="offsite">
@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-15T18:00:45-04:00</eventdatetime>
+            <eventdatetime>2026-10-19T18:01:40-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 15, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -33992,35 +33992,218 @@ Chapter 36: Work in Wartime.</p>
                   </did>
                </c>
             </c>
-            <c altrender="/repositories/4/archival_objects/115947"
-               id="ref1623"
+            <c altrender="/repositories/4/archival_objects/115949"
+               id="ref1626"
                level="subseries">
                <did>
-                  <unittitle>Rawlinson, Florence Bodley</unittitle>
+                  <unittitle>Rawlinson, Frank J.</unittitle>
                </did>
-               <bioghist id="aspace_300978cff738f9f5099f1e6cb9d46b94">
+               <bioghist id="aspace_7da19e3cda4f377f003d15d66ee6f8b2">
                   <head>Biographical / Historical</head>
-                  <p>Biog. info: wife of Frank Joseph Rawlinson</p>
+                  <p>Biog. info: SBC, ABCFM, CR* Shanghai (L.1916-L.1937) FJR was editor of The Chinese Recorder</p>
                </bioghist>
-               <c altrender="/repositories/4/archival_objects/115948"
-                  id="ref1625"
+               <c altrender="/repositories/4/archival_objects/115950"
+                  id="ref1628"
                   level="file">
                   <did>
-                     <unittitle>Correspondence to daughters</unittitle>
-                     <unitdatestructured altrender="1921-1952" label="creation" unitdatetype="inclusive">
+                     <unittitle>Typescript material: "Frank Joseph Rawlinson, A Bio-Bibliography" by Helen Ann Rawlinson</unittitle>
+                     <unitdatestructured altrender="1972" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1972">1972</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1628_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1628_c2"
+                                localtype="folder"
+                                parent="aspace_ref1628_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115951"
+                  id="ref1629"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence to children</unittitle>
+                     <unitdatestructured altrender="1917-1937" label="creation" unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="1921">1921</fromdate>
-                           <todate standarddate="1952">1952</todate>
+                           <fromdate standarddate="1917">1917</fromdate>
+                           <todate standarddate="1937">1937</todate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/11937 /locations/2"
-                                containerid="39002131151152"
-                                id="aspace_ref1625_c1"
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1629_c1"
                                 label="Mixed Materials"
-                                localtype="box">160</container>
-                     <container id="aspace_ref1625_c2"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1629_c2"
                                 localtype="folder"
-                                parent="aspace_ref1625_c1">1-18</container>
+                                parent="aspace_ref1629_c1">2-32</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115952"
+                  id="ref1630"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence: Letter to the Editor of the North China Daily news - "Prevent Cruelty to Men!"</unittitle>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1630_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1630_c2"
+                                localtype="folder"
+                                parent="aspace_ref1630_c1">33</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115953"
+                  id="ref1631"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence: Letters to his wife</unittitle>
+                     <unitdatestructured altrender="1917-1936" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1917">1917</fromdate>
+                           <todate standarddate="1936">1936</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1631_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1631_c2"
+                                localtype="folder"
+                                parent="aspace_ref1631_c1">34-37</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115954"
+                  id="ref1632"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence: Letter from Guy C. Stockton</unittitle>
+                     <unitdatestructured altrender="1923" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1923">1923</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1632_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1632_c2"
+                                localtype="folder"
+                                parent="aspace_ref1632_c1">38</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115955"
+                  id="ref1633"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence: Letter from Brewer Eddy</unittitle>
+                     <unitdatestructured altrender="1935" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1935">1935</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1633_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1633_c2"
+                                localtype="folder"
+                                parent="aspace_ref1633_c1">39</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115956"
+                  id="ref1634"
+                  level="file">
+                  <did>
+                     <unittitle>Print material primarily re. death of Frank Rawlinson reprint from "The Chinese Recorder" by FJR; pamphlet ed. by FJR</unittitle>
+                     <unitdatestructured altrender="1931-1940" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931">1931</fromdate>
+                           <todate standarddate="1940">1940</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1634_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1634_c2"
+                                localtype="folder"
+                                parent="aspace_ref1634_c1">40</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115957"
+                  id="ref1635"
+                  level="file">
+                  <did>
+                     <unittitle>Typescript poem by Frank Rawlinson</unittitle>
+                     <unitdatestructured altrender="1948" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1948">1948</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1635_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1635_c2"
+                                localtype="folder"
+                                parent="aspace_ref1635_c1">41</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115958"
+                  id="ref1636"
+                  level="file">
+                  <did>
+                     <unittitle>Printed material: "Musings of a Wayfarer" by Frank Rawlinson</unittitle>
+                     <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1930">1930</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1636_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1636_c2"
+                                localtype="folder"
+                                parent="aspace_ref1636_c1">42</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115959"
+                  id="ref1637"
+                  level="file">
+                  <did>
+                     <unittitle>Photograph: 178 N. Szechuen Road, Shanghai Rawlinson home</unittitle>
+                     <container altrender="/repositories/4/top_containers/11938 /locations/2"
+                                containerid="39002131151145"
+                                id="aspace_ref1637_c1"
+                                label="Mixed Materials"
+                                localtype="box">161</container>
+                     <container id="aspace_ref1637_c2"
+                                localtype="folder"
+                                parent="aspace_ref1637_c1">43</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/115964"
+                  id="ref1644"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence: 1 roll microfilm</unittitle>
+                     <unitdatestructured altrender="1902-1924" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1902">1902</fromdate>
+                           <todate standarddate="1924">1924</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11940 /locations/2"
+                                containerid="39002034901000"
+                                id="aspace_ref1644_c1"
+                                label="Mixed Materials"
+                                localtype="box">162</container>
+                     <container id="aspace_ref1644_c2"
+                                localtype="folder"
+                                parent="aspace_ref1644_c1">2</container>
                   </did>
                </c>
             </c>
@@ -44076,7 +44259,7 @@ In 1923, the family returned to the U.S. on furlough, allowing both Grace and Ch
                      id="aspace_35be9d7c4f3207701b041287f5fc7d2d"
                      level="file">
                      <did>
-                        <unittitle>Chapters 23-28</unittitle>
+                        <unittitle>Chapters 23-27</unittitle>
                         <container altrender="/repositories/4/top_containers/11993 /locations/2"
                                    containerid="39002131152119"
                                    id="aspace_35be9d7c4f3207701b041287f5fc7d2d_c1"
