@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-27T23:02:56-04:00</eventdatetime>
+            <eventdatetime>2026-10-18T23:00:52-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday September 27, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday October 18, 2026 at 23:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -23565,6 +23565,10 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:47:17</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1991 July 9-1992 February 17"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -23573,6 +23577,7 @@
                               <todate standarddate="1992-02-17">1992 February 17</todate>
                            </daterange>
                         </unitdatestructured>
+                        <materialspec id="aspace_c171232f18503b682c4e40070b399eca">Audio distortion, hiss, and hum are present.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23624,7 +23629,12 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:29:27</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_bdf8778ccf6c5bd527635f550e483b8b">No audio on the left channel. Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23650,11 +23660,16 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:44:39</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1988 September 22"
                                             label="creation"
                                             unitdatetype="inclusive">
                            <datesingle standarddate="1988-09-22">1988 September 22</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_12c377b4bae93c6be1ac7559210664db">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23680,9 +23695,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:40:00</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1968 August 5" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1968-08-05">1968 August 5</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_bc67387fd4b5aee860794fdf16179193">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23708,7 +23728,12 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:45:27</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <materialspec id="aspace_10285f28c08617adc0eb6f9c69fd94ab">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23734,9 +23759,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:43:33</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1974 March" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1974">1974 March</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_1d65fa7c165f1f18f09c72010d85497c">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23762,9 +23792,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:52:16</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1996 March 13" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1996-03-13">1996 March 13</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_721fa2848eb771323bc9bf8b58e2afe3">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23790,6 +23825,10 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:41:07</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="circa 1970s-1995"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -23798,6 +23837,7 @@
                               <todate standarddate="1995">1995</todate>
                            </daterange>
                         </unitdatestructured>
+                        <materialspec id="aspace_aab08144c5dd0c8b5532611f80a2f148">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23823,9 +23863,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:41:17</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1995">1995</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_125c240d2690fb5c982ab6754d379e2a">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23851,9 +23896,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:15:28</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1954">1954</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_151692fcefb1f75dccb73117fb75408c">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23879,9 +23929,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:46:47</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1981 June 24" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1981-06-24">1981 June 24</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_e366ac078e3137768597319c38ed565e">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23907,9 +23962,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:29:47</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1964">1964</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_10522ecb8e4879f5ee379c0de4f1a092">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23935,11 +23995,16 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:42:25</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1982 October 13"
                                             label="creation"
                                             unitdatetype="inclusive">
                            <datesingle standarddate="1982-10-13">1982 October 13</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_14664f2091a34931e2ecba2f4c34d383">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23965,9 +24030,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:45:20</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1974 June" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1974-06">1974 June</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_fc6e17c18d6b39f8d0136eb76cfd088b">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
@@ -23993,9 +24063,14 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>00:33:14</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1974 June" label="creation" unitdatetype="inclusive">
                            <datesingle standarddate="1974-06">1974 June</datesingle>
                         </unitdatestructured>
+                        <materialspec id="aspace_d4fba1fbdc731680fd2316c26b2b0962">Audio distortion, hiss, and hum.</materialspec>
                         <container altrender="/repositories/11/top_containers/343569 /locations/9"
                                    containerid="39002104957122"
                                    encodinganalog="Paige 15"
