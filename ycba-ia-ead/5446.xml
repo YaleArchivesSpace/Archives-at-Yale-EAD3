@@ -60,13 +60,16 @@
             <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
          </descriptivenote>
       </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>in_progress</term>
+      </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-16T18:01:48-04:00</eventdatetime>
+            <eventdatetime>2026-10-19T18:01:15-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 16, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -83,13 +86,13 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>1</quantity>
-            <unittype>Linear Foot</unittype>
+            <quantity>0.5</quantity>
+            <unittype>Linear Feet</unittype>
             <physfacet>Paper</physfacet>
          </physdescstructured>
          <physdesc localtype="container_summary">1 box</physdesc>
-         <unitdatestructured altrender="circa 1997" label="creation" unitdatetype="inclusive">
-            <datesingle standarddate="1997">circa 1997</datesingle>
+         <unitdatestructured altrender="around 1997" label="creation" unitdatetype="inclusive">
+            <datesingle standarddate="1997">around 1997</datesingle>
          </unitdatestructured>
          <origination label="Creator">
             <persname rules="dacs" source="local">
