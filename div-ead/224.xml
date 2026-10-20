@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-9</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="91">91</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:08:31-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:03:12-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2488,6 +2491,35 @@
                              label="Mixed Materials"
                              localtype="box">7</container>
                   <container id="aspace_ref129_c2" localtype="folder" parent="aspace_ref129_c1">111</container>
+                  <daoset altrender="/repositories/4/digital_objects/362754">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33832366"
+                          identifier="oid:33832366"
+                          linktitle="91 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33832413/full/!150,150/0/default.jpg"
+                          identifier="oid:33832366"
+                          linktitle="91 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33832366"
+                          identifier="oid:33832366"
+                          linktitle="91 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Family photographs; Fanny, Dean, daughters, scenes - album and loose photos</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/71900"

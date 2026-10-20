@@ -42,7 +42,7 @@
                <p>Boxes: 1-15, 444</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="27">27</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1761">1,761</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="29">29</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1796">1,796</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:03:15-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:02:44-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1720,6 +1720,35 @@
                                 label="Mixed Materials"
                                 localtype="box">4</container>
                      <container id="aspace_ref113_c2" localtype="folder" parent="aspace_ref113_c1">106</container>
+                     <daoset altrender="/repositories/4/digital_objects/362737">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33832169"
+                             identifier="oid:33832169"
+                             linktitle="20 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33832184/full/!150,150/0/default.jpg"
+                             identifier="oid:33832169"
+                             linktitle="20 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33832169"
+                             identifier="oid:33832169"
+                             linktitle="20 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>MacDonald -- Mackenzie</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/32023"
@@ -2396,6 +2425,35 @@
                                 label="Mixed Materials"
                                 localtype="box">5</container>
                      <container id="aspace_ref165_c2" localtype="folder" parent="aspace_ref165_c1">166</container>
+                     <daoset altrender="/repositories/4/digital_objects/362736">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33832179"
+                             identifier="oid:33832179"
+                             linktitle="15 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33832193/full/!150,150/0/default.jpg"
+                             identifier="oid:33832179"
+                             linktitle="15 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33832179"
+                             identifier="oid:33832179"
+                             linktitle="15 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Ulanga -- United</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/32075"

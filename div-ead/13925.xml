@@ -40,7 +40,7 @@
                <p>Boxes: 195, 234</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="116">116</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="347">347</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:08:34-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:04:11-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5464,6 +5464,35 @@
                      <container id="aspace_e07829223ccbcd2c0ef94c82320dfe3a_c2"
                                 localtype="folder"
                                 parent="aspace_e07829223ccbcd2c0ef94c82320dfe3a_c1">12</container>
+                     <daoset altrender="/repositories/4/digital_objects/362743">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33832543"
+                             identifier="oid:33832543"
+                             linktitle="11 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33832565/full/!150,150/0/default.jpg"
+                             identifier="oid:33832543"
+                             linktitle="11 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33832543"
+                             identifier="oid:33832543"
+                             linktitle="11 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>German Mission in the Southern Maratha, Canara, and Malabar Provinces</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_8bedac99cd12a4f41649f2553e1ffcb6">
                      <head>Scope and Contents</head>
@@ -5486,6 +5515,35 @@
                      <container id="aspace_3beca2f470aed13549179ccdb0334160_c2"
                                 localtype="folder"
                                 parent="aspace_3beca2f470aed13549179ccdb0334160_c1">13</container>
+                     <daoset altrender="/repositories/4/digital_objects/362745">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33832566"
+                             identifier="oid:33832566"
+                             linktitle="16 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33832594/full/!150,150/0/default.jpg"
+                             identifier="oid:33832566"
+                             linktitle="16 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33832566"
+                             identifier="oid:33832566"
+                             linktitle="16 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Gujarat Tract and Book Society</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_9e0480edacf68b765dec78e9883e53d3">
                      <head>Scope and Contents</head>
@@ -36584,6 +36642,35 @@ Certificate of incorporation, by-laws of Agricultural Missions Foundation, Inc.,
                         <container id="aspace_143c312fd757e1d11f744b14c8035df0_c2"
                                    localtype="folder"
                                    parent="aspace_143c312fd757e1d11f744b14c8035df0_c1">1</container>
+                        <daoset altrender="/repositories/4/digital_objects/362765">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33832786"
+                                identifier="oid:33832786"
+                                linktitle="204 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33832970/full/!150,150/0/default.jpg"
+                                identifier="oid:33832786"
+                                linktitle="204 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33832786"
+                                identifier="oid:33832786"
+                                linktitle="204 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>China: publications of educational institutions - Laura Haygood Normal School, McTyeire School</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4034153"

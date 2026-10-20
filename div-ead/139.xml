@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-39</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="96">96</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:05:03-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:01:20-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4343,6 +4346,27 @@
                                 label="Mixed Materials"
                                 localtype="box">37</container>
                      <container id="aspace_ref249_c2" localtype="folder" parent="aspace_ref249_c1">341</container>
+                     <daoset altrender="/repositories/4/digital_objects/362724">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33831085"
+                             linktitle="48 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33831085"
+                             identifier="oid:33831085"
+                             linktitle="48 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>"History of Nanking Theological Seminary 1911 to 1961" by Frank Wilson Price</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/48326"
@@ -4362,6 +4386,27 @@
                                 label="Mixed Materials"
                                 localtype="box">18</container>
                      <container id="aspace_ref250_c2" localtype="folder" parent="aspace_ref250_c1">163</container>
+                     <daoset altrender="/repositories/4/digital_objects/362722">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33830938"
+                             linktitle="48 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33830938"
+                             identifier="oid:33830938"
+                             linktitle="48 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>A River of Living Water, a historical sketch of the Nanking Theological Seminary, Nanking, China, and The Board of Founders, by Frank Cartwright.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/48327"

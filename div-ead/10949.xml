@@ -41,7 +41,7 @@
                <p>Boxes: OV1, OVd6, OVMCd8-MCd9</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="13">13</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="551">551</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="622">622</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:08:20-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:03:14-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -15018,6 +15018,35 @@ Reel 4: Book #12 page 141 through "Notes on Acts 7"</p>
                      <container id="aspace_d05cda2bbae2baffee218c1ee6b6402c_c2"
                                 localtype="folder"
                                 parent="aspace_d05cda2bbae2baffee218c1ee6b6402c_c1">6</container>
+                     <daoset altrender="/repositories/4/digital_objects/362759">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33832399"
+                             identifier="oid:33832399"
+                             linktitle="71 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33832478/full/!150,150/0/default.jpg"
+                             identifier="oid:33832399"
+                             linktitle="71 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33832399"
+                             identifier="oid:33832399"
+                             linktitle="71 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Manuscript writings: "On Popularity","Oration on the Greek Poets","On Repentance","Questions in Biblical Literature by Professor Stuart"; manuscript syllabus "Course of Theology by Professor Woods"</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>

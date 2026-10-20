@@ -40,6 +40,9 @@
             <controlnote localtype="onsite">
                <p>Box: OVd11</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="114">114</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -65,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:08:16-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:03:05-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -225,6 +228,35 @@ Further correspondence is found within Series VI subseries 1 "Compiled materials
                   <container id="aspace_41d9fd4fd115f715addbcf5454646d85_c2"
                              localtype="folder"
                              parent="aspace_41d9fd4fd115f715addbcf5454646d85_c1">1</container>
+                  <daoset altrender="/repositories/4/digital_objects/362744">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33832423"
+                          identifier="oid:33832423"
+                          linktitle="30 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33832456/full/!150,150/0/default.jpg"
+                          identifier="oid:33832423"
+                          linktitle="30 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33832423"
+                          identifier="oid:33832423"
+                          linktitle="30 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Including from: Hyla, Ada Stowell Watters, Florence Watters Stuntz</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_a240836b88a8d29258adc3f5815a96b4">
                   <head>Scope and Contents</head>
@@ -250,6 +282,35 @@ Further correspondence is found within Series VI subseries 1 "Compiled materials
                   <container id="aspace_256adabda0399b410705fc0ff074407e_c2"
                              localtype="folder"
                              parent="aspace_256adabda0399b410705fc0ff074407e_c1">2</container>
+                  <daoset altrender="/repositories/4/digital_objects/362746">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33832459"
+                          identifier="oid:33832459"
+                          linktitle="36 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33832515/full/!150,150/0/default.jpg"
+                          identifier="oid:33832459"
+                          linktitle="36 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33832459"
+                          identifier="oid:33832459"
+                          linktitle="36 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Including from: Hyla, Ada Stowell Watters, Florence Watters Stuntz, Clyde Allen, Paul Sommerfreund</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_36b9e481cdf44897dc1065e2b9c95f61">
                   <head>Scope and Contents</head>
@@ -1182,6 +1243,35 @@ Further correspondence is found within Series VI subseries 1 "Compiled materials
                   <container id="aspace_9f3b6cf735d5e369dcd117e16c9fd560_c2"
                              localtype="folder"
                              parent="aspace_9f3b6cf735d5e369dcd117e16c9fd560_c1">14</container>
+                  <daoset altrender="/repositories/4/digital_objects/362748">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33832527"
+                          identifier="oid:33832527"
+                          linktitle="48 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33832592/full/!150,150/0/default.jpg"
+                          identifier="oid:33832527"
+                          linktitle="48 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33832527"
+                          identifier="oid:33832527"
+                          linktitle="48 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Years in Wuhu</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_81023a8c720635cead567b6481140603">
                   <head>Scope and Contents</head>

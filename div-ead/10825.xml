@@ -38,7 +38,7 @@
                <p>Boxes: 1-16, 16a-19</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="251">251</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="6">6</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="270">270</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:08:12-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:01:23-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -358,6 +358,27 @@ Correspondence from Jeffrey D. Jones dating from the 1980s was added to the coll
                   <container id="aspace_8d6c2948e29ba569ebc3b1dcefa2dfe0_c2"
                              localtype="folder"
                              parent="aspace_8d6c2948e29ba569ebc3b1dcefa2dfe0_c1">13</container>
+                  <daoset altrender="/repositories/4/digital_objects/362725">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33831643"
+                          linktitle="19 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33831643"
+                          identifier="oid:33831643"
+                          linktitle="19 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Handwritten and typescript narratives: "My work in India"</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2691551"

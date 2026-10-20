@@ -45,7 +45,7 @@
                <p>Boxes: OV1-OV2</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="9">9</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="788">788</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="885">885</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T18:07:42-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T18:03:00-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 18:07</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3555,6 +3555,27 @@
                                 label="Mixed Materials"
                                 localtype="box">17</container>
                      <container id="aspace_ref248_c2" localtype="folder" parent="aspace_ref248_c1">171</container>
+                     <daoset altrender="/repositories/4/digital_objects/362727">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33831182"
+                             linktitle="44 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33831182"
+                             identifier="oid:33831182"
+                             linktitle="44 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Min River Boat Songs</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_bc0278526dc70603e87aeebcc9483f10">
                      <head>Scope and Contents</head>
@@ -5641,6 +5662,35 @@
                                 label="Mixed Materials"
                                 localtype="box">38</container>
                      <container id="aspace_ref396_c2" localtype="folder" parent="aspace_ref396_c1">311</container>
+                     <daoset altrender="/repositories/4/digital_objects/362739">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33832195"
+                             identifier="oid:33832195"
+                             linktitle="19 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33832224/full/!150,150/0/default.jpg"
+                             identifier="oid:33832195"
+                             linktitle="19 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33832195"
+                             identifier="oid:33832195"
+                             linktitle="19 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Photocopies of photographs suggested for Min River Journals book</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/53685"
@@ -5683,6 +5733,35 @@
                                 label="Mixed Materials"
                                 localtype="box">OV1</container>
                      <container id="aspace_ref399_c2" localtype="folder" parent="aspace_ref399_c1">4</container>
+                     <daoset altrender="/repositories/4/digital_objects/362742">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33832242"
+                             identifier="oid:33832242"
+                             linktitle="34 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33832290/full/!150,150/0/default.jpg"
+                             identifier="oid:33832242"
+                             linktitle="34 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33832242"
+                             identifier="oid:33832242"
+                             linktitle="34 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Miscelleaneous photos from album</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/3188652"
