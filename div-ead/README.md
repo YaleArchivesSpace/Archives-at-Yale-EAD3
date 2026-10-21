@@ -370,5 +370,4 @@ EAD | EAD ID | Identifier | Title | Other versions
  [divinity.347.xml](13885.xml) | divinity.347 | RG 347 | Records of Mission and World Christian Educational and Medical Institutions and Organizations | 
  [divinity.345.xml](13907.xml) | divinity.345 | RG 345 | Lex Hixon papers | 
  [divinity.349.xml](13925.xml) | divinity.349 | RG 349 | Records of Mission and World Christian Agencies and Organizations | 
- [divinity.315a.xml](14141.xml) | divinity.315a | RG 315A | Updated Church Postcards | 
 
