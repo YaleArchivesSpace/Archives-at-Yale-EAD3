@@ -45,7 +45,7 @@
                <p>Boxes: 73-78, 117-128, 141-146, 169-174, 178, 180, 183-186, Bsd, folder 1925-Bsd, folder 1935</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="185">185</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1025">1,025</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="186">186</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1025">1,025</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-19T23:42:53-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T23:04:14-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 19, 2026 at 23:42</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -17240,6 +17240,25 @@ The papers also include correspondence with organizations and individuals, almos
                      <container id="aspace_ref1100_c3"
                                 localtype="item_barcode"
                                 parent="aspace_ref1100_c2">39002140886863</container>
+                     <daoset altrender="/repositories/11/digital_objects/362768">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/vh5cc0x78r"
+                             identifier="aviary_181264"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/485/original/open-uri20261020-1403190-695ly1_1792510793.jpg?1792510795"
+                             identifier="aviary_181264"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] jwjmss017639002140886863.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_e56d2380d010538c97562e2fcec8c892"
                                   localtype="RestrictedFragileSpecColl">
