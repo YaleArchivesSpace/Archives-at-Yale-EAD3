@@ -33,7 +33,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="36">36</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="37">37</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-09T20:01:01-04:00</eventdatetime>
+            <eventdatetime>2026-10-20T20:00:04-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  9, 2026 at 20:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -691,6 +691,67 @@
                <controlaccess>
                   <persname relator="ive" rules="rda" source="local_music">
                      <part localtype="agent_person">Durso, Joe</part>
+                  </persname>
+               </controlaccess>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4059946"
+            id="aspace_e9030c99e9e54c57489551fae5ede2f2"
+            level="series">
+            <did>
+               <unittitle>Ember, Brian</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4059947"
+               id="aspace_a69bbc3f9e49b31ac6fc2cf57cff2810"
+               level="item">
+               <did>
+                  <unittitle>Ember, Brian</unittitle>
+                  <unitid>NHM 37 a</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">869 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 October 8"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2026-10-08">2026 October 8</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_720fd796474d8ae8a5b3dc06f11be1d3">Approximate running time: 86 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/362770">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/pk06w98q3p"
+                          identifier="aviary_181274"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/494/original/open-uri20261020-1403190-m5ulnb?1792516574"
+                          identifier="aviary_181274"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] NHM 37 a.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_2567e7b1f33ba5388d746d2622d6cb4d">
+                  <head>Interview location</head>
+                  <p>New Haven, CT</p>
+               </scopecontent>
+               <phystech id="aspace_aea01c45ede3d0b970373dc7f2ed5433">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.wav file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive" rules="rda" source="local_music">
+                     <part localtype="agent_person">Ember, Brian</part>
+                  </persname>
+                  <persname relator="ivr">
+                     <part localtype="agent_person">Vees, Jack (1955-)</part>
                   </persname>
                </controlaccess>
             </c>
