@@ -77,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-20T18:00:05-04:00</eventdatetime>
+            <eventdatetime>2026-10-22T18:00:17-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 22, 2026 at 18:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -2315,8 +2315,29 @@ Some publications have gone through format and name changes over the years. The 
                   id="aspace_b6d1c0880e455e68c6a488c1dfcf3ce6"
                   level="subseries">
                   <did>
-                     <unittitle>1835-1899</unittitle>
+                     <unittitle>1820-1899</unittitle>
                   </did>
+                  <c altrender="/repositories/4/archival_objects/4066282"
+                     id="aspace_11c9026e76cc4f1cc218547f62c5bd7b"
+                     level="file">
+                     <did>
+                        <unittitle>Letters concerning revivals</unittitle>
+                        <unitdatestructured altrender="1820-1833" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1820">1820</fromdate>
+                              <todate standarddate="1833">1833</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/231194"
+                                   id="aspace_11c9026e76cc4f1cc218547f62c5bd7b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">III-1</container>
+                     </did>
+                     <scopecontent id="aspace_78a62783fb5b55620ec9e9731c5d8c81">
+                        <head>Scope and Contents</head>
+                        <p>Two letters from Yale College alumni at Andover Theological Seminary and one letter from the Church of Christ in Yale College to the Praying Society in Brown University. One of the Andover letters is from Charles Rockwell to Nathaniel William Taylor and is dated both 1823 and 1833. The 1823 date is an error (Rockwell graduated from Andover in 1834). Note that all letters are associated with Yale College rather than the Theological Department at Yale (the forerunner to Yale Divinity School)</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/2144021"
                      id="aspace_3607b24fc8ab13eaf1fade0cf5776927"
                      level="file">
