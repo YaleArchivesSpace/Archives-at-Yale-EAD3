@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-11T03:04:43-04:00</eventdatetime>
+            <eventdatetime>2026-10-22T03:02:36-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 03:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 22, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -596,6 +596,52 @@
                              id="aspace_ref25_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
+               </did>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4045745"
+            id="aspace_5bfedfaacc47254a5050e92661bd976c"
+            level="series">
+            <did>
+               <unittitle>April 2026 acquisition</unittitle>
+               <origination label="Creator">
+                  <persname identifier="http://id.loc.gov/authorities/names/n2003015945"
+                            source="naf">
+                     <part localtype="agent_person">MacPhee, Josh</part>
+                  </persname>
+               </origination>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>3.41</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(1 box)</physdesc>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="2024">2024</datesingle>
+               </unitdatestructured>
+            </did>
+            <acqinfo id="aspace_ea69d62b7bdd5c05cec7e2b9c6532f60">
+               <head>Immediate Source of Acquisition</head>
+               <p>Purhased from Booklyn, Inc. on the Edwin J. Beinecke Book Fund, 2026.</p>
+            </acqinfo>
+            <scopecontent id="aspace_1f29fc6c3895818d66e4a429cf4573e2">
+               <head>Scope and Contents</head>
+               <p>Posters for Palestine includes ten screenprinted posters printed at Shoestring Press in Brooklyn, New York by Lane Sell and Erich Erving. The portfolio case that houses the posters was made by Sarah Nicholls.</p>
+               <p>The creator of the posters, Josh MacPhee, says "these ten posters were designed in the fall of 2023, in the wake of Israel's most recent genocidal assault on Gaza and the rest of the Occupied Territories, and in connection with a renewed international resistance by and in colidarity with Palestinians." MacPhee's work uses size and color to emphasize their physical materiality to break the viewer from the comfort of virtual spaces.</p>
+            </scopecontent>
+            <c altrender="/repositories/12/archival_objects/4045746"
+               id="aspace_a5a1c7f9646ce9f56ecadfb2e87a910a"
+               level="file">
+               <did>
+                  <unittitle>Posters for Palestine</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024">2024</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485035"
+                             containerid="39002098928741"
+                             encodinganalog="custom box [31 x 40 x 2]"
+                             id="aspace_a5a1c7f9646ce9f56ecadfb2e87a910a_c1"
+                             label="Mixed Materials"
+                             localtype="box">2 (Oversize)</container>
                </did>
             </c>
          </c>
