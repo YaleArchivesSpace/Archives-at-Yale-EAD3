@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-12T23:02:43-04:00</eventdatetime>
+            <eventdatetime>2026-10-21T23:00:42-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 12, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 21, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -94,8 +94,10 @@
             <quantity>0.92</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">3 boxes</physdesc>
-         <unitdatestructured altrender="1914-1979" label="creation" unitdatetype="inclusive">
+         <physdesc localtype="container_summary">(3 boxes)</physdesc>
+         <unitdatestructured altrender="1914-1979, undated"
+                             label="creation"
+                             unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1914">1914</fromdate>
                <todate standarddate="1979">1979</todate>
@@ -124,11 +126,12 @@
       </accessrestrict>
       <acqinfo id="aspace_f6be5eafb0ef8333b8e859f6e9a22c7e">
          <head>Immediate Source of Acquisition</head>
-         <p>Purchased from William Reese Co. on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2024. March 2026 Acquisistion purchased from Nick Aretakis Americana on the James Weldon Johns Memorial Collection of Negrp Arts &amp; Letters Fund.</p>
+         <p>Purchased from William Reese Co. on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2024. March 2026 Acquisition purchased from Nick Aretakis Americana on the James Weldon Johns Memorial Collection of Negro Arts &amp; Letters Fund.</p>
       </acqinfo>
       <arrangement id="aspace_97034ebda044be3c18b60c01feb31641">
          <head>Arrangement</head>
-         <p>Materials in this collection maintain order found at acquisition. March 2026 Acquisition is arranged alphabetically by material type.</p>
+         <p>Materials in the March 2024 Acquisition maintain order found at acquisition.</p>
+         <p>March 2026 Acquisition is arranged alphabetically by material type.</p>
       </arrangement>
       <bioghist id="aspace_100b7015901494bef6dda193280f4210">
          <head>Bessie Emanuel</head>
@@ -149,7 +152,7 @@
          <p>'Early school papers' contains notebooks, assignments and essays from elementary school and her diary captures daily activity from her junior year of high school. Correspondence with Jacob Smith, her eventual husband, were written while Smith was studying to be a teacher at Hampton Institute, the University of Iowa, and Shaw University in North Carolina. Other letters are from Philadelphia and Sayville, Long Island.</p>
          <p>'General correspondence' and 'School and professional correspondence' contain letters to family and friends as well as communication about potential jobs and school updates.</p>
          <p>'Hampton Institute printed ephemera' and 'Personal papers' focus on Emanuel's time at the Hampton Institute and beyond and include resumes, class schedules and records.</p>
-         <p>'March 2026 Acquisistion' contains correspondence, photographs, and an autograph book from the early life of Bessie Emanuel.</p>
+         <p>'March 2026 Acquisition' contains correspondence, photographs, and an autograph book from the early life of Bessie Emanuel.</p>
       </scopecontent>
       <userestrict id="aspace_7e808d57b60a9b620acd01896b29fbb2">
          <head>Conditions Governing Use</head>
@@ -196,177 +199,6 @@
             <part localtype="topical">Women teachers</part>
          </subject>
       </controlaccess>
-      <dsc>
-         <c altrender="/repositories/11/archival_objects/3876366"
-            id="aspace_e0633cb9308fd370c1d104fd8a51b2dc"
-            level="file">
-            <did>
-               <unittitle>Diary</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <datesingle standarddate="1921">1921</datesingle>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407348 /locations/9"
-                          containerid="39002099198427"
-                          encodinganalog="archive legal"
-                          id="aspace_e0633cb9308fd370c1d104fd8a51b2dc_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_e0633cb9308fd370c1d104fd8a51b2dc_c2"
-                          localtype="folder"
-                          parent="aspace_e0633cb9308fd370c1d104fd8a51b2dc_c1">1</container>
-            </did>
-         </c>
-         <c altrender="/repositories/11/archival_objects/3876367"
-            id="aspace_24724538318d22b7e528c3595436fa54"
-            level="file">
-            <did>
-               <unittitle>Early school papers</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <datesingle standarddate="1914">1914</datesingle>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407348 /locations/9"
-                          containerid="39002099198427"
-                          encodinganalog="archive legal"
-                          id="aspace_24724538318d22b7e528c3595436fa54_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_24724538318d22b7e528c3595436fa54_c2"
-                          localtype="folder"
-                          parent="aspace_24724538318d22b7e528c3595436fa54_c1">2-3</container>
-            </did>
-         </c>
-         <c altrender="/repositories/11/archival_objects/3876368"
-            id="aspace_36630d5e1645aa39738676febd0607e9"
-            level="file">
-            <did>
-               <unittitle>Jacob Smith correspondence</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <daterange>
-                     <fromdate standarddate="1926">1926</fromdate>
-                     <todate standarddate="1929">1929</todate>
-                  </daterange>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407348 /locations/9"
-                          containerid="39002099198427"
-                          encodinganalog="archive legal"
-                          id="aspace_36630d5e1645aa39738676febd0607e9_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_36630d5e1645aa39738676febd0607e9_c2"
-                          localtype="folder"
-                          parent="aspace_36630d5e1645aa39738676febd0607e9_c1">4</container>
-            </did>
-         </c>
-         <c altrender="/repositories/11/archival_objects/3876369"
-            id="aspace_0843f92d6c8913b8614184bed1289024"
-            level="file">
-            <did>
-               <unittitle>Envelopes for Jacob Smith correspondence</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <daterange>
-                     <fromdate standarddate="1926">1926</fromdate>
-                     <todate standarddate="1929">1929</todate>
-                  </daterange>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407348 /locations/9"
-                          containerid="39002099198427"
-                          encodinganalog="archive legal"
-                          id="aspace_0843f92d6c8913b8614184bed1289024_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_0843f92d6c8913b8614184bed1289024_c2"
-                          localtype="folder"
-                          parent="aspace_0843f92d6c8913b8614184bed1289024_c1">5</container>
-            </did>
-         </c>
-         <c altrender="/repositories/11/archival_objects/3876370"
-            id="aspace_fbba181621332315bd623a68d6dcaba8"
-            level="file">
-            <did>
-               <unittitle>General correspondence</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <daterange>
-                     <fromdate standarddate="1917">1917</fromdate>
-                     <todate standarddate="1957">1957</todate>
-                  </daterange>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407348 /locations/9"
-                          containerid="39002099198427"
-                          encodinganalog="archive legal"
-                          id="aspace_fbba181621332315bd623a68d6dcaba8_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_fbba181621332315bd623a68d6dcaba8_c2"
-                          localtype="folder"
-                          parent="aspace_fbba181621332315bd623a68d6dcaba8_c1">6</container>
-            </did>
-         </c>
-         <c altrender="/repositories/11/archival_objects/3876371"
-            id="aspace_0db0dd23d043850f3d379f33c56facd7"
-            level="file">
-            <did>
-               <unittitle>School and professional correspondence</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <daterange>
-                     <fromdate standarddate="1927">1927</fromdate>
-                     <todate standarddate="1976">1976</todate>
-                  </daterange>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407348 /locations/9"
-                          containerid="39002099198427"
-                          encodinganalog="archive legal"
-                          id="aspace_0db0dd23d043850f3d379f33c56facd7_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_0db0dd23d043850f3d379f33c56facd7_c2"
-                          localtype="folder"
-                          parent="aspace_0db0dd23d043850f3d379f33c56facd7_c1">7</container>
-            </did>
-         </c>
-         <c altrender="/repositories/11/archival_objects/3876372"
-            id="aspace_d5d06c6ca116e7953af721599ef27267"
-            level="file">
-            <did>
-               <unittitle>Hampton Institute printed ephemera</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <daterange>
-                     <fromdate standarddate="1925">1925</fromdate>
-                     <todate standarddate="1979">1979</todate>
-                  </daterange>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407349 /locations/9"
-                          containerid="39002099198435"
-                          encodinganalog="archive half legal"
-                          id="aspace_d5d06c6ca116e7953af721599ef27267_c1"
-                          label="Mixed Materials"
-                          localtype="box">2</container>
-               <container id="aspace_d5d06c6ca116e7953af721599ef27267_c2"
-                          localtype="folder"
-                          parent="aspace_d5d06c6ca116e7953af721599ef27267_c1">1</container>
-            </did>
-         </c>
-         <c altrender="/repositories/11/archival_objects/3876373"
-            id="aspace_e45b933808fccb7ec16cec9ce96d34a9"
-            level="file">
-            <did>
-               <unittitle>Personal papers</unittitle>
-               <unitdatestructured label="creation" unitdatetype="inclusive">
-                  <daterange>
-                     <fromdate standarddate="1932">1932</fromdate>
-                     <todate standarddate="1976">1976</todate>
-                  </daterange>
-               </unitdatestructured>
-               <container altrender="/repositories/11/top_containers/407349 /locations/9"
-                          containerid="39002099198435"
-                          encodinganalog="archive half legal"
-                          id="aspace_e45b933808fccb7ec16cec9ce96d34a9_c1"
-                          label="Mixed Materials"
-                          localtype="box">2</container>
-               <container id="aspace_e45b933808fccb7ec16cec9ce96d34a9_c2"
-                          localtype="folder"
-                          parent="aspace_e45b933808fccb7ec16cec9ce96d34a9_c1">2</container>
-            </did>
-         </c>
-      </dsc>
+      <dsc/>
    </archdesc>
 </ead>
