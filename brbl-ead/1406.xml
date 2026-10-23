@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-11-10T23:19:16-05:00</eventdatetime>
+            <eventdatetime>2026-10-22T23:04:42-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 10, 2025 at 23:19</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 22, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -31800,11 +31800,6 @@
                <head>Arrangement</head>
                <p>The series is arranged into three subseries: Personal Papers; Clippings; Printed Materials; and Sound Recordings</p>
             </arrangement>
-            <accessrestrict id="aspace_c6d665f65e54264cf0784e70e303277b"
-                            localtype="RestrictedFragileSpecColl">
-               <head>Conditions Governing Access</head>
-               <p>Box 95: (Sound Recordings): Restricted Fragile. Reference copies may be requested. Consult Access Services for further information.</p>
-            </accessrestrict>
             <c altrender="/repositories/11/archival_objects/526371"
                id="ref1739"
                level="subseries">
@@ -32605,6 +32600,11 @@
                <did>
                   <unittitle>Sound Recordings</unittitle>
                </did>
+               <accessrestrict id="aspace_60fe4d32a5c78cacf0de2a6e34dec78d"
+                               localtype="RestrictedFragileSpecColl">
+                  <head>Conditions Governing Access</head>
+                  <p>Box 95: (Sound Recordings): Restricted Fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+               </accessrestrict>
                <c altrender="/repositories/11/archival_objects/2989983"
                   id="aspace_fa08832a67799a7f86a122d73ca8d30f"
                   level="file">

@@ -45,7 +45,7 @@
                <p>Boxes: 42 (Oversize), bsd, folder 742-bsd, folder 746</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="35">35</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="55">55</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="37">37</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="55">55</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-21T23:02:07-04:00</eventdatetime>
+            <eventdatetime>2026-10-22T23:05:12-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday September 21, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 22, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -14750,6 +14750,25 @@
                      <container id="aspace_97fd34d00d24d6562d99558432cb5907_c2"
                                 localtype="item_barcode"
                                 parent="aspace_97fd34d00d24d6562d99558432cb5907_c1">39002140959710</container>
+                     <daoset altrender="/repositories/11/digital_objects/362796">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/vx05x27z72"
+                             identifier="aviary_181313"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/534/original/open-uri20261022-906-7zwcrp_1792701559.jpg?1792701560"
+                             identifier="aviary_181313"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] genmss043939002140959710.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_51d57c117a8a3ae27d33710f70c41447"
                                   localtype="RestrictedFragileSpecColl">
@@ -14783,6 +14802,25 @@
                      <container id="aspace_dbcdcf45b104f4f6d85eec0b0623e09c_c2"
                                 localtype="item_barcode"
                                 parent="aspace_dbcdcf45b104f4f6d85eec0b0623e09c_c1">39002140959728</container>
+                     <daoset altrender="/repositories/11/digital_objects/362801">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/6688g8hn6b"
+                             identifier="aviary_181318"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/543/original/open-uri20261022-906-tcomay_1792701902.jpg?1792701904"
+                             identifier="aviary_181318"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] genmss043939002140959728.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_0f093c3563f9629cd5de3150006edeb7"
                                   localtype="RestrictedFragileSpecColl">

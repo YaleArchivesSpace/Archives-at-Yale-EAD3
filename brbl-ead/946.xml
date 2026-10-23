@@ -39,7 +39,7 @@
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">4335094</num>.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1-28, GROUP 28-71, GROUP 71-85, 87, GROUP 87-89, 91, 93-99, 104, 110-113, 119-121, 124, 127, 130-133, 137, 139, 141, 144, 146-152, 155, 156-166 (Broadside), 168 (Broadside), 170 (Broadside), 172-187 (Broadside), GROUP 188, 189-214 (Broadside), 216-239 (Broadside), GROUP 239, 240-248 (Broadside), 250-253 (Broadside), 254-256, 258 (Oversize), 259 (Broadside), 260 (Art), 261 (Broadside), 264 (Oversize), GROUP 342, GROUP 404, GROUP 444, GROUP 456, GROUP 497, GROUP 577, GROUP 845, GROUP 914, GROUP 1076, GROUP 1104, GROUP 1199, GROUP 1223-GROUP 1224, GROUP 1328, GROUP 1335, GROUP 1388, GROUP 1397, GROUP 1518, GROUP 1524, GROUP 1650, GROUP 1754, GROUP 1938, GROUP 2010, GROUP 2014, GROUP 2094, GROUP 2121, GROUP 2175, GROUP 2242, GROUP 2303, GROUP 2335, GROUP 2353, GROUP 2401, GROUP 2479, GROUP 2501, GROUP 2534, GROUP 2540, GROUP 2583, GROUP 2607, GROUP 2621, GROUP 2626, GROUP 2628, GROUP 2631-GROUP 2632, GROUP 2634, GROUP 2701, GROUP 2788, GROUP 2844, GROUP 2903, GROUP 2948, GROUP 2973, GROUP 2983, GROUP 2987, GROUP 3003, GROUP 3009, GROUP 3044, GROUP 3066, GROUP 3074, GROUP 3111, GROUP 3140, GROUP 3144, GROUP 3159, GROUP 3172</p>
+               <p>Boxes: 1-28, GROUP 28-71, GROUP 71-85, 87, GROUP 87-89, 91, 93-99, 104, 110-113, 119-121, 124, 127, 130-133, 137, 139, 141, 144, 146-152, 154-155, 156-166 (Broadside), 168 (Broadside), 170 (Broadside), 172-187 (Broadside), GROUP 188, 189-214 (Broadside), 216-239 (Broadside), GROUP 239, 240-248 (Broadside), 250-253 (Broadside), 254-256, 258 (Oversize), 259 (Broadside), 260 (Art), 261 (Broadside), 264 (Oversize), GROUP 342, GROUP 404, GROUP 444, GROUP 456, GROUP 497, GROUP 577, GROUP 845, GROUP 914, GROUP 1076, GROUP 1104, GROUP 1199, GROUP 1223-GROUP 1224, GROUP 1328, GROUP 1335, GROUP 1388, GROUP 1397, GROUP 1518, GROUP 1524, GROUP 1650, GROUP 1754, GROUP 1938, GROUP 2010, GROUP 2014, GROUP 2094, GROUP 2121, GROUP 2175, GROUP 2242, GROUP 2303, GROUP 2335, GROUP 2353, GROUP 2401, GROUP 2479, GROUP 2501, GROUP 2534, GROUP 2540, GROUP 2583, GROUP 2607, GROUP 2621, GROUP 2626, GROUP 2628, GROUP 2631-GROUP 2632, GROUP 2634, GROUP 2701, GROUP 2788, GROUP 2844, GROUP 2903, GROUP 2948, GROUP 2973, GROUP 2983, GROUP 2987, GROUP 3003, GROUP 3009, GROUP 3044, GROUP 3066, GROUP 3074, GROUP 3111, GROUP 3140, GROUP 3144, GROUP 3159</p>
                <p>Folders: 169 (Broadside), 249 (Broadside)</p>
             </controlnote>
             <controlnote localtype="offsite">
@@ -79,10 +79,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-21T23:01:20-04:00</eventdatetime>
+            <eventdatetime>2026-10-22T23:00:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 21, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 22, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -136211,13 +136211,14 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         <datesingle standarddate="1969">1969</datesingle>
                      </unitdatestructured>
                      <physdesc id="aspace_d9edb5795543ce76c2a5450ad0f8a18b">1 item.</physdesc>
-                     <container altrender="/repositories/11/top_containers/31899"
+                     <container altrender="/repositories/11/top_containers/371566 /locations/4051"
+                                containerid="39002093714849"
                                 id="aspace_ref25497_c1"
                                 label="Mixed Materials"
-                                localtype="box">GROUP 3172</container>
+                                localtype="box">154</container>
                      <container id="aspace_ref25497_c2"
                                 localtype="folder"
-                                parent="aspace_ref25497_c1">V-1</container>
+                                parent="aspace_ref25497_c1">Group 3172, F1-F5</container>
                      <daoset altrender="/repositories/11/digital_objects/134280">
                         <dao actuate="onrequest"
                              audience="external"
@@ -136252,6 +136253,10 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                      <head>Scope and Contents</head>
                      <p>Photocopy of unrevised proofs of Ada, or, Ardor : a family chronicle. From McGraw- Hill Book Company, Trade Division. In English.</p>
                   </scopecontent>
+                  <acqinfo id="aspace_732d9971763dc2273397cb06c6c6f141">
+                     <head>Immediate Source of Acquisition</head>
+                     <p>Gift of the Book of the Month Club, 1969.</p>
+                  </acqinfo>
                </c>
             </c>
             <c altrender="/repositories/11/archival_objects/325384"
