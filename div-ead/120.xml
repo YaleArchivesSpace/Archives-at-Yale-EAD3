@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-15T18:00:34-04:00</eventdatetime>
+            <eventdatetime>2026-10-23T18:00:13-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 15, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 23, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4093,6 +4093,36 @@ Series VIII, Grant, contains documentation of grant projects.</p>
                   </accessrestrict>
                </c>
             </c>
+            <c altrender="/repositories/4/archival_objects/4066606"
+               id="aspace_8d652816f23c72fdd1ca31dd19c0674e"
+               level="subseries">
+               <did>
+                  <unittitle>Board Meeting, June 2024</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4066608"
+                  id="aspace_90106b9ab207a4b72c09b1911edae667"
+                  level="file">
+                  <did>
+                     <unittitle>Executive Session</unittitle>
+                     <unitdatestructured altrender="2024 June 18-19"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2024-06-18">2024 June 18</fromdate>
+                           <todate standarddate="2024-06-19">2024 June 19</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/405847 /locations/9"
+                                containerid="39002112324497"
+                                id="aspace_90106b9ab207a4b72c09b1911edae667_c1"
+                                label="Mixed Materials"
+                                localtype="box">50</container>
+                     <container id="aspace_90106b9ab207a4b72c09b1911edae667_c2"
+                                localtype="folder"
+                                parent="aspace_90106b9ab207a4b72c09b1911edae667_c1">14</container>
+                  </did>
+               </c>
+            </c>
             <c altrender="/repositories/4/archival_objects/3998221"
                id="aspace_dd46a96802776e75245afb8595105e6e"
                level="subseries">
@@ -4165,7 +4195,7 @@ Series VIII, Grant, contains documentation of grant projects.</p>
                                 localtype="box">50</container>
                      <container id="aspace_b5983f98c6a6ee6570f7c641edac454c_c2"
                                 localtype="folder"
-                                parent="aspace_b5983f98c6a6ee6570f7c641edac454c_c1">14</container>
+                                parent="aspace_b5983f98c6a6ee6570f7c641edac454c_c1">15</container>
                   </did>
                   <accessrestrict id="aspace_a26c1d9a157051ef58bc2bb9b151ebfe"
                                   localtype="RestrictedSpecColl">
@@ -4226,7 +4256,7 @@ Series VIII, Grant, contains documentation of grant projects.</p>
                                 localtype="box">50</container>
                      <container id="aspace_36bd721f428238d7f898383cc3bc1654_c2"
                                 localtype="folder"
-                                parent="aspace_36bd721f428238d7f898383cc3bc1654_c1">14</container>
+                                parent="aspace_36bd721f428238d7f898383cc3bc1654_c1">15</container>
                   </did>
                </c>
             </c>
