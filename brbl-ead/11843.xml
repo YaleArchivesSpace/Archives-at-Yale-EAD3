@@ -41,7 +41,7 @@
                <p>Box: 16 (Oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="57">57</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="28">28</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="59">59</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="28">28</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-23T23:01:19-04:00</eventdatetime>
+            <eventdatetime>2026-10-23T23:00:47-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 23, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 23, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11509,7 +11509,7 @@
                            <dao actuate="onrequest"
                                 audience="external"
                                 daotype="unknown"
-                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/913/original/open-uri20260923-891565-ksednp?1790191174"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/913/original/open-uri20261023-392866-krsmpy?1792783455"
                                 identifier="aviary_178836"
                                 linkrole="image-thumbnail"
                                 show="embed"/>
@@ -11762,6 +11762,25 @@
                         <container id="aspace_644d2985b7c03121507483c2b290f3a0_c3"
                                    localtype="item_barcode"
                                    parent="aspace_644d2985b7c03121507483c2b290f3a0_c2">39002140885527</container>
+                        <daoset altrender="/repositories/11/digital_objects/362828">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://beineckelibrary.aviaryplatform.com/r/hm52f7n39f"
+                                identifier="aviary_181428"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/671/original/open-uri20261023-392866-xmb7dn?1792783315"
+                                identifier="aviary_181428"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <descriptivenote>
+                              <p>[Aviary] jwjmss031039002140885527.u.mp3</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <accessrestrict id="aspace_30edbb7b13631bb64994adc6a6001dda">
                         <head>Conditions Governing Access</head>
@@ -11795,6 +11814,25 @@
                         <container id="aspace_de2970c07295e842bbf9554d855013f5_c3"
                                    localtype="item_barcode"
                                    parent="aspace_de2970c07295e842bbf9554d855013f5_c2">39002140885535</container>
+                        <daoset altrender="/repositories/11/digital_objects/362830">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://beineckelibrary.aviaryplatform.com/r/f47gq6t70z"
+                                identifier="aviary_181430"
+                                linkrole="video-streaming"
+                                show="new"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/674/original/open-uri20261023-392866-qgkc2a?1792783380"
+                                identifier="aviary_181430"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <descriptivenote>
+                              <p>[Aviary] jwjmss031039002140885535.u.mp3</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                      <accessrestrict id="aspace_3029cfc9be8fc5f79653d701722cde3d">
                         <head>Conditions Governing Access</head>

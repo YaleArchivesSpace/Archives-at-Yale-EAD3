@@ -45,7 +45,7 @@
                <p>Boxes: 102-118, 172, 174, 176-178, 182-184, 207</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="252">252</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="15167">15,167</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="253">253</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="15277">15,277</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-07T23:03:38-04:00</eventdatetime>
+            <eventdatetime>2026-10-23T23:02:11-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July  7, 2026 at 23:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 23, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -37753,6 +37753,27 @@
                           href="https://collections.library.yale.edu/catalog/2057148"
                           identifier="oid:2057148"
                           linktitle="recto"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Kenwin: photo album</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/11/digital_objects/362868">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33838341"
+                          linktitle="110 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33838341"
+                          identifier="oid:33838341"
+                          linktitle="110 images"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
