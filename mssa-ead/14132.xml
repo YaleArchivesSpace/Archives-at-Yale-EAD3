@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="http://hdl.handle.net/10079/fa/">mssa.ru.1218</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Vietnamese Students Association at Yale (ViSA) records </titleproper>
+            <author>compiled by Jeanne Lowrey</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <date>October 2026</date>
+            <num>RU 1218</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-10-24T03:00:14-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday October 24, 2026 at 03:00</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/14132" level="collection">
+      <did>
+         <unittitle>Vietnamese Students Association at Yale (ViSA) records</unittitle>
+         <unitid>RU 1218</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <languageset>
+               <language langcode="eng">English</language>
+               <script scriptcode="Latn">Latin</script>
+            </languageset>
+            <language langcode="vie">Vietnamese</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>0.5</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">One (1) archive letter box.</physdesc>
+         <unitdatestructured altrender="1993-2024" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1993">1993</fromdate>
+               <todate standarddate="2024">2024</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_664761227d6bb982c8469be77465287f">Materials consists of fliers, photographsm and scrapbooks documenting events hosted by ViSA and ogranizational records including meeting materials and membership lists.</abstract>
+      </did>
+      <accessrestrict id="aspace_9ab59a4abfe6e653884581063eab4da6">
+         <head>Conditions Governing Access</head>
+         <p>Open for research.</p>
+      </accessrestrict>
+      <acqinfo id="aspace_157d45165ecb1ab2de13f0242369445e">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of the Vietnamese Students Association.</p>
+      </acqinfo>
+      <arrangement id="aspace_65e818c300bcde652519db6198bdb6a4">
+         <head>Arrangement</head>
+         <p>The records are arranged alphebtically by subject, with photographs at the end.</p>
+      </arrangement>
+      <bioghist id="aspace_ce979c16c7504b4abdba9953373b0d3c">
+         <head>Biographical / Historical</head>
+         <p>The Vietnamese Students Association was founded in 1988 and hosts a wide range of events highlighting various aspects of Vietnamese culture and lived experience, including an annual cultural showcase. In the 1990s, the organization advocated for the creation of a Vietnamese language program.</p>
+      </bioghist>
+      <odd id="aspace_d2ca4b1859508164eea34bbbd677e774">
+         <head>General</head>
+         <p>Forms part of Yale Record Group 40 (YRG 40), Records of Yale clubs, societies and organizations.</p>
+      </odd>
+      <prefercite id="aspace_8af8b5ded1daad5e4f62709cb86ebd0a">
+         <head>Preferred Citation</head>
+         <p>Vietnamese Students Association at Yale (ViSA) records (RU 1218). Manuscripts and Archives, Yale University Library.</p>
+      </prefercite>
+      <scopecontent id="aspace_26d104d2c9996911741c0741197ed641">
+         <head>Scope and Contents</head>
+         <p>Materials primarily consists of fliers, photographsm and scrapbooks documenting events hosted by ViSA. Additional ogranizational records  include those documenting advocacy for the Vietnamese language program, meeting materials, and membership lists.</p>
+      </scopecontent>
+      <userestrict id="aspace_81d604a4e9a791a48eb46e6e1c5b062b">
+         <head>Conditions Governing Use</head>
+         <p>Copyright is retained by the Vietnamese Student Association for unpublished works they have authored or otherwise produced. If the organization ceases to exist, copyright passes to Yale University. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
+      </userestrict>
+      <controlaccess>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh89002496"
+                  source="lcsh">
+            <part localtype="topical">Asian American college students</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Asian American students</part>
+            <part localtype="topical">Societies, etc.</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">College students</part>
+            <part localtype="geographic">Connecticut</part>
+            <part localtype="geographic">New Haven</part>
+         </subject>
+         <subject source="local">
+            <part localtype="topical">Yale University</part>
+            <part localtype="topical">Students</part>
+         </subject>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/12/archival_objects/4066110"
+            id="aspace_3f049941e1ac60537eeac143c9e561ce"
+            level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <unitid>Accession 2027-A-0011</unitid>
+               <unitdatestructured altrender="1993-2024" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1993">1993</fromdate>
+                     <todate standarddate="2024">2024</todate>
+                  </daterange>
+               </unitdatestructured>
+               <unitdatestructured altrender="1993-2013" label="creation" unitdatetype="bulk">
+                  <daterange>
+                     <fromdate standarddate="1993">1993</fromdate>
+                     <todate standarddate="2013">2013</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <c altrender="/repositories/12/archival_objects/4066111"
+               id="aspace_e95c1ace44a8e6b9523d1fd903ba1191"
+               level="file">
+               <did>
+                  <unittitle>Asian American Cultural Center award</unittitle>
+                  <unitdatestructured altrender="2001" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2001">2001</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_e95c1ace44a8e6b9523d1fd903ba1191_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_e95c1ace44a8e6b9523d1fd903ba1191_c2"
+                             localtype="folder"
+                             parent="aspace_e95c1ace44a8e6b9523d1fd903ba1191_c1">1</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066114"
+               id="aspace_a3569724ab2f6f1719ced9154f166701"
+               level="file">
+               <did>
+                  <unittitle> Asian American Students Association</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/4066112"
+                  id="aspace_e52942441b00d37b20269dd20ae6bb08"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1999" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1999">1999</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_e52942441b00d37b20269dd20ae6bb08_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_e52942441b00d37b20269dd20ae6bb08_c2"
+                                localtype="folder"
+                                parent="aspace_e52942441b00d37b20269dd20ae6bb08_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066113"
+                  id="aspace_574a18e54f77b53acf6c7697282a1c63"
+                  level="file">
+                  <did>
+                     <unittitle>Asian Pacific American Heritage Month</unittitle>
+                     <unitdatestructured altrender="1996-1999" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1996">1996</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_574a18e54f77b53acf6c7697282a1c63_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_574a18e54f77b53acf6c7697282a1c63_c2"
+                                localtype="folder"
+                                parent="aspace_574a18e54f77b53acf6c7697282a1c63_c1">3</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066115"
+               id="aspace_000b5be653c28f5f258c29d3097b47d0"
+               level="file">
+               <did>
+                  <unittitle>Asian American Student Alliance</unittitle>
+                  <unitdatestructured altrender="circa 2008" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2008">circa 2008</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_000b5be653c28f5f258c29d3097b47d0_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_000b5be653c28f5f258c29d3097b47d0_c2"
+                             localtype="folder"
+                             parent="aspace_000b5be653c28f5f258c29d3097b47d0_c1">4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066116"
+               id="aspace_941eefa8743d11388b16841b53324e49"
+               level="file">
+               <did>
+                  <unittitle>Board members</unittitle>
+                  <unitdatestructured altrender="2013" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2013">2013</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_941eefa8743d11388b16841b53324e49_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_941eefa8743d11388b16841b53324e49_c2"
+                             localtype="folder"
+                             parent="aspace_941eefa8743d11388b16841b53324e49_c1">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066117"
+               id="aspace_cf3dfc7da812c13835c0abf662110b9f"
+               level="file">
+               <did>
+                  <unittitle>Book drive</unittitle>
+                  <unitdatestructured altrender="1995" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1995">1995</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_cf3dfc7da812c13835c0abf662110b9f_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_cf3dfc7da812c13835c0abf662110b9f_c2"
+                             localtype="folder"
+                             parent="aspace_cf3dfc7da812c13835c0abf662110b9f_c1">6</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066119"
+               id="aspace_76778d4b960b50462e40dcb79167737f"
+               level="file">
+               <did>
+                  <unittitle>Events</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/4066118"
+                  id="aspace_3173c7979e25c9d5d493c078647e2a3d"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1996-2005" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1995">1995</fromdate>
+                           <todate standarddate="2005">2005</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_3173c7979e25c9d5d493c078647e2a3d_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_3173c7979e25c9d5d493c078647e2a3d_c2"
+                                localtype="folder"
+                                parent="aspace_3173c7979e25c9d5d493c078647e2a3d_c1">7</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066120"
+                  id="aspace_de56efea3d454ea4729613e8ed058e10"
+                  level="file">
+                  <did>
+                     <unittitle>Cultural dinner fliers and ticket</unittitle>
+                     <unitdatestructured altrender="1999-2005" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1999">1999</fromdate>
+                           <todate standarddate="2005">2005</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_de56efea3d454ea4729613e8ed058e10_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_de56efea3d454ea4729613e8ed058e10_c2"
+                                localtype="folder"
+                                parent="aspace_de56efea3d454ea4729613e8ed058e10_c1">8</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066121"
+                  id="aspace_1eb74c6b3d66ceb22c7dd32ec8e1a5b8"
+                  level="file">
+                  <did>
+                     <unittitle>Cultural show</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/4066122"
+                     id="aspace_da337dec5b809f62f47527237a6182b8"
+                     level="file">
+                     <did>
+                        <unitdatestructured altrender="1997" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1997">1997</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                   containerid="39002140842189"
+                                   encodinganalog="archive letter"
+                                   id="aspace_da337dec5b809f62f47527237a6182b8_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_da337dec5b809f62f47527237a6182b8_c2"
+                                   localtype="folder"
+                                   parent="aspace_da337dec5b809f62f47527237a6182b8_c1">9</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4066123"
+                     id="aspace_5983cf79ae6aca7f037858dc70e788cb"
+                     level="file">
+                     <did>
+                        <unitdatestructured altrender="2011" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="2011">2011</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                   containerid="39002140842189"
+                                   encodinganalog="archive letter"
+                                   id="aspace_5983cf79ae6aca7f037858dc70e788cb_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_5983cf79ae6aca7f037858dc70e788cb_c2"
+                                   localtype="folder"
+                                   parent="aspace_5983cf79ae6aca7f037858dc70e788cb_c1">10</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066124"
+                  id="aspace_bc25bc8381f0f225a1de01200d0f9785"
+                  level="file">
+                  <did>
+                     <unittitle>Yale by Night</unittitle>
+                     <unitdatestructured altrender="1995-1999" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1995">1995</fromdate>
+                           <todate standarddate="1999">1999</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_bc25bc8381f0f225a1de01200d0f9785_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_bc25bc8381f0f225a1de01200d0f9785_c2"
+                                localtype="folder"
+                                parent="aspace_bc25bc8381f0f225a1de01200d0f9785_c1">11</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066125"
+               id="aspace_97b713d9fcbf6fc11c716813ebbb32e4"
+               level="file">
+               <did>
+                  <unittitle>Flag debate</unittitle>
+                  <unitdatestructured altrender="circa 1995" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1995">circa 1995</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_97b713d9fcbf6fc11c716813ebbb32e4_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_97b713d9fcbf6fc11c716813ebbb32e4_c2"
+                             localtype="folder"
+                             parent="aspace_97b713d9fcbf6fc11c716813ebbb32e4_c1">12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066126"
+               id="aspace_45b67d72ebe72b7f0c36323dc194e805"
+               level="file">
+               <did>
+                  <unittitle>Meetings</unittitle>
+                  <unitdatestructured altrender="1998" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1998">1998</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_45b67d72ebe72b7f0c36323dc194e805_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_45b67d72ebe72b7f0c36323dc194e805_c2"
+                             localtype="folder"
+                             parent="aspace_45b67d72ebe72b7f0c36323dc194e805_c1">13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066127"
+               id="aspace_e43807286ca62944106dd7a53089d7c4"
+               level="file">
+               <did>
+                  <unittitle>Member directory</unittitle>
+                  <unitdatestructured altrender="1995-2002" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1995">1995</fromdate>
+                        <todate standarddate="2002">2002</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_e43807286ca62944106dd7a53089d7c4_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_e43807286ca62944106dd7a53089d7c4_c2"
+                             localtype="folder"
+                             parent="aspace_e43807286ca62944106dd7a53089d7c4_c1">14</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066128"
+               id="aspace_8107e94272fcca73fe5fa1df07aa221c"
+               level="file">
+               <did>
+                  <unittitle>Newsletter, <title render="italic">
+                        <part>ViSA Vibe</part>
+                     </title>
+                  </unittitle>
+                  <unitdatestructured altrender="2002-2004" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="2002">2002</fromdate>
+                        <todate standarddate="2004">2004</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_8107e94272fcca73fe5fa1df07aa221c_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_8107e94272fcca73fe5fa1df07aa221c_c2"
+                             localtype="folder"
+                             parent="aspace_8107e94272fcca73fe5fa1df07aa221c_c1">15</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066130"
+               id="aspace_a727f32e7a2dcd9fbdfc01feca00d634"
+               level="file">
+               <did>
+                  <unittitle>Vietnamese language class</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/4066131"
+                  id="aspace_601989e4577f00df06917ab96568195e"
+                  level="file">
+                  <did>
+                     <unittitle>Interest form</unittitle>
+                     <unitdatestructured altrender="circa 1995" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1995">circa 1995</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_601989e4577f00df06917ab96568195e_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_601989e4577f00df06917ab96568195e_c2"
+                                localtype="folder"
+                                parent="aspace_601989e4577f00df06917ab96568195e_c1">16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066132"
+                  id="aspace_460a1da0a06e3a15277495f721b80daf"
+                  level="file">
+                  <did>
+                     <unittitle>Proposal</unittitle>
+                     <unitdatestructured altrender="1998" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1998">1998</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_460a1da0a06e3a15277495f721b80daf_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_460a1da0a06e3a15277495f721b80daf_c2"
+                                localtype="folder"
+                                parent="aspace_460a1da0a06e3a15277495f721b80daf_c1">17</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066129"
+               id="aspace_5a5349998a5e8ce4023e97083b71286c"
+               level="file">
+               <did>
+                  <unittitle>ViSA Cafe menu</unittitle>
+                  <unitdatestructured altrender="2024" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024">2024</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                             containerid="39002140842189"
+                             encodinganalog="archive letter"
+                             id="aspace_5a5349998a5e8ce4023e97083b71286c_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_5a5349998a5e8ce4023e97083b71286c_c2"
+                             localtype="folder"
+                             parent="aspace_5a5349998a5e8ce4023e97083b71286c_c1">18</container>
+               </did>
+            </c>
+            <c altrender="/repositories/12/archival_objects/4066133"
+               id="aspace_7ea3bc9801668f80b47017fb69fd2ec7"
+               level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+               </did>
+               <c altrender="/repositories/12/archival_objects/4066134"
+                  id="aspace_a543f082c4f6c01ad4431da60dd49fbc"
+                  level="file">
+                  <did>
+                     <unittitle>Cultural dinner</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/4066135"
+                     id="aspace_3062811ea91ed274e0b4a6485c81c69f"
+                     level="file">
+                     <did>
+                        <unitdate label="creation" unitdatetype="inclusive">2005</unitdate>
+                        <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                   containerid="39002140842189"
+                                   encodinganalog="archive letter"
+                                   id="aspace_3062811ea91ed274e0b4a6485c81c69f_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_3062811ea91ed274e0b4a6485c81c69f_c2"
+                                   localtype="folder"
+                                   parent="aspace_3062811ea91ed274e0b4a6485c81c69f_c1">19</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4066136"
+                     id="aspace_74e53583a4e79a7553dab7bf6299d8ac"
+                     level="file">
+                     <did>
+                        <unitdatestructured altrender="2006" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="2006">2006</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                   containerid="39002140842189"
+                                   encodinganalog="archive letter"
+                                   id="aspace_74e53583a4e79a7553dab7bf6299d8ac_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_74e53583a4e79a7553dab7bf6299d8ac_c2"
+                                   localtype="folder"
+                                   parent="aspace_74e53583a4e79a7553dab7bf6299d8ac_c1">20</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066137"
+                  id="aspace_2b265a4d3ffb37dbf23158e0b347e7a8"
+                  level="file">
+                  <did>
+                     <unittitle>Cultural show</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/4066138"
+                     id="aspace_344141f9f0301273d03deaa9720c2231"
+                     level="file">
+                     <did>
+                        <unitdatestructured altrender="2004" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="2004">2004</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                   containerid="39002140842189"
+                                   encodinganalog="archive letter"
+                                   id="aspace_344141f9f0301273d03deaa9720c2231_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_344141f9f0301273d03deaa9720c2231_c2"
+                                   localtype="folder"
+                                   parent="aspace_344141f9f0301273d03deaa9720c2231_c1">21</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4066139"
+                     id="aspace_a7f94c0a32c9364ebe835e227adca082"
+                     level="file">
+                     <did>
+                        <unitdatestructured altrender="2007" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="2007">2007</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                   containerid="39002140842189"
+                                   encodinganalog="archive letter"
+                                   id="aspace_a7f94c0a32c9364ebe835e227adca082_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_a7f94c0a32c9364ebe835e227adca082_c2"
+                                   localtype="folder"
+                                   parent="aspace_a7f94c0a32c9364ebe835e227adca082_c1">22</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066140"
+                  id="aspace_06806d8efc5446ae3c4b19cb64bc4979"
+                  level="file">
+                  <did>
+                     <unittitle>Members</unittitle>
+                     <unitdatestructured altrender="2012" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2012">2012</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_06806d8efc5446ae3c4b19cb64bc4979_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_06806d8efc5446ae3c4b19cb64bc4979_c2"
+                                localtype="folder"
+                                parent="aspace_06806d8efc5446ae3c4b19cb64bc4979_c1">23</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066141"
+                  id="aspace_059fdfa6f87e6acdb1970e16b3792a36"
+                  level="file">
+                  <did>
+                     <unittitle>Scrapbook</unittitle>
+                     <unitdatestructured altrender="1993-1994" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1993">1993</fromdate>
+                           <todate standarddate="1994">1994</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_059fdfa6f87e6acdb1970e16b3792a36_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_059fdfa6f87e6acdb1970e16b3792a36_c2"
+                                localtype="folder"
+                                parent="aspace_059fdfa6f87e6acdb1970e16b3792a36_c1">24</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4066142"
+                  id="aspace_6768b1e3893867917d356141a4c92148"
+                  level="file">
+                  <did>
+                     <unittitle>Yale by Night album</unittitle>
+                     <unitdatestructured altrender="1996 April 13" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1996-04-13">1996 April 13</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/485606 /locations/1524"
+                                containerid="39002140842189"
+                                encodinganalog="archive letter"
+                                id="aspace_6768b1e3893867917d356141a4c92148_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_6768b1e3893867917d356141a4c92148_c2"
+                                localtype="folder"
+                                parent="aspace_6768b1e3893867917d356141a4c92148_c1">25</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>
