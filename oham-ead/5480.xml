@@ -40,7 +40,7 @@
                <p>Boxes: 39002038321791, 39002038324183</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1395">1,395</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="1397">1,397</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-21T20:00:52-04:00</eventdatetime>
+            <eventdatetime>2026-10-23T20:00:12-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 21, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 23, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -24811,6 +24811,66 @@
                   <head>Physical Characteristics and Technical Requirements</head>
                   <p>.mp3 file</p>
                </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Frisell, Bill, 1951-</part>
+                  </persname>
+               </controlaccess>
+            </c>
+            <c altrender="/repositories/7/archival_objects/4065983"
+               id="aspace_836c0b5ae6c32110270fd2cb91af914b"
+               level="item">
+               <did>
+                  <unittitle>Frisell, Bill</unittitle>
+                  <unitid>OHV 620 b</unitid>
+                  <origination label="Creator">
+                     <persname relator="ivr" rules="dacs" source="naf">
+                        <part localtype="agent_person">Celli, Joseph</part>
+                     </persname>
+                  </origination>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">168 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 October 12"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2026-10-12">2026 October 12</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_512ea5978b27ad93994e4c48ecc5c037">Approximate running time: 74 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/362824">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/930ns0p340"
+                          identifier="aviary_181421"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/656/original/open-uri20261023-392866-n5j6ry?1792777204"
+                          identifier="aviary_181421"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 620 b.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_d805ad4e42727ca3c204c2d3c3f733c6">
+                  <head>Interview location</head>
+                  <p>Interview conducted via videochat, with interviewee in Brooklyn, NY and interviewer in Bridgeport, CT</p>
+               </scopecontent>
+               <phystech id="aspace_c9faea2af168223e9813e8bb69f1f4ae">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <otherfindaid id="aspace_52074251-82dc-4000-8b9f-4af579d7dd03">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;52074251-82dc-4000-8b9f-4af579d7dd03</p>
+               </otherfindaid>
                <controlaccess>
                   <persname relator="ive">
                      <part localtype="agent_person">Frisell, Bill, 1951-</part>
@@ -55068,6 +55128,64 @@
                   <head>Interviewer</head>
                   <p>Vivian Perlis</p>
                </odd>
+            </c>
+         </c>
+         <c altrender="/repositories/7/archival_objects/4065984"
+            id="aspace_9e2dae72b0961658d215fb2522266c6a"
+            level="series">
+            <did>
+               <unittitle>Précil, Riva Nyri</unittitle>
+            </did>
+            <c altrender="/repositories/7/archival_objects/4065985"
+               id="aspace_36b31a6777fa10133ee503ad931d1122"
+               level="item">
+               <did>
+                  <unittitle>Précil, Riva Nyri</unittitle>
+                  <unitid>OHV 621 a</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Computer File</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">111 megabytes</physdesc>
+                  <unitdatestructured altrender="2026 October 13"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <datesingle standarddate="2026-10-13">2026 October 13</datesingle>
+                  </unitdatestructured>
+                  <physdesc id="aspace_85a20ccb7a34227dba335df833ef595f">Approximate running time: 97 mins</physdesc>
+                  <daoset altrender="/repositories/7/digital_objects/362825">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/r20rr1rw3b"
+                          identifier="aviary_181422"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/322/657/original/open-uri20261023-392866-nvxu44?1792777236"
+                          identifier="aviary_181422"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] OHV 621 a.u.mp3</p>
+                     </descriptivenote>
+                  </daoset>
+               </did>
+               <scopecontent id="aspace_74757e7b3a34eee3628cbb681a9af92a">
+                  <head>Interview location</head>
+                  <p>New Haven, CT</p>
+               </scopecontent>
+               <phystech id="aspace_177f0d95489a5949891fbf9b1a045b8a">
+                  <head>Physical Characteristics and Technical Requirements</head>
+                  <p>.mp3 file</p>
+               </phystech>
+               <controlaccess>
+                  <persname relator="ive">
+                     <part localtype="agent_person">Précil, Riva Nyri, 1989-</part>
+                  </persname>
+               </controlaccess>
             </c>
          </c>
          <c altrender="/repositories/7/archival_objects/3183926"
