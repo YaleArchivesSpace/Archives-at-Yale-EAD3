@@ -36,7 +36,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="onsite">
-               <p>Boxes: oversize-6</p>
+               <p>Boxes: oversize-7</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-28T18:01:00-04:00</eventdatetime>
+            <eventdatetime>2026-10-26T18:01:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday April 28, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -175,33 +175,6 @@
          </corpname>
       </controlaccess>
       <dsc>
-         <c altrender="/repositories/3/archival_objects/3357871"
-            id="aspace_3a2e4b9485a96ca2ddfca362a38d232a"
-            level="item">
-            <did>
-               <unittitle>4. Papaveraceae</unittitle>
-               <unitdatestructured altrender="1861" label="creation" unitdatetype="inclusive">
-                  <datesingle standarddate="1861">1861</datesingle>
-               </unitdatestructured>
-               <physdesc id="aspace_7998a27db66d064e89aa826a490ca5ae">1 watercolor, 3 plant specimens</physdesc>
-               <container altrender="/repositories/3/top_containers/378865"
-                          encodinganalog="archive letter"
-                          id="aspace_3a2e4b9485a96ca2ddfca362a38d232a_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-            </did>
-            <controlaccess>
-               <genreform identifier="http://vocab.getty.edu/aat/300440768" source="aat">
-                  <part localtype="genre_form">Herbaria (documents) </part>
-               </genreform>
-               <genreform identifier="http://vocab.getty.edu/aat/300078925" source="aat">
-                  <part localtype="genre_form">Watercolors (paintings)</part>
-               </genreform>
-               <genreform identifier="http://vocab.getty.edu/aat/300386711" source="aat">
-                  <part localtype="genre_form">Botanical illustrations</part>
-               </genreform>
-            </controlaccess>
-         </c>
          <c altrender="/repositories/3/archival_objects/3357869"
             id="aspace_1058397489a41221eabacf0203ac2347"
             level="item">
@@ -241,6 +214,33 @@
                <container altrender="/repositories/3/top_containers/378865"
                           encodinganalog="archive letter"
                           id="aspace_8795de035cd48a9b300a49df5ad27d80_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+            </did>
+            <controlaccess>
+               <genreform identifier="http://vocab.getty.edu/aat/300440768" source="aat">
+                  <part localtype="genre_form">Herbaria (documents) </part>
+               </genreform>
+               <genreform identifier="http://vocab.getty.edu/aat/300078925" source="aat">
+                  <part localtype="genre_form">Watercolors (paintings)</part>
+               </genreform>
+               <genreform identifier="http://vocab.getty.edu/aat/300386711" source="aat">
+                  <part localtype="genre_form">Botanical illustrations</part>
+               </genreform>
+            </controlaccess>
+         </c>
+         <c altrender="/repositories/3/archival_objects/3357871"
+            id="aspace_3a2e4b9485a96ca2ddfca362a38d232a"
+            level="item">
+            <did>
+               <unittitle>4. Papaveraceae</unittitle>
+               <unitdatestructured altrender="1861" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1861">1861</datesingle>
+               </unitdatestructured>
+               <physdesc id="aspace_7998a27db66d064e89aa826a490ca5ae">1 watercolor, 3 plant specimens</physdesc>
+               <container altrender="/repositories/3/top_containers/378865"
+                          encodinganalog="archive letter"
+                          id="aspace_3a2e4b9485a96ca2ddfca362a38d232a_c1"
                           label="Mixed Materials"
                           localtype="box">1</container>
             </did>
@@ -574,33 +574,6 @@
                </genreform>
             </controlaccess>
          </c>
-         <c altrender="/repositories/3/archival_objects/3357889"
-            id="aspace_6b675dfb73fd1186b72ff21db38fd2e5"
-            level="item">
-            <did>
-               <unittitle>24. Rosaceae</unittitle>
-               <unitdatestructured altrender="1861" label="creation" unitdatetype="inclusive">
-                  <datesingle standarddate="1861">1861</datesingle>
-               </unitdatestructured>
-               <physdesc id="aspace_f27e90a28264db5e04c5290987b2a04c">1 watercolor, 26 plant specimens</physdesc>
-               <container altrender="/repositories/3/top_containers/378866"
-                          encodinganalog="archive letter"
-                          id="aspace_6b675dfb73fd1186b72ff21db38fd2e5_c1"
-                          label="Mixed Materials"
-                          localtype="box">2</container>
-            </did>
-            <controlaccess>
-               <genreform identifier="http://vocab.getty.edu/aat/300440768" source="aat">
-                  <part localtype="genre_form">Herbaria (documents) </part>
-               </genreform>
-               <genreform identifier="http://vocab.getty.edu/aat/300078925" source="aat">
-                  <part localtype="genre_form">Watercolors (paintings)</part>
-               </genreform>
-               <genreform identifier="http://vocab.getty.edu/aat/300386711" source="aat">
-                  <part localtype="genre_form">Botanical illustrations</part>
-               </genreform>
-            </controlaccess>
-         </c>
          <c altrender="/repositories/3/archival_objects/3357885"
             id="aspace_c03825768b5d079da657b7d3488b0cd2"
             level="item">
@@ -672,6 +645,33 @@
                <container altrender="/repositories/3/top_containers/378866"
                           encodinganalog="archive letter"
                           id="aspace_1e8eafdc0941c794d103725ebb3cda1c_c1"
+                          label="Mixed Materials"
+                          localtype="box">2</container>
+            </did>
+            <controlaccess>
+               <genreform identifier="http://vocab.getty.edu/aat/300440768" source="aat">
+                  <part localtype="genre_form">Herbaria (documents) </part>
+               </genreform>
+               <genreform identifier="http://vocab.getty.edu/aat/300078925" source="aat">
+                  <part localtype="genre_form">Watercolors (paintings)</part>
+               </genreform>
+               <genreform identifier="http://vocab.getty.edu/aat/300386711" source="aat">
+                  <part localtype="genre_form">Botanical illustrations</part>
+               </genreform>
+            </controlaccess>
+         </c>
+         <c altrender="/repositories/3/archival_objects/3357889"
+            id="aspace_6b675dfb73fd1186b72ff21db38fd2e5"
+            level="item">
+            <did>
+               <unittitle>24. Rosaceae</unittitle>
+               <unitdatestructured altrender="1861" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1861">1861</datesingle>
+               </unitdatestructured>
+               <physdesc id="aspace_f27e90a28264db5e04c5290987b2a04c">1 watercolor, 26 plant specimens</physdesc>
+               <container altrender="/repositories/3/top_containers/378866"
+                          encodinganalog="archive letter"
+                          id="aspace_6b675dfb73fd1186b72ff21db38fd2e5_c1"
                           label="Mixed Materials"
                           localtype="box">2</container>
             </did>
