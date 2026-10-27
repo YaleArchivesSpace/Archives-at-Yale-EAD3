@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-27T01:57:26-04:00</eventdatetime>
+            <eventdatetime>2026-10-27T02:22:25-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 01:57</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 02:22</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -6492,25 +6492,6 @@
                                 parent="aspace_085e1bb946524a0ec070b78d2196c346_c1">336a</container>
                   </did>
                </c>
-               <c altrender="/repositories/11/archival_objects/239439"
-                  id="ref364"
-                  level="file">
-                  <did>
-                     <unittitle>Liepman AG</unittitle>
-                     <unitdatestructured altrender="1981-1986" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1981">1981</fromdate>
-                           <todate standarddate="1986">1986</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
-                                containerid="39002099311723"
-                                id="aspace_ref364_c1"
-                                label="Mixed Materials"
-                                localtype="box">7</container>
-                     <container id="aspace_ref364_c2" localtype="folder" parent="aspace_ref364_c1">347</container>
-                  </did>
-               </c>
                <c altrender="/repositories/11/archival_objects/239430"
                   id="ref355"
                   level="file">
@@ -6666,6 +6647,25 @@
                                 label="Mixed Materials"
                                 localtype="box">7</container>
                      <container id="aspace_ref363_c2" localtype="folder" parent="aspace_ref363_c1">346</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/239439"
+                  id="ref364"
+                  level="file">
+                  <did>
+                     <unittitle>Liepman AG</unittitle>
+                     <unitdatestructured altrender="1981-1986" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1981">1981</fromdate>
+                           <todate standarddate="1986">1986</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
+                                containerid="39002099311723"
+                                id="aspace_ref364_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_ref364_c2" localtype="folder" parent="aspace_ref364_c1">347</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/239440"
