@@ -40,7 +40,9 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: Vol. A, Vol. B, Vol. C, Vol. D, Vol. E-1, Vol. 1-2, Vol. 2-3, Vol. 3-4, Vol. 4-5, Vol. 5-6, Vol. 6-Vol. 103</p>
+               <p>Volumes: Vol. A, Vol. B, Vol. C, Vol. D, Vol. E-Vol. 103</p>
+               <p>Boxes: 1-5</p>
+               <p>Oversize_folder: 6</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-12T18:00:57-05:00</eventdatetime>
+            <eventdatetime>2026-10-27T18:01:11-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday February 12, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -268,9 +270,10 @@
                   <did>
                      <unittitle>Great Britain, and Aden-Canada</unittitle>
                      <container altrender="/repositories/3/top_containers/2"
+                                encodinganalog="film can (12d 2h 12w)"
                                 id="aspace_ref235_c1"
                                 label="Mixed Materials"
-                                localtype="box">Vol. A</container>
+                                localtype="volume">Vol. A</container>
                   </did>
                   <scopecontent id="aspace_6c0297cf9ab273b3d678db96ab5d22a9">
                      <head>Scope and Contents</head>
@@ -311,9 +314,10 @@
                   <did>
                      <unittitle>Cayman Islands-New Hebrides</unittitle>
                      <container altrender="/repositories/3/top_containers/3"
+                                encodinganalog="film can (12d 2h 12w)"
                                 id="aspace_ref237_c1"
                                 label="Mixed Materials"
-                                localtype="box">Vol. B</container>
+                                localtype="volume">Vol. B</container>
                   </did>
                   <scopecontent id="aspace_b84d614da8dfa90acb81e943f42bb44f">
                      <head>Scope and Contents</head>
@@ -370,9 +374,10 @@
                   <did>
                      <unittitle>New Zealand-Zanzibar</unittitle>
                      <container altrender="/repositories/3/top_containers/4"
+                                encodinganalog="film can (12d 2h 12w)"
                                 id="aspace_ref239_c1"
                                 label="Mixed Materials"
-                                localtype="box">Vol. C</container>
+                                localtype="volume">Vol. C</container>
                   </did>
                   <scopecontent id="aspace_c54bb2455abde571975553f54f150a8f">
                      <head>Scope and Contents</head>
@@ -424,9 +429,10 @@
                   <did>
                      <unittitle>Universal Postal Union, George VI Coronation, and 1948 Silver Wedding Anniversary</unittitle>
                      <container altrender="/repositories/3/top_containers/5"
+                                encodinganalog="film can (12d 2h 12w)"
                                 id="aspace_ref244_c1"
                                 label="Mixed Materials"
-                                localtype="box">Vol. D</container>
+                                localtype="volume">Vol. D</container>
                   </did>
                </c>
                <c altrender="/repositories/3/archival_objects/283"
@@ -435,9 +441,10 @@
                   <did>
                      <unittitle>British Empire Peace &amp; Victory Issues, Queen Elizabeth II Coronation</unittitle>
                      <container altrender="/repositories/3/top_containers/6"
+                                encodinganalog="film can (12d 2h 12w)"
                                 id="aspace_ref245_c1"
                                 label="Mixed Materials"
-                                localtype="box">Vol. E</container>
+                                localtype="volume">Vol. E</container>
                   </did>
                </c>
             </c>
@@ -465,9 +472,10 @@
                <did>
                   <unittitle>Abu Dhabi, 1964-1966</unittitle>
                   <container altrender="/repositories/3/top_containers/7"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref10_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 1</container>
+                             localtype="volume">Vol. 1</container>
                </did>
                <scopecontent id="aspace_3e2ac36ec00b0c1a136d54246c333e31">
                   <head>Scope and Contents</head>
@@ -486,9 +494,10 @@
                <did>
                   <unittitle>Aututaki, 1972-1982</unittitle>
                   <container altrender="/repositories/3/top_containers/8"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref11_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 2</container>
+                             localtype="volume">Vol. 2</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/287"
@@ -497,9 +506,10 @@
                <did>
                   <unittitle>Aututaki, 1983-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/9"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref12_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 3</container>
+                             localtype="volume">Vol. 3</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/288"
@@ -508,9 +518,10 @@
                <did>
                   <unittitle>Australia, 1983-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/10"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref14_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 4</container>
+                             localtype="volume">Vol. 4</container>
                </did>
                <scopecontent id="aspace_7ce0a81bcb9e3ad6984948fd24cd8848">
                   <head>Scope and Contents</head>
@@ -528,9 +539,10 @@
                <did>
                   <unittitle>Anguilla, 1967-1980</unittitle>
                   <container altrender="/repositories/3/top_containers/11"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref15_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 5</container>
+                             localtype="volume">Vol. 5</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/290"
@@ -539,9 +551,10 @@
                <did>
                   <unittitle>Anguilla, 1981-1992?</unittitle>
                   <container altrender="/repositories/3/top_containers/12"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref17_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 6</container>
+                             localtype="volume">Vol. 6</container>
                </did>
                <scopecontent id="aspace_57c2b88eb132115a059c9b731ff78fef">
                   <head>Scope and Contents</head>
@@ -558,9 +571,10 @@
                <did>
                   <unittitle>Antigua, 1952-1977</unittitle>
                   <container altrender="/repositories/3/top_containers/13"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref18_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 7</container>
+                             localtype="volume">Vol. 7</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/292"
@@ -569,9 +583,10 @@
                <did>
                   <unittitle>Antigua, 1978-1981</unittitle>
                   <container altrender="/repositories/3/top_containers/14"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref37_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 8</container>
+                             localtype="volume">Vol. 8</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/293"
@@ -580,9 +595,10 @@
                <did>
                   <unittitle>Antigua-Barbuda, 1981-1987?</unittitle>
                   <container altrender="/repositories/3/top_containers/15"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref38_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 9</container>
+                             localtype="volume">Vol. 9</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/294"
@@ -591,9 +607,10 @@
                <did>
                   <unittitle>Ascension, 1956-1987?</unittitle>
                   <container altrender="/repositories/3/top_containers/16"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref39_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 10</container>
+                             localtype="volume">Vol. 10</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/295"
@@ -602,9 +619,10 @@
                <did>
                   <unittitle>Australia, 1947-1983</unittitle>
                   <container altrender="/repositories/3/top_containers/17"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref40_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 11</container>
+                             localtype="volume">Vol. 11</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/296"
@@ -613,9 +631,10 @@
                <did>
                   <unittitle>Bahamas, 1954-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/18"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref41_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 12</container>
+                             localtype="volume">Vol. 12</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/297"
@@ -624,9 +643,10 @@
                <did>
                   <unittitle>Bangladesh, 1971-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/19"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref43_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 13</container>
+                             localtype="volume">Vol. 13</container>
                </did>
                <scopecontent id="aspace_050a208f8b333d0457175376048623ac">
                   <head>Scope and Contents</head>
@@ -643,9 +663,10 @@
                <did>
                   <unittitle>Barbados, 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/20"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref45_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 14</container>
+                             localtype="volume">Vol. 14</container>
                </did>
                <scopecontent id="aspace_e0c67ca93a5a49650df8259b3d0e49df">
                   <head>Scope and Contents</head>
@@ -662,9 +683,10 @@
                <did>
                   <unittitle>Barbuda, 1968-1979</unittitle>
                   <container altrender="/repositories/3/top_containers/21"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref46_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 15</container>
+                             localtype="volume">Vol. 15</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/300"
@@ -673,9 +695,10 @@
                <did>
                   <unittitle>Belize, 1973-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/22"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref47_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 16</container>
+                             localtype="volume">Vol. 16</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/301"
@@ -684,9 +707,10 @@
                <did>
                   <unittitle>Botswana, 1966-1985</unittitle>
                   <container altrender="/repositories/3/top_containers/23"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref48_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 17</container>
+                             localtype="volume">Vol. 17</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/302"
@@ -695,9 +719,10 @@
                <did>
                   <unittitle>British Honduras, 1953-1972</unittitle>
                   <container altrender="/repositories/3/top_containers/24"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref50_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 18</container>
+                             localtype="volume">Vol. 18</container>
                </did>
                <scopecontent id="aspace_a3e0ab2c8b967ec4b7d68e61d8a220ec">
                   <head>Scope and Contents</head>
@@ -717,9 +742,10 @@
                <did>
                   <unittitle>British Antarctic Territory, 1963-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/25"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref52_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 19</container>
+                             localtype="volume">Vol. 19</container>
                </did>
                <scopecontent id="aspace_eb4908e6e279f028ef84fe459194a47b">
                   <head>Scope and Contents</head>
@@ -736,9 +762,10 @@
                <did>
                   <unittitle>Burma, 1954</unittitle>
                   <container altrender="/repositories/3/top_containers/26"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref54_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 20</container>
+                             localtype="volume">Vol. 20</container>
                </did>
                <scopecontent id="aspace_fd314cfae6e2e50dfb4acaf0f391498b">
                   <head>Scope and Contents</head>
@@ -769,9 +796,10 @@
                <did>
                   <unittitle>Brunei, 1952-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/27"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref56_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 21</container>
+                             localtype="volume">Vol. 21</container>
                </did>
                <scopecontent id="aspace_01cfc601e129c3fda42b150d19248dab">
                   <head>Scope and Contents</head>
@@ -788,9 +816,10 @@
                <did>
                   <unittitle>Caicos Islands, 1981-1985</unittitle>
                   <container altrender="/repositories/3/top_containers/28"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref58_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 22</container>
+                             localtype="volume">Vol. 22</container>
                </did>
                <scopecontent id="aspace_fbdb6eec792aaa5ad3a6c0e990c2b58e">
                   <head>Scope and Contents</head>
@@ -807,9 +836,10 @@
                <did>
                   <unittitle>Canada, 1952-1977</unittitle>
                   <container altrender="/repositories/3/top_containers/29"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref59_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 23</container>
+                             localtype="volume">Vol. 23</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/308"
@@ -818,9 +848,10 @@
                <did>
                   <unittitle>Cayman Islands, 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/30"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref61_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 24</container>
+                             localtype="volume">Vol. 24</container>
                </did>
                <scopecontent id="aspace_0232c0a3d60483bb4e11a9918105d1b0">
                   <head>Scope and Contents</head>
@@ -837,9 +868,10 @@
                <did>
                   <unittitle>Cocos Islands, 1963-1985?</unittitle>
                   <container altrender="/repositories/3/top_containers/31"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref63_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 25</container>
+                             localtype="volume">Vol. 25</container>
                </did>
                <scopecontent id="aspace_1c8347a77efbd685de8404ce13e0f835">
                   <head>Scope and Contents</head>
@@ -856,9 +888,10 @@
                <did>
                   <unittitle>Ceylon (Sri Lanka), 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/32"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref64_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 26</container>
+                             localtype="volume">Vol. 26</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/311"
@@ -867,9 +900,10 @@
                <did>
                   <unittitle>Cook Islands, 1952-1975</unittitle>
                   <container altrender="/repositories/3/top_containers/33"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref65_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 27</container>
+                             localtype="volume">Vol. 27</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/312"
@@ -878,9 +912,10 @@
                <did>
                   <unittitle>Cook Islands, 1975-1979</unittitle>
                   <container altrender="/repositories/3/top_containers/34"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref66_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 28</container>
+                             localtype="volume">Vol. 28</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/313"
@@ -889,9 +924,10 @@
                <did>
                   <unittitle>Cook Islands, 1980-1983</unittitle>
                   <container altrender="/repositories/3/top_containers/35"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref67_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 29</container>
+                             localtype="volume">Vol. 29</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/314"
@@ -900,9 +936,10 @@
                <did>
                   <unittitle>Cook Islands, 1984-1988</unittitle>
                   <container altrender="/repositories/3/top_containers/36"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref68_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 30</container>
+                             localtype="volume">Vol. 30</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/315"
@@ -911,9 +948,10 @@
                <did>
                   <unittitle>Dominica, 1954-1977</unittitle>
                   <container altrender="/repositories/3/top_containers/37"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref69_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 31</container>
+                             localtype="volume">Vol. 31</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/316"
@@ -922,9 +960,10 @@
                <did>
                   <unittitle>Dominica, 1977-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/38"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref70_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 32</container>
+                             localtype="volume">Vol. 32</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/317"
@@ -933,9 +972,10 @@
                <did>
                   <unittitle>East Africa (Kenya, Uganda, Tanzania), 1964-1974</unittitle>
                   <container altrender="/repositories/3/top_containers/39"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref72_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 33</container>
+                             localtype="volume">Vol. 33</container>
                </did>
                <scopecontent id="aspace_e5e71e2b8bc0de4071e5a5ea49a2cf2a">
                   <head>Scope and Contents</head>
@@ -953,9 +993,10 @@
                <did>
                   <unittitle>Falkland Islands, 1955-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/40"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref74_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 34</container>
+                             localtype="volume">Vol. 34</container>
                </did>
                <scopecontent id="aspace_89571e1186686a17f205202f891c9a85">
                   <head>Scope and Contents</head>
@@ -972,9 +1013,10 @@
                <did>
                   <unittitle>Fiji, 1954-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/41"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref75_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 35</container>
+                             localtype="volume">Vol. 35</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/320"
@@ -983,9 +1025,10 @@
                <did>
                   <unittitle>Gambia, 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/42"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref76_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 36</container>
+                             localtype="volume">Vol. 36</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/321"
@@ -994,9 +1037,10 @@
                <did>
                   <unittitle>Ghana, 1957-1971</unittitle>
                   <container altrender="/repositories/3/top_containers/43"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref77_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 37</container>
+                             localtype="volume">Vol. 37</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/322"
@@ -1005,9 +1049,10 @@
                <did>
                   <unittitle>Ghana, 1972-1980</unittitle>
                   <container altrender="/repositories/3/top_containers/44"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref78_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 38</container>
+                             localtype="volume">Vol. 38</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/323"
@@ -1016,9 +1061,10 @@
                <did>
                   <unittitle>Ghana, 1980-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/45"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref80_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 39</container>
+                             localtype="volume">Vol. 39</container>
                </did>
                <scopecontent id="aspace_fdff9e657329f13099464a9dc0bbb241">
                   <head>Scope and Contents</head>
@@ -1035,9 +1081,10 @@
                <did>
                   <unittitle>Gibraltar, 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/46"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref81_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 40</container>
+                             localtype="volume">Vol. 40</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/325"
@@ -1046,9 +1093,10 @@
                <did>
                   <unittitle>Gilbert Islands, 1971-1978</unittitle>
                   <container altrender="/repositories/3/top_containers/47"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref83_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 41</container>
+                             localtype="volume">Vol. 41</container>
                </did>
                <scopecontent id="aspace_7614f9f0b519458072d36d1f16b1507a">
                   <head>Scope and Contents</head>
@@ -1065,9 +1113,10 @@
                <did>
                   <unittitle>Great Britain including officers &amp; locals, 1952-1968</unittitle>
                   <container altrender="/repositories/3/top_containers/48"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref84_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 42</container>
+                             localtype="volume">Vol. 42</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/327"
@@ -1076,9 +1125,10 @@
                <did>
                   <unittitle>Great Britain, 1968-1976</unittitle>
                   <container altrender="/repositories/3/top_containers/49"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref85_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 43</container>
+                             localtype="volume">Vol. 43</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/328"
@@ -1087,9 +1137,10 @@
                <did>
                   <unittitle>Great Britain, 1976-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/50"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref86_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 44</container>
+                             localtype="volume">Vol. 44</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/329"
@@ -1098,9 +1149,10 @@
                <did>
                   <unittitle>Great Britain, 1984-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/51"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref87_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 45</container>
+                             localtype="volume">Vol. 45</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/330"
@@ -1109,9 +1161,10 @@
                <did>
                   <unittitle>Grenada, 1975-1978</unittitle>
                   <container altrender="/repositories/3/top_containers/52"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref88_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 46</container>
+                             localtype="volume">Vol. 46</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/331"
@@ -1120,9 +1173,10 @@
                <did>
                   <unittitle>Grenada, 1978-1984</unittitle>
                   <container altrender="/repositories/3/top_containers/53"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref89_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 47</container>
+                             localtype="volume">Vol. 47</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/332"
@@ -1131,9 +1185,10 @@
                <did>
                   <unittitle>Grenada, 1984-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/54"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref91_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 48</container>
+                             localtype="volume">Vol. 48</container>
                </did>
                <scopecontent id="aspace_5edb88027e8e880b7127ec9d324f2633">
                   <head>Scope and Contents</head>
@@ -1150,9 +1205,10 @@
                <did>
                   <unittitle>Grenada (Grenadines), 1952-1974</unittitle>
                   <container altrender="/repositories/3/top_containers/55"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref92_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 49</container>
+                             localtype="volume">Vol. 49</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/334"
@@ -1161,9 +1217,10 @@
                <did>
                   <unittitle>Grenada (Grenadines), 1975-1980</unittitle>
                   <container altrender="/repositories/3/top_containers/56"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref93_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 50</container>
+                             localtype="volume">Vol. 50</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/335"
@@ -1172,9 +1229,10 @@
                <did>
                   <unittitle>Grenada (Grenadines), 1981-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/57"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref95_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 51</container>
+                             localtype="volume">Vol. 51</container>
                </did>
                <scopecontent id="aspace_f4e6777cb7dbb7dc4a9bae8d43d84983">
                   <head>Scope and Contents</head>
@@ -1191,9 +1249,10 @@
                <did>
                   <unittitle>Grenadines of St. Vincent, 1974-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/58"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref96_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 52</container>
+                             localtype="volume">Vol. 52</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/337"
@@ -1202,9 +1261,10 @@
                <did>
                   <unittitle>Guernsey, 1969-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/59"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref97_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 53</container>
+                             localtype="volume">Vol. 53</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/338"
@@ -1213,9 +1273,10 @@
                <did>
                   <unittitle>Guyana, 1966-1984</unittitle>
                   <container altrender="/repositories/3/top_containers/60"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref98_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 54</container>
+                             localtype="volume">Vol. 54</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/339"
@@ -1224,9 +1285,10 @@
                <did>
                   <unittitle>Hong Kong, 1954-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/61"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref100_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 55</container>
+                             localtype="volume">Vol. 55</container>
                </did>
                <scopecontent id="aspace_ae51ff4cdd32f0cfb623d9928f14c405">
                   <head>Scope and Contents</head>
@@ -1243,9 +1305,10 @@
                <did>
                   <unittitle>India, 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/62"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref101_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 56</container>
+                             localtype="volume">Vol. 56</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/341"
@@ -1254,9 +1317,10 @@
                <did>
                   <unittitle>Isle of Man, 1973-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/63"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref102_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 57</container>
+                             localtype="volume">Vol. 57</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/342"
@@ -1265,9 +1329,10 @@
                <did>
                   <unittitle>Jamaica, 1955-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/64"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref103_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 58</container>
+                             localtype="volume">Vol. 58</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/343"
@@ -1276,9 +1341,10 @@
                <did>
                   <unittitle>Jersey, 1969-1985</unittitle>
                   <container altrender="/repositories/3/top_containers/65"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref104_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 59</container>
+                             localtype="volume">Vol. 59</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/344"
@@ -1287,9 +1353,10 @@
                <did>
                   <unittitle>Jersey, 1985-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/66"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref106_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 60</container>
+                             localtype="volume">Vol. 60</container>
                </did>
                <scopecontent id="aspace_ef17b1d200505e9b5c10379493c16934">
                   <head>Scope and Contents</head>
@@ -1306,9 +1373,10 @@
                <did>
                   <unittitle>Kenya, 1963-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/67"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref107_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 61</container>
+                             localtype="volume">Vol. 61</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/346"
@@ -1317,9 +1385,10 @@
                <did>
                   <unittitle>Kiribati, 1979-1985</unittitle>
                   <container altrender="/repositories/3/top_containers/68"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref109_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 62</container>
+                             localtype="volume">Vol. 62</container>
                </did>
                <scopecontent id="aspace_c94a555aec604530761a689ad3e70a04">
                   <head>Scope and Contents</head>
@@ -1336,9 +1405,10 @@
                <did>
                   <unittitle>Lesotho, 1966-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/69"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref110_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 63</container>
+                             localtype="volume">Vol. 63</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/348"
@@ -1347,9 +1417,10 @@
                <did>
                   <unittitle>Malawi, 1964-1982</unittitle>
                   <container altrender="/repositories/3/top_containers/70"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref111_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 64</container>
+                             localtype="volume">Vol. 64</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/349"
@@ -1358,9 +1429,10 @@
                <did>
                   <unittitle>Malaysia, 1952-1983</unittitle>
                   <container altrender="/repositories/3/top_containers/71"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref112_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 65</container>
+                             localtype="volume">Vol. 65</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/350"
@@ -1369,9 +1441,10 @@
                <did>
                   <unittitle>Malaysia, 1983-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/72"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref114_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 66</container>
+                             localtype="volume">Vol. 66</container>
                </did>
                <scopecontent id="aspace_a96fb6322220b36987cc8d1b9f910713">
                   <head>Scope and Contents</head>
@@ -1388,9 +1461,10 @@
                <did>
                   <unittitle>Mauritius, 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/73"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref115_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 67</container>
+                             localtype="volume">Vol. 67</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/352"
@@ -1399,9 +1473,10 @@
                <did>
                   <unittitle>Montserrat, 1952-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/74"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref116_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 68</container>
+                             localtype="volume">Vol. 68</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/353"
@@ -1410,9 +1485,10 @@
                <did>
                   <unittitle>Nauru, 1954-1987?</unittitle>
                   <container altrender="/repositories/3/top_containers/75"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref117_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 69</container>
+                             localtype="volume">Vol. 69</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/354"
@@ -1421,9 +1497,10 @@
                <did>
                   <unittitle>New Zealand, 1952-1979</unittitle>
                   <container altrender="/repositories/3/top_containers/76"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref118_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 70</container>
+                             localtype="volume">Vol. 70</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/355"
@@ -1432,9 +1509,10 @@
                <did>
                   <unittitle>New Zealand, 1980-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/77"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref120_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 71</container>
+                             localtype="volume">Vol. 71</container>
                </did>
                <scopecontent id="aspace_f0bd83238397e57a0a0e1e985de9cb3c">
                   <head>Scope and Contents</head>
@@ -1452,9 +1530,10 @@
                <did>
                   <unittitle>Nevis, 1980-1992?</unittitle>
                   <container altrender="/repositories/3/top_containers/78"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref121_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 72</container>
+                             localtype="volume">Vol. 72</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/357"
@@ -1463,9 +1542,10 @@
                <did>
                   <unittitle>Niuafo'ou, 1983-1988</unittitle>
                   <container altrender="/repositories/3/top_containers/79"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref123_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 73</container>
+                             localtype="volume">Vol. 73</container>
                </did>
                <scopecontent id="aspace_08329df157292b5c8b1fe18d02a9de5b">
                   <head>Scope and Contents</head>
@@ -1482,9 +1562,10 @@
                <did>
                   <unittitle>Niue, 1952-1982</unittitle>
                   <container altrender="/repositories/3/top_containers/80"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref124_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 74</container>
+                             localtype="volume">Vol. 74</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/359"
@@ -1493,9 +1574,10 @@
                <did>
                   <unittitle>Niue, 1983-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/81"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref125_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 75</container>
+                             localtype="volume">Vol. 75</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/360"
@@ -1504,9 +1586,10 @@
                <did>
                   <unittitle>Pakistan, 1954-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/82"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref126_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 76</container>
+                             localtype="volume">Vol. 76</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/361"
@@ -1515,9 +1598,10 @@
                <did>
                   <unittitle>Papua New Guinea, 1952-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/83"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref128_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 77</container>
+                             localtype="volume">Vol. 77</container>
                </did>
                <scopecontent id="aspace_f8ff9d6e60fca8d473eb73793a141713">
                   <head>Scope and Contents</head>
@@ -1534,9 +1618,10 @@
                <did>
                   <unittitle>Penrhyn, 1973-1982</unittitle>
                   <container altrender="/repositories/3/top_containers/84"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref129_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 78</container>
+                             localtype="volume">Vol. 78</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/363"
@@ -1545,9 +1630,10 @@
                <did>
                   <unittitle>Pitcairn Islands, 1957-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/85"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref131_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 79</container>
+                             localtype="volume">Vol. 79</container>
                </did>
                <scopecontent id="aspace_647c444bd21a4d37315b8558597bebcb">
                   <head>Scope and Contents</head>
@@ -1571,9 +1657,10 @@
                <did>
                   <unittitle>Rhodesia &amp; Nyasaland, 1954-1963</unittitle>
                   <container altrender="/repositories/3/top_containers/86"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref133_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 80</container>
+                             localtype="volume">Vol. 80</container>
                </did>
                <scopecontent id="aspace_b785e08660956619b045fdd9ff3413b8">
                   <head>Scope and Contents</head>
@@ -1595,9 +1682,10 @@
                <did>
                   <unittitle>Samoa, 1952-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/87"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref134_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 81</container>
+                             localtype="volume">Vol. 81</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/366"
@@ -1606,9 +1694,10 @@
                <did>
                   <unittitle>St. Helena, 1953-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/88"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref136_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 82</container>
+                             localtype="volume">Vol. 82</container>
                </did>
                <scopecontent id="aspace_bfec1cf51887ef839882abd960685c57">
                   <head>Scope and Contents</head>
@@ -1626,9 +1715,10 @@
                <did>
                   <unittitle>St. Lucia, 1953-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/89"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref137_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 83</container>
+                             localtype="volume">Vol. 83</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/368"
@@ -1637,9 +1727,10 @@
                <did>
                   <unittitle>St. Lucia, 1983-1985</unittitle>
                   <container altrender="/repositories/3/top_containers/90"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref139_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 84</container>
+                             localtype="volume">Vol. 84</container>
                </did>
                <scopecontent id="aspace_ed1f1300c1b9d58a8c0d91613966927e">
                   <head>Scope and Contents</head>
@@ -1656,9 +1747,10 @@
                <did>
                   <unittitle>St. Vincent, 1952-1980</unittitle>
                   <container altrender="/repositories/3/top_containers/91"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref140_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 85</container>
+                             localtype="volume">Vol. 85</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/370"
@@ -1667,9 +1759,10 @@
                <did>
                   <unittitle>St. Vincent, 1980-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/92"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref141_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 86</container>
+                             localtype="volume">Vol. 86</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/371"
@@ -1678,9 +1771,10 @@
                <did>
                   <unittitle>Seychelles, 1954-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/93"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref142_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 87</container>
+                             localtype="volume">Vol. 87</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/372"
@@ -1689,9 +1783,10 @@
                <did>
                   <unittitle>Sierra Leone, 1952-1982</unittitle>
                   <container altrender="/repositories/3/top_containers/94"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref143_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 88</container>
+                             localtype="volume">Vol. 88</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/373"
@@ -1700,9 +1795,10 @@
                <did>
                   <unittitle>Sierra Leone, 1981-1988</unittitle>
                   <container altrender="/repositories/3/top_containers/95"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref144_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 89</container>
+                             localtype="volume">Vol. 89</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/374"
@@ -1711,9 +1807,10 @@
                <did>
                   <unittitle>Singapore, 1955-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/96"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref145_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 90</container>
+                             localtype="volume">Vol. 90</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/375"
@@ -1722,9 +1819,10 @@
                <did>
                   <unittitle>Solomon Islands, 1956-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/97"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref146_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 91</container>
+                             localtype="volume">Vol. 91</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/376"
@@ -1733,9 +1831,10 @@
                <did>
                   <unittitle>Swaziland, 1956-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/98"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref147_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 92</container>
+                             localtype="volume">Vol. 92</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/377"
@@ -1744,9 +1843,10 @@
                <did>
                   <unittitle>Tanganyika &amp; Tanzania, 1961-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/99"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref148_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 93</container>
+                             localtype="volume">Vol. 93</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/378"
@@ -1755,9 +1855,10 @@
                <did>
                   <unittitle>Tonga, 1952-1975</unittitle>
                   <container altrender="/repositories/3/top_containers/100"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref149_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 94</container>
+                             localtype="volume">Vol. 94</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/379"
@@ -1766,9 +1867,10 @@
                <did>
                   <unittitle>Tonga, 1976-1984</unittitle>
                   <container altrender="/repositories/3/top_containers/101"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref150_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 95</container>
+                             localtype="volume">Vol. 95</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/380"
@@ -1777,9 +1879,10 @@
                <did>
                   <unittitle>Trinidad &amp; Tobago, 1953-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/102"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref151_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 96</container>
+                             localtype="volume">Vol. 96</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/381"
@@ -1788,9 +1891,10 @@
                <did>
                   <unittitle>Tristan da Cunha, 1954-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/103"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref152_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 97</container>
+                             localtype="volume">Vol. 97</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/382"
@@ -1799,9 +1903,10 @@
                <did>
                   <unittitle>Turks and Caicos Islands, 1955-1981</unittitle>
                   <container altrender="/repositories/3/top_containers/104"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref153_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 98</container>
+                             localtype="volume">Vol. 98</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/383"
@@ -1810,9 +1915,10 @@
                <did>
                   <unittitle>Turks and Caicos Islands, 1982-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/105"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref154_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 99</container>
+                             localtype="volume">Vol. 99</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/384"
@@ -1821,9 +1927,10 @@
                <did>
                   <unittitle>Tuvalu, 1976-1992?</unittitle>
                   <container altrender="/repositories/3/top_containers/106"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref155_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 100</container>
+                             localtype="volume">Vol. 100</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/385"
@@ -1832,9 +1939,10 @@
                <did>
                   <unittitle>Uganda, 1962-1986</unittitle>
                   <container altrender="/repositories/3/top_containers/107"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref156_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 101</container>
+                             localtype="volume">Vol. 101</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/386"
@@ -1843,9 +1951,10 @@
                <did>
                   <unittitle>Virgin Islands, 1956-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/108"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref157_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 102</container>
+                             localtype="volume">Vol. 102</container>
                </did>
             </c>
             <c altrender="/repositories/3/archival_objects/387"
@@ -1854,9 +1963,10 @@
                <did>
                   <unittitle>Zambia, 1964-1987</unittitle>
                   <container altrender="/repositories/3/top_containers/109"
+                             encodinganalog="film can (12d 2h 12w)"
                              id="aspace_ref159_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 103</container>
+                             localtype="volume">Vol. 103</container>
                </did>
                <scopecontent id="aspace_a757d57962a65d4b8aa1271541cf0a33">
                   <head>Scope and Contents</head>
@@ -1891,6 +2001,7 @@
                <did>
                   <unittitle>Aitutaki (Cook Islands)</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref31_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1903,6 +2014,7 @@
                <did>
                   <unittitle>Anguilla</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref32_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1915,6 +2027,7 @@
                <did>
                   <unittitle>Antigua &amp; Barbuda</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref33_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1927,6 +2040,7 @@
                <did>
                   <unittitle>Ascension</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref34_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1939,6 +2053,7 @@
                <did>
                   <unittitle>Australia</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref35_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1951,6 +2066,7 @@
                <did>
                   <unittitle>Bahamas</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref36_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1963,6 +2079,7 @@
                <did>
                   <unittitle>Bangladesh</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref160_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1975,6 +2092,7 @@
                <did>
                   <unittitle>Barbados</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref161_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1987,6 +2105,7 @@
                <did>
                   <unittitle>Belize</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref162_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1999,6 +2118,7 @@
                <did>
                   <unittitle>Bermuda</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref163_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2011,6 +2131,7 @@
                <did>
                   <unittitle>Botswana</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref164_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2023,6 +2144,7 @@
                <did>
                   <unittitle>British Antarctic Territory</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref165_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2035,6 +2157,7 @@
                <did>
                   <unittitle>Brunei</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref166_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2047,6 +2170,7 @@
                <did>
                   <unittitle>Canada</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref167_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2059,6 +2183,7 @@
                <did>
                   <unittitle>Cayman Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref168_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2071,6 +2196,7 @@
                <did>
                   <unittitle>Christmas Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref169_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2083,6 +2209,7 @@
                <did>
                   <unittitle>Cocos Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref170_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2095,6 +2222,7 @@
                <did>
                   <unittitle>Cook Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref171_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2107,6 +2235,7 @@
                <did>
                   <unittitle>Cyprus</unittitle>
                   <container altrender="/repositories/3/top_containers/110"
+                             encodinganalog="archive legal"
                              id="aspace_ref172_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -2119,6 +2248,7 @@
                <did>
                   <unittitle>Dominica</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref173_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2131,6 +2261,7 @@
                <did>
                   <unittitle>Falkland Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref174_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2143,6 +2274,7 @@
                <did>
                   <unittitle>Fiji</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref175_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2155,6 +2287,7 @@
                <did>
                   <unittitle>The Gambia</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref176_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2167,6 +2300,7 @@
                <did>
                   <unittitle>Ghana</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref177_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2179,6 +2313,7 @@
                <did>
                   <unittitle>Gibraltar</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref178_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2191,6 +2326,7 @@
                <did>
                   <unittitle>Grenada</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref179_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2203,6 +2339,7 @@
                <did>
                   <unittitle>Grenada (Grenadines)</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref180_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2215,6 +2352,7 @@
                <did>
                   <unittitle>Great Britain</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref181_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2227,6 +2365,7 @@
                <did>
                   <unittitle>Guernsey</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref182_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2239,6 +2378,7 @@
                <did>
                   <unittitle>Guyana</unittitle>
                   <container altrender="/repositories/3/top_containers/111"
+                             encodinganalog="archive legal"
                              id="aspace_ref183_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -2251,6 +2391,7 @@
                <did>
                   <unittitle>Hong Kong</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref184_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2263,6 +2404,7 @@
                <did>
                   <unittitle>India</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref185_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2275,6 +2417,7 @@
                <did>
                   <unittitle>Jamaica</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref186_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2287,6 +2430,7 @@
                <did>
                   <unittitle>Jersey</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref187_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2299,6 +2443,7 @@
                <did>
                   <unittitle>Kenya</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref188_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2311,6 +2456,7 @@
                <did>
                   <unittitle>Kiribati</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref189_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2323,6 +2469,7 @@
                <did>
                   <unittitle>Lesotho</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref190_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2335,6 +2482,7 @@
                <did>
                   <unittitle>Malawi</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref191_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2347,6 +2495,7 @@
                <did>
                   <unittitle>Malta</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref192_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2359,6 +2508,7 @@
                <did>
                   <unittitle>Isle of Man</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref193_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2371,6 +2521,7 @@
                <did>
                   <unittitle>Mauritius</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref194_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2383,6 +2534,7 @@
                <did>
                   <unittitle>Montserrat</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref195_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2395,6 +2547,7 @@
                <did>
                   <unittitle>Nevis</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref196_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2407,6 +2560,7 @@
                <did>
                   <unittitle>New Zealand</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref197_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2419,6 +2573,7 @@
                <did>
                   <unittitle>Nigeria</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref198_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2431,6 +2586,7 @@
                <did>
                   <unittitle>Niuafo'ou</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref199_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2443,6 +2599,7 @@
                <did>
                   <unittitle>Niue</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref200_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2455,6 +2612,7 @@
                <did>
                   <unittitle>Norfolk Island</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref201_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2467,6 +2625,7 @@
                <did>
                   <unittitle>Pakistan</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref202_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2479,6 +2638,7 @@
                <did>
                   <unittitle>Papua New Guinea</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref203_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2491,6 +2651,7 @@
                <did>
                   <unittitle>Penrhyn (Northern Cook Islands)</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref204_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2503,6 +2664,7 @@
                <did>
                   <unittitle>Pitcairn Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref205_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2515,6 +2677,7 @@
                <did>
                   <unittitle>Redonda</unittitle>
                   <container altrender="/repositories/3/top_containers/112"
+                             encodinganalog="archive legal"
                              id="aspace_ref206_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -2527,6 +2690,7 @@
                <did>
                   <unittitle>Samoa</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref207_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2539,6 +2703,7 @@
                <did>
                   <unittitle>Seychelles</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref208_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2551,6 +2716,7 @@
                <did>
                   <unittitle>Sierra Leone</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref209_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2563,6 +2729,7 @@
                <did>
                   <unittitle>Singapore</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref210_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2575,6 +2742,7 @@
                <did>
                   <unittitle>St. Helena</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref211_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2587,6 +2755,7 @@
                <did>
                   <unittitle>St. Kitts</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref212_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2599,6 +2768,7 @@
                <did>
                   <unittitle>Saint Lucia</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref213_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2611,6 +2781,7 @@
                <did>
                   <unittitle>St. Vincent</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref214_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2623,6 +2794,7 @@
                <did>
                   <unittitle>Solomon  Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref215_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2635,6 +2807,7 @@
                <did>
                   <unittitle>South Georgia and South Sandwich Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref216_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2647,6 +2820,7 @@
                <did>
                   <unittitle>Sri Lanka</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref217_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2659,6 +2833,7 @@
                <did>
                   <unittitle>Swaziland</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref218_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2671,6 +2846,7 @@
                <did>
                   <unittitle>Tanzania</unittitle>
                   <container altrender="/repositories/3/top_containers/113"
+                             encodinganalog="archive legal"
                              id="aspace_ref219_c1"
                              label="Mixed Materials"
                              localtype="box">4</container>
@@ -2683,6 +2859,7 @@
                <did>
                   <unittitle>Tonga</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref220_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2695,6 +2872,7 @@
                <did>
                   <unittitle>Transkei</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref221_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2707,6 +2885,7 @@
                <did>
                   <unittitle>Trinidad &amp; Tobago</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref222_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2719,6 +2898,7 @@
                <did>
                   <unittitle>Tristan da Cunha</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref223_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2731,6 +2911,7 @@
                <did>
                   <unittitle>Turks &amp; Caicos Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref224_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2743,6 +2924,7 @@
                <did>
                   <unittitle>Tuvalu</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref225_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2755,6 +2937,7 @@
                <did>
                   <unittitle>Uganda</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref226_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2767,6 +2950,7 @@
                <did>
                   <unittitle>Vanuatu</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref227_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2779,6 +2963,7 @@
                <did>
                   <unittitle>British Virgin Islands</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref228_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2791,6 +2976,7 @@
                <did>
                   <unittitle>Zambia</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref229_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2803,6 +2989,7 @@
                <did>
                   <unittitle>Zimbabwe</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref230_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2815,6 +3002,7 @@
                <did>
                   <unittitle>Non-Commonwealth Countries</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref231_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2827,6 +3015,7 @@
                <did>
                   <unittitle>On Envelopes (Great Britain, etc.)</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref232_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2839,6 +3028,7 @@
                <did>
                   <unittitle>Registered letter envelopes</unittitle>
                   <container altrender="/repositories/3/top_containers/114"
+                             encodinganalog="archive legal"
                              id="aspace_ref233_c1"
                              label="Mixed Materials"
                              localtype="box">5</container>
@@ -2851,9 +3041,10 @@
                <did>
                   <unittitle>Solomon Islands, 1987 America's Cup </unittitle>
                   <container altrender="/repositories/3/top_containers/115"
+                             encodinganalog="Custom"
                              id="aspace_ref246_c1"
                              label="Mixed Materials"
-                             localtype="box">6</container>
+                             localtype="oversize_folder">6</container>
                </did>
                <scopecontent id="aspace_60c8496bf7ce187238d77f2614b19040">
                   <head>Scope and Contents</head>

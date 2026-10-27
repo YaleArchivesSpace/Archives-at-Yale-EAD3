@@ -40,7 +40,8 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1, Vol. 1-Vol. 2</p>
+               <p>Volumes: Vol. 1-Vol. 2</p>
+               <p>Box: 1</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-12T18:00:30-05:00</eventdatetime>
+            <eventdatetime>2026-10-27T18:00:52-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday February 12, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -318,9 +319,10 @@ In the 1840s, he self-published collections of his own etchings of birds.</p>
                   <physdesc id="aspace_0989c1101228f0adcd7cb08b5bc86868"> 1 v. (76 leaves, with blanks) 
 ;  36 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/476"
+                             encodinganalog="MCL custom box (3x11x14 inches)"
                              id="aspace_ref89_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 1</container>
+                             localtype="volume">Vol. 1</container>
                </did>
                <scopecontent id="aspace_1cc46e3e8cea60848ae332e157c18d27">
                   <head>Scope and Contents</head>
@@ -369,9 +371,10 @@ It starts with examples from when he was just 12 years old, and shows him as a g
                   <physdesc id="aspace_87fb90ce5f1eb873a7a1f8f20b31fb81"> 1 volume (58 leaves, with many blanks) 
 ;  29 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/477"
+                             encodinganalog="flat box (9d 2h 11w)"
                              id="aspace_ref92_c1"
                              label="Mixed Materials"
-                             localtype="box">Vol. 2</container>
+                             localtype="volume">Vol. 2</container>
                </did>
                <scopecontent id="aspace_fe7a478bea4a2d8c9cdf6c732d75a8bb">
                   <head>Scope and Contents</head>
@@ -418,6 +421,7 @@ Cod fishing
                   <physdesc id="aspace_6e82f7aec8a30a4f8ec5c36a227ac595"> 1 etching 
 ;  14 x 20 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref4_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -446,6 +450,7 @@ Elephant attacked by a tiger
                   <physdesc id="aspace_0eedf3b012c679c5650930605ead3412"> 1 etching 
 ;  12 x 17 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref7_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -474,6 +479,7 @@ Elephant attacked by a tiger
                   <physdesc id="aspace_2cccbd97b3650bc9e7d2920a8d161643"> 1 etching 
 ;  17 x 23 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref10_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -502,6 +508,7 @@ Shipwreck
                   <physdesc id="aspace_f62106bfe28bbe508bf8dced0b8f5cab"> 1 etching 
 ;  17 x 23 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref13_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -530,6 +537,7 @@ Lighthouse
                   <physdesc id="aspace_ebd9ed0e261eaa35c29af6769b54a71e"> 1 etching 
 ;  22 x 14 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref16_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -558,6 +566,7 @@ Castle and village
                   <physdesc id="aspace_5815ae8ea8d1911ed5c3d4909acbff35"> 1 etching 
 ;  13 x 20 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref19_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -586,6 +595,7 @@ Shipwreck, or naval battle scene
                   <physdesc id="aspace_e226c57b3453f6f3a3ebc3bb82d863a1"> 1 etching 
 ;  14 x 20 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref22_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -614,6 +624,7 @@ Jericho
                   <physdesc id="aspace_5d6c597f9d8c0053fb71e6d4256b4d20"> 1 etching 
 ;  14 x 20 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref25_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -642,6 +653,7 @@ Ships wrecked on ice floes
                   <physdesc id="aspace_663d96c0d3d52a543c2b73aec7bc01f7"> 1 etching 
 ;  14 x 20 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref28_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -670,6 +682,7 @@ A ship in arctic waters
                   <physdesc id="aspace_29707088c6e96557b672f9fb21f9495c"> 1 etching 
 ;  14 x 21 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref31_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -698,6 +711,7 @@ A kayak in arctic waters
                   <physdesc id="aspace_fe77cfe57bff3949e2db847c7b24157b"> 1 etching 
 ;  10 x 13 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref34_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -726,6 +740,7 @@ A double-masted ship
                   <physdesc id="aspace_6f64a5b3deb6d2b6120f8c03d6d8e2c0"> 1 etching 
 ;  6 x 10 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref37_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -754,6 +769,7 @@ A ship aflame (?) on choppy waters
                   <physdesc id="aspace_84f0bb5cf9fbeee7d35f4d443266b520"> 1 etching 
 ;  13 x 20 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref40_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -782,6 +798,7 @@ A boat near shore
                   <physdesc id="aspace_0c8211cbc8a4983a26b722ce6eed3d2e"> 1 graphite drawing 
 ;  18 x 30 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref42_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -806,6 +823,7 @@ Drawing book
                   <physdesc id="aspace_9ebac2475cad7903145f273df9f10949"> 16 leaves of graphite drawings 
 ;  18 x 24 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref45_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -842,6 +860,7 @@ Drawing book
                   <physdesc id="aspace_5aaa4b978463ffd9e7176eb37e9628bc"> 1 printing plate : copper 
 ;  12 x 15 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref48_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -874,6 +893,7 @@ Drawing book
                   <physdesc id="aspace_6e3800df1b34cfc45a0c212da91b21c2"> 1 printing plate : copper 
 ;  10 x 16 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/478"
+                             encodinganalog="archive legal"
                              id="aspace_ref50_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>

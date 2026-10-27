@@ -40,7 +40,8 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1, Oversize 1-2, Oversize 2-3, Oversize 3-Oversize 7-8, Oversize 9-Oversize 11-13, Oversize 14-Oversize 15</p>
+               <p>Volumes: Oversize 1, Oversize 5-Oversize 6</p>
+               <p>Boxes: 1-2, Oversize 2-3, Oversize 3-Oversize 4, Oversize 7-8, Oversize 9-Oversize 11-13, Oversize 14-Oversize 15</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -73,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-29T18:01:12-04:00</eventdatetime>
+            <eventdatetime>2026-10-27T18:00:46-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday April 29, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -354,9 +355,10 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
 :  graphite, some with watercolor 
 ;  32 x 47 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1122"
+                             encodinganalog="flat box (12d 2h 18w)"
                              id="aspace_ref5_c1"
                              label="Mixed Materials"
-                             localtype="box">Oversize 1</container>
+                             localtype="volume">Oversize 1</container>
                </did>
                <scopecontent id="aspace_4918a4a36ecce19650c0801bae68f8db">
                   <head>Scope and Contents</head>
@@ -573,9 +575,10 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
  graphite, some with watercolor  ;
  32 x 47 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1126"
+                             encodinganalog="flat box (12d 2h 18w)"
                              id="aspace_ref18_c1"
                              label="Mixed Materials"
-                             localtype="box">Oversize 5</container>
+                             localtype="volume">Oversize 5</container>
                </did>
                <scopecontent id="aspace_2e0f2cc5306d49d4d5a77f58af46ea1c">
                   <head>Scope and Contents</head>
@@ -634,9 +637,10 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
  graphite, some with watercolor  ;
  32 x 47 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1127"
+                             encodinganalog="flat box (12d 3h 18w)"
                              id="aspace_ref20_c1"
                              label="Mixed Materials"
-                             localtype="box">Oversize 6</container>
+                             localtype="volume">Oversize 6</container>
                </did>
                <scopecontent id="aspace_57b41785d1bff8b4ae6ce29e59a9826d">
                   <head>Scope and Contents</head>
@@ -929,6 +933,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_cf15d555a9c0f5be74465559d0186fc2"> 1 volume (138 pages) 
 ;  23 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1132"
+                             encodinganalog="archive legal"
                              id="aspace_ref42_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -981,6 +986,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_58fa1bf8fa6cd9ed72b5e9d51f2cb52c"> 1 volume (circa 200 pages, with blanks) 
 ;  23 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1132"
+                             encodinganalog="archive legal"
                              id="aspace_ref45_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1022,6 +1028,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_979b483fcd48755db9d375f0996f6e14"> 1 volume (42 pages, with blanks) 
 ;  13 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1132"
+                             encodinganalog="archive legal"
                              id="aspace_ref48_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1064,6 +1071,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_e52f12e3bc8bae68650c6ff3429fa670"> 1 volume (46 pages, with numerous items tipped in or laid in) 
 ;  28 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1132"
+                             encodinganalog="archive legal"
                              id="aspace_ref51_c1"
                              label="Mixed Materials"
                              localtype="box">1</container>
@@ -1102,6 +1110,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_ffa47fc27eceb0b5200e98c544fa6ed5"> 1 volume (1 sheet) 
 ;  55 x 77 cm, folded to 30 x 20 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1133"
+                             encodinganalog="archive legal"
                              id="aspace_ref54_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -1142,6 +1151,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_da73fe0767d310d7595891cb41623bc0"> 1 sheet (on vellum) 
 ;  58 x 64 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1133"
+                             encodinganalog="archive legal"
                              id="aspace_ref57_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -1178,6 +1188,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_c7ca1b0932647c2ba4187b3772566302"> 22 items 
 ;  25 x 20 cm, and smaller </physdesc>
                   <container altrender="/repositories/3/top_containers/1133"
+                             encodinganalog="archive legal"
                              id="aspace_ref77_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -1217,6 +1228,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_79b78c747c5e24c09dbda5b72e0a1165"> 1 volume ([6], 27, [3], v, [1] p., [8] leaves of plates) 
 ;  26 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1133"
+                             encodinganalog="archive legal"
                              id="aspace_ref60_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -1255,6 +1267,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_d7cfc6d5b9689be93d45d11c135b091b"> 1 volume ([4] p., p. 251-278) 
 ;  19 cm </physdesc>
                   <container altrender="/repositories/3/top_containers/1133"
+                             encodinganalog="archive legal"
                              id="aspace_ref80_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
@@ -1385,6 +1398,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
 :  albumen and b&amp;w 
 ;  20 x 15 cm, and smaller </physdesc>
                   <container altrender="/repositories/3/top_containers/1136"
+                             encodinganalog="archive legal"
                              id="aspace_ref66_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -1430,6 +1444,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
 :  albumen and b&amp;w prints 
 ;  19 x 12 cm, and smaller </physdesc>
                   <container altrender="/repositories/3/top_containers/1136"
+                             encodinganalog="archive legal"
                              id="aspace_ref69_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -1475,6 +1490,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   <physdesc id="aspace_a86cec68398a96b12fc791d5c753ed88"> 11 engravings 
 ;  20 x 13 cm, and smaller </physdesc>
                   <container altrender="/repositories/3/top_containers/1136"
+                             encodinganalog="archive legal"
                              id="aspace_ref73_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
@@ -1517,6 +1533,7 @@ Harriet Carr was the wife of the editor, Rev. Thomas William Carr, and predeceas
                   </unitdatestructured>
                   <physdesc id="aspace_c79a49bc54a0c1ecbe2d2c0d66178c0d"> 26 photographs </physdesc>
                   <container altrender="/repositories/3/top_containers/1136"
+                             encodinganalog="archive legal"
                              id="aspace_ref83_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
