@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-26T23:25:21-04:00</eventdatetime>
+            <eventdatetime>2026-10-26T23:50:22-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 23:25</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 23:50</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5374,6 +5374,41 @@
                      <container id="aspace_ref291_c2" localtype="folder" parent="aspace_ref291_c1">278</container>
                   </did>
                </c>
+               <c altrender="/repositories/11/archival_objects/239386"
+                  id="ref308"
+                  level="file">
+                  <did>
+                     <unittitle>Jakob, Doris</unittitle>
+                     <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1990">1990</fromdate>
+                           <todate standarddate="1991">1991</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/20844 /locations/9"
+                                containerid="39002099311715"
+                                id="aspace_ref308_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_ref308_c2" localtype="folder" parent="aspace_ref308_c1">293</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/239372"
+                  id="ref292"
+                  level="file">
+                  <did>
+                     <unittitle>Israel. Shagrirut (India)</unittitle>
+                     <unitdatestructured altrender="1993 Nov 11" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1993-11-11">1993 Nov 11</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/20844 /locations/9"
+                                containerid="39002099311715"
+                                id="aspace_ref292_c1"
+                                label="Mixed Materials"
+                                localtype="box">6</container>
+                     <container id="aspace_ref292_c2" localtype="folder" parent="aspace_ref292_c1">279</container>
+                  </did>
+               </c>
                <c altrender="/repositories/11/archival_objects/239373"
                   id="ref293"
                   level="file">
@@ -5396,22 +5431,6 @@
                      <head>Scope and Contents</head>
                      <p>Includes third party correspondence</p>
                   </scopecontent>
-               </c>
-               <c altrender="/repositories/11/archival_objects/239372"
-                  id="ref292"
-                  level="file">
-                  <did>
-                     <unittitle>Israel. Shagrirut (India)</unittitle>
-                     <unitdatestructured altrender="1993 Nov 11" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1993-11-11">1993 Nov 11</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/20844 /locations/9"
-                                containerid="39002099311715"
-                                id="aspace_ref292_c1"
-                                label="Mixed Materials"
-                                localtype="box">6</container>
-                     <container id="aspace_ref292_c2" localtype="folder" parent="aspace_ref292_c1">279</container>
-                  </did>
                </c>
                <c altrender="/repositories/11/archival_objects/239374"
                   id="ref295"
@@ -5645,25 +5664,6 @@
                                 label="Mixed Materials"
                                 localtype="box">6</container>
                      <container id="aspace_ref307_c2" localtype="folder" parent="aspace_ref307_c1">292</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/239386"
-                  id="ref308"
-                  level="file">
-                  <did>
-                     <unittitle>Jakob, Doris</unittitle>
-                     <unitdatestructured altrender="1990-1991" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1990">1990</fromdate>
-                           <todate standarddate="1991">1991</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/20844 /locations/9"
-                                containerid="39002099311715"
-                                id="aspace_ref308_c1"
-                                label="Mixed Materials"
-                                localtype="box">6</container>
-                     <container id="aspace_ref308_c2" localtype="folder" parent="aspace_ref308_c1">293</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/239387"
