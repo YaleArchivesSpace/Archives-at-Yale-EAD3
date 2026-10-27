@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-27T01:07:24-04:00</eventdatetime>
+            <eventdatetime>2026-10-27T01:32:25-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 01:07</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 01:32</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -6139,22 +6139,6 @@
                      <container id="aspace_ref335_c2" localtype="folder" parent="aspace_ref335_c1">318</container>
                   </did>
                </c>
-               <c altrender="/repositories/11/archival_objects/239419"
-                  id="ref343"
-                  level="file">
-                  <did>
-                     <unittitle>Klehr, Edwin H.; Klehr, Judith</unittitle>
-                     <unitdatestructured altrender="1982, n.d." label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1982">1982, n.d.</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
-                                containerid="39002099311723"
-                                id="aspace_ref343_c1"
-                                label="Mixed Materials"
-                                localtype="box">7</container>
-                     <container id="aspace_ref343_c2" localtype="folder" parent="aspace_ref343_c1">326</container>
-                  </did>
-               </c>
                <c altrender="/repositories/11/archival_objects/239412"
                   id="ref336"
                   level="file">
@@ -6292,6 +6276,22 @@
                                 label="Mixed Materials"
                                 localtype="box">7</container>
                      <container id="aspace_ref342_c2" localtype="folder" parent="aspace_ref342_c1">325</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/239419"
+                  id="ref343"
+                  level="file">
+                  <did>
+                     <unittitle>Klehr, Edwin H.; Klehr, Judith</unittitle>
+                     <unitdatestructured altrender="1982, n.d." label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1982">1982, n.d.</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
+                                containerid="39002099311723"
+                                id="aspace_ref343_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_ref343_c2" localtype="folder" parent="aspace_ref343_c1">326</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/239420"
