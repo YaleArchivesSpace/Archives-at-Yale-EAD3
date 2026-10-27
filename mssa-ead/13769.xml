@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1168">mssa.ru.1168</recordid>
+      <otherrecordid localtype="BIB">17672410</otherrecordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Department of Near Eastern Languages and Civilizations, Yale University, Records </titleproper>
+            <titleproper localtype="filing">Department of Near Eastern Languages and Civilizations, Yale University, Records</titleproper>
+            <author>compiled by Michael Lotstein </author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline localtype="telephone">(203) 432-1735</addressline>
+               <addressline localtype="fax">(203) 432-7441</addressline>
+               <addressline localtype="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://www.library.yale.edu/mssa/"
+                       linktitle="http://www.library.yale.edu/mssa/"
+                       show="new">http://www.library.yale.edu/mssa/</ref>
+               </addressline>
+            </address>
+            <date>April 2025</date>
+            <num>RU 1168</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote>
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency>
+         <agencycode>US-CtY</agencycode>
+         <agencyname>Manuscripts and Archives</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+         <descriptivenote>
+            <p>Finding aid written in English.</p>
+         </descriptivenote>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>under_revision</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-10-27T03:00:36-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 03:00</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/12/resources/13769" level="collection">
+      <did>
+         <unittitle>Department of Near Eastern Languages and Civilizations, Yale University, records</unittitle>
+         <unitid>RU 1168</unitid>
+         <repository>
+            <corpname>
+               <part>Manuscripts and Archives</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <languageset>
+               <language langcode="eng">English</language>
+               <script scriptcode="Latn">Latin</script>
+            </languageset>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>13</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <unitdatestructured altrender="1913-2025" label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1913">1913</fromdate>
+               <todate standarddate="2025">2025</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_32e4aaebdbc7812ae97285c38d4956be">The records consist of student and faculty records from the Department of Near Eastern Languages and Civilizations (formerly named the Department of Near Eastern Languages and Literatures).</abstract>
+      </did>
+      <odd id="aspace_30ea81b9101ae468e621b394a076601e">
+         <head>General</head>
+         <p>Forms part of Yale Record Group 14-B (YRG 14-B), Records of academic departments and programs of the Yale Faculty of Arts and Sciences.</p>
+      </odd>
+      <accessrestrict id="aspace_93104aa1883ea1eb1f19d8443314620f"
+                      localtype="RestrictedSpecColl">
+         <head>Conditions Governing Access</head>
+         <p>Access to this collection is partially restricted.  See Collection Contents for details.</p>
+      </accessrestrict>
+      <prefercite id="aspace_91ae998c0f979caaccd6bed7b1dc1030">
+         <head>Preferred Citation</head>
+         <p>Department of Near Eastern Languages and Civilizations, Yale University, Records (RU 1168). Manuscripts and Archives, Yale University Library.</p>
+      </prefercite>
+      <scopecontent id="aspace_4537d06a0676d809c6b9f5d6998e5e5f">
+         <head>Scope and Contents</head>
+         <p>The records consist of student and faculty records from the Department of Near Eastern Languages and Civilizations (formerly named the Department of Near Eastern Languages and Literatures).</p>
+      </scopecontent>
+      <relatedmaterial id="aspace_220286da1ec7252dce14bd917c336fc3">
+         <head>Related Materials</head>
+         <p>Department of Near Eastern Languages and Literatures, Yale University, records (RU 273).  This collection contains departmental correspondence and student records dated from 1929 to 1952.</p>
+      </relatedmaterial>
+      <controlaccess>
+         <subject source="local">
+            <part localtype="topical">Middle Eastern literature</part>
+            <part localtype="topical">Study and teaching</part>
+         </subject>
+         <geogname source="local">
+            <part localtype="geographic">Middle East</part>
+            <part localtype="topical">Languages</part>
+            <part localtype="topical">Study and teaching</part>
+         </geogname>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85141106"
+                  source="lcsh">
+            <part localtype="topical">Universities and colleges</part>
+            <part localtype="topical">Departments</part>
+         </subject>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/12/archival_objects/3935128"
+            id="aspace_24421e43df8cb60f288e24a706cfdaf1"
+            level="series">
+            <did>
+               <unittitle>Student and faculty records</unittitle>
+               <unitid>Accession 2025-A-0036</unitid>
+               <unitdate label="creation" unitdatetype="inclusive">1947-2016</unitdate>
+            </did>
+            <accessrestrict id="aspace_9a3c7fd2d61868235d0107abd4563049"
+                            localtype="RestrictedSpecColl">
+               <head>Conditions Governing Access</head>
+               <p>Restricted until January 1, 2092.</p>
+            </accessrestrict>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

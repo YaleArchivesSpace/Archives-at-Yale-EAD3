@@ -2960,6 +2960,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [13594.xml](13594.xml) |  | RU 1190 | Department of Comparative Literature, Yale University, records | 
  [mssa.ru.1194.xml](13656.xml) | mssa.ru.1194 | RU 1194 | Oral history interviews for "The Greek Diaspora in the United States" | 
  [mssa.ru.1196.xml](13744.xml) | mssa.ru.1196 | RU 1196 | Records of the Yale Swimming and Diving Association | 
+ [mssa.ru.1168.xml](13769.xml) | mssa.ru.1168 | RU 1168 | Department of Near Eastern Languages and Civilizations, Yale University, records | 
  [mssa.ru.1197.xml](13783.xml) | mssa.ru.1197 | RU 1197 | Office of International Affairs, Yale University, records | 
  [mssa.ru.1202.xml](13854.xml) | mssa.ru.1202 | RU 1202 | Edward Augustus Anketell, class of 1864, records documenting student life | 
  [mssa.ru.1203.xml](13855.xml) | mssa.ru.1203 | RU 1203 | Isaac Mills (1767-1843), records | 
