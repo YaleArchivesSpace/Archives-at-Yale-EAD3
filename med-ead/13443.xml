@@ -14,7 +14,7 @@
       <filedesc>
          <titlestmt>
             <titleproper>José Manuel Rodríguez Delgado papers </titleproper>
-            <titleproper localtype="filing">Delgado (José Manuel Rodríguez) papers</titleproper>
+            <titleproper localtype="filing">Delgado, José Manuel Rodríguez, papers</titleproper>
             <author>Katherine Isham</author>
          </titlestmt>
          <publicationstmt>
@@ -62,15 +62,15 @@
          </descriptivenote>
       </rightsdeclaration>
       <localcontrol localtype="findaidstatus">
-         <term>unprocessed</term>
+         <term>in_progress</term>
       </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-23T22:00:12-04:00</eventdatetime>
+            <eventdatetime>2026-10-26T22:00:17-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 23, 2026 at 22:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 22:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -84,17 +84,17 @@
             </corpname>
          </repository>
          <langmaterial>
+            <language langcode="eng">English</language>
             <languageset>
                <language langcode="spa">Spanish; Castilian</language>
                <script scriptcode="Latn">Latin</script>
             </languageset>
-            <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>32</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">28 boxes + 2 films</physdesc>
+         <physdesc localtype="container_summary">72 boxes</physdesc>
          <unitdatestructured altrender="circa 1896-2001"
                              label="creation"
                              unitdatetype="inclusive">
@@ -103,18 +103,13 @@
                <todate standarddate="2001">2001</todate>
             </daterange>
          </unitdatestructured>
-         <abstract id="aspace_c953740e7ba1a5332394863e868911f7">José Manuel Rodríguez Delgado (1915-2011), was a physician, researcher, and professor who specialized in neurophysiology of the brain. He was renowned for his experiments using electrical stimulation of the brain to control the actions of mammals, primates, and human subjects. Collection materials document Delgado's professional life and include correspondence, manuscript and published writings, lectures, research, interviews, photographs and photographic slides, audio visual materials, original drawings for scientific publications by Santiago Ramón y Cajal (1852-1934), scrapbooks, clippings, and neural stimulation equipment built by Delgado.</abstract>
+         <abstract id="aspace_c953740e7ba1a5332394863e868911f7">José Manuel Rodríguez Delgado (1915-2011), was a physician, researcher, and professor who specialized in neurophysiology of the brain. He was renowned for his experiments using electrical stimulation of the brain to control the actions of mammals, primates, and human subjects. Collection materials document Delgado's professional life and include correspondence, manuscript and published writings, lectures, research, interviews, photographs and photographic slides, audio visual materials, original drawings for scientific publications by Santiago Ramón y Cajal (1852-1934), scrapbooks, clippings, and neural stimulation equipment.</abstract>
          <origination label="Creator">
             <persname rules="aacr">
                <part localtype="agent_person">Delgado, José Manuel Rodríguez, 1915-2011</part>
             </persname>
          </origination>
       </did>
-      <accessrestrict id="aspace_2e4a473bd6461d3e94378e5f09bf4c7f"
-                      localtype="InProcessSpecColl">
-         <head>Conditions Governing Access</head>
-         <p>The collection is closed for processing. Paper based materials will become available late fall 2026. Audiovisual materials will become available after reformatting work is completed.</p>
-      </accessrestrict>
       <acqinfo id="aspace_f8ec07d4152fec201a59ba62970d3149">
          <head>Immediate Source of Acquisition</head>
          <p>Gift of Caroline Stoddard Delgado, wife of Dr. José M. R. Delgado, and children Jose Carlos and Linda Delgado, 2024.</p>
@@ -138,7 +133,7 @@
       </prefercite>
       <scopecontent id="aspace_62805d738d24f8a38e771f668f761c22">
          <head>Content Description</head>
-         <p>José Manuel Rodríguez Delgado (1915-2011), was a physician, researcher, and professor who specialized in neurophysiology of the brain. He was renowned for his experiments using electrical stimulation of the brain to control the actions of mammals, primates, and human subjects. Collection materials document Delgado's professional life and include correspondence, manuscript and published writings, lectures, research, interviews, photographs and photographic slides, audio visual materials, original drawings for scientific publications by Santiago Ramón y Cajal (1852-1934), scrapbooks, clippings, and neural stimulation equipment built by Delgado.</p>
+         <p>José Manuel Rodríguez Delgado (1915-2011), was a physician, researcher, and professor who specialized in neurophysiology of the brain. He was renowned for his experiments using electrical stimulation of the brain to control the actions of mammals, primates, and human subjects. Collection materials document Delgado's professional life and include correspondence, manuscript and published writings, lectures, research, interviews, photographs and photographic slides, audio visual materials, original drawings for scientific publications by Santiago Ramón y Cajal (1852-1934), scrapbooks, clippings, and neural stimulation equipment.</p>
       </scopecontent>
       <userestrict id="aspace_7f3bd05eb858051edd80a4fa995fb493">
          <head>Conditions Governing Use</head>
@@ -175,6 +170,10 @@
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85101682"
                   source="lcsh">
             <part localtype="topical">Physiology, Experimental</part>
+         </subject>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85108505"
+                  source="lcsh">
+            <part localtype="topical">Psychosurgery</part>
          </subject>
          <persname>
             <part localtype="agent_person">Ramón y Cajal, Santiago, 1852-1934</part>
