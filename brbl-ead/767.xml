@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-27T00:15:34-04:00</eventdatetime>
+            <eventdatetime>2026-10-27T00:42:24-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 00:15</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 00:42</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5782,38 +5782,6 @@
                      <container id="aspace_ref313_c2" localtype="folder" parent="aspace_ref313_c1">298</container>
                   </did>
                </c>
-               <c altrender="/repositories/11/archival_objects/239396"
-                  id="ref318"
-                  level="file">
-                  <did>
-                     <unittitle>John F. Kennedy Center for the Performing Arts</unittitle>
-                     <unitdatestructured altrender="1997 Dec 19" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1997-12-19">1997 Dec 19</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
-                                containerid="39002099311723"
-                                id="aspace_ref318_c1"
-                                label="Mixed Materials"
-                                localtype="box">7</container>
-                     <container id="aspace_ref318_c2" localtype="folder" parent="aspace_ref318_c1">303</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/239397"
-                  id="ref319"
-                  level="file">
-                  <did>
-                     <unittitle>John Simon Guggenheim Memorial Foundation</unittitle>
-                     <unitdatestructured altrender="1989 Dec 11" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1989-12-11">1989 Dec 11</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
-                                containerid="39002099311723"
-                                id="aspace_ref319_c1"
-                                label="Mixed Materials"
-                                localtype="box">7</container>
-                     <container id="aspace_ref319_c2" localtype="folder" parent="aspace_ref319_c1">304</container>
-                  </did>
-               </c>
                <c altrender="/repositories/11/archival_objects/239392"
                   id="ref314"
                   level="file">
@@ -5882,6 +5850,38 @@
                                 label="Mixed Materials"
                                 localtype="box">7</container>
                      <container id="aspace_ref317_c2" localtype="folder" parent="aspace_ref317_c1">302</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/239396"
+                  id="ref318"
+                  level="file">
+                  <did>
+                     <unittitle>John F. Kennedy Center for the Performing Arts</unittitle>
+                     <unitdatestructured altrender="1997 Dec 19" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1997-12-19">1997 Dec 19</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
+                                containerid="39002099311723"
+                                id="aspace_ref318_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_ref318_c2" localtype="folder" parent="aspace_ref318_c1">303</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/239397"
+                  id="ref319"
+                  level="file">
+                  <did>
+                     <unittitle>John Simon Guggenheim Memorial Foundation</unittitle>
+                     <unitdatestructured altrender="1989 Dec 11" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1989-12-11">1989 Dec 11</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/20845 /locations/9"
+                                containerid="39002099311723"
+                                id="aspace_ref319_c1"
+                                label="Mixed Materials"
+                                localtype="box">7</container>
+                     <container id="aspace_ref319_c2" localtype="folder" parent="aspace_ref319_c1">304</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/239398"
