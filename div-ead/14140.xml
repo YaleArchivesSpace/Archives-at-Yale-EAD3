@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/divinity.337">divinity.337</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Rawlinson Family Papers </titleproper>
+            <titleproper localtype="filing">Rawlinson family papers</titleproper>
+            <author>Martha Lund Smalley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Divinity Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline localtype="business">(203) 432-5301</addressline>
+               <addressline localtype="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <ref href="http://web.library.yale.edu/divinity/special-collections"
+                       linktitle="http://web.library.yale.edu/divinity/special-collections"
+                       show="new">http://web.library.yale.edu/divinity/special-collections</ref>
+               </addressline>
+            </address>
+            <date>2026</date>
+            <num>RG 337</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote localtype="onsite">
+               <p>Boxes: 1-7</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency countrycode="US">
+         <agencycode>US-CtY-D</agencycode>
+         <agencyname>Yale Divinity Library</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <rightsdeclaration>
+         <abbr>CC0</abbr>
+         <citation href="https://creativecommons.org/publicdomain/zero/1.0/"/>
+         <descriptivenote>
+            <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
+         </descriptivenote>
+      </rightsdeclaration>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-10-27T18:01:02-04:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 18:01</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/4/resources/14140" level="collection">
+      <did>
+         <unittitle>Rawlinson family papers</unittitle>
+         <unitid>RG 337</unitid>
+         <repository>
+            <corpname>
+               <part>Yale Divinity Library</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>2.7</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <physdesc localtype="container_summary">(7 boxes)</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1902">1902</fromdate>
+               <todate standarddate="1972">1972</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_5bd824a79a8e200d154516e741ea9f0d">Correspondence, writings, and biographical material document the life and work of missionaries Frank J. Rawlinson and his wife Florence Lang Rawlinson. The Rawlinsons were based in Shanghai where Frank was editor of the <title>
+               <part>Chinese Recorder</part>
+            </title> from 1913 to 1937 and Florence was involved in distribution of handwork created by Chinese women in association with missions in China.</abstract>
+         <origination label="Creator">
+            <persname identifier="http://id.loc.gov/authorities/names/nr91004041"
+                      rules="dacs"
+                      source="naf">
+               <part localtype="agent_person">Rawlinson, Frank Joseph, 1871-1937</part>
+            </persname>
+         </origination>
+         <origination label="Creator">
+            <persname rules="local" source="local_divinity">
+               <part localtype="agent_person">Rawlinson, Florence Bodley Lang (1883-1961)</part>
+            </persname>
+         </origination>
+      </did>
+      <bioghist id="aspace_8b8183e1d2d8a7d56e4072ebbd8280e5">
+         <head>Biographical / Historical</head>
+         <p>Frank Joseph Rawlinson was born in England in 1871 and came to the U.S. with his family in 1889. He graduated from Bucknell University in 1899 and married Carrie Mae Dietz, whom he had met at the Southern Baptist church he attended. Rawlinson, with his wife and first son, arrived in China in 1902 and initially served the Central China Mission of the Southern Baptist Convention. After serving as assistant editor for two years, Rawlinson was appointed editor in chief of the <title>
+               <part>Chinese Recorder</part>
+            </title> in 1913 and held that post until his death in 1937. While the family was on furlough in the U.S. in 1917, Carrie Mae Dietz died of a sudden illness, leaving Rawlinson with six children. In July 1917 Rawlinson married Florence Lang whom he had met on the ship to the U.S. as he was returning from China and Florence returning on furlough from her work with the YWCA in India.</p>
+         <p>After Frank received an M.A. from Teachers College, Columbia University, the Rawlinsons returned to China and Frank lectured at the Nanking University School for Missionaries and at the North China Union Language School in Beijing. As he read more widely in the Chinese classics and Buddhist texts, Rawlinson became opposed to missionary dogmatism and was a leader in the more liberal approach to appreciation of Chinese thought and culture. Under Rawlinson, the <title>
+               <part>Chinese Recorder</part>
+            </title> became a forum for debate on theological questions and the political claims of Chinese nationalism. In 1921 Rawlinson was dismissed by the Southern Baptist Mission Board because of his liberal views and interdenominational work, but he was quickly accepted as a missionary of the American Board of Commissioners for Foreign Missions and continued his work, including as organizer of the National Christian Conference held in Shanghai in 1922.</p>
+         <p>While on furlough in the U.S. 1925-1926, Rawlinson studied and lectured as a McFadden Mission Fellow at Union Theological Seminary in New York. Returning to China where Chinese politics had become increasingly nationalistic and anti-Christian, Rawlinson published <title>
+               <part>Chinese Ideas of the Supreme Being</part>
+            </title> (1926) and <title>
+               <part>Naturalization of Christianity in China</part>
+            </title> (1927), which sought to separate Christianity from imperialist domination or capitalist exploitation.</p>
+         <p>Rawlinson died on August 14, 1937 when a Chinese fighter plane that had been damaged by Japanese anti-aircraft fire accidently dropped a bomb on Shanghai, killing more than 1,500 people. At the time of his death <title>
+               <part>Life</part>
+            </title> magazine included photos of Rawlinson and his wife and called him "one of the most influential white men in China," commenting that Rawlinson "felt China could take Christianity without ceasing to be Chinese." Rawlinson's ashes were buried in the Pahsienjao Cemetery in Old Shanghai.</p>
+         <p>Florence Bodley Lang was born in 1883 in Toledo, Ohio. She went to Mumbai, India in 1915 where she served in administrative positions for the YWCA. Having met the Rawlinson family on the boat returning to the U.S. for furlough in 1916, Florence renewed her friendship with Frank Rawlinson when they were both in New York and they were married following the death of Frank's first wife in 1917.  Florence became stepmother to Frank's six children and had three children of her own with him: Ruth, Jean, and John. In addition to overseeing the family household in Shanghai, Florence served as manager of the Industrial Mission Center, a store for distributing Chinese goods and was again in Shanghai for Anking Cross Stitch, which distributed cross stitch and handiwork done by women employed at various missions across China.</p>
+         <p>After her husband's death in 1937 Florence returned to the United States and lived primarily in Hartford, Connecticut where she died in 1961.</p>
+      </bioghist>
+      <arrangement id="aspace_04e580858ecf966229f8ee0fcab2b96f">
+         <head>Arrangement</head>
+         <p>The collection is organized into three series: I. Correspondence; II. Writings; III Biographical material</p>
+      </arrangement>
+      <accessrestrict id="aspace_ae1251807a70b95d616c5c19050112fd">
+         <head>Conditions Governing Access</head>
+         <p>The material is open for research.</p>
+      </accessrestrict>
+      <acqinfo id="aspace_bf7c83df5ae18c18ffbeff3eb60903eb">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of the Rawlinson family.</p>
+      </acqinfo>
+      <scopecontent id="aspace_011bcd86fe9cf88db2bef4dcd5c85c71">
+         <head>Scope and Contents</head>
+         <p>Extensive substantial correspondence from Frank and Florence Rawlinson to family members in Series I provides insight into their life and work as influential missionaries in China. Frank's letters to his wife Florence during periods when they were separated and his letters to his children provide good documentation of his activities, concerns, and personality.  Letters of Florence to her parents dating from 1915 to 1934 document her activities and relationships first in Mumbai, India where she was doing YWCA work and later from Shanghai where she oversaw the Rawlinson household and children as well as working as manager of a store that gathered, sold, and distributed Chinese handiwork in support of mission work with Chinese women. Letters from Florence to her stepchildren and children are detailed and informative about her activities and the daily concerns of the Rawlinson family.</p>
+         <p>In Series II, poems by Frank Rawlinson reveal his creative, insightful character while a selection of more scholarly works gives a glimpse of his work to understand the intersection between the Christian faith and Chinese culture. Rawlinson's writings and editorial work for the <title>
+               <part>The Chinese Recorder</part>
+            </title> sought to set a path for a non-imperialist introduction of Christianity to China. In the Preface to John Lang Rawlinson's biography of his father, historian John King Fairbank wrote that "Frank Rawlinson as editor of <title>
+               <part>The Chinese Recorder</part>
+            </title> had pursued a long struggle to lead Christianity in China into the modern day of nationalism and equal rights." A full bibliography of Rawlinson's writings is available in the biography written by his son.</p>
+         <p>The extensive typescript biography of Rawlinson by John Lang Rawlinson in Series III was published in 1990 as <title>
+               <part>Rawlinson, the Recorder and China's Revolution : a topical biography of Frank Joseph Rawlinson, 1871-1937</part>
+            </title> by Cross Cultural Publications, Inc., Notre Dame, Indiana.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject source="local">
+            <part localtype="topical">Mission</part>
+            <part localtype="geographic">China</part>
+         </subject>
+         <geogname source="local">
+            <part localtype="geographic">China</part>
+            <part localtype="topical">Church history</part>
+            <part localtype="temporal">20th Century</part>
+            <part localtype="genre_form">Periodicals</part>
+         </geogname>
+         <persname identifier="http://id.loc.gov/authorities/names/nr91004041"
+                   rules="dacs"
+                   source="naf">
+            <part localtype="agent_person">Rawlinson, Frank Joseph, 1871-1937</part>
+         </persname>
+         <persname rules="local" source="local_divinity">
+            <part localtype="agent_person">Rawlinson, Florence Bodley Lang (1883-1961)</part>
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/4/archival_objects/4065943"
+            id="aspace_b8235b913756d9a18409de585e143041"
+            level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <c altrender="/repositories/4/archival_objects/4065944"
+               id="aspace_ddc0b8883ed488948b9263fa63c683b2"
+               level="subseries">
+               <did>
+                  <unittitle>Frank J. Rawlinson</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4065946"
+                  id="aspace_d999d76390d332bcb296b6253833e804"
+                  level="subseries">
+                  <did>
+                     <unittitle>Letters to his wife, Florence Lang Rawlinson</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4065947"
+                     id="aspace_32558fe2dbeb19fef10523931f277b6b"
+                     level="file">
+                     <did>
+                        <unittitle>From New Jersey, Shanghai, Nanking [Nanjing]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1917">1917</fromdate>
+                              <todate standarddate="1919">1919</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_32558fe2dbeb19fef10523931f277b6b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_32558fe2dbeb19fef10523931f277b6b_c2"
+                                   localtype="folder"
+                                   parent="aspace_32558fe2dbeb19fef10523931f277b6b_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065948"
+                     id="aspace_1d16306d690d386cc27e54b45e0884b2"
+                     level="file">
+                     <did>
+                        <unittitle>From Nanking [Nanjing], Tientsin [Tianjin], Peking [Beijing]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1920">1920</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_1d16306d690d386cc27e54b45e0884b2_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_1d16306d690d386cc27e54b45e0884b2_c2"
+                                   localtype="folder"
+                                   parent="aspace_1d16306d690d386cc27e54b45e0884b2_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065949"
+                     id="aspace_362a8fbb09313e1877a40ddce8bf67e4"
+                     level="file">
+                     <did>
+                        <unittitle>From Nanking [Nanjing], Peking [Beijing], Shanghai</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1921">1921</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_362a8fbb09313e1877a40ddce8bf67e4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_362a8fbb09313e1877a40ddce8bf67e4_c2"
+                                   localtype="folder"
+                                   parent="aspace_362a8fbb09313e1877a40ddce8bf67e4_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065951"
+                     id="aspace_7492c512770faa39923d6fa3bffe60d0"
+                     level="file">
+                     <did>
+                        <unittitle>From Tientsin [Tianjin] and from World's Student Christian Federation Conference in Peking [Beijing]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1922">1922</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_7492c512770faa39923d6fa3bffe60d0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_7492c512770faa39923d6fa3bffe60d0_c2"
+                                   localtype="folder"
+                                   parent="aspace_7492c512770faa39923d6fa3bffe60d0_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065952"
+                     id="aspace_496f89df2af48457edc15c195fdcc76b"
+                     level="file">
+                     <did>
+                        <unittitle>From Tientsin [Tianjin], Chefoo [Yantai], Peking [Beijing]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1923">1923</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_496f89df2af48457edc15c195fdcc76b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_496f89df2af48457edc15c195fdcc76b_c2"
+                                   localtype="folder"
+                                   parent="aspace_496f89df2af48457edc15c195fdcc76b_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065953"
+                     id="aspace_4d66d7e04a6467ac87ff0b4224f4a0bc"
+                     level="file">
+                     <did>
+                        <unittitle>From Nanking [Nanjing], Peking {Beijing], Union Theological Seminary in New York</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1924">1924</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_4d66d7e04a6467ac87ff0b4224f4a0bc_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_4d66d7e04a6467ac87ff0b4224f4a0bc_c2"
+                                   localtype="folder"
+                                   parent="aspace_4d66d7e04a6467ac87ff0b4224f4a0bc_c1">6</container>
+                     </did>
+                     <scopecontent id="aspace_37a342b0361627bb0d8397bd2d7734a0">
+                        <head>Scope and Contents</head>
+                        <p>Includes tentative outline of Rawlinson's work "The Naturalization of Christian in China."</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065954"
+                     id="aspace_fded1ea70a7a688201f64ca99626aea2"
+                     level="file">
+                     <did>
+                        <unittitle>Including from Shantung [Shandong]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1926">1926</fromdate>
+                              <todate standarddate="1927">1927</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_fded1ea70a7a688201f64ca99626aea2_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_fded1ea70a7a688201f64ca99626aea2_c2"
+                                   localtype="folder"
+                                   parent="aspace_fded1ea70a7a688201f64ca99626aea2_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065955"
+                     id="aspace_bda0772a335548147e28f284b2b2ba5b"
+                     level="file">
+                     <did>
+                        <unittitle>From trip to the U.S., enroute back to China, and Shanghai</unittitle>
+                        <unitdatestructured altrender="1932 December - 1933 April"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932-12">1932 December</fromdate>
+                              <todate standarddate="1933-04">1933 April</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_bda0772a335548147e28f284b2b2ba5b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_bda0772a335548147e28f284b2b2ba5b_c2"
+                                   localtype="folder"
+                                   parent="aspace_bda0772a335548147e28f284b2b2ba5b_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065956"
+                     id="aspace_253ef89594e74a14f9d762fb1d17bc8e"
+                     level="file">
+                     <did>
+                        <unittitle>Including from meetings of the National Christian Council</unittitle>
+                        <unitdatestructured altrender="1933 May - August"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1933-05">1933 May</fromdate>
+                              <todate standarddate="1933-08">1933 August</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_253ef89594e74a14f9d762fb1d17bc8e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_253ef89594e74a14f9d762fb1d17bc8e_c2"
+                                   localtype="folder"
+                                   parent="aspace_253ef89594e74a14f9d762fb1d17bc8e_c1">9-10</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065957"
+                     id="aspace_3e2beaca63ad80667f67767be805b0dd"
+                     level="file">
+                     <did>
+                        <unittitle>From the U.S. and enroute</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1936">1936</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_3e2beaca63ad80667f67767be805b0dd_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_3e2beaca63ad80667f67767be805b0dd_c2"
+                                   localtype="folder"
+                                   parent="aspace_3e2beaca63ad80667f67767be805b0dd_c1">11</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4065958"
+                  id="aspace_302cfecc9c451155073ba494be485803"
+                  level="subseries">
+                  <did>
+                     <unittitle>Letters to his children</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4065959"
+                     id="aspace_60eb92a2e2589ec18602130553d03d6a"
+                     level="file">
+                     <did>
+                        <unittitle>Primarily to daughter Marjorie</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1917">1917</fromdate>
+                              <todate standarddate="1925">1925</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_60eb92a2e2589ec18602130553d03d6a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_60eb92a2e2589ec18602130553d03d6a_c2"
+                                   localtype="folder"
+                                   parent="aspace_60eb92a2e2589ec18602130553d03d6a_c1">12-15</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065960"
+                     id="aspace_0608828af1143e767161320a013b8cf6"
+                     level="file">
+                     <did>
+                        <unittitle>Circular letters and to individual children and their spouses</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1926">1926</fromdate>
+                              <todate standarddate="1937">1937</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_0608828af1143e767161320a013b8cf6_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_0608828af1143e767161320a013b8cf6_c2"
+                                   localtype="folder"
+                                   parent="aspace_0608828af1143e767161320a013b8cf6_c1">16-21</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065961"
+                     id="aspace_de012ea017573ceaf49dab779f15ba2e"
+                     level="file">
+                     <did>
+                        <unittitle>From son Delmar</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1919">1919</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_de012ea017573ceaf49dab779f15ba2e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_de012ea017573ceaf49dab779f15ba2e_c2"
+                                   localtype="folder"
+                                   parent="aspace_de012ea017573ceaf49dab779f15ba2e_c1">22</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4065962"
+                  id="aspace_cadb58f20455f5a104437475ebcb258d"
+                  level="subseries">
+                  <did>
+                     <unittitle>Non-family correspondence</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4065964"
+                     id="aspace_b3343df8cc4c829e69b38d3fd7343dda"
+                     level="file">
+                     <did>
+                        <unittitle>Letter from Guy C. Stockton</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1923">1923</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_b3343df8cc4c829e69b38d3fd7343dda_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_b3343df8cc4c829e69b38d3fd7343dda_c2"
+                                   localtype="folder"
+                                   parent="aspace_b3343df8cc4c829e69b38d3fd7343dda_c1">23</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065963"
+                     id="aspace_7e0f527c1bb17b1a615ad532604a7c98"
+                     level="file">
+                     <did>
+                        <unittitle>Circular letter regarding political unrest in Shanghai</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1927">1927</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485597 /locations/2"
+                                   containerid="39002112327334"
+                                   id="aspace_7e0f527c1bb17b1a615ad532604a7c98_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">1</container>
+                        <container id="aspace_7e0f527c1bb17b1a615ad532604a7c98_c2"
+                                   localtype="folder"
+                                   parent="aspace_7e0f527c1bb17b1a615ad532604a7c98_c1">24</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068828"
+                  id="aspace_8cc64ab9bde7010f56a7caab28a065b6"
+                  level="subseries">
+                  <did>
+                     <unittitle>Correspondence from Southern Baptist Convention Foreign Mission Board</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4068829"
+                     id="aspace_93614e630c22904601f6ad709d84ebf7"
+                     level="file">
+                     <did>
+                        <unittitle>One reel of microfilm labeled "Correspondence 1902-1924" from Southern Baptist "Deceased or Resigned Missionary File"</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1902">1902</fromdate>
+                              <todate standarddate="1924">1924</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485734 /locations/2"
+                                   containerid="39002112327391"
+                                   id="aspace_93614e630c22904601f6ad709d84ebf7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">7</container>
+                        <container id="aspace_93614e630c22904601f6ad709d84ebf7_c2"
+                                   localtype="folder"
+                                   parent="aspace_93614e630c22904601f6ad709d84ebf7_c1">1</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4065965"
+               id="aspace_7f61f60d87a3ec8e3a87ecb3c9d99e0b"
+               level="subseries">
+               <did>
+                  <unittitle>Florence Lang Rawlinson</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4065966"
+                  id="aspace_fe1ef77fbaec8b94a9e605c4598bb070"
+                  level="subseries">
+                  <did>
+                     <unittitle>Letters to her parents</unittitle>
+                  </did>
+                  <scopecontent id="aspace_075b06241928aea4241a8154b4b7c7b7">
+                     <head>Scope and Contents</head>
+                     <p>The letters are primarily addressed to her mother.</p>
+                  </scopecontent>
+                  <c altrender="/repositories/4/archival_objects/4065967"
+                     id="aspace_c25e7405472c20f41741fb4110760c66"
+                     level="file">
+                     <did>
+                        <unittitle>From Bombay [Mumbai], offices of the National Young Women's Christian Association of India, Burma, and Ceylon</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1915">1915</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_c25e7405472c20f41741fb4110760c66_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_c25e7405472c20f41741fb4110760c66_c2"
+                                   localtype="folder"
+                                   parent="aspace_c25e7405472c20f41741fb4110760c66_c1">1-2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065968"
+                     id="aspace_39de3cc0cc12cc911216ad3af2257047"
+                     level="file">
+                     <did>
+                        <unittitle>From Bombay [Mumbai] and enroute to the U.S. for furlough</unittitle>
+                        <unitdatestructured altrender="1916 January-February"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1916-01">1916 January</fromdate>
+                              <todate standarddate="1916-02">1916 February</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_39de3cc0cc12cc911216ad3af2257047_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_39de3cc0cc12cc911216ad3af2257047_c2"
+                                   localtype="folder"
+                                   parent="aspace_39de3cc0cc12cc911216ad3af2257047_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4065969"
+                     id="aspace_f4965519f706d5409e33d67f810d9945"
+                     level="file">
+                     <did>
+                        <unittitle>From New York, including regarding beginning of friendship with Frank Rawlinson</unittitle>
+                        <unitdatestructured altrender="1916 November - 1917 May"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1916-11">1916 November</fromdate>
+                              <todate standarddate="1917-05">1917 May</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_f4965519f706d5409e33d67f810d9945_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_f4965519f706d5409e33d67f810d9945_c2"
+                                   localtype="folder"
+                                   parent="aspace_f4965519f706d5409e33d67f810d9945_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066153"
+                     id="aspace_6ea0c2922044f030de89c62687f08f4b"
+                     level="file">
+                     <did>
+                        <unittitle>Enroute to China and from Shanghai</unittitle>
+                        <unitdatestructured altrender="1917 August - 1922"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1917-08">1917 August</fromdate>
+                              <todate standarddate="1922">1922</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_6ea0c2922044f030de89c62687f08f4b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_6ea0c2922044f030de89c62687f08f4b_c2"
+                                   localtype="folder"
+                                   parent="aspace_6ea0c2922044f030de89c62687f08f4b_c1">5-8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066154"
+                     id="aspace_1bde6be7acc51fb647242ce86987b87a"
+                     level="file">
+                     <did>
+                        <unittitle>Enroute to China following furlough</unittitle>
+                        <unitdatestructured altrender="1925 August" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1925-08">1925 August</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_1bde6be7acc51fb647242ce86987b87a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_1bde6be7acc51fb647242ce86987b87a_c2"
+                                   localtype="folder"
+                                   parent="aspace_1bde6be7acc51fb647242ce86987b87a_c1">9</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066157"
+                     id="aspace_29553c0949712bdd2914797c4e8431ad"
+                     level="file">
+                     <did>
+                        <unittitle>From Shanghai</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1926">1926</fromdate>
+                              <todate standarddate="1927">1927</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_29553c0949712bdd2914797c4e8431ad_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_29553c0949712bdd2914797c4e8431ad_c2"
+                                   localtype="folder"
+                                   parent="aspace_29553c0949712bdd2914797c4e8431ad_c1">10-12</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066158"
+                     id="aspace_82dd5b09eee1fd1e06099d7e351022e9"
+                     level="file">
+                     <did>
+                        <unittitle>From Shanghai</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1928">1928</fromdate>
+                              <todate standarddate="1930">1930</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_82dd5b09eee1fd1e06099d7e351022e9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_82dd5b09eee1fd1e06099d7e351022e9_c2"
+                                   localtype="folder"
+                                   parent="aspace_82dd5b09eee1fd1e06099d7e351022e9_c1">13-17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066159"
+                     id="aspace_d754d7950b21586a2fe9dc9195a3faa0"
+                     level="file">
+                     <did>
+                        <unittitle>From Shanghai</unittitle>
+                        <unitdatestructured altrender="1932, 1934" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932">1932</fromdate>
+                              <todate standarddate="1934">1934</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485598 /locations/2"
+                                   containerid="39002112327342"
+                                   id="aspace_d754d7950b21586a2fe9dc9195a3faa0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">2</container>
+                        <container id="aspace_d754d7950b21586a2fe9dc9195a3faa0_c2"
+                                   localtype="folder"
+                                   parent="aspace_d754d7950b21586a2fe9dc9195a3faa0_c1">18</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4066160"
+                  id="aspace_af1694e25c905a16420a186ab3867d57"
+                  level="subseries">
+                  <did>
+                     <unittitle>Letters to and from children</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4066164"
+                     id="aspace_4a4e1805a48d29087bb1b66b73e7b362"
+                     level="file">
+                     <did>
+                        <unittitle>To Marjorie from Shanghai</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1921">1921</fromdate>
+                              <todate standarddate="1923">1923</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485612 /locations/2"
+                                   containerid="39002112327359"
+                                   id="aspace_4a4e1805a48d29087bb1b66b73e7b362_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">3</container>
+                        <container id="aspace_4a4e1805a48d29087bb1b66b73e7b362_c2"
+                                   localtype="folder"
+                                   parent="aspace_4a4e1805a48d29087bb1b66b73e7b362_c1">1-4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066165"
+                     id="aspace_7706e6383ebe8e9e1b750424bb7e06db"
+                     level="file">
+                     <did>
+                        <unittitle>To Marjorie primarily from Shanghai and enroute to and from U.S., </unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1924">1924</fromdate>
+                              <todate standarddate="1929">1929</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485612 /locations/2"
+                                   containerid="39002112327359"
+                                   id="aspace_7706e6383ebe8e9e1b750424bb7e06db_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">3</container>
+                        <container id="aspace_7706e6383ebe8e9e1b750424bb7e06db_c2"
+                                   localtype="folder"
+                                   parent="aspace_7706e6383ebe8e9e1b750424bb7e06db_c1">5-9</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066166"
+                     id="aspace_59efe044c24115791c246cc4b73f9410"
+                     level="file">
+                     <did>
+                        <unittitle>To Marjorie from Shanghai</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932">1932</fromdate>
+                              <todate standarddate="1937">1937</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485612 /locations/2"
+                                   containerid="39002112327359"
+                                   id="aspace_59efe044c24115791c246cc4b73f9410_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">3</container>
+                        <container id="aspace_59efe044c24115791c246cc4b73f9410_c2"
+                                   localtype="folder"
+                                   parent="aspace_59efe044c24115791c246cc4b73f9410_c1">10-12</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066169"
+                     id="aspace_c5bb9615e2e64cdaa2759f5d7657fd61"
+                     level="file">
+                     <did>
+                        <unittitle>To Alfred and his wife Mary from Indiana, Shanghai, and Hartford, Connecticut</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932">1932</fromdate>
+                              <todate standarddate="1952">1952</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485612 /locations/2"
+                                   containerid="39002112327359"
+                                   id="aspace_c5bb9615e2e64cdaa2759f5d7657fd61_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">3</container>
+                        <container id="aspace_c5bb9615e2e64cdaa2759f5d7657fd61_c2"
+                                   localtype="folder"
+                                   parent="aspace_c5bb9615e2e64cdaa2759f5d7657fd61_c1">13</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066174"
+                     id="aspace_b78a5328986782bf0759923325bed5d5"
+                     level="file">
+                     <did>
+                        <unittitle>To Ruth</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1932">1932</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485612 /locations/2"
+                                   containerid="39002112327359"
+                                   id="aspace_b78a5328986782bf0759923325bed5d5_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">3</container>
+                        <container id="aspace_b78a5328986782bf0759923325bed5d5_c2"
+                                   localtype="folder"
+                                   parent="aspace_b78a5328986782bf0759923325bed5d5_c1">14</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066184"
+                     id="aspace_3352b71747d52fc28a7ab4740dca8e6c"
+                     level="file">
+                     <did>
+                        <unittitle>From Ruth to mother Florence and other family members</unittitle>
+                        <unitdatestructured altrender="1927, 1936-1940"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1927">1927</fromdate>
+                              <todate standarddate="1940">1940</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485612 /locations/2"
+                                   containerid="39002112327359"
+                                   id="aspace_3352b71747d52fc28a7ab4740dca8e6c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">3</container>
+                        <container id="aspace_3352b71747d52fc28a7ab4740dca8e6c_c2"
+                                   localtype="folder"
+                                   parent="aspace_3352b71747d52fc28a7ab4740dca8e6c_c1">15-17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066181"
+                     id="aspace_8748e3ebb56879051d1f366474d12226"
+                     level="file">
+                     <did>
+                        <unittitle>From other children and grandchildren</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1917">1917</fromdate>
+                              <todate standarddate="1932">1932</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485612 /locations/2"
+                                   containerid="39002112327359"
+                                   id="aspace_8748e3ebb56879051d1f366474d12226_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">3</container>
+                        <container id="aspace_8748e3ebb56879051d1f366474d12226_c2"
+                                   localtype="folder"
+                                   parent="aspace_8748e3ebb56879051d1f366474d12226_c1">18</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4066189"
+                  id="aspace_47bf44f9bd6879eaa1e3e8ce43622acd"
+                  level="subseries">
+                  <did>
+                     <unittitle>Other correspondence</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/4066196"
+                     id="aspace_1876949120f33ab1aea45353edd1179b"
+                     level="file">
+                     <did>
+                        <unittitle>Florence to Miss M.E. Paddock / friend</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1910">1910</fromdate>
+                              <todate standarddate="1927">1927</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                   containerid="39002112327367"
+                                   id="aspace_1876949120f33ab1aea45353edd1179b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">4</container>
+                        <container id="aspace_1876949120f33ab1aea45353edd1179b_c2"
+                                   localtype="folder"
+                                   parent="aspace_1876949120f33ab1aea45353edd1179b_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066198"
+                     id="aspace_04ac66713c2899913a713b8e975f2562"
+                     level="file">
+                     <did>
+                        <unittitle>Florence to extended family</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1917">1917</fromdate>
+                              <todate standarddate="1931">1931</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                   containerid="39002112327367"
+                                   id="aspace_04ac66713c2899913a713b8e975f2562_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">4</container>
+                        <container id="aspace_04ac66713c2899913a713b8e975f2562_c2"
+                                   localtype="folder"
+                                   parent="aspace_04ac66713c2899913a713b8e975f2562_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066199"
+                     id="aspace_e6ef443870858e964e4e0ce1c7780c14"
+                     level="file">
+                     <did>
+                        <unittitle>To / from Florence's mother, including one from Frank Rawlinson</unittitle>
+                        <unitdatestructured altrender="1927, 1940, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1927">1927</fromdate>
+                              <todate standarddate="1940">1940</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                   containerid="39002112327367"
+                                   id="aspace_e6ef443870858e964e4e0ce1c7780c14_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">4</container>
+                        <container id="aspace_e6ef443870858e964e4e0ce1c7780c14_c2"
+                                   localtype="folder"
+                                   parent="aspace_e6ef443870858e964e4e0ce1c7780c14_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066202"
+                     id="aspace_e5b27685f8afb9d4cda1acabda7d8635"
+                     level="file">
+                     <did>
+                        <unittitle>To Florence from Mary Gamewell, Brewer Eddy</unittitle>
+                        <unitdatestructured altrender="1935, undated" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1935">1935, undated</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                   containerid="39002112327367"
+                                   id="aspace_e5b27685f8afb9d4cda1acabda7d8635_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">4</container>
+                        <container id="aspace_e5b27685f8afb9d4cda1acabda7d8635_c2"
+                                   localtype="folder"
+                                   parent="aspace_e5b27685f8afb9d4cda1acabda7d8635_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4066206"
+                     id="aspace_fc431b3cad83ea6392e5d68da6aa3564"
+                     level="file">
+                     <did>
+                        <unittitle>To "Friends" from Bert Szechuen [Sichuan]</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1938">1938</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                   containerid="39002112327367"
+                                   id="aspace_fc431b3cad83ea6392e5d68da6aa3564_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">4</container>
+                        <container id="aspace_fc431b3cad83ea6392e5d68da6aa3564_c2"
+                                   localtype="folder"
+                                   parent="aspace_fc431b3cad83ea6392e5d68da6aa3564_c1">5</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+         </c>
+         <c altrender="/repositories/4/archival_objects/4066209"
+            id="aspace_015c30fe4fb9594d2cc67d64dfd9b8e9"
+            level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+            </did>
+            <c altrender="/repositories/4/archival_objects/4066210"
+               id="aspace_f43dd821932aa469b98921eaa1a163ff"
+               level="subseries">
+               <did>
+                  <unittitle>By Frank Rawlinson</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4066224"
+                  id="aspace_265062e91a3f0259e7c380d14c4d70a8"
+                  level="file">
+                  <did>
+                     <unittitle>Poems</unittitle>
+                     <unitdatestructured altrender="1925-1930, undated"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1925">1925</fromdate>
+                           <todate standarddate="1930">1930</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                containerid="39002112327367"
+                                id="aspace_265062e91a3f0259e7c380d14c4d70a8_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_265062e91a3f0259e7c380d14c4d70a8_c2"
+                                localtype="folder"
+                                parent="aspace_265062e91a3f0259e7c380d14c4d70a8_c1">6</container>
+                  </did>
+                  <scopecontent id="aspace_d9e6e86e3d795fea1b0e348b8f2b4373">
+                     <head>Scope and Contents</head>
+                     <p>Includes booklet of poems selected by John and Jane Rawlinson and sent to the Rawlinson family for Christmas 1948.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4066225"
+                  id="aspace_a74c381426bda11c11d733b90f28ca77"
+                  level="file">
+                  <did>
+                     <unittitle>Articles and booklet</unittitle>
+                     <unitdatestructured altrender="1931, undated" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1931">1931, undated</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                containerid="39002112327367"
+                                id="aspace_a74c381426bda11c11d733b90f28ca77_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_a74c381426bda11c11d733b90f28ca77_c2"
+                                localtype="folder"
+                                parent="aspace_a74c381426bda11c11d733b90f28ca77_c1">7</container>
+                  </did>
+                  <scopecontent id="aspace_a8eef19893f4d31da0303f5250a195d8">
+                     <head>Scope and Contents</head>
+                     <p>"The Struggle Over the Religious Liberty of the Chinese Child" (<title>
+                           <part>The Chinese Recorder</part>
+                        </title>), April 1931; "China Opens the Door (<title>
+                           <part>The Christian Century</part>
+                        </title> (August 1937); "Progressive Ideals of Christian Work in China", booklet of essays edited by Rawlinson (undated)</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4066227"
+                  id="aspace_864ddb49db3af876c18f8cea5c7e6d6d"
+                  level="file">
+                  <did>
+                     <unittitle>Letter to the editor of the <title>
+                           <part>North China Daily News</part>
+                        </title>: "Prevent Cruelty to Men"</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                containerid="39002112327367"
+                                id="aspace_864ddb49db3af876c18f8cea5c7e6d6d_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_864ddb49db3af876c18f8cea5c7e6d6d_c2"
+                                localtype="folder"
+                                parent="aspace_864ddb49db3af876c18f8cea5c7e6d6d_c1">8</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066230"
+               id="aspace_31d5d4f9f74f6f4dde2c3238a2812051"
+               level="subseries">
+               <did>
+                  <unittitle>By Ruth Rawlinson Bergengren</unittitle>
+               </did>
+               <c altrender="/repositories/4/archival_objects/4066231"
+                  id="aspace_c5e3d37cd94d6b5da909a362220311ce"
+                  level="file">
+                  <did>
+                     <unittitle>Untitled talk regarding missions</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1963">1963</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                                containerid="39002112327367"
+                                id="aspace_c5e3d37cd94d6b5da909a362220311ce_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_c5e3d37cd94d6b5da909a362220311ce_c2"
+                                localtype="folder"
+                                parent="aspace_c5e3d37cd94d6b5da909a362220311ce_c1">9</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c altrender="/repositories/4/archival_objects/4066234"
+            id="aspace_9b9212bcd6423984311d3647fcb0ff0c"
+            level="series">
+            <did>
+               <unittitle>Biographical material</unittitle>
+               <unitid>Series III</unitid>
+            </did>
+            <c altrender="/repositories/4/archival_objects/4066235"
+               id="aspace_4fb6b66f4d7cd46e3e73c2fafbf3e8c2"
+               level="file">
+               <did>
+                  <unittitle>Genealogical material of Lang family and Rawlinson coat of arms</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                             containerid="39002112327367"
+                             id="aspace_4fb6b66f4d7cd46e3e73c2fafbf3e8c2_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_4fb6b66f4d7cd46e3e73c2fafbf3e8c2_c2"
+                             localtype="folder"
+                             parent="aspace_4fb6b66f4d7cd46e3e73c2fafbf3e8c2_c1">10</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066253"
+               id="aspace_828a68455ded69693ca5896e37ca4f2b"
+               level="file">
+               <did>
+                  <unittitle>Family tree, descendants of Job Conger and Mary Carrington</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/4/top_containers/485734 /locations/2"
+                             containerid="39002112327391"
+                             id="aspace_828a68455ded69693ca5896e37ca4f2b_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_828a68455ded69693ca5896e37ca4f2b_c2"
+                             localtype="folder"
+                             parent="aspace_828a68455ded69693ca5896e37ca4f2b_c1">2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066257"
+               id="aspace_412a3c7bf491894010fa4c490b4ec0d5"
+               level="file">
+               <did>
+                  <unittitle>Tributes and documentation related to death of Frank Rawlinson</unittitle>
+                  <unitdatestructured altrender="1937, 1940" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1937">1937</fromdate>
+                        <todate standarddate="1940">1940</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485734 /locations/2"
+                             containerid="39002112327391"
+                             id="aspace_412a3c7bf491894010fa4c490b4ec0d5_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_412a3c7bf491894010fa4c490b4ec0d5_c2"
+                             localtype="folder"
+                             parent="aspace_412a3c7bf491894010fa4c490b4ec0d5_c1">3</container>
+               </did>
+               <scopecontent id="aspace_f037ce17914d705c186ec60d38d65b53">
+                  <head>Scope and Contents</head>
+                  <p>Includes August 30, 1937 issue of <title>
+                        <part>Life</part>
+                     </title> magazine with photos of Rawlinsons and notice of his death.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066261"
+               id="aspace_a8c792026af55057e42c92a4777da2b3"
+               level="file">
+               <did>
+                  <unittitle>"Frank Joseph Rawlinson  - a Bio-Bibliography" by Helen Ann Rawlinson</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1972">1972</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                             containerid="39002112327367"
+                             id="aspace_a8c792026af55057e42c92a4777da2b3_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_a8c792026af55057e42c92a4777da2b3_c2"
+                             localtype="folder"
+                             parent="aspace_a8c792026af55057e42c92a4777da2b3_c1">10</container>
+               </did>
+               <scopecontent id="aspace_b51f5feb9998b1757b96b98c5038a187">
+                  <head>Scope and Contents</head>
+                  <p>Helen Rawlinson was the granddaughter of Frank Rawlinson.</p>
+               </scopecontent>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066268"
+               id="aspace_da125ee9c52e31f6161b4b071c4db0b5"
+               level="file">
+               <did>
+                  <unittitle>Typescript manuscript of work by John Rawlinson published as <title>
+                        <part>Rawlinson, the Recorder and China's revolution : a topical biography of Frank Joseph Rawlinson, 1871-1937</part>
+                     </title>  pages 1-492</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1983">1983</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485617 /locations/2"
+                             containerid="39002112327367"
+                             id="aspace_da125ee9c52e31f6161b4b071c4db0b5_c1"
+                             label="Mixed Materials"
+                             localtype="box">4</container>
+                  <container id="aspace_da125ee9c52e31f6161b4b071c4db0b5_c2"
+                             localtype="folder"
+                             parent="aspace_da125ee9c52e31f6161b4b071c4db0b5_c1">11-13</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066277"
+               id="aspace_fa3c3ce397e025ebc046804ea0d88db5"
+               level="file">
+               <did>
+                  <unittitle>Typescript manuscript of work by John Rawlinson published as <title>
+                        <part>Rawlinson, the Recorder and China's revolution : a topical biography of Frank Joseph Rawlinson, 1871-1937</part>
+                     </title>  pages 493-1040</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1983">1983</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485619 /locations/2"
+                             containerid="39002112327375"
+                             id="aspace_fa3c3ce397e025ebc046804ea0d88db5_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_fa3c3ce397e025ebc046804ea0d88db5_c2"
+                             localtype="folder"
+                             parent="aspace_fa3c3ce397e025ebc046804ea0d88db5_c1">1-4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066278"
+               id="aspace_2e32a9343485c7f6f517c967d7c03ba4"
+               level="file">
+               <did>
+                  <unittitle>Typescript manuscript of work by John Rawlinson published as <title>
+                        <part>Rawlinson, the Recorder and China's revolution : a topical biography of Frank Joseph Rawlinson, 1871-1937</part>
+                     </title>  Footnotes to chapters  I - X</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1983">1983</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485619 /locations/2"
+                             containerid="39002112327375"
+                             id="aspace_2e32a9343485c7f6f517c967d7c03ba4_c1"
+                             label="Mixed Materials"
+                             localtype="box">5</container>
+                  <container id="aspace_2e32a9343485c7f6f517c967d7c03ba4_c2"
+                             localtype="folder"
+                             parent="aspace_2e32a9343485c7f6f517c967d7c03ba4_c1">5</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066279"
+               id="aspace_33d26868bb21ee10708db00ef5910af4"
+               level="file">
+               <did>
+                  <unittitle>Typescript manuscript of work by John Rawlinson published as <title>
+                        <part>Rawlinson, the Recorder and China's revolution : a topical biography of Frank Joseph Rawlinson, 1871-1937</part>
+                     </title>  Footnotes to chapters  XI-XXVII</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1983">1983</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485620 /locations/2"
+                             containerid="39002112327383"
+                             id="aspace_33d26868bb21ee10708db00ef5910af4_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_33d26868bb21ee10708db00ef5910af4_c2"
+                             localtype="folder"
+                             parent="aspace_33d26868bb21ee10708db00ef5910af4_c1">1-2</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066280"
+               id="aspace_66bb357d100f64383bbff8243a139f27"
+               level="file">
+               <did>
+                  <unittitle>Typescript manuscript of work by John Rawlinson published as <title>
+                        <part>Rawlinson, the Recorder and China's revolution : a topical biography of Frank Joseph Rawlinson, 1871-1937</part>
+                     </title> - Bibliography of works by Frank Rawlinson</unittitle>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1983">1983</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/485620 /locations/2"
+                             containerid="39002112327383"
+                             id="aspace_66bb357d100f64383bbff8243a139f27_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_66bb357d100f64383bbff8243a139f27_c2"
+                             localtype="folder"
+                             parent="aspace_66bb357d100f64383bbff8243a139f27_c1">3</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4066281"
+               id="aspace_1d28208fb0ba295949f0a0aa9c668f7c"
+               level="file">
+               <did>
+                  <unittitle>Photograph of Rawlinson home at 178 N. Szechuen Road, Shanghai</unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                  <container altrender="/repositories/4/top_containers/485620 /locations/2"
+                             containerid="39002112327383"
+                             id="aspace_1d28208fb0ba295949f0a0aa9c668f7c_c1"
+                             label="Mixed Materials"
+                             localtype="box">6</container>
+                  <container id="aspace_1d28208fb0ba295949f0a0aa9c668f7c_c2"
+                             localtype="folder"
+                             parent="aspace_1d28208fb0ba295949f0a0aa9c668f7c_c1">4</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

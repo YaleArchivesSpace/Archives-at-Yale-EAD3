@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-50</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: 51</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-23T18:00:13-04:00</eventdatetime>
+            <eventdatetime>2026-10-27T18:00:29-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 23, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -4099,6 +4102,29 @@ Series VIII, Grant, contains documentation of grant projects.</p>
                <did>
                   <unittitle>Board Meeting, June 2024</unittitle>
                </did>
+               <c altrender="/repositories/4/archival_objects/4068830"
+                  id="aspace_495689229a3bde46fa3f7593f15c6e6e"
+                  level="file">
+                  <did>
+                     <unittitle>Minutes and docket</unittitle>
+                     <unitdatestructured altrender="2025 June 17-18"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="2025-06-17">2025 June 17</fromdate>
+                           <todate standarddate="2025-06-18">2025 June 18</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/485733"
+                                containerid="39002144681443"
+                                id="aspace_495689229a3bde46fa3f7593f15c6e6e_c1"
+                                label="Mixed Materials"
+                                localtype="box">51</container>
+                     <container id="aspace_495689229a3bde46fa3f7593f15c6e6e_c2"
+                                localtype="folder"
+                                parent="aspace_495689229a3bde46fa3f7593f15c6e6e_c1">1</container>
+                  </did>
+               </c>
                <c altrender="/repositories/4/archival_objects/4066608"
                   id="aspace_90106b9ab207a4b72c09b1911edae667"
                   level="file">
