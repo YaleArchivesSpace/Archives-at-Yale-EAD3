@@ -42,7 +42,7 @@
                <p>Boxes: 1-76</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="131">131</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="297">297</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="132">132</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="298">298</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-23T23:01:41-04:00</eventdatetime>
+            <eventdatetime>2026-10-26T23:05:31-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 23, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -40163,6 +40163,27 @@
                            <container id="aspace_ref3385_c2"
                                       localtype="folder"
                                       parent="aspace_ref3385_c1">2356</container>
+                           <daoset altrender="/repositories/11/digital_objects/362852">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                   identifier="oid:33837538"
+                                   linktitle="1 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33837538"
+                                   identifier="oid:33837538"
+                                   linktitle="1 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>Canoes on a water shore</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                      </c>
                      <c altrender="/repositories/11/archival_objects/244284"

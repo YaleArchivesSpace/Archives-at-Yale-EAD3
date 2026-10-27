@@ -74,10 +74,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-30T23:03:37-04:00</eventdatetime>
+            <eventdatetime>2026-10-26T23:03:33-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 23:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 23:03</eventdescription>
+         </maintenanceevent>
+         <maintenanceevent>
+            <eventtype value="revised"/>
+            <eventdatetime>September 2026</eventdatetime>
+            <agenttype value="unknown"/>
+            <agent/>
+            <eventdescription>Finding aid updated by Tina Evans to describe material returned from Printed Acquisitions.</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -873,6 +880,29 @@
                              localtype="folder"
                              parent="aspace_05cbeeac6f28b5e1a361c50aecbda7fd_c1">25</container>
                </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4052841"
+               id="aspace_9f31fd228092fe7e7e54c894dbdda4c9"
+               level="file">
+               <did>
+                  <unittitle>Corbett, William</unittitle>
+                  <unitdatestructured altrender="1975 April 28" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1975-04-28">1975 April 28</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/484745 /locations/9"
+                             containerid="39002104917894"
+                             encodinganalog="archive half legal"
+                             id="aspace_9f31fd228092fe7e7e54c894dbdda4c9_c1"
+                             label="Mixed Materials"
+                             localtype="box">39</container>
+                  <container id="aspace_9f31fd228092fe7e7e54c894dbdda4c9_c2"
+                             localtype="folder"
+                             parent="aspace_9f31fd228092fe7e7e54c894dbdda4c9_c1">1</container>
+               </did>
+               <scopecontent id="aspace_4675dd511404af6ad020dbfc341d606f">
+                  <head>Scope and Contents</head>
+                  <p>The file contains material returned from Printed Acquisitions to be added to the collection.</p>
+               </scopecontent>
             </c>
             <c altrender="/repositories/11/archival_objects/3402475"
                id="aspace_9d8c3b5cf70f10f6186360901613e7ac"
@@ -5014,6 +5044,36 @@
                                 parent="aspace_0cdb0cd6c813a65f4b66fa9d6e3922bc_c1">254</container>
                   </did>
                </c>
+               <c altrender="/repositories/11/archival_objects/4052848"
+                  id="aspace_f6379a2f956ed819c3f4c8fff6ba0d64"
+                  level="file">
+                  <did>
+                     <unittitle>House organ</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>4</quantity>
+                        <unittype>Folders</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1965-2011" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1965">1965</fromdate>
+                           <todate standarddate="2011">2011</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484745 /locations/9"
+                                containerid="39002104917894"
+                                encodinganalog="archive half legal"
+                                id="aspace_f6379a2f956ed819c3f4c8fff6ba0d64_c1"
+                                label="Mixed Materials"
+                                localtype="box">39</container>
+                     <container id="aspace_f6379a2f956ed819c3f4c8fff6ba0d64_c2"
+                                localtype="folder"
+                                parent="aspace_f6379a2f956ed819c3f4c8fff6ba0d64_c1">2-5</container>
+                  </did>
+                  <scopecontent id="aspace_9032d3a59318d0d83fb4859a3989fb37">
+                     <head>Scope and Contents</head>
+                     <p>The files contain copies of House organ, numbers 12, 17, 37, 39-40, 43-44, 47, 69, 73. Some issues contain works by Thomas Meyer.</p>
+                  </scopecontent>
+               </c>
                <c altrender="/repositories/11/archival_objects/3402671"
                   id="aspace_8e19136d8c56f17f907bca8bd30177e6"
                   level="file">
@@ -7626,6 +7686,29 @@
                                 localtype="folder"
                                 parent="aspace_abd8fe120af610bb318cdb21f9cc143f_c1">437</container>
                   </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4052880"
+                  id="aspace_0bcf49fa4a3a350c5fcd557071ee2ce3"
+                  level="file">
+                  <did>
+                     <unittitle>Unidentified author: *MSP For Tom Meyer. March 1990 One of the Copydex series</unittitle>
+                     <unitdatestructured altrender="1990 March" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1990-03">1990 March</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/484745 /locations/9"
+                                containerid="39002104917894"
+                                encodinganalog="archive half legal"
+                                id="aspace_0bcf49fa4a3a350c5fcd557071ee2ce3_c1"
+                                label="Mixed Materials"
+                                localtype="box">39</container>
+                     <container id="aspace_0bcf49fa4a3a350c5fcd557071ee2ce3_c2"
+                                localtype="folder"
+                                parent="aspace_0bcf49fa4a3a350c5fcd557071ee2ce3_c1">6</container>
+                  </did>
+                  <scopecontent id="aspace_fd59f8206f8ef5cc38b243ea2b4237bd">
+                     <head>Scope and Contents</head>
+                     <p>The file contains a typescript book.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/11/archival_objects/3402757"
                   id="aspace_9af432aa9c6cb45647705d88ad69f95a"
@@ -10339,6 +10422,29 @@
                   <did>
                      <unittitle>Printed Material</unittitle>
                   </did>
+                  <c altrender="/repositories/11/archival_objects/4052863"
+                     id="aspace_abb9ebd21db0c6b9139309e476f435a2"
+                     level="file">
+                     <did>
+                        <unittitle>Asheville Citizen-Times</unittitle>
+                        <unitdatestructured altrender="1989 May 14" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1989-05-14">1989 May 14</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/484745 /locations/9"
+                                   containerid="39002104917894"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_abb9ebd21db0c6b9139309e476f435a2_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">39</container>
+                        <container id="aspace_abb9ebd21db0c6b9139309e476f435a2_c2"
+                                   localtype="folder"
+                                   parent="aspace_abb9ebd21db0c6b9139309e476f435a2_c1">7</container>
+                     </did>
+                     <scopecontent id="aspace_6f6e0a32f65dc53fdb87e2a10eac5279">
+                        <head>Scope and Contents</head>
+                        <p>The file contains a newspaper article about French Broad Press.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/11/archival_objects/3402958"
                      id="aspace_ebd01285d4e8c20dc321ba2338d73d3f"
                      level="file">
