@@ -42,7 +42,7 @@
                <p>Boxes: 1-76</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="132">132</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="298">298</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="134">134</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="301">301</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-26T23:05:31-04:00</eventdatetime>
+            <eventdatetime>2026-10-27T23:03:32-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 23:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -40621,6 +40621,27 @@
                            <container id="aspace_ref3401_c2"
                                       localtype="folder"
                                       parent="aspace_ref3401_c1">2377-2378</container>
+                           <daoset altrender="/repositories/11/digital_objects/363847">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                   identifier="oid:33838730"
+                                   linktitle="2 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33838730"
+                                   identifier="oid:33838730"
+                                   linktitle="2 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>5th Baptist Church. Baraca Class</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                      </c>
                      <c altrender="/repositories/11/archival_objects/244298"
@@ -40636,6 +40657,27 @@
                            <container id="aspace_ref3402_c2"
                                       localtype="folder"
                                       parent="aspace_ref3402_c1">2379</container>
+                           <daoset altrender="/repositories/11/digital_objects/363848">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                   identifier="oid:33838733"
+                                   linktitle="1 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33838733"
+                                   identifier="oid:33838733"
+                                   linktitle="1 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>Levin C. Handy Studio, interior, including Alice Handy Cox and Edgar Cox</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                      </c>
                   </c>

@@ -43,6 +43,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-4, 9, 11</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="292">292</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -74,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-20T23:01:43-04:00</eventdatetime>
+            <eventdatetime>2026-10-27T23:03:57-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday May 20, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1409,6 +1412,35 @@
                              id="aspace_98ce73c4dea1e22a9f846e55e9b0ec08_c1"
                              label="Mixed Materials"
                              localtype="box">Box 5 (Oversize)</container>
+                  <daoset altrender="/repositories/11/digital_objects/363849">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33838736"
+                          identifier="oid:33838736"
+                          linktitle="292 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33838737/full/!150,150/0/default.jpg"
+                          identifier="oid:33838736"
+                          linktitle="292 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33838736"
+                          identifier="oid:33838736"
+                          linktitle="292 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Scrapbook</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/2316799"
