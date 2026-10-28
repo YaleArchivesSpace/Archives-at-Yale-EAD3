@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-20T18:04:11-04:00</eventdatetime>
+            <eventdatetime>2026-10-28T18:00:58-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:04</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5229,7 +5229,7 @@
                      id="aspace_31b48cbd6b37dbd8491c24fd3629ebce"
                      level="file">
                      <did>
-                        <unittitle>Related to Diocese of Delhi, St. James's Church Delhi, Nagpur Diocese, work in Punjab</unittitle>
+                        <unittitle>Related to Diocese of Delhi, St. James's Church Delhi, work in Punjab</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1967">1967</fromdate>
@@ -5244,6 +5244,24 @@
                         <container id="aspace_31b48cbd6b37dbd8491c24fd3629ebce_c2"
                                    localtype="folder"
                                    parent="aspace_31b48cbd6b37dbd8491c24fd3629ebce_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4068883"
+                     id="aspace_e57d9dac027c2c0ea35eca9bb4939b8e"
+                     level="file">
+                     <did>
+                        <unittitle>Diocese of Nagpur 14th anniversary booklet</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1984">1984</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/422080 /locations/9"
+                                   containerid="39002112325718"
+                                   id="aspace_e57d9dac027c2c0ea35eca9bb4939b8e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">20</container>
+                        <container id="aspace_e57d9dac027c2c0ea35eca9bb4939b8e_c2"
+                                   localtype="folder"
+                                   parent="aspace_e57d9dac027c2c0ea35eca9bb4939b8e_c1">3a</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4002764"

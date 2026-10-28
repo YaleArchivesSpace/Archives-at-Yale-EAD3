@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-22T18:00:45-04:00</eventdatetime>
+            <eventdatetime>2026-10-28T18:00:55-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 22, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -812,34 +812,74 @@ Included in the correspondence are several letters which relate to early Baptist
             </did>
             <c altrender="/repositories/4/archival_objects/2782342"
                id="aspace_0211ceb145d18de4a1bc9038ae0618f5"
-               level="file">
+               level="subseries">
                <did>
                   <unittitle>Undated sermons arranged by text: Genesis - 2 Timothy</unittitle>
-                  <container altrender="/repositories/4/top_containers/332127 /locations/9"
-                             containerid="39002098997043"
-                             id="aspace_0211ceb145d18de4a1bc9038ae0618f5_c1"
-                             label="Mixed Materials"
-                             localtype="box">1</container>
-                  <container id="aspace_0211ceb145d18de4a1bc9038ae0618f5_c2"
-                             localtype="folder"
-                             parent="aspace_0211ceb145d18de4a1bc9038ae0618f5_c1">9-21</container>
                </did>
                <scopecontent id="aspace_53642e4aba9729c8164226a943f46114">
                   <head>Scope and Contents</head>
                   <p>For a full listing of scriptural texts, see original finding, which is linked to from https://web.library.yale.edu/divinity/special-collections/andover-newton.</p>
                </scopecontent>
-            </c>
-            <c altrender="/repositories/4/archival_objects/2782343"
-               id="aspace_0e7713c567646f3b2c27ed992e6071d5"
-               level="file">
-               <did>
-                  <unittitle>Undated sermons arranged by text: Hebrews - Revelation</unittitle>
-                  <container altrender="/repositories/4/top_containers/332128 /locations/9"
-                             containerid="39002098997050"
-                             id="aspace_0e7713c567646f3b2c27ed992e6071d5_c1"
-                             label="Mixed Materials"
-                             localtype="box">2</container>
-               </did>
+               <c altrender="/repositories/4/archival_objects/4068846"
+                  id="aspace_9235464080f03b2123faad4597503898"
+                  level="file">
+                  <did>
+                     <unittitle>Genesis - 2 Chronicles; Psalms; Proverbs; and Ecclesiastes - Ezekiel  </unittitle>
+                     <container altrender="/repositories/4/top_containers/332127 /locations/9"
+                                containerid="39002098997043"
+                                id="aspace_9235464080f03b2123faad4597503898_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_9235464080f03b2123faad4597503898_c2"
+                                localtype="folder"
+                                parent="aspace_9235464080f03b2123faad4597503898_c1">9-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068847"
+                  id="aspace_54ff4615c08728dd11403d94d253c0c1"
+                  level="file">
+                  <did>
+                     <unittitle>Matthew, Mark, Luke and John</unittitle>
+                     <container altrender="/repositories/4/top_containers/332127 /locations/9"
+                                containerid="39002098997043"
+                                id="aspace_54ff4615c08728dd11403d94d253c0c1_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_54ff4615c08728dd11403d94d253c0c1_c2"
+                                localtype="folder"
+                                parent="aspace_54ff4615c08728dd11403d94d253c0c1_c1">13-16</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068849"
+                  id="aspace_72f33304a01af8fb41700ebaca218940"
+                  level="file">
+                  <did>
+                     <unittitle>Act; Romans; 1 Corinthians - Philippians; and Colossians - 2 Timothy </unittitle>
+                     <container altrender="/repositories/4/top_containers/332127 /locations/9"
+                                containerid="39002098997043"
+                                id="aspace_72f33304a01af8fb41700ebaca218940_c1"
+                                label="Mixed Materials"
+                                localtype="box">1</container>
+                     <container id="aspace_72f33304a01af8fb41700ebaca218940_c2"
+                                localtype="folder"
+                                parent="aspace_72f33304a01af8fb41700ebaca218940_c1">17-20</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068850"
+                  id="aspace_3841143ace4a4dd52ebcee2d9b478992"
+                  level="file">
+                  <did>
+                     <unittitle>Hebrews - Revelation</unittitle>
+                     <container altrender="/repositories/4/top_containers/332128 /locations/9"
+                                containerid="39002098997050"
+                                id="aspace_3841143ace4a4dd52ebcee2d9b478992_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_3841143ace4a4dd52ebcee2d9b478992_c2"
+                                localtype="folder"
+                                parent="aspace_3841143ace4a4dd52ebcee2d9b478992_c1">1-3</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/2782344"
                id="aspace_3fc309ba4e4a4a04d67a132262386f47"
@@ -857,6 +897,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_3fc309ba4e4a4a04d67a132262386f47_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_3fc309ba4e4a4a04d67a132262386f47_c2"
+                             localtype="folder"
+                             parent="aspace_3fc309ba4e4a4a04d67a132262386f47_c1">4-6</container>
                </did>
                <scopecontent id="aspace_b29016241df3c18ed8e4d30b64015109">
                   <head>Scope and Contents</head>
@@ -882,6 +925,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_aed898bc91702d348e3a9564d678a718_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_aed898bc91702d348e3a9564d678a718_c2"
+                             localtype="folder"
+                             parent="aspace_aed898bc91702d348e3a9564d678a718_c1">7</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782346"
@@ -895,6 +941,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_e8719dfa7f324d066682ce3b16c7d1bc_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_e8719dfa7f324d066682ce3b16c7d1bc_c2"
+                             localtype="folder"
+                             parent="aspace_e8719dfa7f324d066682ce3b16c7d1bc_c1">8</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782347"
@@ -908,6 +957,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_4d7c4a422bf8835d1631fd9b78f94b68_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_4d7c4a422bf8835d1631fd9b78f94b68_c2"
+                             localtype="folder"
+                             parent="aspace_4d7c4a422bf8835d1631fd9b78f94b68_c1">8</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782348"
@@ -921,6 +973,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_857b73a84c8ad89a97cb2c0e27abcf57_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_857b73a84c8ad89a97cb2c0e27abcf57_c2"
+                             localtype="folder"
+                             parent="aspace_857b73a84c8ad89a97cb2c0e27abcf57_c1">8</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782349"
@@ -934,6 +989,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_3de6fb5d447b31bb28f029f9b0ddd876_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_3de6fb5d447b31bb28f029f9b0ddd876_c2"
+                             localtype="folder"
+                             parent="aspace_3de6fb5d447b31bb28f029f9b0ddd876_c1">8</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782350"
@@ -951,6 +1009,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_75f31873aa942a208631ec2c35d722de_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_75f31873aa942a208631ec2c35d722de_c2"
+                             localtype="folder"
+                             parent="aspace_75f31873aa942a208631ec2c35d722de_c1">9</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782351"
@@ -964,6 +1025,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_525a136b002e0e5796e791a6eb9da2c9_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_525a136b002e0e5796e791a6eb9da2c9_c2"
+                             localtype="folder"
+                             parent="aspace_525a136b002e0e5796e791a6eb9da2c9_c1">10</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782352"
@@ -981,6 +1045,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_86aa8bc3b944469196361e6711c97697_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_86aa8bc3b944469196361e6711c97697_c2"
+                             localtype="folder"
+                             parent="aspace_86aa8bc3b944469196361e6711c97697_c1">10</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782353"
@@ -998,6 +1065,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_8b3be6040e2fc9b6ac5912c40ad82725_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_8b3be6040e2fc9b6ac5912c40ad82725_c2"
+                             localtype="folder"
+                             parent="aspace_8b3be6040e2fc9b6ac5912c40ad82725_c1">10</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782354"
@@ -1015,19 +1085,62 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_49826126a4c7e32f2904689550057c1e_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_49826126a4c7e32f2904689550057c1e_c2"
+                             localtype="folder"
+                             parent="aspace_49826126a4c7e32f2904689550057c1e_c1">10</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782355"
                id="aspace_96faccd2abe482cf1493676e7309c46e"
-               level="file">
+               level="subseries">
                <did>
                   <unittitle>Lectures: Bible</unittitle>
-                  <container altrender="/repositories/4/top_containers/332128 /locations/9"
-                             containerid="39002098997050"
-                             id="aspace_96faccd2abe482cf1493676e7309c46e_c1"
-                             label="Mixed Materials"
-                             localtype="box">2</container>
                </did>
+               <c altrender="/repositories/4/archival_objects/4068853"
+                  id="aspace_f9db3d0d02cee313859fa365668a1b2d"
+                  level="file">
+                  <did>
+                     <unittitle>Untitled (on the Beast in the Book of Revelation)</unittitle>
+                     <container altrender="/repositories/4/top_containers/332128 /locations/9"
+                                containerid="39002098997050"
+                                id="aspace_f9db3d0d02cee313859fa365668a1b2d_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_f9db3d0d02cee313859fa365668a1b2d_c2"
+                                localtype="folder"
+                                parent="aspace_f9db3d0d02cee313859fa365668a1b2d_c1">11</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068854"
+                  id="aspace_e5e42cbf2665efdf66d88468c10ac3a5"
+                  level="file">
+                  <did>
+                     <unittitle>On the authority of scripture</unittitle>
+                     <container altrender="/repositories/4/top_containers/332128 /locations/9"
+                                containerid="39002098997050"
+                                id="aspace_e5e42cbf2665efdf66d88468c10ac3a5_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_e5e42cbf2665efdf66d88468c10ac3a5_c2"
+                                localtype="folder"
+                                parent="aspace_e5e42cbf2665efdf66d88468c10ac3a5_c1">12-15</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068855"
+                  id="aspace_d367699f75f63dd69d48eb7deec66fa8"
+                  level="file">
+                  <did>
+                     <unittitle>Malachi</unittitle>
+                     <container altrender="/repositories/4/top_containers/332128 /locations/9"
+                                containerid="39002098997050"
+                                id="aspace_d367699f75f63dd69d48eb7deec66fa8_c1"
+                                label="Mixed Materials"
+                                localtype="box">2</container>
+                     <container id="aspace_d367699f75f63dd69d48eb7deec66fa8_c2"
+                                localtype="folder"
+                                parent="aspace_d367699f75f63dd69d48eb7deec66fa8_c1">16</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/4/archival_objects/2782356"
                id="aspace_39677ad7bd8a71ea9f367b4cbf32cff5"
@@ -1039,7 +1152,14 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_39677ad7bd8a71ea9f367b4cbf32cff5_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_39677ad7bd8a71ea9f367b4cbf32cff5_c2"
+                             localtype="folder"
+                             parent="aspace_39677ad7bd8a71ea9f367b4cbf32cff5_c1">17-18</container>
                </did>
+               <scopecontent id="aspace_e5376bbaaa71e21b5e58dbbae2e3d438">
+                  <head>Scope and Contents</head>
+                  <p>Includes sermons on articles of Christian doctrine and Christ as an example.</p>
+               </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/2782357"
                id="aspace_ad9616790e0ac6faf404b8733abea4d4"
@@ -1051,6 +1171,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_ad9616790e0ac6faf404b8733abea4d4_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_ad9616790e0ac6faf404b8733abea4d4_c2"
+                             localtype="folder"
+                             parent="aspace_ad9616790e0ac6faf404b8733abea4d4_c1">19</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782358"
@@ -1063,6 +1186,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_788498ef6980030f68d7140d0657dd20_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_788498ef6980030f68d7140d0657dd20_c2"
+                             localtype="folder"
+                             parent="aspace_788498ef6980030f68d7140d0657dd20_c1">20</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782359"
@@ -1075,6 +1201,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_d8f2923a73fc96e0baec485a7781f901_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
+                  <container id="aspace_d8f2923a73fc96e0baec485a7781f901_c2"
+                             localtype="folder"
+                             parent="aspace_d8f2923a73fc96e0baec485a7781f901_c1">21-24</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782360"
@@ -1087,6 +1216,54 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_1cbd57a0d34057b5aba15879aff944f5_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_1cbd57a0d34057b5aba15879aff944f5_c2"
+                             localtype="folder"
+                             parent="aspace_1cbd57a0d34057b5aba15879aff944f5_c1">1-4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4068857"
+               id="aspace_e53e7c91654b951fee8dda5be035f809"
+               level="file">
+               <did>
+                  <unittitle>Lecture notes: Theology</unittitle>
+                  <container altrender="/repositories/4/top_containers/332129 /locations/9"
+                             containerid="39002098997068"
+                             id="aspace_e53e7c91654b951fee8dda5be035f809_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_e53e7c91654b951fee8dda5be035f809_c2"
+                             localtype="folder"
+                             parent="aspace_e53e7c91654b951fee8dda5be035f809_c1">5-8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4068858"
+               id="aspace_91e6faf1f2f94b610643a85370adf265"
+               level="file">
+               <did>
+                  <unittitle> Lecture notes: Theology</unittitle>
+                  <container altrender="/repositories/4/top_containers/332129 /locations/9"
+                             containerid="39002098997068"
+                             id="aspace_91e6faf1f2f94b610643a85370adf265_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_91e6faf1f2f94b610643a85370adf265_c2"
+                             localtype="folder"
+                             parent="aspace_91e6faf1f2f94b610643a85370adf265_c1">9-12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4068860"
+               id="aspace_a220e6593e23868ed8c8bd113eabdf18"
+               level="file">
+               <did>
+                  <unittitle> Lecture notes: Theology</unittitle>
+                  <container altrender="/repositories/4/top_containers/332129 /locations/9"
+                             containerid="39002098997068"
+                             id="aspace_a220e6593e23868ed8c8bd113eabdf18_c1"
+                             label="Mixed Materials"
+                             localtype="box">3</container>
+                  <container id="aspace_a220e6593e23868ed8c8bd113eabdf18_c2"
+                             localtype="folder"
+                             parent="aspace_a220e6593e23868ed8c8bd113eabdf18_c1">13-15</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782361"
@@ -1099,6 +1276,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_7e09c12b0e94030365dade44292ff442_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_7e09c12b0e94030365dade44292ff442_c2"
+                             localtype="folder"
+                             parent="aspace_7e09c12b0e94030365dade44292ff442_c1">16-18</container>
                </did>
             </c>
          </c>
@@ -1119,6 +1299,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_cfa6819863bed195905546acd53d7e72_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_cfa6819863bed195905546acd53d7e72_c2"
+                             localtype="folder"
+                             parent="aspace_cfa6819863bed195905546acd53d7e72_c1">19</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782363"
@@ -1131,6 +1314,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_176faae1c80e546efc28be5cbdece71d_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_176faae1c80e546efc28be5cbdece71d_c2"
+                             localtype="folder"
+                             parent="aspace_176faae1c80e546efc28be5cbdece71d_c1">20</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782364"
@@ -1143,6 +1329,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_38e4f0d41e25bb16a8769efa98d1b1c4_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_38e4f0d41e25bb16a8769efa98d1b1c4_c2"
+                             localtype="folder"
+                             parent="aspace_38e4f0d41e25bb16a8769efa98d1b1c4_c1">20</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782365"
@@ -1155,6 +1344,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_2403487932261932e3372b4db86f0a6b_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_2403487932261932e3372b4db86f0a6b_c2"
+                             localtype="folder"
+                             parent="aspace_2403487932261932e3372b4db86f0a6b_c1">20</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782366"
@@ -1167,6 +1359,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_3d14e2141867622f2195a6fcbfe8daf4_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_3d14e2141867622f2195a6fcbfe8daf4_c2"
+                             localtype="folder"
+                             parent="aspace_3d14e2141867622f2195a6fcbfe8daf4_c1">20</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782367"
@@ -1179,6 +1374,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_6c6ef819b544c40ed27906bf533957cb_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_6c6ef819b544c40ed27906bf533957cb_c2"
+                             localtype="folder"
+                             parent="aspace_6c6ef819b544c40ed27906bf533957cb_c1">20</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782368"
@@ -1191,6 +1389,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_158c3c072942980e12e876613ec58f0e_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_158c3c072942980e12e876613ec58f0e_c2"
+                             localtype="folder"
+                             parent="aspace_158c3c072942980e12e876613ec58f0e_c1">20</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782369"
@@ -1203,6 +1404,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_62f9f85ce0af91f6c501d2e23b89792f_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_62f9f85ce0af91f6c501d2e23b89792f_c2"
+                             localtype="folder"
+                             parent="aspace_62f9f85ce0af91f6c501d2e23b89792f_c1">21</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782370"
@@ -1215,6 +1419,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_8ee3a9410f542a7ba56462e2770ad083_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_8ee3a9410f542a7ba56462e2770ad083_c2"
+                             localtype="folder"
+                             parent="aspace_8ee3a9410f542a7ba56462e2770ad083_c1">21</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782371"
@@ -1227,6 +1434,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_931f9e14f3fc519ab39df54e76e1293b_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_931f9e14f3fc519ab39df54e76e1293b_c2"
+                             localtype="folder"
+                             parent="aspace_931f9e14f3fc519ab39df54e76e1293b_c1">21</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782372"
@@ -1239,6 +1449,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_73b397f320eb80b0176a7fe1c9f2d7bf_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_73b397f320eb80b0176a7fe1c9f2d7bf_c2"
+                             localtype="folder"
+                             parent="aspace_73b397f320eb80b0176a7fe1c9f2d7bf_c1">21</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782373"
@@ -1251,6 +1464,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_25943353e569164575a022ff52286d39_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_25943353e569164575a022ff52286d39_c2"
+                             localtype="folder"
+                             parent="aspace_25943353e569164575a022ff52286d39_c1">21</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2782374"
@@ -1263,6 +1479,9 @@ Included in the correspondence are several letters which relate to early Baptist
                              id="aspace_033faf25ae9281ba777ba46f1519273c_c1"
                              label="Mixed Materials"
                              localtype="box">3</container>
+                  <container id="aspace_033faf25ae9281ba777ba46f1519273c_c2"
+                             localtype="folder"
+                             parent="aspace_033faf25ae9281ba777ba46f1519273c_c1">21</container>
                </did>
             </c>
          </c>
@@ -1297,6 +1516,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_ac44715b19d7774102cc81414c1437dc_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_ac44715b19d7774102cc81414c1437dc_c2"
+                                localtype="folder"
+                                parent="aspace_ac44715b19d7774102cc81414c1437dc_c1">1-4</container>
                   </did>
                   <scopecontent id="aspace_afbb458fe380329837f6c5b0f33d180b">
                      <head>Scope and Contents</head>
@@ -1320,6 +1542,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_644e82ab00ab9c087444261f33932b0a_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_644e82ab00ab9c087444261f33932b0a_c2"
+                                localtype="folder"
+                                parent="aspace_644e82ab00ab9c087444261f33932b0a_c1">5-6</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782397"
@@ -1332,6 +1557,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_77ddeaf1e3e22e77ad80613e326b352e_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_77ddeaf1e3e22e77ad80613e326b352e_c2"
+                                localtype="folder"
+                                parent="aspace_77ddeaf1e3e22e77ad80613e326b352e_c1">7-8</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782398"
@@ -1344,6 +1572,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_851cac0d67b8f2f9fd49889ab54a5924_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_851cac0d67b8f2f9fd49889ab54a5924_c2"
+                                localtype="folder"
+                                parent="aspace_851cac0d67b8f2f9fd49889ab54a5924_c1">9</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782399"
@@ -1356,6 +1587,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_21a6dcb2c1517770bc1055d7c9a58e4d_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_21a6dcb2c1517770bc1055d7c9a58e4d_c2"
+                                localtype="folder"
+                                parent="aspace_21a6dcb2c1517770bc1055d7c9a58e4d_c1">10</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782400"
@@ -1368,6 +1602,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_2fea8fc4f8a88753b490f421ad5cd90c_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_2fea8fc4f8a88753b490f421ad5cd90c_c2"
+                                localtype="folder"
+                                parent="aspace_2fea8fc4f8a88753b490f421ad5cd90c_c1">10</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782401"
@@ -1380,6 +1617,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_5f23b68543fc8c8be8157acfa42e4ea8_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_5f23b68543fc8c8be8157acfa42e4ea8_c2"
+                                localtype="folder"
+                                parent="aspace_5f23b68543fc8c8be8157acfa42e4ea8_c1">10</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782402"
@@ -1392,6 +1632,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_e26c651b561e44da7dc5faee45731163_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_e26c651b561e44da7dc5faee45731163_c2"
+                                localtype="folder"
+                                parent="aspace_e26c651b561e44da7dc5faee45731163_c1">11</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782403"
@@ -1404,6 +1647,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_11925a18aa4654aa6bd77e581c697827_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_11925a18aa4654aa6bd77e581c697827_c2"
+                                localtype="folder"
+                                parent="aspace_11925a18aa4654aa6bd77e581c697827_c1">12</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782404"
@@ -1416,6 +1662,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_5dbf48d693cb4915128cc42a9b976cf4_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_5dbf48d693cb4915128cc42a9b976cf4_c2"
+                                localtype="folder"
+                                parent="aspace_5dbf48d693cb4915128cc42a9b976cf4_c1">12</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782405"
@@ -1428,6 +1677,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_b9fa879b5b53e7e8c2b65b7695a31190_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_b9fa879b5b53e7e8c2b65b7695a31190_c2"
+                                localtype="folder"
+                                parent="aspace_b9fa879b5b53e7e8c2b65b7695a31190_c1">13</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782406"
@@ -1440,6 +1692,24 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_72212159f827ca59b500e03dab93f5bd_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_72212159f827ca59b500e03dab93f5bd_c2"
+                                localtype="folder"
+                                parent="aspace_72212159f827ca59b500e03dab93f5bd_c1">13</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068873"
+                  id="aspace_8d44fa174346e65f55b284d5c90f8b33"
+                  level="file">
+                  <did>
+                     <unittitle>Greek translation by Chase </unittitle>
+                     <container altrender="/repositories/4/top_containers/332130 /locations/9"
+                                containerid="39002098997076"
+                                id="aspace_8d44fa174346e65f55b284d5c90f8b33_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_8d44fa174346e65f55b284d5c90f8b33_c2"
+                                localtype="folder"
+                                parent="aspace_8d44fa174346e65f55b284d5c90f8b33_c1">14</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782407"
@@ -1452,6 +1722,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_703f5aac4715b95f14f6a42b0639091a_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_703f5aac4715b95f14f6a42b0639091a_c2"
+                                localtype="folder"
+                                parent="aspace_703f5aac4715b95f14f6a42b0639091a_c1">15</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782408"
@@ -1464,6 +1737,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_1853d85d324762a85b863a80a762b133_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_1853d85d324762a85b863a80a762b133_c2"
+                                localtype="folder"
+                                parent="aspace_1853d85d324762a85b863a80a762b133_c1">16</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782409"
@@ -1476,6 +1752,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_542009b4f2bcd75b16449b45f32f9c12_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_542009b4f2bcd75b16449b45f32f9c12_c2"
+                                localtype="folder"
+                                parent="aspace_542009b4f2bcd75b16449b45f32f9c12_c1">17</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782410"
@@ -1488,6 +1767,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_a4dafd090dfd29857dde6adf7b688940_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_a4dafd090dfd29857dde6adf7b688940_c2"
+                                localtype="folder"
+                                parent="aspace_a4dafd090dfd29857dde6adf7b688940_c1">18</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782411"
@@ -1500,6 +1782,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_3db3b30ab36876938d05e76e32e8caed_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_3db3b30ab36876938d05e76e32e8caed_c2"
+                                localtype="folder"
+                                parent="aspace_3db3b30ab36876938d05e76e32e8caed_c1">18</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782412"
@@ -1512,6 +1797,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_94abc6d13dea66fd76596e5f6f4fbec8_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_94abc6d13dea66fd76596e5f6f4fbec8_c2"
+                                localtype="folder"
+                                parent="aspace_94abc6d13dea66fd76596e5f6f4fbec8_c1">19</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782413"
@@ -1524,6 +1812,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_7ee1355479987a7b62d3a089c4671981_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_7ee1355479987a7b62d3a089c4671981_c2"
+                                localtype="folder"
+                                parent="aspace_7ee1355479987a7b62d3a089c4671981_c1">20</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782414"
@@ -1536,6 +1827,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_8927c99cd39c53f77b7908e1d85072e2_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_8927c99cd39c53f77b7908e1d85072e2_c2"
+                                localtype="folder"
+                                parent="aspace_8927c99cd39c53f77b7908e1d85072e2_c1">20</container>
                   </did>
                </c>
             </c>
@@ -1567,6 +1861,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_ee2969945f16312a8bb53e5d6d54363a_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_ee2969945f16312a8bb53e5d6d54363a_c2"
+                                localtype="folder"
+                                parent="aspace_ee2969945f16312a8bb53e5d6d54363a_c1">21-22</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782416"
@@ -1579,6 +1876,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_ab9ca3e032439771d12592589ebde6e6_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_ab9ca3e032439771d12592589ebde6e6_c2"
+                                localtype="folder"
+                                parent="aspace_ab9ca3e032439771d12592589ebde6e6_c1">23</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782417"
@@ -1591,6 +1891,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_bad031755494c4fcb7640e87695e2fc2_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_bad031755494c4fcb7640e87695e2fc2_c2"
+                                localtype="folder"
+                                parent="aspace_bad031755494c4fcb7640e87695e2fc2_c1">24</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782418"
@@ -1603,6 +1906,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_7bb172467ab5eeaea1bb03ceee086368_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_7bb172467ab5eeaea1bb03ceee086368_c2"
+                                localtype="folder"
+                                parent="aspace_7bb172467ab5eeaea1bb03ceee086368_c1">25</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782419"
@@ -1615,6 +1921,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_312b83ca4d3481527dc55feb5642fc97_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_312b83ca4d3481527dc55feb5642fc97_c2"
+                                localtype="folder"
+                                parent="aspace_312b83ca4d3481527dc55feb5642fc97_c1">26</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782420"
@@ -1633,6 +1942,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_db19809aa0b9e80bb0054c1ce02b55bc_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_db19809aa0b9e80bb0054c1ce02b55bc_c2"
+                                localtype="folder"
+                                parent="aspace_db19809aa0b9e80bb0054c1ce02b55bc_c1">27</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782421"
@@ -1650,6 +1962,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_566d8e134f6567820af236b15b3d07cc_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_566d8e134f6567820af236b15b3d07cc_c2"
+                                localtype="folder"
+                                parent="aspace_566d8e134f6567820af236b15b3d07cc_c1">28</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782422"
@@ -1667,6 +1982,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_3cedf6114d0949c709d7cfed62e4f5c7_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_3cedf6114d0949c709d7cfed62e4f5c7_c2"
+                                localtype="folder"
+                                parent="aspace_3cedf6114d0949c709d7cfed62e4f5c7_c1">29</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/2782423"
@@ -1684,6 +2002,9 @@ Included in the correspondence are several letters which relate to early Baptist
                                 id="aspace_82fe635287ab157fdd0346fa61d9dfd6_c1"
                                 label="Mixed Materials"
                                 localtype="box">4</container>
+                     <container id="aspace_82fe635287ab157fdd0346fa61d9dfd6_c2"
+                                localtype="folder"
+                                parent="aspace_82fe635287ab157fdd0346fa61d9dfd6_c1">30</container>
                   </did>
                </c>
             </c>
