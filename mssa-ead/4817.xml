@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-09T03:14:40-04:00</eventdatetime>
+            <eventdatetime>2026-10-28T03:00:34-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October  9, 2026 at 03:14</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -99016,6 +99016,11 @@ See: <ref actuate="onrequest" show="replace" target="ref1480">Pacific Islands an
                                 label="Mixed Materials"
                                 localtype="box">8</container>
                   </did>
+                  <accessrestrict id="aspace_21e9631021a799a82fc4755a591fff21"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/12/archival_objects/1959727"
                   id="ref5283"

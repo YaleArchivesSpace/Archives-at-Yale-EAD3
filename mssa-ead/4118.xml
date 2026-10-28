@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T03:25:14-04:00</eventdatetime>
+            <eventdatetime>2026-10-28T03:01:57-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 03:25</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -722,6 +722,9 @@
                      </unitdatestructured>
                      <unitdatestructured altrender="1863" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1863">1863</datesingle>
+                     </unitdatestructured>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1864">1864</datesingle>
                      </unitdatestructured>
                      <unitdatestructured altrender="1874" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1874">1874</datesingle>
