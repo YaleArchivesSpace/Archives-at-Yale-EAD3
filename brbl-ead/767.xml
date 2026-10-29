@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-28T23:51:02-04:00</eventdatetime>
+            <eventdatetime>2026-10-29T00:16:16-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 23:51</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 00:16</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -22261,41 +22261,20 @@
                                 parent="aspace_ref1298_c1">1218</container>
                   </did>
                </c>
-               <c altrender="/repositories/11/archival_objects/240314"
-                  id="ref1313"
+               <c altrender="/repositories/11/archival_objects/240315"
+                  id="ref1314"
                   level="file">
                   <did>
                      <unittitle>Untitled notes and drafts</unittitle>
                      <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
-                     <container altrender="/repositories/11/top_containers/20873 /locations/9"
-                                containerid="39002099312002"
-                                id="aspace_ref1313_c1"
+                     <container altrender="/repositories/11/top_containers/20874 /locations/9"
+                                containerid="39002099312010"
+                                id="aspace_ref1314_c1"
                                 label="Mixed Materials"
-                                localtype="box">35</container>
-                     <container id="aspace_ref1313_c2"
+                                localtype="box">36</container>
+                     <container id="aspace_ref1314_c2"
                                 localtype="folder"
-                                parent="aspace_ref1313_c1">1233-1235</container>
-                     <daoset altrender="/repositories/11/digital_objects/205765">
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
-                             identifier="oid:17283014"
-                             linktitle="9 images"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
-                        <dao actuate="onrequest"
-                             audience="external"
-                             daotype="unknown"
-                             href="https://collections.library.yale.edu/catalog/17283014"
-                             identifier="oid:17283014"
-                             linktitle="9 images"
-                             linkrole="text-html"
-                             show="new"/>
-                        <descriptivenote>
-                           <p>Untitled notes and drafts</p>
-                        </descriptivenote>
-                     </daoset>
+                                parent="aspace_ref1314_c1">1236-1239</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/240300"
@@ -22623,20 +22602,41 @@
                      </daoset>
                   </did>
                </c>
-               <c altrender="/repositories/11/archival_objects/240315"
-                  id="ref1314"
+               <c altrender="/repositories/11/archival_objects/240314"
+                  id="ref1313"
                   level="file">
                   <did>
                      <unittitle>Untitled notes and drafts</unittitle>
                      <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
-                     <container altrender="/repositories/11/top_containers/20874 /locations/9"
-                                containerid="39002099312010"
-                                id="aspace_ref1314_c1"
+                     <container altrender="/repositories/11/top_containers/20873 /locations/9"
+                                containerid="39002099312002"
+                                id="aspace_ref1313_c1"
                                 label="Mixed Materials"
-                                localtype="box">36</container>
-                     <container id="aspace_ref1314_c2"
+                                localtype="box">35</container>
+                     <container id="aspace_ref1313_c2"
                                 localtype="folder"
-                                parent="aspace_ref1314_c1">1236-1239</container>
+                                parent="aspace_ref1313_c1">1233-1235</container>
+                     <daoset altrender="/repositories/11/digital_objects/205765">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:17283014"
+                             linktitle="9 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/17283014"
+                             identifier="oid:17283014"
+                             linktitle="9 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Untitled notes and drafts</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
