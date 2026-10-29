@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-09-09T18:00:35-04:00</eventdatetime>
+            <eventdatetime>2026-10-29T18:01:17-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  9, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -634,12 +634,12 @@
                level="file">
                <did>
                   <unittitle>Transcript of the diary, with notes on the text. Prepared by F. B. Dexter.</unittitle>
-                  <unitdatestructured altrender="1821 Apr 21-1837 Jul 27"
+                  <unitdatestructured altrender="1821 April 11 - 1822 August 27"
                                       label="creation"
                                       unitdatetype="inclusive">
                      <daterange>
-                        <fromdate standarddate="1821-04-21">1821 April 21</fromdate>
-                        <todate standarddate="1837-07-27">1837 July 27</todate>
+                        <fromdate standarddate="1821-04-11">1821 April 11</fromdate>
+                        <todate standarddate="1822-08-27">1822 August 27</todate>
                      </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/231144 /locations/9"
@@ -649,7 +649,76 @@
                              localtype="box">7</container>
                   <container id="aspace_53f3600a6c78f3a1de345efc2f8d5e83_c2"
                              localtype="folder"
-                             parent="aspace_53f3600a6c78f3a1de345efc2f8d5e83_c1">1-14</container>
+                             parent="aspace_53f3600a6c78f3a1de345efc2f8d5e83_c1">1-4</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4068960"
+               id="aspace_0069d5b263e617272eabe0524af1ece1"
+               level="file">
+               <did>
+                  <unittitle>Transcript of the diary, with notes on the text. Prepared by F. B. Dexter.</unittitle>
+                  <unitdatestructured altrender="1822 August 27 - 1826 February 13"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1822-08-27">1822 August 27</fromdate>
+                        <todate standarddate="1826-02-13">1826 February 13</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/231144 /locations/9"
+                             containerid="39002129361110"
+                             id="aspace_0069d5b263e617272eabe0524af1ece1_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_0069d5b263e617272eabe0524af1ece1_c2"
+                             localtype="folder"
+                             parent="aspace_0069d5b263e617272eabe0524af1ece1_c1">5-8</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4068961"
+               id="aspace_4aeb5bee8e0617a0b967d63975f3a127"
+               level="file">
+               <did>
+                  <unittitle>Transcript of the diary, with notes on the text. Prepared by F. B. Dexter.</unittitle>
+                  <unitdatestructured altrender="1826 February 13 - 1832 January 29"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1826-02-13">1826 February 13</fromdate>
+                        <todate standarddate="1832-01-29">1832 January 29</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/231144 /locations/9"
+                             containerid="39002129361110"
+                             id="aspace_4aeb5bee8e0617a0b967d63975f3a127_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_4aeb5bee8e0617a0b967d63975f3a127_c2"
+                             localtype="folder"
+                             parent="aspace_4aeb5bee8e0617a0b967d63975f3a127_c1">9-12</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4068962"
+               id="aspace_c72f87f27b66f7ae6936df513131ccbe"
+               level="file">
+               <did>
+                  <unittitle>Transcript of the diary, with notes on the text. Prepared by F. B. Dexter.</unittitle>
+                  <unitdatestructured altrender="1832 February 2 -1837 July 27"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1832-02-02">1832 February 2</fromdate>
+                        <todate standarddate="1837-07-27">1837 July 27</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/231144 /locations/9"
+                             containerid="39002129361110"
+                             id="aspace_c72f87f27b66f7ae6936df513131ccbe_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_c72f87f27b66f7ae6936df513131ccbe_c2"
+                             localtype="folder"
+                             parent="aspace_c72f87f27b66f7ae6936df513131ccbe_c1">13-14</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/2143489"

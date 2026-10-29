@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-20T18:03:14-04:00</eventdatetime>
+            <eventdatetime>2026-10-29T18:01:09-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 18:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -15652,6 +15652,24 @@ primarily chronological, unnumbered sermons are listed in appropriate chronologi
                      <container id="aspace_1706b74904a3db6f3a7d3dad26843814_c2"
                                 localtype="folder"
                                 parent="aspace_1706b74904a3db6f3a7d3dad26843814_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4068925"
+                  id="aspace_a4b299b02e0aa540819dd2f15c8ef84b"
+                  level="file">
+                  <did>
+                     <unittitle>Letter to Mrs. Louisa Hawes</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1831">1831</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/343570 /locations/9"
+                                containerid="39002131202922"
+                                id="aspace_a4b299b02e0aa540819dd2f15c8ef84b_c1"
+                                label="Mixed Materials"
+                                localtype="box">166</container>
+                     <container id="aspace_a4b299b02e0aa540819dd2f15c8ef84b_c2"
+                                localtype="folder"
+                                parent="aspace_a4b299b02e0aa540819dd2f15c8ef84b_c1">1</container>
                   </did>
                </c>
             </c>
