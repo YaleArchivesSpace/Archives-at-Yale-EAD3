@@ -42,7 +42,7 @@
                <p>Boxes: 1-26, 28-Box 66, 69-70</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 27, 67-68</p>
+               <p>Boxes: 27, 67-68, 71-76</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="75">75</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="587">587</num> digital files.</p>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-01-07T23:02:59-05:00</eventdatetime>
+            <eventdatetime>2026-10-28T23:05:18-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday January  7, 2026 at 23:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -112,12 +112,6 @@
             <unittype>Linear Feet</unittype>
          </physdescstructured>
          <physdesc localtype="container_summary">70 boxes</physdesc>
-         <unitdatestructured altrender="1879-1986" label="creation" unitdatetype="inclusive">
-            <daterange>
-               <fromdate standarddate="1879">1879</fromdate>
-               <todate standarddate="1986">1986</todate>
-            </daterange>
-         </unitdatestructured>
          <unitdatestructured altrender="1879-1986" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1879">1879</fromdate>
@@ -41682,12 +41676,8 @@
                   id="ref2814"
                   level="file">
                   <did>
-                     <unittitle>By Radio Jerusalem [?] - audiotape</unittitle>
+                     <unittitle>By Radio Jerusalem </unittitle>
                   </did>
-                  <separatedmaterial id="aspace_9fad62549227784bdb964d854bea250a">
-                     <head>Separated Materials</head>
-                     <p>Transferred: Material transferred to Historical Sound Recordings, Sterling Memorial Library</p>
-                  </separatedmaterial>
                </c>
                <c altrender="/repositories/11/archival_objects/174560"
                   id="ref2816"
@@ -41748,18 +41738,8 @@
                   id="ref2820"
                   level="file">
                   <did>
-                     <unittitle>With Sarraute, Nathalie - audiotape</unittitle>
-                     <unitdatestructured altrender="ca. 1970s" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1970">1970</fromdate>
-                           <todate standarddate="1979">1979</todate>
-                        </daterange>
-                     </unitdatestructured>
+                     <unittitle>With Sarraute, Nathalie </unittitle>
                   </did>
-                  <separatedmaterial id="aspace_16c49f1e3dc5939b4bf583d8a839b949">
-                     <head>Separated Materials</head>
-                     <p>Transferred: Material transferred to Historical Sound Recordings, Sterling Memorial Library</p>
-                  </separatedmaterial>
                </c>
                <c altrender="/repositories/11/archival_objects/174565"
                   id="ref2822"
@@ -41767,7 +41747,7 @@
                   <did>
                      <unittitle>By Smith, Kelly, "Paris is still a home for American Artists" <title localtype="simple" render="italic">
                            <part>Courier-Journal &amp; Times</part>
-                        </title>, Louisville,</unittitle>
+                        </title>, Louisville</unittitle>
                   </did>
                   <c altrender="/repositories/11/archival_objects/174566"
                      id="ref2823"
@@ -42044,15 +42024,24 @@
                id="ref2839"
                level="file">
                <did>
-                  <unittitle>Songs - audiotape</unittitle>
+                  <unittitle>Songs </unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>Audiotape Reel</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1965" label="creation" unitdatetype="inclusive">
                      <datesingle standarddate="1965">1965</datesingle>
                   </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/485741 /locations/7165"
+                             containerid="39002109480799"
+                             encodinganalog="archive half legal"
+                             id="aspace_ref2839_c1"
+                             label="Mixed Materials"
+                             localtype="box">73</container>
+                  <container id="aspace_ref2839_c2"
+                             localtype="folder"
+                             parent="aspace_ref2839_c1">3</container>
                </did>
-               <originalsloc id="aspace_1c6734ddbd3a36679fe3a6b7fbf39cde">
-                  <head>Existence and Location of Originals</head>
-                  <p>Transferred: Material transferred to Historical Sound Recordings, Sterling Memorial Library</p>
-               </originalsloc>
             </c>
             <c altrender="/repositories/11/archival_objects/174582"
                id="ref2841"
