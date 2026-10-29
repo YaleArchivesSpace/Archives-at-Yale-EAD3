@@ -39,7 +39,7 @@
                <p>Boxes: 1-2</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="6">6</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-07-04T20:00:26-04:00</eventdatetime>
+            <eventdatetime>2026-10-28T20:00:56-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday July  4, 2025 at 20:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -255,6 +255,25 @@
                   <container id="aspace_4eb6f4634c62f79cebde6fadf61dcded_c2"
                              localtype="item_barcode"
                              parent="aspace_4eb6f4634c62f79cebde6fadf61dcded_c1">39002133914193</container>
+                  <daoset altrender="/repositories/6/digital_objects/364138">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://yalemusiclib.aviaryplatform.com/r/bv79s1nq7r"
+                          identifier="aviary_181797"
+                          linkrole="video-streaming"
+                          show="new"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                          identifier="aviary_181797"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <descriptivenote>
+                        <p>[Aviary] REEL No. INTV-4 1963 - 1965</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_d212be3859d6d42780d96cfe3df827d1">
                   <head>Scope and Contents</head>
