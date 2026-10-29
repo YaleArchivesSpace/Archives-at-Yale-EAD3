@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-28T23:06:25-04:00</eventdatetime>
+            <eventdatetime>2026-10-28T23:26:01-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 23:06</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 23:26</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -22261,6 +22261,24 @@
                                 parent="aspace_ref1298_c1">1218</container>
                   </did>
                </c>
+               <c altrender="/repositories/11/archival_objects/240306"
+                  id="ref1305"
+                  level="file">
+                  <did>
+                     <unittitle>"Nevi anshav," draft, holograph, corrected</unittitle>
+                     <unitdatestructured altrender="1988 Nov 24" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1988-11-24">1988 Nov 24</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/20873 /locations/9"
+                                containerid="39002099312002"
+                                id="aspace_ref1305_c1"
+                                label="Mixed Materials"
+                                localtype="box">35</container>
+                     <container id="aspace_ref1305_c2"
+                                localtype="folder"
+                                parent="aspace_ref1305_c1">1225</container>
+                  </did>
+               </c>
                <c altrender="/repositories/11/archival_objects/240300"
                   id="ref1299"
                   level="file">
@@ -22361,24 +22379,6 @@
                      <container id="aspace_ref1304_c2"
                                 localtype="folder"
                                 parent="aspace_ref1304_c1">1224</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/11/archival_objects/240306"
-                  id="ref1305"
-                  level="file">
-                  <did>
-                     <unittitle>"Nevi anshav," draft, holograph, corrected</unittitle>
-                     <unitdatestructured altrender="1988 Nov 24" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1988-11-24">1988 Nov 24</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/20873 /locations/9"
-                                containerid="39002099312002"
-                                id="aspace_ref1305_c1"
-                                label="Mixed Materials"
-                                localtype="box">35</container>
-                     <container id="aspace_ref1305_c2"
-                                localtype="folder"
-                                parent="aspace_ref1305_c1">1225</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/240307"
