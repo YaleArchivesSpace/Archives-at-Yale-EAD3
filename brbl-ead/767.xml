@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-29T00:47:40-04:00</eventdatetime>
+            <eventdatetime>2026-10-29T01:12:36-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 00:47</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 01:12</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -27175,27 +27175,6 @@
                <head>Scope and Contents</head>
                <p>Series IV, Journals, is arranged chronologically.</p>
             </scopecontent>
-            <c altrender="/repositories/11/archival_objects/240647"
-               id="ref1660"
-               level="file">
-               <did>
-                  <unittitle>Journals</unittitle>
-                  <unitdatestructured altrender="1957-1958" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1957">1957</fromdate>
-                        <todate standarddate="1958">1958</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/11/top_containers/20878 /locations/9"
-                             containerid="39002099312077"
-                             id="aspace_ref1660_c1"
-                             label="Mixed Materials"
-                             localtype="box">41</container>
-                  <container id="aspace_ref1660_c2"
-                             localtype="folder"
-                             parent="aspace_ref1660_c1">1430-1437</container>
-               </did>
-            </c>
             <c altrender="/repositories/11/archival_objects/240646"
                id="ref1659"
                level="file">
@@ -27236,6 +27215,27 @@
                         <p>Journals</p>
                      </descriptivenote>
                   </daoset>
+               </did>
+            </c>
+            <c altrender="/repositories/11/archival_objects/240647"
+               id="ref1660"
+               level="file">
+               <did>
+                  <unittitle>Journals</unittitle>
+                  <unitdatestructured altrender="1957-1958" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1957">1957</fromdate>
+                        <todate standarddate="1958">1958</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/11/top_containers/20878 /locations/9"
+                             containerid="39002099312077"
+                             id="aspace_ref1660_c1"
+                             label="Mixed Materials"
+                             localtype="box">41</container>
+                  <container id="aspace_ref1660_c2"
+                             localtype="folder"
+                             parent="aspace_ref1660_c1">1430-1437</container>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/240648"
