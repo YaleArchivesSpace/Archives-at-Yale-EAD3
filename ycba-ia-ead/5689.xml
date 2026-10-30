@@ -12,8 +12,8 @@
       <recordid instanceurl="https://hdl.handle.net/10079/fa/ycba.ia.A004">ycba.ia.A004</recordid>
       <filedesc>
          <titlestmt>
-            <titleproper>"Conserving the Yale Center for British Art" film recordings by Zach Bjork </titleproper>
-            <titleproper localtype="filing">"Conserving the Yale Center for British Art" film recordings by Zach Bjork</titleproper>
+            <titleproper>"Conserving the Yale Center for British Art" film recordings </titleproper>
+            <titleproper localtype="filing">"Conserving the Yale Center for British Art" film recordings </titleproper>
             <author>Compiled by Meg Rinn, YCBA Staff</author>
          </titlestmt>
          <publicationstmt>
@@ -57,19 +57,22 @@
             <p>Finding aid description and metadata in Archives at Yale are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means that anyone may copy, modify, and distribute this descriptive metadata without restriction or permission. The CC0 license is explained in full on the Creative Commons website: <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>. More information is available on our <ref href="https://archives.yale.edu/help">Help page</ref>.</p>
          </descriptivenote>
       </rightsdeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>completed</term>
+      </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-27T18:00:17-04:00</eventdatetime>
+            <eventdatetime>2026-10-30T18:01:24-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday May 27, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 30, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/3/resources/5689" level="collection">
       <did>
-         <unittitle>"Conserving the Yale Center for British Art" film recordings by Zach Bjork</unittitle>
+         <unittitle>"Conserving the Yale Center for British Art" film recordings</unittitle>
          <unitid>A 004</unitid>
          <repository>
             <corpname>
@@ -83,8 +86,8 @@
             <quantity>82</quantity>
             <unittype>Gigabytes</unittype>
          </physdescstructured>
-         <unitdatestructured altrender="2016" label="creation" unitdatetype="inclusive">
-            <datesingle standarddate="2016-05-01">2016</datesingle>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <datesingle standarddate="2016-05-01">2016 May 1</datesingle>
          </unitdatestructured>
          <origination label="Creator">
             <corpname rules="rda" source="local_ycba_ia">
@@ -92,7 +95,7 @@
             </corpname>
          </origination>
          <origination label="Creator">
-            <persname rules="rda" source="local_ycba_ia">
+            <persname rules="dacs" source="local_ycba_ia">
                <part localtype="agent_person">Bjork, Zach</part>
             </persname>
          </origination>
@@ -104,7 +107,7 @@
       </bioghist>
       <scopecontent id="aspace_e25b542594ab33e4b9948084e59c3975">
          <head>Scope and Contents</head>
-         <p>This collection of recordings by Zack Bjork consists of the interviews, footage, music, and the final twelve-minute film he created in conjunction with museum staff in 2016 about the conservation of the Yale Center for British Art. The documentary provides insight into the architecture of the museum's iconic building designed by Louis I. Kahn, the building conservation project completed in 2016, and the relationship of the building to the museum's permanent collections.</p>
+         <p>This collection of recordings consists of the interviews, footage, music, and the final twelve-minute film he created in conjunction with museum staff in 2016 about the conservation of the Yale Center for British Art. The documentary provides insight into the architecture of the museum's iconic building designed by Louis I. Kahn, the building conservation project completed in 2016, and the relationship of the building to the museum's permanent collections.</p>
       </scopecontent>
       <accessrestrict id="aspace_35c8c0d55d186f78bb6a6dd85a45cf6a">
          <head>Conditions Governing Access</head>
@@ -112,7 +115,7 @@
       </accessrestrict>
       <prefercite id="aspace_86c094b3991841ffbc667a374fd8fa7d">
          <head>Preferred Citation</head>
-         <p>"Conserving the Yale Center for British Art" film recordings by Zach Bjork. Yale Center for British Art, Archives.</p>
+         <p>"Conserving the Yale Center for British Art" film recordings. Yale Center for British Art, Archives.</p>
       </prefercite>
       <userestrict id="aspace_59a1043e378fe68b6360873be2ab755f">
          <head>Conditions Governing Use</head>

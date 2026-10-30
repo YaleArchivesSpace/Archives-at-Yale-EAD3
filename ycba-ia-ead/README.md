@@ -67,7 +67,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [ycba.ia.A002.xml](5545.xml) | ycba.ia.A002 | A 002 | Collection of historic photographs and negatives of the Yale Center for British Art | 
  [ycba.ia.A008.xml](5560.xml) | ycba.ia.A008 | A 008 | Paul Mellon Centre for Studies in British Art Publications | 
  [ycba.ia.A009.xml](5572.xml) | ycba.ia.A009 | A 009 | Yale Center for British Art Publications | 
- [ycba.ia.A004.xml](5689.xml) | ycba.ia.A004 | A 004 | "Conserving the Yale Center for British Art" film recordings by Zach Bjork | 
+ [ycba.ia.A004.xml](5689.xml) | ycba.ia.A004 | A 004 | "Conserving the Yale Center for British Art" film recordings | 
  [ycba.mss.0032.xml](5704.xml) | ycba.mss.0032 | MSS 32 | Matthew Shepperson archive | 
  [ycba.mss.0050.xml](5731.xml) | ycba.mss.0050 | MSS 50 | Collection of Cabaret Theatre Club and Cave of the Golden Calf printed ephemera | 
  [ycba.mss.0039.xml](5750.xml) | ycba.mss.0039 | MSS 39 | Vanessa Bell and Duncan Grant letters to Kenneth Clark and Jane Clark | 
