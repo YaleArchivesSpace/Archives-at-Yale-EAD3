@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-29T18:00:42-04:00</eventdatetime>
+            <eventdatetime>2026-10-30T18:00:41-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 30, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -6777,7 +6777,7 @@
                   id="ref353"
                   level="file">
                   <did>
-                     <unittitle>Misc. Writings incl. "Resume of the literature available concerning blister serum treatment of the opium habit.", 1942 Annual Report - South China Mission, Chinese Language Material</unittitle>
+                     <unittitle>Printed material including regarding blister serum treatment of opium habit, 1942 annual report of the South China Mission, Chinese language newspaper clipping</unittitle>
                      <unitdatestructured altrender="1931-1968" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1931">1931</fromdate>
@@ -6791,6 +6791,10 @@
                                 localtype="box">34</container>
                      <container id="aspace_ref353_c2" localtype="folder" parent="aspace_ref353_c1">1</container>
                   </did>
+                  <scopecontent id="aspace_6ae4f7162a4510d05ddc8f90bc943510">
+                     <head>Scope and Contents</head>
+                     <p>The undated newspaper clipping is titled "U.S. Imperialist Elements Have Long Persecuted the Residents of Panshi — Denouncing the Crimes of Imperialism" and relates to a public denunciation meeting at Xueguang Night School.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/114758"
                   id="ref354"
@@ -7595,7 +7599,7 @@
                   id="ref406"
                   level="file">
                   <did>
-                     <unittitle>Collected material: pages from devotional books, magazines, tracts, card, Chinese language booklets</unittitle>
+                     <unittitle>Collected material: pages from devotional books, magazines, tracts, card, Chinese language Gospel of John (Hong Kong Bible Society, 1958)</unittitle>
                      <container altrender="/repositories/4/top_containers/11772 /locations/2"
                                 containerid="39002131152630"
                                 id="aspace_ref406_c1"
@@ -50087,7 +50091,7 @@ Circular letter from Harry Worley (brother of Mildred Worley Ward), from Methodi
                   id="ref2322"
                   level="file">
                   <did>
-                     <unittitle>Typed ms.: "Our China"</unittitle>
+                     <unittitle>Typed ms.: "Our China," pages 1-307</unittitle>
                      <container altrender="/repositories/4/top_containers/11901 /locations/2"
                                 containerid="39002034900226"
                                 id="aspace_ref2322_c1"
@@ -50095,7 +50099,22 @@ Circular letter from Harry Worley (brother of Mildred Worley Ward), from Methodi
                                 localtype="box">236</container>
                      <container id="aspace_ref2322_c2"
                                 localtype="folder"
-                                parent="aspace_ref2322_c1">9-14</container>
+                                parent="aspace_ref2322_c1">9-12</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4069040"
+                  id="aspace_bc35f8036f8237be7a30f3839429a6f1"
+                  level="file">
+                  <did>
+                     <unittitle> Typed ms.: "Our China," pages 308-399</unittitle>
+                     <container altrender="/repositories/4/top_containers/11901 /locations/2"
+                                containerid="39002034900226"
+                                id="aspace_bc35f8036f8237be7a30f3839429a6f1_c1"
+                                label="Mixed Materials"
+                                localtype="box">236</container>
+                     <container id="aspace_bc35f8036f8237be7a30f3839429a6f1_c2"
+                                localtype="folder"
+                                parent="aspace_bc35f8036f8237be7a30f3839429a6f1_c1">13</container>
                   </did>
                </c>
             </c>
