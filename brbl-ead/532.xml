@@ -42,7 +42,7 @@
                <p>Boxes: 1-26, 28-Box 66, 69-70</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 27, 67-68, 71-76</p>
+               <p>Boxes: 27, 67-68, 71-80</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="75">75</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="587">587</num> digital files.</p>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-28T23:05:18-04:00</eventdatetime>
+            <eventdatetime>2026-10-29T23:48:01-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 23:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 23:48</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -140,7 +140,8 @@
       <accessrestrict id="aspace_db48fd5353682b4d0114a18aed624a28">
          <head>Conditions Governing Access</head>
          <p>The materials are open for research.</p>
-         <p>Material in Box 70 is restricted until December 12, 2032.</p>
+         <p>Box 70: Restricted until December 12, 2032.</p>
+         <p>Boxes 71-80 (Audiovisual recordings): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
          <p>
             <title localtype="simple" render="italic">
                <part>Restricted Fragile Papers</part>
@@ -13886,6 +13887,57 @@
                              parent="aspace_ref1084_c1">482</container>
                </did>
             </c>
+            <c altrender="/repositories/11/archival_objects/4068970"
+               id="aspace_570f0d3e0ef7027ba97014d90277ec45"
+               level="file">
+               <did>
+                  <unittitle>"Copie Jolas"</unittitle>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4068974"
+                  id="aspace_b97ce746392772e106d598c7bc16910e"
+                  level="file">
+                  <did>
+                     <unittitle>Audiotape</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiotape Reel</unittype>
+                     </physdescstructured>
+                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                     <container altrender="/repositories/11/top_containers/485751 /locations/7165"
+                                containerid="39002109480864"
+                                encodinganalog="archive half legal"
+                                id="aspace_b97ce746392772e106d598c7bc16910e_c1"
+                                label="Mixed Materials"
+                                localtype="box">71</container>
+                     <container id="aspace_b97ce746392772e106d598c7bc16910e_c2"
+                                localtype="folder"
+                                parent="aspace_b97ce746392772e106d598c7bc16910e_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4068979"
+                  id="aspace_bdaa365fffee03190c5da02871204957"
+                  level="file">
+                  <did>
+                     <unittitle>Audiotapes</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>2</quantity>
+                        <unittype>Audiotape Reels</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1993" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1993">1993</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/485751 /locations/7165"
+                                containerid="39002109480864"
+                                encodinganalog="archive half legal"
+                                id="aspace_bdaa365fffee03190c5da02871204957_c1"
+                                label="Mixed Materials"
+                                localtype="box">71</container>
+                     <container id="aspace_bdaa365fffee03190c5da02871204957_c2"
+                                localtype="folder"
+                                parent="aspace_bdaa365fffee03190c5da02871204957_c1">2-3</container>
+                  </did>
+               </c>
+            </c>
             <c altrender="/repositories/11/archival_objects/172985"
                id="ref1085"
                level="file">
@@ -14192,15 +14244,58 @@
                   id="ref1102"
                   level="file">
                   <did>
-                     <unittitle>[Radio Program] - Audiotapes</unittitle>
-                     <unitdatestructured altrender="1959" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1959">1959</datesingle>
-                     </unitdatestructured>
+                     <unittitle>[Radio Program] </unittitle>
                   </did>
-                  <separatedmaterial id="aspace_f0d6c6ed73468ba1f80567b3f4ce12e5">
-                     <head>Separated Materials</head>
-                     <p>Transferred: Material transferred Historical Sound Recordings, Sterling Memorial Library, Yale University</p>
-                  </separatedmaterial>
+                  <c altrender="/repositories/11/archival_objects/4068900"
+                     id="aspace_2046af757c1e6dd0dbd63ba0ca0a755e"
+                     level="file">
+                     <did>
+                        <unittitle>Audiotapes</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>Audiotape Reels</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1959 Jan 2" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1959-01-02">1959 Jan 2</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/485747 /locations/7165"
+                                   containerid="39002109480849"
+                                   id="aspace_2046af757c1e6dd0dbd63ba0ca0a755e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">72</container>
+                        <container id="aspace_2046af757c1e6dd0dbd63ba0ca0a755e_c2"
+                                   localtype="folder"
+                                   parent="aspace_2046af757c1e6dd0dbd63ba0ca0a755e_c1">1-2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4068907"
+                     id="aspace_64e46cb04a1039926ffff87598f8de95"
+                     level="file">
+                     <did>
+                        <unittitle>Audiotapes</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>Audiotape Reels</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1993" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1993">1993</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/485748 /locations/7165"
+                                   containerid="39002109480856"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_64e46cb04a1039926ffff87598f8de95_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">73</container>
+                        <container id="aspace_64e46cb04a1039926ffff87598f8de95_c2"
+                                   localtype="folder"
+                                   parent="aspace_64e46cb04a1039926ffff87598f8de95_c1">1-3</container>
+                     </did>
+                     <accessrestrict id="aspace_6db38d03a3810fafc48b08eb0d5f6bf3"
+                                     localtype="RestrictedFragileSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Box 73 (Sound recordings): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                  </c>
                </c>
             </c>
             <c altrender="/repositories/11/archival_objects/173002"
@@ -38766,7 +38861,7 @@
                      id="ref2621"
                      level="file">
                      <did>
-                        <unittitle>"Irish Writers - 5. James Joyce" by</unittitle>
+                        <unittitle>"Irish Writers - 5. James Joyce" </unittitle>
                      </did>
                      <scopecontent id="aspace_6d1ed77c7cab41f78ec8e57eab1ed849">
                         <head>Scope and Contents</head>
@@ -38795,15 +38890,31 @@
                      id="ref2624"
                      level="file">
                      <did>
-                        <unittitle>"James Joyce: A Touch of the Artist" - BBC - Audiotapes</unittitle>
-                        <unitdatestructured altrender="1982 Jan 26" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1982-01-26">1982 Jan 26</datesingle>
-                        </unitdatestructured>
+                        <unittitle>"James Joyce: A Touch of the Artist" - BBC </unittitle>
                      </did>
-                     <separatedmaterial id="aspace_cce558dc79038d67cdc73f7121bc457f">
-                        <head>Separated Materials</head>
-                        <p>Transferred: Material transferred to Historical Sound Recordings, Sterling Memorial Library</p>
-                     </separatedmaterial>
+                     <c altrender="/repositories/11/archival_objects/4068896"
+                        id="aspace_c9409ff7e0cd472ccc0ac424af34a47b"
+                        level="file">
+                        <did>
+                           <unittitle>Audiotapes</unittitle>
+                           <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                              <quantity>2</quantity>
+                              <unittype>Audiotape Reels</unittype>
+                           </physdescstructured>
+                           <unitdatestructured altrender="1993" label="creation" unitdatetype="inclusive">
+                              <datesingle standarddate="1993">1993</datesingle>
+                           </unitdatestructured>
+                           <container altrender="/repositories/11/top_containers/485746 /locations/7165"
+                                      containerid="39002109480831"
+                                      encodinganalog="archive half legal"
+                                      id="aspace_c9409ff7e0cd472ccc0ac424af34a47b_c1"
+                                      label="Mixed Materials"
+                                      localtype="box">74</container>
+                           <container id="aspace_c9409ff7e0cd472ccc0ac424af34a47b_c2"
+                                      localtype="folder"
+                                      parent="aspace_c9409ff7e0cd472ccc0ac424af34a47b_c1">1-2</container>
+                        </did>
+                     </c>
                   </c>
                   <c altrender="/repositories/11/archival_objects/174379"
                      id="ref2626"
@@ -40540,6 +40651,82 @@
                   </did>
                </c>
             </c>
+            <c altrender="/repositories/11/archival_objects/4068879"
+               id="aspace_cf73f085c7c6415fbf5928719701da48"
+               level="file">
+               <did>
+                  <unittitle>"Anniversaire 90 ans"</unittitle>
+               </did>
+               <c altrender="/repositories/11/archival_objects/4068880"
+                  id="aspace_e4b05091c0b5c813977e245028d783d2"
+                  level="file">
+                  <did>
+                     <unittitle>Videocassette [1 of 3]</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Videocassette (3/4" U-Matic)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1983 Jan 12" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1983-01-12">1983 Jan 12</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/485742 /locations/7165"
+                                containerid="39002109480807"
+                                encodinganalog="archive half legal"
+                                id="aspace_e4b05091c0b5c813977e245028d783d2_c1"
+                                label="Mixed Materials"
+                                localtype="box">75</container>
+                     <container id="aspace_e4b05091c0b5c813977e245028d783d2_c2"
+                                localtype="folder"
+                                parent="aspace_e4b05091c0b5c813977e245028d783d2_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4068881"
+                  id="aspace_d28e7f47db69efbb4a0b3387cabfd9d4"
+                  level="file">
+                  <did>
+                     <unittitle>Videocassette [2 of 3]</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Videocassette (3/4" U-Matic)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1983 Jan 12" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1983-01-12">1983 Jan 12</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/485743 /locations/7165"
+                                containerid="39002109480815"
+                                encodinganalog="archive half legal"
+                                id="aspace_d28e7f47db69efbb4a0b3387cabfd9d4_c1"
+                                label="Mixed Materials"
+                                localtype="box">76</container>
+                     <container id="aspace_d28e7f47db69efbb4a0b3387cabfd9d4_c2"
+                                localtype="folder"
+                                parent="aspace_d28e7f47db69efbb4a0b3387cabfd9d4_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/11/archival_objects/4068882"
+                  id="aspace_0b48b867b336be5bc352eb01e7a26dee"
+                  level="file">
+                  <did>
+                     <unittitle>Videocassette [3 of 3]</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Videocassette (3/4" U-Matic)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="1983 Jan 12" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1983-01-12">1983 Jan 12</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/485744 /locations/7165"
+                                containerid="39002109480823"
+                                encodinganalog="archive half legal"
+                                id="aspace_0b48b867b336be5bc352eb01e7a26dee_c1"
+                                label="Mixed Materials"
+                                localtype="box">77</container>
+                     <container id="aspace_0b48b867b336be5bc352eb01e7a26dee_c2"
+                                localtype="folder"
+                                parent="aspace_0b48b867b336be5bc352eb01e7a26dee_c1">1</container>
+                  </did>
+               </c>
+            </c>
             <c altrender="/repositories/11/archival_objects/174494"
                id="ref2748"
                level="file">
@@ -41529,6 +41716,36 @@
                                 parent="aspace_ref2802_c1">1350</container>
                   </did>
                </c>
+               <c altrender="/repositories/11/archival_objects/4068871"
+                  id="aspace_b89bf48dc388e05cbd9406d54310ac4a"
+                  level="file">
+                  <did>
+                     <unittitle>Dublin interview</unittitle>
+                  </did>
+                  <c altrender="/repositories/11/archival_objects/4068872"
+                     id="aspace_ce6c2ed0c39b32ab4a33e85b6d5fdd1b"
+                     level="file">
+                     <did>
+                        <unittitle>Interview</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Audiocassette</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1977 Jun 14" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1977-06-14">1977 Jun 14</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/485739 /locations/7165"
+                                   containerid="39002109480773"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_ce6c2ed0c39b32ab4a33e85b6d5fdd1b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">78</container>
+                        <container id="aspace_ce6c2ed0c39b32ab4a33e85b6d5fdd1b_c2"
+                                   localtype="folder"
+                                   parent="aspace_ce6c2ed0c39b32ab4a33e85b6d5fdd1b_c1">1</container>
+                     </did>
+                  </c>
+               </c>
                <c altrender="/repositories/11/archival_objects/174548"
                   id="ref2803"
                   level="file">
@@ -41678,6 +41895,52 @@
                   <did>
                      <unittitle>By Radio Jerusalem </unittitle>
                   </did>
+                  <c altrender="/repositories/11/archival_objects/4068874"
+                     id="aspace_7ce7d0ba9d3bc357f01a09d358361dfc"
+                     level="file">
+                     <did>
+                        <unittitle>Interview</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Audiotape Reel</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1975 Dec" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1975-12">1975 Dec</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/485739 /locations/7165"
+                                   containerid="39002109480773"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_7ce7d0ba9d3bc357f01a09d358361dfc_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">78</container>
+                        <container id="aspace_7ce7d0ba9d3bc357f01a09d358361dfc_c2"
+                                   localtype="folder"
+                                   parent="aspace_7ce7d0ba9d3bc357f01a09d358361dfc_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/11/archival_objects/4068875"
+                     id="aspace_5b44a440bd61f522c42a63f68de23d19"
+                     level="file">
+                     <did>
+                        <unittitle>Interview</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>Audiotape Reels</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1993" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1993">1993</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/485740 /locations/7165"
+                                   containerid="39002109480781"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_5b44a440bd61f522c42a63f68de23d19_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">79</container>
+                        <container id="aspace_5b44a440bd61f522c42a63f68de23d19_c2"
+                                   localtype="folder"
+                                   parent="aspace_5b44a440bd61f522c42a63f68de23d19_c1">1-3</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/11/archival_objects/174560"
                   id="ref2816"
@@ -41740,6 +42003,29 @@
                   <did>
                      <unittitle>With Sarraute, Nathalie </unittitle>
                   </did>
+                  <c altrender="/repositories/11/archival_objects/4068876"
+                     id="aspace_a88db2e2b537967ac0fbaad13a803128"
+                     level="file">
+                     <did>
+                        <unittitle>Interview</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>Audiotape Reels</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1993" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1993">1993</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/485741 /locations/7165"
+                                   containerid="39002109480799"
+                                   encodinganalog="archive half legal"
+                                   id="aspace_a88db2e2b537967ac0fbaad13a803128_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_a88db2e2b537967ac0fbaad13a803128_c2"
+                                   localtype="folder"
+                                   parent="aspace_a88db2e2b537967ac0fbaad13a803128_c1">1-2</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/11/archival_objects/174565"
                   id="ref2822"
@@ -42029,19 +42315,23 @@
                      <quantity>1</quantity>
                      <unittype>Audiotape Reel</unittype>
                   </physdescstructured>
-                  <unitdatestructured altrender="1965" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1965">1965</datesingle>
+                  <unitdatestructured altrender="1993" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="1993">1993</datesingle>
                   </unitdatestructured>
                   <container altrender="/repositories/11/top_containers/485741 /locations/7165"
                              containerid="39002109480799"
                              encodinganalog="archive half legal"
                              id="aspace_ref2839_c1"
                              label="Mixed Materials"
-                             localtype="box">73</container>
+                             localtype="box">80</container>
                   <container id="aspace_ref2839_c2"
                              localtype="folder"
                              parent="aspace_ref2839_c1">3</container>
                </did>
+               <scopecontent id="aspace_cfb6207a58431c2e1ae563f8544dbca8">
+                  <head>Scope and Contents</head>
+                  <p>Audio duplicate of a cassette tape recording dating circa 1965.</p>
+               </scopecontent>
             </c>
             <c altrender="/repositories/11/archival_objects/174582"
                id="ref2841"

@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-6, 7 (Oversize), 8-13</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: 14</p>
+            </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="305">305</num> digital files.</p>
             </controlnote>
@@ -72,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-05-01T23:03:34-04:00</eventdatetime>
+            <eventdatetime>2026-10-29T23:38:14-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday May  1, 2026 at 23:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 23:38</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1729,11 +1732,11 @@
                   </physdescstructured>
                   <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   <materialspec id="aspace_75333ef28f85bb5cb4291d2382cf7c9e">The program starts and ends abruptly. Audio distortion, hum, and hiss are present.</materialspec>
-                  <container altrender="/repositories/11/top_containers/70409 /locations/9"
-                             containerid="39002075267063"
+                  <container altrender="/repositories/11/top_containers/485745"
+                             encodinganalog="archive half legal"
                              id="aspace_ref121_c1"
                              label="Mixed Materials"
-                             localtype="box">5</container>
+                             localtype="box">14</container>
                   <container id="aspace_ref121_c2"
                              localtype="item_barcode"
                              parent="aspace_ref121_c1">39002141021023</container>
