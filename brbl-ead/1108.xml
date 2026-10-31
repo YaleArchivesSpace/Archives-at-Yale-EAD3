@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-18T23:51:07-04:00</eventdatetime>
+            <eventdatetime>2026-10-30T23:01:03-04:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 23:51</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 30, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -422641,6 +422641,57 @@
                      <p>3 p. <lb/> 21 x 17 cm.</p>
                   </scopecontent>
                </c>
+               <c altrender="/repositories/11/archival_objects/421337"
+                  id="ref38942"
+                  level="file">
+                  <did>
+                     <unittitle>Letter (copy, in the hand of Thomas Rutherforth) to William Richardson, Bloomsbury Square.</unittitle>
+                     <unitdatestructured altrender="1748 Aug 9" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1748-08-09">1748 Aug 9</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/11/top_containers/465942 /locations/4051"
+                                containerid="39002140971830"
+                                encodinganalog="archive half legal"
+                                id="aspace_ref38942_c1"
+                                label="Mixed Materials"
+                                localtype="box">168</container>
+                     <container id="aspace_ref38942_c2"
+                                localtype="file"
+                                parent="aspace_ref38942_c1">16166</container>
+                  </did>
+                  <scopecontent id="aspace_33d29a22c6e76f12e348c960dcd946ff">
+                     <head>Scope and Contents</head>
+                     <p>1 p. <lb/> 23 x 19 cm.</p>
+                  </scopecontent>
+               </c>
+               <c altrender="/repositories/11/archival_objects/421338"
+                  id="ref38944"
+                  level="file">
+                  <did>
+                     <unittitle>Portraits, etc.</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                     <container altrender="/repositories/11/top_containers/465942 /locations/4051"
+                                containerid="39002140971830"
+                                encodinganalog="archive half legal"
+                                id="aspace_ref38944_c1"
+                                label="Mixed Materials"
+                                localtype="box">168</container>
+                     <container id="aspace_ref38944_c2"
+                                localtype="file"
+                                parent="aspace_ref38944_c1">16167</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/4069067"
+               id="aspace_f3e5d9dca8ce3ed40bd6fb3fb5afff9e"
+               level="file">
+               <did>
+                  <unittitle>WILLES, JOHN</unittitle>
+               </did>
+               <processinfo id="aspace_b84921de118d515cd795ecfd4123d109">
+                  <head>Processing Information</head>
+                  <p>These letters were previously grouped with letters written by Edward Willes.</p>
+               </processinfo>
                <c altrender="/repositories/11/archival_objects/421332"
                   id="ref38932"
                   level="file">
@@ -422755,46 +422806,6 @@
                      <head>Scope and Contents</head>
                      <p>2 p. <lb/> 19 x 23 cm.</p>
                   </scopecontent>
-               </c>
-               <c altrender="/repositories/11/archival_objects/421337"
-                  id="ref38942"
-                  level="file">
-                  <did>
-                     <unittitle>Letter (copy, in the hand of Thomas Rutherforth) to William Richardson, Bloomsbury Square.</unittitle>
-                     <unitdatestructured altrender="1748 Aug 9" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1748-08-09">1748 Aug 9</datesingle>
-                     </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/465942 /locations/4051"
-                                containerid="39002140971830"
-                                encodinganalog="archive half legal"
-                                id="aspace_ref38942_c1"
-                                label="Mixed Materials"
-                                localtype="box">168</container>
-                     <container id="aspace_ref38942_c2"
-                                localtype="file"
-                                parent="aspace_ref38942_c1">16166</container>
-                  </did>
-                  <scopecontent id="aspace_33d29a22c6e76f12e348c960dcd946ff">
-                     <head>Scope and Contents</head>
-                     <p>1 p. <lb/> 23 x 19 cm.</p>
-                  </scopecontent>
-               </c>
-               <c altrender="/repositories/11/archival_objects/421338"
-                  id="ref38944"
-                  level="file">
-                  <did>
-                     <unittitle>Portraits, etc.</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
-                     <container altrender="/repositories/11/top_containers/465942 /locations/4051"
-                                containerid="39002140971830"
-                                encodinganalog="archive half legal"
-                                id="aspace_ref38944_c1"
-                                label="Mixed Materials"
-                                localtype="box">168</container>
-                     <container id="aspace_ref38944_c2"
-                                localtype="file"
-                                parent="aspace_ref38944_c1">16167</container>
-                  </did>
                </c>
             </c>
             <c altrender="/repositories/11/archival_objects/421339"

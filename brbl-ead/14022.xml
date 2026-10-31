@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-29T23:47:46-04:00</eventdatetime>
+            <eventdatetime>2026-10-30T23:00:45-04:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 23:47</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 30, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -399,6 +399,57 @@
          <genreform identifier="http://vocab.getty.edu/aat/300374824" source="aat">
             <part localtype="genre_form">Born digital</part>
          </genreform>
+         <persname identifier="n97850536" rules="dacs" source="lcsh">
+            <part localtype="agent_person">Clayburgh, Jim</part>
+         </persname>
+         <persname identifier="no90009824" rules="dacs" source="lcsh">
+            <part localtype="agent_person">Dafoe, Willem, 1955-</part>
+         </persname>
+         <persname identifier="no2010044985" rules="dacs" source="lcsh">
+            <part localtype="agent_person">Fliakos, Ari</part>
+         </persname>
+         <persname identifier="n81053580" rules="dacs" source="lcsh">
+            <part localtype="agent_person">Foreman, Richard, 1937-2025</part>
+         </persname>
+         <persname identifier="n85176138" rules="dacs" source="lcsh">
+            <part localtype="agent_person">Gray, Spalding, 1941-2004</part>
+         </persname>
+         <persname rules="dacs" source="local_beinecke">
+            <part localtype="agent_person">Hapaz, Clay</part>
+         </persname>
+         <persname rules="dacs" source="local_beinecke">
+            <part localtype="agent_person">Hartmann, Teresa</part>
+         </persname>
+         <persname rules="dacs" source="local_beinecke">
+            <part localtype="agent_person">Karasu, Bozkurt</part>
+         </persname>
+         <persname identifier="no2006117958" rules="dacs" source="naf">
+            <part localtype="agent_person">Kirby, Michael, 1931-1997</part>
+         </persname>
+         <persname identifier="no2004042207" rules="dacs" source="naf">
+            <part localtype="agent_person">Kobland, Ken</part>
+         </persname>
+         <persname identifier="n97840979" rules="dacs" source="naf">
+            <part localtype="agent_person">LeCompte, Elizabeth</part>
+         </persname>
+         <persname rules="dacs" source="local_beinecke">
+            <part localtype="agent_person">Smith, Payton</part>
+         </persname>
+         <persname identifier="n87905488" rules="dacs" source="naf">
+            <part localtype="agent_person">Strahs, James</part>
+         </persname>
+         <persname identifier="n97873733" rules="dacs" source="naf">
+            <part localtype="agent_person">Tipton, Jennifer</part>
+         </persname>
+         <persname identifier="nr2004005957" rules="dacs" source="naf">
+            <part localtype="agent_person">Valk, Kate</part>
+         </persname>
+         <persname identifier="no96065504" rules="dacs" source="naf">
+            <part localtype="agent_person">Vawter, Ron</part>
+         </persname>
+         <persname identifier="n97843002" rules="dacs" source="naf">
+            <part localtype="agent_person">Weiss, Jeff</part>
+         </persname>
       </controlaccess>
       <dsc>
          <c altrender="/repositories/11/archival_objects/4043312"
