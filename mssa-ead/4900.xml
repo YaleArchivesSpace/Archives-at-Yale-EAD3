@@ -36,6 +36,11 @@
             <date>March 2011</date>
             <num>MS 1952</num>
          </publicationstmt>
+         <notestmt>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="82">82</num> digital files.</p>
+            </controlnote>
+         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -66,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-11T03:01:30-05:00</eventdatetime>
+            <eventdatetime>2026-11-01T03:03:20-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday February 11, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday November  1, 2026 at 03:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5949,6 +5954,27 @@
                                 label="Mixed Materials"
                                 localtype="box">95</container>
                      <container id="aspace_ref472_c2" localtype="folder" parent="aspace_ref472_c1">1-66</container>
+                     <daoset altrender="/repositories/12/digital_objects/364488">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33842719"
+                             linktitle="24 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33842719"
+                             identifier="oid:33842719"
+                             linktitle="24 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Hi-Je</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/2044067"
@@ -5983,6 +6009,27 @@
                                 label="Mixed Materials"
                                 localtype="box">97</container>
                      <container id="aspace_ref477_c2" localtype="folder" parent="aspace_ref477_c1">1-81</container>
+                     <daoset altrender="/repositories/12/digital_objects/364491">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33842775"
+                             linktitle="58 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33842775"
+                             identifier="oid:33842775"
+                             linktitle="58 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Mae-Ng</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <altformavail id="aspace_f001ee3171f7b2ba3466b815417fa241">
                      <head>Existence and Location of Copies</head>
