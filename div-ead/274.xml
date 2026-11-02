@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-11T18:00:44-04:00</eventdatetime>
+            <eventdatetime>2026-11-02T18:02:32-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday September 11, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  2, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -7672,15 +7672,14 @@
                id="ref424"
                level="file">
                <did>
-                  <unittitle>Chinese Language Material</unittitle>
-                  <unitdatestructured altrender="1927" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1927">1927</datesingle>
-                  </unitdatestructured>
-                  <unitdatestructured altrender="1936" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1936">1936</datesingle>
-                  </unitdatestructured>
-                  <unitdatestructured altrender="1937" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1937">1937</datesingle>
+                  <unittitle>Chinese language material as described in note</unittitle>
+                  <unitdatestructured altrender="1927, 1936, 1937"
+                                      label="creation"
+                                      unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1927">1927</fromdate>
+                        <todate standarddate="1937">1937</todate>
+                     </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/10872 /locations/9"
                              containerid="39002038302965"
@@ -7718,13 +7717,24 @@
                      </descriptivenote>
                   </daoset>
                </did>
+               <scopecontent id="aspace_2df60f37ccd83d2c4b9442fdd31258f6">
+                  <head>Scope and Contents</head>
+                  <p>1927
+Item No.1: handwritten letter, January 13 (1927?), from Yangwu Workers' Federation (洋務工友聯合會) to school principal, forwarding three regulations received from the General Labor Union for review and requesting their recognition. The letter states that, if the regulations are not recognized, the matter will be referred for discussion at a meeting, and requests a prompt reply.
+No. 2: unidentified handwritten document dated January 18, 1927</p>
+                  <p>1936
+Item No.1: Newspaper leaf from The China Press Weekly: eleven poems by Du(Tu) Fu (杜甫), presented in English translation alongside the original Chinese texts. The Chinese texts also include annotations corresponding to or commenting on the English translations. Author/Translator: W. J. B. Fletcher, formerly British Consul, Hoihow</p>
+                  <p>1937
+Item No.1: Newspaper clipping of article titled "Japanese Government Statement on the Adjustment of Sino-Japanese Relations and the Construction of a New Order in East Asia", undated, which outlines Japan's stated goals for political cooperation, economic integration, and regional security while seeking to justify its policy toward China.</p>
+                  <p>No.2: Five copies of handwritten statistical sheet dated 1937 containing three tables: statistics on captured war materiel (戰利品統計), army and naval casualties (陸海軍死傷人數之統計), and aircraft losses (飛機損失統計). An accompanying anti-war statement questions why the war should continue, denounces the "militarist faction" (軍部暴力派) and political figures identified as Konoe (近衛), Ugaki (宇垣), and Itagaki (板垣), and calls for an end to what it describes as a self-destructive war and for troops to return home.</p>
+               </scopecontent>
             </c>
             <c altrender="/repositories/4/archival_objects/105220"
                id="ref425"
                level="file">
                <did>
-                  <unittitle>Chinese Language Material</unittitle>
-                  <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                  <unittitle>Chinese language material </unittitle>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   <container altrender="/repositories/4/top_containers/10872 /locations/9"
                              containerid="39002038302965"
                              id="aspace_ref425_c1"

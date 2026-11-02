@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-18T18:00:16-04:00</eventdatetime>
+            <eventdatetime>2026-11-02T18:02:28-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday August 18, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  2, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1527,7 +1527,7 @@
             id="ref148"
             level="series">
             <did>
-               <unittitle>Printed/professional material</unittitle>
+               <unittitle>Printed / professional material</unittitle>
                <unitid>Series III</unitid>
             </did>
             <scopecontent id="aspace_f3f1c3b143964cb2a51034c1be229bc9">
@@ -2261,7 +2261,13 @@
                   id="ref189"
                   level="file">
                   <did>
-                     <unittitle>Pamphlets</unittitle>
+                     <unittitle>Pamphlets as described in note</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1914">1914</fromdate>
+                           <todate standarddate="1941">1941</todate>
+                        </daterange>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/10316 /locations/9"
                                 containerid="39002038302585"
                                 id="aspace_ref189_c1"
@@ -2269,6 +2275,15 @@
                                 localtype="box">15</container>
                      <container id="aspace_ref189_c2" localtype="folder" parent="aspace_ref189_c1">53</container>
                   </did>
+                  <scopecontent id="aspace_c10ab5cc99fe1904569fb56896e6206c">
+                     <head>Scope and Contents</head>
+                     <p>Item No.1:  Regulations for Members of the Yingtai County Congregational Church (永泰縣公理會會友章程), 1914. The regulations address worship, family life, child betrothal and tongyangxi (童養媳), participation in ancestral or religious sacrifices, and social conduct.</p>
+                     <p>No.2: Hymn book: "Hymns of Praise to the Lord" (頌主聖詩), a collection of 40 hymns, together with the Lord's Prayer, the Ten Commandments, the Apostles' Creed, and forms of prayer for morning and evening.</p>
+                     <p>No. 3: Constitution and Bylaws of the Guanzhong Association of the Church of Christ in China (關中協會典章及細則), January 1, 1941, comprising 19 articles governing the organization and administration of the association.</p>
+                     <p>No. 4: "Three-Character Classic of Truth" (真理三字經) by Rev. Charles Hartwell (察理氏), 1878, Meihua Publishing House, Fuzhou (福州美華書局), a Christian instructional text written in the traditional Chinese three-character verse (sanzijing 三字經) format, presenting Christian teachings and religious instruction.</p>
+                     <p>No. 5:  "A Week's Diary of a Rural Evangelist" (一個鄉村宣教師一星期的日記) by Yu Xiaofeng (余曉峯), October, 1928, printed by Shanghai Guoxue Press (上海國學社) for Editorial Department of the Methodist Church Members' Association (監理會教友會編輯部)</p>
+                     <p>No.6: Same as item 1.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/98981"
                   id="ref190"
@@ -2321,7 +2336,7 @@
                   id="ref193"
                   level="file">
                   <did>
-                     <unittitle>Church material, compositions, correspondence</unittitle>
+                     <unittitle>Church material, compositions and correspondence, as described in note</unittitle>
                      <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
                      <container altrender="/repositories/4/top_containers/10316 /locations/9"
                                 containerid="39002038302585"
@@ -2330,6 +2345,21 @@
                                 localtype="box">15</container>
                      <container id="aspace_ref193_c2" localtype="folder" parent="aspace_ref193_c1">58</container>
                   </did>
+                  <scopecontent id="aspace_6dcd99522eb18fd6b5e9bb4bc58f430e">
+                     <head>Scope and Contents</head>
+                     <p>Church material: 
+Item No.1: One page printed notice by missionary known as Yi Fangting (伊芳廷), Western Executive Secretary, Yingtai District Association, Church of Christ in China (中華基督教會永泰區會西執行幹事),aA public statement concerning a dispute over the administration of a Christian school in Yingtai and the circumstances surrounding his resignation as principal.</p>
+                     <p>No.2: One page printed order of service for evening worship, including the procession into the church, congregational recitation of the creed, prayer of confession, responsive reading, congregational singing, offering, and other elements of worship.</p>
+                     <p>No.3: Letter to Christians throughout China from the National Christian Council of China (中華全國基督教協進會致全國信徒書), Ocotber 1, 1949, reprinted by: Fujian Christian Council (福建基督教協進會). Addressed to Christians throughout China, the letters discusses historical circumstances, the role of the Church in society, and the Church's self-examination.
+ 
+No.4: Constitution and Bylaws of the Guanzhong Association of the Church of Christ in China (中華基督教會關中協會典章及細則), including sections on general provisions, organization, powers and responsibilities, and amendments, provisions concerning local congregations, district associations, the Guanzhong Association.</p>
+                     <p>No.5: Membership List for the Centennial Commemoration and 37th Annual Meeting of the Guanzhong Association of the Church of Christ in China (中華基督教會關中協會百週年紀念會暨三十七年度年會會員名錄)</p>
+                     <p>Correspondence and compositions:</p>
+                     <p>Item: : A  fragment of a letter addressed to "Dear Mei" (親愛的美小朋友), in which the writer mentions Mei studying in the United States, not knowing which school she attends, and expresses the hope that she might come to China.</p>
+                     <p>Item: Classical Chinese--Exam:  Accordion-folded examination paper, handwritten, Fujian Educational Association, Examination Department (福建教育會會考部), Student No.28, Higher Primary School (高等小學) A handwritten student essay titled "信則人任馬義", beginning with the phrase "欲木之長者必先固其根，欲流之遠者必浚其源根……" and discussing moral principles through classical-style prose.</p>
+                     <p>Item: Handwritten letter by Lin Maode (林茂德), February 27, no year. A letter from Lin Maode to Rev. Yi, written after eight years of separation, describing severe famine, inflation, and the extremely high price of rice. Lin recalls financial assistance previously sent by Rev. Yi from the United States and states that his family of eight is facing starvation. He urgently appeals for additional funds to prevent them from "starving to death in the church," while expressing his suffering in explicitly Christian terms and referring to glorifying God the Father.</p>
+                     <p>Item: Handwritten letter by Lin Maode (林茂德), February 16, no year. A letter from Lin Maode to Rev. Yi describing severe famine in Geling and the high price of rice. Lin states that his family of eight is facing starvation and asks Yi to send US$100, preferably $200, from the United States to support the family. He also mentions the possible repair of the church and asks Yi to send additional funds for that purpose. Lin requests a reply in English addressed directly to him at the Geling Church (葛嶺禮拜堂) and closes with a prayer for God's protection over Yi.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/98985"
                   id="ref194"
@@ -2349,7 +2379,7 @@
                   id="ref195"
                   level="file">
                   <did>
-                     <unittitle>Two war posters</unittitle>
+                     <unittitle>Two wartime posters as described in note</unittitle>
                      <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
                      <container altrender="/repositories/4/top_containers/10316 /locations/9"
                                 containerid="39002038302585"
@@ -2358,13 +2388,18 @@
                                 localtype="box">15</container>
                      <container id="aspace_ref195_c2" localtype="folder" parent="aspace_ref195_c1">60</container>
                   </did>
+                  <scopecontent id="aspace_be634a02b1afab5dc8ee5e20622d8f13">
+                     <head>Scope and Contents</head>
+                     <p>Poster 1:  恭賀新禧 (Best Wishes for the New Year): a wartime propaganda poster depicting a Chinese soldier in Nationalist military uniform draped in the Nationalist Chinese flag. The accompanying text portrays the soldier as driving the Japanese forces from Chinese territory and calls on readers to support him. A warning addressed to Chinese allies in Japanese-occupied areas instructs recipients to keep the poster ("door-god image," 門神) out of sight to avoid retaliation by Japanese forces.</p>
+                     <p>Poster 2:  恭賀新禧 (Best Wishes for the New Year): a wartime propaganda poster depicting an American airman draped in the United States flag. The accompanying text portrays American air forces as driving Japanese forces from Chinese skies and urges readers to support them because they are "fighting for you." A warning addressed to Chinese allies in Japanese-occupied areas instructs recipients to keep the poster ("door-god image," 門神) out of sight to avoid retaliation by Japanese forces.</p>
+                  </scopecontent>
                </c>
                <c altrender="/repositories/4/archival_objects/98987"
                   id="ref196"
                   level="file">
                   <did>
-                     <unittitle>Catalogue of a store in Beijing (Peking)</unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
+                     <unittitle>Notebook containing hand-drawn illustrations depicting traditional Chinese shop signs (幌子) observed in Beijing, with a location identified as south of the western entrance of Dazhi Bridge, outside Shunzhi Gate (北京順治門外達智橋內西口迤南). </unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                      <container altrender="/repositories/4/top_containers/10316 /locations/9"
                                 containerid="39002038302585"
                                 id="aspace_ref196_c1"
