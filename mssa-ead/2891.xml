@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-20T03:01:02-04:00</eventdatetime>
+            <eventdatetime>2026-11-03T03:00:37-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 03:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 03:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -2972,6 +2972,10 @@
                   <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                      <quantity>1</quantity>
                      <unittype>Videocassette (VHS)</unittype>
+                  </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>00:23:17</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
                   </physdescstructured>
                   <unitdatestructured altrender="1989" label="creation" unitdatetype="inclusive">
                      <daterange>
