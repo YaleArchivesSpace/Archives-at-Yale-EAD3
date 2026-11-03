@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-29T23:48:01-04:00</eventdatetime>
+            <eventdatetime>2026-11-02T23:02:43-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 23:48</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  2, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -108,10 +108,10 @@
             </descriptivenote>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>31.75</quantity>
+            <quantity>33.85</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">70 boxes</physdesc>
+         <physdesc localtype="container_summary">80 boxes</physdesc>
          <unitdatestructured altrender="1879-1986" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1879">1879</fromdate>
@@ -125,45 +125,20 @@
             </persname>
          </origination>
       </did>
-      <acqinfo id="aspace_8c4f600a9585166a787a0c082544e9f6">
-         <head>Immediate Source of Acquisition</head>
-         <p>The papers were donated in part and purchased in part from Betsy and Tina Jolas in 1989.</p>
-      </acqinfo>
-      <userestrict id="aspace_3c297e4f07974ce053b539b7c9c85df6">
-         <head>Conditions Governing Use</head>
-         <p>The Eugène and Maria Jolas Papers are the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
-      </userestrict>
-      <prefercite id="aspace_7fd6396e7443799fbe16efe45f72d193">
-         <head>Preferred Citation</head>
-         <p>Eugène and Maria Jolas Papers. General Collection, Beinecke Rare Book and Manuscript Library.</p>
-      </prefercite>
       <accessrestrict id="aspace_db48fd5353682b4d0114a18aed624a28">
          <head>Conditions Governing Access</head>
          <p>The materials are open for research.</p>
-         <p>Box 70: Restricted until December 12, 2032.</p>
-         <p>Boxes 71-80 (Audiovisual recordings): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
          <p>
             <title localtype="simple" render="italic">
                <part>Restricted Fragile Papers</part>
             </title> in box 69 may only be consulted with permission of the appropriate curator. Preservation photocopies for reference use have been substituted in the main files.</p>
+         <p>Box 70: Restricted until December 12, 2032.</p>
+         <p>Boxes 71-80 (Audiovisual recordings): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
       </accessrestrict>
-      <processinfo id="aspace_c2f46cef77f0a63bfcb1c0f8eee1b7c3">
-         <head>Processing Information</head>
-         <p>Filed before the first series are the original finding aids which came with the archives. These three separate guides were created by Maria Jolas with the aid of assistants in the 1960s in attempt to catalog the majority of the papers. Though incomplete, these original lists (one each for materials pertaining to Eugène Jolas, Maria Jolas, and James Joyce) are helpful in placing many documents in context. The chronological listings of correspondence (as they were originally organized) can provide another point of access to these materials. Materials comprising the <title localtype="simple" render="italic">
-               <part>transition</part>
-            </title> subgroup had been divided among the three original groups; there was no original separate guide to these documents. <title localtype="simple" render="italic">
-               <part>NOTE</part>
-            </title>: Due to the presence of four subgroups, there may be a certain amount of overlapping among the groups. For example, when looking for correspondence for a specific individual, it is important to consult the Correspondence series in each subgroup. Though cross-references have been made for letters housed in series other than Correspondence, the general correspondence files for each subgroup will not necessarily reference letters in other general correspondence series.</p>
-         <p>Material in boxes 65-66 was formerly restricted; the restriction expired in 2019.</p>
-      </processinfo>
-      <relatedmaterial id="aspace_9b64c86d49adc6e4146ea867a5860514">
-         <head>Associated Materials</head>
-         <p>
-            <ref actuate="onrequest"
-                 href="https://hdl.handle.net/10079/fa/beinecke.jolasadd"
-                 show="new">Eugène and Maria Jolas Papers - Addition, GEN MSS 411</ref>
-         </p>
-      </relatedmaterial>
+      <acqinfo id="aspace_8c4f600a9585166a787a0c082544e9f6">
+         <head>Immediate Source of Acquisition</head>
+         <p>The papers were donated in part and purchased in part from Betsy and Tina Jolas in 1989. With additional gifts from Betsy Jolas, 1998-2005.</p>
+      </acqinfo>
       <bioghist id="aspace_c2efc24744375ab4a90a36bd4db525f9">
          <head>Eugène Jolas (1894-1952)</head>
          <p>John George Eugène Jolas was born October 26, 1894, in Union Hill, New Jersey. His parents, Eugène Pierre and Christine (née Ambach) had immigrated to the United States from the Rhine borderland area between France and Germany several years earlier. The family would return to Europe, specifically Forbach in Lorraine, in 1897. Eugène spent his formative years in this part of Europe which had become part of Germany in 1871 following the Franco-Prussian War.</p>
@@ -350,6 +325,28 @@
          <p>Tompkins, Lionel - translator, friend of Maria Jolas</p>
          <p>Vail, Sharon - daughter of Kay Boyle and Laurence Vail</p>
       </bioghist>
+      <prefercite id="aspace_7fd6396e7443799fbe16efe45f72d193">
+         <head>Preferred Citation</head>
+         <p>Eugène and Maria Jolas Papers. General Collection, Beinecke Rare Book and Manuscript Library.</p>
+      </prefercite>
+      <processinfo id="aspace_c2f46cef77f0a63bfcb1c0f8eee1b7c3">
+         <head>Processing Information</head>
+         <p>Filed before the first series are the original finding aids, which came with the archives. These three separate guides were created by Maria Jolas with the aid of assistants in the 1960s in attempt to catalog the majority of the papers. Though incomplete, these original lists (one each for materials pertaining to Eugène Jolas, Maria Jolas, and James Joyce) are helpful in placing many documents in context. The chronological listings of correspondence (as they were originally organized) can provide another point of access to these materials. Materials comprising the <title localtype="simple" render="italic">
+               <part>transition</part>
+            </title> subgroup had been divided among the three original groups; there was no original separate guide to these documents. <title localtype="simple" render="italic">
+               <part>NOTE</part>
+            </title>: Due to the presence of four subgroups, there may be a certain amount of overlap among the groups. For example, when looking for correspondence for a specific individual, it is important to consult the Correspondence series in each subgroup. Though cross-references have been made for letters housed in series other than Correspondence, the general correspondence files for each subgroup will not necessarily reference letters in other general correspondence series.</p>
+         <p>Material in boxes 65-66 was formerly restricted; the restriction expired in 2019.</p>
+         <p>The finding aid was updated in November 2026 to account for multiple small additions to the collection and for repatriated material. Some audiovisual material received as part of the original acquisition in 1989 was transferred from the library to Historical Sound Recordings at Yale. These materials were subsequently transferred back to the library from the Irving S. Gilmore Library in 2015. Additional small gifts of audiovisual material were received by the library from 1998 to 2005. These materials, chiefly audio recordings, are now housed in boxes 71-80.</p>
+      </processinfo>
+      <relatedmaterial id="aspace_9b64c86d49adc6e4146ea867a5860514">
+         <head>Associated Materials</head>
+         <p>
+            <ref actuate="onrequest"
+                 href="https://hdl.handle.net/10079/fa/beinecke.jolasadd"
+                 show="new">Eugène and Maria Jolas Papers - Addition, GEN MSS 411</ref>
+         </p>
+      </relatedmaterial>
       <scopecontent id="aspace_b7e77500823f1799ca77a1ce9679ad80">
          <head>Scope and Contents</head>
          <p>The Eugène and Maria Jolas Papers consist of letters, manuscripts, photographs, and printed material concerning the lives of Eugène and Maria Jolas. The collection documents their writing careers, their involvement with the entre-deux-guerres literary scene, expressly their production of the little magazine, <title localtype="simple" render="italic">
@@ -612,6 +609,10 @@
                </title>
             </ref>, contains letters and writings by Lucia Joyce.</p>
       </scopecontent>
+      <userestrict id="aspace_3c297e4f07974ce053b539b7c9c85df6">
+         <head>Conditions Governing Use</head>
+         <p>The Eugène and Maria Jolas Papers are the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
+      </userestrict>
       <controlaccess>
          <title source="local">
             <part localtype="uniform_title">Transition (1927)</part>
@@ -13804,10 +13805,10 @@
                <unittitle>Eugène Jolas - Personal Papers</unittitle>
                <unitid>Series V</unitid>
                <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                  <quantity>0.5</quantity>
+                  <quantity>1.13</quantity>
                   <unittype>Linear Feet</unittype>
                </physdescstructured>
-               <physdesc localtype="container_summary">1 box</physdesc>
+               <physdesc localtype="container_summary">4 boxes</physdesc>
                <unitdatestructured altrender="1924-1959" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1924">1924</fromdate>
@@ -13817,7 +13818,7 @@
             </did>
             <scopecontent id="aspace_90bf50ea56c79b6741adc3c9fcac13d1">
                <head>Scope and Contents</head>
-               <p>Series V is arranged alphabetically by type of material.</p>
+               <p>Series V is arranged alphabetically by type of material or heading.</p>
             </scopecontent>
             <c altrender="/repositories/11/archival_objects/172981"
                id="ref1081"
@@ -13911,7 +13912,7 @@
                                 localtype="box">71</container>
                      <container id="aspace_b97ce746392772e106d598c7bc16910e_c2"
                                 localtype="folder"
-                                parent="aspace_b97ce746392772e106d598c7bc16910e_c1">1</container>
+                                parent="aspace_b97ce746392772e106d598c7bc16910e_c1">1593</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/4068979"
@@ -13934,7 +13935,7 @@
                                 localtype="box">71</container>
                      <container id="aspace_bdaa365fffee03190c5da02871204957_c2"
                                 localtype="folder"
-                                parent="aspace_bdaa365fffee03190c5da02871204957_c1">2-3</container>
+                                parent="aspace_bdaa365fffee03190c5da02871204957_c1">1594-1595</container>
                   </did>
                </c>
             </c>
@@ -14265,7 +14266,7 @@
                                    localtype="box">72</container>
                         <container id="aspace_2046af757c1e6dd0dbd63ba0ca0a755e_c2"
                                    localtype="folder"
-                                   parent="aspace_2046af757c1e6dd0dbd63ba0ca0a755e_c1">1-2</container>
+                                   parent="aspace_2046af757c1e6dd0dbd63ba0ca0a755e_c1">1596-1597</container>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/4068907"
@@ -14288,7 +14289,7 @@
                                    localtype="box">73</container>
                         <container id="aspace_64e46cb04a1039926ffff87598f8de95_c2"
                                    localtype="folder"
-                                   parent="aspace_64e46cb04a1039926ffff87598f8de95_c1">1-3</container>
+                                   parent="aspace_64e46cb04a1039926ffff87598f8de95_c1">1598-1600</container>
                      </did>
                      <accessrestrict id="aspace_6db38d03a3810fafc48b08eb0d5f6bf3"
                                      localtype="RestrictedFragileSpecColl">
@@ -32936,10 +32937,10 @@
                <unittitle>Maria Jolas - Subject Files</unittitle>
                <unitid>Series X</unitid>
                <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                  <quantity>4.25</quantity>
+                  <quantity>4.46</quantity>
                   <unittype>Linear Feet</unittype>
                </physdescstructured>
-               <physdesc localtype="container_summary">8 boxes</physdesc>
+               <physdesc localtype="container_summary">9 boxes</physdesc>
                <unitdatestructured altrender="1921-1986" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1921">1921</fromdate>
@@ -38912,7 +38913,7 @@
                                       localtype="box">74</container>
                            <container id="aspace_c9409ff7e0cd472ccc0ac424af34a47b_c2"
                                       localtype="folder"
-                                      parent="aspace_c9409ff7e0cd472ccc0ac424af34a47b_c1">1-2</container>
+                                      parent="aspace_c9409ff7e0cd472ccc0ac424af34a47b_c1">1601-1602</container>
                         </did>
                      </c>
                   </c>
@@ -40514,17 +40515,21 @@
             <did>
                <unittitle>Maria Jolas - Personal Papers</unittitle>
                <unitid>Series XI</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>2</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">8 boxes</physdesc>
                <unitdatestructured altrender="1926-1982" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1926">1926</fromdate>
                      <todate standarddate="1982">1982</todate>
                   </daterange>
                </unitdatestructured>
-               <physdesc id="aspace_6b68863ade9f413da3ec8627256411b9">0.75 linear feet (2 boxes)</physdesc>
             </did>
             <arrangement id="aspace_14158a19a06cb0eebaf108416af35d92">
                <head>Arrangement</head>
-               <p>Series XI is arranged alphabetically by type of material.</p>
+               <p>Series XI is arranged alphabetically by type of material and heading.</p>
             </arrangement>
             <c altrender="/repositories/11/archival_objects/174487"
                id="ref2741"
@@ -40677,7 +40682,7 @@
                                 localtype="box">75</container>
                      <container id="aspace_e4b05091c0b5c813977e245028d783d2_c2"
                                 localtype="folder"
-                                parent="aspace_e4b05091c0b5c813977e245028d783d2_c1">1</container>
+                                parent="aspace_e4b05091c0b5c813977e245028d783d2_c1">1603</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/4068881"
@@ -40700,7 +40705,7 @@
                                 localtype="box">76</container>
                      <container id="aspace_d28e7f47db69efbb4a0b3387cabfd9d4_c2"
                                 localtype="folder"
-                                parent="aspace_d28e7f47db69efbb4a0b3387cabfd9d4_c1">1</container>
+                                parent="aspace_d28e7f47db69efbb4a0b3387cabfd9d4_c1">1604</container>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/4068882"
@@ -40723,7 +40728,7 @@
                                 localtype="box">77</container>
                      <container id="aspace_0b48b867b336be5bc352eb01e7a26dee_c2"
                                 localtype="folder"
-                                parent="aspace_0b48b867b336be5bc352eb01e7a26dee_c1">1</container>
+                                parent="aspace_0b48b867b336be5bc352eb01e7a26dee_c1">1605</container>
                   </did>
                </c>
             </c>
@@ -41742,7 +41747,7 @@
                                    localtype="box">78</container>
                         <container id="aspace_ce6c2ed0c39b32ab4a33e85b6d5fdd1b_c2"
                                    localtype="folder"
-                                   parent="aspace_ce6c2ed0c39b32ab4a33e85b6d5fdd1b_c1">1</container>
+                                   parent="aspace_ce6c2ed0c39b32ab4a33e85b6d5fdd1b_c1">1606</container>
                      </did>
                   </c>
                </c>
@@ -41915,7 +41920,7 @@
                                    localtype="box">78</container>
                         <container id="aspace_7ce7d0ba9d3bc357f01a09d358361dfc_c2"
                                    localtype="folder"
-                                   parent="aspace_7ce7d0ba9d3bc357f01a09d358361dfc_c1">2</container>
+                                   parent="aspace_7ce7d0ba9d3bc357f01a09d358361dfc_c1">1607</container>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/4068875"
@@ -41938,7 +41943,7 @@
                                    localtype="box">79</container>
                         <container id="aspace_5b44a440bd61f522c42a63f68de23d19_c2"
                                    localtype="folder"
-                                   parent="aspace_5b44a440bd61f522c42a63f68de23d19_c1">1-3</container>
+                                   parent="aspace_5b44a440bd61f522c42a63f68de23d19_c1">1608-1610</container>
                      </did>
                   </c>
                </c>
@@ -42023,7 +42028,7 @@
                                    localtype="box">80</container>
                         <container id="aspace_a88db2e2b537967ac0fbaad13a803128_c2"
                                    localtype="folder"
-                                   parent="aspace_a88db2e2b537967ac0fbaad13a803128_c1">1-2</container>
+                                   parent="aspace_a88db2e2b537967ac0fbaad13a803128_c1">1611-1612</container>
                      </did>
                   </c>
                </c>
@@ -42326,7 +42331,7 @@
                              localtype="box">80</container>
                   <container id="aspace_ref2839_c2"
                              localtype="folder"
-                             parent="aspace_ref2839_c1">3</container>
+                             parent="aspace_ref2839_c1">1613</container>
                </did>
                <scopecontent id="aspace_cfb6207a58431c2e1ae563f8544dbca8">
                   <head>Scope and Contents</head>
@@ -42379,13 +42384,17 @@
                      <part>transition</part>
                   </title> - General Office Files</unittitle>
                <unitid>Series XII</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.75</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">2 boxes</physdesc>
                <unitdatestructured altrender="1926-1964" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1926">1926</fromdate>
                      <todate standarddate="1964">1964</todate>
                   </daterange>
                </unitdatestructured>
-               <physdesc id="aspace_5d59c3d89f7bcd335dae4a81a6e95086">0.75 linear feet (2 boxes)</physdesc>
             </did>
             <arrangement id="aspace_9cf2cac3e1a7c6c9a74db9fb06274cbb">
                <head>Arrangement</head>
@@ -44343,13 +44352,17 @@
             <did>
                <unittitle>Transition - Imprints</unittitle>
                <unitid>Series XIII</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>0.75</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">2 boxes</physdesc>
                <unitdatestructured altrender="1905-1955" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1905">1905</fromdate>
                      <todate standarddate="1955">1955</todate>
                   </daterange>
                </unitdatestructured>
-               <physdesc id="aspace_bc61b47ac68fc094602d5c09d39d4404">0.75 linear feet (2 boxes)</physdesc>
             </did>
             <arrangement id="aspace_89bd119a2e390058e55b2e9c49ae183f">
                <head>Arrangement</head>
@@ -49955,7 +49968,7 @@
                              localtype="box">70</container>
                   <container id="aspace_98676e6e47a0c090d610525d9e649e83_c2"
                              localtype="folder"
-                             parent="aspace_98676e6e47a0c090d610525d9e649e83_c1">1549-1541, 1562</container>
+                             parent="aspace_98676e6e47a0c090d610525d9e649e83_c1">1549-1551, 1562</container>
                </did>
                <accessrestrict id="aspace_bbbb4e868d35fe6f3325c89715743598"
                                localtype="RestrictedSpecColl">

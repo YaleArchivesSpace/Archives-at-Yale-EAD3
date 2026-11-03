@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-30T23:06:13-04:00</eventdatetime>
+            <eventdatetime>2026-11-02T23:02:06-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 30, 2026 at 23:06</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  2, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1417,7 +1417,7 @@
                   id="ref1174"
                   level="file">
                   <did>
-                     <unittitle>Sempsell, Kevin Patrick. "Family Val-U Pack"</unittitle>
+                     <unittitle>Sampsell, Kevin Patrick. "Family Val-U Pack"</unittitle>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                         <quantity> 1</quantity>
                         <unittype>Audiocassette</unittype>
@@ -2807,7 +2807,15 @@
                         <quantity>1</quantity>
                         <unittype>Phonograph Record</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:08:19</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1977">1977</datesingle>
+                     </unitdatestructured>
                      <physdesc id="aspace_25ade0a16026cc1498ef9442009d4b99">1 78 vinyl sound disk</physdesc>
+                     <materialspec id="aspace_5bede8049f65e7ae9144b1cc4a8b92ca">Static, clicks, and pops.</materialspec>
                      <container altrender="/repositories/11/top_containers/86234 /locations/4051"
                                 containerid="39002104568986"
                                 id="aspace_ref1266_c1"
@@ -4523,7 +4531,7 @@
                   id="ref1224"
                   level="file">
                   <did>
-                     <unittitle>"Shadows of Myself / Poems by M. [Harhavery]"</unittitle>
+                     <unittitle>"Shadows of Myself / Poems by M. Hathaway"</unittitle>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                         <quantity> 1</quantity>
                         <unittype>Microcassette</unittype>
@@ -4574,7 +4582,7 @@
                   id="aspace_d726f6eebb24eb183cd43829e1b24ace"
                   level="file">
                   <did>
-                     <unittitle>Jackson, Lorri. "From Obero"</unittitle>
+                     <unittitle>Jackson, Lorri. "From Oberc"</unittitle>
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                         <quantity> 1</quantity>
                         <unittype>Audiocassette</unittype>
