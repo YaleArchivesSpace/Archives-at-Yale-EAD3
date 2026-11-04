@@ -44,7 +44,7 @@
                <p>Boxes: OV-d-OV2</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="316">316</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="440">440</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-03T18:00:40-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:00:41-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2616,6 +2616,27 @@
                                    label="Mixed Materials"
                                    localtype="box">18</container>
                         <container id="aspace_ref156_c2" localtype="folder" parent="aspace_ref156_c1">6</container>
+                        <daoset altrender="/repositories/4/digital_objects/368013">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33890806"
+                                linktitle="124 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33890806"
+                                identifier="oid:33890806"
+                                linktitle="124 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Tuberculosis Program (TBP): A/10/01/03</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                </c>

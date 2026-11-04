@@ -41,7 +41,7 @@
                <p>Boxes: 1, Ov1-2, Ov2-3, Ov3-4, Ov4-5, Ov5-6, Ov6-7, Ov7-8, Ov8-9, Ov9-10, Ov10-11, Ov11-12, Ov12-13, Ov13-14, Ov14-15, Ov15-16, Ov16-17, Ov17-18, Ov18-19, Ov19-20, Ov20-21, Ov21-22, Ov22-23, Ov23-24, Ov24-25, Ov25-26, Ov26-131, 133-395, 395a, 395b-546, 546A-671</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: OVd10, 562A</p>
+               <p>Boxes: OVd10, 129A, 562A</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="227">227</num> digital files.</p>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-03T18:01:14-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:02:32-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2251,13 +2251,13 @@
                   id="ref144"
                   level="subseries">
                   <did>
-                     <unittitle>Record Books</unittitle>
+                     <unittitle>Bound record books</unittitle>
                   </did>
                   <c altrender="/repositories/4/archival_objects/80144"
                      id="ref145"
                      level="file">
                      <did>
-                        <unittitle>1 volume misc. statistics</unittitle>
+                        <unittitle>1 volume of miscellaneous statistics</unittitle>
                         <unitdatestructured altrender="1886-1926" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1886">1886</fromdate>
@@ -2269,24 +2269,45 @@
                                    id="aspace_ref145_c1"
                                    label="Mixed Materials"
                                    localtype="box">126</container>
+                        <container id="aspace_ref145_c2" localtype="folder" parent="aspace_ref145_c1">1</container>
                      </did>
+                     <scopecontent id="aspace_74493ccfd7880f42fc4c62d670d98465">
+                        <head>Scope and Contents</head>
+                        <p>Charts and tables include statistics such as age of volunteers, their educational institutions, duration of service, fields served, number of physicians sent out, reasons for hindrance, and others.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80145"
                      id="ref146"
                      level="file">
                      <did>
-                        <unittitle>2 volumes recording sailed volunteers alphabetically by name</unittitle>
+                        <unittitle>2 volumes listing sailed volunteers alphabetically by name</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1888">1888</fromdate>
+                              <todate standarddate="1920">1920</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8816 /locations/9"
+                                   containerid="39002022296306"
+                                   id="aspace_ref146_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">126</container>
+                        <container id="aspace_ref146_c2" localtype="folder" parent="aspace_ref146_c1">2-3</container>
                      </did>
+                     <scopecontent id="aspace_70455a6a12bb8f02917b1de9d1da27c3">
+                        <head>Scope and Contents</head>
+                        <p>The volunteers' numbers, fields of service, and date of departure are recorded.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80146"
                      id="ref147"
                      level="file">
                      <did>
-                        <unittitle>1 volume recording numerical listing of volunteers</unittitle>
-                        <unitdatestructured altrender="1930-1939" label="creation" unitdatetype="inclusive">
+                        <unittitle>1 volume listing volunteers enrolled, listed by number</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1930">1930</fromdate>
-                              <todate standarddate="1939">1939</todate>
+                              <fromdate standarddate="1906">1906</fromdate>
+                              <todate standarddate="1919">1919</todate>
                            </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/8817 /locations/9"
@@ -2294,24 +2315,264 @@
                                    id="aspace_ref147_c1"
                                    label="Mixed Materials"
                                    localtype="box">127</container>
+                        <container id="aspace_ref147_c2" localtype="folder" parent="aspace_ref147_c1">1</container>
                      </did>
+                     <scopecontent id="aspace_89e18b94c6d324f425942dcd08285c14">
+                        <head>Scope and Contents</head>
+                        <p>The volunteers' numbers, names, addresses, educational institutions and date of signing volunteer declaration card are noted.</p>
+                     </scopecontent>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/80147"
-                     id="ref148"
+                  <c altrender="/repositories/4/archival_objects/80149"
+                     id="ref150"
                      level="file">
                      <did>
-                        <unittitle>Oversize: 1 volume numerical listing of volunteers</unittitle>
-                        <unitdatestructured altrender="1930-1939" label="creation" unitdatetype="inclusive">
+                        <unittitle>1 volume listing declaration cards registered</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1930">1930</fromdate>
-                              <todate standarddate="1939">1939</todate>
+                              <fromdate standarddate="1898">1898</fromdate>
+                              <todate standarddate="1904">1904</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8818 /locations/9"
-                                   containerid="39002035367029"
-                                   id="aspace_ref148_c1"
+                        <container altrender="/repositories/4/top_containers/8820 /locations/9"
+                                   containerid="39002022296322"
+                                   id="aspace_ref150_c1"
                                    label="Mixed Materials"
-                                   localtype="box">Ov12</container>
+                                   localtype="box">128</container>
+                        <container id="aspace_ref150_c2" localtype="folder" parent="aspace_ref150_c1">1</container>
+                     </did>
+                     <scopecontent id="aspace_11e69882859057e38f1e7a9bce4c301c">
+                        <head>Scope and Contents</head>
+                        <p>A listing of declaration cards received and registered, arranged first by year, then state, and then educational institution, with the registration numbers of the declaration cards noted.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4069355"
+                     id="aspace_af3b52560b3af8661e450e7908e7ca79"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume listing declaration cards registered (unbound)</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1904">1904</fromdate>
+                              <todate standarddate="1913">1913</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8820 /locations/9"
+                                   containerid="39002022296322"
+                                   id="aspace_af3b52560b3af8661e450e7908e7ca79_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">128</container>
+                        <container id="aspace_af3b52560b3af8661e450e7908e7ca79_c2"
+                                   localtype="folder"
+                                   parent="aspace_af3b52560b3af8661e450e7908e7ca79_c1">2</container>
+                     </did>
+                     <scopecontent id="aspace_04bf6c59f882c38cfd2260b98989d5b9">
+                        <head>Scope and Contents</head>
+                        <p>A listing of declaration cards received and registered from 1904 to 1907, arranged first by year, then state, and then educational institution, with the registration numbers of the declaration cards noted. Also included are names of first 100 volunteers, SVM executive committee, traveling secretaries and other administrators 1888-1913.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4069359"
+                     id="aspace_6c3cc575daea818fa959f410d61be0ed"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume listing volunteers by educational institution (unbound)</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">circa 1891</unitdate>
+                        <container altrender="/repositories/4/top_containers/8820 /locations/9"
+                                   containerid="39002022296322"
+                                   id="aspace_6c3cc575daea818fa959f410d61be0ed_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">128</container>
+                        <container id="aspace_6c3cc575daea818fa959f410d61be0ed_c2"
+                                   localtype="folder"
+                                   parent="aspace_6c3cc575daea818fa959f410d61be0ed_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80150"
+                     id="ref151"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume listing volunteers enrolled in Canada and in the states of Alabama through Illinois</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1919">1919</fromdate>
+                              <todate standarddate="1931">1931</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8821 /locations/9"
+                                   containerid="39002022296330"
+                                   id="aspace_ref151_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">129</container>
+                        <container id="aspace_ref151_c2" localtype="folder" parent="aspace_ref151_c1">1</container>
+                     </did>
+                     <scopecontent id="aspace_e65b431613d9b4e8832431827bfc930e">
+                        <head>Scope and Contents</head>
+                        <p>The volume begins with a listing of foreign students.  Volunteers are listed by educational institution with names and registration numbers noted.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4069361"
+                     id="aspace_c37950f710adc9c4298adfb228c5ad34"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume listing volunteers enrolled in the states of Indiana through Mississippi</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1918">1918</fromdate>
+                              <todate standarddate="1932">1932</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8821 /locations/9"
+                                   containerid="39002022296330"
+                                   id="aspace_c37950f710adc9c4298adfb228c5ad34_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">129</container>
+                        <container id="aspace_c37950f710adc9c4298adfb228c5ad34_c2"
+                                   localtype="folder"
+                                   parent="aspace_c37950f710adc9c4298adfb228c5ad34_c1">2</container>
+                     </did>
+                     <scopecontent id="aspace_4bfe70cdd074c8d9273370bec228e623">
+                        <head>Scope and Contents</head>
+                        <p>Volunteers are listed by educational institution with names and registration numbers noted.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4069364"
+                     id="aspace_c8a3d40905142bf6bb6108bdfb2ff355"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume listing volunteers enrolled in the states of Missouri through Oregon</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1909">1909</fromdate>
+                              <todate standarddate="1932">1932</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8821 /locations/9"
+                                   containerid="39002022296330"
+                                   id="aspace_c8a3d40905142bf6bb6108bdfb2ff355_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">129</container>
+                        <container id="aspace_c8a3d40905142bf6bb6108bdfb2ff355_c2"
+                                   localtype="folder"
+                                   parent="aspace_c8a3d40905142bf6bb6108bdfb2ff355_c1">3</container>
+                     </did>
+                     <scopecontent id="aspace_c5db24c385e4561716779ecfef722bf3">
+                        <head>Scope and Contents</head>
+                        <p>Volunteers are listed by educational institution with names and registration numbers noted.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4069365"
+                     id="aspace_bdb887ca1cfad237bd307c7944225026"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume listing volunteers enrolled in the states of Pennsylvania through Wyoming</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1912">1912</fromdate>
+                              <todate standarddate="1930">1930</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485767 /locations/2"
+                                   containerid="39002112327417"
+                                   id="aspace_bdb887ca1cfad237bd307c7944225026_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">129A</container>
+                        <container id="aspace_bdb887ca1cfad237bd307c7944225026_c2"
+                                   localtype="folder"
+                                   parent="aspace_bdb887ca1cfad237bd307c7944225026_c1">1</container>
+                     </did>
+                     <scopecontent id="aspace_762e21c57c39e97e880c1e15ed58a496">
+                        <head>Scope and Contents</head>
+                        <p>Volunteers are listed by educational institution with names and registration numbers noted.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80151"
+                     id="ref152"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume labeled "Mailing List" recording SVM chapters in Canada and the states of Alabama through Kansas</unittitle>
+                        <unitdatestructured altrender="1930-1934" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1930">1930</fromdate>
+                              <todate standarddate="1934">1934</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/485767 /locations/2"
+                                   containerid="39002112327417"
+                                   id="aspace_ref152_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">129A</container>
+                        <container id="aspace_ref152_c2" localtype="folder" parent="aspace_ref152_c1">2</container>
+                     </did>
+                     <scopecontent id="aspace_55f5f5ede4591ceda80ed62f01e151f1">
+                        <head>Scope and Contents</head>
+                        <p>Arranged by educational institution, the listing contains addresses and in some cases names of officers and faculty advisors of the SVM chapters.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4069368"
+                     id="aspace_a2950ad8019debf3c0142dbab8666027"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume labeled "Mailing List" recording SVM chapters in the states of Kentucky through North Carolina</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1930">1930</fromdate>
+                              <todate standarddate="1934">1934</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8822 /locations/9"
+                                   containerid="39002022296348"
+                                   id="aspace_a2950ad8019debf3c0142dbab8666027_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">130</container>
+                        <container id="aspace_a2950ad8019debf3c0142dbab8666027_c2"
+                                   localtype="folder"
+                                   parent="aspace_a2950ad8019debf3c0142dbab8666027_c1">1</container>
+                     </did>
+                     <scopecontent id="aspace_7bce53ee04a50cb3fc22be531d729016">
+                        <head>Scope and Contents</head>
+                        <p>Arranged by educational institution, the listing contains addresses and in some cases names of officers and faculty advisors of the SVM chapters.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4069371"
+                     id="aspace_033ae60c742dc9391da2a51f58daa7b1"
+                     level="file">
+                     <did>
+                        <unittitle>1 volume labeled "Mailing List" recording SVM chapter in the states of North Dakota through Wyoming</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1930">1930</fromdate>
+                              <todate standarddate="1934">1934</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8822 /locations/9"
+                                   containerid="39002022296348"
+                                   id="aspace_033ae60c742dc9391da2a51f58daa7b1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">130</container>
+                        <container id="aspace_033ae60c742dc9391da2a51f58daa7b1_c2"
+                                   localtype="folder"
+                                   parent="aspace_033ae60c742dc9391da2a51f58daa7b1_c1">2</container>
+                     </did>
+                     <scopecontent id="aspace_340eed1c13b9bb1de90539365c9df2a5">
+                        <head>Scope and Contents</head>
+                        <p>Arranged by educational institution, the listing contains addresses and in some cases names of officers and faculty advisors of the SVM chapters.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80152"
+                     id="ref153"
+                     level="file">
+                     <did>
+                        <unittitle>2 volumes</unittitle>
+                        <unitdatestructured altrender="1886-1905" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1886">1886</fromdate>
+                              <todate standarddate="1905">1905</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8823 /locations/9"
+                                   containerid="39002022296355"
+                                   id="aspace_ref153_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">131</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80148"
@@ -2332,64 +2593,22 @@
                                    localtype="box">Ov18</container>
                      </did>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/80149"
-                     id="ref150"
+                  <c altrender="/repositories/4/archival_objects/80147"
+                     id="ref148"
                      level="file">
                      <did>
-                        <unittitle>3 volumes</unittitle>
-                        <container altrender="/repositories/4/top_containers/8820 /locations/9"
-                                   containerid="39002022296322"
-                                   id="aspace_ref150_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">128</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80150"
-                     id="ref151"
-                     level="file">
-                     <did>
-                        <unittitle>4 volumes</unittitle>
-                        <container altrender="/repositories/4/top_containers/8821 /locations/9"
-                                   containerid="39002022296330"
-                                   id="aspace_ref151_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">129</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80151"
-                     id="ref152"
-                     level="file">
-                     <did>
-                        <unittitle>3 volumes "Mailing List"</unittitle>
-                        <unitdatestructured altrender="1930-1934" label="creation" unitdatetype="inclusive">
+                        <unittitle>Oversize: 1 volume numerical listing of volunteers</unittitle>
+                        <unitdatestructured altrender="1930-1939" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1930">1930</fromdate>
-                              <todate standarddate="1934">1934</todate>
+                              <todate standarddate="1939">1939</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8822 /locations/9"
-                                   containerid="39002022296348"
-                                   id="aspace_ref152_c1"
+                        <container altrender="/repositories/4/top_containers/8818 /locations/9"
+                                   containerid="39002035367029"
+                                   id="aspace_ref148_c1"
                                    label="Mixed Materials"
-                                   localtype="box">130</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80152"
-                     id="ref153"
-                     level="file">
-                     <did>
-                        <unittitle>2 volumes</unittitle>
-                        <unitdatestructured altrender="1886-1905" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1886">1886</fromdate>
-                              <todate standarddate="1905">1905</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8823 /locations/9"
-                                   containerid="39002022296355"
-                                   id="aspace_ref153_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">131</container>
+                                   localtype="box">Ov12</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80153"
@@ -2408,6 +2627,36 @@
                                    id="aspace_ref154_c1"
                                    label="Mixed Materials"
                                    localtype="box">Ov23</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/3721633"
+                     id="aspace_05e76507d1cc7a8993712df921ba3c73"
+                     level="file">
+                     <did>
+                        <unittitle>Statistics by denomination</unittitle>
+                        <unitdatestructured altrender="1913-1920" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1913">1913</fromdate>
+                              <todate standarddate="1920">1920</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/347965 /locations/9"
+                                   containerid="39002035367607"
+                                   id="aspace_05e76507d1cc7a8993712df921ba3c73_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">Ov24</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/3721634"
+                     id="aspace_1c0f4c983dac9bad6bfccc17b0e75c96"
+                     level="file">
+                     <did>
+                        <unittitle>Statistics</unittitle>
+                        <container altrender="/repositories/4/top_containers/347966 /locations/9"
+                                   containerid="39002035367615"
+                                   id="aspace_1c0f4c983dac9bad6bfccc17b0e75c96_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">Ov25</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80154"

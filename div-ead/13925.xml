@@ -40,7 +40,7 @@
                <p>Boxes: 195, 234</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="347">347</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="12">12</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1123">1,123</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-03T18:00:51-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:02:05-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -5957,6 +5957,35 @@
                      <container id="aspace_a0cc72f40cc869a970719611f6066dba_c2"
                                 localtype="folder"
                                 parent="aspace_a0cc72f40cc869a970719611f6066dba_c1">12</container>
+                     <daoset altrender="/repositories/4/digital_objects/368024">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33892073"
+                             identifier="oid:33892073"
+                             linktitle="25 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33892110/full/!150,150/0/default.jpg"
+                             identifier="oid:33892073"
+                             linktitle="25 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33892073"
+                             identifier="oid:33892073"
+                             linktitle="25 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Joint Committee on Union of the Church of England in India and the South India United Church</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_aafed9b83d33b103e2be6b498bdf4728">
                      <head>Scope and Contents</head>
@@ -19992,6 +20021,35 @@
                         <container id="aspace_a0f27e8906adfad1b1f903c97a4c3bac_c2"
                                    localtype="folder"
                                    parent="aspace_a0f27e8906adfad1b1f903c97a4c3bac_c1">4</container>
+                        <daoset altrender="/repositories/4/digital_objects/368030">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33892292"
+                                identifier="oid:33892292"
+                                linktitle="206 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33892483/full/!150,150/0/default.jpg"
+                                identifier="oid:33892292"
+                                linktitle="206 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33892292"
+                                identifier="oid:33892292"
+                                linktitle="206 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Annual Reports</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4055902"
@@ -20013,6 +20071,35 @@
                         <container id="aspace_ef70cfba47c5df2946475390aaa4eb68_c2"
                                    localtype="folder"
                                    parent="aspace_ef70cfba47c5df2946475390aaa4eb68_c1">5</container>
+                        <daoset altrender="/repositories/4/digital_objects/368031">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33892535"
+                                identifier="oid:33892535"
+                                linktitle="223 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33892802/full/!150,150/0/default.jpg"
+                                identifier="oid:33892535"
+                                linktitle="223 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33892535"
+                                identifier="oid:33892535"
+                                linktitle="223 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Annual Reports</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4055903"
@@ -20034,6 +20121,27 @@
                         <container id="aspace_5fcbb7061350201025bd81e7942e95c6_c2"
                                    localtype="folder"
                                    parent="aspace_5fcbb7061350201025bd81e7942e95c6_c1">6</container>
+                        <daoset altrender="/repositories/4/digital_objects/368023">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33891038"
+                                linktitle="165 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33891038"
+                                identifier="oid:33891038"
+                                linktitle="165 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Annual Reports</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4055905"
@@ -20055,6 +20163,27 @@
                         <container id="aspace_17f538ded546ce4efb507edfd514beea_c2"
                                    localtype="folder"
                                    parent="aspace_17f538ded546ce4efb507edfd514beea_c1">7</container>
+                        <daoset altrender="/repositories/4/digital_objects/368025">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33891105"
+                                linktitle="157 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33891105"
+                                identifier="oid:33891105"
+                                linktitle="157 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Annual Reports</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/4023873"

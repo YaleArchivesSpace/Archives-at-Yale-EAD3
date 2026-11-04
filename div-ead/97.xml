@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-2</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="124">124</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -69,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-03T18:00:38-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:01:40-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -258,6 +261,35 @@
                      <container id="aspace_d4b424f7763daee28e4300d9206e07cd_c2"
                                 localtype="folder"
                                 parent="aspace_d4b424f7763daee28e4300d9206e07cd_c1">1</container>
+                     <daoset altrender="/repositories/4/digital_objects/368017">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33891264"
+                             identifier="oid:33891264"
+                             linktitle="26 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33891311/full/!150,150/0/default.jpg"
+                             identifier="oid:33891264"
+                             linktitle="26 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33891264"
+                             identifier="oid:33891264"
+                             linktitle="26 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Letters</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_f0f130a76d15561713bbfee722a760e4">
                      <head>Scope and Contents</head>
@@ -285,6 +317,35 @@
                      <container id="aspace_c04f584e611ba9e004f81f3915d79993_c2"
                                 localtype="folder"
                                 parent="aspace_c04f584e611ba9e004f81f3915d79993_c1">2</container>
+                     <daoset altrender="/repositories/4/digital_objects/368016">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33891303"
+                             identifier="oid:33891303"
+                             linktitle="22 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33891340/full/!150,150/0/default.jpg"
+                             identifier="oid:33891303"
+                             linktitle="22 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33891303"
+                             identifier="oid:33891303"
+                             linktitle="22 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Letters</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/4052096"
@@ -308,6 +369,35 @@
                      <container id="aspace_59d759f58c54e8a7f3ab6953318f43ef_c2"
                                 localtype="folder"
                                 parent="aspace_59d759f58c54e8a7f3ab6953318f43ef_c1">3</container>
+                     <daoset altrender="/repositories/4/digital_objects/368018">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33891342"
+                             identifier="oid:33891342"
+                             linktitle="24 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33891385/full/!150,150/0/default.jpg"
+                             identifier="oid:33891342"
+                             linktitle="24 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33891342"
+                             identifier="oid:33891342"
+                             linktitle="24 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Letters</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/4052097"
@@ -331,6 +421,35 @@
                      <container id="aspace_f4caacfb17196698c0eecbe20dcbb52e_c2"
                                 localtype="folder"
                                 parent="aspace_f4caacfb17196698c0eecbe20dcbb52e_c1">4</container>
+                     <daoset altrender="/repositories/4/digital_objects/368021">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33891411"
+                             identifier="oid:33891411"
+                             linktitle="52 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33891483/full/!150,150/0/default.jpg"
+                             identifier="oid:33891411"
+                             linktitle="52 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33891411"
+                             identifier="oid:33891411"
+                             linktitle="52 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Letters</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/4052098"

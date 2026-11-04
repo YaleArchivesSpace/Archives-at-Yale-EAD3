@@ -42,7 +42,7 @@
                <p>Boxes: 1-9</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="91">91</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="367">367</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-03T18:00:44-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:02:02-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1228,6 +1228,35 @@
                                    label="Mixed Materials"
                                    localtype="box">3</container>
                         <container id="aspace_ref60_c2" localtype="folder" parent="aspace_ref60_c1">46</container>
+                        <daoset altrender="/repositories/4/digital_objects/368022">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33891797"
+                                identifier="oid:33891797"
+                                linktitle="35 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33891832/full/!150,150/0/default.jpg"
+                                identifier="oid:33891797"
+                                linktitle="35 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33891797"
+                                identifier="oid:33891797"
+                                linktitle="35 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Association meetings; village visits</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/71832"
@@ -2698,6 +2727,35 @@
                                 label="Mixed Materials"
                                 localtype="box">8</container>
                      <container id="aspace_ref141_c2" localtype="folder" parent="aspace_ref141_c1">115</container>
+                     <daoset altrender="/repositories/4/digital_objects/368027">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33891918"
+                             identifier="oid:33891918"
+                             linktitle="96 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33892016/full/!150,150/0/default.jpg"
+                             identifier="oid:33891918"
+                             linktitle="96 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33891918"
+                             identifier="oid:33891918"
+                             linktitle="96 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Impressions of early days in China, studying Chinese</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/71912"
@@ -2736,6 +2794,35 @@
                                 label="Mixed Materials"
                                 localtype="box">8</container>
                      <container id="aspace_ref143_c2" localtype="folder" parent="aspace_ref143_c1">117</container>
+                     <daoset altrender="/repositories/4/digital_objects/368029">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33892046"
+                             identifier="oid:33892046"
+                             linktitle="145 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33892219/full/!150,150/0/default.jpg"
+                             identifier="oid:33892046"
+                             linktitle="145 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33892046"
+                             identifier="oid:33892046"
+                             linktitle="145 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Notes about Chinese men; daily notes regarding work, village work in Pi Hsueh Tien</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>

@@ -45,7 +45,7 @@
                <p>Boxes: LS1, OVd1-LS4, OVd7-OVd9, OV11-U, OV11-V, OVd14-OVd15, OVd17, 433, 438B, 440B, 443B, 447B, 466, 442.5A, 442.5B</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="676">676</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="17066">17,066</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="677">677</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="17850">17,850</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-02T18:51:03-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:02:53-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  2, 2026 at 18:51</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -65462,6 +65462,35 @@ Ts'en Su-hsing</p>
                         <container id="aspace_ref2982_c2"
                                    localtype="folder"
                                    parent="aspace_ref2982_c1">3893, 3894</container>
+                        <daoset altrender="/repositories/4/digital_objects/368032">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33891205"
+                                identifier="oid:33891205"
+                                linktitle="784 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33892133/full/!150,150/0/default.jpg"
+                                identifier="oid:33891205"
+                                linktitle="784 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33891205"
+                                identifier="oid:33891205"
+                                linktitle="784 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Ledgers (2 volumes)</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/16085"
@@ -93161,12 +93190,53 @@ Ts'en Su-hsing</p>
                      id="ref4356"
                      level="file">
                      <did>
-                        <unittitle>"Front Line of Democracy: (1 reel)</unittitle>
+                        <unittitle>"Front Line of Democracy: (5 reels)</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>5</quantity>
+                           <unittype>Videoreels</unittype>
+                           <physfacet>It is not clear if all 5 reels are the same or if they are different parts of the film.</physfacet>
+                           <dimensions> ; 31.5 cm. diameter </dimensions>
+                        </physdescstructured>
+                        <physdesc localtype="container_summary">5 videoreels, 4 in metal film cans</physdesc>
+                        <unitdatestructured altrender="ca.1947-1949"
+                                            certainty="approximate"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1947">1947</fromdate>
+                              <todate standarddate="1949">1949</todate>
+                           </daterange>
+                        </unitdatestructured>
                         <container altrender="/repositories/4/top_containers/348317 /locations/9"
                                    containerid="39002131200231"
                                    id="aspace_ref4356_c1"
                                    label="Mixed Materials"
                                    localtype="box">OV11-B3</container>
+                        <container id="aspace_ref4356_c2" localtype="reel" parent="aspace_ref4356_c1">1</container>
+                        <container altrender="/repositories/4/top_containers/348317 /locations/9"
+                                   containerid="39002131200231"
+                                   id="aspace_ref4356_c3"
+                                   label="Mixed Materials"
+                                   localtype="box">OV11-B3</container>
+                        <container id="aspace_ref4356_c4" localtype="reel" parent="aspace_ref4356_c3">2</container>
+                        <container altrender="/repositories/4/top_containers/348317 /locations/9"
+                                   containerid="39002131200231"
+                                   id="aspace_ref4356_c5"
+                                   label="Mixed Materials"
+                                   localtype="box">OV11-B3</container>
+                        <container id="aspace_ref4356_c6" localtype="reel" parent="aspace_ref4356_c5">unnumbered</container>
+                        <container altrender="/repositories/4/top_containers/348317 /locations/9"
+                                   containerid="39002131200231"
+                                   id="aspace_ref4356_c7"
+                                   label="Mixed Materials"
+                                   localtype="box">OV11-B3</container>
+                        <container id="aspace_ref4356_c8" localtype="reel" parent="aspace_ref4356_c7">4</container>
+                        <container altrender="/repositories/4/top_containers/348317 /locations/9"
+                                   containerid="39002131200231"
+                                   id="aspace_ref4356_c9"
+                                   label="Mixed Materials"
+                                   localtype="box">OV11-B3</container>
+                        <container id="aspace_ref4356_c10" localtype="reel" parent="aspace_ref4356_c9">6</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/17459"

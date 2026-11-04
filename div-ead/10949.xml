@@ -41,7 +41,7 @@
                <p>Boxes: OV1, OVd6, OVMCd8-MCd9</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="622">622</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="15">15</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="659">659</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-02T18:03:22-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:00:45-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  2, 2026 at 18:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11172,6 +11172,27 @@ Writings:  "Autobiography of Charles C. Starbuck"; "II. The Andover Renaissance 
                      <container id="aspace_14697b0f4d04b754e279aa4bd72e67e2_c2"
                                 localtype="folder"
                                 parent="aspace_14697b0f4d04b754e279aa4bd72e67e2_c1">1</container>
+                     <daoset altrender="/repositories/4/digital_objects/368014">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33890918"
+                             linktitle="37 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33890918"
+                             identifier="oid:33890918"
+                             linktitle="37 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Photocopies: "Hawaii's Connecticut Connection", "Henry Obookiah: Hawaii's Nathan Hale", "Henry Obookiah's Story", "A Litany of Remembrance and Thanksgiving","Henry Obookiah's Story"; documents and clippings concerning Henry Obookiah [Opukaha'ia], "Obookiah Sunday", Kawaiahao church</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
