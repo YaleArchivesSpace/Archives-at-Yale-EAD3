@@ -39,8 +39,8 @@
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">4335094</num>.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1-85, 87-89, 91, 93-99, 104, 110-113, 119-121, 124, 127, 130-133, 137, 139, 141, 144, 146-152, 154-155, 156-166 (Broadside), 168 (Broadside), 170 (Broadside), 172-187 (Broadside), GROUP 188, 189-214 (Broadside), 216-239 (Broadside), GROUP 239, 240-248 (Broadside), 250-253 (Broadside), 254-256, 258 (Oversize), 259 (Broadside), 260 (Art), 261 (Broadside), 264 (Oversize), GROUP 342, GROUP 444, GROUP 577, GROUP 914, GROUP 1328, GROUP 1397, GROUP 1650, GROUP 2014, GROUP 2175, GROUP 2242, GROUP 2335, GROUP 2353, GROUP 2401, GROUP 2479, GROUP 2501, GROUP 2534, GROUP 2540, GROUP 2607, GROUP 2621, GROUP 2626, GROUP 2628, GROUP 2631-GROUP 2632, GROUP 2634, GROUP 2701, GROUP 2903, GROUP 2948, GROUP 2973, GROUP 2983, GROUP 2987, GROUP 3003, GROUP 3009, GROUP 3044, GROUP 3066, GROUP 3074</p>
-               <p>Folders: 169 (Broadside), 249 (Broadside)</p>
+               <p>Boxes: 1-85, 87-89, 91, 93-99, 104, 110-113, 119-121, 124, 127, 130-133, 137, 139, 141, 144, 146-152, 154-155, 156-168 (Broadside), 170 (Broadside), 172-187 (Broadside), GROUP 188, 189-239 (Broadside), GROUP 239, 240-248 (Broadside), 250-253 (Broadside), 254-256, 258 (Oversize), 259 (Broadside), 260 (Art), 261 (Broadside), 264 (Oversize), 277 (Broadside), GROUP 342, GROUP 1328, GROUP 1397, GROUP 1650, GROUP 2014, GROUP 2175, GROUP 2242, GROUP 2335, GROUP 2479, GROUP 2534, GROUP 2607, GROUP 2621, GROUP 2626, GROUP 2628, GROUP 2631-GROUP 2632, GROUP 2634, GROUP 2701, GROUP 2903, GROUP 2948, GROUP 2973, GROUP 2983, GROUP 2987, GROUP 3003, GROUP 3009, GROUP 3044, GROUP 3066, GROUP 3074</p>
+               <p>Folders: 169 (Broadside), 171 (Broadside), 188 (Broadside), 249 (Broadside)</p>
             </controlnote>
             <controlnote localtype="offsite">
                <p>Boxes: 86, 90, 92, 100-103, 105-109, 114-118, 122-123, 125-126, 128-129, 134-136, 138, 140, 142-143, 145, 153, 257, 262-263, 265-276</p>
@@ -79,10 +79,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-29T23:38:22-04:00</eventdatetime>
+            <eventdatetime>2026-11-03T23:02:00-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 23:38</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -16990,13 +16990,14 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         <datesingle standarddate="1958-12-12">1958 Dec 12</datesingle>
                      </unitdatestructured>
                      <physdesc id="aspace_20e3815d49fddabfbe9629b44221e9e9">1 item (2 p.) ; 21 cm.</physdesc>
-                     <container altrender="/repositories/11/top_containers/30120"
+                     <container altrender="/repositories/11/top_containers/485761 /locations/4051"
+                                containerid="39002137225919"
                                 id="aspace_ref3441_c1"
                                 label="Mixed Materials"
-                                localtype="box">GROUP 914</container>
+                                localtype="folder">188 (Broadside)</container>
                      <container id="aspace_ref3441_c2"
                                 localtype="folder"
-                                parent="aspace_ref3441_c1">F-1</container>
+                                parent="aspace_ref3441_c1">Group 914, F-1</container>
                      <daoset altrender="/repositories/11/digital_objects/134455">
                         <dao actuate="onrequest"
                              audience="external"
@@ -100822,13 +100823,6 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         </persname>
                      </origination>
                      <physdesc id="aspace_6b9cfb5b0540147dced889d1cdd3deef">.</physdesc>
-                     <container altrender="/repositories/11/top_containers/31405"
-                                id="aspace_ref19031_c1"
-                                label="Mixed Materials"
-                                localtype="box">GROUP 2353</container>
-                     <container id="aspace_ref19031_c2"
-                                localtype="folder"
-                                parent="aspace_ref19031_c1">F-1</container>
                   </did>
                   <acqinfo id="aspace_49af91a12032b231e4331bbe860542a0">
                      <head>Immediate Source of Acquisition</head>
@@ -100837,6 +100831,7 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                   <odd id="aspace_a8a203f31d682881d1ab828d2ef18b32">
                      <head>General note</head>
                      <p>Accession: .</p>
+                     <p>Formerly Group 2553, F-1.</p>
                   </odd>
                </c>
             </c>
@@ -106266,13 +106261,6 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         </persname>
                      </origination>
                      <physdesc id="aspace_6320dde264ec1c9e169fe7be54314cab">.</physdesc>
-                     <container altrender="/repositories/11/top_containers/31492"
-                                id="aspace_ref20059_c1"
-                                label="Mixed Materials"
-                                localtype="box">GROUP 2401</container>
-                     <container id="aspace_ref20059_c2"
-                                localtype="folder"
-                                parent="aspace_ref20059_c1">F-1</container>
                   </did>
                   <acqinfo id="aspace_5b971aed21181397f593f1310c7110ae">
                      <head>Immediate Source of Acquisition</head>
@@ -106281,6 +106269,7 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                   <odd id="aspace_da6efcdf5e40a5d0ee66fc46baae03fd">
                      <head>General note</head>
                      <p>Accession: .</p>
+                     <p>Formerly Group 2401, F-1</p>
                   </odd>
                </c>
             </c>
@@ -108858,7 +108847,7 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                            <p>Materials in English.</p>
                         </descriptivenote>
                      </langmaterial>
-                     <container altrender="/repositories/11/top_containers/383313"
+                     <container altrender="/repositories/11/top_containers/383313 /locations/4051"
                                 containerid="39002140920068"
                                 id="aspace_0781633c4435cc26df8cffe5384c46bf_c1"
                                 label="Mixed Materials"
@@ -116269,13 +116258,14 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         <datesingle standarddate="1901">[1901]</datesingle>
                      </unitdatestructured>
                      <physdesc id="aspace_9cfa5860741693d64138dd5c2c774dd8">1 ms. score (2 p.) ; 33 cm.</physdesc>
-                     <container altrender="/repositories/11/top_containers/31637"
+                     <container altrender="/repositories/11/top_containers/485763 /locations/4051"
+                                containerid="39002137226180"
                                 id="aspace_ref21919_c1"
                                 label="Mixed Materials"
-                                localtype="box">GROUP 2501</container>
+                                localtype="box">215 (Broadside)</container>
                      <container id="aspace_ref21919_c2"
                                 localtype="folder"
-                                parent="aspace_ref21919_c1">F-4</container>
+                                parent="aspace_ref21919_c1">Group 2501, F-4</container>
                      <daoset altrender="/repositories/11/digital_objects/134078">
                         <dao actuate="onrequest"
                              audience="external"
@@ -144761,7 +144751,7 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         <datesingle standarddate="1914">[1914], n.d.</datesingle>
                      </unitdatestructured>
                      <physdesc id="aspace_ec872dfbe217f9157717f5a11ac8d706">3 items.</physdesc>
-                     <container altrender="/repositories/11/top_containers/406605"
+                     <container altrender="/repositories/11/top_containers/406605 /locations/4051"
                                 containerid="39002137226529"
                                 id="aspace_cb576c5a1415ea9f16212da0694c1db8_c1"
                                 label="Mixed Materials"
@@ -162996,13 +162986,14 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                      </origination>
                      <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
                      <physdesc id="aspace_b81dacbfac3afefcb675468cfeab676f">1 item (1 p.) ; 40 cm.</physdesc>
-                     <container altrender="/repositories/11/top_containers/32338"
+                     <container altrender="/repositories/11/top_containers/371395 /locations/4051"
+                                containerid="39002137225703"
                                 id="aspace_ref30642_c1"
                                 label="Mixed Materials"
-                                localtype="box">GROUP 444</container>
+                                localtype="box">167 (Broadside)</container>
                      <container id="aspace_ref30642_c2"
                                 localtype="folder"
-                                parent="aspace_ref30642_c1">F-4</container>
+                                parent="aspace_ref30642_c1">Group 444, F-4</container>
                      <daoset altrender="/repositories/11/digital_objects/134062">
                         <dao actuate="onrequest"
                              audience="external"
@@ -190902,7 +190893,7 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                      </origination>
                      <unitdate label="creation" unitdatetype="inclusive">n.d.</unitdate>
                      <physdesc id="aspace_3b3e6849fcb154eea8337196d2345909">2 items.</physdesc>
-                     <container altrender="/repositories/11/top_containers/383212"
+                     <container altrender="/repositories/11/top_containers/383212 /locations/4051"
                                 containerid="39002132334773"
                                 id="aspace_ref35595_c1"
                                 label="Mixed Materials"
@@ -192243,13 +192234,12 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         </daterange>
                      </unitdatestructured>
                      <physdesc id="aspace_d94868df35ac4d1fd158151988a0040a">1 item (4 p.) ; 36 cm.</physdesc>
-                     <container altrender="/repositories/11/top_containers/32749"
+                     <container altrender="/repositories/11/top_containers/485762 /locations/4051"
+                                containerid="39002137225745"
                                 id="aspace_ref35863_c1"
                                 label="Mixed Materials"
-                                localtype="box">GROUP 577</container>
-                     <container id="aspace_ref35863_c2"
-                                localtype="folder"
-                                parent="aspace_ref35863_c1">F-21</container>
+                                localtype="folder">171 (Broadside)</container>
+                     <container id="aspace_ref35863_c2" localtype="box" parent="aspace_ref35863_c1">Group 577, F-21</container>
                      <daoset altrender="/repositories/11/digital_objects/134136">
                         <dao actuate="onrequest"
                              audience="external"
@@ -206712,13 +206702,14 @@ Wolf-Ferrari, Ermanno, 1876-1948 material has been recataloged and added GEN MSS
                         <datesingle standarddate="1853">1853</datesingle>
                      </unitdatestructured>
                      <physdesc id="aspace_f5791b10e5620df27d0bf297135b1156">1 item (1 sheet) ; 79 x 56 cm.</physdesc>
-                     <container altrender="/repositories/11/top_containers/32952"
+                     <container altrender="/repositories/11/top_containers/485764 /locations/4051"
+                                containerid="39002132410144"
                                 id="aspace_ref38665_c1"
                                 label="Mixed Materials"
-                                localtype="box">GROUP 2540</container>
+                                localtype="box">277 (Broadside)</container>
                      <container id="aspace_ref38665_c2"
                                 localtype="folder"
-                                parent="aspace_ref38665_c1">F-1</container>
+                                parent="aspace_ref38665_c1">Group 2540, F-1</container>
                   </did>
                   <scopecontent id="aspace_e2d7eb4761f936eef5601d5abe465783">
                      <head>Scope and Contents</head>
