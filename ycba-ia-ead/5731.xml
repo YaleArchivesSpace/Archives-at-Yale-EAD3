@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-28T18:01:07-04:00</eventdatetime>
+            <eventdatetime>2026-11-04T18:00:40-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday April 28, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -92,11 +92,11 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>.42</quantity>
+            <quantity>0.42</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">1 box, 11 items</physdesc>
-         <unitdatestructured altrender="1912-1914" label="creation" unitdatetype="inclusive">
+         <physdesc localtype="container_summary">1 box (11 items)</physdesc>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1912">1912</fromdate>
                <todate standarddate="1914">1914</todate>
@@ -309,7 +309,7 @@
                      <part localtype="agent_person">Gore, Spencer Frederick, 1878-1914</part>
                   </persname>
                </origination>
-               <unitdatestructured altrender="1912 April" label="creation" unitdatetype="inclusive">
+               <unitdatestructured label="creation" unitdatetype="inclusive">
                   <datesingle standarddate="1912-04">1912 April</datesingle>
                </unitdatestructured>
                <physdesc id="aspace_24a211c075371caff9654c747c4ccf58">1 folded sheet ([2] pages) ; 26 x 32 cm, folded to 26 x 16 cm</physdesc>
