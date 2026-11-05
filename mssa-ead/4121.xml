@@ -69,15 +69,15 @@
          </descriptivenote>
       </rightsdeclaration>
       <localcontrol localtype="findaidstatus">
-         <term>under_revision</term>
+         <term>completed</term>
       </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-04T03:00:41-05:00</eventdatetime>
+            <eventdatetime>2026-11-05T03:00:31-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November  5, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -97,7 +97,7 @@
             <quantity>91.17</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">92 containers (88 boxes and 4 broadsides)</physdesc>
+         <physdesc localtype="container_summary">(88 boxes) + 4 broadsides</physdesc>
          <unitdatestructured altrender="circa 1881-1984"
                              label="creation"
                              unitdatetype="inclusive">
@@ -6765,6 +6765,1551 @@
                              localtype="box">1</container>
                   <container id="aspace_ref347_c2" localtype="folder" parent="aspace_ref347_c1">2</container>
                </did>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/3889042"
+            id="aspace_8f82a061358d542e0b4b8384a6efd4d6"
+            level="series">
+            <did>
+               <unittitle>August 2024 Acquisition</unittitle>
+               <unitid>Series V</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>36.17</quantity>
+                  <unittype>Linear Feet</unittype>
+               </physdescstructured>
+               <physdesc localtype="container_summary">(14 boxes) + 4 broadsides</physdesc>
+               <unitdatestructured altrender="1881-1931" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1881">1881</fromdate>
+                     <todate standarddate="1931">1931</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <arrangement id="aspace_785444eeb22d651aa35bc3d9d1107e7d">
+               <head>Arrangement</head>
+               <p>Organized into three folders: Drawings, sketches, specs, photographic prints, miscellaneous publications, prints, and papers.
+Materials in each folder rougly maintain order found at the time of acquisition.</p>
+            </arrangement>
+            <acqinfo id="aspace_e1c566e7d7e1364c7a5d887d3d578915">
+               <head>Immediate Source of Acquisition</head>
+               <p>Gift of James Gamble Rogers, III, 2023.</p>
+            </acqinfo>
+            <scopecontent id="aspace_884a1c06640eac61edbce53230d35da6">
+               <head>Scope and Contents</head>
+               <p>This addition includes drawings, photographs, and other papers created by, or related to, James Gamble Rogers and the design and construction of buildings at Yale University and early drawings from Ecole des Beaux-Arts in France. Items in the collection include a photograph of James Gamble Rogers at Harkness Tower, drawings and sketches of Yale's Memorial Quadrangle, and sketches of Sterling Memorial Library and the D. K. E. Fraternity House.</p>
+            </scopecontent>
+            <accessrestrict id="aspace_9d0486086c8b5b8ad4a6b97cf1b55efe"
+                            localtype="RestrictedSpecColl">
+               <head>Conditions Governing Access</head>
+               <p>Box 82, folder 3: Please consult curator for access.</p>
+            </accessrestrict>
+            <c altrender="/repositories/12/archival_objects/3889043"
+               id="aspace_dcd9e53f64fb1ab056a21afa6a8ed439"
+               level="file">
+               <did>
+                  <unittitle>Drawings, sketches, and specs</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>27.67</quantity>
+                     <unittype>Linear Feet</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">(12 boxes)</physdesc>
+                  <unitdatestructured altrender="1886-1931" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1886">1886</fromdate>
+                        <todate standarddate="1931">1931</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <arrangement id="aspace_d1c339f333a8ecbac6a47987b2cdcecd">
+                  <head>Arrangement</head>
+                  <p>Files are arranged in numerical order within each category.</p>
+               </arrangement>
+               <c altrender="/repositories/12/archival_objects/3889045"
+                  id="aspace_0ea3d34b84b6af78c173ba6399597a03"
+                  level="file">
+                  <did>
+                     <unittitle>Sterling Memorial Library</unittitle>
+                  </did>
+                  <arrangement id="aspace_52f33d438f270ef6fcf7a31b17937fbd">
+                     <head>Arrangement</head>
+                     <p>Sketches listed in numerical order.</p>
+                  </arrangement>
+                  <c altrender="/repositories/12/archival_objects/3926657"
+                     id="aspace_a6801ffa8b9a07e574cd333789560d19"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 2, 5-7</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>4</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410609 /locations/206"
+                                   containerid="39002093758903"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_a6801ffa8b9a07e574cd333789560d19_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">75</container>
+                        <container id="aspace_a6801ffa8b9a07e574cd333789560d19_c2"
+                                   localtype="folder"
+                                   parent="aspace_a6801ffa8b9a07e574cd333789560d19_c1">1-4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926658"
+                     id="aspace_8f4d2a48ddba56842c651ce9b73e76f3"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 9-12, 15</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>5</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410609 /locations/206"
+                                   containerid="39002093758903"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_8f4d2a48ddba56842c651ce9b73e76f3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">75</container>
+                        <container id="aspace_8f4d2a48ddba56842c651ce9b73e76f3_c2"
+                                   localtype="folder"
+                                   parent="aspace_8f4d2a48ddba56842c651ce9b73e76f3_c1">5-9</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926660"
+                     id="aspace_c180f4e2b51e556b5a62d90b1545652d"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches, 19-21</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">1930 March 10, undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410609 /locations/206"
+                                   containerid="39002093758903"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_c180f4e2b51e556b5a62d90b1545652d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">75</container>
+                        <container id="aspace_c180f4e2b51e556b5a62d90b1545652d_c2"
+                                   localtype="folder"
+                                   parent="aspace_c180f4e2b51e556b5a62d90b1545652d_c1">10-12</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926661"
+                     id="aspace_487857c543409085363d3a63c353971d"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 27, 29-30</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410609 /locations/206"
+                                   containerid="39002093758903"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_487857c543409085363d3a63c353971d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">75</container>
+                        <container id="aspace_487857c543409085363d3a63c353971d_c2"
+                                   localtype="folder"
+                                   parent="aspace_487857c543409085363d3a63c353971d_c1">13-15</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926663"
+                     id="aspace_674cc435cd859db869c1dcf0d12450f7"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 31-34</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>4</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1930 March" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1930-03">1930 March</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410609 /locations/206"
+                                   containerid="39002093758903"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_674cc435cd859db869c1dcf0d12450f7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">75</container>
+                        <container id="aspace_674cc435cd859db869c1dcf0d12450f7_c2"
+                                   localtype="folder"
+                                   parent="aspace_674cc435cd859db869c1dcf0d12450f7_c1">16-19</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926672"
+                     id="aspace_4c974f67b344e5979e1c0d5a96d7df82"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 36-38</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">1930 March 31, undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_4c974f67b344e5979e1c0d5a96d7df82_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_4c974f67b344e5979e1c0d5a96d7df82_c2"
+                                   localtype="folder"
+                                   parent="aspace_4c974f67b344e5979e1c0d5a96d7df82_c1">1-3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926674"
+                     id="aspace_2d1e9ebd448085ca6fb71c0565218941"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 40-41, 43</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_2d1e9ebd448085ca6fb71c0565218941_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_2d1e9ebd448085ca6fb71c0565218941_c2"
+                                   localtype="folder"
+                                   parent="aspace_2d1e9ebd448085ca6fb71c0565218941_c1">4-6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926675"
+                     id="aspace_0cff31bb1177fff6b4fceaafd169335b"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 44-45</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1930 April 16, 1930 April 24"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1930-04-16">1930 April 16</fromdate>
+                              <todate standarddate="1930-04-24">1930 April 24</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_0cff31bb1177fff6b4fceaafd169335b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_0cff31bb1177fff6b4fceaafd169335b_c2"
+                                   localtype="folder"
+                                   parent="aspace_0cff31bb1177fff6b4fceaafd169335b_c1">7-8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926676"
+                     id="aspace_04e69eaea00b153aac39d25cccd08660"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 48, 50</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_04e69eaea00b153aac39d25cccd08660_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_04e69eaea00b153aac39d25cccd08660_c2"
+                                   localtype="folder"
+                                   parent="aspace_04e69eaea00b153aac39d25cccd08660_c1">9-10</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926677"
+                     id="aspace_bd89bd24997b478bc8af0e0335030382"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 52-55</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>4</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1930 May 9-14" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1930-05-09">1930 May 9</fromdate>
+                              <todate standarddate="1930-05-14">1930 May 14</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_bd89bd24997b478bc8af0e0335030382_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_bd89bd24997b478bc8af0e0335030382_c2"
+                                   localtype="folder"
+                                   parent="aspace_bd89bd24997b478bc8af0e0335030382_c1">11-14</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926679"
+                     id="aspace_0649aab9813b9ba4454ee0989e144778"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 56</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_0649aab9813b9ba4454ee0989e144778_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_0649aab9813b9ba4454ee0989e144778_c2"
+                                   localtype="folder"
+                                   parent="aspace_0649aab9813b9ba4454ee0989e144778_c1">15</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926680"
+                     id="aspace_fb54bab3b488366856640dfab3bd7b03"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 60-61</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1930 May 29" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1930-05-29">1930 May 29</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_fb54bab3b488366856640dfab3bd7b03_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_fb54bab3b488366856640dfab3bd7b03_c2"
+                                   localtype="folder"
+                                   parent="aspace_fb54bab3b488366856640dfab3bd7b03_c1">16-17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926681"
+                     id="aspace_75722c7fead29851a7a7696b1ee73504"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 64</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410610 /locations/206"
+                                   containerid="39002093758911"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_75722c7fead29851a7a7696b1ee73504_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">76</container>
+                        <container id="aspace_75722c7fead29851a7a7696b1ee73504_c2"
+                                   localtype="folder"
+                                   parent="aspace_75722c7fead29851a7a7696b1ee73504_c1">18</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926687"
+                     id="aspace_bf5fe68525a4db94f5cd6f9b2f4a9f87"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 65</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_bf5fe68525a4db94f5cd6f9b2f4a9f87_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_bf5fe68525a4db94f5cd6f9b2f4a9f87_c2"
+                                   localtype="folder"
+                                   parent="aspace_bf5fe68525a4db94f5cd6f9b2f4a9f87_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926688"
+                     id="aspace_baf02258aa85fd01ffc39178914c1b92"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 66-67</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">1930 June 11, undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_baf02258aa85fd01ffc39178914c1b92_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_baf02258aa85fd01ffc39178914c1b92_c2"
+                                   localtype="folder"
+                                   parent="aspace_baf02258aa85fd01ffc39178914c1b92_c1">2-3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926690"
+                     id="aspace_d177f0f306665ea532662450fbbd2402"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 68-76</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>9</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1930 June 18-September 5"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1930-06-18">1930 June 18</fromdate>
+                              <todate standarddate="1930-09-05">1930 September 5</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_d177f0f306665ea532662450fbbd2402_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_d177f0f306665ea532662450fbbd2402_c2"
+                                   localtype="folder"
+                                   parent="aspace_d177f0f306665ea532662450fbbd2402_c1">4-12</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926691"
+                     id="aspace_46883fe8b931272e5ee025c92af2c534"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 79-81</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>3</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1931 January 24-March 28"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1931-01-24">1931 January 24</fromdate>
+                              <todate standarddate="1931-03-28">1931 March 28</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_46883fe8b931272e5ee025c92af2c534_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_46883fe8b931272e5ee025c92af2c534_c2"
+                                   localtype="folder"
+                                   parent="aspace_46883fe8b931272e5ee025c92af2c534_c1">13-15</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926699"
+                     id="aspace_3bbad7808f8de9f4f8fd0cc55f1c2864"
+                     level="file">
+                     <did>
+                        <unittitle>Shop drawing A</unittitle>
+                        <unitdatestructured altrender="1931 July 6" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1931-07-06">1931 July 6</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_3bbad7808f8de9f4f8fd0cc55f1c2864_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_3bbad7808f8de9f4f8fd0cc55f1c2864_c2"
+                                   localtype="folder"
+                                   parent="aspace_3bbad7808f8de9f4f8fd0cc55f1c2864_c1">16</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926700"
+                     id="aspace_4e181f0a478cd7e108d9664951496021"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch elevations</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_4e181f0a478cd7e108d9664951496021_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_4e181f0a478cd7e108d9664951496021_c2"
+                                   localtype="folder"
+                                   parent="aspace_4e181f0a478cd7e108d9664951496021_c1">17</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926701"
+                     id="aspace_6927b83c7e76c8dfa708e86e73e3d440"
+                     level="file">
+                     <did>
+                        <unittitle>Cresting of bookcases models' sketch</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_6927b83c7e76c8dfa708e86e73e3d440_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_6927b83c7e76c8dfa708e86e73e3d440_c2"
+                                   localtype="folder"
+                                   parent="aspace_6927b83c7e76c8dfa708e86e73e3d440_c1">18</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926703"
+                     id="aspace_7965108cf7cc29820c8a65dcb0a075b3"
+                     level="file">
+                     <did>
+                        <unittitle>Envelope</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410612 /locations/206"
+                                   containerid="39002093758929"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_7965108cf7cc29820c8a65dcb0a075b3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">77</container>
+                        <container id="aspace_7965108cf7cc29820c8a65dcb0a075b3_c2"
+                                   localtype="folder"
+                                   parent="aspace_7965108cf7cc29820c8a65dcb0a075b3_c1">19</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3926709"
+                  id="aspace_871552a64468b60fae717d41b13a4851"
+                  level="file">
+                  <did>
+                     <unittitle>D. K. E. Fraternity House</unittitle>
+                  </did>
+                  <c altrender="/repositories/12/archival_objects/3926710"
+                     id="aspace_ed2f85bfb50654daee8c1345af99189e"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 401</unittitle>
+                        <unitdatestructured altrender="1925 October 15"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="1925-10-15">1925 October 15</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410615 /locations/206"
+                                   containerid="39002093758937"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_ed2f85bfb50654daee8c1345af99189e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">78</container>
+                        <container id="aspace_ed2f85bfb50654daee8c1345af99189e_c2"
+                                   localtype="folder"
+                                   parent="aspace_ed2f85bfb50654daee8c1345af99189e_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926711"
+                     id="aspace_9ac8a1365aad68779a28ddf24e542e65"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 403</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410615 /locations/206"
+                                   containerid="39002093758937"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_9ac8a1365aad68779a28ddf24e542e65_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">78</container>
+                        <container id="aspace_9ac8a1365aad68779a28ddf24e542e65_c2"
+                                   localtype="folder"
+                                   parent="aspace_9ac8a1365aad68779a28ddf24e542e65_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926712"
+                     id="aspace_99f008b830869d55ea2e2a583e3098aa"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 405-408</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>4</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1925 October 30-November 30, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1925-10-30">1925 October 30</fromdate>
+                              <todate standarddate="1925-11-30">1925 November 30</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410615 /locations/206"
+                                   containerid="39002093758937"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_99f008b830869d55ea2e2a583e3098aa_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">78</container>
+                        <container id="aspace_99f008b830869d55ea2e2a583e3098aa_c2"
+                                   localtype="folder"
+                                   parent="aspace_99f008b830869d55ea2e2a583e3098aa_c1">3-6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926715"
+                     id="aspace_c6ec2442d843b286f85e30f5df29f9e7"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 409</unittitle>
+                        <unitdatestructured altrender="1926 January 1"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="1926-01-01">1926 January 1</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410615 /locations/206"
+                                   containerid="39002093758937"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_c6ec2442d843b286f85e30f5df29f9e7_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">78</container>
+                        <container id="aspace_c6ec2442d843b286f85e30f5df29f9e7_c2"
+                                   localtype="folder"
+                                   parent="aspace_c6ec2442d843b286f85e30f5df29f9e7_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3926716"
+                     id="aspace_c95215086622bffb2ff489ed15482b1b"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 501-505</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>5</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1925 November 7-25"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1925-11-07">1925 November 7</fromdate>
+                              <todate standarddate="1925-11-25">1925 November 25</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410615 /locations/206"
+                                   containerid="39002093758937"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_c95215086622bffb2ff489ed15482b1b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">78</container>
+                        <container id="aspace_c95215086622bffb2ff489ed15482b1b_c2"
+                                   localtype="folder"
+                                   parent="aspace_c95215086622bffb2ff489ed15482b1b_c1">8-12</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928483"
+                     id="aspace_61d8b8302b25bfee83f1f0cc8b2a8993"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 505a</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410738 /locations/206"
+                                   containerid="39002093758945"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_61d8b8302b25bfee83f1f0cc8b2a8993_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">79</container>
+                        <container id="aspace_61d8b8302b25bfee83f1f0cc8b2a8993_c2"
+                                   localtype="folder"
+                                   parent="aspace_61d8b8302b25bfee83f1f0cc8b2a8993_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928484"
+                     id="aspace_6dab82bd29a63c669929b9e5996ae569"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 506</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410738 /locations/206"
+                                   containerid="39002093758945"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_6dab82bd29a63c669929b9e5996ae569_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">79</container>
+                        <container id="aspace_6dab82bd29a63c669929b9e5996ae569_c2"
+                                   localtype="folder"
+                                   parent="aspace_6dab82bd29a63c669929b9e5996ae569_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928485"
+                     id="aspace_87cdb06a7eca23b438b35fe460260ce0"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 507, 507a</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410738 /locations/206"
+                                   containerid="39002093758945"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_87cdb06a7eca23b438b35fe460260ce0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">79</container>
+                        <container id="aspace_87cdb06a7eca23b438b35fe460260ce0_c2"
+                                   localtype="folder"
+                                   parent="aspace_87cdb06a7eca23b438b35fe460260ce0_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928486"
+                     id="aspace_471f81756faaf1b497d83ac771178b94"
+                     level="file">
+                     <did>
+                        <unittitle>Sketches 508-512</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>5</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdatestructured altrender="1925 December 29-1926 April 24"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1925-12-29">1925 December 29</fromdate>
+                              <todate standarddate="1926-04-24">1926 April 24</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410738 /locations/206"
+                                   containerid="39002093758945"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_471f81756faaf1b497d83ac771178b94_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">79</container>
+                        <container id="aspace_471f81756faaf1b497d83ac771178b94_c2"
+                                   localtype="folder"
+                                   parent="aspace_471f81756faaf1b497d83ac771178b94_c1">4-8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928487"
+                     id="aspace_e412129d761646f793dee581d842b816"
+                     level="file">
+                     <did>
+                        <unittitle>Envelope</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410738 /locations/206"
+                                   containerid="39002093758945"
+                                   encodinganalog="flat box (14d 1h 18w)"
+                                   id="aspace_e412129d761646f793dee581d842b816_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">79</container>
+                        <container id="aspace_e412129d761646f793dee581d842b816_c2"
+                                   localtype="folder"
+                                   parent="aspace_e412129d761646f793dee581d842b816_c1">9</container>
+                     </did>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928321"
+                  id="aspace_b464d53049ade0ce13d1d73ff620b229"
+                  level="file">
+                  <did>
+                     <unittitle>Beaux-Art studies and miscellaneous</unittitle>
+                  </did>
+                  <arrangement id="aspace_114311642f4912985308dab4fb12eab2">
+                     <head>Arrangement</head>
+                     <p>Materials maintain approximate order found at the time of acquisition.</p>
+                  </arrangement>
+                  <c altrender="/repositories/12/archival_objects/3928320"
+                     id="aspace_91a1d28224f920eb03a4dc7ca34740f3"
+                     level="file">
+                     <did>
+                        <unittitle>Harkness Tower sketch</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_91a1d28224f920eb03a4dc7ca34740f3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_91a1d28224f920eb03a4dc7ca34740f3_c2"
+                                   localtype="folder"
+                                   parent="aspace_91a1d28224f920eb03a4dc7ca34740f3_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928322"
+                     id="aspace_476e5825a192c549c955b6f58f629d35"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch of Temple College</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_476e5825a192c549c955b6f58f629d35_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_476e5825a192c549c955b6f58f629d35_c2"
+                                   localtype="folder"
+                                   parent="aspace_476e5825a192c549c955b6f58f629d35_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928323"
+                     id="aspace_20dd90eef3a50133b4f36349c3da1982"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch remnants</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_20dd90eef3a50133b4f36349c3da1982_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_20dd90eef3a50133b4f36349c3da1982_c2"
+                                   localtype="folder"
+                                   parent="aspace_20dd90eef3a50133b4f36349c3da1982_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928324"
+                     id="aspace_04e816e4b3d4fb5500e3b5fd1fcacf8a"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch of building façade</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_04e816e4b3d4fb5500e3b5fd1fcacf8a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_04e816e4b3d4fb5500e3b5fd1fcacf8a_c2"
+                                   localtype="folder"
+                                   parent="aspace_04e816e4b3d4fb5500e3b5fd1fcacf8a_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928325"
+                     id="aspace_f99721ccbbdfe1caa9e1e58163ea6c3c"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch of monument</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_f99721ccbbdfe1caa9e1e58163ea6c3c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_f99721ccbbdfe1caa9e1e58163ea6c3c_c2"
+                                   localtype="folder"
+                                   parent="aspace_f99721ccbbdfe1caa9e1e58163ea6c3c_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928326"
+                     id="aspace_d569e6bc38fb54a51dba071548132d2f"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch of entryway</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_d569e6bc38fb54a51dba071548132d2f_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_d569e6bc38fb54a51dba071548132d2f_c2"
+                                   localtype="folder"
+                                   parent="aspace_d569e6bc38fb54a51dba071548132d2f_c1">6</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928327"
+                     id="aspace_207f4c429e1075316c732190201c12b9"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch of building façade and columns</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_207f4c429e1075316c732190201c12b9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_207f4c429e1075316c732190201c12b9_c2"
+                                   localtype="folder"
+                                   parent="aspace_207f4c429e1075316c732190201c12b9_c1">7</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928328"
+                     id="aspace_24b62c6d631682b883845ab76aef3e85"
+                     level="file">
+                     <did>
+                        <unittitle>Maison P. Landier, receipt</unittitle>
+                        <unitdatestructured altrender="1898 January 12"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="1898-01-12">1898 January 12</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_24b62c6d631682b883845ab76aef3e85_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_24b62c6d631682b883845ab76aef3e85_c2"
+                                   localtype="folder"
+                                   parent="aspace_24b62c6d631682b883845ab76aef3e85_c1">8</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928329"
+                     id="aspace_eb51543bb9e4ce1cb115e768b2993ce1"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 207</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_eb51543bb9e4ce1cb115e768b2993ce1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_eb51543bb9e4ce1cb115e768b2993ce1_c2"
+                                   localtype="folder"
+                                   parent="aspace_eb51543bb9e4ce1cb115e768b2993ce1_c1">9</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928330"
+                     id="aspace_843c4b373c0a78a836c1b414190bb32e"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch of lectern, Memorial Quadrangle</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_843c4b373c0a78a836c1b414190bb32e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_843c4b373c0a78a836c1b414190bb32e_c2"
+                                   localtype="folder"
+                                   parent="aspace_843c4b373c0a78a836c1b414190bb32e_c1">10</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928331"
+                     id="aspace_bf1b55c2ccebfe7e1d67d71f424682b0"
+                     level="file">
+                     <did>
+                        <unittitle>Photographic print of relief by Charles Blondel</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_bf1b55c2ccebfe7e1d67d71f424682b0_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_bf1b55c2ccebfe7e1d67d71f424682b0_c2"
+                                   localtype="folder"
+                                   parent="aspace_bf1b55c2ccebfe7e1d67d71f424682b0_c1">11</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928332"
+                     id="aspace_2d8b0dffe81bb7d0e60339fc6f457ffb"
+                     level="file">
+                     <did>
+                        <unittitle>No. 71 sketch</unittitle>
+                        <unitdatestructured altrender="1897 February 6"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="1897-02-06">1897 February 6</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_2d8b0dffe81bb7d0e60339fc6f457ffb_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_2d8b0dffe81bb7d0e60339fc6f457ffb_c2"
+                                   localtype="folder"
+                                   parent="aspace_2d8b0dffe81bb7d0e60339fc6f457ffb_c1">12</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928333"
+                     id="aspace_97a4eda2a5677e267228605c3c78abb4"
+                     level="file">
+                     <did>
+                        <unittitle>Water color sketch</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_97a4eda2a5677e267228605c3c78abb4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_97a4eda2a5677e267228605c3c78abb4_c2"
+                                   localtype="folder"
+                                   parent="aspace_97a4eda2a5677e267228605c3c78abb4_c1">13</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041774"
+                     id="aspace_18abd711c4d0922deb9e5a93e2d7bb7e"
+                     level="file">
+                     <did>
+                        <unittitle>Section through an Arc de Triomphe sketch and loose segments</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410724 /locations/206"
+                                   containerid="39002093758952"
+                                   encodinganalog="flat box (20d 1h 24w)"
+                                   id="aspace_18abd711c4d0922deb9e5a93e2d7bb7e_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">80</container>
+                        <container id="aspace_18abd711c4d0922deb9e5a93e2d7bb7e_c2"
+                                   localtype="folder"
+                                   parent="aspace_18abd711c4d0922deb9e5a93e2d7bb7e_c1">14</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928334"
+                     id="aspace_02bc8a9d347fe26a2c78e2a6445d18e2"
+                     level="file">
+                     <did>
+                        <unittitle>Memorial Quadrangle</unittitle>
+                        <unitdatestructured altrender="1917 October" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1917-10">1917 October</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_02bc8a9d347fe26a2c78e2a6445d18e2_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_02bc8a9d347fe26a2c78e2a6445d18e2_c2"
+                                   localtype="folder"
+                                   parent="aspace_02bc8a9d347fe26a2c78e2a6445d18e2_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928337"
+                     id="aspace_a028a985f16d9633dd10ed5864d4297a"
+                     level="file">
+                     <did>
+                        <unittitle>Eolise Rotive sketch</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1897">1897</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_a028a985f16d9633dd10ed5864d4297a_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_a028a985f16d9633dd10ed5864d4297a_c2"
+                                   localtype="folder"
+                                   parent="aspace_a028a985f16d9633dd10ed5864d4297a_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928339"
+                     id="aspace_e9c51f66695685d603d5f0b85ce9167d"
+                     level="file">
+                     <did>
+                        <unittitle>Rez-de-Chaussée, Premier Etage</unittitle>
+                        <unitdatestructured altrender="1895 February 6"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="1895-02-06">1895 February 6</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_e9c51f66695685d603d5f0b85ce9167d_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_e9c51f66695685d603d5f0b85ce9167d_c2"
+                                   localtype="folder"
+                                   parent="aspace_e9c51f66695685d603d5f0b85ce9167d_c1">3</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928340"
+                     id="aspace_e5db4262ed67bcdbdf7e195a1f084e59"
+                     level="file">
+                     <did>
+                        <unittitle>Unidentified sketch</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_e5db4262ed67bcdbdf7e195a1f084e59_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_e5db4262ed67bcdbdf7e195a1f084e59_c2"
+                                   localtype="folder"
+                                   parent="aspace_e5db4262ed67bcdbdf7e195a1f084e59_c1">4</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928342"
+                     id="aspace_060243e8c25e1c8213e9a18befc90ed9"
+                     level="file">
+                     <did>
+                        <unittitle>Sketch 48</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_060243e8c25e1c8213e9a18befc90ed9_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_060243e8c25e1c8213e9a18befc90ed9_c2"
+                                   localtype="folder"
+                                   parent="aspace_060243e8c25e1c8213e9a18befc90ed9_c1">5</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928346"
+                     id="aspace_5bf76fb807eb49a85bdd41bf801316b8"
+                     level="file">
+                     <did>
+                        <unittitle>Unidentified sketches</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>6</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_5bf76fb807eb49a85bdd41bf801316b8_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_5bf76fb807eb49a85bdd41bf801316b8_c2"
+                                   localtype="folder"
+                                   parent="aspace_5bf76fb807eb49a85bdd41bf801316b8_c1">6-11</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928347"
+                     id="aspace_ac740e8514f669ebebc87cda15935561"
+                     level="file">
+                     <did>
+                        <unittitle>Building sketches</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>2</quantity>
+                           <unittype>Folders</unittype>
+                        </physdescstructured>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_ac740e8514f669ebebc87cda15935561_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_ac740e8514f669ebebc87cda15935561_c2"
+                                   localtype="folder"
+                                   parent="aspace_ac740e8514f669ebebc87cda15935561_c1">12-13</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928349"
+                     id="aspace_546b46b6b5efac12b329bcfc3b3dcfc1"
+                     level="file">
+                     <did>
+                        <unittitle>Preliminary sketch for dorm unit, Wall and High Streets, Yale</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_546b46b6b5efac12b329bcfc3b3dcfc1_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_546b46b6b5efac12b329bcfc3b3dcfc1_c2"
+                                   localtype="folder"
+                                   parent="aspace_546b46b6b5efac12b329bcfc3b3dcfc1_c1">14</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/3928350"
+                     id="aspace_6d6cc56649233e9fa396308b93e807dc"
+                     level="file">
+                     <did>
+                        <unittitle>Building sketch</unittitle>
+                        <unitdatestructured altrender="1886 October 16"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <datesingle standarddate="1886-10-16">1886 October 16</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/410725"
+                                   containerid="39002093758960"
+                                   encodinganalog="custom box [flat, 30&#34; wide]"
+                                   id="aspace_6d6cc56649233e9fa396308b93e807dc_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">81</container>
+                        <container id="aspace_6d6cc56649233e9fa396308b93e807dc_c2"
+                                   localtype="folder"
+                                   parent="aspace_6d6cc56649233e9fa396308b93e807dc_c1">15</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041765"
+                     id="aspace_b5e39039909084c71af0100a338797f3"
+                     level="file">
+                     <did>
+                        <unittitle>Preliminary sketch for dormitory unit, Wall and High St., Yale</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/483323"
+                                   containerid="39002093758978"
+                                   encodinganalog="flat box (22d 1h 28w)"
+                                   id="aspace_b5e39039909084c71af0100a338797f3_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_b5e39039909084c71af0100a338797f3_c2"
+                                   localtype="folder"
+                                   parent="aspace_b5e39039909084c71af0100a338797f3_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041772"
+                     id="aspace_22d10b0117ff7c9adf39f51f57c2e6c4"
+                     level="file">
+                     <did>
+                        <unittitle>Unidentified sketches</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/483323"
+                                   containerid="39002093758978"
+                                   encodinganalog="flat box (22d 1h 28w)"
+                                   id="aspace_22d10b0117ff7c9adf39f51f57c2e6c4_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_22d10b0117ff7c9adf39f51f57c2e6c4_c2"
+                                   localtype="folder"
+                                   parent="aspace_22d10b0117ff7c9adf39f51f57c2e6c4_c1">2</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041773"
+                     id="aspace_a4e55ab39a782b5e10ecf047926f6f16"
+                     level="file">
+                     <did>
+                        <unittitle>Rogers self-portrait nude sketch</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/483323"
+                                   containerid="39002093758978"
+                                   encodinganalog="flat box (22d 1h 28w)"
+                                   id="aspace_a4e55ab39a782b5e10ecf047926f6f16_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">82</container>
+                        <container id="aspace_a4e55ab39a782b5e10ecf047926f6f16_c2"
+                                   localtype="folder"
+                                   parent="aspace_a4e55ab39a782b5e10ecf047926f6f16_c1">3</container>
+                     </did>
+                     <accessrestrict id="aspace_6c437dacab48c0578aed26db5510f5eb"
+                                     localtype="RestrictedSpecColl">
+                        <head>Conditions Governing Access</head>
+                        <p>Please consult curator for access.</p>
+                     </accessrestrict>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041812"
+                     id="aspace_10b1e3a47c1fe095f67354378e207fe8"
+                     level="file">
+                     <did>
+                        <unittitle>Building sketches</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/483324"
+                                   containerid="39002140886954"
+                                   encodinganalog="folder (32d 40w)"
+                                   id="aspace_10b1e3a47c1fe095f67354378e207fe8_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">83 (Broadside)</container>
+                        <container id="aspace_10b1e3a47c1fe095f67354378e207fe8_c2"
+                                   localtype="folder"
+                                   parent="aspace_10b1e3a47c1fe095f67354378e207fe8_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041798"
+                     id="aspace_2104b3eb9e4511fdbc684b421448d5ed"
+                     level="file">
+                     <did>
+                        <unittitle>Esquisse Concours Chenavard un sanatorium pour les officiers et soldats</unittitle>
+                        <unitdatestructured altrender="1895 October" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1895-10">1895 October</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/12/top_containers/483325"
+                                   containerid="39002140886962"
+                                   encodinganalog="folder (32d 40w)"
+                                   id="aspace_2104b3eb9e4511fdbc684b421448d5ed_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">84 (Broadside)</container>
+                        <container id="aspace_2104b3eb9e4511fdbc684b421448d5ed_c2"
+                                   localtype="folder"
+                                   parent="aspace_2104b3eb9e4511fdbc684b421448d5ed_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041797"
+                     id="aspace_077d3e87578669a5f92fc02ad6d54529"
+                     level="file">
+                     <did>
+                        <unittitle>Le Nouvel Opera poster</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/483326"
+                                   containerid="39002140886970"
+                                   encodinganalog="folder (32d 40w)"
+                                   id="aspace_077d3e87578669a5f92fc02ad6d54529_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">85 (Broadside)</container>
+                        <container id="aspace_077d3e87578669a5f92fc02ad6d54529_c2"
+                                   localtype="folder"
+                                   parent="aspace_077d3e87578669a5f92fc02ad6d54529_c1">1</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/12/archival_objects/4041811"
+                     id="aspace_269b1dd91bf7d89319b7a572c3f42f3c"
+                     level="file">
+                     <did>
+                        <unittitle>Prat du Rez de sol, sketch</unittitle>
+                        <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                        <container altrender="/repositories/12/top_containers/483327"
+                                   containerid="39002140886988"
+                                   encodinganalog="folder (32d 40w)"
+                                   id="aspace_269b1dd91bf7d89319b7a572c3f42f3c_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">86 (Broadside)</container>
+                        <container id="aspace_269b1dd91bf7d89319b7a572c3f42f3c_c2"
+                                   localtype="folder"
+                                   parent="aspace_269b1dd91bf7d89319b7a572c3f42f3c_c1">1</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3889044"
+               id="aspace_8b8b6adf44d42a4ddbcf944533ad8048"
+               level="file">
+               <did>
+                  <unittitle>Photographic prints</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>7.0</quantity>
+                     <unittype>Linear Feet</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">(5 boxes)</physdesc>
+                  <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+               </did>
+               <arrangement id="aspace_72880f2eeedd8b00f113c9af80f7f268">
+                  <head>Arrangement</head>
+                  <p>Materials maintain approximate order found at the time of acquisition.</p>
+               </arrangement>
+               <c altrender="/repositories/12/archival_objects/3928694"
+                  id="aspace_6be0548b1712997513efc35a47520428"
+                  level="file">
+                  <did>
+                     <unittitle>The Memorial Quadrangle, oversize photographic scrapbook</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/410744"
+                                containerid="39002093758986"
+                                encodinganalog="flat box (18d 1h 24w)"
+                                id="aspace_6be0548b1712997513efc35a47520428_c1"
+                                label="Mixed Materials"
+                                localtype="box">87</container>
+                     <container id="aspace_6be0548b1712997513efc35a47520428_c2"
+                                localtype="folder"
+                                parent="aspace_6be0548b1712997513efc35a47520428_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928695"
+                  id="aspace_23b63060eb0f3b011961c10c78fd68bd"
+                  level="file">
+                  <did>
+                     <unittitle>Photographic prints, album</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/410745 /locations/206"
+                                containerid="39002093758994"
+                                encodinganalog="Custom box [9d, 4h, 12w]"
+                                id="aspace_23b63060eb0f3b011961c10c78fd68bd_c1"
+                                label="Mixed Materials"
+                                localtype="box">88</container>
+                     <container id="aspace_23b63060eb0f3b011961c10c78fd68bd_c2"
+                                localtype="folder"
+                                parent="aspace_23b63060eb0f3b011961c10c78fd68bd_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928696"
+                  id="aspace_55a25a57612d2c76afceabd9f986f590"
+                  level="file">
+                  <did>
+                     <unittitle>Photographs of Models, album</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/410746"
+                                containerid="39002093759000"
+                                encodinganalog="Custom box [9d, 4h, 12w]"
+                                id="aspace_55a25a57612d2c76afceabd9f986f590_c1"
+                                label="Mixed Materials"
+                                localtype="box">89</container>
+                     <container id="aspace_55a25a57612d2c76afceabd9f986f590_c2"
+                                localtype="folder"
+                                parent="aspace_55a25a57612d2c76afceabd9f986f590_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928697"
+                  id="aspace_3be12e5f2093c2500f99d09fd30f93b9"
+                  level="file">
+                  <did>
+                     <unittitle>Photographic prints, album</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/410747 /locations/206"
+                                containerid="39002093759018"
+                                encodinganalog="Custom box [9d, 4h, 12w]"
+                                id="aspace_3be12e5f2093c2500f99d09fd30f93b9_c1"
+                                label="Mixed Materials"
+                                localtype="box">90</container>
+                     <container id="aspace_3be12e5f2093c2500f99d09fd30f93b9_c2"
+                                localtype="folder"
+                                parent="aspace_3be12e5f2093c2500f99d09fd30f93b9_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928698"
+                  id="aspace_1bc23b0b0e02a4eeee5384aac6fe0dbd"
+                  level="file">
+                  <did>
+                     <unittitle>Framed photograph of James Gamble Rogers and others upon completion of Harkness Tower</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">1921 April 8</unitdate>
+                     <container altrender="/repositories/12/top_containers/410748"
+                                containerid="39002093759026"
+                                encodinganalog="custom box [flat, 24&#34; wide]"
+                                id="aspace_1bc23b0b0e02a4eeee5384aac6fe0dbd_c1"
+                                label="Mixed Materials"
+                                localtype="box">91</container>
+                     <container id="aspace_1bc23b0b0e02a4eeee5384aac6fe0dbd_c2"
+                                localtype="folder"
+                                parent="aspace_1bc23b0b0e02a4eeee5384aac6fe0dbd_c1">1</container>
+                  </did>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3928491"
+               id="aspace_7a3727c879736d2e7651ff31fedd8420"
+               level="file">
+               <did>
+                  <unittitle>Miscellaneous publications, prints and papers</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1.5</quantity>
+                     <unittype>Linear Feet</unittype>
+                  </physdescstructured>
+                  <physdesc localtype="container_summary">(1 box)</physdesc>
+                  <unitdatestructured altrender="1881-1931" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1881">1881</fromdate>
+                        <todate standarddate="1931">1931</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+               <arrangement id="aspace_347f9e28417b6e596c000a135d8fda0d">
+                  <head>Arrangement</head>
+                  <p>Materials maintain approximate order found at the time of acquisition.</p>
+               </arrangement>
+               <c altrender="/repositories/12/archival_objects/3928688"
+                  id="aspace_3547b5ef406fd40fc254c2079022981a"
+                  level="file">
+                  <did>
+                     <unittitle>Menu</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <container altrender="/repositories/12/top_containers/410739 /locations/206"
+                                containerid="39002093759034"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_3547b5ef406fd40fc254c2079022981a_c1"
+                                label="Mixed Materials"
+                                localtype="box">92</container>
+                     <container id="aspace_3547b5ef406fd40fc254c2079022981a_c2"
+                                localtype="folder"
+                                parent="aspace_3547b5ef406fd40fc254c2079022981a_c1">1</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928689"
+                  id="aspace_f740b9f4a9f7389f313928bf385571c3"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title localtype="simple" render="italic">
+                           <part>Yale Alumni Weekly</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1931 February 27"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1931-02-27">1931 February 27</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/410739 /locations/206"
+                                containerid="39002093759034"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_f740b9f4a9f7389f313928bf385571c3_c1"
+                                label="Mixed Materials"
+                                localtype="box">92</container>
+                     <container id="aspace_f740b9f4a9f7389f313928bf385571c3_c2"
+                                localtype="folder"
+                                parent="aspace_f740b9f4a9f7389f313928bf385571c3_c1">2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928690"
+                  id="aspace_180f02a5838025f5c46ac217f9c136df"
+                  level="file">
+                  <did>
+                     <unittitle>Sterling Law School photographic prints</unittitle>
+                     <unitdatestructured altrender="1930 October-November"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1930-10">1930 October</fromdate>
+                           <todate standarddate="1930-11">1930 November</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/410739 /locations/206"
+                                containerid="39002093759034"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_180f02a5838025f5c46ac217f9c136df_c1"
+                                label="Mixed Materials"
+                                localtype="box">92</container>
+                     <container id="aspace_180f02a5838025f5c46ac217f9c136df_c2"
+                                localtype="folder"
+                                parent="aspace_180f02a5838025f5c46ac217f9c136df_c1">3</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928691"
+                  id="aspace_90b8bbc560739612e431b370e9789c71"
+                  level="file">
+                  <did>
+                     <unittitle>
+                        <title localtype="simple" render="italic">
+                           <part>Yale Alumni Weekly</part>
+                        </title>
+                     </unittitle>
+                     <unitdatestructured altrender="1922 March 31" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1922-03-31">1922 March 31</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/410739 /locations/206"
+                                containerid="39002093759034"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_90b8bbc560739612e431b370e9789c71_c1"
+                                label="Mixed Materials"
+                                localtype="box">92</container>
+                     <container id="aspace_90b8bbc560739612e431b370e9789c71_c2"
+                                localtype="folder"
+                                parent="aspace_90b8bbc560739612e431b370e9789c71_c1">4</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928692"
+                  id="aspace_4831cb1bb422b69498410488d3f02be7"
+                  level="file">
+                  <did>
+                     <unittitle>Photocopy of letter from Rogers to Anson Phelps Stokes</unittitle>
+                     <unitdatestructured altrender="1920 November 12"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="1920-11-12">1920 November 12</datesingle>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/410739 /locations/206"
+                                containerid="39002093759034"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_4831cb1bb422b69498410488d3f02be7_c1"
+                                label="Mixed Materials"
+                                localtype="box">92</container>
+                     <container id="aspace_4831cb1bb422b69498410488d3f02be7_c2"
+                                localtype="folder"
+                                parent="aspace_4831cb1bb422b69498410488d3f02be7_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3928693"
+                  id="aspace_c3772d7db4d0d8cc9b315280c4fa9dca"
+                  level="file">
+                  <did>
+                     <unittitle>Poem and matted photographic prints given to Rogers</unittitle>
+                     <unitdatestructured altrender="1881-1921" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1881">1881</fromdate>
+                           <todate standarddate="1921">1921</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/410739 /locations/206"
+                                containerid="39002093759034"
+                                encodinganalog="flat box (14d 1h 18w)"
+                                id="aspace_c3772d7db4d0d8cc9b315280c4fa9dca_c1"
+                                label="Mixed Materials"
+                                localtype="box">92</container>
+                     <container id="aspace_c3772d7db4d0d8cc9b315280c4fa9dca_c2"
+                                localtype="folder"
+                                parent="aspace_c3772d7db4d0d8cc9b315280c4fa9dca_c1">6</container>
+                  </did>
+               </c>
             </c>
          </c>
       </dsc>
