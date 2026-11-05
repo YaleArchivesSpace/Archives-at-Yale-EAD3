@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-20T23:08:29-04:00</eventdatetime>
+            <eventdatetime>2026-11-04T23:02:35-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 23:08</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1043,9 +1043,17 @@
                      <dao actuate="onrequest"
                           audience="external"
                           daotype="unknown"
-                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          href="https://collections.library.yale.edu/manifests/33692013"
                           identifier="oid:33692013"
                           linktitle="112 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33692014/full/!150,150/0/default.jpg"
+                          identifier="oid:33692013"
+                          linktitle="[Front cover]"
                           linkrole="image-thumbnail"
                           show="embed"/>
                      <dao actuate="onrequest"
@@ -1053,7 +1061,7 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33692013"
                           identifier="oid:33692013"
-                          linktitle="112 images"
+                          linktitle="[Front cover]"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>

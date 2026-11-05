@@ -45,7 +45,7 @@
                <p>Boxes: 17 (Record album storage), 26 (Oversize), 32 (Record album storage), 51 (Record album storage), 74 (Oversize), 97-98 (Oversize), 102 (Record album storage), 118-120 (Oversize), 143 (Record album storage), 147 (oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="103">103</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="495">495</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="104">104</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="495">495</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-02T23:02:06-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T23:00:46-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  2, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2824,6 +2824,27 @@
                      <container id="aspace_ref1266_c2"
                                 localtype="item_barcode"
                                 parent="aspace_ref1266_c1">39002140886871</container>
+                     <daoset altrender="/repositories/11/digital_objects/368009">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_182299"
+                             linktitle="[Aviary] ycalmss083639002140886871a.u.mp3"
+                             linkrole="image-thumbnail"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://beineckelibrary.aviaryplatform.com/r/6h4cn7148q"
+                             identifier="aviary_182299"
+                             linktitle="[Aviary] ycalmss083639002140886871a.u.mp3"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Aviary] ycalmss083639002140886871a.u.mp3</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_a25e3290df09a26d23c65416ea1fa99e"
                                   localtype="RestrictedFragileSpecColl">

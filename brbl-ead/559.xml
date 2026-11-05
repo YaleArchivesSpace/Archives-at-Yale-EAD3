@@ -44,6 +44,9 @@
             <controlnote localtype="onsite">
                <p>Boxes: cs, bsd, folder 641</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="288">288</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -75,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-03T23:00:48-05:00</eventdatetime>
+            <eventdatetime>2026-11-04T23:02:18-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday February  3, 2026 at 23:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 23:02</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -9548,6 +9551,27 @@ Paris, to Caresse Crosby, 1929 Mar 23</p>
                         <container id="aspace_ref1720_c2"
                                    localtype="folder"
                                    parent="aspace_ref1720_c1">633</container>
+                        <daoset altrender="/repositories/11/digital_objects/368036">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33893845"
+                                linktitle="288 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33893845"
+                                identifier="oid:33893845"
+                                linktitle="288 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>1917 January-April</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/11/archival_objects/186867"
