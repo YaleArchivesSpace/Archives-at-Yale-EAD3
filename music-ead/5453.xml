@@ -42,7 +42,7 @@
                <p>Box: 67b</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="13">13</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-04T20:00:42-05:00</eventdatetime>
+            <eventdatetime>2026-11-05T20:01:27-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November  5, 2026 at 20:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -48835,6 +48835,25 @@
                      <container id="aspace_b271ba50f9139cb79b00162e75b8a1e3_c3"
                                 localtype="item_barcode"
                                 parent="aspace_b271ba50f9139cb79b00162e75b8a1e3_c2">39002132460503</container>
+                     <daoset altrender="/repositories/6/digital_objects/368038">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemusiclib.aviaryplatform.com/r/c824b30d8t"
+                             identifier="aviary_182395"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/323/911/original/open-uri20261105-820046-sh2p47?1793910338"
+                             identifier="aviary_182395"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] mss006939002132460503.u.mp3</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <scopecontent id="aspace_7790297ee4102c27abca36e6a45a0af6">
                      <head>Scope and Contents</head>
