@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/bkp170">bkp170</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the William R. A. Hays Correspondence with Frederick Charles Blank Regarding Bookplates </titleproper>
+            <titleproper localtype="filing">Hays (William R. A.) Correspondence with Frederick Charles Blank Regarding Bookplates</titleproper>
+            <author>Adrienne Pruitt</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Robert B. Haas Family Arts Library Special Collections</publisher>
+            <address>
+               <addressline>Arts Library Special Collections</addressline>
+               <addressline>180 York Street </addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline localtype="telephone">203-432-1712</addressline>
+               <addressline localtype="email">haasalsc@yale.edu</addressline>
+               <addressline>
+                  <ref href="https://web.library.yale.edu/arts/alsc"
+                       linktitle="https://web.library.yale.edu/arts/alsc"
+                       show="new">https://web.library.yale.edu/arts/alsc</ref>
+               </addressline>
+            </address>
+            <date>November 2026</date>
+            <num>BKP 140</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote localtype="onsite">
+               <p>Box: 1</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency countrycode="US">
+         <agencycode>US-CtY-A</agencycode>
+         <agencyname>Robert B. Haas Family Arts Library Special Collections</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>in_progress</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-11-05T19:00:35-05:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November  5, 2026 at 19:00</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/5/resources/14151" level="collection">
+      <did>
+         <unittitle>William R. A. Hays correspondence with Frederick Charles Blank regarding bookplates</unittitle>
+         <unitid>BKP 140</unitid>
+         <repository>
+            <corpname>
+               <part>Robert B. Haas Family Arts Library Special Collections</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <languageset>
+               <language langcode="eng">English</language>
+               <script scriptcode="Latn">Latin</script>
+            </languageset>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>.25</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1931">1931</fromdate>
+               <todate standarddate="1933">1933</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_e89201cd2a991963a75cbf017330e8b2">The collection contains typewritten and handwritten letters by bookplate collector William R. A. Hays to bookplate artist Frederick C. Blank. Correspondence relates to all aspects of bookplate collecting and mentions many prominent designers and engravers of bookplates</abstract>
+         <origination label="Creator">
+            <persname relator="crp">
+               <part localtype="agent_person">Hays, William R. A.</part>
+            </persname>
+         </origination>
+      </did>
+      <scopecontent id="aspace_b14254a2c99cb29bb66cdd9a55e1b349">
+         <head>Scope and Contents</head>
+         <p>The collection contains typewritten and handwritten letters by bookplate collector William R. A. Hays to bookplate artist Frederick C. Blank. Correspondence relates to all aspects of bookplate collecting and mentions many prominent designers and engravers of bookplates.</p>
+      </scopecontent>
+      <arrangement id="aspace_23a9e85ec9b10b60622f33933a149d1c">
+         <head>Arrangement</head>
+         <p>Organized chronologically.</p>
+      </arrangement>
+      <bioghist id="aspace_938ba1fabff0e347c71df82d0bf03fb8">
+         <head>Biographical / Historical</head>
+         <p>William R. A. Hays was a broker, lawyer, and noted bookplate collector from Cleveland, Ohio. Frederck Charles Blank (1866-1942) was born in Rockville, Connecticut, and studied engraving under Frederick Leigh in Hartford Connecticut. He worked as an engraver for the Brooklyn Watch Case Company, the John Robbins Manufacturing Company, and the Gillette Safety Razor Company. He also designed bookplates beginning in 1917, and won international awards from the Bookplate Association in 1929 and 1932.</p>
+      </bioghist>
+      <acqinfo id="aspace_71c638bc0da4e9eb89ef44d882250f4d">
+         <head>Immediate Source of Acquisition</head>
+         <p>Acquired by purchase, 2014.</p>
+      </acqinfo>
+      <prefercite id="aspace_ffebd015340cd7a53540e16ab1442f8a">
+         <head>Preferred Citation</head>
+         <p>William R. A. Hays correspondence with Frederick Charles Blank regarding bookplates, Robert B. Haas Family Arts Library, Yale University.</p>
+      </prefercite>
+      <controlaccess>
+         <subject identifier="http://id.loc.gov/authorities/subjects/sh85015646"
+                  source="lcsh">
+            <part localtype="topical">Bookplates</part>
+         </subject>
+         <genreform identifier="http://vocab.getty.edu/aat/300026877" source="aat">
+            <part localtype="genre_form">Correspondence </part>
+         </genreform>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/5/archival_objects/4069425"
+            id="aspace_085e4718095104d4902ff5b1fc0827b5"
+            level="file">
+            <did>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1931">1931</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/5/top_containers/485771"
+                          containerid="39002075207663"
+                          encodinganalog="archive half legal"
+                          id="aspace_085e4718095104d4902ff5b1fc0827b5_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_085e4718095104d4902ff5b1fc0827b5_c2"
+                          localtype="folder"
+                          parent="aspace_085e4718095104d4902ff5b1fc0827b5_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/5/archival_objects/4069426"
+            id="aspace_dd4d15a3bf46018f38220d9c75f35d3e"
+            level="file">
+            <did>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1932">1932</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/5/top_containers/485771"
+                          containerid="39002075207663"
+                          encodinganalog="archive half legal"
+                          id="aspace_dd4d15a3bf46018f38220d9c75f35d3e_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_dd4d15a3bf46018f38220d9c75f35d3e_c2"
+                          localtype="folder"
+                          parent="aspace_dd4d15a3bf46018f38220d9c75f35d3e_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/5/archival_objects/4069427"
+            id="aspace_af9919a88eeea9943b9e6cb285e5396d"
+            level="file">
+            <did>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1933">1933</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/5/top_containers/485771"
+                          containerid="39002075207663"
+                          encodinganalog="archive half legal"
+                          id="aspace_af9919a88eeea9943b9e6cb285e5396d_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_af9919a88eeea9943b9e6cb285e5396d_c2"
+                          localtype="folder"
+                          parent="aspace_af9919a88eeea9943b9e6cb285e5396d_c1">3</container>
+            </did>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

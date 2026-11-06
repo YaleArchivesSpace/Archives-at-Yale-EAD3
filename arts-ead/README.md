@@ -272,4 +272,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [ead.arts.alsc.0008.xml](14056.xml) | ead.arts.alsc.0008 | ALSC MS 0008 | Green Family collection of volvelles | 
  [aob103.xml](14063.xml) | aob103 | AOB 103 | Arnold Saks Associates records | 
  [arts.bkp.0183.xml](14072.xml) | arts.bkp.0183 | BKP 183 | Collection of children's bookplates | 
+ [bkp170.xml](14151.xml) | bkp170 | BKP 140 | William R. A. Hays correspondence with Frederick Charles Blank regarding bookplates | 
 
