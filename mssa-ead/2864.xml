@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-01T03:00:08-05:00</eventdatetime>
+            <eventdatetime>2026-11-06T03:00:32-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Sunday November  1, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November  6, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -20205,45 +20205,23 @@
                      id="ref1346"
                      level="file">
                      <did>
-                        <unittitle>Tipton, Jennifer, Tharon Musser, and Ming Cho Lee (mod.), "Telling Stories Through Light"</unittitle>
+                        <unittitle>Tipton, Jennifer, Tharon Musser, and Ming Cho Lee (mod.), "Telling Stories Through Light"; Morrison, Toni, August Wilson, and Robert Stepto (mod.), "The Poetry of Storytelling"</unittitle>
                         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
-                        <unitdatestructured altrender="1986 January 24"
+                        <unitdatestructured altrender="1986 January 24-25"
                                             label="creation"
                                             unitdatetype="inclusive">
-                           <datesingle standarddate="1986-01-24">1986 January 24</datesingle>
+                           <daterange>
+                              <fromdate standarddate="1986-01-24">1986 January 24</fromdate>
+                              <todate standarddate="1986-01-25">1986 January 25</todate>
+                           </daterange>
                         </unitdatestructured>
                         <container altrender="/repositories/12/top_containers/117415 /locations/9"
                                    containerid="39002075168824"
                                    encodinganalog="audiocassette case"
                                    id="aspace_ref1346_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">94</container>
-                        <container id="aspace_ref1346_c2"
-                                   localtype="item_barcode"
-                                   parent="aspace_ref1346_c1">39002140887598</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/12/archival_objects/1001107"
-                     id="ref1348"
-                     level="file">
-                     <did>
-                        <unittitle>Morrison, Toni, August Wilson, and Robert Stepto (mod.), "The Poetry of Storytelling"</unittitle>
-                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-                           <quantity>1</quantity>
-                           <unittype>Audiocassette</unittype>
-                        </physdescstructured>
-                        <unitdatestructured altrender="1986 January 25"
-                                            label="creation"
-                                            unitdatetype="inclusive">
-                           <datesingle standarddate="1986-01-25">1986 January 25</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/12/top_containers/117415 /locations/9"
-                                   containerid="39002075168824"
-                                   encodinganalog="audiocassette case"
-                                   id="aspace_ref1348_c1"
                                    label="Mixed Materials"
                                    localtype="box">94</container>
                      </did>

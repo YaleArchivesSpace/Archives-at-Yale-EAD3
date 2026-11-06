@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-27T03:00:43-04:00</eventdatetime>
+            <eventdatetime>2026-11-06T03:00:24-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 27, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November  6, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1311,6 +1311,29 @@
                   <datesingle standarddate="2016">2016</datesingle>
                </unitdatestructured>
             </did>
+            <accessrestrict id="aspace_0d14d14a9313553dd1f998f89fc3cf22">
+               <head>Conditions Governing Access</head>
+               <p>Open for research.</p>
+            </accessrestrict>
+            <c altrender="/repositories/12/archival_objects/3976595"
+               id="aspace_6d60d29e6471b346e70ebd57b03afe4f"
+               level="file">
+               <did>
+                  <unittitle>Yale in Norfolk 75th anniversary booklet-"Chamber Music Festival: Music Among Friends"</unittitle>
+                  <unitdatestructured altrender="2016" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2016">2016</datesingle>
+                  </unitdatestructured>
+                  <container altrender="/repositories/12/top_containers/420183 /locations/9"
+                             containerid="39002141039983"
+                             encodinganalog="envelope"
+                             id="aspace_6d60d29e6471b346e70ebd57b03afe4f_c1"
+                             label="Mixed Materials"
+                             localtype="box">1</container>
+                  <container id="aspace_6d60d29e6471b346e70ebd57b03afe4f_c2"
+                             localtype="folder"
+                             parent="aspace_6d60d29e6471b346e70ebd57b03afe4f_c1">1</container>
+               </did>
+            </c>
          </c>
       </dsc>
    </archdesc>
