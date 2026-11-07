@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T06:22:14-04:00</eventdatetime>
+            <eventdatetime>2026-11-07T03:00:32-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 06:22</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday November  7, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -113,7 +113,7 @@
       </odd>
       <accessrestrict id="aspace_9836e8ec85973da6c7bc03043a467051">
          <head>Conditions Governing Access</head>
-         <p>Access to the records is restricted. See Collection Contents for details.</p>
+         <p>Open for research.</p>
       </accessrestrict>
       <prefercite id="aspace_f942b8986a78b2e7d15f2e50d84a3e6b">
          <head>Preferred Citation</head>
@@ -159,11 +159,6 @@
                   </daterange>
                </unitdatestructured>
             </did>
-            <accessrestrict id="aspace_256f9ebe80aa6a9dff813d4a4811f8d8"
-                            localtype="RestrictedCurApprSpecColl">
-               <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2031</p>
-            </accessrestrict>
             <c altrender="/repositories/12/archival_objects/787020"
                id="ref9"
                level="file">
@@ -276,11 +271,6 @@
                   </daterange>
                </unitdatestructured>
             </did>
-            <accessrestrict id="aspace_8e225cc2d519f21431ebba1da330ed2a"
-                            localtype="RestrictedCurApprSpecColl">
-               <head>Conditions Governing Access</head>
-               <p>Restricted until Jan 1, 2028</p>
-            </accessrestrict>
             <c altrender="/repositories/12/archival_objects/787028"
                id="ref18"
                level="file">
