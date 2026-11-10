@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-20T23:07:49-04:00</eventdatetime>
+            <eventdatetime>2026-11-09T23:02:06-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 20, 2026 at 23:07</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  9, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -15824,11 +15824,9 @@
                      level="file">
                      <did>
                         <unittitle>Adlercron, Hester</unittitle>
-                        <unitdatestructured altrender="1892-1915, n.d."
-                                            label="creation"
-                                            unitdatetype="inclusive">
+                        <unitdatestructured altrender="1906-1915" label="creation" unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1892">1892</fromdate>
+                              <fromdate standarddate="1906">1906</fromdate>
                               <todate standarddate="1915">1915</todate>
                            </daterange>
                         </unitdatestructured>
@@ -15839,13 +15837,11 @@
                                    localtype="box">22</container>
                         <container id="aspace_ref1544_c2"
                                    localtype="folder"
-                                   parent="aspace_ref1544_c1">434-437</container>
+                                   parent="aspace_ref1544_c1">437</container>
                      </did>
                      <odd id="aspace_55bcbd14e2bf9af3e5b09763d9a8bdfc">
                         <head>General note</head>
-                        <p>FRKF 273</p>
                         <p>FRKF 274</p>
-                        <p>FRKF 275</p>
                      </odd>
                   </c>
                   <c altrender="/repositories/11/archival_objects/246578"
@@ -15870,6 +15866,34 @@
                         <p>FRKF 138i</p>
                      </odd>
                   </c>
+                  <c altrender="/repositories/11/archival_objects/4070653"
+                     id="aspace_8c7310c86aa2397a2939c0f1f612dded"
+                     level="file">
+                     <did>
+                        <unittitle>Bancroft, Harriet James</unittitle>
+                        <unitdatestructured altrender="1892-1903, undated"
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1892">1892</fromdate>
+                              <todate standarddate="1903">1903</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/11/top_containers/21102 /locations/9"
+                                   containerid="39002088293429"
+                                   id="aspace_8c7310c86aa2397a2939c0f1f612dded_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">22</container>
+                        <container id="aspace_8c7310c86aa2397a2939c0f1f612dded_c2"
+                                   localtype="folder"
+                                   parent="aspace_8c7310c86aa2397a2939c0f1f612dded_c1">434-436</container>
+                     </did>
+                     <odd id="aspace_08c90e7544e74238f4303ed3ed3587bd">
+                        <head>General</head>
+                        <p>FRKF 273
+FRKF 275</p>
+                     </odd>
+                  </c>
                   <c altrender="/repositories/11/archival_objects/246579"
                      id="ref1548"
                      level="file">
@@ -15879,7 +15903,7 @@
                      <relatedmaterial id="aspace_b7faffe865a0d77853594264300efe42">
                         <head>Related Archival Materials note</head>
                         <p>
-                           <ref actuate="onrequest" show="replace" target="ref1544">See: Adlercron, Hester, box 22, folder 434-437</ref>
+                           <ref actuate="onrequest" show="replace" target="ref1544">See: Adlercron, Hester, box 22, folder 437</ref>
                         </p>
                      </relatedmaterial>
                   </c>

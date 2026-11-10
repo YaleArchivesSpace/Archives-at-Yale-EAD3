@@ -39,7 +39,7 @@
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">4400452</num>.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 1-5</p>
+               <p>Boxes: 1-5, 8</p>
             </controlnote>
             <controlnote localtype="offsite">
                <p>Boxes: 6-7</p>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-22T23:05:02-04:00</eventdatetime>
+            <eventdatetime>2026-11-09T23:03:00-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 22, 2026 at 23:05</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November  9, 2026 at 23:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2790,6 +2790,57 @@
                   </controlaccess>
                </c>
             </c>
+            <c altrender="/repositories/11/archival_objects/3578833"
+               id="aspace_d8bd5155b72bbc77caf9bcf3695652aa"
+               level="subseries">
+               <did>
+                  <unittitle>HUNICKE, J. OTTO</unittitle>
+                  <origination label="Creator">
+                     <persname rules="rda" source="local">
+                        <part localtype="agent_person">Hunicke, J. Otto</part>
+                     </persname>
+                  </origination>
+               </did>
+               <c altrender="/repositories/11/archival_objects/3578835"
+                  id="aspace_2dcc8455d63703917513a79cc4b0bcdf"
+                  level="file">
+                  <did>
+                     <unittitle>Wood burned image of a child wearing a hat</unittitle>
+                     <origination label="Creator">
+                        <persname rules="rda" source="local">
+                           <part localtype="agent_person">Hunicke, J. Otto</part>
+                        </persname>
+                     </origination>
+                     <unitdatestructured altrender="1902" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1902">1902</datesingle>
+                     </unitdatestructured>
+                     <physdesc id="aspace_6e4ca93f76b4ee850ed493cc0372ce10">1 item (16 x 21 cm)</physdesc>
+                     <langmaterial>
+                        <language/>
+                        <descriptivenote>
+                           <p>No linguistic material.</p>
+                        </descriptivenote>
+                     </langmaterial>
+                     <container altrender="/repositories/11/top_containers/486022 /locations/7165"
+                                encodinganalog="archive half legal"
+                                id="aspace_2dcc8455d63703917513a79cc4b0bcdf_c1"
+                                label="Mixed Materials"
+                                localtype="box">8</container>
+                  </did>
+                  <scopecontent id="aspace_bc2c9c7f28a380cde40658391c2c4cb5">
+                     <head>Scope and Contents</head>
+                     <p>Wood burned image of a child wearing a hat, signed, 1902. Image burned or carved into wood.</p>
+                  </scopecontent>
+                  <acqinfo id="aspace_1427152fc9c435a23a3110a660b07694">
+                     <head>Immediate Source of Acquisition</head>
+                     <p>Source unknown.</p>
+                  </acqinfo>
+                  <odd id="aspace_ff45d78eb72e769fad26fa41d4993ddf">
+                     <head>General</head>
+                     <p>Accession: 2023-jwj-0013</p>
+                  </odd>
+               </c>
+            </c>
          </c>
          <c altrender="/repositories/11/archival_objects/366631"
             id="ref232"
@@ -3425,6 +3476,60 @@
                   <odd id="aspace_2ee63369dfb1659bea3e03565a0fc220">
                      <head>General note</head>
                      <p>Accession: 19830214</p>
+                  </odd>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3560251"
+               id="aspace_2977e649a4ba3ca289957e01181238a2"
+               level="subseries">
+               <did>
+                  <unittitle>MPOY, PIERRE VICTOR, 1934-2015</unittitle>
+                  <origination label="Creator">
+                     <persname rules="rda" source="local_beinecke">
+                        <part localtype="agent_person">Mpoy, Pierre Victor, 1934-2015</part>
+                     </persname>
+                  </origination>
+                  <container altrender="/repositories/11/top_containers/486022 /locations/7165"
+                             encodinganalog="archive half legal"
+                             id="aspace_2977e649a4ba3ca289957e01181238a2_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+               </did>
+               <c altrender="/repositories/11/archival_objects/3560260"
+                  id="aspace_062a87ad0af74ae40fe02453f3ccfea3"
+                  level="file">
+                  <did>
+                     <unittitle>Exhibition invitation</unittitle>
+                     <origination label="Creator">
+                        <persname rules="rda" source="local_beinecke">
+                           <part localtype="agent_person">Mpoy, Pierre Victor, 1934-2015</part>
+                        </persname>
+                     </origination>
+                     <unitdatestructured altrender="1969" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1969">1969</fromdate>
+                           <todate standarddate="1969">1969</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <physdesc id="aspace_bbd3741d6ba048ba5a92713b5833e5cf">2 items</physdesc>
+                     <langmaterial>
+                        <language/>
+                        <descriptivenote>
+                           <p>Materials in English.</p>
+                        </descriptivenote>
+                     </langmaterial>
+                  </did>
+                  <scopecontent id="aspace_ef413a99058eeca733f4856fce2adaef">
+                     <head>Scope and Contents</head>
+                     <p>Invitation to an exhibition opening featuring Pierre Victory Mpoy's lithographs, held September 9-October 4, 1969 at La Boetie, Inc. in New York City. Also includes a printed insert containing biographical information on Mpoy. With envelope addressed to Donald Gallup.</p>
+                  </scopecontent>
+                  <acqinfo id="aspace_71fa40c88c5fe3d24fafa9ed6b80cd5a">
+                     <head>Immediate Source of Acquisition</head>
+                     <p>Gift of Donald Gallup.</p>
+                  </acqinfo>
+                  <odd id="aspace_94eaaf1f8b28a2d6fec759a52e222826">
+                     <head>General</head>
+                     <p>Accession: 2023-jwj-0012</p>
                   </odd>
                </c>
             </c>
@@ -4671,6 +4776,55 @@
                      <head>General note</head>
                      <p>Accession: 36541</p>
                   </odd>
+               </c>
+            </c>
+            <c altrender="/repositories/11/archival_objects/3562871"
+               id="aspace_a569a1a710819b5f04474b67edf18d98"
+               level="subseries">
+               <did>
+                  <unittitle>WHEATLEY, PHILLIS, 1753-1784</unittitle>
+                  <origination label="Creator">
+                     <persname>
+                        <part localtype="agent_person">Wheatley, Phillis, 1753-1784</part>
+                     </persname>
+                  </origination>
+                  <container altrender="/repositories/11/top_containers/486022 /locations/7165"
+                             encodinganalog="archive half legal"
+                             id="aspace_a569a1a710819b5f04474b67edf18d98_c1"
+                             label="Mixed Materials"
+                             localtype="box">8</container>
+               </did>
+               <c altrender="/repositories/11/archival_objects/3562877"
+                  id="aspace_7febd5bcdd6f64af69609200d7d1c86f"
+                  level="file">
+                  <did>
+                     <unittitle>Photograph of a drawing of Phillis Wheatley</unittitle>
+                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <physdesc id="aspace_d17116cc0c305674f998bd76e64b9bd3">1 item (27 x 21 cm)</physdesc>
+                     <langmaterial>
+                        <language/>
+                        <descriptivenote>
+                           <p>No linguistic content.</p>
+                        </descriptivenote>
+                     </langmaterial>
+                  </did>
+                  <scopecontent id="aspace_cc1b488ce945daf2a95e062a8f605a63">
+                     <head>Scope and Contents</head>
+                     <p>Photograph of a drawing depicting Phillis Wheatley, possibly by [Bray-Ton?]. Original lithograph was signed in bottom right-hand corner. Photograph is mounted to cardstock.</p>
+                  </scopecontent>
+                  <acqinfo id="aspace_b94756ebfe9051a522f319e1b5b9d1f4">
+                     <head>Immediate Source of Acquisition</head>
+                     <p>Source unknown.</p>
+                  </acqinfo>
+                  <odd id="aspace_c907721cb4e65083aeb83ef2699671ac">
+                     <head>General</head>
+                     <p>Accession: 2023-jwj-0015</p>
+                  </odd>
+                  <controlaccess>
+                     <persname>
+                        <part localtype="agent_person">Wheatley, Phillis, 1753-1784</part>
+                     </persname>
+                  </controlaccess>
                </c>
             </c>
             <c altrender="/repositories/11/archival_objects/366692"
