@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-05T18:00:34-05:00</eventdatetime>
+            <eventdatetime>2026-11-10T18:00:37-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November  5, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 10, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -97,7 +97,7 @@
             <quantity>285</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">673 boxes</physdesc>
+         <physdesc localtype="container_summary">671 boxes; 29 oversize boxes</physdesc>
          <unitdatestructured altrender="1886-1964" label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1886">1886</fromdate>
@@ -2276,6 +2276,28 @@
                         <p>The volunteers' numbers, fields of service, and date of departure are recorded.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/4071133"
+                     id="aspace_27e679218b5c8601d1022745e3de52ae"
+                     level="file">
+                     <did>
+                        <unittitle>List of sailed volunteers </unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1925">1925</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_27e679218b5c8601d1022745e3de52ae_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_27e679218b5c8601d1022745e3de52ae_c2"
+                                   localtype="folder"
+                                   parent="aspace_27e679218b5c8601d1022745e3de52ae_c1">1325</container>
+                     </did>
+                     <scopecontent id="aspace_33fc6249bfeaa45c05c3508a83be9abb">
+                        <head>Scope and Contents</head>
+                        <p>Alphabetically listed by name with educational institution, field of service, and mission agency/denomination noted.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80146"
                      id="ref147"
                      level="file">
@@ -2534,6 +2556,31 @@
                         <p>Arranged by educational institution, the listing contains addresses and in some cases names of officers and faculty advisors of the SVM chapters.</p>
                      </scopecontent>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/80158"
+                     id="ref159"
+                     level="file">
+                     <did>
+                        <unittitle>Mailing Lists</unittitle>
+                        <unitdatestructured altrender="1934-1945, n.d."
+                                            label="creation"
+                                            unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1934">1934</fromdate>
+                              <todate standarddate="1945">1945</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_ref159_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_ref159_c2" localtype="folder" parent="aspace_ref159_c1">1319-1321</container>
+                     </did>
+                     <scopecontent id="aspace_31fa3ed52695a92ab294875223bd99b7">
+                        <head>Scope and Contents</head>
+                        <p>Miscellaneous lists of addresses of volunteers, supporters, and SVM chapters.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80152"
                      id="ref153"
                      level="file">
@@ -2594,26 +2641,27 @@
                         <p>Lists missionaries who received appointment from 1885, information compiled from records in the office of the Student Volunteer Movement for Foreign Missions.</p>
                      </scopecontent>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/80158"
-                     id="ref159"
+                  <c altrender="/repositories/4/archival_objects/80147"
+                     id="ref148"
                      level="file">
                      <did>
-                        <unittitle>Mailing Lists</unittitle>
-                        <unitdatestructured altrender="1934-1945, n.d."
-                                            label="creation"
-                                            unitdatetype="inclusive">
+                        <unittitle>Bound volume listing of volunteers by number</unittitle>
+                        <unitdatestructured altrender="1930-1939" label="creation" unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1934">1934</fromdate>
-                              <todate standarddate="1945">1945</todate>
+                              <fromdate standarddate="1930">1930</fromdate>
+                              <todate standarddate="1939">1939</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_ref159_c1"
+                        <container altrender="/repositories/4/top_containers/8818 /locations/9"
+                                   containerid="39002035367029"
+                                   id="aspace_ref148_c1"
                                    label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_ref159_c2" localtype="folder" parent="aspace_ref159_c1">1319-1321</container>
+                                   localtype="box">Ov12</container>
                      </did>
+                     <scopecontent id="aspace_367ba0c6e3edeff2c64062eef74c3b73">
+                        <head>Scope and Contents</head>
+                        <p>Information recorded includes name, institution, state, academic class, birthdate, denomination, "first deciding factor", "final influence toward decision."</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80148"
                      id="ref149"
@@ -2637,45 +2685,27 @@
                         <p>Volunteers are listed by number with name, institution, and date of signing card noted.</p>
                      </scopecontent>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/80147"
-                     id="ref148"
+                  <c altrender="/repositories/4/archival_objects/4070676"
+                     id="aspace_10831fbfdc46393e0da776f9a8851654"
                      level="file">
                      <did>
-                        <unittitle>Bound volume listing of volunteers by number</unittitle>
-                        <unitdatestructured altrender="1930-1939" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1930">1930</fromdate>
-                              <todate standarddate="1939">1939</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8818 /locations/9"
-                                   containerid="39002035367029"
-                                   id="aspace_ref148_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">Ov12</container>
-                     </did>
-                     <scopecontent id="aspace_367ba0c6e3edeff2c64062eef74c3b73">
-                        <head>Scope and Contents</head>
-                        <p>Information recorded includes name, institution, state, academic class, birthdate, denomination, "first deciding factor", "final influence toward decision."</p>
-                     </scopecontent>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/3721634"
-                     id="aspace_1c0f4c983dac9bad6bfccc17b0e75c96"
-                     level="file">
-                     <did>
-                        <unittitle>Bound volume listing volunteers by denomination</unittitle>
+                        <unittitle>Volume listing volunteers by denomination (unbound)</unittitle>
                         <unitdatestructured label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1905">1905</fromdate>
-                              <todate standarddate="1915">1915</todate>
+                              <todate standarddate="1913">1913</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/347966 /locations/9"
-                                   containerid="39002035367615"
-                                   id="aspace_1c0f4c983dac9bad6bfccc17b0e75c96_c1"
+                        <container altrender="/repositories/4/top_containers/347964 /locations/9"
+                                   containerid="39002035367599"
+                                   id="aspace_10831fbfdc46393e0da776f9a8851654_c1"
                                    label="Mixed Materials"
-                                   localtype="box">Ov25</container>
+                                   localtype="box">Ov23</container>
                      </did>
+                     <scopecontent id="aspace_47ba3e74f285894f96755b3677a81629">
+                        <head>Scope and Contents</head>
+                        <p>Entries are sorted by denomination and include registration number, name of volunteer, address, educational institution, indication of interests or experience (e.g., agriculture, bookkeeper), and indication of whether the volunteer sailed.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3721633"
                      id="aspace_05e76507d1cc7a8993712df921ba3c73"
@@ -2695,12 +2725,49 @@
                                    localtype="box">Ov24</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/3721634"
+                     id="aspace_1c0f4c983dac9bad6bfccc17b0e75c96"
+                     level="file">
+                     <did>
+                        <unittitle>Bound volume listing volunteers by denomination</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1905">1905</fromdate>
+                              <todate standarddate="1915">1915</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/347966 /locations/9"
+                                   containerid="39002035367615"
+                                   id="aspace_1c0f4c983dac9bad6bfccc17b0e75c96_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">Ov25</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80157"
+                     id="ref158"
+                     level="file">
+                     <did>
+                        <unittitle>Volunteers listed by denomination / mission board</unittitle>
+                        <unitdatestructured altrender="1941-1945" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1941">1941</fromdate>
+                              <todate standarddate="1945">1945</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_ref158_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_ref158_c2" localtype="folder" parent="aspace_ref158_c1">1318</container>
+                     </did>
+                  </c>
                </c>
                <c altrender="/repositories/4/archival_objects/4069445"
                   id="aspace_d003a61865b8218abdb1e23b955c18d2"
                   level="subseries">
                   <did>
-                     <unittitle>Compiled statistics by mission board / denomination </unittitle>
+                     <unittitle>Compiled statistics and forms by denomination / mission board</unittitle>
                   </did>
                   <c altrender="/repositories/4/archival_objects/4070445"
                      id="aspace_3c083ff0fc3f3a649f644e32cea6207b"
@@ -2931,30 +2998,11 @@
                         <container id="aspace_ref184_c2" localtype="folder" parent="aspace_ref184_c1">1362</container>
                      </did>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/80157"
-                     id="ref158"
-                     level="file">
-                     <did>
-                        <unittitle>By Denomination</unittitle>
-                        <unitdatestructured altrender="1941-1945" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1941">1941</fromdate>
-                              <todate standarddate="1945">1945</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_ref158_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_ref158_c2" localtype="folder" parent="aspace_ref158_c1">1318</container>
-                     </did>
-                  </c>
                   <c altrender="/repositories/4/archival_objects/80159"
                      id="ref160"
                      level="file">
                      <did>
-                        <unittitle>Listed by board</unittitle>
+                        <unittitle>Compiled statistics by denomination / mission board</unittitle>
                         <unitdatestructured altrender="1917-1925" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1917">1917</fromdate>
@@ -3016,6 +3064,58 @@
                         <head>Scope and Contents</head>
                         <p>Charts and tables include statistics such as age of volunteers, their educational institutions, duration of service, fields served, number of physicians sent out, reasons for hindrance, and others.</p>
                      </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80156"
+                     id="ref157"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1886-1909" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1886">1886</fromdate>
+                              <todate standarddate="1909">1909</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <unitdatestructured altrender="1927-1930" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1927">1927</fromdate>
+                              <todate standarddate="1930">1930</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <unitdatestructured altrender="1932-1947" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932">1932</fromdate>
+                              <todate standarddate="1947">1947</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_ref157_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_ref157_c2" localtype="folder" parent="aspace_ref157_c1">1315-1317</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4070694"
+                     id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b"
+                     level="file">
+                     <did>
+                        <unittitle>Statistics of volunteers sailed, arranged by denomination</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1917">1917</fromdate>
+                              <todate standarddate="1928">1928</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c2"
+                                   localtype="folder"
+                                   parent="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c1">1322-1324</container>
+                     </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80162"
                      id="ref163"
@@ -3178,37 +3278,6 @@
                                    label="Mixed Materials"
                                    localtype="box">136</container>
                         <container id="aspace_ref179_c2" localtype="folder" parent="aspace_ref179_c1">1357</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80156"
-                     id="ref157"
-                     level="file">
-                     <did>
-                        <unittitle>Statistics</unittitle>
-                        <unitdatestructured altrender="1886-1909" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1886">1886</fromdate>
-                              <todate standarddate="1909">1909</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <unitdatestructured altrender="1927-1930" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1927">1927</fromdate>
-                              <todate standarddate="1930">1930</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <unitdatestructured altrender="1932-1947" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1932">1932</fromdate>
-                              <todate standarddate="1947">1947</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_ref157_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_ref157_c2" localtype="folder" parent="aspace_ref157_c1">1315-1317</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80160"
@@ -23903,6 +23972,14 @@
                   level="file">
                   <did>
                      <unittitle>Pyke, Frances (See: Taft, Frances)</unittitle>
+                     <container altrender="/repositories/4/top_containers/9192 /locations/9"
+                                containerid="39002022299995"
+                                id="aspace_ref1539_c1"
+                                label="Mixed Materials"
+                                localtype="box">491</container>
+                     <container id="aspace_ref1539_c2"
+                                localtype="folder"
+                                parent="aspace_ref1539_c1">5869</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/81533"
@@ -30685,6 +30762,14 @@
                   level="file">
                   <did>
                      <unittitle>Release: A Pageant; Religions of the World; The Rural Missionary</unittitle>
+                     <container altrender="/repositories/4/top_containers/9262 /locations/9"
+                                containerid="39002035390674"
+                                id="aspace_ref1900_c1"
+                                label="Mixed Materials"
+                                localtype="box">556</container>
+                     <container id="aspace_ref1900_c2"
+                                localtype="folder"
+                                parent="aspace_ref1900_c1">6533</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/81893"
@@ -30782,6 +30867,14 @@
                   level="file">
                   <did>
                      <unittitle>SVM Announcements (1897-98)</unittitle>
+                     <container altrender="/repositories/4/top_containers/9263 /locations/9"
+                                containerid="39002035390682"
+                                id="aspace_ref1907_c1"
+                                label="Mixed Materials"
+                                localtype="box">557</container>
+                     <container id="aspace_ref1907_c2"
+                                localtype="folder"
+                                parent="aspace_ref1907_c1">6539</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/81900"
@@ -33978,6 +34071,11 @@
                      level="file">
                      <did>
                         <unittitle>Numerical order (118-2299)</unittitle>
+                        <container altrender="/repositories/4/top_containers/9288 /locations/9"
+                                   containerid="39002035390864"
+                                   id="aspace_ref2118_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">575</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/82111"
@@ -34063,13 +34161,6 @@
                                 id="aspace_ref2126_c1"
                                 label="Mixed Materials"
                                 localtype="box">582</container>
-                  </did>
-               </c>
-               <c altrender="/repositories/4/archival_objects/82118"
-                  id="ref2127"
-                  level="file">
-                  <did>
-                     <unittitle>Scrapbooks and bound volumes</unittitle>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/82119"
