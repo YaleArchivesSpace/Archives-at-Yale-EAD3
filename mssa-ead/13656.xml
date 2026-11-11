@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-10T03:04:21-05:00</eventdatetime>
+            <eventdatetime>2026-11-11T03:03:12-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 10, 2026 at 03:04</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 03:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -138,6 +138,7 @@
                <todate standarddate="2026">2026</todate>
             </daterange>
          </unitdatestructured>
+         <abstract id="aspace_ef274dd32d1a9dad008e698aa3b1bbb0">Collection contains oral history interviews, transcripts and release forms from the course: MGRK 306: The Greek Diaspora in the United States.</abstract>
       </did>
       <accessrestrict id="aspace_a453e3878698d67f1f914d16dcfb6d22">
          <head>Conditions Governing Access</head>
@@ -154,6 +155,10 @@
       <odd id="aspace_07ec750b555542229756218ac7c446f4">
          <head>General</head>
          <p>Forms part of Yale Record Group 04D Records documenting community relations of Yale University.</p>
+      </odd>
+      <odd id="aspace_f4e5024fc153bbf8dc29e88edb55267d">
+         <head>General</head>
+         <p>Copies of oral history interviews are located on the Library's audio-visual digital website (Aviary): https://yalemssa.aviaryplatform.com/collections/3145</p>
       </odd>
       <controlaccess>
          <geogname identifier="http://id.loc.gov/authorities/names/n79100828"
@@ -193,6 +198,2358 @@
                   <datesingle standarddate="2024">2024</datesingle>
                </unitdatestructured>
             </did>
+            <otherfindaid id="aspace_38c7423e-d24b-4b01-934d-62f78e64bbdb">
+               <head>TypeCollection</head>
+               <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;38c7423e-d24b-4b01-934d-62f78e64bbdb</p>
+            </otherfindaid>
+            <c altrender="/repositories/12/archival_objects/3885727"
+               id="aspace_3dd2f5b2d72840285c4dc9cb060ac5bc"
+               level="file">
+               <did>
+                  <unittitle>Andriotis, Christina</unittitle>
+                  <unitdatestructured altrender="2024 April 27" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-27">2024 April 27</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_b32df91a-b37d-49b7-8145-675812145eea">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;b32df91a-b37d-49b7-8145-675812145eea</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885728"
+                  id="aspace_2c6135c543d17ca634ead38ff68856f0"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>187.2</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:53:14</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291462">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/610vq2tq8t"
+                             identifier="aviary_140598"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/990/original/open-uri20250108-2687357-nhvux_1736372562.jpg?1736372562"
+                             identifier="aviary_140598"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Andriotis Christina2024.04.27.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_6d405705-afd7-42f6-bf91-28b4153a3a74">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;6d405705-afd7-42f6-bf91-28b4153a3a74</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885729"
+                  id="aspace_f8e3372ae7a933c031393f74e4e5e359"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>49.9</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_fd189a92-50f8-40ee-bf18-b384d5ccc9fb">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;fd189a92-50f8-40ee-bf18-b384d5ccc9fb</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885730"
+                  id="aspace_842ad49114f4c539f1ea39f216c0dd90"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>130.9</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_83e5dfc6-0322-4d8a-8459-96b71e0cee3f">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;83e5dfc6-0322-4d8a-8459-96b71e0cee3f</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885731"
+               id="aspace_93fdff381d8f844781265b35683d7eab"
+               level="file">
+               <did>
+                  <unittitle>Diakogeorgiou, Eleni</unittitle>
+                  <unitdatestructured altrender="2024 April 19" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-19">2024 April 19</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_5141da0c-ce38-4790-aca4-f0d582d5f022">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;5141da0c-ce38-4790-aca4-f0d582d5f022</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885732"
+                  id="aspace_28c73715119c00e4c3d15f52c0cc1d08"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>93.8</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:35:01</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291463">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/jm23b5z190"
+                             identifier="aviary_140599"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/991/original/open-uri20250108-2687357-dbzd4k_1736372593.jpg?1736372593"
+                             identifier="aviary_140599"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Diakogeorgiou Eleni2024.04.19.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_515f831d-e4f6-4641-a315-6d1e26ec44c5">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;515f831d-e4f6-4641-a315-6d1e26ec44c5</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885733"
+                  id="aspace_38001b5c14dcaddbbe2ba095027916a1"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>42.4</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_afe031f0-b78f-4379-a009-70b7529425d5">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;afe031f0-b78f-4379-a009-70b7529425d5</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885734"
+                  id="aspace_96f9b1533643fc7b03a56417c194beea"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>252.3</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_e12a6cd0-1e06-4b47-a158-5c92778cb3c8">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;e12a6cd0-1e06-4b47-a158-5c92778cb3c8</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885735"
+               id="aspace_f5bf4b2afc91a2c94030e63fb4cc13d6"
+               level="file">
+               <did>
+                  <unittitle>Diakogeorgiou, Vasilios</unittitle>
+                  <unitdatestructured altrender="2024 April 16" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-16">2024 April 16</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_07c98df3-76aa-4bd8-8c50-3fdd50b4afa4">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;07c98df3-76aa-4bd8-8c50-3fdd50b4afa4</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885736"
+                  id="aspace_00f70072e12a33b1c9160304632c283c"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>509.3</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:10:32</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291451">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/3b5w66bz7g"
+                             identifier="aviary_140587"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/978/original/open-uri20250108-2687357-jj2f2j_1736372110.jpg?1736372111"
+                             identifier="aviary_140587"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Diakogeorgiou Vasilios2024.04.16.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_d75e44a8-3975-40fd-8909-335dd6fe612b">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;d75e44a8-3975-40fd-8909-335dd6fe612b</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885737"
+                  id="aspace_9a3bd6e6d48b3dfc99846028513cf099"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>59.9</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_93bd0e29-b47c-4190-bdce-f575f7a20044">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;93bd0e29-b47c-4190-bdce-f575f7a20044</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885738"
+                  id="aspace_da1094c196c6c710946ca11257037868"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>681</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_4d201e62-312b-4b47-9f1e-a1a137f97863">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;4d201e62-312b-4b47-9f1e-a1a137f97863</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885739"
+               id="aspace_977699b197463f0a5c71bbc5c99fc11a"
+               level="file">
+               <did>
+                  <unittitle>Elefteriades, John</unittitle>
+                  <unitdatestructured altrender="2024 April 4" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-04">2024 April 4</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_807643c0-fd63-4106-8d70-3f2de6d5e9a3">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;807643c0-fd63-4106-8d70-3f2de6d5e9a3</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885740"
+                  id="aspace_f681a94f8c7fd9342707b08e6655d7ea"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>103.2</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:42:53</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291465">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/jm23b5z20g"
+                             identifier="aviary_140601"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/993/original/open-uri20250108-2687357-ekz5gu_1736372670.jpg?1736372671"
+                             identifier="aviary_140601"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Elefteriades John2024.04.04.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_dbb11ffc-fe9b-4b2a-a020-3fc410174c60">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;dbb11ffc-fe9b-4b2a-a020-3fc410174c60</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885741"
+                  id="aspace_641b17e5f5c2a4c50f4c5ac02d6f88b4"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>35.6</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_18504e5f-04a5-433c-a6cb-da4c112d5513">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;18504e5f-04a5-433c-a6cb-da4c112d5513</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885742"
+                  id="aspace_ccc6c51dcc444d1d5f8ef755caf7184f"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>312.2</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_af2f3841-bc21-496e-a39d-71ed6e430df4">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;af2f3841-bc21-496e-a39d-71ed6e430df4</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885743"
+               id="aspace_e6557557e330e7489e604c5314153aaa"
+               level="file">
+               <did>
+                  <unittitle>Giorgakaros, Nick</unittitle>
+                  <unitdatestructured altrender="2024 April 18" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-18">2024 April 18</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_234a5123-40e5-4b77-81d2-bb21cf5f4e2f">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;234a5123-40e5-4b77-81d2-bb21cf5f4e2f</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885744"
+                  id="aspace_21281f9c3b7c4978912da387b7e92516"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>226.8</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:47:24</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291464">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/sn00z72z4t"
+                             identifier="aviary_140600"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/992/original/open-uri20250108-2687357-r7rvs4_1736372640.jpg?1736372640"
+                             identifier="aviary_140600"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Giorgakaros Nick2024.04.18.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_837a38e8-fd20-4c0d-884a-8977390da094">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;837a38e8-fd20-4c0d-884a-8977390da094</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885745"
+                  id="aspace_d4d0f0be157234a80ba710fe9455b986"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>61.8</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_361d3087-799e-4311-b446-a8419b8ced13">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;361d3087-799e-4311-b446-a8419b8ced13</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885746"
+                  id="aspace_3f5adb7a3d67b86ed5110808bf2d4861"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>910.1</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_c5566147-8a65-4f3b-833b-0df3f9eafd28">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;c5566147-8a65-4f3b-833b-0df3f9eafd28</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885747"
+               id="aspace_b9c914b9e0f83cb9a86b84cfd5504be0"
+               level="file">
+               <did>
+                  <unittitle>Kavathas, Paula</unittitle>
+                  <unitdatestructured altrender="2024 April 16" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-16">2024 April 16</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_78342680-b3f8-4ff1-bb86-f6449b45ecbb">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;78342680-b3f8-4ff1-bb86-f6449b45ecbb</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885748"
+                  id="aspace_59f492b942d75c75ea5cb9224b198f6b"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>89.3</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:49:01</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291457">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/1n7xk8672c"
+                             identifier="aviary_140593"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/984/original/open-uri20250108-2687357-wme7sr_1736372369.jpg?1736372369"
+                             identifier="aviary_140593"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Kavathas Paula2024.04.16.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_6773e798-556e-4839-b4de-0d7492078a08">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;6773e798-556e-4839-b4de-0d7492078a08</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885751"
+                  id="aspace_874e3a3900b61c3a4eca8986756747fb"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>42.5</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_04c803ab-825d-4cbe-b4cf-f51d85697e27">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;04c803ab-825d-4cbe-b4cf-f51d85697e27</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885752"
+                  id="aspace_ef83f7cd6594502283dd13800817bbf8"
+                  level="file">
+                  <did>
+                     <unittitle>Release forms</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>238.6</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_227e612a-314b-4667-98ec-c32b929d67f5">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;227e612a-314b-4667-98ec-c32b929d67f5</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885753"
+               id="aspace_1e505c2c857eb90529f623ab7bf47d00"
+               level="file">
+               <did>
+                  <unittitle>Kavros DeGraw, Eleni</unittitle>
+                  <unitdatestructured altrender="2024 April 11" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-11">2024 April 11</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_52c80306-aacf-4704-8406-5a1ac6088eb0">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;52c80306-aacf-4704-8406-5a1ac6088eb0</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885754"
+                  id="aspace_972b9e0e4f54bbf0c6beccf7a22fef07"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>165</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:41:20</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291458">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/vm42r3qw3c"
+                             identifier="aviary_140594"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/985/original/open-uri20250108-2687357-37dw14_1736372409.jpg?1736372409"
+                             identifier="aviary_140594"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Kavros DeGraw Eleni2024.04.11.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_4c751417-a4c3-48e4-888d-9ad137ad1051">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;4c751417-a4c3-48e4-888d-9ad137ad1051</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885755"
+                  id="aspace_c7d41bc076fa3f55c2ee49c9f8e8d9f9"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>37.2</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_7268ecee-e2db-4a61-b182-cf5a321d4830">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;7268ecee-e2db-4a61-b182-cf5a321d4830</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885756"
+                  id="aspace_255089fd9f88bf4a4ece0ef9a2fb4e83"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>161.7</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_5e5042ad-46d7-44ce-bfbd-d8e38e68af49">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;5e5042ad-46d7-44ce-bfbd-d8e38e68af49</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885757"
+               id="aspace_1cb174414aa8c4997f2879d69f3aff95"
+               level="file">
+               <did>
+                  <unittitle>Klarides, Themis</unittitle>
+                  <unitdatestructured altrender="2024 April 13" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-13">2024 April 13</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_bd8b4c85-f67e-4a81-aeac-9c5be8e39e17">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;bd8b4c85-f67e-4a81-aeac-9c5be8e39e17</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885758"
+                  id="aspace_3cb36ec0b08916a9068d6075a836ada8"
+                  level="file">
+                  <did>
+                     <unittitle>Interview</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>100.3</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:53:57</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291459">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/kh0dv1fn9z"
+                             identifier="aviary_140595"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/986/original/open-uri20250108-2687357-4dzetb_1736372440.jpg?1736372440"
+                             identifier="aviary_140595"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Klarides Themis2024.04.13.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_ae5b20bf-b6fa-4933-9ea9-912ca293d0d9">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;ae5b20bf-b6fa-4933-9ea9-912ca293d0d9</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885760"
+                  id="aspace_60a8d198329f102fb9b7a16d4a271764"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>43.3</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_b32e9509-5a23-4ab7-8ac3-6f24c552a5b0">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;b32e9509-5a23-4ab7-8ac3-6f24c552a5b0</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885762"
+                  id="aspace_086351a60ebc8038467241f007c9aa07"
+                  level="file">
+                  <did>
+                     <unittitle>Release forms </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>729.3</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_e392dc16-e9e9-4a5a-b6be-f23296e62709">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;e392dc16-e9e9-4a5a-b6be-f23296e62709</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885763"
+               id="aspace_69b4f63ca66081291a56512945aeb398"
+               level="file">
+               <did>
+                  <unittitle>Koutroumanis, George</unittitle>
+                  <unitdatestructured altrender="2024 April 22" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-22">2024 April 22</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_69dcf642-7f29-43c2-ab8c-de9beb8e0138">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;69dcf642-7f29-43c2-ab8c-de9beb8e0138</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885764"
+                  id="aspace_64f9ebe70a028ad996d2f2ba63dd0ffe"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>156.7</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:24:25</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291454">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/5q4rj4bb6p"
+                             identifier="aviary_140590"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/981/original/open-uri20250108-2687357-xp9tzf_1736372278.jpg?1736372279"
+                             identifier="aviary_140590"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Koutroumanis George2024.04.22.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_afa0234e-7b20-4db0-a720-8f7e46c4e9d4">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;afa0234e-7b20-4db0-a720-8f7e46c4e9d4</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885765"
+                  id="aspace_de36eb5aee7c9f33e0373d7aeb9d2d15"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>42.7</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_9e714bfc-6580-41d4-b364-c9b0f9d9e5b4">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;9e714bfc-6580-41d4-b364-c9b0f9d9e5b4</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885766"
+                  id="aspace_e3f79b167a3e7efe6676c3a335e1326e"
+                  level="file">
+                  <did>
+                     <unittitle>Release form</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>1.1</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_26bd51a8-7e84-4dcd-8540-f72e3e621e8d">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;26bd51a8-7e84-4dcd-8540-f72e3e621e8d</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885767"
+               id="aspace_32df10a7cacb5c1f6711f1849ab24dad"
+               level="file">
+               <did>
+                  <unittitle>Lolis, Elias</unittitle>
+                  <unitdatestructured altrender="2024 April 16" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-16">2024 April 16</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_09f3ac99-fcab-44dc-a2cb-57b0c1865a31">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;09f3ac99-fcab-44dc-a2cb-57b0c1865a31</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885768"
+                  id="aspace_c8c88ad2e80014d1f83458db8dc5ec80"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>81.2</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:54:00</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291455">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/d21rf5n67c"
+                             identifier="aviary_140591"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/982/original/open-uri20250108-2687357-4bsxjn_1736372313.jpg?1736372314"
+                             identifier="aviary_140591"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Lolis Elias2024.04.16.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_480294ff-16bd-4cf8-bccb-375d63079cdb">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;480294ff-16bd-4cf8-bccb-375d63079cdb</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885769"
+                  id="aspace_add12e6cd375ceaab31d46619e69be3c"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>38.8</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_79db6ba0-ac31-447f-9293-ff570cf8cfde">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;79db6ba0-ac31-447f-9293-ff570cf8cfde</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885770"
+                  id="aspace_075e17818740eae7e2b5a449aa62fcf2"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>34.3</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_fa531361-32b3-4dc7-87f9-86d95457e8d1">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;fa531361-32b3-4dc7-87f9-86d95457e8d1</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885771"
+               id="aspace_502e9838c0c19abb093e44f6c2ca1288"
+               level="file">
+               <did>
+                  <unittitle>Orfanakos, Peter, Reverend</unittitle>
+                  <unitdatestructured altrender="2024 April 12" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-12">2024 April 12</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_829d4fed-046a-4214-8c48-23e9f57c7620">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;829d4fed-046a-4214-8c48-23e9f57c7620</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885772"
+                  id="aspace_f317001b2f2f0ad7ef1e060042cf7f67"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>148.1</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:00:01</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291460">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/7h1dj5b466"
+                             identifier="aviary_140596"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/988/original/open-uri20250108-2687357-c0ta1l_1736372476.jpg?1736372477"
+                             identifier="aviary_140596"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Orfanakos Peter Reverend2024.04.12.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_a74d75e9-dee8-4a28-81c7-3340a2ef1a72">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;a74d75e9-dee8-4a28-81c7-3340a2ef1a72</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885773"
+                  id="aspace_9fa71c95389db68684922a0ad8810349"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>44</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_756a59d2-bf14-42b7-b6cf-f0f3d10ee54d">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;756a59d2-bf14-42b7-b6cf-f0f3d10ee54d</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885774"
+                  id="aspace_0800d26ec9845f3ac8f10e1a1df1680d"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>335.5</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_f62c323a-ff3e-4252-9428-b14007eb9b55">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;f62c323a-ff3e-4252-9428-b14007eb9b55</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885775"
+               id="aspace_fe3bf2166864639f103326e5538c79d7"
+               level="file">
+               <did>
+                  <unittitle>Petrakis, Ismene</unittitle>
+                  <unitdatestructured altrender="2024 April 12" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-12">2024 April 12</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_1864a5b8-6579-4bd2-b37c-c5011b5c5a91">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;1864a5b8-6579-4bd2-b37c-c5011b5c5a91</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885776"
+                  id="aspace_5f6c41d3f9bbe8dedc1720b80d1e8276"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>72.7</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:37:19</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291456">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/736m040n3j"
+                             identifier="aviary_140592"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/983/original/open-uri20250108-2687357-4zjjq1_1736372340.jpg?1736372341"
+                             identifier="aviary_140592"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Petrakis Ismene2024.04.12.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_29d6ea06-bdfe-4199-ab89-0696c245a0a0">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;29d6ea06-bdfe-4199-ab89-0696c245a0a0</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885777"
+                  id="aspace_9c05a066e250299071af660f5fada197"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>39.1</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_52c537a0-7d2d-40dd-afc9-8d9619367362">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;52c537a0-7d2d-40dd-afc9-8d9619367362</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885778"
+                  id="aspace_6c5ee6a0a7daade22577543cf3d4281d"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>146.5</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_339bee4f-94c3-483d-b861-96f90a5d07f6">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;339bee4f-94c3-483d-b861-96f90a5d07f6</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885779"
+               id="aspace_d47da4b6454df5e571ceaea242c404e1"
+               level="file">
+               <did>
+                  <unittitle>Riggione, Penny</unittitle>
+                  <unitdatestructured altrender="2024 April 12" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-12">2024 April 12</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_21ba6ebd-1e36-4381-993b-09a4aa7f027b">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;21ba6ebd-1e36-4381-993b-09a4aa7f027b</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885780"
+                  id="aspace_67fddcba7817ab887352611d1639ae49"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>43.3</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:27:19</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291453">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/sj19k47p90"
+                             identifier="aviary_140589"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/980/original/open-uri20250108-2687357-pv092h_1736372237.jpg?1736372237"
+                             identifier="aviary_140589"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Riggione Penny2024.04.12.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_c88a5dcb-cced-4f93-8e97-0f0832a960e8">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;c88a5dcb-cced-4f93-8e97-0f0832a960e8</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885781"
+                  id="aspace_3bb8e6bfd81cc6c6c7b6612686db4f9b"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript</unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>30.6</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_4083b16e-20f6-4e5b-87f2-8f087950a6a0">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;4083b16e-20f6-4e5b-87f2-8f087950a6a0</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885782"
+                  id="aspace_59a3c02b940bc4ddbd18305272ba56c7"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>29.5</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_0c68c566-c7ca-405e-8396-2f0c013d93f7">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;0c68c566-c7ca-405e-8396-2f0c013d93f7</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885783"
+               id="aspace_3203c5dc753150cb56731058b47eb78a"
+               level="file">
+               <did>
+                  <unittitle>Sarigianis, James</unittitle>
+                  <unitdatestructured altrender="2024 April 6" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-04-06">2024 April 6</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_0f68d577-c9c0-4a30-9336-7a49d409f665">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;0f68d577-c9c0-4a30-9336-7a49d409f665</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885784"
+                  id="aspace_2f4e71ffd91b3f1acd0854944aa2e968"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>158.9</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:22:38</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291461">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/9w08w39v5x"
+                             identifier="aviary_140597"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/989/original/open-uri20250108-2687357-xm01y8_1736372517.jpg?1736372518"
+                             identifier="aviary_140597"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Sarigianis James2024.04.06.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_b2174f36-cfa7-4906-8dc7-519417d086a7">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;b2174f36-cfa7-4906-8dc7-519417d086a7</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885785"
+                  id="aspace_8384d7ea8449319bef6712516fc21fb3"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>64.4</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_cc42b747-9d06-47b7-a82a-27000e9e5223">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;cc42b747-9d06-47b7-a82a-27000e9e5223</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885786"
+                  id="aspace_7fdf87c0ce1c801713637fed225782f4"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>225.6</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_537af81e-e70c-4586-ba9d-5071551c6e9c">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;537af81e-e70c-4586-ba9d-5071551c6e9c</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3885787"
+               id="aspace_95fb8d81d547dd83c8ce1db9058b0748"
+               level="file">
+               <did>
+                  <unittitle>Yates, Eleni</unittitle>
+                  <unitdatestructured altrender="2024 May 14" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2024-05-14">2024 May 14</datesingle>
+                  </unitdatestructured>
+               </did>
+               <otherfindaid id="aspace_e5a4e281-e6b9-4fb8-9c67-72b4d1e0fad9">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;e5a4e281-e6b9-4fb8-9c67-72b4d1e0fad9</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3885788"
+                  id="aspace_b8dbedb6b548f791a09fad2b0ea847ca"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>567.9</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:51:42</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <daoset altrender="/repositories/12/digital_objects/291452">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/wd3pv6d87m"
+                             identifier="aviary_140588"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/259/979/original/open-uri20250108-2687357-r8z9u4_1736372211.jpg?1736372213"
+                             identifier="aviary_140588"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Yates Eleni2024.05.14.u.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_d842e9c0-d778-4784-aecb-20558082eaba">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;d842e9c0-d778-4784-aecb-20558082eaba</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885789"
+                  id="aspace_b9dcae684145d2d51549185cf2641508"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>50</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_e1172d9f-a6f5-4716-8bec-3e37e0971883">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;e1172d9f-a6f5-4716-8bec-3e37e0971883</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3885790"
+                  id="aspace_4872f1ac02a88222adc131a2d2c84a6d"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>306.9</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_b26564dc-7aee-4736-b2d7-5db4022ca724">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;b26564dc-7aee-4736-b2d7-5db4022ca724</p>
+                  </otherfindaid>
+               </c>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/3967010"
+            id="aspace_9e5bf40c8e151ac2b8cfe281789545f9"
+            level="series">
+            <did>
+               <unittitle>Interviews, transcripts, and release forms </unittitle>
+               <unitid>Accession 2026-A-0014</unitid>
+               <unitdatestructured altrender="2025" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="2025">2025</datesingle>
+               </unitdatestructured>
+            </did>
+            <accessrestrict id="aspace_6902469ed812bf81b5f550ff1d934d06">
+               <head>Conditions Governing Access</head>
+               <p>Open for research.</p>
+            </accessrestrict>
+            <otherfindaid id="aspace_9fe9e3d5-0e17-4c3e-918e-1981607598e9">
+               <head>TypeCollection</head>
+               <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;9fe9e3d5-0e17-4c3e-918e-1981607598e9</p>
+            </otherfindaid>
+            <c altrender="/repositories/12/archival_objects/3967011"
+               id="aspace_9289710a8acf4df760550bb213c3bde8"
+               level="file">
+               <did>
+                  <unittitle>Diamantis, Maria </unittitle>
+               </did>
+               <otherfindaid id="aspace_33dff426-60cc-44f6-bb37-8270d80c8ef0">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;33dff426-60cc-44f6-bb37-8270d80c8ef0</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967014"
+                  id="aspace_5b487fee13246e47ea89acb985c349a7"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>649</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:55:56</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 21" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-21">2025 April 21</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319199">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/p843r0rw4k"
+                             identifier="aviary_160199"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/688/original/open-uri20250917-525520-zr6zte_1758125707.jpg?1758125708"
+                             identifier="aviary_160199"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Diamantis Maria2025.04.21.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_72f4c14c-36a5-4a1e-ab96-694f802e01c0">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;72f4c14c-36a5-4a1e-ab96-694f802e01c0</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967015"
+                     id="aspace_3b89a4c0f0d74055877b5bc42ae4bfc9"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>42.6</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_0d75cbf1-f05d-4795-9658-be252f75cb3f">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;0d75cbf1-f05d-4795-9658-be252f75cb3f</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967016"
+                  id="aspace_6e78ff6a545433a69126b03c58d29629"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>171</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_f0c1a370-ca3a-4a46-89f2-853beac4015a">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;f0c1a370-ca3a-4a46-89f2-853beac4015a</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967017"
+               id="aspace_269afd2877e40c90cc39dfeb2cf9e5bd"
+               level="file">
+               <did>
+                  <unittitle>Maniates, Peter</unittitle>
+               </did>
+               <otherfindaid id="aspace_873b1073-1d7e-42e5-84d6-ff8a23b87139">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;873b1073-1d7e-42e5-84d6-ff8a23b87139</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967018"
+                  id="aspace_3d0ad9558e537c13ccffc572541063f8"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>320</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:49:03</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 3" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-03">2025 April 3</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319200">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/nv9959fg1k"
+                             identifier="aviary_160200"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/689/original/open-uri20250917-525520-si1ihs_1758125771.jpg?1758125773"
+                             identifier="aviary_160200"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Maniates Peter2025.04.03.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_1f7196c0-cc4a-4306-9c5c-917ef615c91f">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;1f7196c0-cc4a-4306-9c5c-917ef615c91f</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967019"
+                     id="aspace_4390e38c54fd8b18cd74887069f3ba6b"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>48.8</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_aa21ffda-223e-4cc7-9fca-50c2221d15c1">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;aa21ffda-223e-4cc7-9fca-50c2221d15c1</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967020"
+                  id="aspace_57701d2c7538c25bf6fc0e0227927fbb"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>1.54</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_636ab7d9-89c8-4372-bfa6-bf40bf16717f">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;636ab7d9-89c8-4372-bfa6-bf40bf16717f</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967021"
+               id="aspace_7455ece62721768594e2207c1ca9d956"
+               level="file">
+               <did>
+                  <unittitle>Maniatis, Theodore </unittitle>
+               </did>
+               <otherfindaid id="aspace_581c6d26-9d0f-411c-ad10-a1bd107400d3">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;581c6d26-9d0f-411c-ad10-a1bd107400d3</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967022"
+                  id="aspace_d89a9564c5505df6bf5a31a59fe731ce"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>286</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:38:21</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 24" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-24">2025 April 24</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319201">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/8c9r20tp3k"
+                             identifier="aviary_160201"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/690/original/open-uri20250917-525520-gjsp4v_1758125828.jpg?1758125829"
+                             identifier="aviary_160201"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Maniatis Theodore2025.04.24.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_ca694b2a-5473-43e3-a2c5-b20cd356c060">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;ca694b2a-5473-43e3-a2c5-b20cd356c060</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967023"
+                     id="aspace_18f4b48d3b75faeecba23cbe302e3942"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>44.9</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_19291a39-870f-48f2-8765-c56d34be5a3b">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;19291a39-870f-48f2-8765-c56d34be5a3b</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967024"
+                  id="aspace_9fe20ccc373c333e5e9a21768ef7b1ef"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>1.56</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.jpg)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_334e5796-83ed-4ca8-99d5-0955cd5f1a9f">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;334e5796-83ed-4ca8-99d5-0955cd5f1a9f</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967025"
+               id="aspace_2fc289595f8a0508cde504b9757be378"
+               level="file">
+               <did>
+                  <unittitle>Melandis, Helen </unittitle>
+               </did>
+               <otherfindaid id="aspace_0bdfd788-e99e-4ff9-a746-72aa70300ecb">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;0bdfd788-e99e-4ff9-a746-72aa70300ecb</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967026"
+                  id="aspace_f4f8a2b1069e037611ea994e6968ceb4"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>599</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:56:06</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 March 24" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-03-24">2025 March 24</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319202">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/td9n29rb1s"
+                             identifier="aviary_160202"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/691/original/open-uri20250917-525520-db708x_1758125907.jpg?1758125908"
+                             identifier="aviary_160202"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Melanidis Helen2025.03.24.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_bfdbd205-3d2d-4a87-970f-90412b2cbc14">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;bfdbd205-3d2d-4a87-970f-90412b2cbc14</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967027"
+                     id="aspace_bc898e297c23e9bef686a755f21fc0af"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>55.5</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_80099ed3-3a74-4ee3-8751-9d3de260a1c2">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;80099ed3-3a74-4ee3-8751-9d3de260a1c2</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967128"
+                  id="aspace_0bbda74cd515734cf93150e7bb8620cb"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>213</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_63e24880-2fe8-44b8-8fb3-094198cbac53">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;63e24880-2fe8-44b8-8fb3-094198cbac53</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967129"
+               id="aspace_4c22f4cc952f78263ac735feba050e03"
+               level="file">
+               <did>
+                  <unittitle>Nicolakis, Catherine</unittitle>
+               </did>
+               <otherfindaid id="aspace_5fa923dc-a877-4b5c-b447-d31a11b0363d">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;5fa923dc-a877-4b5c-b447-d31a11b0363d</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967130"
+                  id="aspace_7e973dded21cf42cb197e864f7c4bf28"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>2.39</quantity>
+                        <unittype>Gigabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:45:20</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 20" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-20">2025 April 20</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319203">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/3f4kk96998"
+                             identifier="aviary_160203"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/692/original/open-uri20250917-525520-kqs9lp_1758125971.jpg?1758125972"
+                             identifier="aviary_160203"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Nicolakis Catherine2025.04.20.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_c17ea956-d152-41f5-b8bd-6825bc9c1dac">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;c17ea956-d152-41f5-b8bd-6825bc9c1dac</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967131"
+                     id="aspace_769927e8cc6cd26dc3342004c5134a56"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>49.8</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_7d60a4c8-d470-49a2-a402-fcbcbb63d229">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;7d60a4c8-d470-49a2-a402-fcbcbb63d229</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967132"
+                  id="aspace_6d7b71870b19659fcd45edea4608f11d"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>216</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_2b904d0a-9e20-4d35-b8ee-efb9a63a2044">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;2b904d0a-9e20-4d35-b8ee-efb9a63a2044</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967133"
+               id="aspace_feff53a4409a6577e5a12a60de235b6e"
+               level="file">
+               <did>
+                  <unittitle>Nicolakis, Theo </unittitle>
+               </did>
+               <otherfindaid id="aspace_2d14c728-8efd-4bca-a2d7-3503efb0a3f1">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;2d14c728-8efd-4bca-a2d7-3503efb0a3f1</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967134"
+                  id="aspace_77d90af22acfd3bd4ff2f3809c9652aa"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>2.95</quantity>
+                        <unittype>Gigabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:04:21</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 12" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-12">2025 April 12</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319204">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/959c53h240"
+                             identifier="aviary_160204"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/693/original/open-uri20250917-525520-mkf80p_1758126053.jpg?1758126054"
+                             identifier="aviary_160204"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Nicolakis Theo2025.04.12.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_eaa46d90-516a-4967-ae4b-e52474ed08e8">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;eaa46d90-516a-4967-ae4b-e52474ed08e8</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967135"
+                     id="aspace_edba95759886dd42c4e1568428dcac42"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>56.9</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_b2e656ae-34b6-4a81-bd4a-483867062335">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;b2e656ae-34b6-4a81-bd4a-483867062335</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967136"
+                  id="aspace_44dd1bb18c2c904694566baa001ac592"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>111</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_197a99cd-c5c2-4a18-a728-14b2b017dca9">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;197a99cd-c5c2-4a18-a728-14b2b017dca9</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967137"
+               id="aspace_c960684df708637ad7cba45449c1b172"
+               level="file">
+               <did>
+                  <unittitle>Sarigianis, Electra </unittitle>
+               </did>
+               <otherfindaid id="aspace_cb33240b-0ef7-44fa-8bd5-bb773ff45e45">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;cb33240b-0ef7-44fa-8bd5-bb773ff45e45</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967138"
+                  id="aspace_3635f34a5ac5c6577621d295a2874f74"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>689</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:59:43</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 22" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-22">2025 April 22</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319205">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/0c4sj1cg14"
+                             identifier="aviary_160205"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/694/original/open-uri20250917-525520-iuy3rn_1758126136.jpg?1758126137"
+                             identifier="aviary_160205"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Sarigianis Electra2025.04.22.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_adb3a704-5657-4e83-ac30-9b10dc8018b6">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;adb3a704-5657-4e83-ac30-9b10dc8018b6</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967139"
+                     id="aspace_a56eded22a10a98283b069f548cce704"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>52.3</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_88f2ff95-8217-41ad-97d6-da206d824ca2">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;88f2ff95-8217-41ad-97d6-da206d824ca2</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967140"
+                  id="aspace_76e7cab0f6987226a38ec0b17763646b"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>294</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_676e4f53-bb07-4e04-8664-22e408262acb">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;676e4f53-bb07-4e04-8664-22e408262acb</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967141"
+               id="aspace_1db1e494efc2161643b76d97f3152599"
+               level="file">
+               <did>
+                  <unittitle>Stamos, Gregory </unittitle>
+               </did>
+               <otherfindaid id="aspace_85e5caa4-c379-4ccb-b3a1-e6d718a21355">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;85e5caa4-c379-4ccb-b3a1-e6d718a21355</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967142"
+                  id="aspace_0a14bb991313b5e54faabf0b9d3d7061"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>282</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:51:16</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 25" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-25">2025 April 25</datesingle>
+                     </unitdatestructured>
+                     <daoset altrender="/repositories/12/digital_objects/319206">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/m03xs5md5v"
+                             identifier="aviary_160206"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/291/695/original/open-uri20250917-525520-263cse_1758126197.jpg?1758126198"
+                             identifier="aviary_160206"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <descriptivenote>
+                           <p>[Aviary] Stamos Gregory2025.04.25.mp4</p>
+                        </descriptivenote>
+                     </daoset>
+                  </did>
+                  <otherfindaid id="aspace_10ff3057-4791-4227-ac52-1a06269b1eef">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;10ff3057-4791-4227-ac52-1a06269b1eef</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967143"
+                     id="aspace_43fae1363514031dd56c66b074bf740d"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>46.9</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_795483cc-d6bf-4a2d-abdb-2f00b581367d">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;795483cc-d6bf-4a2d-abdb-2f00b581367d</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967144"
+                  id="aspace_b6f8c7fef7fbdc1d0728063f5f49e365"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>597</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_2bb51279-609c-42cc-81cd-97fd684eef7c">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;2bb51279-609c-42cc-81cd-97fd684eef7c</p>
+                  </otherfindaid>
+               </c>
+            </c>
+            <c altrender="/repositories/12/archival_objects/3967145"
+               id="aspace_a64ce6c2b454280eda1ed912760b2a00"
+               level="file">
+               <did>
+                  <unittitle>Tambis, Anastasia</unittitle>
+               </did>
+               <otherfindaid id="aspace_2307bc03-0f4c-43a4-9f05-f56fa951dd32">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;2307bc03-0f4c-43a4-9f05-f56fa951dd32</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/3967146"
+                  id="aspace_2e58d9c724efef924001413ae4b46441"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>120</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>01:05:06</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2025 April 10" label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="2025-04-10">2025 April 10</datesingle>
+                     </unitdatestructured>
+                  </did>
+                  <otherfindaid id="aspace_916d2724-a427-4200-837a-0f3ae12e116e">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;916d2724-a427-4200-837a-0f3ae12e116e</p>
+                  </otherfindaid>
+                  <c altrender="/repositories/12/archival_objects/3967147"
+                     id="aspace_fbc5cbc5f0196711107fffac9061f5dd"
+                     level="file">
+                     <did>
+                        <unittitle>Transcripts</unittitle>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>65.8</quantity>
+                           <unittype>kilobytes</unittype>
+                        </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>1</quantity>
+                           <unittype>Computer File (.doc)</unittype>
+                        </physdescstructured>
+                     </did>
+                     <otherfindaid id="aspace_e583f533-8a40-4ce5-9c3a-6219eadcb3b1">
+                        <head>TypeCollection</head>
+                        <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;e583f533-8a40-4ce5-9c3a-6219eadcb3b1</p>
+                     </otherfindaid>
+                  </c>
+               </c>
+               <c altrender="/repositories/12/archival_objects/3967148"
+                  id="aspace_6e9452bbb02440b66bac86496c617274"
+                  level="file">
+                  <did>
+                     <unittitle>Release form</unittitle>
+                     <physdescstructured coverage="whole" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>1.17</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_4edfdba8-eb51-4062-be2c-a0a71d8ad990">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;4edfdba8-eb51-4062-be2c-a0a71d8ad990</p>
+                  </otherfindaid>
+               </c>
+            </c>
+         </c>
+         <c altrender="/repositories/12/archival_objects/4070555"
+            id="aspace_479fb517491587b592c29446b448efe1"
+            level="series">
+            <did>
+               <unittitle>Interview, transcript and release form</unittitle>
+               <unitid>Accession 2027-A-0021</unitid>
+               <unitdatestructured altrender="2026" label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="2026">2026</datesingle>
+               </unitdatestructured>
+            </did>
+            <otherfindaid id="aspace_bf438956-9191-4ebd-95dd-f9e2a056ce79">
+               <head>TypeCollection</head>
+               <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;bf438956-9191-4ebd-95dd-f9e2a056ce79</p>
+            </otherfindaid>
+            <c altrender="/repositories/12/archival_objects/4070556"
+               id="aspace_5ede777149da88e5e8d4e9e73c29005c"
+               level="file">
+               <did>
+                  <unittitle>Kambas, William </unittitle>
+               </did>
+               <otherfindaid id="aspace_47141512-4ffa-4e1f-bf1a-494d7dbaa7c9">
+                  <head>TypeCollection</head>
+                  <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;47141512-4ffa-4e1f-bf1a-494d7dbaa7c9</p>
+               </otherfindaid>
+               <c altrender="/repositories/12/archival_objects/4070557"
+                  id="aspace_2dd7ddbc54e9369cbe7de13aea4a3751"
+                  level="file">
+                  <did>
+                     <unittitle>Interview </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.mp4)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>253</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:55:33</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
+                     <unitdatestructured altrender="2026 August 20"
+                                         label="creation"
+                                         unitdatetype="inclusive">
+                        <datesingle standarddate="2026-08-20">2026 August 20</datesingle>
+                     </unitdatestructured>
+                  </did>
+                  <otherfindaid id="aspace_349b03d3-bda6-4314-9db3-89fc1160352d">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;349b03d3-bda6-4314-9db3-89fc1160352d</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4070558"
+                  id="aspace_33f14d3aebffce53b7dddf4bd8f756bc"
+                  level="file">
+                  <did>
+                     <unittitle>Transcript </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.doc)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="part" physdescstructuredtype="otherphysdescstructuredtype">
+                        <quantity>2.58</quantity>
+                        <unittype>Megabytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_ab7ec065-fec1-4ff8-b97d-e6c57e20672b">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;ab7ec065-fec1-4ff8-b97d-e6c57e20672b</p>
+                  </otherfindaid>
+               </c>
+               <c altrender="/repositories/12/archival_objects/4070559"
+                  id="aspace_e7698b27b5b8b010a2b7537ad965ae48"
+                  level="file">
+                  <did>
+                     <unittitle>Release form </unittitle>
+                     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Computer File (.pdf)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>93</quantity>
+                        <unittype>kilobytes</unittype>
+                     </physdescstructured>
+                  </did>
+                  <otherfindaid id="aspace_b188286c-1887-4fea-b92c-ae0c399a4e46">
+                     <head>TypeCollection</head>
+                     <p>https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;b188286c-1887-4fea-b92c-ae0c399a4e46</p>
+                  </otherfindaid>
+               </c>
+            </c>
          </c>
       </dsc>
    </archdesc>
