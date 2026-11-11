@@ -40,7 +40,7 @@
                <p>Boxes: 1-51, 57, 61, 63, 68, 71-72, 90-97, 102-214</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 52-56, 58-60, 62, 64-67, 69-70, 73-89, 98-101</p>
+               <p>Boxes: 52-56, 58-60, 62, 64-67, 69-70, 73-89, 98-99, 101</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-29T23:48:29-04:00</eventdatetime>
+            <eventdatetime>2026-11-10T23:00:40-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday October 29, 2026 at 23:48</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 10, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -145,7 +145,7 @@
          <head>Conditions Governing Access</head>
          <p>Collection is open for research.</p>
          <p>Box 57 (computer files): Restricted fragile material. Original computer files may not be accessed due to their fragility. Researchers must consult access copies instead of the originals. Contact Access Services for more information.</p>
-         <p>Boxes 51-60, 62, 64-67, 69-70, 73-89, 98-101: In-process material pending conservation treatment and housing. For further information, consult Access Services.</p>
+         <p>Boxes 51-60, 62, 64-67, 69-70, 73-89, 101: In-process material pending conservation treatment and housing. For further information, consult Access Services.</p>
       </accessrestrict>
       <acqinfo id="aspace_5bf2bad8d63b7bc679ab191bd34c50f4">
          <head>Immediate Source of Acquisition</head>
@@ -4508,17 +4508,13 @@
                            <fromdate standarddate="1903">1903</fromdate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/484813"
-                                containerid="39002137143310"
-                                encodinganalog="card box (6d 4h 12w)"
+                     <container altrender="/repositories/11/top_containers/484817 /locations/7165"
+                                containerid="39002137143294"
+                                encodinganalog="flat box (21d 2h 25w)"
                                 id="aspace_f1ccd37d2c0fa744de83314a980d0b90_c1"
                                 label="Mixed Materials"
-                                localtype="box">100</container>
+                                localtype="box">98</container>
                   </did>
-                  <accessrestrict id="aspace_631ac491e6260b432b7b19fdeafae584">
-                     <head>Conditions Governing Access</head>
-                     <p>Boxes 51-60, 62, 64-67, 69-70, 73-89, 98-101: In-process material pending conservation treatment and housing. For further information, consult Access Services.</p>
-                  </accessrestrict>
                </c>
                <c altrender="/repositories/11/archival_objects/4053775"
                   id="aspace_b2bf79c455c371c3ac511ae259ecabe6"
@@ -4551,7 +4547,8 @@
                      <unitdatestructured label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1931">1931</datesingle>
                      </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/485006"
+                     <container altrender="/repositories/11/top_containers/485006 /locations/7165"
+                                encodinganalog="folder (24d 30w)"
                                 id="aspace_bb25b06f00989c8b8300caa058488682_c1"
                                 label="Mixed Materials"
                                 localtype="box">101</container>
@@ -4621,18 +4618,13 @@
                            <fromdate standarddate="1940">1940</fromdate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/484813"
-                                containerid="39002137143310"
-                                encodinganalog="card box (6d 4h 12w)"
+                     <container altrender="/repositories/11/top_containers/484817 /locations/7165"
+                                containerid="39002137143294"
+                                encodinganalog="flat box (21d 2h 25w)"
                                 id="aspace_704bb986cd5b0ea62179a01235eb4b70_c1"
                                 label="Mixed Materials"
-                                localtype="box">100</container>
+                                localtype="box">98</container>
                   </did>
-                  <accessrestrict id="aspace_14a06e5a516bd604b61f4620fd50dd2a"
-                                  localtype="InProcessSpecColl">
-                     <head>Conditions Governing Access</head>
-                     <p>Boxes 51-60, 62, 64-67, 69, 71-89, 98-101: In-process material pending conservation treatment and housing. For further information, consult Access Services.</p>
-                  </accessrestrict>
                </c>
                <c altrender="/repositories/11/archival_objects/4053779"
                   id="aspace_df03cfda963305137a795a9f3bc5c5b7"
@@ -4644,18 +4636,13 @@
                            <fromdate standarddate="1942">1942</fromdate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/11/top_containers/484817"
+                     <container altrender="/repositories/11/top_containers/484817 /locations/7165"
                                 containerid="39002137143294"
-                                encodinganalog="card box (6d 4h 12w)"
+                                encodinganalog="flat box (21d 2h 25w)"
                                 id="aspace_df03cfda963305137a795a9f3bc5c5b7_c1"
                                 label="Mixed Materials"
                                 localtype="box">98</container>
                   </did>
-                  <accessrestrict id="aspace_703856dd42e91c122540868339ba523c"
-                                  localtype="InProcessSpecColl">
-                     <head>Conditions Governing Access</head>
-                     <p>Boxes 51-60, 62, 64-67, 69-70, 73-89, 98-101: In-process material pending conservation treatment and housing. For further information, consult Access Services.</p>
-                  </accessrestrict>
                </c>
                <c altrender="/repositories/11/archival_objects/4053780"
                   id="aspace_c97a424e4f4e80fd8af5e4240b630edd"

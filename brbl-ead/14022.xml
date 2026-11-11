@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-03T23:01:32-05:00</eventdatetime>
+            <eventdatetime>2026-11-10T23:02:42-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 10, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -463,13 +463,13 @@
                   <unittype>Linear Feet</unittype>
                </physdescstructured>
                <physdesc localtype="container_summary">170 boxes + 8 broadside, 1 record album storage</physdesc>
-               <unitdatestructured altrender="1915-2020" label="creation" unitdatetype="inclusive">
+               <unitdatestructured altrender="1941-2020" label="creation" unitdatetype="inclusive">
                   <daterange>
-                     <fromdate standarddate="1915">1915</fromdate>
+                     <fromdate standarddate="1941">1941</fromdate>
                      <todate standarddate="2020">2020</todate>
                   </daterange>
                </unitdatestructured>
-               <unitdatestructured label="creation" unitdatetype="bulk">
+               <unitdatestructured altrender="1975-2010" label="creation" unitdatetype="bulk">
                   <daterange>
                      <fromdate standarddate="1975">1975</fromdate>
                      <todate standarddate="2010">2010</todate>
@@ -585,9 +585,9 @@
                level="subseries">
                <did>
                   <unittitle>Theater</unittitle>
-                  <unitdatestructured altrender="1975-2020" label="creation" unitdatetype="inclusive">
+                  <unitdatestructured altrender="1941-2020" label="creation" unitdatetype="inclusive">
                      <daterange>
-                        <fromdate standarddate="1975">1975</fromdate>
+                        <fromdate standarddate="1941">1941</fromdate>
                         <todate standarddate="2020">2020</todate>
                      </daterange>
                   </unitdatestructured>
@@ -1239,7 +1239,6 @@
                      <unittitle>
                         <emph>Nayatt School</emph>
                      </unittitle>
-                     <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
                   </did>
                   <c altrender="/repositories/11/archival_objects/4043390"
                      id="aspace_5eaffa95481c78c5a85ff83d5852b8c6"
@@ -2849,7 +2848,7 @@
                   level="file">
                   <did>
                      <unittitle>
-                        <emph>L.S.D.</emph>
+                        <emph>L.S.D. (...Just the High Points...)</emph>
                      </unittitle>
                   </did>
                   <c altrender="/repositories/11/archival_objects/4043467"
@@ -14261,7 +14260,7 @@
                   level="file">
                   <did>
                      <unittitle>
-                        <emph>Who's Your Dada?</emph>
+                        <emph>Who's Your Dada?!</emph>
                      </unittitle>
                   </did>
                   <c altrender="/repositories/11/archival_objects/4044003"
@@ -16911,7 +16910,7 @@
                   level="file">
                   <did>
                      <unittitle>
-                        <emph>Vieux Carre</emph>
+                        <emph>Vieux Carré</emph>
                      </unittitle>
                   </did>
                   <c altrender="/repositories/11/archival_objects/4044133"
@@ -17296,7 +17295,7 @@
                      <did>
                         <unittitle>
                            <title>
-                              <part>Vieux Carre</part>
+                              <part>Vieux Carré</part>
                            </title> by Tennessee Williams</unittitle>
                         <unitdatestructured altrender="circa 2009" label="creation" unitdatetype="inclusive">
                            <daterange>
@@ -18292,7 +18291,7 @@
                   level="file">
                   <did>
                      <unittitle>
-                        <emph>Town Hall Affair</emph>
+                        <emph>The Town Hall Affair</emph>
                      </unittitle>
                   </did>
                   <c altrender="/repositories/11/archival_objects/4044194"
@@ -33002,7 +33001,7 @@ The final subdivision brings together other files not identified by production o
                      id="aspace_bf61da3be8fa45d7f901258d523ec83e"
                      level="file">
                      <did>
-                        <unittitle>"Glascow press"</unittitle>
+                        <unittitle>"Glasgow press"</unittitle>
                         <unitdatestructured altrender="1990" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1990">1990</fromdate>
@@ -33023,7 +33022,7 @@ The final subdivision brings together other files not identified by production o
                      id="aspace_e76f86d76f95fcb7d87ddd0284b0e18e"
                      level="file">
                      <did>
-                        <unittitle>"Glascow press"</unittitle>
+                        <unittitle>"Glasgow press"</unittitle>
                         <unitdatestructured altrender="1990" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1990">1990</fromdate>
@@ -33044,7 +33043,7 @@ The final subdivision brings together other files not identified by production o
                      id="aspace_152ef1ca25aa22299baea728b9cf7f83"
                      level="file">
                      <did>
-                        <unittitle>"Glascow press"</unittitle>
+                        <unittitle>"Glasgow press"</unittitle>
                         <unitdatestructured altrender="1990 October" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1990-10">1990 October</fromdate>
@@ -33065,7 +33064,9 @@ The final subdivision brings together other files not identified by production o
                      id="aspace_7536a5f9a1974bcd575508852921a5ae"
                      level="file">
                      <did>
-                        <unittitle>"Golden boat"</unittitle>
+                        <unittitle>
+                           <emph>The Golden boat</emph>
+                        </unittitle>
                         <unitdatestructured altrender="1990, undated" label="creation" unitdatetype="inclusive">
                            <daterange>
                               <fromdate standarddate="1990">1990</fromdate>
