@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-01T18:03:38-04:00</eventdatetime>
+            <eventdatetime>2026-11-11T18:00:52-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September  1, 2026 at 18:03</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -711,8 +711,11 @@
                level="file">
                <did>
                   <unittitle>Diaries/journals of Frank Knight Sanders</unittitle>
-                  <unitdatestructured altrender="1883" label="creation" unitdatetype="inclusive">
-                     <datesingle standarddate="1883">1883</datesingle>
+                  <unitdatestructured altrender="1883-1885" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1883">1883</fromdate>
+                        <todate standarddate="1885">1885</todate>
+                     </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/4117 /locations/9"
                              containerid="39002038425105"

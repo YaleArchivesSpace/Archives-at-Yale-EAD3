@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-17T18:11:38-04:00</eventdatetime>
+            <eventdatetime>2026-11-11T18:00:51-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday March 17, 2025 at 18:11</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -125,7 +125,7 @@
       </prefercite>
       <bioghist id="aspace_b484696c7452f0369c4213d0614c00b9">
          <head>Biographical / Historical</head>
-         <p>The Walns were engaged in language study in Portugal from1928-1929 before going to the Chilesso Station of the ABCFM West Central Africa Mission, where they served from 1929 to 1962. Duane Victor Waln was acting director of the Currie Institute in Dondi for a brief period, but the Walns were primarily stationed at Chilesso.</p>
+         <p>The Walns were engaged in language study in Portugal from 1928-1929 before going to the Chilesso Station of the ABCFM West Central Africa Mission, where they served from 1929 to 1962. Duane Victor Waln was acting director of the Currie Institute in Dondi for a brief period, but the Walns were primarily stationed at Chilesso.</p>
          <p>Duane was engaged in evangelistic work, but also supervised construction and operation of the mission schools, hospital, and residences. Marian Ingram Waln (known as "Peggy") ran a Home Economics School for women and was much occupied by hospitality for mission colleagues and visitors. The Walns had two sons: Duane, Jr. and Robert.</p>
       </bioghist>
       <scopecontent id="aspace_08384e6e2321497ef1f66c607eefaa9a">
@@ -811,17 +811,11 @@
                id="ref54"
                level="file">
                <did>
-                  <unittitle>Chilesso Station diaries</unittitle>
-                  <unitdatestructured altrender="1905-1929" label="creation" unitdatetype="inclusive">
+                  <unittitle>Thomas Woodside's Chilesso Station journal, transcribed and summarized</unittitle>
+                  <unitdatestructured altrender="1893-1929" label="creation" unitdatetype="inclusive">
                      <daterange>
-                        <fromdate standarddate="1905">1905</fromdate>
+                        <fromdate standarddate="1893">1893</fromdate>
                         <todate standarddate="1929">1929</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <unitdatestructured altrender="1920-1949" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1920">1920</fromdate>
-                        <todate standarddate="1949">1949</todate>
                      </daterange>
                   </unitdatestructured>
                   <container altrender="/repositories/4/top_containers/5856 /locations/9"
@@ -830,6 +824,27 @@
                              label="Mixed Materials"
                              localtype="box">7</container>
                   <container id="aspace_ref54_c2" localtype="folder" parent="aspace_ref54_c1">56</container>
+               </did>
+            </c>
+            <c altrender="/repositories/4/archival_objects/4071457"
+               id="aspace_17fb37d1a858579bd4f95ff1dafd38bc"
+               level="file">
+               <did>
+                  <unittitle>Chilesso Station diary</unittitle>
+                  <unitdatestructured altrender="1920-1949" label="creation" unitdatetype="inclusive">
+                     <daterange>
+                        <fromdate standarddate="1920">1920</fromdate>
+                        <todate standarddate="1949">1949</todate>
+                     </daterange>
+                  </unitdatestructured>
+                  <container altrender="/repositories/4/top_containers/5856 /locations/9"
+                             containerid="39002054352340"
+                             id="aspace_17fb37d1a858579bd4f95ff1dafd38bc_c1"
+                             label="Mixed Materials"
+                             localtype="box">7</container>
+                  <container id="aspace_17fb37d1a858579bd4f95ff1dafd38bc_c2"
+                             localtype="folder"
+                             parent="aspace_17fb37d1a858579bd4f95ff1dafd38bc_c1">56a</container>
                </did>
             </c>
             <c altrender="/repositories/4/archival_objects/48500"
@@ -842,7 +857,7 @@
                              id="aspace_ref55_c1"
                              label="Mixed Materials"
                              localtype="box">7</container>
-                  <container id="aspace_ref55_c2" localtype="folder" parent="aspace_ref55_c1">56a</container>
+                  <container id="aspace_ref55_c2" localtype="folder" parent="aspace_ref55_c1">56b</container>
                </did>
             </c>
          </c>
