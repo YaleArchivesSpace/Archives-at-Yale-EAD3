@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-03-19T22:00:53-04:00</eventdatetime>
+            <eventdatetime>2026-11-10T22:00:46-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday March 19, 2026 at 22:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 10, 2026 at 22:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -381,7 +381,7 @@
       </scopecontent>
       <custodhist id="aspace_187669460deefe93162961a18da13236">
          <head>Custodial History</head>
-         <p>Some almanacs were transferred from Sterling Memorial Library in the 1940s. Many others were donated by William H. Helfand. The Supplement contains additional almanacs and a few other patent medicine pamphlets collected by Lloyd Moore and donated by his daughter Kathi Moore Sherman in 2018.</p>
+         <p>Some almanacs were transferred from Sterling Memorial Library in the 1940s, many others were donated by William H. Helfand, and some were donated by Edward Clark Streeter. The Supplement contains additional almanacs and a few other patent medicine pamphlets collected by Lloyd Moore and donated by his daughter Kathi Moore Sherman in 2018.</p>
       </custodhist>
       <processinfo id="aspace_345f685d4201086880afa3c340ce76dd">
          <head>Processing Information</head>
@@ -790,6 +790,9 @@
          </persname>
          <persname relator="col" source="local">
             <part localtype="agent_person">Moore, Lloyd, 1916-2004</part>
+         </persname>
+         <persname relator="col">
+            <part localtype="agent_person">Streeter, Edward Clark, 1874-1947</part>
          </persname>
       </controlaccess>
       <dsc>
