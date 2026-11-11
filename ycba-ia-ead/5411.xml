@@ -68,10 +68,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-06T18:00:18-05:00</eventdatetime>
+            <eventdatetime>2026-11-11T18:01:31-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November  6, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -116,6 +116,11 @@
          <head>Conditions Governing Access</head>
          <p>This collection is restricted, excluding images of exhibition installation.  Please contact the Yale Center for British Art Archives for more information.</p>
       </accessrestrict>
+      <userestrict id="aspace_e0dc0a4c4340e6334a6ffeb3d52fd2d2">
+         <head>Conditions Governing Use</head>
+         <p>In Copyright</p>
+         <p>This collection is the physical property of the Yale Center for British Art. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the Archives Department.</p>
+      </userestrict>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85008026"
                   source="lcsh">
