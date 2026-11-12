@@ -44,7 +44,7 @@
                <p>Boxes: 61 (Art), 62 (Oversize), 67-70 (Oversize), 73, 76-77</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="167">167</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="7479">7,479</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="168">168</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="7574">7,574</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -77,10 +77,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-01-12T23:00:15-05:00</eventdatetime>
+            <eventdatetime>2026-11-11T23:05:25-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday January 12, 2026 at 23:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 23:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -28115,6 +28115,35 @@ This finding aid was revised in 2024 to add this processing note to contextualiz
                              href="https://collections.library.yale.edu/catalog/2008292"
                              identifier="oid:2008292"
                              linktitle="1 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>The Allahakbarrie Book of Broadway Cricket for 1899</p>
+                        </descriptivenote>
+                     </daoset>
+                     <daoset altrender="/repositories/11/digital_objects/368127">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33897468"
+                             identifier="oid:33897468"
+                             linktitle="95 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33897469/full/!150,150/0/default.jpg"
+                             identifier="oid:33897468"
+                             linktitle="95 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33897468"
+                             identifier="oid:33897468"
+                             linktitle="95 images"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>

@@ -42,7 +42,7 @@
                <p>Box: 669</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1201">1,201</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="37737">37,737</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="1202">1,202</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="37871">37,871</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-06T23:00:20-05:00</eventdatetime>
+            <eventdatetime>2026-11-11T23:02:53-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November  6, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -268571,6 +268571,35 @@
                              href="https://collections.library.yale.edu/catalog/10034118"
                              identifier="oid:10034118"
                              linktitle="8 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Rent party cards</p>
+                        </descriptivenote>
+                     </daoset>
+                     <daoset altrender="/repositories/11/digital_objects/368126">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33897333"
+                             identifier="oid:33897333"
+                             linktitle="134 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33897334/full/!150,150/0/default.jpg"
+                             identifier="oid:33897333"
+                             linktitle="134 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33897333"
+                             identifier="oid:33897333"
+                             linktitle="134 images"
                              linkrole="text-html"
                              show="new"/>
                         <descriptivenote>

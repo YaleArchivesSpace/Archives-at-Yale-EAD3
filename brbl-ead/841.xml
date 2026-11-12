@@ -75,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:31:08-05:00</eventdatetime>
+            <eventdatetime>2026-11-11T23:02:34-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:31</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 23:02</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -8869,6 +8869,10 @@
                level="file">
                <did>
                   <unittitle>Correspondence, photocopies, and clippings related to Alberto Giacometti and Lord's books on Giacometti</unittitle>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>11</quantity>
+                     <unittype>Folders</unittype>
+                  </physdescstructured>
                   <unitdatestructured label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1960">1960</fromdate>
