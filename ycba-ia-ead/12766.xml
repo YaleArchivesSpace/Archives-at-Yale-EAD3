@@ -64,15 +64,15 @@
          </descriptivenote>
       </rightsdeclaration>
       <localcontrol localtype="findaidstatus">
-         <term>in_progress</term>
+         <term>completed</term>
       </localcontrol>
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-30T18:01:22-04:00</eventdatetime>
+            <eventdatetime>2026-11-12T18:01:48-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 30, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -99,10 +99,15 @@
                <todate standarddate="1957">1957</todate>
             </daterange>
          </unitdatestructured>
-         <abstract id="aspace_123289dd0a775f07d3ac9ceac243d28f">The collection comprises letters from Paul Oppé to Janet Camp Troxell, with additional correspondence from Armide Oppé, William Mills Ivins, Joan Hassall, and Marit Guiness Aschan.</abstract>
+         <abstract id="aspace_123289dd0a775f07d3ac9ceac243d28f">The collection comprises letters from Paul Oppé to Janet Camp Troxell, with additional letters from Armide Oppé, William Mills Ivins, Joan Hassall, and Marit Guiness Aschan.</abstract>
          <origination label="Creator">
             <persname>
                <part localtype="agent_person">Oppé, A. P. (Adolf Paul), 1878-1957</part>
+            </persname>
+         </origination>
+         <origination label="Source">
+            <persname rules="aacr">
+               <part localtype="agent_person">Troxell, Janet Camp</part>
             </persname>
          </origination>
          <origination label="Creator">
@@ -125,7 +130,7 @@
                <part localtype="agent_person">Aschan, Marit Guinness</part>
             </persname>
          </origination>
-         <origination label="Creator">
+         <origination label="Source">
             <persname relator="col" rules="aacr">
                <part localtype="agent_person">Mellon, Paul</part>
             </persname>
@@ -143,7 +148,7 @@
       </userestrict>
       <prefercite id="aspace_0eb60960f81e90c2903c12345d95ce62">
          <head>Preferred Citation</head>
-         <p>Paul Oppé letters to Janet Camp Troxell. Yale Center for British Art, Paul Mellon Collection.</p>
+         <p>MSS 85 Paul Oppé letters to Janet Camp Troxell. Yale Center for British Art, Paul Mellon Collection.</p>
       </prefercite>
       <acqinfo id="aspace_844b4d18ccd9dd36865ac19a571e6e4e">
          <head>Immediate Source of Acquisition</head>
@@ -151,8 +156,23 @@
       </acqinfo>
       <scopecontent id="aspace_3811696edc0b9ddd3166cf1e42fd5471">
          <head>Scope and Contents</head>
-         <p>The Janet Camp Troxell letters collection contains a number of letters sent to Janet Camp Troxell from a variety of correspondents from the period of 1950 to 1957. There are single letters from Armide Oppé, William Mills Ivins, Joan Hassall, and Marit Guiness Aschan. The rest of the correspondence is from art historian and collector Paul Oppé. Oppé's letters largely concern prints and drawings he has seen in Europe that would appeal to Camp Troxell. These include Dante Gabriel Rossetti pieces, which align with Camp Troxell's specialty. He also includes prices for some works and appears to be acting as an informal art advisor. The letters are friendly and discuss mutual friends such as Yale University professor Chauncey Brewster Tinker, as well as family friends.	 Oppé was writing to Camp Troxell until 1957, the year of his death.</p>
+         <p>The Janet Camp Troxell letters contain a number of letters sent to Camp Troxell from a variety of correspondents from the period of 1950 to 1957. There are single letters from Armide Oppé, William Mills Ivins, Joan Hassall, and Marit Guiness Aschan. The bulk of the letters is from art historian and collector Paul Oppé. Oppé's letters largely concern prints and drawings he has seen in Europe that would appeal to Camp Troxell. These include Dante Gabriel Rossetti pieces, which align with Camp Troxell's specialty. He also includes prices for some works and appears to be acting as an informal art advisor. The letters are friendly and discuss mutual friends such as Yale University professor Chauncey Brewster Tinker, as well as family friends.	 Oppé was writing to Camp Troxell until 1957, the year of his death.</p>
       </scopecontent>
+      <bioghist id="aspace_9ab1c60dc94f644aa3d6aa9cd5f08365">
+         <head>Biographical / Historical</head>
+         <p>Paul Oppé</p>
+         <p>Adolphe Paul Oppé (known as Paul Oppé) was an art historian and collector who focused on British drawings and watercolors of the 18th century. He was born in London in 1878 and enrolled at the University of St. Andrews in 1894 and taught at both St. Andrews and Edinburgh University. He joined the Board of Education in 1905 and later served as the Deputy Director of the Victoria and Albert Museum from 1910-1913. His research into 18th century British art began to align with his collecting interests. Oppé collected works on paper by artists such as William Hogarth, Alexander Cozens, John Robert Cozens, and Thomas Rowlandson. He married Valentine Tolemarche in 1909 and had two children, Armide and Denys. During his career, he grew his reputation as an authority on British art and throughout the 1920s-1950s, frequented auctions, exhibitions, and private collections. He worked as an advisor to museums and other collectors. After his sudden death in 1957, the Tate Gallery exhibited and purchased a majority of Oppé's collection of over 3,000 works on paper predominately produced between 1750 and 1850.</p>
+         <p>Janet Camp Troxell</p>
+         <p>Janet Camp Troxell was born in New Haven, Connecticut in 1898. She was a scholar who conducted and published studies of the Rossetti family, featuring Dante Gabriel Rosetti, a Pre-Raphaelite British author and painter. From 1930 to 1965, she collected items relating to Rossetti, his siblings, and other members of the Polidori/Rossetti families. Camp Troxell passed away in New Haven in 1987.</p>
+         <p>William Mills Ivins</p>
+         <p>William Mills Ivins Jr., born in 1881, was the first curator of the Prints Department at the Metropolitan Museum of Art. He continued his scholarship and collecting of prints until his death in 1961.</p>
+         <p>Joan Hassall OBE</p>
+         <p>Born in 1906 in London, Joan Hassall OBE was an English wood engraver and book illustrator. She often created illustrations for classical works of literature and took private commissions. She was awarded the OBE (Order of the British Empire) by Queen Elizabeth II in 1987 and passed away in 1988.</p>
+      </bioghist>
+      <arrangement id="aspace_9ec34e6b86aaa5bcf39209a564ef4d40">
+         <head>Arrangement</head>
+         <p>Material is arranged alphabetically by sender, and then chronologically</p>
+      </arrangement>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85008001"
                   source="lcsh">
@@ -165,13 +185,224 @@
          <genreform identifier="http://vocab.getty.edu/aat/300026877" source="aat">
             <part localtype="genre_form">Correspondence </part>
          </genreform>
-         <persname>
-            <part localtype="agent_person">Oppé, A. P. (Adolf Paul), 1878-1957</part>
-         </persname>
-         <persname rules="aacr">
-            <part localtype="agent_person">Troxell, Janet Camp</part>
-         </persname>
       </controlaccess>
-      <dsc/>
+      <dsc>
+         <c altrender="/repositories/3/archival_objects/4024211"
+            id="aspace_8a798f04a7db0ebb376dbec7af4ee2de"
+            level="file">
+            <did>
+               <unittitle>Marit Guinness Aschan letter to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1955-02">1955 February</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_8a798f04a7db0ebb376dbec7af4ee2de_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_8a798f04a7db0ebb376dbec7af4ee2de_c2"
+                          localtype="folder"
+                          parent="aspace_8a798f04a7db0ebb376dbec7af4ee2de_c1">1</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024217"
+            id="aspace_956819488eaa8db7e6e4afd9cf32122d"
+            level="file">
+            <did>
+               <unittitle>Joan Hassell letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1953">1953</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_956819488eaa8db7e6e4afd9cf32122d_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_956819488eaa8db7e6e4afd9cf32122d_c2"
+                          localtype="folder"
+                          parent="aspace_956819488eaa8db7e6e4afd9cf32122d_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024218"
+            id="aspace_1b3f19b4cfbc406accb0b0e76f22a673"
+            level="file">
+            <did>
+               <unittitle>William Mills Ivins letter to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1954-05">1954 May</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_1b3f19b4cfbc406accb0b0e76f22a673_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_1b3f19b4cfbc406accb0b0e76f22a673_c2"
+                          localtype="folder"
+                          parent="aspace_1b3f19b4cfbc406accb0b0e76f22a673_c1">3</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024219"
+            id="aspace_ac66654b03b1ae4b2507b5dde789e349"
+            level="file">
+            <did>
+               <unittitle>Armide Oppé letter to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1955-07">1955 July</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_ac66654b03b1ae4b2507b5dde789e349_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_ac66654b03b1ae4b2507b5dde789e349_c2"
+                          localtype="folder"
+                          parent="aspace_ac66654b03b1ae4b2507b5dde789e349_c1">4</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024220"
+            id="aspace_02f2198f081780452555b9940cef5715"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1950">1950</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_02f2198f081780452555b9940cef5715_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_02f2198f081780452555b9940cef5715_c2"
+                          localtype="folder"
+                          parent="aspace_02f2198f081780452555b9940cef5715_c1">5</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024221"
+            id="aspace_53b267f72494d984f10f96d4656e765f"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1951">1951</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_53b267f72494d984f10f96d4656e765f_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_53b267f72494d984f10f96d4656e765f_c2"
+                          localtype="folder"
+                          parent="aspace_53b267f72494d984f10f96d4656e765f_c1">6</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024222"
+            id="aspace_5c9c8cf40c25778d35f0c0bdb03417f2"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1952">1952</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_5c9c8cf40c25778d35f0c0bdb03417f2_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_5c9c8cf40c25778d35f0c0bdb03417f2_c2"
+                          localtype="folder"
+                          parent="aspace_5c9c8cf40c25778d35f0c0bdb03417f2_c1">7</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024223"
+            id="aspace_7fe7a5e4d0e17b2e5d12e893ef1840f2"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1953">1953</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_7fe7a5e4d0e17b2e5d12e893ef1840f2_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_7fe7a5e4d0e17b2e5d12e893ef1840f2_c2"
+                          localtype="folder"
+                          parent="aspace_7fe7a5e4d0e17b2e5d12e893ef1840f2_c1">8</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024224"
+            id="aspace_1fa38e7ef38af057426d595ad78a7111"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1954">1954</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_1fa38e7ef38af057426d595ad78a7111_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_1fa38e7ef38af057426d595ad78a7111_c2"
+                          localtype="folder"
+                          parent="aspace_1fa38e7ef38af057426d595ad78a7111_c1">9</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024225"
+            id="aspace_648e83bfd484b28ca7f69e2e5b2c5aad"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1955">1955</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_648e83bfd484b28ca7f69e2e5b2c5aad_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_648e83bfd484b28ca7f69e2e5b2c5aad_c2"
+                          localtype="folder"
+                          parent="aspace_648e83bfd484b28ca7f69e2e5b2c5aad_c1">10</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024226"
+            id="aspace_5a9f06a313ff0c5b940390150fee3949"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1956">1956</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_5a9f06a313ff0c5b940390150fee3949_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_5a9f06a313ff0c5b940390150fee3949_c2"
+                          localtype="folder"
+                          parent="aspace_5a9f06a313ff0c5b940390150fee3949_c1">11</container>
+            </did>
+         </c>
+         <c altrender="/repositories/3/archival_objects/4024227"
+            id="aspace_3839849337fcbb2c4a57505948c41241"
+            level="file">
+            <did>
+               <unittitle>Paul Oppé letters to Janet Camp Troxell</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <datesingle standarddate="1957">1957</datesingle>
+               </unitdatestructured>
+               <container altrender="/repositories/3/top_containers/466154"
+                          encodinganalog="archive half letter"
+                          id="aspace_3839849337fcbb2c4a57505948c41241_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_3839849337fcbb2c4a57505948c41241_c2"
+                          localtype="folder"
+                          parent="aspace_3839849337fcbb2c4a57505948c41241_c1">12</container>
+            </did>
+         </c>
+      </dsc>
    </archdesc>
 </ead>
