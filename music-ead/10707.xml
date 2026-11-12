@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-10-20T20:13:17-04:00</eventdatetime>
+            <eventdatetime>2026-11-11T20:00:57-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 20, 2025 at 20:13</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -21676,19 +21676,21 @@
                      <dao actuate="onrequest"
                           audience="external"
                           daotype="unknown"
-                          href="https://yalemusiclib.aviaryplatform.com/r/ws8hd7pj79"
+                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/115/284/original/thumbnail_115284_1622128903.jpg?1622114556"
                           identifier="aviary_42761"
-                          linkrole="video-streaming"
+                          linktitle="[Aviary] musicmss0062b070t001.u.mov"
+                          linkrole="image-thumbnail"
                           show="new"/>
                      <dao actuate="onrequest"
                           audience="external"
                           daotype="unknown"
-                          href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/115/284/original/thumbnail_115284_1622128903.jpg?1622114556"
+                          href="https://yalemusiclib.aviaryplatform.com/r/ws8hd7pj79"
                           identifier="aviary_42761"
-                          linkrole="image-thumbnail"
-                          show="embed"/>
+                          linktitle="[Aviary] musicmss0062b070t001.u.mov"
+                          linkrole="video-streaming"
+                          show="new"/>
                      <descriptivenote>
-                        <p>[Aviary] Robert Altman's Jazz '34: Remembrances of Kansas City Swing, undated</p>
+                        <p>[Aviary] musicmss0062b070t001.u.mov</p>
                      </descriptivenote>
                   </daoset>
                </did>
