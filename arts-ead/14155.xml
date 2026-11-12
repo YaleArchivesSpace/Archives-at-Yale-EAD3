@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/YaleArchivesSpace/EAD3-to-PDF-UA/master/ead3-yale.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+   <control countryencoding="iso3166-1"
+            dateencoding="iso8601"
+            langencoding="iso639-2b"
+            relatedencoding="marc"
+            repositoryencoding="iso15511"
+            scriptencoding="iso15924">
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/bkp143">bkp143</recordid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to Correspondence Regarding Bookplate Collectors and Designers </titleproper>
+            <titleproper localtype="filing">Correspondence Regarding Bookplate Collectors and Designers</titleproper>
+            <author>Adrienne Pruitt</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Robert B. Haas Family Arts Library Special Collections</publisher>
+            <address>
+               <addressline>Arts Library Special Collections</addressline>
+               <addressline>180 York Street </addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline localtype="telephone">203-432-1712</addressline>
+               <addressline localtype="email">haasalsc@yale.edu</addressline>
+               <addressline>
+                  <ref href="https://web.library.yale.edu/arts/alsc"
+                       linktitle="https://web.library.yale.edu/arts/alsc"
+                       show="new">https://web.library.yale.edu/arts/alsc</ref>
+               </addressline>
+            </address>
+            <date>November 2026</date>
+            <num>BKP 143</num>
+         </publicationstmt>
+         <notestmt>
+            <controlnote localtype="onsite">
+               <p>Box: 1</p>
+            </controlnote>
+         </notestmt>
+      </filedesc>
+      <maintenancestatus value="derived"/>
+      <maintenanceagency countrycode="US">
+         <agencycode>US-CtY-A</agencycode>
+         <agencyname>Robert B. Haas Family Arts Library Special Collections</agencyname>
+      </maintenanceagency>
+      <languagedeclaration>
+         <language langcode="eng">English</language>
+         <script scriptcode="Latn">Latin</script>
+      </languagedeclaration>
+      <conventiondeclaration>
+         <abbr>dacs</abbr>
+         <citation>Describing Archives: A Content Standard</citation>
+      </conventiondeclaration>
+      <localcontrol localtype="findaidstatus">
+         <term>in_progress</term>
+      </localcontrol>
+      <maintenancehistory>
+         <maintenanceevent>
+            <eventtype value="derived"/>
+            <eventdatetime>2026-11-11T19:00:48-05:00</eventdatetime>
+            <agenttype value="machine"/>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 19:00</eventdescription>
+         </maintenanceevent>
+      </maintenancehistory>
+   </control>
+   <archdesc altrender="/repositories/5/resources/14155" level="collection">
+      <did>
+         <unittitle>Correspondence regarding bookplate collectors and designers</unittitle>
+         <unitid>BKP 143</unitid>
+         <repository>
+            <corpname>
+               <part>Robert B. Haas Family Arts Library Special Collections</part>
+            </corpname>
+         </repository>
+         <langmaterial>
+            <languageset>
+               <language langcode="eng">English</language>
+               <script scriptcode="Latn">Latin</script>
+            </languageset>
+         </langmaterial>
+         <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+            <quantity>.25</quantity>
+            <unittype>Linear Feet</unittype>
+         </physdescstructured>
+         <unitdatestructured label="creation" unitdatetype="inclusive">
+            <daterange>
+               <fromdate standarddate="1894">1894</fromdate>
+               <todate standarddate="1940">1940</todate>
+            </daterange>
+         </unitdatestructured>
+         <abstract id="aspace_66c5427f2c6e56274e997220bda644ed">The collection contains miscellaneous correspondence to and from bookplate collectors and designers.</abstract>
+      </did>
+      <scopecontent id="aspace_81f1f52e170d8c9fe3507a603ed8ea58">
+         <head>Content Description</head>
+         <p>The collection contains miscellaneous correspondence to and from bookplate collectors and designers.</p>
+      </scopecontent>
+      <arrangement id="aspace_3afb10fd841a670ff0981de79715dfc4">
+         <head>Arrangement</head>
+         <p>Arranged alphabetically by correspondent.</p>
+      </arrangement>
+      <accessrestrict id="aspace_6ded7d010a86fa4b34d1e2ce93e97a96">
+         <head>Conditions Governing Access</head>
+         <p>The collection is open for research.</p>
+      </accessrestrict>
+      <userestrict id="aspace_69ec5766139b4d8bf838c154eb10c452">
+         <head>Conditions Governing Use</head>
+         <p>Copyright status for collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
+      </userestrict>
+      <acqinfo id="aspace_0cd5f0877b430f6b78a2af5a75fafc67">
+         <head>Immediate Source of Acquisition</head>
+         <p>Acquired by purchase, 2014.</p>
+      </acqinfo>
+      <prefercite id="aspace_ee9f9127ef13e524a58ce7ade4655409">
+         <head>Preferred Citation</head>
+         <p>Correspondence regarding bookplate collectors and designers, Robert B. Haas Family Arts Library, Yale University.</p>
+      </prefercite>
+      <controlaccess>
+         <genreform identifier="http://vocab.getty.edu/aat/300028731" source="aat">
+            <part localtype="genre_form">Bookplates</part>
+         </genreform>
+         <genreform identifier="http://vocab.getty.edu/aat/300026877" source="aat">
+            <part localtype="genre_form">Correspondence </part>
+         </genreform>
+      </controlaccess>
+      <dsc>
+         <c altrender="/repositories/5/archival_objects/4070563"
+            id="aspace_a9d0aa05057f2c97df577a363c774f1d"
+            level="file">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitdatestructured label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1894">1894</fromdate>
+                     <todate standarddate="1940">1940</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/5/top_containers/486018"
+                          containerid="39002075207671"
+                          encodinganalog="archive half letter"
+                          id="aspace_a9d0aa05057f2c97df577a363c774f1d_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_a9d0aa05057f2c97df577a363c774f1d_c2"
+                          localtype="folder"
+                          parent="aspace_a9d0aa05057f2c97df577a363c774f1d_c1">1</container>
+            </did>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

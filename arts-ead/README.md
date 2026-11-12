@@ -273,4 +273,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [aob103.xml](14063.xml) | aob103 | AOB 103 | Arnold Saks Associates records | 
  [arts.bkp.0183.xml](14072.xml) | arts.bkp.0183 | BKP 183 | Collection of children's bookplates | 
  [bkp140.xml](14151.xml) | bkp140 | BKP 140 | William R. A. Hays correspondence with Frederick Charles Blank regarding bookplates | 
+ [bkp143.xml](14155.xml) | bkp143 | BKP 143 | Correspondence regarding bookplate collectors and designers | 
+ [bkp185.xml](14160.xml) | bkp185 | BKP 185 | Collection of bookplates by Peter Ford | 
 
