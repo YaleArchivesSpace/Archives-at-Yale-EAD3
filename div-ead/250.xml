@@ -41,7 +41,7 @@
                <p>Boxes: 1, Ov1-2, Ov2-3, Ov3-4, Ov4-5, Ov5-6, Ov6-7, Ov7-8, Ov8-9, Ov9-10, Ov10-11, Ov11-12, Ov12-13, Ov13-14, Ov14-15, Ov15-16, Ov16-17, Ov17-18, Ov18-19, Ov19-20, Ov20-21, Ov21-22, Ov22-23, Ov23-24, Ov24-25, Ov25-131, 133-395, 395a, 395b-546, 546A-671</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: OVd10, Ov26-Ov29, 129A, 132, 562A</p>
+               <p>Boxes: OVd10, Ov26-Ov29, 129A, 132, 524A, 562A</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="7">7</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="227">227</num> digital files.</p>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-10T18:00:37-05:00</eventdatetime>
+            <eventdatetime>2026-11-12T18:00:16-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 10, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2251,8 +2251,31 @@
                   id="ref144"
                   level="subseries">
                   <did>
-                     <unittitle>Lists of volunteers and SVM chapters</unittitle>
+                     <unittitle>Compiled volumes of volunteer names and statistics</unittitle>
                   </did>
+                  <c altrender="/repositories/4/archival_objects/80144"
+                     id="ref145"
+                     level="file">
+                     <did>
+                        <unittitle>Bound volume of miscellaneous statistics</unittitle>
+                        <unitdatestructured altrender="1886-1926" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1886">1886</fromdate>
+                              <todate standarddate="1926">1926</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8816 /locations/9"
+                                   containerid="39002022296306"
+                                   id="aspace_ref145_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">126</container>
+                        <container id="aspace_ref145_c2" localtype="folder" parent="aspace_ref145_c1">1</container>
+                     </did>
+                     <scopecontent id="aspace_74493ccfd7880f42fc4c62d670d98465">
+                        <head>Scope and Contents</head>
+                        <p>Charts and tables include statistics such as age of volunteers, their educational institutions, duration of service, fields served, number of physicians sent out, reasons for hindrance, and others.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80145"
                      id="ref146"
                      level="file">
@@ -2274,28 +2297,6 @@
                      <scopecontent id="aspace_70455a6a12bb8f02917b1de9d1da27c3">
                         <head>Scope and Contents</head>
                         <p>The volunteers' numbers, fields of service, and date of departure are recorded.</p>
-                     </scopecontent>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/4071133"
-                     id="aspace_27e679218b5c8601d1022745e3de52ae"
-                     level="file">
-                     <did>
-                        <unittitle>List of sailed volunteers </unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1925">1925</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_27e679218b5c8601d1022745e3de52ae_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_27e679218b5c8601d1022745e3de52ae_c2"
-                                   localtype="folder"
-                                   parent="aspace_27e679218b5c8601d1022745e3de52ae_c1">1325</container>
-                     </did>
-                     <scopecontent id="aspace_33fc6249bfeaa45c05c3508a83be9abb">
-                        <head>Scope and Contents</head>
-                        <p>Alphabetically listed by name with educational institution, field of service, and mission agency/denomination noted.</p>
                      </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80146"
@@ -2556,31 +2557,6 @@
                         <p>Arranged by educational institution, the listing contains addresses and in some cases names of officers and faculty advisors of the SVM chapters.</p>
                      </scopecontent>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/80158"
-                     id="ref159"
-                     level="file">
-                     <did>
-                        <unittitle>Mailing Lists</unittitle>
-                        <unitdatestructured altrender="1934-1945, n.d."
-                                            label="creation"
-                                            unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1934">1934</fromdate>
-                              <todate standarddate="1945">1945</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_ref159_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_ref159_c2" localtype="folder" parent="aspace_ref159_c1">1319-1321</container>
-                     </did>
-                     <scopecontent id="aspace_31fa3ed52695a92ab294875223bd99b7">
-                        <head>Scope and Contents</head>
-                        <p>Miscellaneous lists of addresses of volunteers, supporters, and SVM chapters.</p>
-                     </scopecontent>
-                  </c>
                   <c altrender="/repositories/4/archival_objects/80152"
                      id="ref153"
                      level="file">
@@ -2640,6 +2616,27 @@
                         <head>Scope and Contents</head>
                         <p>Lists missionaries who received appointment from 1885, information compiled from records in the office of the Student Volunteer Movement for Foreign Missions.</p>
                      </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4070445"
+                     id="aspace_3c083ff0fc3f3a649f644e32cea6207b"
+                     level="file">
+                     <did>
+                        <unittitle>Bound volume containing statistics of number of missionaries sent out, arranged by denomination</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1903">1903</fromdate>
+                              <todate standarddate="1914">1914</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/486008 /locations/2"
+                                   containerid="39002112327425"
+                                   id="aspace_3c083ff0fc3f3a649f644e32cea6207b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">132</container>
+                        <container id="aspace_3c083ff0fc3f3a649f644e32cea6207b_c2"
+                                   localtype="folder"
+                                   parent="aspace_3c083ff0fc3f3a649f644e32cea6207b_c1">5</container>
+                     </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80147"
                      id="ref148"
@@ -2743,6 +2740,44 @@
                                    localtype="box">Ov25</container>
                      </did>
                   </c>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4069445"
+                  id="aspace_d003a61865b8218abdb1e23b955c18d2"
+                  level="subseries">
+                  <did>
+                     <unittitle>Unbound records of volunteer names and statistics</unittitle>
+                  </did>
+                  <c altrender="/repositories/4/archival_objects/80156"
+                     id="ref157"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1886-1909" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1886">1886</fromdate>
+                              <todate standarddate="1909">1909</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <unitdatestructured altrender="1927-1930" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1927">1927</fromdate>
+                              <todate standarddate="1930">1930</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <unitdatestructured altrender="1932-1947" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1932">1932</fromdate>
+                              <todate standarddate="1947">1947</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_ref157_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_ref157_c2" localtype="folder" parent="aspace_ref157_c1">1315-1317</container>
+                     </did>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80157"
                      id="ref158"
                      level="file">
@@ -2762,33 +2797,73 @@
                         <container id="aspace_ref158_c2" localtype="folder" parent="aspace_ref158_c1">1318</container>
                      </did>
                   </c>
-               </c>
-               <c altrender="/repositories/4/archival_objects/4069445"
-                  id="aspace_d003a61865b8218abdb1e23b955c18d2"
-                  level="subseries">
-                  <did>
-                     <unittitle>Compiled statistics and forms by denomination / mission board</unittitle>
-                  </did>
-                  <c altrender="/repositories/4/archival_objects/4070445"
-                     id="aspace_3c083ff0fc3f3a649f644e32cea6207b"
+                  <c altrender="/repositories/4/archival_objects/80158"
+                     id="ref159"
                      level="file">
                      <did>
-                        <unittitle>Bound volume containing statistics of number of missionaries sent out, arranged by denomination</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <unittitle>Mailing Lists</unittitle>
+                        <unitdatestructured altrender="1934-1945, n.d."
+                                            label="creation"
+                                            unitdatetype="inclusive">
                            <daterange>
-                              <fromdate standarddate="1903">1903</fromdate>
-                              <todate standarddate="1914">1914</todate>
+                              <fromdate standarddate="1934">1934</fromdate>
+                              <todate standarddate="1945">1945</todate>
                            </daterange>
                         </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/486008 /locations/2"
-                                   containerid="39002112327425"
-                                   id="aspace_3c083ff0fc3f3a649f644e32cea6207b_c1"
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_ref159_c1"
                                    label="Mixed Materials"
-                                   localtype="box">132</container>
-                        <container id="aspace_3c083ff0fc3f3a649f644e32cea6207b_c2"
-                                   localtype="folder"
-                                   parent="aspace_3c083ff0fc3f3a649f644e32cea6207b_c1">5</container>
+                                   localtype="box">133</container>
+                        <container id="aspace_ref159_c2" localtype="folder" parent="aspace_ref159_c1">1319-1321</container>
                      </did>
+                     <scopecontent id="aspace_31fa3ed52695a92ab294875223bd99b7">
+                        <head>Scope and Contents</head>
+                        <p>Miscellaneous lists of addresses of volunteers, supporters, and SVM chapters.</p>
+                     </scopecontent>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4070694"
+                     id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b"
+                     level="file">
+                     <did>
+                        <unittitle>Statistics of volunteers sailed, arranged by denomination</unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1917">1917</fromdate>
+                              <todate standarddate="1928">1928</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c2"
+                                   localtype="folder"
+                                   parent="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c1">1322-1324</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/4071133"
+                     id="aspace_27e679218b5c8601d1022745e3de52ae"
+                     level="file">
+                     <did>
+                        <unittitle>List of sailed volunteers </unittitle>
+                        <unitdatestructured label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1925">1925</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
+                                   containerid="39002022296371"
+                                   id="aspace_27e679218b5c8601d1022745e3de52ae_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">133</container>
+                        <container id="aspace_27e679218b5c8601d1022745e3de52ae_c2"
+                                   localtype="folder"
+                                   parent="aspace_27e679218b5c8601d1022745e3de52ae_c1">1325</container>
+                     </did>
+                     <scopecontent id="aspace_33fc6249bfeaa45c05c3508a83be9abb">
+                        <head>Scope and Contents</head>
+                        <p>Alphabetically listed by name with educational institution, field of service, and mission agency/denomination noted.</p>
+                     </scopecontent>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80161"
                      id="ref162"
@@ -2806,6 +2881,42 @@
                         <container id="aspace_ref162_c2" localtype="folder" parent="aspace_ref162_c1">1326-1328</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/80162"
+                     id="ref163"
+                     level="file">
+                     <did>
+                        <unittitle>Tally sheets</unittitle>
+                        <unitdatestructured altrender="1925" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1925">1925</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
+                                   containerid="39002022296389"
+                                   id="aspace_ref163_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">134</container>
+                        <container id="aspace_ref163_c2" localtype="folder" parent="aspace_ref163_c1">1329</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80163"
+                     id="ref164"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics including list of sailed volunteers</unittitle>
+                        <unitdatestructured altrender="1926" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1926">1926</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
+                                   containerid="39002022296389"
+                                   id="aspace_ref164_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">134</container>
+                        <container id="aspace_ref164_c2" localtype="folder" parent="aspace_ref164_c1">1330</container>
+                     </did>
+                     <scopecontent id="aspace_6771cd6138c7439045ec619b7f75308e">
+                        <head>Scope and Contents</head>
+                        <p>Other folders labeled as "Compiled statistics" in this subseries also include lists of sailed volunteers.  Other than the years 1925 and 1926, lists of sailed volunteers were also regularly published in SVM periodicals.</p>
+                     </scopecontent>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80164"
                      id="ref165"
                      level="file">
@@ -2820,6 +2931,38 @@
                                    label="Mixed Materials"
                                    localtype="box">134</container>
                         <container id="aspace_ref165_c2" localtype="folder" parent="aspace_ref165_c1">1331-1333</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80165"
+                     id="ref166"
+                     level="file">
+                     <did>
+                        <unittitle>Tally sheets</unittitle>
+                        <unitdatestructured altrender="1926" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1926">1926</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
+                                   containerid="39002022296389"
+                                   id="aspace_ref166_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">134</container>
+                        <container id="aspace_ref166_c2" localtype="folder" parent="aspace_ref166_c1">1334</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80166"
+                     id="ref167"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1927" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1927">1927</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
+                                   containerid="39002022296389"
+                                   id="aspace_ref167_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">134</container>
+                        <container id="aspace_ref167_c2" localtype="folder" parent="aspace_ref167_c1">1335</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80167"
@@ -2838,6 +2981,22 @@
                         <container id="aspace_ref168_c2" localtype="folder" parent="aspace_ref168_c1">1336-1338</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/80168"
+                     id="ref169"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1928" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1928">1928</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8828 /locations/9"
+                                   containerid="39002022296397"
+                                   id="aspace_ref169_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">135</container>
+                        <container id="aspace_ref169_c2" localtype="folder" parent="aspace_ref169_c1">1339</container>
+                     </did>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80169"
                      id="ref170"
                      level="file">
@@ -2852,6 +3011,22 @@
                                    label="Mixed Materials"
                                    localtype="box">135</container>
                         <container id="aspace_ref170_c2" localtype="folder" parent="aspace_ref170_c1">1340-1342</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80170"
+                     id="ref171"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1929" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1929">1929</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8828 /locations/9"
+                                   containerid="39002022296397"
+                                   id="aspace_ref171_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">135</container>
+                        <container id="aspace_ref171_c2" localtype="folder" parent="aspace_ref171_c1">1343</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80171"
@@ -2870,6 +3045,22 @@
                         <container id="aspace_ref172_c2" localtype="folder" parent="aspace_ref172_c1">1344-1346</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/80172"
+                     id="ref173"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1930">1930</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8828 /locations/9"
+                                   containerid="39002022296397"
+                                   id="aspace_ref173_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">135</container>
+                        <container id="aspace_ref173_c2" localtype="folder" parent="aspace_ref173_c1">1347</container>
+                     </did>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80173"
                      id="ref174"
                      level="file">
@@ -2884,6 +3075,22 @@
                                    label="Mixed Materials"
                                    localtype="box">135</container>
                         <container id="aspace_ref174_c2" localtype="folder" parent="aspace_ref174_c1">1348-1350</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80174"
+                     id="ref175"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1931" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1931">1931</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8829 /locations/9"
+                                   containerid="39002022296405"
+                                   id="aspace_ref175_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">136</container>
+                        <container id="aspace_ref175_c2" localtype="folder" parent="aspace_ref175_c1">1351</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80175"
@@ -2902,6 +3109,22 @@
                         <container id="aspace_ref176_c2" localtype="folder" parent="aspace_ref176_c1">1352-1353</container>
                      </did>
                   </c>
+                  <c altrender="/repositories/4/archival_objects/80176"
+                     id="ref177"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1932" label="creation" unitdatetype="inclusive">
+                           <datesingle standarddate="1932">1932</datesingle>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8829 /locations/9"
+                                   containerid="39002022296405"
+                                   id="aspace_ref177_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">136</container>
+                        <container id="aspace_ref177_c2" localtype="folder" parent="aspace_ref177_c1">1354</container>
+                     </did>
+                  </c>
                   <c altrender="/repositories/4/archival_objects/80177"
                      id="ref178"
                      level="file">
@@ -2916,6 +3139,25 @@
                                    label="Mixed Materials"
                                    localtype="box">136</container>
                         <container id="aspace_ref178_c2" localtype="folder" parent="aspace_ref178_c1">1355-1356</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/80178"
+                     id="ref179"
+                     level="file">
+                     <did>
+                        <unittitle>Compiled statistics</unittitle>
+                        <unitdatestructured altrender="1933-1937" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1933">1933</fromdate>
+                              <todate standarddate="1937">1937</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/8829 /locations/9"
+                                   containerid="39002022296405"
+                                   id="aspace_ref179_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">136</container>
+                        <container id="aspace_ref179_c2" localtype="folder" parent="aspace_ref179_c1">1357</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/80179"
@@ -2996,307 +3238,6 @@
                                    label="Mixed Materials"
                                    localtype="box">137</container>
                         <container id="aspace_ref184_c2" localtype="folder" parent="aspace_ref184_c1">1362</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80159"
-                     id="ref160"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics by denomination / mission board</unittitle>
-                        <unitdatestructured altrender="1917-1925" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1917">1917</fromdate>
-                              <todate standarddate="1925">1925</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_ref160_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_ref160_c2" localtype="folder" parent="aspace_ref160_c1">1322</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80153"
-                     id="ref154"
-                     level="file">
-                     <did>
-                        <unittitle>Statistics by denomination</unittitle>
-                        <unitdatestructured altrender="1905-1913" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1905">1905</fromdate>
-                              <todate standarddate="1913">1913</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/347964 /locations/9"
-                                   containerid="39002035367599"
-                                   id="aspace_ref154_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">Ov23</container>
-                     </did>
-                  </c>
-               </c>
-               <c altrender="/repositories/4/archival_objects/80155"
-                  id="ref156"
-                  level="subseries">
-                  <did>
-                     <unittitle>General compiled statistics</unittitle>
-                  </did>
-                  <c altrender="/repositories/4/archival_objects/80144"
-                     id="ref145"
-                     level="file">
-                     <did>
-                        <unittitle>Bound volume of miscellaneous statistics</unittitle>
-                        <unitdatestructured altrender="1886-1926" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1886">1886</fromdate>
-                              <todate standarddate="1926">1926</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8816 /locations/9"
-                                   containerid="39002022296306"
-                                   id="aspace_ref145_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">126</container>
-                        <container id="aspace_ref145_c2" localtype="folder" parent="aspace_ref145_c1">1</container>
-                     </did>
-                     <scopecontent id="aspace_74493ccfd7880f42fc4c62d670d98465">
-                        <head>Scope and Contents</head>
-                        <p>Charts and tables include statistics such as age of volunteers, their educational institutions, duration of service, fields served, number of physicians sent out, reasons for hindrance, and others.</p>
-                     </scopecontent>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80156"
-                     id="ref157"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1886-1909" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1886">1886</fromdate>
-                              <todate standarddate="1909">1909</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <unitdatestructured altrender="1927-1930" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1927">1927</fromdate>
-                              <todate standarddate="1930">1930</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <unitdatestructured altrender="1932-1947" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1932">1932</fromdate>
-                              <todate standarddate="1947">1947</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_ref157_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_ref157_c2" localtype="folder" parent="aspace_ref157_c1">1315-1317</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/4070694"
-                     id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b"
-                     level="file">
-                     <did>
-                        <unittitle>Statistics of volunteers sailed, arranged by denomination</unittitle>
-                        <unitdatestructured label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1917">1917</fromdate>
-                              <todate standarddate="1928">1928</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c2"
-                                   localtype="folder"
-                                   parent="aspace_e4ab7bac985f0ac7a5e7f033baeae37b_c1">1322-1324</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80162"
-                     id="ref163"
-                     level="file">
-                     <did>
-                        <unittitle>Tally sheets</unittitle>
-                        <unitdatestructured altrender="1925" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1925">1925</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
-                                   containerid="39002022296389"
-                                   id="aspace_ref163_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">134</container>
-                        <container id="aspace_ref163_c2" localtype="folder" parent="aspace_ref163_c1">1329</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80163"
-                     id="ref164"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1926" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1926">1926</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
-                                   containerid="39002022296389"
-                                   id="aspace_ref164_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">134</container>
-                        <container id="aspace_ref164_c2" localtype="folder" parent="aspace_ref164_c1">1330</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80165"
-                     id="ref166"
-                     level="file">
-                     <did>
-                        <unittitle>Tally sheets</unittitle>
-                        <unitdatestructured altrender="1926" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1926">1926</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
-                                   containerid="39002022296389"
-                                   id="aspace_ref166_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">134</container>
-                        <container id="aspace_ref166_c2" localtype="folder" parent="aspace_ref166_c1">1334</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80166"
-                     id="ref167"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1927" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1927">1927</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8827 /locations/9"
-                                   containerid="39002022296389"
-                                   id="aspace_ref167_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">134</container>
-                        <container id="aspace_ref167_c2" localtype="folder" parent="aspace_ref167_c1">1335</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80168"
-                     id="ref169"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1928" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1928">1928</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8828 /locations/9"
-                                   containerid="39002022296397"
-                                   id="aspace_ref169_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">135</container>
-                        <container id="aspace_ref169_c2" localtype="folder" parent="aspace_ref169_c1">1339</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80170"
-                     id="ref171"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1929" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1929">1929</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8828 /locations/9"
-                                   containerid="39002022296397"
-                                   id="aspace_ref171_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">135</container>
-                        <container id="aspace_ref171_c2" localtype="folder" parent="aspace_ref171_c1">1343</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80172"
-                     id="ref173"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1930" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1930">1930</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8828 /locations/9"
-                                   containerid="39002022296397"
-                                   id="aspace_ref173_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">135</container>
-                        <container id="aspace_ref173_c2" localtype="folder" parent="aspace_ref173_c1">1347</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80174"
-                     id="ref175"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1931" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1931">1931</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8829 /locations/9"
-                                   containerid="39002022296405"
-                                   id="aspace_ref175_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">136</container>
-                        <container id="aspace_ref175_c2" localtype="folder" parent="aspace_ref175_c1">1351</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80176"
-                     id="ref177"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1932" label="creation" unitdatetype="inclusive">
-                           <datesingle standarddate="1932">1932</datesingle>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8829 /locations/9"
-                                   containerid="39002022296405"
-                                   id="aspace_ref177_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">136</container>
-                        <container id="aspace_ref177_c2" localtype="folder" parent="aspace_ref177_c1">1354</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80178"
-                     id="ref179"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1933-1937" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1933">1933</fromdate>
-                              <todate standarddate="1937">1937</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8829 /locations/9"
-                                   containerid="39002022296405"
-                                   id="aspace_ref179_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">136</container>
-                        <container id="aspace_ref179_c2" localtype="folder" parent="aspace_ref179_c1">1357</container>
-                     </did>
-                  </c>
-                  <c altrender="/repositories/4/archival_objects/80160"
-                     id="ref161"
-                     level="file">
-                     <did>
-                        <unittitle>Compiled statistics</unittitle>
-                        <unitdatestructured altrender="1925-1928" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1925">1925</fromdate>
-                              <todate standarddate="1928">1928</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/8826 /locations/9"
-                                   containerid="39002022296371"
-                                   id="aspace_ref161_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">133</container>
-                        <container id="aspace_ref161_c2" localtype="folder" parent="aspace_ref161_c1">1323-1325</container>
                      </did>
                   </c>
                </c>
@@ -28178,18 +28119,21 @@
                   id="ref1756"
                   level="file">
                   <did>
-                     <unittitle>Records of literature and forms printed</unittitle>
+                     <unittitle>Records of literature and forms printed (bound volume)</unittitle>
                      <unitdatestructured altrender="1931-1935" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1931">1931</fromdate>
                            <todate standarddate="1935">1935</todate>
                         </daterange>
                      </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/9229 /locations/9"
-                                containerid="39002035366930"
+                     <container altrender="/repositories/4/top_containers/486070 /locations/2"
+                                containerid="39002112327474"
                                 id="aspace_ref1756_c1"
                                 label="Mixed Materials"
-                                localtype="box">Ov3</container>
+                                localtype="box">524A</container>
+                     <container id="aspace_ref1756_c2"
+                                localtype="folder"
+                                parent="aspace_ref1756_c1">1</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/81749"
@@ -31452,24 +31396,6 @@
                                 localtype="box">Ov7</container>
                   </did>
                </c>
-               <c altrender="/repositories/4/archival_objects/81936"
-                  id="ref1945"
-                  level="file">
-                  <did>
-                     <unittitle>Buffalo, press clippings and memorabilia</unittitle>
-                     <unitdatestructured altrender="1931-1932" label="creation" unitdatetype="inclusive">
-                        <daterange>
-                           <fromdate standarddate="1931">1931</fromdate>
-                           <todate standarddate="1932">1932</todate>
-                        </daterange>
-                     </unitdatestructured>
-                     <container altrender="/repositories/4/top_containers/9271 /locations/9"
-                                containerid="39002035366948"
-                                id="aspace_ref1945_c1"
-                                label="Mixed Materials"
-                                localtype="box">Ov4</container>
-                  </did>
-               </c>
                <c altrender="/repositories/4/archival_objects/81937"
                   id="ref1946"
                   level="file">
@@ -31486,6 +31412,24 @@
                                 id="aspace_ref1946_c1"
                                 label="Mixed Materials"
                                 localtype="box">Ov2</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/81936"
+                  id="ref1945"
+                  level="file">
+                  <did>
+                     <unittitle>Buffalo, press clippings and memorabilia</unittitle>
+                     <unitdatestructured altrender="1931-1932" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1931">1931</fromdate>
+                           <todate standarddate="1932">1932</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/9271 /locations/9"
+                                containerid="39002035366948"
+                                id="aspace_ref1945_c1"
+                                label="Mixed Materials"
+                                localtype="box">Ov4</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/4070449"
