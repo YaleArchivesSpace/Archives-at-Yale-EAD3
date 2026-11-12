@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T04:24:17-04:00</eventdatetime>
+            <eventdatetime>2026-11-12T05:15:14-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 04:24</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 05:15</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -155,26 +155,6 @@
          </corpname>
       </controlaccess>
       <dsc>
-         <c altrender="/repositories/12/archival_objects/1203865"
-            id="ref11"
-            level="file">
-            <did>
-               <unittitle>Goldmann, Franz</unittitle>
-               <unitdatestructured altrender="1971, 1995" label="creation" unitdatetype="inclusive">
-                  <daterange>
-                     <fromdate standarddate="1971">1971</fromdate>
-                     <todate standarddate="1995">1995</todate>
-                  </daterange>
-               </unitdatestructured>
-               <container altrender="/repositories/12/top_containers/135091 /locations/9"
-                          containerid="39002042781915"
-                          encodinganalog="archive letter"
-                          id="aspace_ref11_c1"
-                          label="Mixed Materials"
-                          localtype="box">1</container>
-               <container id="aspace_ref11_c2" localtype="folder" parent="aspace_ref11_c1">1</container>
-            </did>
-         </c>
          <c altrender="/repositories/12/archival_objects/1203866"
             id="ref12"
             level="file">
@@ -193,6 +173,26 @@
                           label="Mixed Materials"
                           localtype="box">1</container>
                <container id="aspace_ref12_c2" localtype="folder" parent="aspace_ref12_c1">2</container>
+            </did>
+         </c>
+         <c altrender="/repositories/12/archival_objects/1203865"
+            id="ref11"
+            level="file">
+            <did>
+               <unittitle>Goldmann, Franz</unittitle>
+               <unitdatestructured altrender="1971, 1995" label="creation" unitdatetype="inclusive">
+                  <daterange>
+                     <fromdate standarddate="1971">1971</fromdate>
+                     <todate standarddate="1995">1995</todate>
+                  </daterange>
+               </unitdatestructured>
+               <container altrender="/repositories/12/top_containers/135091 /locations/9"
+                          containerid="39002042781915"
+                          encodinganalog="archive letter"
+                          id="aspace_ref11_c1"
+                          label="Mixed Materials"
+                          localtype="box">1</container>
+               <container id="aspace_ref11_c2" localtype="folder" parent="aspace_ref11_c1">1</container>
             </did>
          </c>
       </dsc>
