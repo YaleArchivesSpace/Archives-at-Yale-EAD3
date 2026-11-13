@@ -36,7 +36,7 @@
                <p>Boxes: 234, 251, 259-260, 264-265, 270, 272-274, 431, 434, 446-448, 643-644, 647, 783-787, 793-800, 991, 1778-1781, 4095-4097, 4099, 4101, 4103</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 241, 255, 262, 400, 416A, 441, 706, 4102</p>
+               <p>Boxes: 241, 255, 262, 400, 416A, 441, 706, 1356, 4102</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -66,10 +66,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T18:00:38-05:00</eventdatetime>
+            <eventdatetime>2026-11-13T18:01:40-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 18:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -139,6 +139,24 @@
             <part localtype="agent_corporate_entity">Yale Center for British Art</part>
          </corpname>
       </controlaccess>
-      <dsc/>
+      <dsc>
+         <c altrender="/repositories/3/archival_objects/2159742"
+            id="aspace_9ac40bbd93095d23a0f84630674d61e8"
+            level="file">
+            <did>
+               <unittitle>Reference Library: Library Shelving, Before Compact Storage, Photos: CD</unittitle>
+               <unitid>2017-ycba-0008_028</unitid>
+               <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                  <quantity>1</quantity>
+                  <unittype>CD-R</unittype>
+               </physdescstructured>
+               <container altrender="/repositories/3/top_containers/351451 /locations/3301"
+                          encodinganalog="Paige 15"
+                          id="aspace_9ac40bbd93095d23a0f84630674d61e8_c1"
+                          label="Mixed Materials"
+                          localtype="box">1356</container>
+            </did>
+         </c>
+      </dsc>
    </archdesc>
 </ead>

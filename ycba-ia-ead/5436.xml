@@ -36,7 +36,7 @@
                <p>Boxes: 016, 087-088, 119, 157, 201, 203A, 203B-204A, 204B, 271, 276-279, 294, 313-314, 357-360, 386, 393, 422-425, 433A, 433B, 464, 473-475, 641-642, 668, 670-680, 719, 727, 734-739, 751-755, 759-760, 817-826, 920, 924, 1310-1311, 1367, 1548, 1959-1961, 4041, 4117-4118</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: Drawer W, 095, 168B, 761-765, 946, 1233, 1245, 1255, 1259, 1511, 1969, 1974, 1978, 4021, 4100, 4115-4116, 4119-4120</p>
+               <p>Boxes: Drawer W, 095, 168B, 761-765, 946, 946, 1233, 1245, 1255, 1259, 1511, 1969, 1974, 1978, 4021, 4100, 4115-4116, 4119-4120</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -66,10 +66,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-11T18:00:44-05:00</eventdatetime>
+            <eventdatetime>2026-11-13T18:02:42-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -143,6 +143,113 @@
             <part localtype="agent_corporate_entity">Yale Center for British Art</part>
          </corpname>
       </controlaccess>
-      <dsc/>
+      <dsc>
+         <c altrender="/repositories/3/archival_objects/2159717"
+            id="aspace_2ddc968267b5b1438c9a2469d13d3f4a"
+            level="file">
+            <did>
+               <unittitle>Exhibitions and Publications: General CD-ROMs (Delany, Bower, Kohleen)</unittitle>
+               <unitdatestructured certainty="questionable" label="creation" unitdatetype="bulk">
+                  <daterange>
+                     <fromdate standarddate="2000">2000</fromdate>
+                     <todate standarddate="2010">2010</todate>
+                  </daterange>
+               </unitdatestructured>
+            </did>
+            <c altrender="/repositories/3/archival_objects/2736641"
+               id="aspace_1b29dbb8ea8c72f0e3dbac92710a7b07"
+               level="item">
+               <did>
+                  <unittitle>Exhibition and Publications: Delany Exhibition Worksheet and Images</unittitle>
+                  <unitid>2017-ycba-0008_017</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <unitdatestructured certainty="questionable" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2000">2000</datesingle>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/2736642"
+               id="aspace_24aa649d4ee571c4ad8f6c0f9f01f38f"
+               level="item">
+               <did>
+                  <unittitle>Exhibition and Publications: Exhibition Bower Images</unittitle>
+                  <unitid>2017-ycba-0008_018</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <unitdatestructured certainty="questionable" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2000">2000</datesingle>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/2736643"
+               id="aspace_a5454809d75a68f4b4a589691b12a2b4"
+               level="item">
+               <did>
+                  <unittitle>Exhibition and Publications: Exhibition Kohler Reader jpgs</unittitle>
+                  <unitid>2017-ycba-0008_019</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <unitdatestructured certainty="questionable" label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2000">2000</datesingle>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/2736639"
+               id="aspace_f754bcdbf2afdbd68116732885b8fd34"
+               level="item">
+               <did>
+                  <unittitle>Exhibition and Publications: Exhibition Mrs. Delany Images 11/06 Copy 1</unittitle>
+                  <unitid>2017-ycba-0008_015</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2006">2006</datesingle>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/2736644"
+               id="aspace_1b9ec6436b5ead131cd4936e3ba61442"
+               level="item">
+               <did>
+                  <unittitle>Exhibition and Publications: Exhibition Mrs. Delany Images 11/06 Copy 2</unittitle>
+                  <unitid>2017-ycba-0008_020</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <unitdatestructured label="creation" unitdatetype="inclusive">
+                     <datesingle standarddate="2006">2006</datesingle>
+                  </unitdatestructured>
+               </did>
+            </c>
+            <c altrender="/repositories/3/archival_objects/2736640"
+               id="aspace_424cc77f240d484fe31247dcbcebe5e5"
+               level="item">
+               <did>
+                  <unittitle>Mary Delany and her Circle (essays and their images) Peter Bower Delany Articles texts IX Images (CD-ROM)</unittitle>
+                  <unitid>2017-ycba-0008_016</unitid>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>1</quantity>
+                     <unittype>CD-R</unittype>
+                  </physdescstructured>
+                  <unitdatestructured certainty="questionable" label="creation" unitdatetype="bulk">
+                     <daterange>
+                        <fromdate standarddate="2009">2009</fromdate>
+                        <todate standarddate="2010">2010</todate>
+                     </daterange>
+                  </unitdatestructured>
+               </did>
+            </c>
+         </c>
+      </dsc>
    </archdesc>
 </ead>
