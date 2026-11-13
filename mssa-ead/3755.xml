@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="66">66</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="91">91</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-12T03:06:02-04:00</eventdatetime>
+            <eventdatetime>2026-11-13T03:08:29-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 12, 2026 at 03:06</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:08</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1657,6 +1657,35 @@
                                 id="aspace_ref60_c3"
                                 label="Mixed Materials"
                                 localtype="reel">2U</container>
+                     <daoset altrender="/repositories/12/digital_objects/368253">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33897589"
+                             identifier="oid:33897589"
+                             linktitle="11 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33897590/full/!150,150/0/default.jpg"
+                             identifier="oid:33897589"
+                             linktitle="11 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33897589"
+                             identifier="oid:33897589"
+                             linktitle="11 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Title: Conveyance. Description: "Conveyance and assignment of Albion Estate in the Parish of St. David in the Island of Jamaica with the cattle, stock, and effects thereon." Act made by Thomas and Caroline Henrietta Hibbert to James Porteous and James Carson. A map of the property is included.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_1861b74345981fe4d9b14c8c82175f53" localtype="UseSurrogate">
                      <head>Conditions Governing Access</head>
@@ -1689,6 +1718,35 @@
                                 id="aspace_ref61_c3"
                                 label="Mixed Materials"
                                 localtype="reel">2U</container>
+                     <daoset altrender="/repositories/12/digital_objects/368248">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33897601"
+                             identifier="oid:33897601"
+                             linktitle="2 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33897602/full/!150,150/0/default.jpg"
+                             identifier="oid:33897601"
+                             linktitle="2 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33897601"
+                             identifier="oid:33897601"
+                             linktitle="2 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Title: Confirmation. Description: William Morgan attests to the number of pages in the Albion Estate conveyance documents.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_b0461db52966b7c6974c3239c0c3c328" localtype="UseSurrogate">
                      <head>Conditions Governing Access</head>
@@ -2277,6 +2335,35 @@
                                 id="aspace_ref80_c3"
                                 label="Mixed Materials"
                                 localtype="reel">3U</container>
+                     <daoset altrender="/repositories/12/digital_objects/368257">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33897576"
+                             identifier="oid:33897576"
+                             linktitle="12 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33897577/full/!150,150/0/default.jpg"
+                             identifier="oid:33897576"
+                             linktitle="12 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33897576"
+                             identifier="oid:33897576"
+                             linktitle="12 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Title: Mortgage. Description: "Mortgage of the Albion Estate or sugar plantation in the Parish of S. Thomas Parish in the Island of Jamaica by way of collateral security for the sum of £6100 and interest at six per cent per annum, reducible to five per cent," by Mrs. Sarah Marriott Carson and Major James Carson to R. A.Wainewright. A reconveyance dated 1884 is attached to the mortgage.</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_cc8b068d4cc58868ddc1b0362c367f14" localtype="UseSurrogate">
                      <head>Conditions Governing Access</head>

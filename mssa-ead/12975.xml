@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-01-30T03:08:58-05:00</eventdatetime>
+            <eventdatetime>2026-11-13T03:05:56-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday January 30, 2026 at 03:08</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:05</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -225,6 +225,7 @@
                id="aspace_53130d55a28c3aa0aea083a2e69a638b"
                level="file">
                <did>
+                  <unittitle>1990</unittitle>
                   <unitdatestructured altrender="1990" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1990">1990</fromdate>
