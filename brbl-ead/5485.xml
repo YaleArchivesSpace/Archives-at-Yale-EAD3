@@ -43,6 +43,9 @@
             <controlnote localtype="onsite">
                <p>Boxes: LT-1, Box 45-49, 60, 70-71, 146-151, 163-164, 198, 336, 394-395, 421-422, 609, 662, 687-690, 695, 708, 719, 733-743, 745-746, 748, 751, 846-Box 854, 875, 888-889, 892-893, 895-896, 909-910, 1029, 1031-1032, 1043-1049, 1055-1060, 1069-1083</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="10">10</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-11T23:06:15-05:00</eventdatetime>
+            <eventdatetime>2026-11-12T23:01:19-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 23:06</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -79859,6 +79862,27 @@
                      <container id="aspace_84cb2409eb690e15a6ab1dabc36e6b13_c2"
                                 localtype="folder"
                                 parent="aspace_84cb2409eb690e15a6ab1dabc36e6b13_c1">1</container>
+                     <daoset altrender="/repositories/11/digital_objects/368254">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33897651"
+                             linktitle="10 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33897651"
+                             identifier="oid:33897651"
+                             linktitle="10 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Hartman, Peter</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/11/archival_objects/3929669"
