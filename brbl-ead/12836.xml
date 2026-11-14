@@ -64,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-08-20T23:05:06-04:00</eventdatetime>
+            <eventdatetime>2026-11-13T23:00:53-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday August 20, 2025 at 23:05</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -644,7 +644,11 @@
                id="aspace_6f8680506bfd68001851a554d56c2ea2"
                level="file">
                <did>
-                  <unittitle>[Photographic copy print of two men in 18th century dress]</unittitle>
+                  <unittitle>
+                     <title>
+                        <part>The two martyrs, Joseph &amp; Hyrum Smith. Murdered at Carthage, Ill. June 27th 1844</part>
+                     </title>
+                  </unittitle>
                   <unitdatestructured altrender="circa 1860-1880"
                                       label="creation"
                                       unitdatetype="inclusive">
@@ -687,7 +691,7 @@
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
-                        <p>[Photographic copy print of two men in 18th century dress]</p>
+                        <p>The two martyrs, Joseph &amp; Hyrum Smith. Murdered at Carthage, Ill. June 27th 1844</p>
                      </descriptivenote>
                   </daoset>
                </did>
