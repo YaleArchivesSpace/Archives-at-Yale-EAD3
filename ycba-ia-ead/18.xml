@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-04-28T18:01:45-04:00</eventdatetime>
+            <eventdatetime>2026-11-16T18:00:29-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday April 28, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2600,6 +2600,7 @@
 
 ;  12 x 9 cm. </physdesc>
                   <container altrender="/repositories/3/top_containers/1062"
+                             encodinganalog="Custom"
                              id="aspace_ref106_c1"
                              label="Mixed Materials"
                              localtype="volume">Reynolds 36</container>
@@ -2639,6 +2640,7 @@
 
 ;  23 x 21 cm. </physdesc>
                   <container altrender="/repositories/3/top_containers/1063"
+                             encodinganalog="DVCAM"
                              id="aspace_ref109_c1"
                              label="Mixed Materials"
                              localtype="volume">Reynolds 37</container>
@@ -2759,6 +2761,7 @@
 
 ;  21 x 17 cm. </physdesc>
                   <container altrender="/repositories/3/top_containers/1066"
+                             encodinganalog="Custom"
                              id="aspace_ref118_c1"
                              label="Mixed Materials"
                              localtype="volume">Reynolds 40</container>
@@ -3121,6 +3124,7 @@
 
 ;  25 x 21 cm. </physdesc>
                   <container altrender="/repositories/3/top_containers/1079"
+                             encodinganalog="flat box (10d 2h 8w) "
                              id="aspace_ref156_c1"
                              label="Mixed Materials"
                              localtype="volume">Reynolds 52</container>
