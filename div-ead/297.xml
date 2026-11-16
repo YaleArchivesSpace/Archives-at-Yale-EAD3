@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-14T18:00:35-05:00</eventdatetime>
+            <eventdatetime>2026-11-16T18:00:43-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday November 14, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -9879,6 +9879,27 @@
                                 label="Mixed Materials"
                                 localtype="box">57</container>
                      <container id="aspace_ref547_c2" localtype="folder" parent="aspace_ref547_c1">5</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4073392"
+                  id="aspace_0d8032316f3a6e1f6dadb051c3eaa6c5"
+                  level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdatestructured altrender="1915-1945" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1915">1915</fromdate>
+                           <todate standarddate="1945">1945</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/11793 /locations/2"
+                                containerid="39002131150477"
+                                id="aspace_0d8032316f3a6e1f6dadb051c3eaa6c5_c1"
+                                label="Mixed Materials"
+                                localtype="box">57</container>
+                     <container id="aspace_0d8032316f3a6e1f6dadb051c3eaa6c5_c2"
+                                localtype="folder"
+                                parent="aspace_0d8032316f3a6e1f6dadb051c3eaa6c5_c1">6</container>
                   </did>
                </c>
                <c altrender="/repositories/4/archival_objects/114937"

@@ -63,10 +63,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-08-14T18:01:45-04:00</eventdatetime>
+            <eventdatetime>2026-11-16T18:00:29-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday August 14, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 18:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -5878,12 +5878,11 @@
                         id="aspace_d06229807e312d980b48ed816cb1a626"
                         level="file">
                         <did>
-                           <unittitle>Typed transcripts of several letters</unittitle>
-                           <unitdatestructured label="creation" unitdatetype="inclusive">
-                              <daterange>
-                                 <fromdate standarddate="1778">1778</fromdate>
-                                 <todate standarddate="1812">1812</todate>
-                              </daterange>
+                           <unittitle>Copy of letter by Dr. Dwight regarding student (Mr. Nicoll) sent down from Yale College, by Edward Huntington (?)</unittitle>
+                           <unitdatestructured altrender="1813 January 2"
+                                               label="creation"
+                                               unitdatetype="inclusive">
+                              <datesingle standarddate="1813-01-02">1813 January 2</datesingle>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/391719 /locations/9"
                                       containerid="39002112324075"
@@ -5923,26 +5922,17 @@
                               </descriptivenote>
                            </daoset>
                         </did>
-                        <scopecontent id="aspace_378906f664ddbbad536d333a76875c7a">
-                           <head>Scope and Contents</head>
-                           <p>Transcripts include:
-George Washington to William Bradford, 1778 March 15;
-Timothy Dwight to Count Rumford, 1801 April 10;
-Timothy Dwight to Rufus King, 1801 April 10;
-Timothy Dwight to Count Rumford, 1801 April 20;
-Rufus King to Timothy Dwight, 1802 February 12;
-Timothy Dwight to Josiah Dunham, 1812 April 3</p>
-                        </scopecontent>
                      </c>
                      <c altrender="/repositories/4/archival_objects/3547254"
                         id="aspace_cb863c4eed5e8f725ae9753e35fe519d"
                         level="file">
                         <did>
-                           <unittitle>Copy of letter by Dr. Dwight regarding student (Mr. Nicoll) sent down from Yale College, by Edward Huntington (?)</unittitle>
-                           <unitdatestructured altrender="1813 January 2"
-                                               label="creation"
-                                               unitdatetype="inclusive">
-                              <datesingle standarddate="1813-01-02">1813 January 2</datesingle>
+                           <unittitle>Typed transcripts of several letters</unittitle>
+                           <unitdatestructured label="creation" unitdatetype="inclusive">
+                              <daterange>
+                                 <fromdate standarddate="1778">1778</fromdate>
+                                 <todate standarddate="1812">1812</todate>
+                              </daterange>
                            </unitdatestructured>
                            <container altrender="/repositories/4/top_containers/391719 /locations/9"
                                       containerid="39002112324075"
@@ -5982,6 +5972,16 @@ Timothy Dwight to Josiah Dunham, 1812 April 3</p>
                               </descriptivenote>
                            </daoset>
                         </did>
+                        <scopecontent id="aspace_1bc68cb24e0c9aeb8392813213489cf6">
+                           <head>Scope and Contents</head>
+                           <p>Transcripts include:
+George Washington to William Bradford, 1778 March 15;
+Timothy Dwight to Count Rumford, 1801 April 10;
+Timothy Dwight to Rufus King, 1801 April 10;
+Timothy Dwight to Count Rumford, 1801 April 20;
+Rufus King to Timothy Dwight, 1802 February 12;
+Timothy Dwight to Josiah Dunham, 1812 April 3</p>
+                        </scopecontent>
                      </c>
                   </c>
                </c>
