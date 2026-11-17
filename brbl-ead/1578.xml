@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-13T23:01:04-04:00</eventdatetime>
+            <eventdatetime>2026-11-16T23:00:34-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October 13, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 23:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -10853,7 +10853,12 @@
                         <quantity>1</quantity>
                         <unittype>Film Reel</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:43:27</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
+                     <materialspec id="aspace_7f2366067e954eebcfa5435f28153700">Color Print; Composite Optical Soundtrack; Variable Area Soundtrack; Acetate Base; Single Perforation; B-Wind; 24 FPS; Faded Color.</materialspec>
                      <container altrender="/repositories/11/top_containers/73976 /locations/9"
                                 containerid="39002098972095"
                                 id="aspace_e5352c9b4e002a49f8e64d45fecb958e_c1"
