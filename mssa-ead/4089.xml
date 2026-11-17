@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="150">150</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T03:09:01-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:11:47-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 03:09</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:11</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2077,6 +2080,27 @@
                              label="Mixed Materials"
                              localtype="box">8</container>
                   <container id="aspace_ref97_c2" localtype="folder" parent="aspace_ref97_c1">88</container>
+                  <daoset altrender="/repositories/12/digital_objects/368383">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33909523"
+                          linktitle="120 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33909523"
+                          identifier="oid:33909523"
+                          linktitle="120 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Forrestal, James V.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <odd id="aspace_f2b96ecd10b07daa7ab69f78b5e37b46">
                   <head>General</head>
@@ -5961,6 +5985,27 @@
                              label="Mixed Materials"
                              localtype="box">21</container>
                   <container id="aspace_ref272_c2" localtype="folder" parent="aspace_ref272_c1">279</container>
+                  <daoset altrender="/repositories/12/digital_objects/368366">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33909569"
+                          linktitle="30 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33909569"
+                          identifier="oid:33909569"
+                          linktitle="30 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Meyer, Eugene</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1294275"

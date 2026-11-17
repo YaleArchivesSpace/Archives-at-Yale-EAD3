@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="298">298</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T04:50:08-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:14:30-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 04:50</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:14</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -475,6 +478,27 @@
                              id="aspace_ref31_c1"
                              label="Mixed Materials"
                              localtype="box">7</container>
+                  <daoset altrender="/repositories/12/digital_objects/368421">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33914136"
+                          linktitle="298 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33914136"
+                          identifier="oid:33914136"
+                          linktitle="298 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Herbicide use in Vietnam, n.d.</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1218239"

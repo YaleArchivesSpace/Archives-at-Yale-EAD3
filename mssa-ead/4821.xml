@@ -38,7 +38,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="90">90</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="18">18</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="92">92</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="437">437</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T03:02:50-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:09:05-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 03:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:09</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -12846,6 +12846,35 @@
                      <container id="aspace_abfa027c49245dfb9b50532244b04d80_c2"
                                 localtype="folder"
                                 parent="aspace_abfa027c49245dfb9b50532244b04d80_c1">5</container>
+                     <daoset altrender="/repositories/12/digital_objects/368298">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33898166"
+                             identifier="oid:33898166"
+                             linktitle="184 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33898290/full/!150,150/0/default.jpg"
+                             identifier="oid:33898166"
+                             linktitle="184 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33898166"
+                             identifier="oid:33898166"
+                             linktitle="184 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Friedmann, Wolfgang</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/3164848"
@@ -15048,6 +15077,27 @@
                      <container id="aspace_4fd7f8a02b08b3dba09f4d35734aac0b_c2"
                                 localtype="folder"
                                 parent="aspace_4fd7f8a02b08b3dba09f4d35734aac0b_c1">1-2</container>
+                     <daoset altrender="/repositories/12/digital_objects/368340">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33903803"
+                             linktitle="235 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33903803"
+                             identifier="oid:33903803"
+                             linktitle="235 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>International Law Club 1958 and 1959</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/3164926"

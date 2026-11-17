@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T03:02:17-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:01:01-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 03:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -99002,6 +99002,10 @@ See: <ref actuate="onrequest" show="replace" target="ref1480">Pacific Islands an
                      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                         <quantity>1</quantity>
                         <unittype>Videocassette (VHS)</unittype>
+                     </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:56:21</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
                      </physdescstructured>
                      <unitdatestructured altrender="1993" label="creation" unitdatetype="inclusive">
                         <daterange>

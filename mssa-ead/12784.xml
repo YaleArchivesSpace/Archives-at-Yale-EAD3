@@ -36,7 +36,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="25">25</num> published digital objects.</p>
+               <p>This collection contains <num localtype="objects" altrender="27">27</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="788">788</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T03:05:52-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:17:08-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:17</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2221,6 +2221,35 @@ Box 13 (floppy disk): Restricted fragile material. Reference copies may be reque
                            <container id="aspace_af0ec2f89e85a0cc223df6e6b330eeaa_c2"
                                       localtype="folder"
                                       parent="aspace_af0ec2f89e85a0cc223df6e6b330eeaa_c1">6-10</container>
+                           <daoset altrender="/repositories/12/digital_objects/368439">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/manifests/33913061"
+                                   identifier="oid:33913061"
+                                   linktitle="754 images"
+                                   linkrole="text-json"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/iiif/2/33914370/full/!150,150/0/default.jpg"
+                                   identifier="oid:33913061"
+                                   linktitle="754 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33913061"
+                                   identifier="oid:33913061"
+                                   linktitle="754 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>PCH [Pamela Churchill Harriman, including two interviews with William "Bill" Walton]</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                         <scopecontent id="aspace_1da690b38f532e74b34f6c18f0e76383">
                            <head>Scope and Contents</head>
@@ -2835,6 +2864,35 @@ Box 13 (floppy disk): Restricted fragile material. Reference copies may be reque
                      <container id="aspace_87026f4ed382a41a286011eb7b47de85_c2"
                                 localtype="folder"
                                 parent="aspace_87026f4ed382a41a286011eb7b47de85_c1">6</container>
+                     <daoset altrender="/repositories/12/digital_objects/368397">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33913117"
+                             identifier="oid:33913117"
+                             linktitle="34 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33913208/full/!150,150/0/default.jpg"
+                             identifier="oid:33913117"
+                             linktitle="34 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33913117"
+                             identifier="oid:33913117"
+                             linktitle="34 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Cuba 1999</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/3987804"

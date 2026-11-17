@@ -35,6 +35,11 @@
             <date>July 2020</date>
             <num>MS 2117</num>
          </publicationstmt>
+         <notestmt>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="14">14</num> digital files.</p>
+            </controlnote>
+         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -62,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T03:05:49-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:11:45-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:11</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -590,6 +595,35 @@
                   <container id="aspace_a6ce95fabbca2b6caa51622c8599b183_c2"
                              localtype="folder"
                              parent="aspace_a6ce95fabbca2b6caa51622c8599b183_c1">15</container>
+                  <daoset altrender="/repositories/12/digital_objects/368379">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33911711"
+                          identifier="oid:33911711"
+                          linktitle="4 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33911726/full/!150,150/0/default.jpg"
+                          identifier="oid:33911711"
+                          linktitle="4 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33911711"
+                          identifier="oid:33911711"
+                          linktitle="4 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Notification of agreement regarding a plantation owner waiting to receive Asian workers to put under contract</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_cd1c641d76546adda49a57ef807d18d2">
                   <head>Scope and Contents</head>
@@ -638,6 +672,35 @@
                   <container id="aspace_794baa7f0c5f5a822beb96df844d2c6e_c2"
                              localtype="folder"
                              parent="aspace_794baa7f0c5f5a822beb96df844d2c6e_c1">17</container>
+                  <daoset altrender="/repositories/12/digital_objects/368378">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33911718"
+                          identifier="oid:33911718"
+                          linktitle="2 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33911730/full/!150,150/0/default.jpg"
+                          identifier="oid:33911718"
+                          linktitle="2 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33911718"
+                          identifier="oid:33911718"
+                          linktitle="2 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Letter indicating that the Asian workers have moved locations</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_8afd5579eb3a1cf3218c2dd9a0f398ca">
                   <head>Scope and Contents</head>
@@ -717,6 +780,35 @@
                <container id="aspace_c7c07bc1f5650f821a5d5d16a99404f2_c2"
                           localtype="folder"
                           parent="aspace_c7c07bc1f5650f821a5d5d16a99404f2_c1">20</container>
+               <daoset altrender="/repositories/12/digital_objects/368382">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/manifests/33911735"
+                       identifier="oid:33911735"
+                       linktitle="8 images"
+                       linkrole="text-json"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/iiif/2/33911771/full/!150,150/0/default.jpg"
+                       identifier="oid:33911735"
+                       linktitle="8 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33911735"
+                       identifier="oid:33911735"
+                       linktitle="8 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Manuscript stating that Asian laborers have been approved to work at Ceiba</p>
+                  </descriptivenote>
+               </daoset>
             </did>
             <scopecontent id="aspace_5ec58c83114647a5e76206ed8539b0d3">
                <head>Scope and Contents</head>

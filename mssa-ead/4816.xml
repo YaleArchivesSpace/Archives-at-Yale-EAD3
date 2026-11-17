@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="403">403</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="6">6</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="422">422</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T03:02:01-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:01:47-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 03:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2888,6 +2888,35 @@
                                    id="aspace_ec178e375cfdfa1e87c1de2f243f55bb_c1"
                                    label="Mixed Materials"
                                    localtype="box">3</container>
+                        <daoset altrender="/repositories/12/digital_objects/368287">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33897664"
+                                identifier="oid:33897664"
+                                linktitle="10 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33897666/full/!150,150/0/default.jpg"
+                                identifier="oid:33897664"
+                                linktitle="10 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33897664"
+                                identifier="oid:33897664"
+                                linktitle="10 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Drawings</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                </c>
@@ -5861,6 +5890,35 @@
                                    id="aspace_3b5f3437ebdbf2044c2fafa52b6830dc_c1"
                                    label="Mixed Materials"
                                    localtype="folder">73</container>
+                        <daoset altrender="/repositories/12/digital_objects/368286">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/manifests/33897665"
+                                identifier="oid:33897665"
+                                linktitle="9 images"
+                                linkrole="text-json"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/iiif/2/33897668/full/!150,150/0/default.jpg"
+                                identifier="oid:33897665"
+                                linktitle="9 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33897665"
+                                identifier="oid:33897665"
+                                linktitle="9 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>Drawings</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                   <c altrender="/repositories/12/archival_objects/2956085"

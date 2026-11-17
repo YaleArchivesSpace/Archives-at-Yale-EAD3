@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-03T03:00:37-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:00:38-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November  3, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -52074,12 +52074,17 @@ Debris in film gate. Black and white reversal.</materialspec>
                      <quantity>1</quantity>
                      <unittype>Film Reel (16mm)</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>00:19:08</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1984" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1984">1984</fromdate>
                         <todate standarddate="1984">1984</todate>
                      </daterange>
                   </unitdatestructured>
+                  <materialspec id="aspace_b74f3d9033f30e75131101c180501bda">Color reversal. Composite optical and varible area soundtrack. Acetate base. Single perforation, B-wind, 24 FBS. Tramlines.</materialspec>
                   <container altrender="/repositories/12/top_containers/126218 /locations/9"
                              containerid="39002063447594"
                              encodinganalog="film can (12d 1h 12w)"

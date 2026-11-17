@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="17">17</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="356">356</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="18">18</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="614">614</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T03:01:16-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:09:20-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:09</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -559,6 +559,35 @@
                              label="Mixed Materials"
                              localtype="box">2</container>
                   <container id="aspace_ref24_c2" localtype="folder" parent="aspace_ref24_c1">17 - 19</container>
+                  <daoset altrender="/repositories/12/digital_objects/368341">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33904113"
+                          identifier="oid:33904113"
+                          linktitle="258 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33904329/full/!150,150/0/default.jpg"
+                          identifier="oid:33904113"
+                          linktitle="258 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33904113"
+                          identifier="oid:33904113"
+                          linktitle="258 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Bullitt, Anne</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1296986"

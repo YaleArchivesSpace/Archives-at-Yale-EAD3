@@ -41,7 +41,7 @@
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="3">3</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="749">749</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="6">6</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="827">827</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T03:35:16-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:13:14-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 03:35</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:13</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3696,6 +3696,35 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref225_c2" localtype="folder" parent="aspace_ref225_c1">5</container>
+                     <daoset altrender="/repositories/12/digital_objects/368324">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33903396"
+                             identifier="oid:33903396"
+                             linktitle="4 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33903397/full/!150,150/0/default.jpg"
+                             identifier="oid:33903396"
+                             linktitle="4 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33903396"
+                             identifier="oid:33903396"
+                             linktitle="4 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Statement upon disbanding</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>
@@ -3976,6 +4005,35 @@
                                 label="Mixed Materials"
                                 localtype="box">1</container>
                      <container id="aspace_ref240_c2" localtype="folder" parent="aspace_ref240_c1">18</container>
+                     <daoset altrender="/repositories/12/digital_objects/368325">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33903406"
+                             identifier="oid:33903406"
+                             linktitle="66 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33903431/full/!150,150/0/default.jpg"
+                             identifier="oid:33903406"
+                             linktitle="66 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33903406"
+                             identifier="oid:33903406"
+                             linktitle="66 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>Disarmament action chronologies</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/1296055"
@@ -7036,6 +7094,27 @@
                              label="Mixed Materials"
                              localtype="box">1</container>
                   <container id="aspace_ref418_c2" localtype="folder" parent="aspace_ref418_c1">7</container>
+                  <daoset altrender="/repositories/12/digital_objects/368391">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33912398"
+                          linktitle="8 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33912398"
+                          identifier="oid:33912398"
+                          linktitle="8 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Responses by Electric Boat workers to protest handouts</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/1296227"

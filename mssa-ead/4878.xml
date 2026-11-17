@@ -38,7 +38,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object.</p>
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="30">30</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T03:02:40-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:09:30-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:09</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -63395,6 +63395,35 @@ Original audiovisual materials, as well as preservation and duplicating masters,
                      <container id="aspace_9bbf81c01f9796caef9803decfadea2b_c2"
                                 localtype="folder"
                                 parent="aspace_9bbf81c01f9796caef9803decfadea2b_c1">5</container>
+                     <daoset altrender="/repositories/12/digital_objects/368354">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/manifests/33906944"
+                             identifier="oid:33906944"
+                             linktitle="30 images"
+                             linkrole="text-json"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/iiif/2/33906988/full/!150,150/0/default.jpg"
+                             identifier="oid:33906944"
+                             linktitle="30 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33906944"
+                             identifier="oid:33906944"
+                             linktitle="30 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>The legal treatment of socio-prostitution</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
             </c>

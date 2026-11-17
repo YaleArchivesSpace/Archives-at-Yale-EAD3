@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-04T03:00:46-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:01:44-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November  4, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1421,12 +1421,17 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:44:04</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="1975 Spring" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1975-03-20">1975 March 20</fromdate>
                            <todate standarddate="1975-06-21">1975 June 21</todate>
                         </daterange>
                      </unitdatestructured>
+                     <materialspec id="aspace_0406f711c83828ff1b84f47e230e81bd">Audio distortion, hiss, and hum are present.</materialspec>
                      <container altrender="/repositories/12/top_containers/96518 /locations/9"
                                 containerid="39002088160172"
                                 encodinganalog="audiocassette case"
@@ -1495,12 +1500,17 @@
                         <quantity>1</quantity>
                         <unittype>Audiocassette</unittype>
                      </physdescstructured>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>00:46:13</quantity>
+                        <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="1975 Spring" label="creation" unitdatetype="inclusive">
                         <daterange>
                            <fromdate standarddate="1975-03-20">1975 March 20</fromdate>
                            <todate standarddate="1975-06-21">1975 June 21</todate>
                         </daterange>
                      </unitdatestructured>
+                     <materialspec id="aspace_d9242202eb06ec88addb44467e4437c9">Audio hiss, hum, and distortion are present.</materialspec>
                      <container altrender="/repositories/12/top_containers/96521 /locations/9"
                                 containerid="39002088160206"
                                 encodinganalog="audiocassette case"

@@ -37,7 +37,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="118">118</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="450">450</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -70,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T03:05:16-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:14:00-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:14</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -29351,6 +29351,35 @@ Gift of Norma Thompson, 2023.</p>
                   <container id="aspace_85bf0bbb6cc836a5d7e7c9eb84031fbb_c2"
                              localtype="folder"
                              parent="aspace_85bf0bbb6cc836a5d7e7c9eb84031fbb_c1">3</container>
+                  <daoset altrender="/repositories/12/digital_objects/368409">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33910672"
+                          identifier="oid:33910672"
+                          linktitle="332 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33911405/full/!150,150/0/default.jpg"
+                          identifier="oid:33910672"
+                          linktitle="332 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33910672"
+                          identifier="oid:33910672"
+                          linktitle="332 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>1986 April 14–1986 May 12</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2756267"

@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="160">160</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T03:08:14-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:11:06-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 03:08</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:11</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -40858,6 +40861,27 @@ See also: <ref actuate="onrequest" show="replace" target="ref1744">box 85, folde
                         <container id="aspace_ref2028_c2"
                                    localtype="folder"
                                    parent="aspace_ref2028_c1">108</container>
+                        <daoset altrender="/repositories/12/digital_objects/368372">
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                                identifier="oid:33908102"
+                                linktitle="160 images"
+                                linkrole="image-thumbnail"
+                                show="embed"/>
+                           <dao actuate="onrequest"
+                                audience="external"
+                                daotype="unknown"
+                                href="https://collections.library.yale.edu/catalog/33908102"
+                                identifier="oid:33908102"
+                                linktitle="160 images"
+                                linkrole="text-html"
+                                show="new"/>
+                           <descriptivenote>
+                              <p>The Significance of Tissue Culture in Modern Virus Research</p>
+                           </descriptivenote>
+                        </daoset>
                      </did>
                   </c>
                </c>

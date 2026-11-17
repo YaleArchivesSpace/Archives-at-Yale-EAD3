@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="5">5</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="570">570</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T04:25:08-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:14:21-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 04:25</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:14</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1512,6 +1515,27 @@
                   <container id="aspace_72b4224a373739e6a42a7e1cc7ab7b82_c2"
                              localtype="folder"
                              parent="aspace_72b4224a373739e6a42a7e1cc7ab7b82_c1">10</container>
+                  <daoset altrender="/repositories/12/digital_objects/368413">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33912789"
+                          linktitle="194 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33912789"
+                          identifier="oid:33912789"
+                          linktitle="194 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Inventories</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2696728"
@@ -1735,6 +1759,27 @@
                   <container id="aspace_3c96731c75905ff91fa429ab7e08b170_c2"
                              localtype="folder"
                              parent="aspace_3c96731c75905ff91fa429ab7e08b170_c1">20</container>
+                  <daoset altrender="/repositories/12/digital_objects/368402">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33913057"
+                          linktitle="112 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33913057"
+                          identifier="oid:33913057"
+                          linktitle="112 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Materials regarding exhibition</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2697971"
@@ -2305,6 +2350,27 @@
                   <container id="aspace_853abbacee34a92e4efa077d3b650f3b_c2"
                              localtype="folder"
                              parent="aspace_853abbacee34a92e4efa077d3b650f3b_c1">11</container>
+                  <daoset altrender="/repositories/12/digital_objects/368396">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33913090"
+                          linktitle="16 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33913090"
+                          identifier="oid:33913090"
+                          linktitle="16 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>New School Associates exhibition</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2719319"
@@ -4569,6 +4635,27 @@
                   <container id="aspace_9097a45a0f1aec522fbe45941e0c1919_c2"
                              localtype="folder"
                              parent="aspace_9097a45a0f1aec522fbe45941e0c1919_c1">16</container>
+                  <daoset altrender="/repositories/12/digital_objects/368414">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33913549"
+                          linktitle="182 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33913549"
+                          identifier="oid:33913549"
+                          linktitle="182 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>New School for Social Research</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2698108"
@@ -5799,6 +5886,27 @@
                   <container id="aspace_251531e92ab7edfff7021b0f0b098b4c_c2"
                              localtype="folder"
                              parent="aspace_251531e92ab7edfff7021b0f0b098b4c_c1">5</container>
+                  <daoset altrender="/repositories/12/digital_objects/368406">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                          identifier="oid:33913691"
+                          linktitle="66 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33913691"
+                          identifier="oid:33913691"
+                          linktitle="66 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Allenby, Edward T., Hilton, and Herb Aach</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/12/archival_objects/2698532"

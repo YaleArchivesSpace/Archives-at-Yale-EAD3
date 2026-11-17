@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1266">1,266</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T03:02:06-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:17:12-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:17</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -41273,6 +41276,27 @@ http://web.library.yale.edu/mssa/collections/research-use-of-yale-university-arc
                      <container id="aspace_ref1987_c2"
                                 localtype="folder"
                                 parent="aspace_ref1987_c1">76-77</container>
+                     <daoset altrender="/repositories/12/digital_objects/368441">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33916185"
+                             linktitle="546 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33916185"
+                             identifier="oid:33916185"
+                             linktitle="546 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>National Commission on the Protection of Human Subjects</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/2015541"
@@ -42641,6 +42665,27 @@ http://web.library.yale.edu/mssa/collections/research-use-of-yale-university-arc
                      <container id="aspace_ref2048_c2"
                                 localtype="folder"
                                 parent="aspace_ref2048_c1">195-206</container>
+                     <daoset altrender="/repositories/12/digital_objects/368443">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                             identifier="oid:33916577"
+                             linktitle="720 images"
+                             linkrole="image-thumbnail"
+                             show="embed"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://collections.library.yale.edu/catalog/33916577"
+                             identifier="oid:33916577"
+                             linktitle="720 images"
+                             linkrole="text-html"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>National Commission on the Protection of Human Subjects of Biomedical and Behavioral Research</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                </c>
                <c altrender="/repositories/12/archival_objects/2015613"

@@ -35,6 +35,11 @@
             <date>September 2015</date>
             <num>MS 2027</num>
          </publicationstmt>
+         <notestmt>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="92">92</num> digital files.</p>
+            </controlnote>
+         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -65,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T03:05:01-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T03:15:11-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 03:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:15</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -163,6 +168,27 @@
                <container id="aspace_98558baf64903e30414322b7e1c326a8_c2"
                           localtype="folder"
                           parent="aspace_98558baf64903e30414322b7e1c326a8_c1">1</container>
+               <daoset altrender="/repositories/12/digital_objects/368433">
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/images/placeholder_restricted.png"
+                       identifier="oid:33917366"
+                       linktitle="92 images"
+                       linkrole="image-thumbnail"
+                       show="embed"/>
+                  <dao actuate="onrequest"
+                       audience="external"
+                       daotype="unknown"
+                       href="https://collections.library.yale.edu/catalog/33917366"
+                       identifier="oid:33917366"
+                       linktitle="92 images"
+                       linkrole="text-html"
+                       show="new"/>
+                  <descriptivenote>
+                     <p>Newspaper clippings, advertisements, and other documents</p>
+                  </descriptivenote>
+               </daoset>
             </did>
          </c>
          <c altrender="/repositories/12/archival_objects/2113269"
