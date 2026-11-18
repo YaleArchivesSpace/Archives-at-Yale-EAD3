@@ -38,7 +38,6 @@
          <notestmt>
             <controlnote localtype="onsite">
                <p>Volume: 1</p>
-               <p>Boxes: [40]-[50a], [50b]-[56a], [56b]-[98]</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,10 +70,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-16T18:00:35-05:00</eventdatetime>
+            <eventdatetime>2026-11-18T18:00:29-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 18, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2136,10 +2135,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_d7464f206b0feaa304ac436faf281258"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/963"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref133_c1"
                           label="Mixed Materials"
-                          localtype="box">[40]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref133_c2" localtype="item" parent="aspace_ref133_c1">40</container>
             </did>
             <scopecontent id="aspace_0f351d0f943c4e62be37bd25b1f2b9ca">
                <head>Scope and Contents</head>
@@ -2176,10 +2177,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_d2d513b2d82d9d687838f07c587645e2"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  15 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/964"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref136_c1"
                           label="Mixed Materials"
-                          localtype="box">[41]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref136_c2" localtype="item" parent="aspace_ref136_c1">41</container>
             </did>
             <scopecontent id="aspace_ab31be791f40ae1182647209befd34a5">
                <head>Scope and Contents</head>
@@ -2218,10 +2221,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_1a0c37a8bfb456ae8be9761138e3d580"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/965"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref139_c1"
                           label="Mixed Materials"
-                          localtype="box">[42]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref139_c2" localtype="item" parent="aspace_ref139_c1">42</container>
             </did>
             <scopecontent id="aspace_de96e2e98540af308b082aab8b4143d5">
                <head>Scope and Contents</head>
@@ -2260,10 +2265,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_4e06793dddbc2d5f5aa1ab1f4fdfe1df"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  26 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/966"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref142_c1"
                           label="Mixed Materials"
-                          localtype="box">[43]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref142_c2" localtype="item" parent="aspace_ref142_c1">43</container>
             </did>
             <scopecontent id="aspace_0cc74cef8630535f251e8a681ed891ab">
                <head>Scope and Contents</head>
@@ -2302,10 +2309,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_433d0944f2c0e7609ce48757edb7b3a9"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/967"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref145_c1"
                           label="Mixed Materials"
-                          localtype="box">[44]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref145_c2" localtype="item" parent="aspace_ref145_c1">44</container>
             </did>
             <scopecontent id="aspace_f8dc15f1eeb34b20b6a60e057b39d494">
                <head>Scope and Contents</head>
@@ -2346,10 +2355,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_6e797a3db5edf181b93be483f1f10fd1"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  26 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/968"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref148_c1"
                           label="Mixed Materials"
-                          localtype="box">[45]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref148_c2" localtype="item" parent="aspace_ref148_c1">45</container>
             </did>
             <scopecontent id="aspace_12cb703d7d05e887a00e3df6bd6c7708">
                <head>Scope and Contents</head>
@@ -2393,10 +2404,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_90e02082b5fedf97855a59b3a0a1918f"> 3 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/969"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref151_c1"
                           label="Mixed Materials"
-                          localtype="box">[46]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref151_c2" localtype="item" parent="aspace_ref151_c1">46</container>
             </did>
             <scopecontent id="aspace_5a70ea0d1047d0bf4f0331b5720cf4b0">
                <head>Scope and Contents</head>
@@ -2437,10 +2450,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_f5e35257e9c081159b868eafd4ea981d"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/970"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref154_c1"
                           label="Mixed Materials"
-                          localtype="box">[47]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref154_c2" localtype="item" parent="aspace_ref154_c1">47</container>
             </did>
             <scopecontent id="aspace_e9dd1f93e717ae154f77f2451276543d">
                <head>Scope and Contents</head>
@@ -2482,10 +2497,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_bf324d2721e36498ef1d9e6951b29841"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/971"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref157_c1"
                           label="Mixed Materials"
-                          localtype="box">[48]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref157_c2" localtype="item" parent="aspace_ref157_c1">48</container>
             </did>
             <scopecontent id="aspace_7113dcc2fc699dfd28cc020b18d05505">
                <head>Scope and Contents</head>
@@ -2527,10 +2544,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_a5835d15644afadabeec2d8760737f02"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/972"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref160_c1"
                           label="Mixed Materials"
-                          localtype="box">[49]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref160_c2" localtype="item" parent="aspace_ref160_c1">49</container>
             </did>
             <scopecontent id="aspace_b96ba65bb4e4f92c5a0a63739f28ab5b">
                <head>Scope and Contents</head>
@@ -2576,10 +2595,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_350813a522eb35ee93398cd74b30710f"> 3 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/973"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref163_c1"
                           label="Mixed Materials"
-                          localtype="box">[50a]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref163_c2" localtype="item" parent="aspace_ref163_c1">50a</container>
             </did>
             <scopecontent id="aspace_2259e912d8fd9cb9a6cd37d1e88a52db">
                <head>Scope and Contents</head>
@@ -2620,10 +2641,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_434b2ce16ac7b3b9b24c2b14c0ecaa9f"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/974"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref179_c1"
                           label="Mixed Materials"
-                          localtype="box">[50b]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref179_c2" localtype="item" parent="aspace_ref179_c1">50b</container>
             </did>
             <scopecontent id="aspace_6a9c8c93e36a29c465381793542de796">
                <head>Scope and Contents</head>
@@ -2664,10 +2687,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_10c36d6d7d939350e622358c02e1295b"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/975"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref166_c1"
                           label="Mixed Materials"
-                          localtype="box">[51]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref166_c2" localtype="item" parent="aspace_ref166_c1">51</container>
             </did>
             <scopecontent id="aspace_e59c2ca5f8d49af2d69fe6bfd4e4d652">
                <head>Scope and Contents</head>
@@ -2708,10 +2733,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_f42d65a0a6699051d28b001acd31b1c8"> 4 pages (4 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/976"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref169_c1"
                           label="Mixed Materials"
-                          localtype="box">[52]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref169_c2" localtype="item" parent="aspace_ref169_c1">52</container>
             </did>
             <scopecontent id="aspace_10770dbe871b0f20265512d2890eaf9e">
                <head>Scope and Contents</head>
@@ -2752,10 +2779,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_488c9bc2ae674adabeb734526d0ef1c0"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/977"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref172_c1"
                           label="Mixed Materials"
-                          localtype="box">[53]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref172_c2" localtype="item" parent="aspace_ref172_c1">53</container>
             </did>
             <scopecontent id="aspace_c1021f52f84ae364da8755a01520e910">
                <head>Scope and Contents</head>
@@ -2794,10 +2823,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_328b0e95c47a992563a0a98c78a28ee8"> 2 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/978"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref175_c1"
                           label="Mixed Materials"
-                          localtype="box">[54]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref175_c2" localtype="item" parent="aspace_ref175_c1">54</container>
             </did>
             <scopecontent id="aspace_6f5d028e2569477c255a27e87bd5feb9">
                <head>Scope and Contents</head>
@@ -2836,10 +2867,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_424369f8ff87a65f35d1f86bb67ffb9c"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/979"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref178_c1"
                           label="Mixed Materials"
-                          localtype="box">[55]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref178_c2" localtype="item" parent="aspace_ref178_c1">55</container>
             </did>
             <scopecontent id="aspace_2e4edfde4b8a7aaf4f76e12ed8b3468a">
                <head>Scope and Contents</head>
@@ -2878,10 +2911,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_96b3909a22cb89b361f6c4519f3ea0b9"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/980"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref184_c1"
                           label="Mixed Materials"
-                          localtype="box">[56a]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref184_c2" localtype="item" parent="aspace_ref184_c1">56a</container>
             </did>
             <scopecontent id="aspace_1700d9399f004b23bb47c344edcfeabe">
                <head>Scope and Contents</head>
@@ -2920,10 +2955,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_bf993faf02cfa3329c6629e7c4344895"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/981"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref187_c1"
                           label="Mixed Materials"
-                          localtype="box">[56b]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref187_c2" localtype="item" parent="aspace_ref187_c1">56b</container>
             </did>
             <scopecontent id="aspace_589285f8e2050cc19a85f2e36493b019">
                <head>Scope and Contents</head>
@@ -2962,10 +2999,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_4185bb0ca5d042f75d332f420dd2da06"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/982"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref190_c1"
                           label="Mixed Materials"
-                          localtype="box">[57]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref190_c2" localtype="item" parent="aspace_ref190_c1">57</container>
             </did>
             <scopecontent id="aspace_851a2f9e9958fba7e0ece17855de88b1">
                <head>Scope and Contents</head>
@@ -3004,10 +3043,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_573dbb2ea24eaaea2dfc2463b5a4466b"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/983"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref193_c1"
                           label="Mixed Materials"
-                          localtype="box">[58]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref193_c2" localtype="item" parent="aspace_ref193_c1">58</container>
             </did>
             <scopecontent id="aspace_649963eddcd263e13f55acda535bb0a2">
                <head>Scope and Contents</head>
@@ -3048,10 +3089,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_1f7d34130e135d5beaf7d0663bd3c216"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/984"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref196_c1"
                           label="Mixed Materials"
-                          localtype="box">[59]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref196_c2" localtype="item" parent="aspace_ref196_c1">59</container>
             </did>
             <scopecontent id="aspace_65090a209f63418e8044dd2038f0d0cf">
                <head>Scope and Contents</head>
@@ -3090,10 +3133,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_cca4c2ca16faf728660eaabfd68b4830"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/985"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref199_c1"
                           label="Mixed Materials"
-                          localtype="box">[60]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref199_c2" localtype="item" parent="aspace_ref199_c1">60</container>
             </did>
             <scopecontent id="aspace_d3fed2a8963419447d9253ca112a7c16">
                <head>Scope and Contents</head>
@@ -3132,10 +3177,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_86dea36fba3e489434640e4207d32204"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/986"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref202_c1"
                           label="Mixed Materials"
-                          localtype="box">[61]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref202_c2" localtype="item" parent="aspace_ref202_c1">61</container>
             </did>
             <scopecontent id="aspace_7136396def0695b8a8c99b1c74a5b180">
                <head>Scope and Contents</head>
@@ -3174,10 +3221,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_eb5e45e66d98b8b000abd5c11445662d"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/987"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref205_c1"
                           label="Mixed Materials"
-                          localtype="box">[62]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref205_c2" localtype="item" parent="aspace_ref205_c1">62</container>
             </did>
             <scopecontent id="aspace_b9cd0d221dccc27c3b8229367bbd1ac9">
                <head>Scope and Contents</head>
@@ -3213,10 +3262,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_c0a11db1680dc709042b2c8bb7b44c12"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/988"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref208_c1"
                           label="Mixed Materials"
-                          localtype="box">[63]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref208_c2" localtype="item" parent="aspace_ref208_c1">63</container>
             </did>
             <scopecontent id="aspace_a80f83d5451c91ffa7c4750028ee069f">
                <head>Scope and Contents</head>
@@ -3252,10 +3303,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_3c063ce9dc8e9580450b62a42f02738a"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/989"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref211_c1"
                           label="Mixed Materials"
-                          localtype="box">[64]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref211_c2" localtype="item" parent="aspace_ref211_c1">64</container>
             </did>
             <scopecontent id="aspace_b61c2e9d86bb56cb197b0cebd5e744b8">
                <head>Scope and Contents</head>
@@ -3291,10 +3344,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_ab71d99cf9f6f53224c51eedabbb65f2"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  25 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/990"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref214_c1"
                           label="Mixed Materials"
-                          localtype="box">[65]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref214_c2" localtype="item" parent="aspace_ref214_c1">65</container>
             </did>
             <scopecontent id="aspace_32a4da3ba08816ab94321de0881b62f6">
                <head>Scope and Contents</head>
@@ -3330,10 +3385,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_c40f4f58642e1ee91f642ba193b0beeb"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/991"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref217_c1"
                           label="Mixed Materials"
-                          localtype="box">[66]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref217_c2" localtype="item" parent="aspace_ref217_c1">66</container>
             </did>
             <scopecontent id="aspace_02622b4b2de32d13a7e7a11577556ca0">
                <head>Scope and Contents</head>
@@ -3369,10 +3426,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_ebaf22e4e77a3fe0667992c5b4545995"> 3 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/992"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref220_c1"
                           label="Mixed Materials"
-                          localtype="box">[67]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref220_c2" localtype="item" parent="aspace_ref220_c1">67</container>
             </did>
             <scopecontent id="aspace_5c94019488125c9aff7adaefc129305c">
                <head>Scope and Contents</head>
@@ -3414,10 +3473,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_4a3375e8aa533d58cec244527d4421d8"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  25 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/993"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref223_c1"
                           label="Mixed Materials"
-                          localtype="box">[68]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref223_c2" localtype="item" parent="aspace_ref223_c1">68</container>
             </did>
             <scopecontent id="aspace_50bd2e774bf0bb8a21f223e1f4722271">
                <head>Scope and Contents</head>
@@ -3456,10 +3517,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_c04289e8eb6287bad2a46aa6cc0d5f4f"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/994"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref226_c1"
                           label="Mixed Materials"
-                          localtype="box">[69]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref226_c2" localtype="item" parent="aspace_ref226_c1">69</container>
             </did>
             <scopecontent id="aspace_89fb57f80af8fd208d3aeda068434ff1">
                <head>Scope and Contents</head>
@@ -3497,10 +3560,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_494b9b496a248b19100402fe8dc36ee5"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/995"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref229_c1"
                           label="Mixed Materials"
-                          localtype="box">[70]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref229_c2" localtype="item" parent="aspace_ref229_c1">70</container>
             </did>
             <scopecontent id="aspace_2eb3ce5f696d3c82ef4a189feb779e0b">
                <head>Scope and Contents</head>
@@ -3542,10 +3607,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_4b723f8dbf4df07be7b9bacbca5be17e"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/996"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref232_c1"
                           label="Mixed Materials"
-                          localtype="box">[71]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref232_c2" localtype="item" parent="aspace_ref232_c1">71</container>
             </did>
             <scopecontent id="aspace_e5918612e912f28ab9db8c8c38c9e4e7">
                <head>Scope and Contents</head>
@@ -3586,10 +3653,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_706760cd9f186c3968d58445f64a068a"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/997"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref235_c1"
                           label="Mixed Materials"
-                          localtype="box">[72]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref235_c2" localtype="item" parent="aspace_ref235_c1">72</container>
             </did>
             <scopecontent id="aspace_2003367695ac31be67ede48311fff904">
                <head>Scope and Contents</head>
@@ -3625,10 +3694,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_40fc25a672ed1501ad400d67c781079d"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/998"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref238_c1"
                           label="Mixed Materials"
-                          localtype="box">[73]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref238_c2" localtype="item" parent="aspace_ref238_c1">73</container>
             </did>
             <scopecontent id="aspace_31b5b1e9d6e660facabc25bde08f4c55">
                <head>Scope and Contents</head>
@@ -3666,10 +3737,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_4bf2128a5e5b7b5f1e7c1c2847d59318"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/999"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref241_c1"
                           label="Mixed Materials"
-                          localtype="box">[74]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref241_c2" localtype="item" parent="aspace_ref241_c1">74</container>
             </did>
             <scopecontent id="aspace_131fa635c68e52317a1a3e62103f4496">
                <head>Scope and Contents</head>
@@ -3707,10 +3780,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_2ed4ceef2fcfe0cf1a1f0d6db00921f1"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 18 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1000"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref244_c1"
                           label="Mixed Materials"
-                          localtype="box">[75]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref244_c2" localtype="item" parent="aspace_ref244_c1">75</container>
             </did>
             <scopecontent id="aspace_4e0dd69f7ec1ecd3df39acd6516bc538">
                <head>Scope and Contents</head>
@@ -3746,10 +3821,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_abe56e3e91fefeb596a7f2d2296a7c79"> 3 pages (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1001"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref247_c1"
                           label="Mixed Materials"
-                          localtype="box">[76]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref247_c2" localtype="item" parent="aspace_ref247_c1">76</container>
             </did>
             <scopecontent id="aspace_b5c39632821385a5f78db82f0da2c9ec">
                <head>Scope and Contents</head>
@@ -3790,10 +3867,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_3230e87b5357e670c5fac1b2d14260df"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  22 x 18 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1002"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref250_c1"
                           label="Mixed Materials"
-                          localtype="box">[77]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref250_c2" localtype="item" parent="aspace_ref250_c1">77</container>
             </did>
             <scopecontent id="aspace_81e9adc20ed874b48c99d74ac6571c97">
                <head>Scope and Contents</head>
@@ -3834,10 +3913,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_51354ca063e1e0fbb4cf6e29dfe94a58"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1003"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref253_c1"
                           label="Mixed Materials"
-                          localtype="box">[78]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref253_c2" localtype="item" parent="aspace_ref253_c1">78</container>
             </did>
             <scopecontent id="aspace_bb90433cad186dea677e82972f1d5b65">
                <head>Scope and Contents</head>
@@ -3875,10 +3956,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_84e4099ee39cccce2217c05bbf33faa7"> 1 page (2 leaves) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1004"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref256_c1"
                           label="Mixed Materials"
-                          localtype="box">[79]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref256_c2" localtype="item" parent="aspace_ref256_c1">79</container>
             </did>
             <scopecontent id="aspace_9c965e6a6dd82b2f27e909625b52b7f0">
                <head>Scope and Contents</head>
@@ -3919,10 +4002,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_c1ac08bea88ae570ea3a9cd627783164"> 4 pages (2 leaves) 
 :  autograph letter, signed 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1005"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref259_c1"
                           label="Mixed Materials"
-                          localtype="box">[80]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref259_c2" localtype="item" parent="aspace_ref259_c1">80</container>
             </did>
             <scopecontent id="aspace_3cf3adfc600d8ddd779b8011b7be70a3">
                <head>Scope and Contents</head>
@@ -3963,10 +4048,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_f322ce091a101b57ff497a72a0b56f0f"> 1 page (1 leaf) 
 :  autograph letter 
 ;  19 x 12 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1006"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref262_c1"
                           label="Mixed Materials"
-                          localtype="box">[81]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref262_c2" localtype="item" parent="aspace_ref262_c1">81</container>
             </did>
             <scopecontent id="aspace_12eed0b1c774b6927130c9148733dcfe">
                <head>Scope and Contents</head>
@@ -4003,10 +4090,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_e409d1d3724401c957f273192f6e00b0"> 3 pages (2 leaves) 
 :  autograph letter 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1007"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref265_c1"
                           label="Mixed Materials"
-                          localtype="box">[82]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref265_c2" localtype="item" parent="aspace_ref265_c1">82</container>
             </did>
             <scopecontent id="aspace_9fa4138d1e937b7f5a5ee7ae778ca328">
                <head>Scope and Contents</head>
@@ -4042,10 +4131,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_17aa5be0116d9bf87a68775d214e9594"> 1 page (1 leaf) 
 :  autograph letter 
 ;  17 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1008"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref268_c1"
                           label="Mixed Materials"
-                          localtype="box">[83]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref268_c2" localtype="item" parent="aspace_ref268_c1">83</container>
             </did>
             <scopecontent id="aspace_36cb66cd6aecdba8fb849918b8b5d0c6">
                <head>Scope and Contents</head>
@@ -4079,10 +4170,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_5bd22e6c357350eed9205e8ca39ae286"> 1 page (1 leaf) 
 :  autograph letter 
 ;  19 x 12 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1009"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref271_c1"
                           label="Mixed Materials"
-                          localtype="box">[84]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref271_c2" localtype="item" parent="aspace_ref271_c1">84</container>
             </did>
             <scopecontent id="aspace_81c3c73a0f6c1bb165212b04facd4c26">
                <head>Scope and Contents</head>
@@ -4121,10 +4214,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_0d15c3e1e133eb951023ecd0acda2d14"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1010"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref274_c1"
                           label="Mixed Materials"
-                          localtype="box">[85]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref274_c2" localtype="item" parent="aspace_ref274_c1">85</container>
             </did>
             <scopecontent id="aspace_dad7ed3b04e77fb48a52ba4a30d1028c">
                <head>Scope and Contents</head>
@@ -4158,10 +4253,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_747ab8be3160305e5c9cebf8af4248b7"> 2 pages (1 leaf) 
 :  autograph letter, signed 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1011"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref277_c1"
                           label="Mixed Materials"
-                          localtype="box">[86]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref277_c2" localtype="item" parent="aspace_ref277_c1">86</container>
             </did>
             <scopecontent id="aspace_8230313a7ff5efc01ba42fd38c386003">
                <head>Scope and Contents</head>
@@ -4195,10 +4292,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_04398172ab582c42075e16d0b0c8ef0e"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1012"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref280_c1"
                           label="Mixed Materials"
-                          localtype="box">[87]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref280_c2" localtype="item" parent="aspace_ref280_c1">87</container>
             </did>
             <scopecontent id="aspace_7c1f4d9df745d92def95109f29c01195">
                <head>Scope and Contents</head>
@@ -4232,10 +4331,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_077147a609a048c3a4883c67c568bca4"> 1 page (1 leaf) 
 :  autograph letter 
 ;  17 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1013"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref283_c1"
                           label="Mixed Materials"
-                          localtype="box">[88]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref283_c2" localtype="item" parent="aspace_ref283_c1">88</container>
             </did>
             <scopecontent id="aspace_ba786b74c16192096879821c34e02cb2">
                <head>Scope and Contents</head>
@@ -4269,10 +4370,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_31889c7f25e602cd9a4cc0f20b9d4f3c"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  12 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1014"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref286_c1"
                           label="Mixed Materials"
-                          localtype="box">[89]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref286_c2" localtype="item" parent="aspace_ref286_c1">89</container>
             </did>
             <scopecontent id="aspace_22a87a8d44ba9bde5c78fe44f1611088">
                <head>Scope and Contents</head>
@@ -4306,10 +4409,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_d71c443888f4ece772ed12ecd17f572b"> 1 page (1 leaf) 
 :  autograph letter 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1015"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref289_c1"
                           label="Mixed Materials"
-                          localtype="box">[90]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref289_c2" localtype="item" parent="aspace_ref289_c1">90</container>
             </did>
             <scopecontent id="aspace_05a2db6d85e6fcbb639f951290cc4f9f">
                <head>Scope and Contents</head>
@@ -4349,10 +4454,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_f80f7ab1fb90b0975d88efc26ba83b35"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  12 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1016"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref292_c1"
                           label="Mixed Materials"
-                          localtype="box">[91]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref292_c2" localtype="item" parent="aspace_ref292_c1">91</container>
             </did>
             <scopecontent id="aspace_d2b781dc7467530e90a287aefb7db724">
                <head>Scope and Contents</head>
@@ -4386,10 +4493,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_26bc9ed23374538a669368dbf61305ea"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  26 x 20 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1017"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref295_c1"
                           label="Mixed Materials"
-                          localtype="box">[92]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref295_c2" localtype="item" parent="aspace_ref295_c1">92</container>
             </did>
             <scopecontent id="aspace_c0e92aa4e47281ce0521b09d157d0110">
                <head>Scope and Contents</head>
@@ -4423,10 +4532,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_c5f95fd5e7270f221aca5d95e8080ee3"> 2 pages (2 leaves) 
 :  autograph letter 
 ;  21 x 16 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1018"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref298_c1"
                           label="Mixed Materials"
-                          localtype="box">[93]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref298_c2" localtype="item" parent="aspace_ref298_c1">93</container>
             </did>
             <scopecontent id="aspace_7773c9001f876131b0c8dc3a60800dcc">
                <head>Scope and Contents</head>
@@ -4460,10 +4571,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_c783cc4d79586cb15fc10bbbe7f6b24e"> 1 page (1 leaf) 
 :  autograph letter 
 ;  24 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1019"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref301_c1"
                           label="Mixed Materials"
-                          localtype="box">[94]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref301_c2" localtype="item" parent="aspace_ref301_c1">94</container>
             </did>
             <scopecontent id="aspace_ab5f1218497721b5d4c308ecba9f10aa">
                <head>Scope and Contents</head>
@@ -4499,10 +4612,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_dae7c49a246dc202c879b4e7561d92dd"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1020"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref306_c1"
                           label="Mixed Materials"
-                          localtype="box">[95]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref306_c2" localtype="item" parent="aspace_ref306_c1">95</container>
             </did>
             <scopecontent id="aspace_ad2b52b136048c2dbe23d6ae6365410d">
                <head>Scope and Contents</head>
@@ -4536,10 +4651,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_71327ef144a91c3c437c11283939a7db"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  20 x 16 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1021"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref309_c1"
                           label="Mixed Materials"
-                          localtype="box">[96]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref309_c2" localtype="item" parent="aspace_ref309_c1">96</container>
             </did>
             <scopecontent id="aspace_2d18366e7c70f49c700f8bf3716ff69d">
                <head>Scope and Contents</head>
@@ -4576,10 +4693,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_90cc04795c7ea23f075ed82f0a90e26f"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  10 x 19 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1022"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref312_c1"
                           label="Mixed Materials"
-                          localtype="box">[97]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref312_c2" localtype="item" parent="aspace_ref312_c1">97</container>
             </did>
             <scopecontent id="aspace_66d80ef21e4e69926b6114f3b171fd4b">
                <head>Scope and Contents</head>
@@ -4613,10 +4732,12 @@ People mentioned: Dr. Thackeray's mother, Mr. Piozzi, Sir Lucas Pepys, Dr. Hayga
                <physdesc id="aspace_a156286f4907b36626add17bb3187ed2"> 1 page (1 leaf) 
 :  autograph letter, signed 
 ;  23 x 18 cm. </physdesc>
-               <container altrender="/repositories/3/top_containers/1023"
+               <container altrender="/repositories/3/top_containers/923"
+                          encodinganalog="flat box (10d 2h 8w) "
                           id="aspace_ref315_c1"
                           label="Mixed Materials"
-                          localtype="box">[98]</container>
+                          localtype="volume">1</container>
+               <container id="aspace_ref315_c2" localtype="item" parent="aspace_ref315_c1">98</container>
             </did>
             <scopecontent id="aspace_aefb2ff7f438fbef67ab1a80404fbcdc">
                <head>Scope and Contents</head>
