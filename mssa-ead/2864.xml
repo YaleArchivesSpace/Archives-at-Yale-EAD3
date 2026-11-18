@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-17T03:10:38-05:00</eventdatetime>
+            <eventdatetime>2026-11-18T03:00:19-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:10</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 18, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -19682,6 +19682,11 @@
                                 label="Mixed Materials"
                                 localtype="box">68</container>
                   </did>
+                  <accessrestrict id="aspace_9a71154ad295f8ac4a68942441f1379c"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Audiovisual material: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/12/archival_objects/1001083"
                   id="ref1303"
@@ -20210,6 +20215,10 @@
                            <quantity>1</quantity>
                            <unittype>Audiocassette</unittype>
                         </physdescstructured>
+                        <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                           <quantity>01:00:28</quantity>
+                           <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                        </physdescstructured>
                         <unitdatestructured altrender="1986 January 24-25"
                                             label="creation"
                                             unitdatetype="inclusive">
@@ -20218,6 +20227,7 @@
                               <todate standarddate="1986-01-25">1986 January 25</todate>
                            </daterange>
                         </unitdatestructured>
+                        <materialspec id="aspace_c189ff54ed4e72f23f3b3d3a8e2afa34">Audio distortion, hiss, and hum are present. There is a warble in the audio.</materialspec>
                         <container altrender="/repositories/12/top_containers/117415 /locations/9"
                                    containerid="39002075168824"
                                    encodinganalog="audiocassette case"
