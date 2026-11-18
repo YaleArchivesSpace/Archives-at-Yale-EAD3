@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-16T23:01:20-05:00</eventdatetime>
+            <eventdatetime>2026-11-17T23:00:54-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 23:00</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -9035,17 +9035,19 @@
                         <dao actuate="onrequest"
                              audience="external"
                              daotype="unknown"
-                             href="https://beineckelibrary.aviaryplatform.com/r/j09w08zh55"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/674/original/open-uri20260921-891565-1jfacu?1790017257"
                              identifier="aviary_178682"
-                             linkrole="video-streaming"
+                             linktitle="[Aviary] ycalmss122139002137115409a.u.mp3"
+                             linkrole="image-thumbnail"
                              show="new"/>
                         <dao actuate="onrequest"
                              audience="external"
                              daotype="unknown"
-                             href="https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/318/674/original/open-uri20260921-891565-1jfacu?1790017257"
+                             href="https://beineckelibrary.aviaryplatform.com/r/j09w08zh55"
                              identifier="aviary_178682"
-                             linkrole="image-thumbnail"
-                             show="embed"/>
+                             linktitle="[Aviary] ycalmss122139002137115409a.u.mp3"
+                             linkrole="video-streaming"
+                             show="new"/>
                         <descriptivenote>
                            <p>[Aviary] ycalmss122139002137115409a.u.mp3</p>
                         </descriptivenote>
