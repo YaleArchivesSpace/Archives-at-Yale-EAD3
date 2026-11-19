@@ -44,7 +44,7 @@
                <p>Box: 14 (Oversize)</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="14">14</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1849">1,849</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="15">15</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="2245">2,245</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-06T23:41:01-05:00</eventdatetime>
+            <eventdatetime>2026-11-18T23:01:40-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Saturday December  6, 2025 at 23:41</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 18, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -3488,6 +3488,35 @@
                           href="https://collections.library.yale.edu/catalog/2065184"
                           identifier="oid:2065184"
                           linktitle="p. [41]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Walker, Juan Pedro, Diary of expeditions from Monterey into Texas</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/11/digital_objects/368473">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33920608"
+                          identifier="oid:33920608"
+                          linktitle="396 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33920609/full/!150,150/0/default.jpg"
+                          identifier="oid:33920608"
+                          linktitle="396 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33920608"
+                          identifier="oid:33920608"
+                          linktitle="396 images"
                           linkrole="text-html"
                           show="new"/>
                      <descriptivenote>
