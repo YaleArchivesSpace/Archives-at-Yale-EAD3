@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0028">arts.dra.0028</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1223">mssa.ru.1223</recordid>
       <otherrecordid localtype="BIB">9653148</otherrecordid>
       <filedesc>
          <titlestmt>
@@ -34,14 +34,11 @@
                </addressline>
             </address>
             <date>2010</date>
-            <num>DRA 28</num>
+            <num>RU 1223</num>
          </publicationstmt>
          <notestmt>
             <controlnote>
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9653148</num>.</p>
-            </controlnote>
-            <controlnote localtype="offsite">
-               <p>Boxes: 1-49, 51-69</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,17 +68,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-21T03:02:15-04:00</eventdatetime>
+            <eventdatetime>2026-11-19T03:00:59-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 19, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/439" level="collection">
       <did>
          <unittitle>Yale School of Drama Master of Fine Arts Theses</unittitle>
-         <unitid>DRA 28</unitid>
+         <unitid>RU 1223</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -118,7 +115,7 @@
       </userestrict>
       <prefercite id="aspace_0b91010e6e7e69ee88cec05f5c73e94c">
          <head>Preferred Citation</head>
-         <p>Yale School of Drama Master of Fine Arts Theses, Robert B. Haas Family Arts Library, Yale University.</p>
+         <p>Yale School of Drama Master of Fine Arts Theses (RU 1223). Manuscript and Archives. Yale University Library</p>
       </prefercite>
       <scopecontent id="aspace_84a95369d7094c655ddba553afcf0926">
          <head>Scope and Contents</head>
@@ -128,6 +125,10 @@
          <head>Arrangement</head>
          <p>Organized into four series: I. Directing. II. Stage Management. III. Technical Design and Production. IV. Miscellaneous.</p>
       </arrangement>
+      <custodhist id="aspace_12a0f6dbc64065c126dea0d380b7df34">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives</p>
+      </custodhist>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85134542"
                   source="lcsh">

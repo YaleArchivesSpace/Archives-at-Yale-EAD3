@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.dra.0027">arts.dra.0027</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1224">mssa.ru.1224</recordid>
       <otherrecordid localtype="BIB">9611708</otherrecordid>
       <filedesc>
          <titlestmt>
@@ -34,14 +34,11 @@
                </addressline>
             </address>
             <date>2010</date>
-            <num>DRA 27</num>
+            <num>RU 1224</num>
          </publicationstmt>
          <notestmt>
             <controlnote>
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">9611708</num>.</p>
-            </controlnote>
-            <controlnote localtype="offsite">
-               <p>Boxes: 1-58</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -71,17 +68,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-21T03:02:13-04:00</eventdatetime>
+            <eventdatetime>2026-11-19T03:01:32-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday July 21, 2026 at 03:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 19, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/438" level="collection">
       <did>
          <unittitle>Yale School of Drama Doctor of Fine Arts Dissertations</unittitle>
-         <unitid>DRA 27</unitid>
+         <unitid>RU 1224</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -123,7 +120,7 @@
       </userestrict>
       <prefercite id="aspace_f9da24c0963fc0eb4489fdd90fad88bb">
          <head>Preferred Citation</head>
-         <p>Yale School of Drama Doctor of Fine Arts Dissertations, Robert B. Haas Family Arts Library, Yale University.</p>
+         <p>Yale School of Drama Doctor of Fine Arts Dissertations (RU 1224). Manuscript and Archives. Yale University Library</p>
       </prefercite>
       <scopecontent id="aspace_9a9215bd28b07dad4b07507a6c1a2432">
          <head>Scope and Contents</head>
@@ -133,6 +130,10 @@
          <head>Arrangement</head>
          <p>Arranged in chronological order by year of completion, then arranged alphabetically by author surname within each year.</p>
       </arrangement>
+      <custodhist id="aspace_7f2b0f75601424cb361e289070ef2de9">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives.</p>
+      </custodhist>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85039329"
                   source="lcsh">

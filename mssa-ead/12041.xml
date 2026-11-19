@@ -9,7 +9,7 @@
             relatedencoding="marc"
             repositoryencoding="iso15511"
             scriptencoding="iso15924">
-      <recordid instanceurl="https://hdl.handle.net/10079/fa/arts.art.0043">arts.art.0043</recordid>
+      <recordid instanceurl="https://hdl.handle.net/10079/fa/mssa.ru.1225">mssa.ru.1225</recordid>
       <filedesc>
          <titlestmt>
             <titleproper>Yale School of Art Master of Fine Arts in Painting/Printmaking and Sculpture Thesis Documentation Collection </titleproper>
@@ -32,13 +32,8 @@
                </addressline>
             </address>
             <date>June 2021</date>
-            <num>ART 43</num>
+            <num>RU 1225</num>
          </publicationstmt>
-         <notestmt>
-            <controlnote localtype="offsite">
-               <p>Boxes: 1-29</p>
-            </controlnote>
-         </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
       <maintenanceagency>
@@ -62,17 +57,17 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-09-30T03:00:24-04:00</eventdatetime>
+            <eventdatetime>2026-11-19T03:01:36-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday September 30, 2026 at 03:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 19, 2026 at 03:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
    <archdesc altrender="/repositories/12/resources/12041" level="collection">
       <did>
          <unittitle>Yale School of Art Master of Fine Arts in Painting/Printmaking and Sculpture thesis documentation collection</unittitle>
-         <unitid>ART 43</unitid>
+         <unitid>RU 1225</unitid>
          <repository>
             <corpname>
                <part>Manuscripts and Archives</part>
@@ -83,9 +78,6 @@
                <language langcode="eng">English</language>
                <script scriptcode="Latn">Latin</script>
             </languageset>
-            <descriptivenote>
-               <p>The materials are in English.</p>
-            </descriptivenote>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
             <quantity>12</quantity>
@@ -127,6 +119,14 @@ Reproduction is restricted and requires written consent of the creator(s). Resea
          <head>Immediate Source of Acquisition</head>
          <p>Transferred from the Yale School of Art, 2018.</p>
       </acqinfo>
+      <prefercite id="aspace_e047d79091f6c63ef7ecbf90b568e315">
+         <head>Preferred Citation</head>
+         <p>Yale School of Art Master of Fine Arts in Painting/Printmaking and Sculpture thesis documentation collection (RU 1225). Manuscript and Archives. Yale University Library</p>
+      </prefercite>
+      <custodhist id="aspace_3dd99b11de42c4e01da07c3234fd048a">
+         <head>Custodial History</head>
+         <p>This collection was originally stewarded by the Robert B. Haas Family Arts Library at Yale Library. In July 2026, the collection's stewardship was transferred to Yale University Archives.</p>
+      </custodhist>
       <controlaccess>
          <genreform identifier="http://vocab.getty.edu/aat/300128366" source="aat">
             <part localtype="genre_form">Color slides</part>

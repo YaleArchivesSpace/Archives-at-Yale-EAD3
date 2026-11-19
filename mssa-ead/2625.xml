@@ -40,6 +40,9 @@
             <controlnote>
                <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="2">2</num> published digital objects.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -71,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-17T03:01:44-05:00</eventdatetime>
+            <eventdatetime>2026-11-19T03:02:07-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 03:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 19, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -1438,6 +1441,27 @@
                                 id="aspace_ref138_c1"
                                 label="Mixed Materials"
                                 localtype="box">54</container>
+                     <daoset altrender="/repositories/12/digital_objects/368471">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_183848"
+                             linktitle="[Aviary] ru0228s1998-a-125b054a.u.mp3"
+                             linkrole="image-thumbnail"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/br8mc8tm98"
+                             identifier="aviary_183848"
+                             linktitle="[Aviary] ru0228s1998-a-125b054a.u.mp3"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Aviary] ru0228s1998-a-125b054a.u.mp3</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_4873270cd7c85c98a372b1431a9a623e"
                                   localtype="RestrictedFragileSpecColl">
@@ -1517,6 +1541,27 @@
                                 id="aspace_ref144_c1"
                                 label="Mixed Materials"
                                 localtype="box">57</container>
+                     <daoset altrender="/repositories/12/digital_objects/368470">
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://d9jk7wjtjpu5g.cloudfront.net/public/images/audio-default.png"
+                             identifier="aviary_183847"
+                             linktitle="[Aviary] ru0228s1998-a-125b057a.u.mp3"
+                             linkrole="image-thumbnail"
+                             show="new"/>
+                        <dao actuate="onrequest"
+                             audience="external"
+                             daotype="unknown"
+                             href="https://yalemssa.aviaryplatform.com/r/pg1hh6fj7c"
+                             identifier="aviary_183847"
+                             linktitle="[Aviary] ru0228s1998-a-125b057a.u.mp3"
+                             linkrole="video-streaming"
+                             show="new"/>
+                        <descriptivenote>
+                           <p>[Aviary] ru0228s1998-a-125b057a.u.mp3</p>
+                        </descriptivenote>
+                     </daoset>
                   </did>
                   <accessrestrict id="aspace_d213dc726c88ae49831dc006fdb264b2"
                                   localtype="RestrictedFragileSpecColl">

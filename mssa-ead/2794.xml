@@ -71,10 +71,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-03-18T05:36:31-04:00</eventdatetime>
+            <eventdatetime>2026-11-19T03:02:12-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday March 18, 2025 at 05:36</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 19, 2026 at 03:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11329,71 +11329,77 @@
                              parent="aspace_ref1322_c1">206</container>
                </did>
             </c>
-            <c altrender="/repositories/12/archival_objects/904542"
-               id="ref1325"
+            <c altrender="/repositories/12/archival_objects/4074053"
+               id="aspace_4f67303b99182400894232031e030828"
                level="file">
                <did>
                   <unittitle>Newsletter</unittitle>
-                  <unitdatestructured altrender="1979-1982" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1979">1979</fromdate>
-                        <todate standarddate="1982">1982</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/106154 /locations/9"
-                             containerid="39002046606159"
-                             encodinganalog="Paige 15"
-                             id="aspace_ref1325_c1"
-                             label="Mixed Materials"
-                             localtype="box">4</container>
-                  <container id="aspace_ref1325_c2"
-                             localtype="folder"
-                             parent="aspace_ref1325_c1">209</container>
                </did>
-            </c>
-            <c altrender="/repositories/12/archival_objects/904543"
-               id="ref1326"
-               level="file">
-               <did>
-                  <unittitle>Material for Newsletter: Drafts of Spring Copy</unittitle>
-                  <unitdatestructured altrender="1983" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1983">1983</fromdate>
-                        <todate standarddate="1983">1983</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/106154 /locations/9"
-                             containerid="39002046606159"
-                             encodinganalog="Paige 15"
-                             id="aspace_ref1326_c1"
-                             label="Mixed Materials"
-                             localtype="box">4</container>
-                  <container id="aspace_ref1326_c2"
-                             localtype="folder"
-                             parent="aspace_ref1326_c1">210</container>
-               </did>
-            </c>
-            <c altrender="/repositories/12/archival_objects/904544"
-               id="ref1327"
-               level="file">
-               <did>
-                  <unittitle>Spring</unittitle>
-                  <unitdatestructured altrender="1985" label="creation" unitdatetype="inclusive">
-                     <daterange>
-                        <fromdate standarddate="1985">1985</fromdate>
-                        <todate standarddate="1985">1985</todate>
-                     </daterange>
-                  </unitdatestructured>
-                  <container altrender="/repositories/12/top_containers/106154 /locations/9"
-                             containerid="39002046606159"
-                             encodinganalog="Paige 15"
-                             id="aspace_ref1327_c1"
-                             label="Mixed Materials"
-                             localtype="box">4</container>
-                  <container id="aspace_ref1327_c2"
-                             localtype="folder"
-                             parent="aspace_ref1327_c1">211</container>
-               </did>
+               <c altrender="/repositories/12/archival_objects/904542"
+                  id="ref1325"
+                  level="file">
+                  <did>
+                     <unitdatestructured altrender="1979-1982" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1979">1979</fromdate>
+                           <todate standarddate="1982">1982</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/106154 /locations/9"
+                                containerid="39002046606159"
+                                encodinganalog="Paige 15"
+                                id="aspace_ref1325_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_ref1325_c2"
+                                localtype="folder"
+                                parent="aspace_ref1325_c1">209</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/904543"
+                  id="ref1326"
+                  level="file">
+                  <did>
+                     <unittitle>Material for Newsletter: Drafts of Spring Copy</unittitle>
+                     <unitdatestructured altrender="1983" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1983">1983</fromdate>
+                           <todate standarddate="1983">1983</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/106154 /locations/9"
+                                containerid="39002046606159"
+                                encodinganalog="Paige 15"
+                                id="aspace_ref1326_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_ref1326_c2"
+                                localtype="folder"
+                                parent="aspace_ref1326_c1">210</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/12/archival_objects/904544"
+                  id="ref1327"
+                  level="file">
+                  <did>
+                     <unittitle>Spring</unittitle>
+                     <unitdatestructured altrender="1985" label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1985">1985</fromdate>
+                           <todate standarddate="1985">1985</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/12/top_containers/106154 /locations/9"
+                                containerid="39002046606159"
+                                encodinganalog="Paige 15"
+                                id="aspace_ref1327_c1"
+                                label="Mixed Materials"
+                                localtype="box">4</container>
+                     <container id="aspace_ref1327_c2"
+                                localtype="folder"
+                                parent="aspace_ref1327_c1">211</container>
+                  </did>
+               </c>
             </c>
             <c altrender="/repositories/12/archival_objects/904545"
                id="ref1328"

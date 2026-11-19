@@ -8,8 +8,8 @@ EAD | EAD ID | Identifier | Title | Other versions
  [arts.dra.0014.xml](430.xml) | arts.dra.0014 | DRA 14 | Pamela Jordan Yale School of Drama Scrapbook Collection | 
  [mssa.ru.1217.xml](431.xml) | mssa.ru.1217 | RU 1217 | Dwight/Edgewood Project collection | 
  [arts.dra.0017.xml](433.xml) | arts.dra.0017 | DRA 17 | Yale School of Drama Production Script Collection | 
- [arts.dra.0027.xml](438.xml) | arts.dra.0027 | DRA 27 | Yale School of Drama Doctor of Fine Arts Dissertations | 
- [arts.dra.0028.xml](439.xml) | arts.dra.0028 | DRA 28 | Yale School of Drama Master of Fine Arts Theses | 
+ [mssa.ru.1224.xml](438.xml) | mssa.ru.1224 | RU 1224 | Yale School of Drama Doctor of Fine Arts Dissertations | 
+ [mssa.ru.1223.xml](439.xml) | mssa.ru.1223 | RU 1223 | Yale School of Drama Master of Fine Arts Theses | 
  [mssa.ru.1216.xml](440.xml) | mssa.ru.1216 | RU 1216 | Drama 50 Script Collection | 
  [arts.dra.0030.xml](442.xml) | arts.dra.0030 | DRA 30 | Yale Repertory Theatre Scripts Collection | 
  [mssa.ru.1215.xml](444.xml) | mssa.ru.1215 | RU 1215 | Yale Cabaret Scripts and Ephemera Collection | 
@@ -2933,7 +2933,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [mssa.ms.2121.xml](11961.xml) | mssa.ms.2121 | MS 2121 | Robert Lane and Dana Ward interview transcripts on political ideology | 
  [mssa.ms.2122.xml](12003.xml) | mssa.ms.2122 | MS 2122 | Carolyn Davidson Hill Diary and Family Papers | 
  [mssa.ms.2123.xml](12007.xml) | mssa.ms.2123 | MS 2123 | L. Paul Bremer III Papers | 
- [arts.art.0043.xml](12041.xml) | arts.art.0043 | ART 43 | Yale School of Art Master of Fine Arts in Painting/Printmaking and Sculpture thesis documentation collection | 
+ [mssa.ru.1225.xml](12041.xml) | mssa.ru.1225 | RU 1225 | Yale School of Art Master of Fine Arts in Painting/Printmaking and Sculpture thesis documentation collection | 
  [mssa.ru.1177.xml](12043.xml) | mssa.ru.1177 | RU 1177 | Robert Gifford, Associate Dean for Education and Student Affairs, School of Medicine, Yale University, records | 
  [mssa.ms.2088.xml](12060.xml) | mssa.ms.2088 | MS 2088 | George Bundy Smith papers | 
  [mssa.ms.2095.xml](12137.xml) | mssa.ms.2095 | MS 2095 | Joel Sanders Papers | 
