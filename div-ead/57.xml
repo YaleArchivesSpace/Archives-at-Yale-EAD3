@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-8, 8A-11</p>
             </controlnote>
+            <controlnote localtype="onsite">
+               <p>Box: OVd13</p>
+            </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="58">58</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="3097">3,097</num> digital files.</p>
             </controlnote>
@@ -72,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-06-29T18:02:21-04:00</eventdatetime>
+            <eventdatetime>2026-11-19T18:00:58-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June 29, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 19, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -937,15 +940,12 @@
                   id="ref37"
                   level="file">
                   <did>
-                     <unittitle>Letters from H.H. Jessup printed in newspapers, including the Independent Republican, Montrose</unittitle>
-                     <unitdatestructured altrender="1857-1859" label="creation" unitdatetype="inclusive">
+                     <unittitle>Letters from H.H. Jessup printed in newspapers</unittitle>
+                     <unitdatestructured altrender="1874, 1879" label="creation" unitdatetype="inclusive">
                         <daterange>
-                           <fromdate standarddate="1857">1857</fromdate>
-                           <todate standarddate="1859">1859</todate>
+                           <fromdate standarddate="1874">1874</fromdate>
+                           <todate standarddate="1879">1879</todate>
                         </daterange>
-                     </unitdatestructured>
-                     <unitdatestructured altrender="1874" label="creation" unitdatetype="inclusive">
-                        <datesingle standarddate="1874">1874</datesingle>
                      </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/3414 /locations/9"
                                 containerid="39002097420609"
@@ -953,6 +953,25 @@
                                 label="Mixed Materials"
                                 localtype="box">11</container>
                      <container id="aspace_ref37_c2" localtype="folder" parent="aspace_ref37_c1">65</container>
+                  </did>
+               </c>
+               <c altrender="/repositories/4/archival_objects/4074969"
+                  id="aspace_3f3d3279e8dd8b79a86c22c5f464423a"
+                  level="file">
+                  <did>
+                     <unittitle>Letters from H.H. Jessup printed in <title>
+                           <part>The Independent Republican</part>
+                        </title>, published in Montrose, Susquehanna County, Pennsylvania </unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <daterange>
+                           <fromdate standarddate="1857">1857</fromdate>
+                           <todate standarddate="1858">1858</todate>
+                        </daterange>
+                     </unitdatestructured>
+                     <container altrender="/repositories/4/top_containers/486311 /locations/2"
+                                id="aspace_3f3d3279e8dd8b79a86c22c5f464423a_c1"
+                                label="Mixed Materials"
+                                localtype="box">OVd13 </container>
                   </did>
                </c>
             </c>
