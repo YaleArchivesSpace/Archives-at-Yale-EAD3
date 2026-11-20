@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-11T03:00:42-05:00</eventdatetime>
+            <eventdatetime>2026-11-20T03:00:55-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 11, 2026 at 03:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 20, 2026 at 03:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -11493,12 +11493,17 @@
                      <quantity>1</quantity>
                      <unittype>Videocassette (VHS)</unittype>
                   </physdescstructured>
+                  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                     <quantity>01:32:30</quantity>
+                     <unittype>Duration (HH:MM:SS.mmm)</unittype>
+                  </physdescstructured>
                   <unitdatestructured altrender="1991" label="creation" unitdatetype="inclusive">
                      <daterange>
                         <fromdate standarddate="1991">1991</fromdate>
                         <todate standarddate="1991">1991</todate>
                      </daterange>
                   </unitdatestructured>
+                  <materialspec id="aspace_ef443fa0abdfaa87ee07c362f4d6f8de">No sund on the tape.</materialspec>
                   <container altrender="/repositories/12/top_containers/115159 /locations/9"
                              containerid="39002057111917"
                              encodinganalog="video VHS"
