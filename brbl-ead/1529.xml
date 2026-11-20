@@ -42,7 +42,7 @@
                <p>Boxes: 1-19, 31-32, 96-97</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: 20-21 (Oversize), 22-30 (Broadside), 33-63 (Broadside), 64-95 (Broadside), 98-140, 144-153</p>
+               <p>Boxes: 20-21 (Oversize), 22-30 (Broadside), 33-63 (Broadside), 64-95 (Broadside), 98-153</p>
             </controlnote>
             <controlnote localtype="digital">
                <p>This collection contains <num localtype="objects" altrender="98">98</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="572">572</num> digital files.</p>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-18T23:01:23-05:00</eventdatetime>
+            <eventdatetime>2026-11-19T23:01:02-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 18, 2026 at 23:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 19, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -98,43 +98,47 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>17</quantity>
+            <quantity>51.58</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">25 boxes + 72 broadside folders</physdesc>
+         <physdesc localtype="container_summary">81 boxes + 72 broadside folders</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
-               <fromdate standarddate="1894">1894</fromdate>
-               <todate standarddate="2008">2008</todate>
+               <fromdate standarddate="1890">1890</fromdate>
+               <todate standarddate="2025">2025</todate>
             </daterange>
          </unitdatestructured>
-         <unitdatestructured label="creation" unitdatetype="bulk">
-            <daterange>
-               <fromdate standarddate="1956">1956</fromdate>
-               <todate standarddate="2008">2008</todate>
-            </daterange>
-         </unitdatestructured>
-         <abstract id="aspace_de94be0359426b9ca49eb9bed299cc60">The collection consists of material created and accumulated by Susan Howe in the course of her activities as a poet, author, and teacher, and primarily documents Howe's literary career from 1998 to 2008. Material includes correspondence with poets, authors, artists, and musicians; drafts and manuscripts of published poetry collections, including The Midnight, Kidnapped, and Pierce-Arrow, and other writings; notebooks and diaries; teaching and research material; artwork; and family and personal papers.</abstract>
+         <abstract id="aspace_de94be0359426b9ca49eb9bed299cc60">The collection consists of material created and accumulated by Susan Howe in the course of her activities as a poet, author, and teacher, and primarily documents Howe's literary career from 1998 to 2009. Material includes correspondence with poets, authors, artists, and musicians; drafts and manuscripts of published poetry collections, including The Midnight, Pierce-Arrow, That This, Debths, and other writings; notebooks and diaries; teaching and research material; artwork; and family and personal papers.</abstract>
          <origination label="Creator">
             <persname>
                <part localtype="agent_person">Howe, Susan, 1937-</part>
             </persname>
          </origination>
       </did>
-      <acqinfo id="aspace_ce9db41069a48a954c1baae8fdeb05bf">
-         <head>Immediate Source of Acquisition</head>
-         <p>Purchased from Granary Books on the Elizabeth Wakeman Dwight Memorial Fund, 2009.</p>
-      </acqinfo>
       <accessrestrict id="aspace_704c90964fbf51225f59ff6324f39a9e">
          <head>Conditions Governing Access</head>
          <p>The materials are open for research.</p>
          <p>Box 31 (electronic document): Restricted fragile material. Reference copies of electronic files may be requested. Consult Access Services for further information.</p>
          <p>Box 32 (audiovisual material): Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
       </accessrestrict>
-      <userestrict id="aspace_4332b7fb5a5b227d4e0f76f6bdf50afe">
-         <head>Conditions Governing Use</head>
-         <p>The Susan Howe Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
-      </userestrict>
+      <acqinfo id="aspace_ce9db41069a48a954c1baae8fdeb05bf">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased from Granary Books on the Elizabeth Wakeman Dwight Memorial Fund, 2009.</p>
+         <p>Purchased from Granary Book on the Edwin J. Beinecke Book Fund, 2026.</p>
+      </acqinfo>
+      <arrangement id="aspace_de59b2672c0629ac4748f82c993d60ae">
+         <head>Arrangement</head>
+         <p>Organized into eight series: I. Correspondence, 1956-2008. II. Writings, 1894-2007. III. Notebooks and Diaries, 1984-2007. IV. Professional Papers, 1961-2007. V. Family and Personal Papers, circa 1916-2001. VI. Art Work, 1958-1973. VII. Computer media, undated. VIII. January 2026 acquisition, 1890-2025.</p>
+      </arrangement>
+      <bioghist id="aspace_ca45d0bf0ab17c739074dc0802a4bd8e">
+         <head>Susan Howe</head>
+         <p>Susan Howe was born in 1937 in Boston, Massachusetts. She is the author of several books of poems and two volumes of criticism. Her poetry collections include: The Midnight (2003), Kidnapped (2002), The Europe of Trusts (2002), Pierce-Arrow (1999), Frame Structures: Early Poems 1974-1979 (1996), The Nonconformist's Memorial (1993), The Europe of Trusts: Selected Poems (1990), and Singularities (1990).</p>
+         <p>Since 1989 she has been a professor of English at the State University of New York at Buffalo, and is currently the Samuel P. Capen Chair of Poetry and the Humanities. She was elected a Chancellor of The Academy of American Poets in 2000. Susan Howe lives in Guilford, Connecticut.</p>
+         <p>Biographical information is drawn from <ref actuate="onrequest"
+                 href="http://www.poets.org/poet.php/prmPID/191"
+                 linkrole="text/html"
+                 show="new">Poets.org</ref>.</p>
+      </bioghist>
       <prefercite id="aspace_64af7ef1f68b4ea3216727e543d88343">
          <head>Preferred Citation</head>
          <p>Susan Howe Papers. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</p>
@@ -145,23 +149,14 @@
          <p>This collection received a basic level of processing at the time that it was acquired by the library. Material has been rehoused in acid-free boxes and, when necessary, acid-free folders, and has been organized into series based on the way in which the collection was organized upon receipt by the library. Where feasible, material has been left in original folders and titles have been transcribed from original folders. Titles have not been verified against the contents of the folders in all cases. Otherwise, folder titles are supplied by staff during initial processing. Information included in the Description of Papers note and Collection Contents section is drawn from information supplied with the collection and from an initial survey of the contents.</p>
          <p>This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</p>
       </processinfo>
-      <bioghist id="aspace_ca45d0bf0ab17c739074dc0802a4bd8e">
-         <head>Susan Howe</head>
-         <p>Susan Howe was born in 1937 in Boston, Massachusetts. She is the author of several books of poems and two volumes of criticism. Her poetry collections include: The Midnight (2003), Kidnapped (2002), The Europe of Trusts (2002), Pierce-Arrow (1999), Frame Structures: Early Poems 1974-1979 (1996), The Nonconformist's Memorial (1993), The Europe of Trusts: Selected Poems (1990), and Singularities (1990).</p>
-         <p>Since 1989 she has been a professor of English at the State University of New York at Buffalo, and is currently the Samuel P. Capen Chair of Poetry and the Humanities. She was elected a Chancellor of The Academy of American Poets in 2000. Susan Howe lives in Guilford, Connecticut.</p>
-         <p>Biographical information is drawn from <ref actuate="onrequest"
-                 href="http://www.poets.org/poet.php/prmPID/191"
-                 linkrole="text/html"
-                 show="new">Poets.org</ref>.</p>
-      </bioghist>
       <scopecontent id="aspace_7ae863c3ca6677bbbf9196b661096a53">
          <head>Scope and Contents</head>
          <p>The collection consists of material created and accumulated by Susan Howe in the course of her activities as a poet, author, and teacher, and primarily documents Howe's literary career from 1998 to 2008. Material includes correspondence with poets, authors, artists, and musicians; drafts and manuscripts of published poetry collections, including The Midnight, Kidnapped, and Pierce-Arrow, and other writings; notebooks and diaries; teaching and research material; artwork; and family and personal papers. Correspondents include: Rae Armantrout, Dennis Barone, Samuel Beckett, Susan Bee, Charles Bernstein, Anne Carson, Norma Cole, Robert Creeley, Simon Cutts, Rachel Blau DuPlessis, Alec Finlay, Dominique Fourcade, Lyn Hejinian, Fanny Howe, Devin Johnston, J. C. C. Mays, Maureen Owen, Michael Palmer, Kristin Prevallet, Bernard Rival, Leslie Scalapino, Susan Stewart, Cole Swensen, John Taggart, Erica Van Horn, Rosmarie Waldrop, and Elizabeth Willis.</p>
       </scopecontent>
-      <arrangement id="aspace_de59b2672c0629ac4748f82c993d60ae">
-         <head>Arrangement</head>
-         <p>Organized into six series: I. Correspondence, 1956-2008. II. Writings, 1894-2007. III. Notebooks and Diaries, 1984-2007. IV. Professional Papers, 1961-2007. V. Family and Personal Papers, circa 1916-2001. VI. Art Work, 1958-1973.</p>
-      </arrangement>
+      <userestrict id="aspace_4332b7fb5a5b227d4e0f76f6bdf50afe">
+         <head>Conditions Governing Use</head>
+         <p>The Susan Howe Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>
+      </userestrict>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85004341"
                   source="lcsh">
