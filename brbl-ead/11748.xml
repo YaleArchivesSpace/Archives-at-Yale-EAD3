@@ -41,6 +41,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 1-3</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="4">4</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="135">135</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -72,10 +75,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-01-09T00:31:51-05:00</eventdatetime>
+            <eventdatetime>2026-11-20T23:04:29-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday January  9, 2025 at 00:31</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 20, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -636,6 +639,35 @@ Journals document Harmon's travels to New Orleans, Louisiana; Washington, D.C.; 
                   <container id="aspace_c01a14995287e1faab8e38c0680ab30a_c2"
                              localtype="folder"
                              parent="aspace_c01a14995287e1faab8e38c0680ab30a_c1">59</container>
+                  <daoset altrender="/repositories/11/digital_objects/368475">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33921023"
+                          identifier="oid:33921023"
+                          linktitle="58 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33921024/full/!150,150/0/default.jpg"
+                          identifier="oid:33921023"
+                          linktitle="58 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33921023"
+                          identifier="oid:33921023"
+                          linktitle="58 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Business cards</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/3241634"
@@ -660,6 +692,35 @@ Journals document Harmon's travels to New Orleans, Louisiana; Washington, D.C.; 
                   <container id="aspace_a16de72705ff70826dc4306714ca664f_c2"
                              localtype="folder"
                              parent="aspace_a16de72705ff70826dc4306714ca664f_c1">60</container>
+                  <daoset altrender="/repositories/11/digital_objects/368474">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33921113"
+                          identifier="oid:33921113"
+                          linktitle="48 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33921114/full/!150,150/0/default.jpg"
+                          identifier="oid:33921113"
+                          linktitle="48 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33921113"
+                          identifier="oid:33921113"
+                          linktitle="48 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Invitations</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/3209564"
@@ -682,6 +743,35 @@ Journals document Harmon's travels to New Orleans, Louisiana; Washington, D.C.; 
                   <container id="aspace_9867a8f567758fbf1e3ca6d304bcc442_c2"
                              localtype="folder"
                              parent="aspace_9867a8f567758fbf1e3ca6d304bcc442_c1">61</container>
+                  <daoset altrender="/repositories/11/digital_objects/368478">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33921108"
+                          identifier="oid:33921108"
+                          linktitle="4 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33921109/full/!150,150/0/default.jpg"
+                          identifier="oid:33921108"
+                          linktitle="4 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33921108"
+                          identifier="oid:33921108"
+                          linktitle="4 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Tintype portraits (2)</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
             <c altrender="/repositories/11/archival_objects/3207727"
@@ -706,6 +796,35 @@ Journals document Harmon's travels to New Orleans, Louisiana; Washington, D.C.; 
                   <container id="aspace_e8c0ae1a5d7a80a0728b9e8f02e327cf_c2"
                              localtype="folder"
                              parent="aspace_e8c0ae1a5d7a80a0728b9e8f02e327cf_c1">62</container>
+                  <daoset altrender="/repositories/11/digital_objects/368477">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33921082"
+                          identifier="oid:33921082"
+                          linktitle="25 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33921083/full/!150,150/0/default.jpg"
+                          identifier="oid:33921082"
+                          linktitle="25 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33921082"
+                          identifier="oid:33921082"
+                          linktitle="25 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Other ephemera and papers</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
             </c>
          </c>

@@ -44,6 +44,9 @@
             <controlnote localtype="offsite">
                <p>Boxes: 7-8, 9 (Oversize)</p>
             </controlnote>
+            <controlnote localtype="digital">
+               <p>This collection contains <num localtype="objects" altrender="1">1</num> published digital object. And that object are comprised of <num localtype="files" altrender="4">4</num> digital files.</p>
+            </controlnote>
          </notestmt>
       </filedesc>
       <maintenancestatus value="derived"/>
@@ -75,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-07-16T23:01:32-04:00</eventdatetime>
+            <eventdatetime>2026-11-20T23:04:23-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday July 16, 2026 at 23:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 20, 2026 at 23:04</eventdescription>
          </maintenanceevent>
          <maintenanceevent>
             <eventtype value="revised"/>
@@ -1796,6 +1799,35 @@
                   <container id="aspace_c3c3c0679c7483d36a667bc2a464ca63_c2"
                              localtype="folder"
                              parent="aspace_c3c3c0679c7483d36a667bc2a464ca63_c1">41</container>
+                  <daoset altrender="/repositories/11/digital_objects/368476">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33921018"
+                          identifier="oid:33921018"
+                          linktitle="4 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33921019/full/!150,150/0/default.jpg"
+                          identifier="oid:33921018"
+                          linktitle="4 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33921018"
+                          identifier="oid:33921018"
+                          linktitle="4 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>"Five o'clock tea," watercolor on paper mounted on paperboard</p>
+                     </descriptivenote>
+                  </daoset>
                </did>
                <scopecontent id="aspace_65679bd1ad8be73761c05fc805eb8335">
                   <head>Scope and Contents</head>

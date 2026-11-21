@@ -39,7 +39,7 @@
                <p>This finding aid, which is compliant with the Yale EAD Best Practice Guidelines, Version 1.0., has a MARC record in Yale's ILS with the following bib number: <num localtype="Orbis-bib">8896962</num>.</p>
             </controlnote>
             <controlnote localtype="onsite">
-               <p>Boxes: Bsd-4</p>
+               <p>Boxes: Bsd-5</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-04-10T23:10:46-04:00</eventdatetime>
+            <eventdatetime>2026-11-20T23:04:18-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday April 10, 2025 at 23:10</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 20, 2026 at 23:04</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -89,20 +89,14 @@
             <language langcode="eng">English</language>
          </langmaterial>
          <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-            <quantity>3.42</quantity>
+            <quantity>3.84</quantity>
             <unittype>Linear Feet</unittype>
          </physdescstructured>
-         <physdesc localtype="container_summary">4 boxes + 1 broadside folder</physdesc>
+         <physdesc localtype="container_summary">5 boxes + 1 broadside folder</physdesc>
          <unitdatestructured label="creation" unitdatetype="inclusive">
             <daterange>
                <fromdate standarddate="1949">1949</fromdate>
-               <todate standarddate="1990">1990</todate>
-            </daterange>
-         </unitdatestructured>
-         <unitdatestructured label="creation" unitdatetype="bulk">
-            <daterange>
-               <fromdate standarddate="1968">1968</fromdate>
-               <todate standarddate="1980">1980</todate>
+               <todate standarddate="1992">1992</todate>
             </daterange>
          </unitdatestructured>
          <abstract id="aspace_5bc898756c37be2c66445256454ccc02">This collection consists of correspondence, manuscripts, galley proofs, and artwork that documents a varied sample of projects undertaken by Jonathan Williams and The Jargon Society, 1949-1990. Correspondence documents associations Williams had with collaborators for projects for The Jargon Society and with other publishers. Correspondents include Dana Winslow Atchley, Thomas A. Clark, Ian Gardner, Michael Loeb, Tom Phillips, U. Grant Roman, David Ruff, Henry Holmes Smith, Jon Edgar Webb, and Henry Weaning.<lb/>Manuscripts and galley proofs document projects related to Williams. This includes a description of the ceramic art of Arnold Ward written by Williams in 1949, and the graphic design work of Dana Winslow Atchley for Jonathan Williams and Nicholas Dean, Blues &amp; Roots, Rue &amp; Bluets (1971) and a manuscript by Michael McClure for Passage (1957) published by The Jargon Society.<lb/>Artwork documents illustration material created, used, or considered by Williams in his personal projects or works published by The Jargon Society, as well as works by artists associated with him and the press. Artists include Fielding Dawson, Thomas Reuben George, Barbara Mildred Jones, David Ruff, and Paul Sinodhinos.</abstract>
@@ -178,7 +172,7 @@
       </scopecontent>
       <arrangement id="aspace_2931234c9894248fcb6cb685599b32ad">
          <head>Arrangement</head>
-         <p>Organized into three series: I. Correspondence, 1960-1990. II. Manuscripts and Galley Proofs, 1949-1970. III. Artwork, 1950-1970.</p>
+         <p>Organized into four series: I. Correspondence, 1960-1990. II. Manuscripts and Galley Proofs, 1949-1970. III. Artwork, 1950-1970. VI. Ephemera, 1950-1992.</p>
       </arrangement>
       <controlaccess>
          <subject identifier="http://id.loc.gov/authorities/subjects/sh85009808"
@@ -467,10 +461,10 @@
                   <quantity>7</quantity>
                   <unittype>Folders</unittype>
                </physdescstructured>
-               <unitdatestructured altrender="1949-1970" label="creation" unitdatetype="inclusive">
+               <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1949">1949</fromdate>
-                     <todate standarddate="1970">1970</todate>
+                     <todate standarddate="1990">1990</todate>
                   </daterange>
                </unitdatestructured>
             </did>
