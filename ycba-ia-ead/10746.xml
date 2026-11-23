@@ -64,10 +64,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-06T18:02:23-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:03:16-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 18:02</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -158,7 +158,8 @@
             id="aspace_704437b57f12ed4f8cc698e41e4c101b"
             level="series">
             <did>
-               <unittitle>Series I. Book</unittitle>
+               <unittitle>Book</unittitle>
+               <unitid>Series I</unitid>
             </did>
             <scopecontent id="aspace_d447cf2a8b7b663779e9be95b3768966">
                <head>Scope and Contents</head>
@@ -196,7 +197,8 @@
             id="aspace_ec3f859ff291cd22f7c90e25ef58ee17"
             level="series">
             <did>
-               <unittitle>Series II. Transcripts</unittitle>
+               <unittitle>Transcripts</unittitle>
+               <unitid>Series II</unitid>
             </did>
             <scopecontent id="aspace_02aaf88da141ff5a8771823b7a6f995f">
                <head>Scope and Contents</head>

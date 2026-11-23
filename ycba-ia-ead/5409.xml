@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-26T18:00:56-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:00:42-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday October 26, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -147,7 +147,8 @@
             id="aspace_94c4bb7cb37f8b3413a3f7b0d5b10c30"
             level="series">
             <did>
-               <unittitle>Series I. Publications</unittitle>
+               <unittitle>Publications</unittitle>
+               <unitid>Series I</unitid>
             </did>
             <accessrestrict id="aspace_b704b8443578e18746bd7a4a13707776"
                             localtype="RestrictedSpecColl">
@@ -707,14 +708,16 @@
             id="aspace_8c39b5b0b99a4309bbb422058bb4c533"
             level="series">
             <did>
-               <unittitle>Series II. Recordings</unittitle>
+               <unittitle>Recordings</unittitle>
+               <unitid>Series II</unitid>
             </did>
          </c>
          <c altrender="/repositories/3/archival_objects/3903360"
             id="aspace_c09ff4c31f4b8e7d9030f152d80e73ab"
             level="series">
             <did>
-               <unittitle>Series III. Exhibition material</unittitle>
+               <unittitle>Exhibition material</unittitle>
+               <unitid>Series III</unitid>
             </did>
          </c>
       </dsc>

@@ -18,7 +18,7 @@
             <author>compiled by Mairead MacRae and Kate Phillips; edited by Francis Lapka</author>
          </titlestmt>
          <publicationstmt>
-            <publisher>Yale Center for British Art, Institutional Archives</publisher>
+            <publisher>Yale Center for British Art, Archives</publisher>
             <address>
                <addressline>1080 Chapel Street</addressline>
                <addressline>P. O. Box 208280</addressline>
@@ -46,7 +46,7 @@
       <maintenancestatus value="derived"/>
       <maintenanceagency countrycode="US">
          <agencycode>US-CtY-BA</agencycode>
-         <agencyname>Yale Center for British Art, Institutional Archives</agencyname>
+         <agencyname>Yale Center for British Art, Archives</agencyname>
       </maintenanceagency>
       <languagedeclaration>
          <language langcode="eng">English</language>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-06-30T18:00:24-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:02:48-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday June 30, 2025 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -85,7 +85,7 @@
          <unitid>MSS 46</unitid>
          <repository>
             <corpname>
-               <part>Yale Center for British Art, Institutional Archives</part>
+               <part>Yale Center for British Art, Archives</part>
             </corpname>
          </repository>
          <langmaterial>
@@ -301,6 +301,7 @@
             level="series">
             <did>
                <unittitle>Letters from John Ruskin to Ellen Heaton</unittitle>
+               <unitid>Series I</unitid>
                <origination label="Creator">
                   <persname>
                      <part localtype="agent_person">Ruskin, John, 1819-1900</part>
@@ -5021,6 +5022,7 @@
             level="series">
             <did>
                <unittitle>Miscellaneous</unittitle>
+               <unitid>Series II</unitid>
             </did>
             <arrangement id="aspace_f0735ed697895d3ca27a267d6176c8a3">
                <head>Arrangement</head>

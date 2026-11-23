@@ -61,10 +61,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-06T18:01:20-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:03:44-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -160,7 +160,8 @@
             id="aspace_7e7ed07b33fa073de01c73453fc484c6"
             level="series">
             <did>
-               <unittitle>Series I. Correspondence</unittitle>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1962">1962</fromdate>
@@ -4310,7 +4311,8 @@
             id="aspace_918f97de772419b892bbcec97c2ca152"
             level="series">
             <did>
-               <unittitle>Series II. John Baskett, Limited </unittitle>
+               <unittitle>John Baskett, Limited </unittitle>
+               <unitid>Series II</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1967">1967</fromdate>
@@ -4350,7 +4352,8 @@
             id="aspace_43586241ec687c167a2f879193fd44d7"
             level="series">
             <did>
-               <unittitle>Series III. Notebooks</unittitle>
+               <unittitle>Notebooks</unittitle>
+               <unitid>Series III</unitid>
                <unitdate label="creation" unitdatetype="inclusive">undated</unitdate>
             </did>
             <scopecontent id="aspace_84ce39a30ac4d7072a17f4962a1bed84">
@@ -4414,7 +4417,8 @@
             id="aspace_5f3a568e12e6355bf40499c39bc79580"
             level="series">
             <did>
-               <unittitle>Series IV. Photographs</unittitle>
+               <unittitle>Photographs</unittitle>
+               <unitid>Series IV</unitid>
                <unitdatestructured altrender="1961 - 2007, bulk 1961 - 1963"
                                    label="creation"
                                    unitdatetype="inclusive">
@@ -4660,7 +4664,8 @@
             id="aspace_7ef6554bbf3029619e208ecd30632e82"
             level="series">
             <did>
-               <unittitle>Series V. Publications</unittitle>
+               <unittitle>Publications</unittitle>
+               <unitid>Series V</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1915">1915</fromdate>
@@ -5649,7 +5654,8 @@
             id="aspace_80eb53a8a1994e05cff524869ca514da"
             level="series">
             <did>
-               <unittitle>Series VI. Subject files</unittitle>
+               <unittitle>Subject files</unittitle>
+               <unitid>Series VI</unitid>
                <unitdatestructured altrender="undated, 1995-2005"
                                    label="creation"
                                    unitdatetype="inclusive">
@@ -5792,7 +5798,8 @@
             id="aspace_eec2929d5c14867e7048b8450d221ca8"
             level="series">
             <did>
-               <unittitle>Series VII. Paul Mellon's Funeral and Obituaries</unittitle>
+               <unittitle>Paul Mellon's Funeral and Obituaries</unittitle>
+               <unitid>Series VII</unitid>
                <unitdatestructured altrender="undated, 1999" label="creation" unitdatetype="inclusive">
                   <datesingle standarddate="1999">undated, 1999</datesingle>
                </unitdatestructured>

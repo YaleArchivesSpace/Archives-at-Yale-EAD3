@@ -36,7 +36,7 @@
          </publicationstmt>
          <notestmt>
             <controlnote localtype="onsite">
-               <p>Boxes: 1-5, Pugin 70, Pugin 82, Pugin 181</p>
+               <p>Boxes: 1-5, Pugin 181</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -69,10 +69,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-30T18:00:50-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:02:35-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 30, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -305,7 +305,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_60641b3ab550fcfd1315b7e968c20513"
             level="series">
             <did>
-               <unittitle>Series I. Augustus Charles Pugin</unittitle>
+               <unittitle>Augustus Charles Pugin</unittitle>
+               <unitid>Series I</unitid>
             </did>
             <arrangement id="aspace_7e27fb2d45949bfd0e048822ddfa07d5">
                <head>Arrangement</head>
@@ -871,7 +872,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_182bad4e407e5dc348cf3d6b6ea3adfd"
             level="series">
             <did>
-               <unittitle>Series II. Augustus W.N. Pugin</unittitle>
+               <unittitle>Augustus W.N. Pugin</unittitle>
+               <unitid>Series II</unitid>
             </did>
             <arrangement id="aspace_92065de014f6626f830b72de76101750">
                <head>Arrangement</head>
@@ -2153,7 +2155,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_d7b0e8f5b35a19bcdcb4c8e8e55b222f"
             level="series">
             <did>
-               <unittitle>Series III. Catherine Welby Pugin</unittitle>
+               <unittitle>Catherine Welby Pugin</unittitle>
+               <unitid>Series III</unitid>
             </did>
             <arrangement id="aspace_bc23875c145999ac83bb1a8e437ce941">
                <head>Arrangement</head>
@@ -5253,7 +5256,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_441439396f747767cd96275c6e172798"
             level="series">
             <did>
-               <unittitle>Series IV. Edward Welby Pugin</unittitle>
+               <unittitle>Edward Welby Pugin</unittitle>
+               <unitid>Series IV</unitid>
             </did>
             <arrangement id="aspace_d53c405c1a35b692045a820e5f084b98">
                <head>Arrangement</head>
@@ -5428,7 +5432,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_53f244ab3b28b6bcd638ee2699567ba2"
             level="series">
             <did>
-               <unittitle>Series V. Welby family</unittitle>
+               <unittitle>Welby family</unittitle>
+               <unitid>Series V</unitid>
             </did>
             <arrangement id="aspace_e6476f56f8dee7826056c1e57427e14e">
                <head>Arrangement</head>
@@ -5857,16 +5862,12 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
                   <physdesc id="aspace_9768b12ab403a95289b80b13b3077030"> 2 pages 
 
 ;  22 x 19 cm. </physdesc>
-                  <container altrender="/repositories/3/top_containers/1497"
-                             id="aspace_ref161_c1"
-                             label="Mixed Materials"
-                             localtype="box">Pugin 70</container>
                   <container altrender="/repositories/3/top_containers/412373"
                              encodinganalog="archive letter"
-                             id="aspace_ref161_c2"
+                             id="aspace_ref161_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
-                  <container id="aspace_ref161_c3" localtype="folder" parent="aspace_ref161_c2">6</container>
+                  <container id="aspace_ref161_c2" localtype="folder" parent="aspace_ref161_c1">6</container>
                </did>
                <scopecontent id="aspace_e0cd6dba335c202e67adc0ce8fb3398f">
                   <head>Scope and Contents</head>
@@ -6421,16 +6422,12 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
                   <physdesc id="aspace_389f8fb122a56a4c915eead3391d9376"> 3 pages 
 
 ;  23 x 19 cm. </physdesc>
-                  <container altrender="/repositories/3/top_containers/1509"
-                             id="aspace_ref190_c1"
-                             label="Mixed Materials"
-                             localtype="box">Pugin 82</container>
                   <container altrender="/repositories/3/top_containers/412373"
                              encodinganalog="archive letter"
-                             id="aspace_ref190_c2"
+                             id="aspace_ref190_c1"
                              label="Mixed Materials"
                              localtype="box">2</container>
-                  <container id="aspace_ref190_c3" localtype="folder" parent="aspace_ref190_c2">10</container>
+                  <container id="aspace_ref190_c2" localtype="folder" parent="aspace_ref190_c1">10</container>
                </did>
                <scopecontent id="aspace_b302f2d9c411b8a64375a4fbd37766a4">
                   <head>Scope and Contents</head>
@@ -7837,7 +7834,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_08e1d2f2a0b2728e091ad3ba980cc77b"
             level="series">
             <did>
-               <unittitle>Series VI. Ambrose Lisle March Phillipps de Lisle </unittitle>
+               <unittitle>Ambrose Lisle March Phillipps de Lisle </unittitle>
+               <unitid>Series VI</unitid>
             </did>
             <arrangement id="aspace_55a8247671fd531b0ad38ff3cf16e9cc">
                <head>Arrangement</head>
@@ -8732,7 +8730,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_0bc112de29583bf9bcaa2ee5b9ccfac4"
             level="series">
             <did>
-               <unittitle>Series VII. Miscellaneous correspondence and notes</unittitle>
+               <unittitle>Miscellaneous correspondence and notes</unittitle>
+               <unitid>Series VII</unitid>
             </did>
             <arrangement id="aspace_9fdac258072a4e337d2d5ac982568804">
                <head>Arrangement</head>
@@ -10627,7 +10626,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_904c690dbe4c1134050508255ca1fa19"
             level="series">
             <did>
-               <unittitle>Series VIII. Printed material</unittitle>
+               <unittitle>Printed material</unittitle>
+               <unitid>Series VIII</unitid>
             </did>
             <arrangement id="aspace_d0f99a73bb8fd3ea5929062a4d606ba0">
                <head>Arrangement</head>
@@ -10820,7 +10820,8 @@ Hyland, GJ. "Biographical Sketch of Edward Welby Pugin, 1834-75." The Pugin Soci
             id="aspace_697d6797c67a1a35a768140400651832"
             level="series">
             <did>
-               <unittitle>Series IX. Microfilm print outs</unittitle>
+               <unittitle>Microfilm print outs</unittitle>
+               <unitid>Series IX</unitid>
                <container altrender="/repositories/3/top_containers/419099"
                           encodinganalog="flat box (13d 3h 17w)"
                           id="aspace_697d6797c67a1a35a768140400651832_c1"

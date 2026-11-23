@@ -59,10 +59,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-14T18:01:32-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:00:33-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 14, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -196,7 +196,8 @@ She married her wife Cathy Courtney in 2015.</p>
             id="aspace_cadc55cc865f832a678b4d5aa36ccbd7"
             level="series">
             <did>
-               <unittitle>Series I. Production</unittitle>
+               <unittitle>Production</unittitle>
+               <unitid>Series I</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="2001">2001</fromdate>
@@ -592,7 +593,8 @@ She married her wife Cathy Courtney in 2015.</p>
             id="aspace_46b6371ebeaf6d20f5e9fb2837e2373a"
             level="series">
             <did>
-               <unittitle>Series II. Paintings</unittitle>
+               <unittitle>Paintings</unittitle>
+               <unitid>Series II</unitid>
                <unitdatestructured altrender="circa 2002-2003"
                                    label="creation"
                                    unitdatetype="inclusive">
@@ -4749,7 +4751,8 @@ She married her wife Cathy Courtney in 2015.</p>
             id="aspace_6be11f3df15c5060296bfebcda46a30e"
             level="series">
             <did>
-               <unittitle>Series III. Exhibition</unittitle>
+               <unittitle>Exhibition</unittitle>
+               <unitid>Series III</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="2001">2001</fromdate>

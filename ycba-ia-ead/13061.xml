@@ -65,10 +65,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-17T18:00:59-05:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:02:31-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday February 17, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -166,7 +166,8 @@
             id="aspace_b22ea9110f95d720776864a8f6bb971b"
             level="series">
             <did>
-               <unittitle>Series I. Articles and reports</unittitle>
+               <unittitle>Articles and reports</unittitle>
+               <unitid>Series I</unitid>
             </did>
             <scopecontent id="aspace_9bdabb55cd9941ee1f7d4ef283ccdf81">
                <head>Scope and Contents</head>
@@ -917,7 +918,8 @@
             id="aspace_a767d7803a7aa5cceabc93b21af54cb0"
             level="series">
             <did>
-               <unittitle>Series II. Correspondence</unittitle>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series II</unitid>
             </did>
             <arrangement id="aspace_2c3a758d1e9c133ad2dc463ad3903ea3">
                <head>Arrangement</head>
@@ -990,7 +992,8 @@
             id="aspace_a616363a3b4615da3804d0fb873e6efc"
             level="series">
             <did>
-               <unittitle>Series III. Printed material</unittitle>
+               <unittitle>Printed material</unittitle>
+               <unitid>Series III</unitid>
             </did>
             <arrangement id="aspace_a936c04d0fd68b28b904ef1a94e1bd1f">
                <head>Arrangement</head>

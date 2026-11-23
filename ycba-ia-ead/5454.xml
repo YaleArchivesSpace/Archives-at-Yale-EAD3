@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2025-12-01T18:01:21-05:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:00:50-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday December  1, 2025 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -143,7 +143,8 @@
             id="aspace_a6ce5837324fc1ec228cc5a1db764a58"
             level="series">
             <did>
-               <unittitle>Series I. Paul Mellon Centre for Studies in British Art Newsletters</unittitle>
+               <unittitle>Paul Mellon Centre for Studies in British Art Newsletters</unittitle>
+               <unitid>Series I</unitid>
                <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
                   <quantity>1</quantity>
                   <unittype>Linear Foot</unittype>
@@ -871,7 +872,8 @@
             id="aspace_b91c4dd4fc291c880bf9baaf3f60acca"
             level="series">
             <did>
-               <unittitle>Series II. PMC Notes</unittitle>
+               <unittitle>PMC Notes</unittitle>
+               <unitid>Series II</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="2015">2015</fromdate>

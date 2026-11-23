@@ -73,10 +73,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-02-17T18:00:54-05:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:02:23-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace yale-rebased-v3.3.1</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday February 17, 2026 at 18:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -284,7 +284,8 @@
             id="aspace_fc3f8be8aa0c3d6fa98cdbde356348e2"
             level="series">
             <did>
-               <unittitle>Series I. Correspondence</unittitle>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1805">1805</fromdate>
@@ -3391,7 +3392,8 @@ The second letter opens "Dear Sister," and advises the recipient to ask "aunt" t
             id="ref250"
             level="series">
             <did>
-               <unittitle>Series II. Henry Chapman Jones</unittitle>
+               <unittitle>Henry Chapman Jones</unittitle>
+               <unitid>Series II</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1862">1862</fromdate>
@@ -3573,7 +3575,8 @@ The second letter opens "Dear Sister," and advises the recipient to ask "aunt" t
             id="aspace_f988ab80c37bc771ad1afb688f992a10"
             level="series">
             <did>
-               <unittitle>Series III. Sydney Langford Jones</unittitle>
+               <unittitle>Sydney Langford Jones</unittitle>
+               <unitid>Series III</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1895">1895</fromdate>
@@ -3745,7 +3748,8 @@ The second letter opens "Dear Sister," and advises the recipient to ask "aunt" t
             id="aspace_e9655ba667669f762d27caee235ae995"
             level="series">
             <did>
-               <unittitle>Series IV. Arthur Morley Jones</unittitle>
+               <unittitle> Arthur Morley Jones</unittitle>
+               <unitid>Series IV</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1912">1912</fromdate>
@@ -3830,7 +3834,8 @@ The second letter opens "Dear Sister," and advises the recipient to ask "aunt" t
             id="aspace_3a379ffe18065072ecdae9ad2182fc58"
             level="series">
             <did>
-               <unittitle>Series V. Other Jones family members</unittitle>
+               <unittitle>Other Jones family members</unittitle>
+               <unitid>Series V</unitid>
                <unitdatestructured label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1852">1852</fromdate>
@@ -4057,7 +4062,8 @@ The second letter opens "Dear Sister," and advises the recipient to ask "aunt" t
             id="aspace_e62af561ae5dfbc5240b52d8457d442b"
             level="series">
             <did>
-               <unittitle>Series VI. Photographs</unittitle>
+               <unittitle>Photographs</unittitle>
+               <unitid>Series VI</unitid>
                <unitdate label="creation" unitdatetype="inclusive">1916, undated</unitdate>
             </did>
             <scopecontent id="aspace_9a82bbf102a0b86cf1ebb86bec0afd00">
@@ -4948,7 +4954,8 @@ The second letter opens "Dear Sister," and advises the recipient to ask "aunt" t
             id="aspace_9b39d6e046eab7b3a76283b89705f63a"
             level="series">
             <did>
-               <unittitle>Series VII. Realia</unittitle>
+               <unittitle>Realia</unittitle>
+               <unitid>Series VII</unitid>
                <unitdatestructured altrender="1847-1890, undated"
                                    label="creation"
                                    unitdatetype="inclusive">

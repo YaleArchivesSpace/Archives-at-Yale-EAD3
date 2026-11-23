@@ -62,10 +62,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-06T18:01:24-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:03:42-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-07012026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday October  6, 2026 at 18:01</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:03</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -174,7 +174,8 @@
             id="aspace_f1de772af08378a09bdce703d96ec358"
             level="series">
             <did>
-               <unittitle>Series I. Speeches and articles written by Paul Mellon</unittitle>
+               <unittitle>Speeches and articles written by Paul Mellon</unittitle>
+               <unitid>Series I</unitid>
                <unitdatestructured altrender="1930-1996" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1930">1930</fromdate>
@@ -270,7 +271,8 @@
             id="aspace_1381e7a9b00c1faf2b84bebeb1a1a944"
             level="series">
             <did>
-               <unittitle>Series II. Articles featuring or related to Paul Mellon</unittitle>
+               <unittitle>Articles featuring or related to Paul Mellon</unittitle>
+               <unitid>Series II</unitid>
                <unitdatestructured altrender="1985-1997" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1985">1985</fromdate>
@@ -351,7 +353,8 @@
             id="aspace_95c5c589a3915d75da5c8bc252484a33"
             level="series">
             <did>
-               <unittitle>Series III. Photographs</unittitle>
+               <unittitle>Photographs</unittitle>
+               <unitid>Series III</unitid>
                <unitdatestructured altrender="1994, undated" label="creation" unitdatetype="inclusive">
                   <datesingle standarddate="1994">1994, undated</datesingle>
                </unitdatestructured>
@@ -419,7 +422,8 @@
             id="aspace_d71deb2b73c206acc4dfc054d0343650"
             level="series">
             <did>
-               <unittitle>Series IV. Obituaries and memorials</unittitle>
+               <unittitle>Obituaries and memorials</unittitle>
+               <unitid>Series IV</unitid>
                <unitdatestructured altrender="1999" label="creation" unitdatetype="inclusive">
                   <datesingle standarddate="1999">1999</datesingle>
                </unitdatestructured>
@@ -545,7 +549,8 @@
             id="aspace_f6a83cba450c0aabfdd725007e1c408d"
             level="series">
             <did>
-               <unittitle>Series V. Posthumous writings and speeches about Paul Mellon</unittitle>
+               <unittitle>Posthumous writings and speeches about Paul Mellon</unittitle>
+               <unitid>Series V</unitid>
                <unitdatestructured altrender="1999-2007" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1999">1999</fromdate>
@@ -731,7 +736,8 @@
             id="aspace_4bb37d75fe5cd2e4749e4d796ca9b244"
             level="series">
             <did>
-               <unittitle>Series VI. Paul Mellon, Restricted</unittitle>
+               <unittitle>Paul Mellon, Restricted</unittitle>
+               <unitid>Series VI</unitid>
                <unitdatestructured altrender="undated, 1972-1998"
                                    label="creation"
                                    unitdatetype="inclusive">

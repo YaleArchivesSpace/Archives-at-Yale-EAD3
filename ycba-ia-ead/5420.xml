@@ -66,10 +66,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-13T18:03:18-05:00</eventdatetime>
+            <eventdatetime>2026-11-23T18:00:57-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday November 13, 2026 at 18:03</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -142,7 +142,8 @@
             id="aspace_4b6fcf36acbbc95ad7e388a6efec6a67"
             level="series">
             <did>
-               <unittitle>Series I. Public Communications</unittitle>
+               <unittitle>Public Communications</unittitle>
+               <unitid>Series I</unitid>
                <unitdatestructured altrender="1964–2025" label="creation" unitdatetype="inclusive">
                   <daterange>
                      <fromdate standarddate="1964">1964</fromdate>
