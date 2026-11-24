@@ -74,10 +74,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-16T18:01:13-05:00</eventdatetime>
+            <eventdatetime>2026-11-24T18:00:50-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 18:01</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 24, 2026 at 18:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -134774,27 +134774,6 @@
                                    parent="aspace_ee776245c78b9742f59c7445dcde9f21_c1">1</container>
                      </did>
                   </c>
-                  <c altrender="/repositories/4/archival_objects/3218725"
-                     id="aspace_de6ed9333a498b836e7a03c2cf317baf"
-                     level="file">
-                     <did>
-                        <unittitle>Africa Office Copies</unittitle>
-                        <unitdatestructured altrender="1969–1972" label="creation" unitdatetype="inclusive">
-                           <daterange>
-                              <fromdate standarddate="1969">1969</fromdate>
-                              <todate standarddate="1972">1972</todate>
-                           </daterange>
-                        </unitdatestructured>
-                        <container altrender="/repositories/4/top_containers/349856 /locations/9"
-                                   containerid="39002052076172"
-                                   id="aspace_de6ed9333a498b836e7a03c2cf317baf_c1"
-                                   label="Mixed Materials"
-                                   localtype="box">213.17.50</container>
-                        <container id="aspace_de6ed9333a498b836e7a03c2cf317baf_c2"
-                                   localtype="folder"
-                                   parent="aspace_de6ed9333a498b836e7a03c2cf317baf_c1">1</container>
-                     </did>
-                  </c>
                   <c altrender="/repositories/4/archival_objects/3218727"
                      id="aspace_557eda0a1964c4e5ecf82d0c5a6f9bb7"
                      level="file">
@@ -140858,6 +140837,27 @@
                         <container id="aspace_f6e4c3acfbb3bca3d412d357c7d0c72b_c2"
                                    localtype="folder"
                                    parent="aspace_f6e4c3acfbb3bca3d412d357c7d0c72b_c1">11</container>
+                     </did>
+                  </c>
+                  <c altrender="/repositories/4/archival_objects/3218725"
+                     id="aspace_de6ed9333a498b836e7a03c2cf317baf"
+                     level="file">
+                     <did>
+                        <unittitle>Asia Office Copies</unittitle>
+                        <unitdatestructured altrender="1969–1972" label="creation" unitdatetype="inclusive">
+                           <daterange>
+                              <fromdate standarddate="1969">1969</fromdate>
+                              <todate standarddate="1972">1972</todate>
+                           </daterange>
+                        </unitdatestructured>
+                        <container altrender="/repositories/4/top_containers/349856 /locations/9"
+                                   containerid="39002052076172"
+                                   id="aspace_de6ed9333a498b836e7a03c2cf317baf_c1"
+                                   label="Mixed Materials"
+                                   localtype="box">213.17.50</container>
+                        <container id="aspace_de6ed9333a498b836e7a03c2cf317baf_c2"
+                                   localtype="folder"
+                                   parent="aspace_de6ed9333a498b836e7a03c2cf317baf_c1">1</container>
                      </did>
                   </c>
                   <c altrender="/repositories/4/archival_objects/3218819"
