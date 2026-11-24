@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-16T20:00:06-04:00</eventdatetime>
+            <eventdatetime>2026-11-23T20:00:28-05:00</eventdatetime>
             <agenttype value="machine"/>
-            <agent>ArchivesSpace v3.3.1-yale-prod-10142026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Friday October 16, 2026 at 20:00</eventdescription>
+            <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -133109,6 +133109,10 @@
                   <did>
                      <unittitle>Interview: RS on WCPN, Performance Today, Requiem for Nuclear Arms</unittitle>
                      <unitid>52</unitid>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiocassette</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="20 Nov 1988" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1988-11-20">20 Nov 1988</datesingle>
                      </unitdatestructured>
@@ -133117,11 +133121,19 @@
                                 id="aspace_s13b405.d0e79564_c1"
                                 label="Mixed Materials"
                                 localtype="box">405</container>
+                     <container id="aspace_s13b405.d0e79564_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b405.d0e79564_c1">39002132460628</container>
                   </did>
                   <scopecontent id="aspace_2c7264bd6935ec82e21444f7c40afcd0">
                      <head>Scope and Contents</head>
                      <p>Robert Shaw, Kathleen Cerveny</p>
                   </scopecontent>
+                  <accessrestrict id="aspace_a3659cbac09435291943cc8143a6ffec"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Restricted audio cassette. Reach out to Access Services staff for more information on access and use.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/6/archival_objects/2425544"
                   id="aspace_s13b405.d0e79577"
@@ -133129,6 +133141,10 @@
                   <did>
                      <unittitle>Interview: RS on WOSU, Columbus, OH</unittitle>
                      <unitid>55</unitid>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiocassette</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="20 Oct 1994" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1994-10-20">20 Oct 1994</datesingle>
                      </unitdatestructured>
@@ -133137,6 +133153,9 @@
                                 id="aspace_s13b405.d0e79577_c1"
                                 label="Mixed Materials"
                                 localtype="box">405</container>
+                     <container id="aspace_s13b405.d0e79577_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b405.d0e79577_c1">39002132460636</container>
                   </did>
                   <scopecontent id="aspace_39cd251dac6c7b27fce7dc34ce4f3c47">
                      <head>Scope and Contents</head>
