@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-23T20:00:28-05:00</eventdatetime>
+            <eventdatetime>2026-11-24T20:00:50-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 23, 2026 at 20:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 24, 2026 at 20:00</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -138842,6 +138842,10 @@
                         </title>
                      </unittitle>
                      <unitid>314A</unitid>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiocassette</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="5 Nov 1994" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1994-11-05">5 Nov 1994</datesingle>
                      </unitdatestructured>
@@ -138850,11 +138854,19 @@
                                 id="aspace_s13b420.d0e83342_c1"
                                 label="Mixed Materials"
                                 localtype="box">420</container>
+                     <container id="aspace_s13b420.d0e83342_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b420.d0e83342_c1">39002132460644</container>
                   </did>
                   <scopecontent id="aspace_07c2ee08f2c865f9a8b2872ee2d96d2d">
                      <head>Scope and Contents</head>
                      <p>ASO</p>
                   </scopecontent>
+                  <accessrestrict id="aspace_d4a063f2c1941536d919d8abd39d4c48"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Restricted fragile audio cassette. Please consult Access Services staff for information about access and use.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/6/archival_objects/2425810"
                   id="aspace_s13b420.d0e83357"
@@ -138864,6 +138876,10 @@
                            <part>Elijah</part>
                         </title> (continued)</unittitle>
                      <unitid>314B</unitid>
+                     <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                        <quantity>1</quantity>
+                        <unittype>Audiocassette</unittype>
+                     </physdescstructured>
                      <unitdatestructured altrender="5 Nov 1994" label="creation" unitdatetype="inclusive">
                         <datesingle standarddate="1994-11-05">5 Nov 1994</datesingle>
                      </unitdatestructured>
@@ -138872,11 +138888,19 @@
                                 id="aspace_s13b420.d0e83357_c1"
                                 label="Mixed Materials"
                                 localtype="box">420</container>
+                     <container id="aspace_s13b420.d0e83357_c2"
+                                localtype="item_barcode"
+                                parent="aspace_s13b420.d0e83357_c1">39002132460651</container>
                   </did>
                   <scopecontent id="aspace_a3ed48c36339f6bfd08244c97c3185d5">
                      <head>Scope and Contents</head>
                      <p>ASO</p>
                   </scopecontent>
+                  <accessrestrict id="aspace_be7c223d526f531ad764e10b85fa45a6"
+                                  localtype="RestrictedFragileSpecColl">
+                     <head>Conditions Governing Access</head>
+                     <p>Restricted fragile audiocasette. Please consult Access Services staff for information regarding access and use.</p>
+                  </accessrestrict>
                </c>
                <c altrender="/repositories/6/archival_objects/2425811"
                   id="aspace_s13b420.d0e83373"
