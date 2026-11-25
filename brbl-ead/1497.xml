@@ -42,7 +42,7 @@
                <p>Boxes: ART-11</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="30">30</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1455">1,455</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="32">32</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="1462">1,462</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -72,10 +72,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-17T23:02:46-05:00</eventdatetime>
+            <eventdatetime>2026-11-24T23:02:06-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 17, 2026 at 23:02</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 24, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -2562,6 +2562,64 @@
                           daotype="unknown"
                           href="https://collections.library.yale.edu/catalog/33920494"
                           identifier="oid:33920494"
+                          linktitle="[Front]"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Watercolor ( November 15, 1911 Vogue cover)</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/11/digital_objects/368486">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33922126"
+                          identifier="oid:33922126"
+                          linktitle="5 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33922127/full/!150,150/0/default.jpg"
+                          identifier="oid:33922126"
+                          linktitle="5 images"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33922126"
+                          identifier="oid:33922126"
+                          linktitle="5 images"
+                          linkrole="text-html"
+                          show="new"/>
+                     <descriptivenote>
+                        <p>Watercolor ( November 15, 1911 Vogue cover)</p>
+                     </descriptivenote>
+                  </daoset>
+                  <daoset altrender="/repositories/11/digital_objects/368488">
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/manifests/33922132"
+                          identifier="oid:33922132"
+                          linktitle="2 images"
+                          linkrole="text-json"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/iiif/2/33922133/full/!150,150/0/default.jpg"
+                          identifier="oid:33922132"
+                          linktitle="[Front]"
+                          linkrole="image-thumbnail"
+                          show="embed"/>
+                     <dao actuate="onrequest"
+                          audience="external"
+                          daotype="unknown"
+                          href="https://collections.library.yale.edu/catalog/33922132"
+                          identifier="oid:33922132"
                           linktitle="[Front]"
                           linkrole="text-html"
                           show="new"/>

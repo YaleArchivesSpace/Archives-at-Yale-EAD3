@@ -45,7 +45,7 @@
                <p>Boxes: 71-74, 77-78, 81, 81a-82, 84, 86, 89-90, 98, 128-130, 135, 157-167, 175, 178a, 187, 193-195</p>
             </controlnote>
             <controlnote localtype="digital">
-               <p>This collection contains <num localtype="objects" altrender="1698">1,698</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="27863">27,863</num> digital files.</p>
+               <p>This collection contains <num localtype="objects" altrender="1699">1,699</num> published digital objects. And those objects are comprised of <num localtype="files" altrender="27874">27,874</num> digital files.</p>
             </controlnote>
          </notestmt>
       </filedesc>
@@ -78,10 +78,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-12T23:00:38-05:00</eventdatetime>
+            <eventdatetime>2026-11-24T23:01:31-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Thursday November 12, 2026 at 23:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Tuesday November 24, 2026 at 23:01</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -109177,6 +109177,35 @@
                            <container id="aspace_ref3598_c2"
                                       localtype="folder"
                                       parent="aspace_ref3598_c1">2897-98</container>
+                           <daoset altrender="/repositories/11/digital_objects/368487">
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/manifests/33922114"
+                                   identifier="oid:33922114"
+                                   linktitle="11 images"
+                                   linkrole="text-json"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/iiif/2/33922115/full/!150,150/0/default.jpg"
+                                   identifier="oid:33922114"
+                                   linktitle="11 images"
+                                   linkrole="image-thumbnail"
+                                   show="embed"/>
+                              <dao actuate="onrequest"
+                                   audience="external"
+                                   daotype="unknown"
+                                   href="https://collections.library.yale.edu/catalog/33922114"
+                                   identifier="oid:33922114"
+                                   linktitle="11 images"
+                                   linkrole="text-html"
+                                   show="new"/>
+                              <descriptivenote>
+                                 <p>Charter and confirmation for Robert Fisher</p>
+                              </descriptivenote>
+                           </daoset>
                         </did>
                      </c>
                      <c altrender="/repositories/11/archival_objects/294843"
