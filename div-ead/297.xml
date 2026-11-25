@@ -76,10 +76,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-11-16T18:00:43-05:00</eventdatetime>
+            <eventdatetime>2026-11-25T18:02:23-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Monday November 16, 2026 at 18:00</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 25, 2026 at 18:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -39737,6 +39737,9 @@ In 1923, the family returned to the U.S. on furlough, allowing both Grace and Ch
                   level="file">
                   <did>
                      <unittitle>Bound ms.: "The Sacred Trust of Civilization" by George W. Shepherd</unittitle>
+                     <unitdatestructured label="creation" unitdatetype="inclusive">
+                        <datesingle standarddate="1944">1944</datesingle>
+                     </unitdatestructured>
                      <container altrender="/repositories/4/top_containers/11968 /locations/2"
                                 containerid="39002034904152"
                                 id="aspace_ref1883_c1"
