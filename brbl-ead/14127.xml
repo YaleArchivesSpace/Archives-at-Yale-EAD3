@@ -67,10 +67,10 @@
       <maintenancehistory>
          <maintenanceevent>
             <eventtype value="derived"/>
-            <eventdatetime>2026-10-28T23:05:43-04:00</eventdatetime>
+            <eventdatetime>2026-11-25T23:02:30-05:00</eventdatetime>
             <agenttype value="machine"/>
             <agent>ArchivesSpace v3.3.1-yale-prod-10282026</agent>
-            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday October 28, 2026 at 23:05</eventdescription>
+            <eventdescription>This finding aid was produced using ArchivesSpace on Wednesday November 25, 2026 at 23:02</eventdescription>
          </maintenanceevent>
       </maintenancehistory>
    </control>
@@ -144,16 +144,21 @@
       </processinfo>
       <controlaccess>
          <subject source="lcsh">
-            <part localtype="topical">Kibbutz haggadot</part>
+            <part localtype="topical">Kibbutz haggadot -- Texts.</part>
+         </subject>
+         <subject source="lcsh">
+            <part localtype="topical">Secular haggadot -- Texts.</part>
          </subject>
          <subject source="lcsh">
             <part localtype="topical">Haggadot</part>
             <part localtype="genre_form">Adaptations</part>
          </subject>
          <subject source="lcsh">
-            <part localtype="topical">Passover</part>
-            <part localtype="function">Prayers and devotions</part>
+            <part localtype="topical">Seder -- Liturgy -- Texts</part>
          </subject>
+         <genreform source="lcgft">
+            <part localtype="genre_form">Haggadot (Liturgical books)</part>
+         </genreform>
       </controlaccess>
       <dsc>
          <c altrender="/repositories/11/archival_objects/4056079"
